@@ -7,6 +7,15 @@ on:
 
   # ── Trigger manually from the Actions tab ────────────────────────────────
   workflow_dispatch:
+    inputs:
+      serial_from:
+        description: "Start serial_no (e.g. 1). Leave blank to process all."
+        required: false
+        default: ""
+      serial_to:
+        description: "End serial_no (e.g. 45). Leave blank to process all."
+        required: false
+        default: ""
 
   # ── Trigger on every push to main ────────────────────────────────────────
   push:
@@ -60,6 +69,8 @@ jobs:
       - name: Run scraper
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SERIAL_FROM: ${{ github.event.inputs.serial_from }}
+          SERIAL_TO:   ${{ github.event.inputs.serial_to }}
         run: |
           # Use the token-based remote so git push works inside the job
           git remote set-url origin \
