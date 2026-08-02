@@ -39,7 +39,7 @@ REQUEST_TIMEOUT = 15          # seconds per HTTP request
 RETRY_ATTEMPTS  = 3           # retries on transient errors
 RETRY_DELAY     = 5           # seconds between retries
 POLITE_DELAY    = 1.0         # seconds between episode requests
-COMMIT_EVERY    = 2           # commit & push after every N completed anime
+COMMIT_EVERY    = 1          # commit & push after every N completed anime
 SEPARATOR       = "=" * 70
 
 
