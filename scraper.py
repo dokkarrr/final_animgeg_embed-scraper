@@ -221,6 +221,16 @@ def main() -> None:
 
     print(f"Found {len(all_entries)} anime entries.\n")
 
+    # ── Optional serial_no range filter (set via workflow_dispatch inputs) ─
+    serial_from = os.environ.get("SERIAL_FROM", "").strip()
+    serial_to   = os.environ.get("SERIAL_TO",   "").strip()
+
+    if serial_from or serial_to:
+        lo = int(serial_from) if serial_from else 1
+        hi = int(serial_to)   if serial_to   else all_entries[-1].get("serial_no", len(all_entries))
+        all_entries = [e for e in all_entries if lo <= e.get("serial_no", 0) <= hi]
+        print(f"Range filter applied: serial_no {lo} → {hi}  ({len(all_entries)} entries)\n")
+
     completed = load_progress()
     print(f"Already completed: {len(completed)} series.\n")
 
