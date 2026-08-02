@@ -1,0 +1,75 @@
+name: Scrape AnimeGG (all series)
+
+on:
+  # ── Run weekly on Sunday at 00:00 UTC ────────────────────────────────────
+  schedule:
+    - cron: "0 0 * * 0"
+
+  # ── Trigger manually from the Actions tab ────────────────────────────────
+  workflow_dispatch:
+
+  # ── Trigger on every push to main ────────────────────────────────────────
+  push:
+    branches:
+      - main
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 720   # 12 hours — large catalogues can take a while
+
+    permissions:
+      contents: write      # required to commit output JSON back to the repo
+
+    steps:
+      # 1. Check out the repo
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Fetch full history so git push works correctly
+          fetch-depth: 0
+
+      # 2. Configure git identity for auto-commits made by the scraper
+      - name: Configure git identity
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      # 3. Set up Python
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # 4. Cache pip dependencies
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      # 5. Install dependencies
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # 6. Run the scraper
+      #    The script commits & pushes automatically every 2 anime.
+      #    GITHUB_TOKEN is passed as an env var so git push is authenticated.
+      - name: Run scraper
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Use the token-based remote so git push works inside the job
+          git remote set-url origin \
+            https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
+          python scraper.py
+
+      # 7. Final safety commit — in case the script exits between auto-commits
+      - name: Final commit (safety net)
+        run: |
+          git add output/
+          git diff --cached --quiet || \
+            git commit -m "chore: final safety commit [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git push || true
