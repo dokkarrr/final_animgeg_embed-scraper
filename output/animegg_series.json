@@ -26904,5 +26904,933 @@
         "url": "https://www.animegg.org/fairy-tail-2014-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 13,
+    "title": "Dragon Ball",
+    "animegg_url": "https://www.animegg.org/series/dragon-ball",
+    "mal_url": "https://myanimelist.net/anime/223",
+    "mal_id": 223,
+    "total_ep": 153,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/9063",
+        "dub": "https://www.animegg.org/embed/9064",
+        "url": "https://www.animegg.org/dragon-ball-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/9061",
+        "dub": "https://www.animegg.org/embed/9062",
+        "url": "https://www.animegg.org/dragon-ball-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/9059",
+        "dub": "https://www.animegg.org/embed/9060",
+        "url": "https://www.animegg.org/dragon-ball-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/9065",
+        "dub": "https://www.animegg.org/embed/9066",
+        "url": "https://www.animegg.org/dragon-ball-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/9057",
+        "dub": "https://www.animegg.org/embed/9058",
+        "url": "https://www.animegg.org/dragon-ball-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/9069",
+        "dub": "https://www.animegg.org/embed/9070",
+        "url": "https://www.animegg.org/dragon-ball-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/9067",
+        "dub": "https://www.animegg.org/embed/9068",
+        "url": "https://www.animegg.org/dragon-ball-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/9071",
+        "dub": "https://www.animegg.org/embed/9072",
+        "url": "https://www.animegg.org/dragon-ball-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/9075",
+        "dub": "https://www.animegg.org/embed/9076",
+        "url": "https://www.animegg.org/dragon-ball-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/9073",
+        "dub": "https://www.animegg.org/embed/9074",
+        "url": "https://www.animegg.org/dragon-ball-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/9077",
+        "dub": "https://www.animegg.org/embed/9078",
+        "url": "https://www.animegg.org/dragon-ball-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/9079",
+        "dub": "https://www.animegg.org/embed/9080",
+        "url": "https://www.animegg.org/dragon-ball-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/9081",
+        "dub": "https://www.animegg.org/embed/9082",
+        "url": "https://www.animegg.org/dragon-ball-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/9083",
+        "dub": "https://www.animegg.org/embed/9084",
+        "url": "https://www.animegg.org/dragon-ball-episode-14"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/9085",
+        "dub": "https://www.animegg.org/embed/9086",
+        "url": "https://www.animegg.org/dragon-ball-episode-15"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/9087",
+        "dub": "https://www.animegg.org/embed/9088",
+        "url": "https://www.animegg.org/dragon-ball-episode-16"
+      },
+      {
+        "ep": 17,
+        "sub": "https://www.animegg.org/embed/9089",
+        "dub": "https://www.animegg.org/embed/9090",
+        "url": "https://www.animegg.org/dragon-ball-episode-17"
+      },
+      {
+        "ep": 18,
+        "sub": "https://www.animegg.org/embed/9091",
+        "dub": "https://www.animegg.org/embed/9092",
+        "url": "https://www.animegg.org/dragon-ball-episode-18"
+      },
+      {
+        "ep": 19,
+        "sub": "https://www.animegg.org/embed/9093",
+        "dub": "https://www.animegg.org/embed/9094",
+        "url": "https://www.animegg.org/dragon-ball-episode-19"
+      },
+      {
+        "ep": 20,
+        "sub": "https://www.animegg.org/embed/9095",
+        "dub": "https://www.animegg.org/embed/9096",
+        "url": "https://www.animegg.org/dragon-ball-episode-20"
+      },
+      {
+        "ep": 21,
+        "sub": "https://www.animegg.org/embed/9099",
+        "dub": "https://www.animegg.org/embed/9100",
+        "url": "https://www.animegg.org/dragon-ball-episode-21"
+      },
+      {
+        "ep": 22,
+        "sub": "https://www.animegg.org/embed/9097",
+        "dub": "https://www.animegg.org/embed/9098",
+        "url": "https://www.animegg.org/dragon-ball-episode-22"
+      },
+      {
+        "ep": 23,
+        "sub": "https://www.animegg.org/embed/9101",
+        "dub": "https://www.animegg.org/embed/9102",
+        "url": "https://www.animegg.org/dragon-ball-episode-23"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/9103",
+        "dub": "https://www.animegg.org/embed/9104",
+        "url": "https://www.animegg.org/dragon-ball-episode-24"
+      },
+      {
+        "ep": 25,
+        "sub": "https://www.animegg.org/embed/9105",
+        "dub": "https://www.animegg.org/embed/9106",
+        "url": "https://www.animegg.org/dragon-ball-episode-25"
+      },
+      {
+        "ep": 26,
+        "sub": "https://www.animegg.org/embed/9107",
+        "dub": "https://www.animegg.org/embed/9108",
+        "url": "https://www.animegg.org/dragon-ball-episode-26"
+      },
+      {
+        "ep": 27,
+        "sub": "https://www.animegg.org/embed/9109",
+        "dub": "https://www.animegg.org/embed/9110",
+        "url": "https://www.animegg.org/dragon-ball-episode-27"
+      },
+      {
+        "ep": 28,
+        "sub": "https://www.animegg.org/embed/9111",
+        "dub": "https://www.animegg.org/embed/9112",
+        "url": "https://www.animegg.org/dragon-ball-episode-28"
+      },
+      {
+        "ep": 29,
+        "sub": "https://www.animegg.org/embed/9113",
+        "dub": "https://www.animegg.org/embed/9114",
+        "url": "https://www.animegg.org/dragon-ball-episode-29"
+      },
+      {
+        "ep": 30,
+        "sub": "https://www.animegg.org/embed/9115",
+        "dub": "https://www.animegg.org/embed/9116",
+        "url": "https://www.animegg.org/dragon-ball-episode-30"
+      },
+      {
+        "ep": 31,
+        "sub": "https://www.animegg.org/embed/9117",
+        "dub": "https://www.animegg.org/embed/9118",
+        "url": "https://www.animegg.org/dragon-ball-episode-31"
+      },
+      {
+        "ep": 32,
+        "sub": "https://www.animegg.org/embed/9119",
+        "dub": "https://www.animegg.org/embed/9120",
+        "url": "https://www.animegg.org/dragon-ball-episode-32"
+      },
+      {
+        "ep": 33,
+        "sub": "https://www.animegg.org/embed/9121",
+        "dub": "https://www.animegg.org/embed/9122",
+        "url": "https://www.animegg.org/dragon-ball-episode-33"
+      },
+      {
+        "ep": 34,
+        "sub": "https://www.animegg.org/embed/9123",
+        "dub": "https://www.animegg.org/embed/9124",
+        "url": "https://www.animegg.org/dragon-ball-episode-34"
+      },
+      {
+        "ep": 35,
+        "sub": "https://www.animegg.org/embed/9125",
+        "dub": "https://www.animegg.org/embed/9126",
+        "url": "https://www.animegg.org/dragon-ball-episode-35"
+      },
+      {
+        "ep": 36,
+        "sub": "https://www.animegg.org/embed/9127",
+        "dub": "https://www.animegg.org/embed/9128",
+        "url": "https://www.animegg.org/dragon-ball-episode-36"
+      },
+      {
+        "ep": 37,
+        "sub": "https://www.animegg.org/embed/9129",
+        "dub": "https://www.animegg.org/embed/9130",
+        "url": "https://www.animegg.org/dragon-ball-episode-37"
+      },
+      {
+        "ep": 38,
+        "sub": "https://www.animegg.org/embed/9133",
+        "dub": "https://www.animegg.org/embed/9134",
+        "url": "https://www.animegg.org/dragon-ball-episode-38"
+      },
+      {
+        "ep": 39,
+        "sub": "https://www.animegg.org/embed/9131",
+        "dub": "https://www.animegg.org/embed/9132",
+        "url": "https://www.animegg.org/dragon-ball-episode-39"
+      },
+      {
+        "ep": 40,
+        "sub": "https://www.animegg.org/embed/9135",
+        "dub": "https://www.animegg.org/embed/9136",
+        "url": "https://www.animegg.org/dragon-ball-episode-40"
+      },
+      {
+        "ep": 41,
+        "sub": "https://www.animegg.org/embed/9139",
+        "dub": "https://www.animegg.org/embed/9140",
+        "url": "https://www.animegg.org/dragon-ball-episode-41"
+      },
+      {
+        "ep": 42,
+        "sub": "https://www.animegg.org/embed/9137",
+        "dub": "https://www.animegg.org/embed/9138",
+        "url": "https://www.animegg.org/dragon-ball-episode-42"
+      },
+      {
+        "ep": 43,
+        "sub": "https://www.animegg.org/embed/9141",
+        "dub": "https://www.animegg.org/embed/9142",
+        "url": "https://www.animegg.org/dragon-ball-episode-43"
+      },
+      {
+        "ep": 44,
+        "sub": "https://www.animegg.org/embed/9143",
+        "dub": "https://www.animegg.org/embed/9144",
+        "url": "https://www.animegg.org/dragon-ball-episode-44"
+      },
+      {
+        "ep": 45,
+        "sub": "https://www.animegg.org/embed/9147",
+        "dub": "https://www.animegg.org/embed/9148",
+        "url": "https://www.animegg.org/dragon-ball-episode-45"
+      },
+      {
+        "ep": 46,
+        "sub": "https://www.animegg.org/embed/9145",
+        "dub": "https://www.animegg.org/embed/9146",
+        "url": "https://www.animegg.org/dragon-ball-episode-46"
+      },
+      {
+        "ep": 47,
+        "sub": "https://www.animegg.org/embed/9149",
+        "dub": "https://www.animegg.org/embed/9150",
+        "url": "https://www.animegg.org/dragon-ball-episode-47"
+      },
+      {
+        "ep": 48,
+        "sub": "https://www.animegg.org/embed/9151",
+        "dub": "https://www.animegg.org/embed/9152",
+        "url": "https://www.animegg.org/dragon-ball-episode-48"
+      },
+      {
+        "ep": 49,
+        "sub": "https://www.animegg.org/embed/9155",
+        "dub": "https://www.animegg.org/embed/9156",
+        "url": "https://www.animegg.org/dragon-ball-episode-49"
+      },
+      {
+        "ep": 50,
+        "sub": "https://www.animegg.org/embed/9153",
+        "dub": "https://www.animegg.org/embed/9154",
+        "url": "https://www.animegg.org/dragon-ball-episode-50"
+      },
+      {
+        "ep": 51,
+        "sub": "https://www.animegg.org/embed/9157",
+        "dub": "https://www.animegg.org/embed/9158",
+        "url": "https://www.animegg.org/dragon-ball-episode-51"
+      },
+      {
+        "ep": 52,
+        "sub": "https://www.animegg.org/embed/9159",
+        "dub": "https://www.animegg.org/embed/9160",
+        "url": "https://www.animegg.org/dragon-ball-episode-52"
+      },
+      {
+        "ep": 53,
+        "sub": "https://www.animegg.org/embed/9161",
+        "dub": "https://www.animegg.org/embed/9162",
+        "url": "https://www.animegg.org/dragon-ball-episode-53"
+      },
+      {
+        "ep": 54,
+        "sub": "https://www.animegg.org/embed/9163",
+        "dub": "https://www.animegg.org/embed/9164",
+        "url": "https://www.animegg.org/dragon-ball-episode-54"
+      },
+      {
+        "ep": 55,
+        "sub": "https://www.animegg.org/embed/9165",
+        "dub": "https://www.animegg.org/embed/9166",
+        "url": "https://www.animegg.org/dragon-ball-episode-55"
+      },
+      {
+        "ep": 56,
+        "sub": "https://www.animegg.org/embed/9167",
+        "dub": "https://www.animegg.org/embed/9168",
+        "url": "https://www.animegg.org/dragon-ball-episode-56"
+      },
+      {
+        "ep": 57,
+        "sub": "https://www.animegg.org/embed/9169",
+        "dub": "https://www.animegg.org/embed/9170",
+        "url": "https://www.animegg.org/dragon-ball-episode-57"
+      },
+      {
+        "ep": 58,
+        "sub": "https://www.animegg.org/embed/9173",
+        "dub": "https://www.animegg.org/embed/9174",
+        "url": "https://www.animegg.org/dragon-ball-episode-58"
+      },
+      {
+        "ep": 59,
+        "sub": "https://www.animegg.org/embed/9171",
+        "dub": "https://www.animegg.org/embed/9172",
+        "url": "https://www.animegg.org/dragon-ball-episode-59"
+      },
+      {
+        "ep": 60,
+        "sub": "https://www.animegg.org/embed/9175",
+        "dub": "https://www.animegg.org/embed/9176",
+        "url": "https://www.animegg.org/dragon-ball-episode-60"
+      },
+      {
+        "ep": 61,
+        "sub": "https://www.animegg.org/embed/9177",
+        "dub": "https://www.animegg.org/embed/9178",
+        "url": "https://www.animegg.org/dragon-ball-episode-61"
+      },
+      {
+        "ep": 62,
+        "sub": "https://www.animegg.org/embed/9179",
+        "dub": "https://www.animegg.org/embed/9180",
+        "url": "https://www.animegg.org/dragon-ball-episode-62"
+      },
+      {
+        "ep": 63,
+        "sub": "https://www.animegg.org/embed/9183",
+        "dub": "https://www.animegg.org/embed/9184",
+        "url": "https://www.animegg.org/dragon-ball-episode-63"
+      },
+      {
+        "ep": 64,
+        "sub": "https://www.animegg.org/embed/9181",
+        "dub": "https://www.animegg.org/embed/9182",
+        "url": "https://www.animegg.org/dragon-ball-episode-64"
+      },
+      {
+        "ep": 65,
+        "sub": "https://www.animegg.org/embed/9185",
+        "dub": "https://www.animegg.org/embed/9186",
+        "url": "https://www.animegg.org/dragon-ball-episode-65"
+      },
+      {
+        "ep": 66,
+        "sub": "https://www.animegg.org/embed/9187",
+        "dub": "https://www.animegg.org/embed/9188",
+        "url": "https://www.animegg.org/dragon-ball-episode-66"
+      },
+      {
+        "ep": 67,
+        "sub": "https://www.animegg.org/embed/9189",
+        "dub": "https://www.animegg.org/embed/9190",
+        "url": "https://www.animegg.org/dragon-ball-episode-67"
+      },
+      {
+        "ep": 68,
+        "sub": "https://www.animegg.org/embed/9191",
+        "dub": "https://www.animegg.org/embed/9192",
+        "url": "https://www.animegg.org/dragon-ball-episode-68"
+      },
+      {
+        "ep": 69,
+        "sub": "https://www.animegg.org/embed/9193",
+        "dub": "https://www.animegg.org/embed/9194",
+        "url": "https://www.animegg.org/dragon-ball-episode-69"
+      },
+      {
+        "ep": 70,
+        "sub": "https://www.animegg.org/embed/9197",
+        "dub": "https://www.animegg.org/embed/9198",
+        "url": "https://www.animegg.org/dragon-ball-episode-70"
+      },
+      {
+        "ep": 71,
+        "sub": "https://www.animegg.org/embed/9195",
+        "dub": "https://www.animegg.org/embed/9196",
+        "url": "https://www.animegg.org/dragon-ball-episode-71"
+      },
+      {
+        "ep": 72,
+        "sub": "https://www.animegg.org/embed/9199",
+        "dub": "https://www.animegg.org/embed/9200",
+        "url": "https://www.animegg.org/dragon-ball-episode-72"
+      },
+      {
+        "ep": 73,
+        "sub": "https://www.animegg.org/embed/9201",
+        "dub": "https://www.animegg.org/embed/9202",
+        "url": "https://www.animegg.org/dragon-ball-episode-73"
+      },
+      {
+        "ep": 74,
+        "sub": "https://www.animegg.org/embed/9203",
+        "dub": "https://www.animegg.org/embed/9204",
+        "url": "https://www.animegg.org/dragon-ball-episode-74"
+      },
+      {
+        "ep": 75,
+        "sub": "https://www.animegg.org/embed/9205",
+        "dub": "https://www.animegg.org/embed/9206",
+        "url": "https://www.animegg.org/dragon-ball-episode-75"
+      },
+      {
+        "ep": 76,
+        "sub": "https://www.animegg.org/embed/9207",
+        "dub": "https://www.animegg.org/embed/9208",
+        "url": "https://www.animegg.org/dragon-ball-episode-76"
+      },
+      {
+        "ep": 77,
+        "sub": "https://www.animegg.org/embed/9209",
+        "dub": "https://www.animegg.org/embed/9210",
+        "url": "https://www.animegg.org/dragon-ball-episode-77"
+      },
+      {
+        "ep": 78,
+        "sub": "https://www.animegg.org/embed/9211",
+        "dub": "https://www.animegg.org/embed/9212",
+        "url": "https://www.animegg.org/dragon-ball-episode-78"
+      },
+      {
+        "ep": 79,
+        "sub": "https://www.animegg.org/embed/9213",
+        "dub": "https://www.animegg.org/embed/9214",
+        "url": "https://www.animegg.org/dragon-ball-episode-79"
+      },
+      {
+        "ep": 80,
+        "sub": "https://www.animegg.org/embed/9215",
+        "dub": "https://www.animegg.org/embed/9216",
+        "url": "https://www.animegg.org/dragon-ball-episode-80"
+      },
+      {
+        "ep": 81,
+        "sub": "https://www.animegg.org/embed/9219",
+        "dub": "https://www.animegg.org/embed/9220",
+        "url": "https://www.animegg.org/dragon-ball-episode-81"
+      },
+      {
+        "ep": 82,
+        "sub": "https://www.animegg.org/embed/9221",
+        "dub": "https://www.animegg.org/embed/9222",
+        "url": "https://www.animegg.org/dragon-ball-episode-82"
+      },
+      {
+        "ep": 83,
+        "sub": "https://www.animegg.org/embed/9217",
+        "dub": "https://www.animegg.org/embed/9218",
+        "url": "https://www.animegg.org/dragon-ball-episode-83"
+      },
+      {
+        "ep": 84,
+        "sub": "https://www.animegg.org/embed/9223",
+        "dub": "https://www.animegg.org/embed/9224",
+        "url": "https://www.animegg.org/dragon-ball-episode-84"
+      },
+      {
+        "ep": 85,
+        "sub": "https://www.animegg.org/embed/9225",
+        "dub": "https://www.animegg.org/embed/9226",
+        "url": "https://www.animegg.org/dragon-ball-episode-85"
+      },
+      {
+        "ep": 86,
+        "sub": "https://www.animegg.org/embed/9227",
+        "dub": "https://www.animegg.org/embed/9228",
+        "url": "https://www.animegg.org/dragon-ball-episode-86"
+      },
+      {
+        "ep": 87,
+        "sub": "https://www.animegg.org/embed/9229",
+        "dub": "https://www.animegg.org/embed/9230",
+        "url": "https://www.animegg.org/dragon-ball-episode-87"
+      },
+      {
+        "ep": 88,
+        "sub": "https://www.animegg.org/embed/9231",
+        "dub": "https://www.animegg.org/embed/9232",
+        "url": "https://www.animegg.org/dragon-ball-episode-88"
+      },
+      {
+        "ep": 89,
+        "sub": "https://www.animegg.org/embed/9233",
+        "dub": "https://www.animegg.org/embed/9234",
+        "url": "https://www.animegg.org/dragon-ball-episode-89"
+      },
+      {
+        "ep": 90,
+        "sub": "https://www.animegg.org/embed/9235",
+        "dub": "https://www.animegg.org/embed/9236",
+        "url": "https://www.animegg.org/dragon-ball-episode-90"
+      },
+      {
+        "ep": 91,
+        "sub": "https://www.animegg.org/embed/9237",
+        "dub": "https://www.animegg.org/embed/9238",
+        "url": "https://www.animegg.org/dragon-ball-episode-91"
+      },
+      {
+        "ep": 92,
+        "sub": "https://www.animegg.org/embed/9241",
+        "dub": "https://www.animegg.org/embed/9242",
+        "url": "https://www.animegg.org/dragon-ball-episode-92"
+      },
+      {
+        "ep": 93,
+        "sub": "https://www.animegg.org/embed/9239",
+        "dub": "https://www.animegg.org/embed/9240",
+        "url": "https://www.animegg.org/dragon-ball-episode-93"
+      },
+      {
+        "ep": 94,
+        "sub": "https://www.animegg.org/embed/9243",
+        "dub": "https://www.animegg.org/embed/9244",
+        "url": "https://www.animegg.org/dragon-ball-episode-94"
+      },
+      {
+        "ep": 95,
+        "sub": "https://www.animegg.org/embed/9245",
+        "dub": "https://www.animegg.org/embed/9246",
+        "url": "https://www.animegg.org/dragon-ball-episode-95"
+      },
+      {
+        "ep": 96,
+        "sub": "https://www.animegg.org/embed/9247",
+        "dub": "https://www.animegg.org/embed/9248",
+        "url": "https://www.animegg.org/dragon-ball-episode-96"
+      },
+      {
+        "ep": 97,
+        "sub": "https://www.animegg.org/embed/9249",
+        "dub": "https://www.animegg.org/embed/9250",
+        "url": "https://www.animegg.org/dragon-ball-episode-97"
+      },
+      {
+        "ep": 98,
+        "sub": "https://www.animegg.org/embed/9251",
+        "dub": "https://www.animegg.org/embed/9252",
+        "url": "https://www.animegg.org/dragon-ball-episode-98"
+      },
+      {
+        "ep": 99,
+        "sub": "https://www.animegg.org/embed/9253",
+        "dub": "https://www.animegg.org/embed/9254",
+        "url": "https://www.animegg.org/dragon-ball-episode-99"
+      },
+      {
+        "ep": 100,
+        "sub": "https://www.animegg.org/embed/9255",
+        "dub": "https://www.animegg.org/embed/9256",
+        "url": "https://www.animegg.org/dragon-ball-episode-100"
+      },
+      {
+        "ep": 101,
+        "sub": "https://www.animegg.org/embed/9261",
+        "dub": "https://www.animegg.org/embed/9262",
+        "url": "https://www.animegg.org/dragon-ball-episode-101"
+      },
+      {
+        "ep": 102,
+        "sub": "https://www.animegg.org/embed/9257",
+        "dub": "https://www.animegg.org/embed/9258",
+        "url": "https://www.animegg.org/dragon-ball-episode-102"
+      },
+      {
+        "ep": 103,
+        "sub": "https://www.animegg.org/embed/9259",
+        "dub": "https://www.animegg.org/embed/9260",
+        "url": "https://www.animegg.org/dragon-ball-episode-103"
+      },
+      {
+        "ep": 104,
+        "sub": "https://www.animegg.org/embed/9263",
+        "dub": "https://www.animegg.org/embed/9264",
+        "url": "https://www.animegg.org/dragon-ball-episode-104"
+      },
+      {
+        "ep": 105,
+        "sub": "https://www.animegg.org/embed/9265",
+        "dub": "https://www.animegg.org/embed/9266",
+        "url": "https://www.animegg.org/dragon-ball-episode-105"
+      },
+      {
+        "ep": 106,
+        "sub": "https://www.animegg.org/embed/9267",
+        "dub": "https://www.animegg.org/embed/9268",
+        "url": "https://www.animegg.org/dragon-ball-episode-106"
+      },
+      {
+        "ep": 107,
+        "sub": "https://www.animegg.org/embed/9269",
+        "dub": "https://www.animegg.org/embed/9270",
+        "url": "https://www.animegg.org/dragon-ball-episode-107"
+      },
+      {
+        "ep": 108,
+        "sub": "https://www.animegg.org/embed/9271",
+        "dub": "https://www.animegg.org/embed/9272",
+        "url": "https://www.animegg.org/dragon-ball-episode-108"
+      },
+      {
+        "ep": 109,
+        "sub": "https://www.animegg.org/embed/9273",
+        "dub": "https://www.animegg.org/embed/9274",
+        "url": "https://www.animegg.org/dragon-ball-episode-109"
+      },
+      {
+        "ep": 110,
+        "sub": "https://www.animegg.org/embed/9275",
+        "dub": "https://www.animegg.org/embed/9276",
+        "url": "https://www.animegg.org/dragon-ball-episode-110"
+      },
+      {
+        "ep": 111,
+        "sub": "https://www.animegg.org/embed/9277",
+        "dub": "https://www.animegg.org/embed/9278",
+        "url": "https://www.animegg.org/dragon-ball-episode-111"
+      },
+      {
+        "ep": 112,
+        "sub": "https://www.animegg.org/embed/9279",
+        "dub": "https://www.animegg.org/embed/9280",
+        "url": "https://www.animegg.org/dragon-ball-episode-112"
+      },
+      {
+        "ep": 113,
+        "sub": "https://www.animegg.org/embed/9281",
+        "dub": "https://www.animegg.org/embed/9282",
+        "url": "https://www.animegg.org/dragon-ball-episode-113"
+      },
+      {
+        "ep": 114,
+        "sub": "https://www.animegg.org/embed/9283",
+        "dub": "https://www.animegg.org/embed/9284",
+        "url": "https://www.animegg.org/dragon-ball-episode-114"
+      },
+      {
+        "ep": 115,
+        "sub": "https://www.animegg.org/embed/9285",
+        "dub": "https://www.animegg.org/embed/9286",
+        "url": "https://www.animegg.org/dragon-ball-episode-115"
+      },
+      {
+        "ep": 116,
+        "sub": "https://www.animegg.org/embed/9287",
+        "dub": "https://www.animegg.org/embed/9288",
+        "url": "https://www.animegg.org/dragon-ball-episode-116"
+      },
+      {
+        "ep": 117,
+        "sub": "https://www.animegg.org/embed/9289",
+        "dub": "https://www.animegg.org/embed/9290",
+        "url": "https://www.animegg.org/dragon-ball-episode-117"
+      },
+      {
+        "ep": 118,
+        "sub": "https://www.animegg.org/embed/9291",
+        "dub": "https://www.animegg.org/embed/9292",
+        "url": "https://www.animegg.org/dragon-ball-episode-118"
+      },
+      {
+        "ep": 119,
+        "sub": "https://www.animegg.org/embed/9293",
+        "dub": "https://www.animegg.org/embed/9294",
+        "url": "https://www.animegg.org/dragon-ball-episode-119"
+      },
+      {
+        "ep": 120,
+        "sub": "https://www.animegg.org/embed/9295",
+        "dub": "https://www.animegg.org/embed/9296",
+        "url": "https://www.animegg.org/dragon-ball-episode-120"
+      },
+      {
+        "ep": 121,
+        "sub": "https://www.animegg.org/embed/9297",
+        "dub": "https://www.animegg.org/embed/9298",
+        "url": "https://www.animegg.org/dragon-ball-episode-121"
+      },
+      {
+        "ep": 122,
+        "sub": "https://www.animegg.org/embed/9299",
+        "dub": "https://www.animegg.org/embed/9300",
+        "url": "https://www.animegg.org/dragon-ball-episode-122"
+      },
+      {
+        "ep": 123,
+        "sub": "https://www.animegg.org/embed/9301",
+        "dub": "https://www.animegg.org/embed/9302",
+        "url": "https://www.animegg.org/dragon-ball-episode-123"
+      },
+      {
+        "ep": 124,
+        "sub": "https://www.animegg.org/embed/9303",
+        "dub": "https://www.animegg.org/embed/9304",
+        "url": "https://www.animegg.org/dragon-ball-episode-124"
+      },
+      {
+        "ep": 125,
+        "sub": "https://www.animegg.org/embed/9305",
+        "dub": "https://www.animegg.org/embed/9306",
+        "url": "https://www.animegg.org/dragon-ball-episode-125"
+      },
+      {
+        "ep": 126,
+        "sub": "https://www.animegg.org/embed/9307",
+        "dub": "https://www.animegg.org/embed/9308",
+        "url": "https://www.animegg.org/dragon-ball-episode-126"
+      },
+      {
+        "ep": 127,
+        "sub": "https://www.animegg.org/embed/9309",
+        "dub": "https://www.animegg.org/embed/9310",
+        "url": "https://www.animegg.org/dragon-ball-episode-127"
+      },
+      {
+        "ep": 128,
+        "sub": "https://www.animegg.org/embed/9311",
+        "dub": "https://www.animegg.org/embed/9312",
+        "url": "https://www.animegg.org/dragon-ball-episode-128"
+      },
+      {
+        "ep": 129,
+        "sub": "https://www.animegg.org/embed/9313",
+        "dub": "https://www.animegg.org/embed/9314",
+        "url": "https://www.animegg.org/dragon-ball-episode-129"
+      },
+      {
+        "ep": 130,
+        "sub": "https://www.animegg.org/embed/9315",
+        "dub": "https://www.animegg.org/embed/9316",
+        "url": "https://www.animegg.org/dragon-ball-episode-130"
+      },
+      {
+        "ep": 131,
+        "sub": "https://www.animegg.org/embed/9361",
+        "dub": "https://www.animegg.org/embed/9362",
+        "url": "https://www.animegg.org/dragon-ball-episode-131"
+      },
+      {
+        "ep": 132,
+        "sub": "https://www.animegg.org/embed/9321",
+        "dub": "https://www.animegg.org/embed/9322",
+        "url": "https://www.animegg.org/dragon-ball-episode-132"
+      },
+      {
+        "ep": 133,
+        "sub": "https://www.animegg.org/embed/9317",
+        "dub": "https://www.animegg.org/embed/9318",
+        "url": "https://www.animegg.org/dragon-ball-episode-133"
+      },
+      {
+        "ep": 134,
+        "sub": "https://www.animegg.org/embed/9323",
+        "dub": "https://www.animegg.org/embed/9324",
+        "url": "https://www.animegg.org/dragon-ball-episode-134"
+      },
+      {
+        "ep": 135,
+        "sub": "https://www.animegg.org/embed/9319",
+        "dub": "https://www.animegg.org/embed/9320",
+        "url": "https://www.animegg.org/dragon-ball-episode-135"
+      },
+      {
+        "ep": 136,
+        "sub": "https://www.animegg.org/embed/9327",
+        "dub": "https://www.animegg.org/embed/9328",
+        "url": "https://www.animegg.org/dragon-ball-episode-136"
+      },
+      {
+        "ep": 137,
+        "sub": "https://www.animegg.org/embed/9325",
+        "dub": "https://www.animegg.org/embed/9326",
+        "url": "https://www.animegg.org/dragon-ball-episode-137"
+      },
+      {
+        "ep": 138,
+        "sub": "https://www.animegg.org/embed/9335",
+        "dub": "https://www.animegg.org/embed/9336",
+        "url": "https://www.animegg.org/dragon-ball-episode-138"
+      },
+      {
+        "ep": 139,
+        "sub": "https://www.animegg.org/embed/9329",
+        "dub": "https://www.animegg.org/embed/9330",
+        "url": "https://www.animegg.org/dragon-ball-episode-139"
+      },
+      {
+        "ep": 140,
+        "sub": "https://www.animegg.org/embed/9331",
+        "dub": "https://www.animegg.org/embed/9332",
+        "url": "https://www.animegg.org/dragon-ball-episode-140"
+      },
+      {
+        "ep": 141,
+        "sub": "https://www.animegg.org/embed/9333",
+        "dub": "https://www.animegg.org/embed/9334",
+        "url": "https://www.animegg.org/dragon-ball-episode-141"
+      },
+      {
+        "ep": 142,
+        "sub": "https://www.animegg.org/embed/9339",
+        "dub": "https://www.animegg.org/embed/9340",
+        "url": "https://www.animegg.org/dragon-ball-episode-142"
+      },
+      {
+        "ep": 143,
+        "sub": "https://www.animegg.org/embed/9341",
+        "dub": "https://www.animegg.org/embed/9342",
+        "url": "https://www.animegg.org/dragon-ball-episode-143"
+      },
+      {
+        "ep": 144,
+        "sub": "https://www.animegg.org/embed/9343",
+        "dub": "https://www.animegg.org/embed/9344",
+        "url": "https://www.animegg.org/dragon-ball-episode-144"
+      },
+      {
+        "ep": 145,
+        "sub": "https://www.animegg.org/embed/9337",
+        "dub": "https://www.animegg.org/embed/9338",
+        "url": "https://www.animegg.org/dragon-ball-episode-145"
+      },
+      {
+        "ep": 146,
+        "sub": "https://www.animegg.org/embed/9345",
+        "dub": "https://www.animegg.org/embed/9346",
+        "url": "https://www.animegg.org/dragon-ball-episode-146"
+      },
+      {
+        "ep": 147,
+        "sub": "https://www.animegg.org/embed/9355",
+        "dub": "https://www.animegg.org/embed/9356",
+        "url": "https://www.animegg.org/dragon-ball-episode-147"
+      },
+      {
+        "ep": 148,
+        "sub": "https://www.animegg.org/embed/9347",
+        "dub": "https://www.animegg.org/embed/9348",
+        "url": "https://www.animegg.org/dragon-ball-episode-148"
+      },
+      {
+        "ep": 149,
+        "sub": "https://www.animegg.org/embed/9349",
+        "dub": "https://www.animegg.org/embed/9350",
+        "url": "https://www.animegg.org/dragon-ball-episode-149"
+      },
+      {
+        "ep": 150,
+        "sub": "https://www.animegg.org/embed/9351",
+        "dub": "https://www.animegg.org/embed/9352",
+        "url": "https://www.animegg.org/dragon-ball-episode-150"
+      },
+      {
+        "ep": 151,
+        "sub": "https://www.animegg.org/embed/9353",
+        "dub": "https://www.animegg.org/embed/9354",
+        "url": "https://www.animegg.org/dragon-ball-episode-151"
+      },
+      {
+        "ep": 152,
+        "sub": "https://www.animegg.org/embed/9357",
+        "dub": "https://www.animegg.org/embed/9358",
+        "url": "https://www.animegg.org/dragon-ball-episode-152"
+      },
+      {
+        "ep": 153,
+        "sub": "https://www.animegg.org/embed/9359",
+        "dub": "https://www.animegg.org/embed/9360",
+        "url": "https://www.animegg.org/dragon-ball-episode-153"
+      }
+    ]
   }
 ]
