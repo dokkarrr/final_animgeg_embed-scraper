@@ -115914,5 +115914,51 @@
         "url": "https://www.animegg.org/to-aru-majutsu-no-index-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 274,
+    "title": "One Punch Man Specials",
+    "animegg_url": "https://www.animegg.org/series/one-punch-man-specials",
+    "mal_url": "https://myanimelist.net/anime/31772",
+    "mal_id": 31772,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/80470",
+        "dub": null,
+        "url": "https://www.animegg.org/one-punch-man-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/80884",
+        "dub": "https://www.animegg.org/embed/80895",
+        "url": "https://www.animegg.org/one-punch-man-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/81277",
+        "dub": "https://www.animegg.org/embed/81304",
+        "url": "https://www.animegg.org/one-punch-man-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/81740",
+        "dub": null,
+        "url": "https://www.animegg.org/one-punch-man-specials-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/82048",
+        "dub": null,
+        "url": "https://www.animegg.org/one-punch-man-specials-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/82513",
+        "dub": null,
+        "url": "https://www.animegg.org/one-punch-man-specials-episode-6"
+      }
+    ]
   }
 ]
