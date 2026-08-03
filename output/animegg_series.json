@@ -116114,5 +116114,87 @@
         "url": "https://www.animegg.org/baki-the-grappler-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 276,
+    "title": "Boku dake ga Inai Machi",
+    "animegg_url": "https://www.animegg.org/series/boku-dake-ga-inai-machi",
+    "mal_url": "https://myanimelist.net/anime/31043",
+    "mal_id": 31043,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/80581",
+        "dub": "https://www.animegg.org/embed/80584",
+        "url": "https://www.animegg.org/boku-dake-ga-inai-machi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/80675",
+        "dub": null,
+        "url": "https://www.animegg.org/boku-dake-ga-inai-machi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/80780",
+        "dub": null,
+        "url": "https://www.animegg.org/boku-dake-ga-inai-machi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/80888",
+        "dub": null,
+        "url": "https://www.animegg.org/boku-dake-ga-inai-machi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/80984",
+        "dub": null,
+        "url": "https://www.animegg.org/boku-dake-ga-inai-machi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/81081",
+        "dub": null,
+        "url": "https://www.animegg.org/boku-dake-ga-inai-machi-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/81178",
+        "dub": null,
+        "url": "https://www.animegg.org/boku-dake-ga-inai-machi-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/81280",
+        "dub": null,
+        "url": "https://www.animegg.org/boku-dake-ga-inai-machi-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/81389",
+        "dub": null,
+        "url": "https://www.animegg.org/boku-dake-ga-inai-machi-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/81475",
+        "dub": null,
+        "url": "https://www.animegg.org/boku-dake-ga-inai-machi-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/81578",
+        "dub": null,
+        "url": "https://www.animegg.org/boku-dake-ga-inai-machi-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/81669",
+        "dub": null,
+        "url": "https://www.animegg.org/boku-dake-ga-inai-machi-episode-12"
+      }
+    ]
   }
 ]
