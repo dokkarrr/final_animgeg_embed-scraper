@@ -1632,5 +1632,93 @@
         "url": "https://www.animegg.org/daa-daa-daa-episode-78"
       }
     ]
+  },
+  {
+    "serial_no": 516,
+    "title": "Horimiya",
+    "animegg_url": "https://www.animegg.org/series/horimiya",
+    "mal_url": "https://myanimelist.net/anime/42897",
+    "mal_id": 42897,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/100452",
+        "dub": null,
+        "url": "https://www.animegg.org/horimiya-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/100548",
+        "dub": null,
+        "url": "https://www.animegg.org/horimiya-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/100622",
+        "dub": null,
+        "url": "https://www.animegg.org/horimiya-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/100696",
+        "dub": null,
+        "url": "https://www.animegg.org/horimiya-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/100766",
+        "dub": null,
+        "url": "https://www.animegg.org/horimiya-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/100836",
+        "dub": null,
+        "url": "https://www.animegg.org/horimiya-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/100911",
+        "dub": null,
+        "url": "https://www.animegg.org/horimiya-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/100988",
+        "dub": null,
+        "url": "https://www.animegg.org/horimiya-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/101060",
+        "dub": null,
+        "url": "https://www.animegg.org/horimiya-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/101132",
+        "dub": null,
+        "url": "https://www.animegg.org/horimiya-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/101203",
+        "dub": null,
+        "url": "https://www.animegg.org/horimiya-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/101273",
+        "dub": null,
+        "url": "https://www.animegg.org/horimiya-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/101340",
+        "dub": null,
+        "url": "https://www.animegg.org/horimiya-episode-13"
+      }
+    ]
   }
 ]
