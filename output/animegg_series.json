@@ -57362,5 +57362,87 @@
         "url": "https://www.animegg.org/yu-gi-oh-5d-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 60,
+    "title": "Tokyo Ghoul",
+    "animegg_url": "https://www.animegg.org/series/tokyo-kushu",
+    "mal_url": "https://myanimelist.net/anime/22319",
+    "mal_id": 22319,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/46120",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-kushu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/46121",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-kushu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/46122",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-ghoul-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/46123",
+        "dub": "https://www.animegg.org/embed/46124",
+        "url": "https://www.animegg.org/tokyo-ghoul-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/46125",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-ghoul-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/46126",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-ghoul-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/46127",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-ghoul-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/46128",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-ghoul-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/46129",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-ghoul-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/46130",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-ghoul-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/46131",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-ghoul-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/46132",
+        "dub": "https://www.animegg.org/embed/46133",
+        "url": "https://www.animegg.org/tokyo-ghoul-episode-12"
+      }
+    ]
   }
 ]
