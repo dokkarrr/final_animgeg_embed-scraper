@@ -52932,5 +52932,87 @@
         "url": "https://www.animegg.org/fullmetal-alchemist-episode-51"
       }
     ]
+  },
+  {
+    "serial_no": 52,
+    "title": "One Punch Man 2nd Season",
+    "animegg_url": "https://www.animegg.org/series/one-punch-man-2nd-season",
+    "mal_url": "https://myanimelist.net/anime/34134",
+    "mal_id": 34134,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/95805",
+        "dub": null,
+        "url": "https://www.animegg.org/one-punch-man-2nd-season-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/95749",
+        "dub": null,
+        "url": "https://www.animegg.org/one-punch-man-2nd-season-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/95690",
+        "dub": null,
+        "url": "https://www.animegg.org/one-punch-man-2nd-season-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/95618",
+        "dub": "https://www.animegg.org/embed/95621",
+        "url": "https://www.animegg.org/one-punch-man-2nd-season-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/95486",
+        "dub": null,
+        "url": "https://www.animegg.org/one-punch-man-2nd-season-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/95417",
+        "dub": null,
+        "url": "https://www.animegg.org/one-punch-man-2nd-season-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/95357",
+        "dub": null,
+        "url": "https://www.animegg.org/one-punch-man-2nd-season-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/95294",
+        "dub": null,
+        "url": "https://www.animegg.org/one-punch-man-2nd-season-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/95237",
+        "dub": null,
+        "url": "https://www.animegg.org/one-punch-man-2nd-season-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/95174",
+        "dub": null,
+        "url": "https://www.animegg.org/one-punch-man-2nd-season-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/95105",
+        "dub": null,
+        "url": "https://www.animegg.org/one-punch-man-2nd-season-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/95048",
+        "dub": "https://www.animegg.org/embed/95050",
+        "url": "https://www.animegg.org/one-punch-man-2nd-season-episode-1"
+      }
+    ]
   }
 ]
