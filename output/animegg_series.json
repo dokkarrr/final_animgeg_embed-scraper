@@ -111670,5 +111670,39 @@
         "url": "https://www.animegg.org/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-zoku-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 254,
+    "title": "Futari Ecchi",
+    "animegg_url": "https://www.animegg.org/series/futari-ecchi",
+    "mal_url": "https://myanimelist.net/anime/382",
+    "mal_id": 382,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/50190",
+        "dub": null,
+        "url": "https://www.animegg.org/futari-ecchi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/50191",
+        "dub": null,
+        "url": "https://www.animegg.org/futari-ecchi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/50192",
+        "dub": null,
+        "url": "https://www.animegg.org/futari-ecchi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/50193",
+        "dub": null,
+        "url": "https://www.animegg.org/futari-ecchi-episode-4"
+      }
+    ]
   }
 ]
