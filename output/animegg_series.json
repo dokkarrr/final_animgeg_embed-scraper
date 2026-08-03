@@ -123532,5 +123532,87 @@
         "url": "https://www.animegg.org/kuroshitsuji-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 308,
+    "title": "Hagure Yuusha no Estetica",
+    "animegg_url": "https://www.animegg.org/series/hagure-yuusha-no-estetica",
+    "mal_url": "https://myanimelist.net/anime/13161",
+    "mal_id": 13161,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/14807",
+        "dub": "https://www.animegg.org/embed/14808",
+        "url": "https://www.animegg.org/hagure-yuusha-no-estetica-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/14805",
+        "dub": "https://www.animegg.org/embed/14806",
+        "url": "https://www.animegg.org/hagure-yuusha-no-estetica-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/14801",
+        "dub": "https://www.animegg.org/embed/14802",
+        "url": "https://www.animegg.org/hagure-yuusha-no-estetica-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/14799",
+        "dub": "https://www.animegg.org/embed/14800",
+        "url": "https://www.animegg.org/hagure-yuusha-no-estetica-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/14803",
+        "dub": "https://www.animegg.org/embed/14804",
+        "url": "https://www.animegg.org/hagure-yuusha-no-estetica-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/14811",
+        "dub": "https://www.animegg.org/embed/14812",
+        "url": "https://www.animegg.org/hagure-yuusha-no-estetica-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/14809",
+        "dub": "https://www.animegg.org/embed/14810",
+        "url": "https://www.animegg.org/hagure-yuusha-no-estetica-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/14813",
+        "dub": "https://www.animegg.org/embed/14814",
+        "url": "https://www.animegg.org/hagure-yuusha-no-estetica-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/14815",
+        "dub": "https://www.animegg.org/embed/14816",
+        "url": "https://www.animegg.org/hagure-yuusha-no-estetica-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/14817",
+        "dub": "https://www.animegg.org/embed/14818",
+        "url": "https://www.animegg.org/hagure-yuusha-no-estetica-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/14819",
+        "dub": "https://www.animegg.org/embed/14820",
+        "url": "https://www.animegg.org/hagure-yuusha-no-estetica-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/14821",
+        "dub": "https://www.animegg.org/embed/14822",
+        "url": "https://www.animegg.org/hagure-yuusha-no-estetica-episode-12"
+      }
+    ]
   }
 ]
