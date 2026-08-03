@@ -120802,5 +120802,87 @@
         "url": "https://www.animegg.org/shirokuma-cafe-episode-50"
       }
     ]
+  },
+  {
+    "serial_no": 296,
+    "title": "Manyuu Hikenchou",
+    "animegg_url": "https://www.animegg.org/series/manyuu-hikenchou",
+    "mal_url": "https://myanimelist.net/anime/10465",
+    "mal_id": 10465,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/23086",
+        "dub": null,
+        "url": "https://www.animegg.org/manyuu-hikenchou-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/23082",
+        "dub": null,
+        "url": "https://www.animegg.org/manyuu-hikenchou-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/23081",
+        "dub": null,
+        "url": "https://www.animegg.org/manyuu-hikenchou-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/23079",
+        "dub": null,
+        "url": "https://www.animegg.org/manyuu-hikenchou-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/23080",
+        "dub": null,
+        "url": "https://www.animegg.org/manyuu-hikenchou-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/23083",
+        "dub": null,
+        "url": "https://www.animegg.org/manyuu-hikenchou-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/23084",
+        "dub": null,
+        "url": "https://www.animegg.org/manyuu-hikenchou-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/23085",
+        "dub": null,
+        "url": "https://www.animegg.org/manyuu-hikenchou-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/23087",
+        "dub": null,
+        "url": "https://www.animegg.org/manyuu-hikenchou-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/23089",
+        "dub": null,
+        "url": "https://www.animegg.org/manyuu-hikenchou-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/23088",
+        "dub": null,
+        "url": "https://www.animegg.org/manyuu-hikenchou-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/23090",
+        "dub": null,
+        "url": "https://www.animegg.org/manyuu-hikenchou-episode-12"
+      }
+    ]
   }
 ]
