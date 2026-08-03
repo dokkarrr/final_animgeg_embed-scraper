@@ -57444,5 +57444,321 @@
         "url": "https://www.animegg.org/tokyo-ghoul-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 61,
+    "title": "Soul Eater",
+    "animegg_url": "https://www.animegg.org/series/soul-eater",
+    "mal_url": "https://myanimelist.net/anime/3588",
+    "mal_id": 3588,
+    "total_ep": 51,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/76129",
+        "dub": "https://www.animegg.org/embed/76133",
+        "url": "https://www.animegg.org/soul-eater-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/90890",
+        "dub": null,
+        "url": "https://www.animegg.org/soul-eater-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/35956",
+        "dub": "https://www.animegg.org/embed/35957",
+        "url": "https://www.animegg.org/soul-eater-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/35952",
+        "dub": "https://www.animegg.org/embed/35953",
+        "url": "https://www.animegg.org/soul-eater-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/35954",
+        "dub": "https://www.animegg.org/embed/35955",
+        "url": "https://www.animegg.org/soul-eater-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/35964",
+        "dub": "https://www.animegg.org/embed/35965",
+        "url": "https://www.animegg.org/soul-eater-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/35960",
+        "dub": "https://www.animegg.org/embed/35961",
+        "url": "https://www.animegg.org/soul-eater-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/35962",
+        "dub": null,
+        "url": "https://www.animegg.org/soul-eater-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/35968",
+        "dub": "https://www.animegg.org/embed/35969",
+        "url": "https://www.animegg.org/soul-eater-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/35966",
+        "dub": "https://www.animegg.org/embed/35967",
+        "url": "https://www.animegg.org/soul-eater-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/35970",
+        "dub": "https://www.animegg.org/embed/35971",
+        "url": "https://www.animegg.org/soul-eater-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/35972",
+        "dub": "https://www.animegg.org/embed/35973",
+        "url": "https://www.animegg.org/soul-eater-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/35976",
+        "dub": "https://www.animegg.org/embed/35977",
+        "url": "https://www.animegg.org/soul-eater-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/35978",
+        "dub": "https://www.animegg.org/embed/35979",
+        "url": "https://www.animegg.org/soul-eater-episode-14"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/35974",
+        "dub": "https://www.animegg.org/embed/35975",
+        "url": "https://www.animegg.org/soul-eater-episode-15"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/35980",
+        "dub": "https://www.animegg.org/embed/35981",
+        "url": "https://www.animegg.org/soul-eater-episode-16"
+      },
+      {
+        "ep": 17,
+        "sub": "https://www.animegg.org/embed/35984",
+        "dub": "https://www.animegg.org/embed/35985",
+        "url": "https://www.animegg.org/soul-eater-episode-17"
+      },
+      {
+        "ep": 18,
+        "sub": "https://www.animegg.org/embed/35982",
+        "dub": "https://www.animegg.org/embed/35983",
+        "url": "https://www.animegg.org/soul-eater-episode-18"
+      },
+      {
+        "ep": 19,
+        "sub": "https://www.animegg.org/embed/35986",
+        "dub": "https://www.animegg.org/embed/35987",
+        "url": "https://www.animegg.org/soul-eater-episode-19"
+      },
+      {
+        "ep": 20,
+        "sub": "https://www.animegg.org/embed/35988",
+        "dub": "https://www.animegg.org/embed/76136",
+        "url": "https://www.animegg.org/soul-eater-episode-20"
+      },
+      {
+        "ep": 21,
+        "sub": "https://www.animegg.org/embed/35990",
+        "dub": "https://www.animegg.org/embed/35991",
+        "url": "https://www.animegg.org/soul-eater-episode-21"
+      },
+      {
+        "ep": 22,
+        "sub": "https://www.animegg.org/embed/35992",
+        "dub": "https://www.animegg.org/embed/35993",
+        "url": "https://www.animegg.org/soul-eater-episode-22"
+      },
+      {
+        "ep": 23,
+        "sub": "https://www.animegg.org/embed/35994",
+        "dub": "https://www.animegg.org/embed/35995",
+        "url": "https://www.animegg.org/soul-eater-episode-23"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/35998",
+        "dub": "https://www.animegg.org/embed/35999",
+        "url": "https://www.animegg.org/soul-eater-episode-24"
+      },
+      {
+        "ep": 25,
+        "sub": "https://www.animegg.org/embed/35996",
+        "dub": "https://www.animegg.org/embed/35997",
+        "url": "https://www.animegg.org/soul-eater-episode-25"
+      },
+      {
+        "ep": 26,
+        "sub": "https://www.animegg.org/embed/36006",
+        "dub": "https://www.animegg.org/embed/36007",
+        "url": "https://www.animegg.org/soul-eater-episode-26"
+      },
+      {
+        "ep": 27,
+        "sub": "https://www.animegg.org/embed/36004",
+        "dub": "https://www.animegg.org/embed/36005",
+        "url": "https://www.animegg.org/soul-eater-episode-27"
+      },
+      {
+        "ep": 28,
+        "sub": "https://www.animegg.org/embed/36002",
+        "dub": "https://www.animegg.org/embed/36003",
+        "url": "https://www.animegg.org/soul-eater-episode-28"
+      },
+      {
+        "ep": 29,
+        "sub": "https://www.animegg.org/embed/36000",
+        "dub": "https://www.animegg.org/embed/36001",
+        "url": "https://www.animegg.org/soul-eater-episode-29"
+      },
+      {
+        "ep": 30,
+        "sub": "https://www.animegg.org/embed/36008",
+        "dub": "https://www.animegg.org/embed/36009",
+        "url": "https://www.animegg.org/soul-eater-episode-30"
+      },
+      {
+        "ep": 31,
+        "sub": "https://www.animegg.org/embed/36016",
+        "dub": "https://www.animegg.org/embed/36017",
+        "url": "https://www.animegg.org/soul-eater-episode-31"
+      },
+      {
+        "ep": 32,
+        "sub": "https://www.animegg.org/embed/36010",
+        "dub": "https://www.animegg.org/embed/36011",
+        "url": "https://www.animegg.org/soul-eater-episode-32"
+      },
+      {
+        "ep": 33,
+        "sub": "https://www.animegg.org/embed/36014",
+        "dub": "https://www.animegg.org/embed/36015",
+        "url": "https://www.animegg.org/soul-eater-episode-33"
+      },
+      {
+        "ep": 34,
+        "sub": "https://www.animegg.org/embed/36012",
+        "dub": "https://www.animegg.org/embed/36013",
+        "url": "https://www.animegg.org/soul-eater-episode-34"
+      },
+      {
+        "ep": 35,
+        "sub": "https://www.animegg.org/embed/36018",
+        "dub": "https://www.animegg.org/embed/36019",
+        "url": "https://www.animegg.org/soul-eater-episode-35"
+      },
+      {
+        "ep": 36,
+        "sub": "https://www.animegg.org/embed/36022",
+        "dub": "https://www.animegg.org/embed/36023",
+        "url": "https://www.animegg.org/soul-eater-episode-36"
+      },
+      {
+        "ep": 37,
+        "sub": "https://www.animegg.org/embed/36024",
+        "dub": "https://www.animegg.org/embed/36025",
+        "url": "https://www.animegg.org/soul-eater-episode-37"
+      },
+      {
+        "ep": 38,
+        "sub": "https://www.animegg.org/embed/36020",
+        "dub": null,
+        "url": "https://www.animegg.org/soul-eater-episode-38"
+      },
+      {
+        "ep": 39,
+        "sub": "https://www.animegg.org/embed/36026",
+        "dub": "https://www.animegg.org/embed/36027",
+        "url": "https://www.animegg.org/soul-eater-episode-39"
+      },
+      {
+        "ep": 40,
+        "sub": "https://www.animegg.org/embed/36030",
+        "dub": "https://www.animegg.org/embed/36031",
+        "url": "https://www.animegg.org/soul-eater-episode-40"
+      },
+      {
+        "ep": 41,
+        "sub": "https://www.animegg.org/embed/36028",
+        "dub": "https://www.animegg.org/embed/36029",
+        "url": "https://www.animegg.org/soul-eater-episode-41"
+      },
+      {
+        "ep": 42,
+        "sub": "https://www.animegg.org/embed/36034",
+        "dub": "https://www.animegg.org/embed/36035",
+        "url": "https://www.animegg.org/soul-eater-episode-42"
+      },
+      {
+        "ep": 43,
+        "sub": "https://www.animegg.org/embed/36032",
+        "dub": "https://www.animegg.org/embed/36033",
+        "url": "https://www.animegg.org/soul-eater-episode-43"
+      },
+      {
+        "ep": 44,
+        "sub": "https://www.animegg.org/embed/36038",
+        "dub": "https://www.animegg.org/embed/36039",
+        "url": "https://www.animegg.org/soul-eater-episode-44"
+      },
+      {
+        "ep": 45,
+        "sub": "https://www.animegg.org/embed/36036",
+        "dub": "https://www.animegg.org/embed/36037",
+        "url": "https://www.animegg.org/soul-eater-episode-45"
+      },
+      {
+        "ep": 46,
+        "sub": "https://www.animegg.org/embed/36040",
+        "dub": "https://www.animegg.org/embed/36041",
+        "url": "https://www.animegg.org/soul-eater-episode-46"
+      },
+      {
+        "ep": 47,
+        "sub": "https://www.animegg.org/embed/36042",
+        "dub": "https://www.animegg.org/embed/36043",
+        "url": "https://www.animegg.org/soul-eater-episode-47"
+      },
+      {
+        "ep": 48,
+        "sub": "https://www.animegg.org/embed/36046",
+        "dub": "https://www.animegg.org/embed/36047",
+        "url": "https://www.animegg.org/soul-eater-episode-48"
+      },
+      {
+        "ep": 49,
+        "sub": "https://www.animegg.org/embed/36044",
+        "dub": "https://www.animegg.org/embed/36045",
+        "url": "https://www.animegg.org/soul-eater-episode-49"
+      },
+      {
+        "ep": 50,
+        "sub": "https://www.animegg.org/embed/36048",
+        "dub": "https://www.animegg.org/embed/36049",
+        "url": "https://www.animegg.org/soul-eater-episode-50"
+      },
+      {
+        "ep": 51,
+        "sub": "https://www.animegg.org/embed/36050",
+        "dub": "https://www.animegg.org/embed/36051",
+        "url": "https://www.animegg.org/soul-eater-episode-51"
+      }
+    ]
   }
 ]
