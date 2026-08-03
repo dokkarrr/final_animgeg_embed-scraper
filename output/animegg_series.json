@@ -95430,5 +95430,87 @@
         "url": "https://www.animegg.org/gangsta-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 190,
+    "title": "Rakudai Kishi no Cavalry",
+    "animegg_url": "https://www.animegg.org/series/rakudai-kishi-no-cavalry",
+    "mal_url": "https://myanimelist.net/anime/30296",
+    "mal_id": 30296,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/79278",
+        "dub": "https://www.animegg.org/embed/79285",
+        "url": "https://www.animegg.org/rakudai-kishi-no-cavalry-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/79409",
+        "dub": "https://www.animegg.org/embed/79417",
+        "url": "https://www.animegg.org/rakudai-kishi-no-cavalry-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/79519",
+        "dub": "https://www.animegg.org/embed/79520",
+        "url": "https://www.animegg.org/rakudai-kishi-no-cavalry-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/79631",
+        "dub": null,
+        "url": "https://www.animegg.org/rakudai-kishi-no-cavalry-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/79752",
+        "dub": null,
+        "url": "https://www.animegg.org/rakudai-kishi-no-cavalry-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/79815",
+        "dub": null,
+        "url": "https://www.animegg.org/rakudai-kishi-no-cavalry-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/79900",
+        "dub": null,
+        "url": "https://www.animegg.org/rakudai-kishi-no-cavalry-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/80003",
+        "dub": null,
+        "url": "https://www.animegg.org/rakudai-kishi-no-cavalry-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/80101",
+        "dub": null,
+        "url": "https://www.animegg.org/rakudai-kishi-no-cavalry-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/80227",
+        "dub": null,
+        "url": "https://www.animegg.org/rakudai-kishi-no-cavalry-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/80320",
+        "dub": null,
+        "url": "https://www.animegg.org/rakudai-kishi-no-cavalry-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/80417",
+        "dub": null,
+        "url": "https://www.animegg.org/rakudai-kishi-no-cavalry-episode-12"
+      }
+    ]
   }
 ]
