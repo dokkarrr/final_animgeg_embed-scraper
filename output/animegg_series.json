@@ -72096,5 +72096,111 @@
         "url": "https://www.animegg.org/jojos-bizarre-adventure-part-4-diamond-is-unbreakable-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 100,
+    "title": "Shingeki no Kyojin: The Final Season",
+    "animegg_url": "https://www.animegg.org/series/shingeki-no-kyojin-the-final-season",
+    "mal_url": "https://myanimelist.net/anime/40028",
+    "mal_id": 40028,
+    "total_ep": 16,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/100160",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-kyojin-the-final-season-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/100251",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-kyojin-the-final-season-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/100314",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-kyojin-the-final-season-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/100365",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-kyojin-the-final-season-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/100467",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-kyojin-the-final-season-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/100566",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-kyojin-the-final-season-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/100638",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-kyojin-the-final-season-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/100712",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-kyojin-the-final-season-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/100782",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-kyojin-the-final-season-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/100850",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-kyojin-the-final-season-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/100927",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-kyojin-the-final-season-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/101004",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-kyojin-the-final-season-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/101075",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-kyojin-the-final-season-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/101149",
+        "dub": "https://www.animegg.org/embed/101152",
+        "url": "https://www.animegg.org/shingeki-no-kyojin-the-final-season-episode-14"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/101219",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-kyojin-the-final-season-episode-15"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/101286",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-kyojin-the-final-season-episode-16"
+      }
+    ]
   }
 ]
