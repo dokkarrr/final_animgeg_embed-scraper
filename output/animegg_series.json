@@ -110570,5 +110570,87 @@
         "url": "https://www.animegg.org/digimon-frontier-episode-50"
       }
     ]
+  },
+  {
+    "serial_no": 246,
+    "title": "Absolute Duo",
+    "animegg_url": "https://www.animegg.org/series/absolute-duo",
+    "mal_url": "https://myanimelist.net/anime/25397",
+    "mal_id": 25397,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/67862",
+        "dub": "https://www.animegg.org/embed/67882",
+        "url": "https://www.animegg.org/absolute-duo-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/70021",
+        "dub": "https://www.animegg.org/embed/75805",
+        "url": "https://www.animegg.org/absolute-duo-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/73606",
+        "dub": "https://www.animegg.org/embed/73615",
+        "url": "https://www.animegg.org/absolute-duo-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/73722",
+        "dub": "https://www.animegg.org/embed/73738",
+        "url": "https://www.animegg.org/absolute-duo-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/74699",
+        "dub": "https://www.animegg.org/embed/74713",
+        "url": "https://www.animegg.org/absolute-duo-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/74838",
+        "dub": "https://www.animegg.org/embed/74857",
+        "url": "https://www.animegg.org/absolute-duo-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/74956",
+        "dub": "https://www.animegg.org/embed/74975",
+        "url": "https://www.animegg.org/absolute-duo-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/75079",
+        "dub": "https://www.animegg.org/embed/75087",
+        "url": "https://www.animegg.org/absolute-duo-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/75249",
+        "dub": "https://www.animegg.org/embed/75272",
+        "url": "https://www.animegg.org/absolute-duo-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/75469",
+        "dub": "https://www.animegg.org/embed/75485",
+        "url": "https://www.animegg.org/absolute-duo-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/75663",
+        "dub": "https://www.animegg.org/embed/75684",
+        "url": "https://www.animegg.org/absolute-duo-episode"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/75781",
+        "dub": "https://www.animegg.org/embed/75801",
+        "url": "https://www.animegg.org/absolute-duo-episode-12"
+      }
+    ]
   }
 ]
