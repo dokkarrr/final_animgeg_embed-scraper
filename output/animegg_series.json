@@ -108746,5 +108746,87 @@
         "url": "https://www.animegg.org/gate-jieitai-kanochi-nite-kaku-tatakaeri---enryuu-hen-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 237,
+    "title": "Gakusen Toshi Asterisk",
+    "animegg_url": "https://www.animegg.org/series/gakusen-toshi-asterisk",
+    "mal_url": "https://myanimelist.net/anime/30544",
+    "mal_id": 30544,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/79275",
+        "dub": "https://www.animegg.org/embed/79276",
+        "url": "https://www.animegg.org/gakusen-toshi-asterisk-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/79400",
+        "dub": null,
+        "url": "https://www.animegg.org/gakusen-toshi-asterisk-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/79514",
+        "dub": null,
+        "url": "https://www.animegg.org/gakusen-toshi-asterisk-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/79623",
+        "dub": null,
+        "url": "https://www.animegg.org/gakusen-toshi-asterisk-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/79717",
+        "dub": null,
+        "url": "https://www.animegg.org/gakusen-toshi-asterisk-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/79804",
+        "dub": null,
+        "url": "https://www.animegg.org/gakusen-toshi-asterisk-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/79892",
+        "dub": null,
+        "url": "https://www.animegg.org/gakusen-toshi-asterisk-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/79993",
+        "dub": null,
+        "url": "https://www.animegg.org/gakusen-toshi-asterisk-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/80094",
+        "dub": null,
+        "url": "https://www.animegg.org/gakusen-toshi-asterisk-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/80217",
+        "dub": null,
+        "url": "https://www.animegg.org/gakusen-toshi-asterisk-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/80309",
+        "dub": null,
+        "url": "https://www.animegg.org/gakusen-toshi-asterisk-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/80409",
+        "dub": null,
+        "url": "https://www.animegg.org/gakusen-toshi-asterisk-episode-12"
+      }
+    ]
   }
 ]
