@@ -74312,5 +74312,735 @@
         "url": "https://www.animegg.org/log-horizon-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 111,
+    "title": "Saiki Kusuo no Ψ-nan (TV)",
+    "animegg_url": "https://www.animegg.org/series/saiki-kusuo-no--nan-tv",
+    "mal_url": "https://myanimelist.net/anime/33255",
+    "mal_id": 33255,
+    "total_ep": 120,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/82937",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/82949",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/82962",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/82972",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/82984",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/83024",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/83035",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/89598",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/83061",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/83078",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/83127",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/83139",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/83152",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/83163",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-14"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/83178",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-15"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/83239",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-16"
+      },
+      {
+        "ep": 17,
+        "sub": "https://www.animegg.org/embed/83260",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-17"
+      },
+      {
+        "ep": 18,
+        "sub": "https://www.animegg.org/embed/83268",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-18"
+      },
+      {
+        "ep": 19,
+        "sub": "https://www.animegg.org/embed/83323",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-19"
+      },
+      {
+        "ep": 20,
+        "sub": "https://www.animegg.org/embed/83324",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-20"
+      },
+      {
+        "ep": 21,
+        "sub": "https://www.animegg.org/embed/83325",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-21"
+      },
+      {
+        "ep": 22,
+        "sub": "https://www.animegg.org/embed/83339",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-22"
+      },
+      {
+        "ep": 23,
+        "sub": "https://www.animegg.org/embed/83348",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-23"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/83355",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-24"
+      },
+      {
+        "ep": 25,
+        "sub": "https://www.animegg.org/embed/83366",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-25"
+      },
+      {
+        "ep": 26,
+        "sub": "https://www.animegg.org/embed/83419",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-26"
+      },
+      {
+        "ep": 27,
+        "sub": "https://www.animegg.org/embed/83429",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-27"
+      },
+      {
+        "ep": 28,
+        "sub": "https://www.animegg.org/embed/83438",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-28"
+      },
+      {
+        "ep": 29,
+        "sub": "https://www.animegg.org/embed/83445",
+        "dub": "https://www.animegg.org/embed/83446",
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-29"
+      },
+      {
+        "ep": 30,
+        "sub": "https://www.animegg.org/embed/83459",
+        "dub": "https://www.animegg.org/embed/83460",
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-30"
+      },
+      {
+        "ep": 31,
+        "sub": "https://www.animegg.org/embed/83502",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-31"
+      },
+      {
+        "ep": 32,
+        "sub": "https://www.animegg.org/embed/83517",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-32"
+      },
+      {
+        "ep": 33,
+        "sub": "https://www.animegg.org/embed/83546",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-33"
+      },
+      {
+        "ep": 34,
+        "sub": "https://www.animegg.org/embed/83558",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-34"
+      },
+      {
+        "ep": 35,
+        "sub": "https://www.animegg.org/embed/83559",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-35"
+      },
+      {
+        "ep": 36,
+        "sub": "https://www.animegg.org/embed/83584",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-36"
+      },
+      {
+        "ep": 37,
+        "sub": "https://www.animegg.org/embed/83596",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-37"
+      },
+      {
+        "ep": 38,
+        "sub": "https://www.animegg.org/embed/83605",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-38"
+      },
+      {
+        "ep": 39,
+        "sub": "https://www.animegg.org/embed/83612",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-39"
+      },
+      {
+        "ep": 40,
+        "sub": "https://www.animegg.org/embed/83626",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-40"
+      },
+      {
+        "ep": 41,
+        "sub": "https://www.animegg.org/embed/83686",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-41"
+      },
+      {
+        "ep": 42,
+        "sub": "https://www.animegg.org/embed/83698",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-42"
+      },
+      {
+        "ep": 43,
+        "sub": "https://www.animegg.org/embed/83704",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-43"
+      },
+      {
+        "ep": 44,
+        "sub": "https://www.animegg.org/embed/83713",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-44"
+      },
+      {
+        "ep": 45,
+        "sub": "https://www.animegg.org/embed/83724",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-45"
+      },
+      {
+        "ep": 46,
+        "sub": "https://www.animegg.org/embed/83770",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-46"
+      },
+      {
+        "ep": 47,
+        "sub": "https://www.animegg.org/embed/83783",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-47"
+      },
+      {
+        "ep": 48,
+        "sub": "https://www.animegg.org/embed/83798",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-48"
+      },
+      {
+        "ep": 49,
+        "sub": "https://www.animegg.org/embed/83799",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-49"
+      },
+      {
+        "ep": 50,
+        "sub": "https://www.animegg.org/embed/83810",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-50"
+      },
+      {
+        "ep": 51,
+        "sub": "https://www.animegg.org/embed/83847",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-51"
+      },
+      {
+        "ep": 52,
+        "sub": "https://www.animegg.org/embed/83857",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-52"
+      },
+      {
+        "ep": 53,
+        "sub": "https://www.animegg.org/embed/83870",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-53"
+      },
+      {
+        "ep": 54,
+        "sub": "https://www.animegg.org/embed/83878",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-54"
+      },
+      {
+        "ep": 55,
+        "sub": "https://www.animegg.org/embed/83891",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-55"
+      },
+      {
+        "ep": 56,
+        "sub": "https://www.animegg.org/embed/83934",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-56"
+      },
+      {
+        "ep": 57,
+        "sub": "https://www.animegg.org/embed/83945",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-57"
+      },
+      {
+        "ep": 58,
+        "sub": "https://www.animegg.org/embed/83954",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-58"
+      },
+      {
+        "ep": 59,
+        "sub": "https://www.animegg.org/embed/83962",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-59"
+      },
+      {
+        "ep": 60,
+        "sub": "https://www.animegg.org/embed/83974",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-60"
+      },
+      {
+        "ep": 61,
+        "sub": "https://www.animegg.org/embed/84024",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-61"
+      },
+      {
+        "ep": 62,
+        "sub": "https://www.animegg.org/embed/84031",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-62"
+      },
+      {
+        "ep": 63,
+        "sub": "https://www.animegg.org/embed/84039",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-63"
+      },
+      {
+        "ep": 64,
+        "sub": "https://www.animegg.org/embed/84042",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-64"
+      },
+      {
+        "ep": 65,
+        "sub": "https://www.animegg.org/embed/84050",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-65"
+      },
+      {
+        "ep": 66,
+        "sub": "https://www.animegg.org/embed/84089",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-66"
+      },
+      {
+        "ep": 67,
+        "sub": "https://www.animegg.org/embed/84106",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-67"
+      },
+      {
+        "ep": 68,
+        "sub": "https://www.animegg.org/embed/84111",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-68"
+      },
+      {
+        "ep": 69,
+        "sub": "https://www.animegg.org/embed/84129",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-69"
+      },
+      {
+        "ep": 70,
+        "sub": "https://www.animegg.org/embed/84152",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-70"
+      },
+      {
+        "ep": 71,
+        "sub": "https://www.animegg.org/embed/84205",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-71"
+      },
+      {
+        "ep": 72,
+        "sub": "https://www.animegg.org/embed/84220",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-72"
+      },
+      {
+        "ep": 73,
+        "sub": "https://www.animegg.org/embed/84226",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-73"
+      },
+      {
+        "ep": 74,
+        "sub": "https://www.animegg.org/embed/84244",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-74"
+      },
+      {
+        "ep": 75,
+        "sub": "https://www.animegg.org/embed/84256",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-75"
+      },
+      {
+        "ep": 76,
+        "sub": "https://www.animegg.org/embed/84308",
+        "dub": "https://www.animegg.org/embed/84309",
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-76"
+      },
+      {
+        "ep": 77,
+        "sub": "https://www.animegg.org/embed/84327",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-77"
+      },
+      {
+        "ep": 78,
+        "sub": "https://www.animegg.org/embed/84342",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-78"
+      },
+      {
+        "ep": 79,
+        "sub": "https://www.animegg.org/embed/84358",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-79"
+      },
+      {
+        "ep": 80,
+        "sub": "https://www.animegg.org/embed/84369",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-80"
+      },
+      {
+        "ep": 81,
+        "sub": "https://www.animegg.org/embed/84414",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-81"
+      },
+      {
+        "ep": 82,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-82"
+      },
+      {
+        "ep": 83,
+        "sub": "https://www.animegg.org/embed/84438",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-83"
+      },
+      {
+        "ep": 84,
+        "sub": "https://www.animegg.org/embed/84451",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-84"
+      },
+      {
+        "ep": 85,
+        "sub": "https://www.animegg.org/embed/84461",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-85"
+      },
+      {
+        "ep": 86,
+        "sub": "https://www.animegg.org/embed/84505",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-86"
+      },
+      {
+        "ep": 87,
+        "sub": "https://www.animegg.org/embed/84518",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-87"
+      },
+      {
+        "ep": 88,
+        "sub": "https://www.animegg.org/embed/84545",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-88"
+      },
+      {
+        "ep": 89,
+        "sub": "https://www.animegg.org/embed/84546",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-89"
+      },
+      {
+        "ep": 90,
+        "sub": "https://www.animegg.org/embed/84555",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-90"
+      },
+      {
+        "ep": 91,
+        "sub": "https://www.animegg.org/embed/84721",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-91"
+      },
+      {
+        "ep": 92,
+        "sub": "https://www.animegg.org/embed/84800",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-92"
+      },
+      {
+        "ep": 93,
+        "sub": "https://www.animegg.org/embed/84801",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-93"
+      },
+      {
+        "ep": 94,
+        "sub": "https://www.animegg.org/embed/84802",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-94"
+      },
+      {
+        "ep": 95,
+        "sub": "https://www.animegg.org/embed/84803",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-95"
+      },
+      {
+        "ep": 96,
+        "sub": "https://www.animegg.org/embed/84903",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-96"
+      },
+      {
+        "ep": 97,
+        "sub": "https://www.animegg.org/embed/84904",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-97"
+      },
+      {
+        "ep": 98,
+        "sub": "https://www.animegg.org/embed/84905",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-98"
+      },
+      {
+        "ep": 99,
+        "sub": "https://www.animegg.org/embed/84906",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-99"
+      },
+      {
+        "ep": 100,
+        "sub": "https://www.animegg.org/embed/84907",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-100"
+      },
+      {
+        "ep": 101,
+        "sub": "https://www.animegg.org/embed/84993",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-101"
+      },
+      {
+        "ep": 102,
+        "sub": "https://www.animegg.org/embed/84994",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-102"
+      },
+      {
+        "ep": 103,
+        "sub": "https://www.animegg.org/embed/84995",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-103"
+      },
+      {
+        "ep": 104,
+        "sub": "https://www.animegg.org/embed/84996",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-104"
+      },
+      {
+        "ep": 105,
+        "sub": "https://www.animegg.org/embed/84997",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-105"
+      },
+      {
+        "ep": 106,
+        "sub": "https://www.animegg.org/embed/85184",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-106"
+      },
+      {
+        "ep": 107,
+        "sub": "https://www.animegg.org/embed/85185",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-107"
+      },
+      {
+        "ep": 108,
+        "sub": "https://www.animegg.org/embed/85186",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-108"
+      },
+      {
+        "ep": 109,
+        "sub": "https://www.animegg.org/embed/85187",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-109"
+      },
+      {
+        "ep": 110,
+        "sub": "https://www.animegg.org/embed/85188",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-110"
+      },
+      {
+        "ep": 111,
+        "sub": "https://www.animegg.org/embed/85189",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-111"
+      },
+      {
+        "ep": 112,
+        "sub": "https://www.animegg.org/embed/85190",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-112"
+      },
+      {
+        "ep": 113,
+        "sub": "https://www.animegg.org/embed/85191",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-113"
+      },
+      {
+        "ep": 114,
+        "sub": "https://www.animegg.org/embed/85192",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-114"
+      },
+      {
+        "ep": 115,
+        "sub": "https://www.animegg.org/embed/85193",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-115"
+      },
+      {
+        "ep": 116,
+        "sub": "https://www.animegg.org/embed/85303",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-116"
+      },
+      {
+        "ep": 117,
+        "sub": "https://www.animegg.org/embed/85304",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-117"
+      },
+      {
+        "ep": 118,
+        "sub": "https://www.animegg.org/embed/85305",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-118"
+      },
+      {
+        "ep": 119,
+        "sub": "https://www.animegg.org/embed/85306",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-119"
+      },
+      {
+        "ep": 120,
+        "sub": "https://www.animegg.org/embed/85307",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-tv-episode-120"
+      }
+    ]
   }
 ]
