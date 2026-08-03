@@ -127582,5 +127582,93 @@
         "url": "https://www.animegg.org/ouran-high-school-host-club-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 326,
+    "title": "Nisekoi 2nd Season",
+    "animegg_url": "https://www.animegg.org/series/nisekoi-2nd-season",
+    "mal_url": "https://myanimelist.net/anime/27787",
+    "mal_id": 27787,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/77567",
+        "dub": "https://www.animegg.org/embed/77569",
+        "url": "https://www.animegg.org/nisekoi-2nd-season-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/77455",
+        "dub": "https://www.animegg.org/embed/77459",
+        "url": "https://www.animegg.org/nisekoi-2nd-season-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/77311",
+        "dub": "https://www.animegg.org/embed/77314",
+        "url": "https://www.animegg.org/nisekoi-2nd-season-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/77174",
+        "dub": "https://www.animegg.org/embed/77177",
+        "url": "https://www.animegg.org/nisekoi-2nd-season-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/76974",
+        "dub": "https://www.animegg.org/embed/76976",
+        "url": "https://www.animegg.org/nisekoi-2nd-season-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/76885",
+        "dub": "https://www.animegg.org/embed/76887",
+        "url": "https://www.animegg.org/nisekoi-2nd-season-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/76775",
+        "dub": "https://www.animegg.org/embed/76778",
+        "url": "https://www.animegg.org/nisekoi-2nd-season-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/76670",
+        "dub": "https://www.animegg.org/embed/76672",
+        "url": "https://www.animegg.org/nisekoi-2nd-season-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/76549",
+        "dub": null,
+        "url": "https://www.animegg.org/nisekoi-2nd-season-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/76415",
+        "dub": "https://www.animegg.org/embed/76418",
+        "url": "https://www.animegg.org/nisekoi-2nd-season-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/76289",
+        "dub": null,
+        "url": "https://www.animegg.org/nisekoi-2nd-season-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/76115",
+        "dub": "https://www.animegg.org/embed/76124",
+        "url": "https://www.animegg.org/nisekoi-2nd-season-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/75995",
+        "dub": null,
+        "url": "https://www.animegg.org/nisekoi-2nd-season-episode-0"
+      }
+    ]
   }
 ]
