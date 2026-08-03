@@ -105364,5 +105364,87 @@
         "url": "https://www.animegg.org/masion-ikkoku-episode-96"
       }
     ]
+  },
+  {
+    "serial_no": 227,
+    "title": "Koutetsujou no Kabaneri",
+    "animegg_url": "https://www.animegg.org/series/koutetsujou-no-kabaneri",
+    "mal_url": "https://myanimelist.net/anime/28623",
+    "mal_id": 28623,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/81848",
+        "dub": "https://www.animegg.org/embed/81855",
+        "url": "https://www.animegg.org/koutetsujou-no-kabaneri-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/81937",
+        "dub": null,
+        "url": "https://www.animegg.org/koutetsujou-no-kabaneri-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/82108",
+        "dub": "https://www.animegg.org/embed/82113",
+        "url": "https://www.animegg.org/koutetsujou-no-kabaneri-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/82199",
+        "dub": "https://www.animegg.org/embed/82203",
+        "url": "https://www.animegg.org/koutetsujou-no-kabaneri-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/82280",
+        "dub": "https://www.animegg.org/embed/82283",
+        "url": "https://www.animegg.org/koutetsujou-no-kabaneri-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/82363",
+        "dub": "https://www.animegg.org/embed/82367",
+        "url": "https://www.animegg.org/koutetsujou-no-kabaneri-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/82463",
+        "dub": "https://www.animegg.org/embed/82468",
+        "url": "https://www.animegg.org/koutetsujou-no-kabaneri-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/82541",
+        "dub": "https://www.animegg.org/embed/82545",
+        "url": "https://www.animegg.org/koutetsujou-no-kabaneri-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/82636",
+        "dub": "https://www.animegg.org/embed/82637",
+        "url": "https://www.animegg.org/koutetsujou-no-kabaneri-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/82716",
+        "dub": "https://www.animegg.org/embed/82721",
+        "url": "https://www.animegg.org/koutetsujou-no-kabaneri-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/82792",
+        "dub": "https://www.animegg.org/embed/82795",
+        "url": "https://www.animegg.org/koutetsujou-no-kabaneri-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/82866",
+        "dub": "https://www.animegg.org/embed/82888",
+        "url": "https://www.animegg.org/koutetsujou-no-kabaneri-episode-12"
+      }
+    ]
   }
 ]
