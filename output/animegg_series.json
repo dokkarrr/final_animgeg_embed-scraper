@@ -72202,5 +72202,87 @@
         "url": "https://www.animegg.org/shingeki-no-kyojin-the-final-season-episode-16"
       }
     ]
+  },
+  {
+    "serial_no": 101,
+    "title": "Free!",
+    "animegg_url": "https://www.animegg.org/series/free",
+    "mal_url": "https://myanimelist.net/anime/18507",
+    "mal_id": 18507,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/11192",
+        "dub": null,
+        "url": "https://www.animegg.org/free-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/11191",
+        "dub": null,
+        "url": "https://www.animegg.org/free-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/11190",
+        "dub": null,
+        "url": "https://www.animegg.org/free-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/11189",
+        "dub": null,
+        "url": "https://www.animegg.org/free-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/11188",
+        "dub": null,
+        "url": "https://www.animegg.org/free-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/11194",
+        "dub": null,
+        "url": "https://www.animegg.org/free-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/11196",
+        "dub": null,
+        "url": "https://www.animegg.org/free-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/11193",
+        "dub": null,
+        "url": "https://www.animegg.org/free-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/11195",
+        "dub": null,
+        "url": "https://www.animegg.org/free-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/11197",
+        "dub": null,
+        "url": "https://www.animegg.org/free-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/11198",
+        "dub": null,
+        "url": "https://www.animegg.org/free-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/11199",
+        "dub": null,
+        "url": "https://www.animegg.org/free-episode-12"
+      }
+    ]
   }
 ]
