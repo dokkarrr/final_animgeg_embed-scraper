@@ -104386,5 +104386,87 @@
         "url": "https://www.animegg.org/hajime-no-ippo-new-challenger-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 224,
+    "title": "Berserk (2016)",
+    "animegg_url": "https://www.animegg.org/series/berserk-2016",
+    "mal_url": "https://myanimelist.net/anime/32379",
+    "mal_id": 32379,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 2016,
+        "sub": "https://www.animegg.org/embed/83901",
+        "dub": null,
+        "url": "https://www.animegg.org/berserk-2016-episode-12"
+      },
+      {
+        "ep": 2016,
+        "sub": "https://www.animegg.org/embed/83811",
+        "dub": null,
+        "url": "https://www.animegg.org/berserk-2016-episode-11"
+      },
+      {
+        "ep": 2016,
+        "sub": "https://www.animegg.org/embed/83726",
+        "dub": null,
+        "url": "https://www.animegg.org/berserk-2016-episode-10"
+      },
+      {
+        "ep": 2016,
+        "sub": "https://www.animegg.org/embed/83632",
+        "dub": null,
+        "url": "https://www.animegg.org/berserk-2016-episode-9"
+      },
+      {
+        "ep": 2016,
+        "sub": "https://www.animegg.org/embed/83547",
+        "dub": null,
+        "url": "https://www.animegg.org/berserk-2016-episode-8"
+      },
+      {
+        "ep": 2016,
+        "sub": "https://www.animegg.org/embed/83461",
+        "dub": null,
+        "url": "https://www.animegg.org/berserk-2016-episode-7"
+      },
+      {
+        "ep": 2016,
+        "sub": "https://www.animegg.org/embed/83371",
+        "dub": null,
+        "url": "https://www.animegg.org/berserk-2016-episode-6"
+      },
+      {
+        "ep": 2016,
+        "sub": "https://www.animegg.org/embed/83287",
+        "dub": null,
+        "url": "https://www.animegg.org/berserk-2016-episode-5"
+      },
+      {
+        "ep": 2016,
+        "sub": "https://www.animegg.org/embed/83181",
+        "dub": null,
+        "url": "https://www.animegg.org/berserk-2016-episode-4"
+      },
+      {
+        "ep": 2016,
+        "sub": "https://www.animegg.org/embed/83082",
+        "dub": null,
+        "url": "https://www.animegg.org/berserk-2016-episode-3"
+      },
+      {
+        "ep": 2016,
+        "sub": "https://www.animegg.org/embed/82985",
+        "dub": null,
+        "url": "https://www.animegg.org/berserk-2016-episode-2"
+      },
+      {
+        "ep": 2016,
+        "sub": "https://www.animegg.org/embed/82889",
+        "dub": null,
+        "url": "https://www.animegg.org/berserk-2016-episode-1"
+      }
+    ]
   }
 ]
