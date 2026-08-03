@@ -76576,5 +76576,75 @@
         "url": "https://www.animegg.org/sword-art-online-alicization-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 119,
+    "title": "Shingeki no Kyojin 3 Part 2",
+    "animegg_url": "https://www.animegg.org/series/shingeki-no-kyojin-3-part-2",
+    "mal_url": "https://myanimelist.net/anime/38524",
+    "mal_id": 38524,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/95789",
+        "dub": "https://www.animegg.org/embed/95792",
+        "url": "https://www.animegg.org/shingeki-no-kyojin-3-part-2-episode-10"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/95734",
+        "dub": "https://www.animegg.org/embed/95735",
+        "url": "https://www.animegg.org/shingeki-no-kyojin-3-part-2-episode-9"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/95672",
+        "dub": "https://www.animegg.org/embed/95674",
+        "url": "https://www.animegg.org/shingeki-no-kyojin-3-part-2-episode-8"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/95592",
+        "dub": "https://www.animegg.org/embed/95599",
+        "url": "https://www.animegg.org/shingeki-no-kyojin-3-part-2-episode-7"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/95529",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-kyojin-3-part-2-episode-6"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/95460",
+        "dub": "https://www.animegg.org/embed/95462",
+        "url": "https://www.animegg.org/shingeki-no-kyojin-3-part-2-episode-5"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/95397",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-kyojin-3-part-2-episode-4"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/95337",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-kyojin-3-part-2-episode-3"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/95254",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-kyojin-3-part-2-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/95221",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-kyojin-3-part-2-episode-1"
+      }
+    ]
   }
 ]
