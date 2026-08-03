@@ -110740,5 +110740,93 @@
         "url": "https://www.animegg.org/mob-psycho-100-ii-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 248,
+    "title": "Haikyuu!!: To the Top",
+    "animegg_url": "https://www.animegg.org/series/haikyuu-to-the-top",
+    "mal_url": "https://myanimelist.net/anime/38883",
+    "mal_id": 38883,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/97502",
+        "dub": null,
+        "url": "https://www.animegg.org/haikyuu-to-the-top-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/97570",
+        "dub": null,
+        "url": "https://www.animegg.org/haikyuu-to-the-top-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/97635",
+        "dub": null,
+        "url": "https://www.animegg.org/haikyuu-to-the-top-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/97704",
+        "dub": null,
+        "url": "https://www.animegg.org/haikyuu-to-the-top-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/97778",
+        "dub": null,
+        "url": "https://www.animegg.org/haikyuu-to-the-top-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/97834",
+        "dub": null,
+        "url": "https://www.animegg.org/haikyuu-to-the-top-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/97884",
+        "dub": null,
+        "url": "https://www.animegg.org/haikyuu-to-the-top-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/97943",
+        "dub": null,
+        "url": "https://www.animegg.org/haikyuu-to-the-top-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/98008",
+        "dub": null,
+        "url": "https://www.animegg.org/haikyuu-to-the-top-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/98070",
+        "dub": null,
+        "url": "https://www.animegg.org/haikyuu-to-the-top-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/98126",
+        "dub": null,
+        "url": "https://www.animegg.org/haikyuu-to-the-top-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/98182",
+        "dub": null,
+        "url": "https://www.animegg.org/haikyuu-to-the-top-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/98228",
+        "dub": null,
+        "url": "https://www.animegg.org/haikyuu-to-the-top-episode-13"
+      }
+    ]
   }
 ]
