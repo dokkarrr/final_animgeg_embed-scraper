@@ -129278,5 +129278,375 @@
         "url": "https://www.animegg.org/claymore-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 333,
+    "title": "Ai Tenchi Muyo!",
+    "animegg_url": "https://www.animegg.org/series/ai-tenchi-muyo",
+    "mal_url": "https://myanimelist.net/anime/24699",
+    "mal_id": 24699,
+    "total_ep": 60,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66336",
+        "dub": "https://www.animegg.org/embed/66337",
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/66338",
+        "dub": "https://www.animegg.org/embed/66339",
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/66340",
+        "dub": "https://www.animegg.org/embed/66341",
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/66342",
+        "dub": "https://www.animegg.org/embed/66343",
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/66344",
+        "dub": "https://www.animegg.org/embed/66345",
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/66346",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/66347",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/66348",
+        "dub": "https://www.animegg.org/embed/66349",
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/66350",
+        "dub": "https://www.animegg.org/embed/66351",
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/66352",
+        "dub": "https://www.animegg.org/embed/66353",
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/66354",
+        "dub": "https://www.animegg.org/embed/66355",
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/66356",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/66357",
+        "dub": "https://www.animegg.org/embed/66358",
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/66359",
+        "dub": "https://www.animegg.org/embed/66360",
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-14"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/66361",
+        "dub": "https://www.animegg.org/embed/66362",
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-15"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/66363",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-16"
+      },
+      {
+        "ep": 17,
+        "sub": "https://www.animegg.org/embed/66364",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-17"
+      },
+      {
+        "ep": 18,
+        "sub": "https://www.animegg.org/embed/66365",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-18"
+      },
+      {
+        "ep": 19,
+        "sub": "https://www.animegg.org/embed/66366",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-19"
+      },
+      {
+        "ep": 20,
+        "sub": "https://www.animegg.org/embed/66367",
+        "dub": "https://www.animegg.org/embed/66368",
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-20"
+      },
+      {
+        "ep": 21,
+        "sub": "https://www.animegg.org/embed/66369",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-21"
+      },
+      {
+        "ep": 22,
+        "sub": "https://www.animegg.org/embed/66515",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-22"
+      },
+      {
+        "ep": 23,
+        "sub": "https://www.animegg.org/embed/66529",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-23"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/66553",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-24"
+      },
+      {
+        "ep": 25,
+        "sub": "https://www.animegg.org/embed/66569",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-25"
+      },
+      {
+        "ep": 26,
+        "sub": "https://www.animegg.org/embed/66630",
+        "dub": "https://www.animegg.org/embed/66638",
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-26"
+      },
+      {
+        "ep": 27,
+        "sub": "https://www.animegg.org/embed/66649",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-27"
+      },
+      {
+        "ep": 28,
+        "sub": "https://www.animegg.org/embed/66678",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-28"
+      },
+      {
+        "ep": 29,
+        "sub": "https://www.animegg.org/embed/66734",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-29"
+      },
+      {
+        "ep": 30,
+        "sub": "https://www.animegg.org/embed/66938",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-30"
+      },
+      {
+        "ep": 31,
+        "sub": "https://www.animegg.org/embed/66950",
+        "dub": "https://www.animegg.org/embed/66956",
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-31"
+      },
+      {
+        "ep": 32,
+        "sub": "https://www.animegg.org/embed/66973",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-32"
+      },
+      {
+        "ep": 33,
+        "sub": "https://www.animegg.org/embed/66984",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-33"
+      },
+      {
+        "ep": 34,
+        "sub": "https://www.animegg.org/embed/67149",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-34"
+      },
+      {
+        "ep": 35,
+        "sub": "https://www.animegg.org/embed/67158",
+        "dub": "https://www.animegg.org/embed/67216",
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-35"
+      },
+      {
+        "ep": 36,
+        "sub": "https://www.animegg.org/embed/67212",
+        "dub": "https://www.animegg.org/embed/67221",
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-36"
+      },
+      {
+        "ep": 37,
+        "sub": "https://www.animegg.org/embed/67229",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-37"
+      },
+      {
+        "ep": 38,
+        "sub": "https://www.animegg.org/embed/67243",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-38"
+      },
+      {
+        "ep": 39,
+        "sub": "https://www.animegg.org/embed/67266",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-39"
+      },
+      {
+        "ep": 40,
+        "sub": "https://www.animegg.org/embed/67284",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-40"
+      },
+      {
+        "ep": 41,
+        "sub": "https://www.animegg.org/embed/67363",
+        "dub": "https://www.animegg.org/embed/67364",
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-41"
+      },
+      {
+        "ep": 42,
+        "sub": "https://www.animegg.org/embed/67373",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-42"
+      },
+      {
+        "ep": 43,
+        "sub": "https://www.animegg.org/embed/67386",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-43"
+      },
+      {
+        "ep": 44,
+        "sub": "https://www.animegg.org/embed/67405",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-44"
+      },
+      {
+        "ep": 45,
+        "sub": "https://www.animegg.org/embed/67418",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-45"
+      },
+      {
+        "ep": 46,
+        "sub": "https://www.animegg.org/embed/67481",
+        "dub": "https://www.animegg.org/embed/67484",
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-46"
+      },
+      {
+        "ep": 47,
+        "sub": "https://www.animegg.org/embed/67492",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-47"
+      },
+      {
+        "ep": 48,
+        "sub": "https://www.animegg.org/embed/67511",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-48"
+      },
+      {
+        "ep": 49,
+        "sub": "https://www.animegg.org/embed/67532",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-49"
+      },
+      {
+        "ep": 50,
+        "sub": "https://www.animegg.org/embed/67549",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-50"
+      },
+      {
+        "ep": 51,
+        "sub": "https://www.animegg.org/embed/67611",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-51"
+      },
+      {
+        "ep": 52,
+        "sub": "https://www.animegg.org/embed/67617",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-52"
+      },
+      {
+        "ep": 53,
+        "sub": "https://www.animegg.org/embed/67624",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-53"
+      },
+      {
+        "ep": 54,
+        "sub": "https://www.animegg.org/embed/67642",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-54"
+      },
+      {
+        "ep": 55,
+        "sub": "https://www.animegg.org/embed/67655",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-55"
+      },
+      {
+        "ep": 56,
+        "sub": "https://www.animegg.org/embed/67715",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-56"
+      },
+      {
+        "ep": 57,
+        "sub": "https://www.animegg.org/embed/67726",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-57"
+      },
+      {
+        "ep": 58,
+        "sub": "https://www.animegg.org/embed/67737",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-58"
+      },
+      {
+        "ep": 59,
+        "sub": "https://www.animegg.org/embed/67748",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-59"
+      },
+      {
+        "ep": 60,
+        "sub": "https://www.animegg.org/embed/67758",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-tenchi-muyo-episode-60"
+      }
+    ]
   }
 ]
