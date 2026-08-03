@@ -118846,5 +118846,303 @@
         "url": "https://www.animegg.org/hyouka-episode-22"
       }
     ]
+  },
+  {
+    "serial_no": 287,
+    "title": "Digimon Data Squad",
+    "animegg_url": "https://www.animegg.org/series/digimon-data-squad",
+    "mal_url": "https://myanimelist.net/anime/859",
+    "mal_id": 859,
+    "total_ep": 48,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/8620",
+        "dub": "https://www.animegg.org/embed/69351",
+        "url": "https://www.animegg.org/digimon-data-squad-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/8621",
+        "dub": "https://www.animegg.org/embed/69355",
+        "url": "https://www.animegg.org/digimon-data-squad-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/8618",
+        "dub": "https://www.animegg.org/embed/69358",
+        "url": "https://www.animegg.org/digimon-data-squad-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/8619",
+        "dub": "https://www.animegg.org/embed/69362",
+        "url": "https://www.animegg.org/digimon-data-squad-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/8617",
+        "dub": "https://www.animegg.org/embed/69364",
+        "url": "https://www.animegg.org/digimon-data-squad-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/8626",
+        "dub": "https://www.animegg.org/embed/69367",
+        "url": "https://www.animegg.org/digimon-data-squad-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/8623",
+        "dub": "https://www.animegg.org/embed/69368",
+        "url": "https://www.animegg.org/digimon-data-squad-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/8622",
+        "dub": "https://www.animegg.org/embed/69371",
+        "url": "https://www.animegg.org/digimon-data-squad-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/8624",
+        "dub": "https://www.animegg.org/embed/69372",
+        "url": "https://www.animegg.org/digimon-data-squad-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/8625",
+        "dub": "https://www.animegg.org/embed/69373",
+        "url": "https://www.animegg.org/digimon-data-squad-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/8630",
+        "dub": "https://www.animegg.org/embed/69376",
+        "url": "https://www.animegg.org/digimon-data-squad-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/8629",
+        "dub": "https://www.animegg.org/embed/69378",
+        "url": "https://www.animegg.org/digimon-data-squad-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/8631",
+        "dub": "https://www.animegg.org/embed/69380",
+        "url": "https://www.animegg.org/digimon-data-squad-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/8627",
+        "dub": "https://www.animegg.org/embed/69382",
+        "url": "https://www.animegg.org/digimon-data-squad-episode-14"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/8628",
+        "dub": "https://www.animegg.org/embed/69384",
+        "url": "https://www.animegg.org/digimon-data-squad-episode-15"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/8632",
+        "dub": "https://www.animegg.org/embed/69386",
+        "url": "https://www.animegg.org/digimon-data-squad-episode-16"
+      },
+      {
+        "ep": 17,
+        "sub": "https://www.animegg.org/embed/8634",
+        "dub": "https://www.animegg.org/embed/69388",
+        "url": "https://www.animegg.org/digimon-data-squad-episode-17"
+      },
+      {
+        "ep": 18,
+        "sub": "https://www.animegg.org/embed/8633",
+        "dub": "https://www.animegg.org/embed/69390",
+        "url": "https://www.animegg.org/digimon-data-squad-episode-18"
+      },
+      {
+        "ep": 19,
+        "sub": "https://www.animegg.org/embed/8635",
+        "dub": "https://www.animegg.org/embed/69392",
+        "url": "https://www.animegg.org/digimon-data-squad-episode-19"
+      },
+      {
+        "ep": 20,
+        "sub": "https://www.animegg.org/embed/8636",
+        "dub": "https://www.animegg.org/embed/69401",
+        "url": "https://www.animegg.org/digimon-data-squad-episode-20"
+      },
+      {
+        "ep": 21,
+        "sub": "https://www.animegg.org/embed/8640",
+        "dub": "https://www.animegg.org/embed/69406",
+        "url": "https://www.animegg.org/digimon-data-squad-episode-21"
+      },
+      {
+        "ep": 22,
+        "sub": "https://www.animegg.org/embed/8637",
+        "dub": "https://www.animegg.org/embed/69409",
+        "url": "https://www.animegg.org/digimon-data-squad-episode-22"
+      },
+      {
+        "ep": 23,
+        "sub": "https://www.animegg.org/embed/8639",
+        "dub": "https://www.animegg.org/embed/69411",
+        "url": "https://www.animegg.org/digimon-data-squad-episode-23"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/8638",
+        "dub": "https://www.animegg.org/embed/69413",
+        "url": "https://www.animegg.org/digimon-data-squad-episode-24"
+      },
+      {
+        "ep": 25,
+        "sub": "https://www.animegg.org/embed/8641",
+        "dub": "https://www.animegg.org/embed/69416",
+        "url": "https://www.animegg.org/digimon-data-squad-episode-25"
+      },
+      {
+        "ep": 26,
+        "sub": "https://www.animegg.org/embed/8642",
+        "dub": "https://www.animegg.org/embed/69418",
+        "url": "https://www.animegg.org/digimon-data-squad-episode-26"
+      },
+      {
+        "ep": 27,
+        "sub": "https://www.animegg.org/embed/8645",
+        "dub": "https://www.animegg.org/embed/69421",
+        "url": "https://www.animegg.org/digimon-data-squad-episode-27"
+      },
+      {
+        "ep": 28,
+        "sub": "https://www.animegg.org/embed/8643",
+        "dub": "https://www.animegg.org/embed/69425",
+        "url": "https://www.animegg.org/digimon-data-squad-episode-28"
+      },
+      {
+        "ep": 29,
+        "sub": "https://www.animegg.org/embed/8644",
+        "dub": "https://www.animegg.org/embed/69428",
+        "url": "https://www.animegg.org/digimon-data-squad-episode-29"
+      },
+      {
+        "ep": 30,
+        "sub": "https://www.animegg.org/embed/8646",
+        "dub": "https://www.animegg.org/embed/69431",
+        "url": "https://www.animegg.org/digimon-data-squad-episode-30"
+      },
+      {
+        "ep": 31,
+        "sub": "https://www.animegg.org/embed/8647",
+        "dub": "https://www.animegg.org/embed/69433",
+        "url": "https://www.animegg.org/digimon-data-squad-episode-31"
+      },
+      {
+        "ep": 32,
+        "sub": "https://www.animegg.org/embed/8649",
+        "dub": "https://www.animegg.org/embed/69435",
+        "url": "https://www.animegg.org/digimon-data-squad-episode-32"
+      },
+      {
+        "ep": 33,
+        "sub": "https://www.animegg.org/embed/8648",
+        "dub": "https://www.animegg.org/embed/69436",
+        "url": "https://www.animegg.org/digimon-data-squad-episode-33"
+      },
+      {
+        "ep": 34,
+        "sub": "https://www.animegg.org/embed/8651",
+        "dub": "https://www.animegg.org/embed/69437",
+        "url": "https://www.animegg.org/digimon-data-squad-episode-34"
+      },
+      {
+        "ep": 35,
+        "sub": "https://www.animegg.org/embed/8650",
+        "dub": "https://www.animegg.org/embed/69438",
+        "url": "https://www.animegg.org/digimon-data-squad-episode-35"
+      },
+      {
+        "ep": 36,
+        "sub": "https://www.animegg.org/embed/8652",
+        "dub": "https://www.animegg.org/embed/69439",
+        "url": "https://www.animegg.org/digimon-data-squad-episode-36"
+      },
+      {
+        "ep": 37,
+        "sub": "https://www.animegg.org/embed/8656",
+        "dub": "https://www.animegg.org/embed/69440",
+        "url": "https://www.animegg.org/digimon-data-squad-episode-37"
+      },
+      {
+        "ep": 38,
+        "sub": "https://www.animegg.org/embed/8654",
+        "dub": "https://www.animegg.org/embed/69441",
+        "url": "https://www.animegg.org/digimon-data-squad-episode-38"
+      },
+      {
+        "ep": 39,
+        "sub": "https://www.animegg.org/embed/8655",
+        "dub": "https://www.animegg.org/embed/69442",
+        "url": "https://www.animegg.org/digimon-data-squad-episode-39"
+      },
+      {
+        "ep": 40,
+        "sub": "https://www.animegg.org/embed/8653",
+        "dub": "https://www.animegg.org/embed/69443",
+        "url": "https://www.animegg.org/digimon-data-squad-episode-40"
+      },
+      {
+        "ep": 41,
+        "sub": "https://www.animegg.org/embed/8660",
+        "dub": "https://www.animegg.org/embed/69444",
+        "url": "https://www.animegg.org/digimon-data-squad-episode-41"
+      },
+      {
+        "ep": 42,
+        "sub": "https://www.animegg.org/embed/8657",
+        "dub": "https://www.animegg.org/embed/69445",
+        "url": "https://www.animegg.org/digimon-data-squad-episode-42"
+      },
+      {
+        "ep": 43,
+        "sub": "https://www.animegg.org/embed/8658",
+        "dub": "https://www.animegg.org/embed/69446",
+        "url": "https://www.animegg.org/digimon-data-squad-episode-43"
+      },
+      {
+        "ep": 44,
+        "sub": "https://www.animegg.org/embed/8661",
+        "dub": "https://www.animegg.org/embed/69447",
+        "url": "https://www.animegg.org/digimon-data-squad-episode-44"
+      },
+      {
+        "ep": 45,
+        "sub": "https://www.animegg.org/embed/8659",
+        "dub": "https://www.animegg.org/embed/69448",
+        "url": "https://www.animegg.org/digimon-data-squad-episode-45"
+      },
+      {
+        "ep": 46,
+        "sub": "https://www.animegg.org/embed/8662",
+        "dub": "https://www.animegg.org/embed/69449",
+        "url": "https://www.animegg.org/digimon-data-squad-episode-46"
+      },
+      {
+        "ep": 47,
+        "sub": "https://www.animegg.org/embed/8663",
+        "dub": "https://www.animegg.org/embed/69451",
+        "url": "https://www.animegg.org/digimon-data-squad-episode-47"
+      },
+      {
+        "ep": 48,
+        "sub": "https://www.animegg.org/embed/8664",
+        "dub": "https://www.animegg.org/embed/69452",
+        "url": "https://www.animegg.org/digimon-data-squad-episode-48"
+      }
+    ]
   }
 ]
