@@ -110090,5 +110090,93 @@
         "url": "https://www.animegg.org/darker-than-black-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 243,
+    "title": "Overlord III",
+    "animegg_url": "https://www.animegg.org/series/overlord-iii",
+    "mal_url": "https://myanimelist.net/anime/37675",
+    "mal_id": 37675,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/91820",
+        "dub": "https://www.animegg.org/embed/91821",
+        "url": "https://www.animegg.org/overlord-iii-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/91884",
+        "dub": null,
+        "url": "https://www.animegg.org/overlord-iii-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/92014",
+        "dub": null,
+        "url": "https://www.animegg.org/overlord-iii-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/92111",
+        "dub": null,
+        "url": "https://www.animegg.org/overlord-iii-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/92210",
+        "dub": null,
+        "url": "https://www.animegg.org/overlord-iii-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/92288",
+        "dub": null,
+        "url": "https://www.animegg.org/overlord-iii-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/92444",
+        "dub": null,
+        "url": "https://www.animegg.org/overlord-iii-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/92628",
+        "dub": null,
+        "url": "https://www.animegg.org/overlord-iii-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/92757",
+        "dub": null,
+        "url": "https://www.animegg.org/overlord-iii-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/92827",
+        "dub": null,
+        "url": "https://www.animegg.org/overlord-iii-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/92906",
+        "dub": null,
+        "url": "https://www.animegg.org/overlord-iii-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/93008",
+        "dub": null,
+        "url": "https://www.animegg.org/overlord-iii-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/93067",
+        "dub": null,
+        "url": "https://www.animegg.org/overlord-iii-episode-13"
+      }
+    ]
   }
 ]
