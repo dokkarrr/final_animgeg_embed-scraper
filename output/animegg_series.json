@@ -95512,5 +95512,87 @@
         "url": "https://www.animegg.org/rakudai-kishi-no-cavalry-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 191,
+    "title": "Shinmai Maou no Testament",
+    "animegg_url": "https://www.animegg.org/series/shinmai-maou-no-testament",
+    "mal_url": "https://myanimelist.net/anime/23233",
+    "mal_id": 23233,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/68139",
+        "dub": "https://www.animegg.org/embed/68143",
+        "url": "https://www.animegg.org/shinmai-maou-no-testament-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/72156",
+        "dub": null,
+        "url": "https://www.animegg.org/shinmai-maou-no-testament-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/73648",
+        "dub": null,
+        "url": "https://www.animegg.org/shinmai-maou-no-testament-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/74192",
+        "dub": null,
+        "url": "https://www.animegg.org/shinmai-maou-no-testament-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/74763",
+        "dub": null,
+        "url": "https://www.animegg.org/shinmai-maou-no-testament-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/74874",
+        "dub": null,
+        "url": "https://www.animegg.org/shinmai-maou-no-testament-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/74996",
+        "dub": null,
+        "url": "https://www.animegg.org/shinmai-maou-no-testament-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/75130",
+        "dub": null,
+        "url": "https://www.animegg.org/shinmai-maou-no-testament-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/75326",
+        "dub": null,
+        "url": "https://www.animegg.org/shinmai-maou-no-testament-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/75540",
+        "dub": null,
+        "url": "https://www.animegg.org/shinmai-maou-no-testament-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/75707",
+        "dub": null,
+        "url": "https://www.animegg.org/shinmai-maou-no-testament-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/75828",
+        "dub": "https://www.animegg.org/embed/75830",
+        "url": "https://www.animegg.org/shinmai-maou-no-testament-episode-12"
+      }
+    ]
   }
 ]
