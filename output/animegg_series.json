@@ -127092,5 +127092,93 @@
         "url": "https://www.animegg.org/sonic-x-episode-78"
       }
     ]
+  },
+  {
+    "serial_no": 322,
+    "title": "Arifureta Shokugyou de Sekai Saikyou",
+    "animegg_url": "https://www.animegg.org/series/arifureta-shokugyou-de-sekai-saikyou",
+    "mal_url": "https://myanimelist.net/anime/36882",
+    "mal_id": 36882,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/95855",
+        "dub": null,
+        "url": "https://www.animegg.org/arifureta-shokugyou-de-sekai-saikyou-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/95916",
+        "dub": null,
+        "url": "https://www.animegg.org/arifureta-shokugyou-de-sekai-saikyou-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/96001",
+        "dub": null,
+        "url": "https://www.animegg.org/arifureta-shokugyou-de-sekai-saikyou-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/96056",
+        "dub": null,
+        "url": "https://www.animegg.org/arifureta-shokugyou-de-sekai-saikyou-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/96119",
+        "dub": null,
+        "url": "https://www.animegg.org/arifureta-shokugyou-de-sekai-saikyou-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/96235",
+        "dub": null,
+        "url": "https://www.animegg.org/arifureta-shokugyou-de-sekai-saikyou-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/96293",
+        "dub": null,
+        "url": "https://www.animegg.org/arifureta-shokugyou-de-sekai-saikyou-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/96356",
+        "dub": null,
+        "url": "https://www.animegg.org/arifureta-shokugyou-de-sekai-saikyou-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/96419",
+        "dub": null,
+        "url": "https://www.animegg.org/arifureta-shokugyou-de-sekai-saikyou-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/96472",
+        "dub": null,
+        "url": "https://www.animegg.org/arifureta-shokugyou-de-sekai-saikyou-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/96532",
+        "dub": null,
+        "url": "https://www.animegg.org/arifureta-shokugyou-de-sekai-saikyou-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/96577",
+        "dub": null,
+        "url": "https://www.animegg.org/arifureta-shokugyou-de-sekai-saikyou-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/96638",
+        "dub": null,
+        "url": "https://www.animegg.org/arifureta-shokugyou-de-sekai-saikyou-episode-13"
+      }
+    ]
   }
 ]
