@@ -124682,5 +124682,87 @@
         "url": "https://www.animegg.org/nichijou-episode-29"
       }
     ]
+  },
+  {
+    "serial_no": 315,
+    "title": "Yamada-kun to 7-nin no Majo (TV)",
+    "animegg_url": "https://www.animegg.org/series/yamada-kun-to-7-nin-no-majo",
+    "mal_url": "https://myanimelist.net/anime/28677",
+    "mal_id": 28677,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/77612",
+        "dub": "https://www.animegg.org/embed/77613",
+        "url": "https://www.animegg.org/yamada-kun-to-7-nin-no-majo-tv-episode-12"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/77517",
+        "dub": null,
+        "url": "https://www.animegg.org/yamada-kun-to-7-nin-no-majo-tv-episode-11"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/77369",
+        "dub": null,
+        "url": "https://www.animegg.org/yamada-kun-to-7-nin-no-majo-tv-episode-10"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/77231",
+        "dub": null,
+        "url": "https://www.animegg.org/yamada-kun-to-7-nin-no-majo-tv-episode-9"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/77022",
+        "dub": null,
+        "url": "https://www.animegg.org/yamada-kun-to-7-nin-no-majo-tv-episode-8"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/76931",
+        "dub": "https://www.animegg.org/embed/76932",
+        "url": "https://www.animegg.org/yamada-kun-to-7-nin-no-majo-tv-episode-7"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/76833",
+        "dub": null,
+        "url": "https://www.animegg.org/yamada-kun-to-7-nin-no-majo-tv-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/76732",
+        "dub": null,
+        "url": "https://www.animegg.org/yamada-kun-to-7-nin-no-majo-tv-episode-5"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/76608",
+        "dub": "https://www.animegg.org/embed/76610",
+        "url": "https://www.animegg.org/yamada-kun-to-7-nin-no-majo-tv-episode-4"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/76470",
+        "dub": null,
+        "url": "https://www.animegg.org/yamada-kun-to-7-nin-no-majo-tv-episode-3"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/76345",
+        "dub": null,
+        "url": "https://www.animegg.org/yamada-kun-to-7-nin-no-majo-episode-2"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/76182",
+        "dub": null,
+        "url": "https://www.animegg.org/yamada-kun-to-7-nin-no-majo-episode-1"
+      }
+    ]
   }
 ]
