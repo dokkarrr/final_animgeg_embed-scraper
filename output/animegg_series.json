@@ -127334,5 +127334,87 @@
         "url": "https://www.animegg.org/nanatsu-no-taizai-fundo-no-shinpan-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 324,
+    "title": "Kenja no Mago",
+    "animegg_url": "https://www.animegg.org/series/kenja-no-mago",
+    "mal_url": "https://myanimelist.net/anime/36407",
+    "mal_id": 36407,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/95056",
+        "dub": null,
+        "url": "https://www.animegg.org/kenja-no-mago-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/95114",
+        "dub": null,
+        "url": "https://www.animegg.org/kenja-no-mago-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/95182",
+        "dub": null,
+        "url": "https://www.animegg.org/kenja-no-mago-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/95241",
+        "dub": null,
+        "url": "https://www.animegg.org/kenja-no-mago-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/95300",
+        "dub": null,
+        "url": "https://www.animegg.org/kenja-no-mago-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/95364",
+        "dub": null,
+        "url": "https://www.animegg.org/kenja-no-mago-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/95424",
+        "dub": null,
+        "url": "https://www.animegg.org/kenja-no-mago-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/95489",
+        "dub": null,
+        "url": "https://www.animegg.org/kenja-no-mago-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/95553",
+        "dub": null,
+        "url": "https://www.animegg.org/kenja-no-mago-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/95626",
+        "dub": null,
+        "url": "https://www.animegg.org/kenja-no-mago-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/95694",
+        "dub": null,
+        "url": "https://www.animegg.org/kenja-no-mago-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/95752",
+        "dub": null,
+        "url": "https://www.animegg.org/kenja-no-mago-episode-12"
+      }
+    ]
   }
 ]
