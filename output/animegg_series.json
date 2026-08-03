@@ -40368,5 +40368,897 @@
         "url": "https://www.animegg.org/yu-yu-hakusho-episode-112"
       }
     ]
+  },
+  {
+    "serial_no": 28,
+    "title": "Toriko",
+    "animegg_url": "https://www.animegg.org/series/toriko",
+    "mal_url": "https://myanimelist.net/anime/10033",
+    "mal_id": 10033,
+    "total_ep": 147,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/38678",
+        "dub": "https://www.animegg.org/embed/70651",
+        "url": "https://www.animegg.org/toriko-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/38674",
+        "dub": "https://www.animegg.org/embed/70652",
+        "url": "https://www.animegg.org/toriko-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/38677",
+        "dub": "https://www.animegg.org/embed/70653",
+        "url": "https://www.animegg.org/toriko-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/38676",
+        "dub": "https://www.animegg.org/embed/70654",
+        "url": "https://www.animegg.org/toriko-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/38675",
+        "dub": "https://www.animegg.org/embed/70655",
+        "url": "https://www.animegg.org/toriko-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/38679",
+        "dub": "https://www.animegg.org/embed/70656",
+        "url": "https://www.animegg.org/toriko-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/38680",
+        "dub": "https://www.animegg.org/embed/70657",
+        "url": "https://www.animegg.org/toriko-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/38681",
+        "dub": "https://www.animegg.org/embed/70658",
+        "url": "https://www.animegg.org/toriko-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/38682",
+        "dub": "https://www.animegg.org/embed/70659",
+        "url": "https://www.animegg.org/toriko-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/38683",
+        "dub": "https://www.animegg.org/embed/70661",
+        "url": "https://www.animegg.org/toriko-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/38684",
+        "dub": "https://www.animegg.org/embed/70666",
+        "url": "https://www.animegg.org/toriko-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/38685",
+        "dub": "https://www.animegg.org/embed/70668",
+        "url": "https://www.animegg.org/toriko-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/38686",
+        "dub": "https://www.animegg.org/embed/70670",
+        "url": "https://www.animegg.org/toriko-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/38687",
+        "dub": "https://www.animegg.org/embed/70673",
+        "url": "https://www.animegg.org/toriko-episode-14"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/38688",
+        "dub": "https://www.animegg.org/embed/70675",
+        "url": "https://www.animegg.org/toriko-episode-15"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/38689",
+        "dub": "https://www.animegg.org/embed/70677",
+        "url": "https://www.animegg.org/toriko-episode-16"
+      },
+      {
+        "ep": 17,
+        "sub": "https://www.animegg.org/embed/38690",
+        "dub": "https://www.animegg.org/embed/70679",
+        "url": "https://www.animegg.org/toriko-episode-17"
+      },
+      {
+        "ep": 18,
+        "sub": "https://www.animegg.org/embed/38691",
+        "dub": "https://www.animegg.org/embed/70682",
+        "url": "https://www.animegg.org/toriko-episode-18"
+      },
+      {
+        "ep": 19,
+        "sub": "https://www.animegg.org/embed/38693",
+        "dub": "https://www.animegg.org/embed/70689",
+        "url": "https://www.animegg.org/toriko-episode-19"
+      },
+      {
+        "ep": 20,
+        "sub": "https://www.animegg.org/embed/38692",
+        "dub": "https://www.animegg.org/embed/70690",
+        "url": "https://www.animegg.org/toriko-episode-20"
+      },
+      {
+        "ep": 21,
+        "sub": "https://www.animegg.org/embed/38694",
+        "dub": "https://www.animegg.org/embed/70697",
+        "url": "https://www.animegg.org/toriko-episode-21"
+      },
+      {
+        "ep": 22,
+        "sub": "https://www.animegg.org/embed/38696",
+        "dub": "https://www.animegg.org/embed/70721",
+        "url": "https://www.animegg.org/toriko-episode-22"
+      },
+      {
+        "ep": 23,
+        "sub": "https://www.animegg.org/embed/38695",
+        "dub": "https://www.animegg.org/embed/70722",
+        "url": "https://www.animegg.org/toriko-episode-23"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/38698",
+        "dub": "https://www.animegg.org/embed/70723",
+        "url": "https://www.animegg.org/toriko-episode-24"
+      },
+      {
+        "ep": 25,
+        "sub": "https://www.animegg.org/embed/38697",
+        "dub": "https://www.animegg.org/embed/70724",
+        "url": "https://www.animegg.org/toriko-episode-25"
+      },
+      {
+        "ep": 26,
+        "sub": "https://www.animegg.org/embed/38699",
+        "dub": "https://www.animegg.org/embed/70725",
+        "url": "https://www.animegg.org/toriko-episode-26"
+      },
+      {
+        "ep": 27,
+        "sub": "https://www.animegg.org/embed/38701",
+        "dub": "https://www.animegg.org/embed/70726",
+        "url": "https://www.animegg.org/toriko-episode-27"
+      },
+      {
+        "ep": 28,
+        "sub": "https://www.animegg.org/embed/38700",
+        "dub": "https://www.animegg.org/embed/70727",
+        "url": "https://www.animegg.org/toriko-episode-28"
+      },
+      {
+        "ep": 29,
+        "sub": "https://www.animegg.org/embed/38703",
+        "dub": "https://www.animegg.org/embed/70728",
+        "url": "https://www.animegg.org/toriko-episode-29"
+      },
+      {
+        "ep": 30,
+        "sub": "https://www.animegg.org/embed/38702",
+        "dub": "https://www.animegg.org/embed/70729",
+        "url": "https://www.animegg.org/toriko-episode-30"
+      },
+      {
+        "ep": 31,
+        "sub": "https://www.animegg.org/embed/38706",
+        "dub": "https://www.animegg.org/embed/70732",
+        "url": "https://www.animegg.org/toriko-episode-31"
+      },
+      {
+        "ep": 32,
+        "sub": "https://www.animegg.org/embed/38705",
+        "dub": "https://www.animegg.org/embed/70750",
+        "url": "https://www.animegg.org/toriko-episode-32"
+      },
+      {
+        "ep": 33,
+        "sub": "https://www.animegg.org/embed/38704",
+        "dub": "https://www.animegg.org/embed/70753",
+        "url": "https://www.animegg.org/toriko-episode-33"
+      },
+      {
+        "ep": 34,
+        "sub": "https://www.animegg.org/embed/38708",
+        "dub": "https://www.animegg.org/embed/70755",
+        "url": "https://www.animegg.org/toriko-episode-34"
+      },
+      {
+        "ep": 35,
+        "sub": "https://www.animegg.org/embed/38707",
+        "dub": "https://www.animegg.org/embed/70756",
+        "url": "https://www.animegg.org/toriko-episode-35"
+      },
+      {
+        "ep": 36,
+        "sub": "https://www.animegg.org/embed/38709",
+        "dub": "https://www.animegg.org/embed/70758",
+        "url": "https://www.animegg.org/toriko-episode-36"
+      },
+      {
+        "ep": 37,
+        "sub": "https://www.animegg.org/embed/38710",
+        "dub": "https://www.animegg.org/embed/70760",
+        "url": "https://www.animegg.org/toriko-episode-37"
+      },
+      {
+        "ep": 38,
+        "sub": "https://www.animegg.org/embed/38711",
+        "dub": "https://www.animegg.org/embed/70761",
+        "url": "https://www.animegg.org/toriko-episode-38"
+      },
+      {
+        "ep": 39,
+        "sub": "https://www.animegg.org/embed/38712",
+        "dub": "https://www.animegg.org/embed/70762",
+        "url": "https://www.animegg.org/toriko-episode-39"
+      },
+      {
+        "ep": 40,
+        "sub": "https://www.animegg.org/embed/38714",
+        "dub": "https://www.animegg.org/embed/70763",
+        "url": "https://www.animegg.org/toriko-episode-40"
+      },
+      {
+        "ep": 41,
+        "sub": "https://www.animegg.org/embed/38716",
+        "dub": "https://www.animegg.org/embed/70764",
+        "url": "https://www.animegg.org/toriko-episode-41"
+      },
+      {
+        "ep": 42,
+        "sub": "https://www.animegg.org/embed/38715",
+        "dub": "https://www.animegg.org/embed/70765",
+        "url": "https://www.animegg.org/toriko-episode-42"
+      },
+      {
+        "ep": 43,
+        "sub": "https://www.animegg.org/embed/38713",
+        "dub": "https://www.animegg.org/embed/70766",
+        "url": "https://www.animegg.org/toriko-episode-43"
+      },
+      {
+        "ep": 44,
+        "sub": "https://www.animegg.org/embed/38717",
+        "dub": "https://www.animegg.org/embed/70767",
+        "url": "https://www.animegg.org/toriko-episode-44"
+      },
+      {
+        "ep": 45,
+        "sub": "https://www.animegg.org/embed/38718",
+        "dub": "https://www.animegg.org/embed/70768",
+        "url": "https://www.animegg.org/toriko-episode-45"
+      },
+      {
+        "ep": 46,
+        "sub": "https://www.animegg.org/embed/38719",
+        "dub": "https://www.animegg.org/embed/70769",
+        "url": "https://www.animegg.org/toriko-episode-46"
+      },
+      {
+        "ep": 47,
+        "sub": "https://www.animegg.org/embed/38720",
+        "dub": "https://www.animegg.org/embed/70770",
+        "url": "https://www.animegg.org/toriko-episode-47"
+      },
+      {
+        "ep": 48,
+        "sub": "https://www.animegg.org/embed/38721",
+        "dub": "https://www.animegg.org/embed/70771",
+        "url": "https://www.animegg.org/toriko-episode-48"
+      },
+      {
+        "ep": 49,
+        "sub": "https://www.animegg.org/embed/38722",
+        "dub": "https://www.animegg.org/embed/70772",
+        "url": "https://www.animegg.org/toriko-episode-49"
+      },
+      {
+        "ep": 50,
+        "sub": "https://www.animegg.org/embed/38723",
+        "dub": "https://www.animegg.org/embed/70773",
+        "url": "https://www.animegg.org/toriko-episode-50"
+      },
+      {
+        "ep": 51,
+        "sub": "https://www.animegg.org/embed/38724",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-51"
+      },
+      {
+        "ep": 52,
+        "sub": "https://www.animegg.org/embed/38725",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-52"
+      },
+      {
+        "ep": 53,
+        "sub": "https://www.animegg.org/embed/38726",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-53"
+      },
+      {
+        "ep": 54,
+        "sub": "https://www.animegg.org/embed/38727",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-54"
+      },
+      {
+        "ep": 55,
+        "sub": "https://www.animegg.org/embed/38728",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-55"
+      },
+      {
+        "ep": 56,
+        "sub": "https://www.animegg.org/embed/38729",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-56"
+      },
+      {
+        "ep": 57,
+        "sub": "https://www.animegg.org/embed/38730",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-57"
+      },
+      {
+        "ep": 58,
+        "sub": "https://www.animegg.org/embed/38731",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-58"
+      },
+      {
+        "ep": 59,
+        "sub": "https://www.animegg.org/embed/38732",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-59"
+      },
+      {
+        "ep": 60,
+        "sub": "https://www.animegg.org/embed/38733",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-60"
+      },
+      {
+        "ep": 61,
+        "sub": "https://www.animegg.org/embed/38735",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-61"
+      },
+      {
+        "ep": 62,
+        "sub": "https://www.animegg.org/embed/38734",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-62"
+      },
+      {
+        "ep": 63,
+        "sub": "https://www.animegg.org/embed/38737",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-63"
+      },
+      {
+        "ep": 64,
+        "sub": "https://www.animegg.org/embed/38736",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-64"
+      },
+      {
+        "ep": 65,
+        "sub": "https://www.animegg.org/embed/38738",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-65"
+      },
+      {
+        "ep": 66,
+        "sub": "https://www.animegg.org/embed/38739",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-66"
+      },
+      {
+        "ep": 67,
+        "sub": "https://www.animegg.org/embed/38740",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-67"
+      },
+      {
+        "ep": 68,
+        "sub": "https://www.animegg.org/embed/38741",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-68"
+      },
+      {
+        "ep": 69,
+        "sub": "https://www.animegg.org/embed/38742",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-69"
+      },
+      {
+        "ep": 70,
+        "sub": "https://www.animegg.org/embed/38743",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-70"
+      },
+      {
+        "ep": 71,
+        "sub": "https://www.animegg.org/embed/38745",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-71"
+      },
+      {
+        "ep": 72,
+        "sub": "https://www.animegg.org/embed/38744",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-72"
+      },
+      {
+        "ep": 73,
+        "sub": "https://www.animegg.org/embed/38746",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-73"
+      },
+      {
+        "ep": 74,
+        "sub": "https://www.animegg.org/embed/38748",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-74"
+      },
+      {
+        "ep": 75,
+        "sub": "https://www.animegg.org/embed/38747",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-75"
+      },
+      {
+        "ep": 76,
+        "sub": "https://www.animegg.org/embed/38749",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-76"
+      },
+      {
+        "ep": 77,
+        "sub": "https://www.animegg.org/embed/38750",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-77"
+      },
+      {
+        "ep": 78,
+        "sub": "https://www.animegg.org/embed/38751",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-78"
+      },
+      {
+        "ep": 79,
+        "sub": "https://www.animegg.org/embed/38752",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-79"
+      },
+      {
+        "ep": 80,
+        "sub": "https://www.animegg.org/embed/38753",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-80"
+      },
+      {
+        "ep": 81,
+        "sub": "https://www.animegg.org/embed/38754",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-81"
+      },
+      {
+        "ep": 82,
+        "sub": "https://www.animegg.org/embed/38755",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-82"
+      },
+      {
+        "ep": 83,
+        "sub": "https://www.animegg.org/embed/38756",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-83"
+      },
+      {
+        "ep": 84,
+        "sub": "https://www.animegg.org/embed/38757",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-84"
+      },
+      {
+        "ep": 85,
+        "sub": "https://www.animegg.org/embed/38758",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-85"
+      },
+      {
+        "ep": 86,
+        "sub": "https://www.animegg.org/embed/38759",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-86"
+      },
+      {
+        "ep": 87,
+        "sub": "https://www.animegg.org/embed/38760",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-87"
+      },
+      {
+        "ep": 88,
+        "sub": "https://www.animegg.org/embed/38761",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-88"
+      },
+      {
+        "ep": 89,
+        "sub": "https://www.animegg.org/embed/38763",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-89"
+      },
+      {
+        "ep": 90,
+        "sub": "https://www.animegg.org/embed/38762",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-90"
+      },
+      {
+        "ep": 91,
+        "sub": "https://www.animegg.org/embed/38764",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-91"
+      },
+      {
+        "ep": 92,
+        "sub": "https://www.animegg.org/embed/38766",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-92"
+      },
+      {
+        "ep": 93,
+        "sub": "https://www.animegg.org/embed/38765",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-93"
+      },
+      {
+        "ep": 94,
+        "sub": "https://www.animegg.org/embed/38767",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-94"
+      },
+      {
+        "ep": 95,
+        "sub": "https://www.animegg.org/embed/38769",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-95"
+      },
+      {
+        "ep": 96,
+        "sub": "https://www.animegg.org/embed/38768",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-96"
+      },
+      {
+        "ep": 97,
+        "sub": "https://www.animegg.org/embed/38770",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-97"
+      },
+      {
+        "ep": 98,
+        "sub": "https://www.animegg.org/embed/38772",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-98"
+      },
+      {
+        "ep": 99,
+        "sub": "https://www.animegg.org/embed/38771",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-99"
+      },
+      {
+        "ep": 100,
+        "sub": "https://www.animegg.org/embed/38773",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-100"
+      },
+      {
+        "ep": 101,
+        "sub": "https://www.animegg.org/embed/38774",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-101"
+      },
+      {
+        "ep": 102,
+        "sub": "https://www.animegg.org/embed/38775",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-102"
+      },
+      {
+        "ep": 103,
+        "sub": "https://www.animegg.org/embed/38776",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-103"
+      },
+      {
+        "ep": 104,
+        "sub": "https://www.animegg.org/embed/38777",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-104"
+      },
+      {
+        "ep": 105,
+        "sub": "https://www.animegg.org/embed/38778",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-105"
+      },
+      {
+        "ep": 106,
+        "sub": "https://www.animegg.org/embed/38779",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-106"
+      },
+      {
+        "ep": 107,
+        "sub": "https://www.animegg.org/embed/38780",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-107"
+      },
+      {
+        "ep": 108,
+        "sub": "https://www.animegg.org/embed/38781",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-108"
+      },
+      {
+        "ep": 109,
+        "sub": "https://www.animegg.org/embed/38783",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-109"
+      },
+      {
+        "ep": 110,
+        "sub": "https://www.animegg.org/embed/38782",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-110"
+      },
+      {
+        "ep": 111,
+        "sub": "https://www.animegg.org/embed/38784",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-111"
+      },
+      {
+        "ep": 112,
+        "sub": "https://www.animegg.org/embed/38786",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-112"
+      },
+      {
+        "ep": 113,
+        "sub": "https://www.animegg.org/embed/38785",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-113"
+      },
+      {
+        "ep": 114,
+        "sub": "https://www.animegg.org/embed/38787",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-114"
+      },
+      {
+        "ep": 115,
+        "sub": "https://www.animegg.org/embed/38788",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-115"
+      },
+      {
+        "ep": 116,
+        "sub": "https://www.animegg.org/embed/38791",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-116"
+      },
+      {
+        "ep": 117,
+        "sub": "https://www.animegg.org/embed/38790",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-117"
+      },
+      {
+        "ep": 118,
+        "sub": "https://www.animegg.org/embed/38789",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-118"
+      },
+      {
+        "ep": 119,
+        "sub": "https://www.animegg.org/embed/38792",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-119"
+      },
+      {
+        "ep": 120,
+        "sub": "https://www.animegg.org/embed/38793",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-120"
+      },
+      {
+        "ep": 121,
+        "sub": "https://www.animegg.org/embed/38798",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-121"
+      },
+      {
+        "ep": 122,
+        "sub": "https://www.animegg.org/embed/38794",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-122"
+      },
+      {
+        "ep": 123,
+        "sub": "https://www.animegg.org/embed/38795",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-123"
+      },
+      {
+        "ep": 124,
+        "sub": "https://www.animegg.org/embed/38796",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-124"
+      },
+      {
+        "ep": 125,
+        "sub": "https://www.animegg.org/embed/38797",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-125"
+      },
+      {
+        "ep": 126,
+        "sub": "https://www.animegg.org/embed/38800",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-126"
+      },
+      {
+        "ep": 127,
+        "sub": "https://www.animegg.org/embed/38799",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-127"
+      },
+      {
+        "ep": 128,
+        "sub": "https://www.animegg.org/embed/38801",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-128"
+      },
+      {
+        "ep": 129,
+        "sub": "https://www.animegg.org/embed/38802",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-129"
+      },
+      {
+        "ep": 130,
+        "sub": "https://www.animegg.org/embed/38803",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-130"
+      },
+      {
+        "ep": 131,
+        "sub": "https://www.animegg.org/embed/38804",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-131"
+      },
+      {
+        "ep": 132,
+        "sub": "https://www.animegg.org/embed/38805",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-132"
+      },
+      {
+        "ep": 133,
+        "sub": "https://www.animegg.org/embed/38806",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-133"
+      },
+      {
+        "ep": 134,
+        "sub": "https://www.animegg.org/embed/38808",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-134"
+      },
+      {
+        "ep": 135,
+        "sub": "https://www.animegg.org/embed/38807",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-135"
+      },
+      {
+        "ep": 136,
+        "sub": "https://www.animegg.org/embed/38809",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-136"
+      },
+      {
+        "ep": 137,
+        "sub": "https://www.animegg.org/embed/38811",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-137"
+      },
+      {
+        "ep": 138,
+        "sub": "https://www.animegg.org/embed/38812",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-138"
+      },
+      {
+        "ep": 139,
+        "sub": "https://www.animegg.org/embed/38813",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-139"
+      },
+      {
+        "ep": 140,
+        "sub": "https://www.animegg.org/embed/38810",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-140"
+      },
+      {
+        "ep": 141,
+        "sub": "https://www.animegg.org/embed/38814",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-141"
+      },
+      {
+        "ep": 142,
+        "sub": "https://www.animegg.org/embed/38816",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-142"
+      },
+      {
+        "ep": 143,
+        "sub": "https://www.animegg.org/embed/38817",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-143"
+      },
+      {
+        "ep": 144,
+        "sub": "https://www.animegg.org/embed/38815",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-144"
+      },
+      {
+        "ep": 145,
+        "sub": "https://www.animegg.org/embed/38818",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-145"
+      },
+      {
+        "ep": 146,
+        "sub": "https://www.animegg.org/embed/38819",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-146"
+      },
+      {
+        "ep": 147,
+        "sub": "https://www.animegg.org/embed/38820",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-episode-147"
+      }
+    ]
   }
 ]
