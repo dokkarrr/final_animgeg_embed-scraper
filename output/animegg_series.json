@@ -72284,5 +72284,87 @@
         "url": "https://www.animegg.org/free-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 102,
+    "title": "Kiss x Sis (OVA)",
+    "animegg_url": "https://www.animegg.org/series/kiss-x-sis-ova",
+    "mal_url": "https://myanimelist.net/anime/32899",
+    "mal_id": 32899,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/43865",
+        "dub": null,
+        "url": "https://www.animegg.org/kiss-x-sis-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/43866",
+        "dub": null,
+        "url": "https://www.animegg.org/kiss-x-sis-ova-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/43867",
+        "dub": null,
+        "url": "https://www.animegg.org/kiss-x-sis-ova-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/43868",
+        "dub": null,
+        "url": "https://www.animegg.org/kiss-x-sis-ova-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/43869",
+        "dub": null,
+        "url": "https://www.animegg.org/kiss-x-sis-ova-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/43870",
+        "dub": null,
+        "url": "https://www.animegg.org/kiss-x-sis-ova-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/43871",
+        "dub": null,
+        "url": "https://www.animegg.org/kiss-x-sis-ova-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/43872",
+        "dub": null,
+        "url": "https://www.animegg.org/kiss-x-sis-ova-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/43873",
+        "dub": null,
+        "url": "https://www.animegg.org/kiss-x-sis-ova-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/43874",
+        "dub": null,
+        "url": "https://www.animegg.org/kiss-x-sis-ova-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/43875",
+        "dub": "https://www.animegg.org/embed/43876",
+        "url": "https://www.animegg.org/kiss-x-sis-ova-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/75990",
+        "dub": "https://www.animegg.org/embed/76524",
+        "url": "https://www.animegg.org/kiss-x-sis-ova-episode-12"
+      }
+    ]
   }
 ]
