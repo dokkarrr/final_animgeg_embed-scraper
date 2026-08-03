@@ -638,5 +638,147 @@
         "url": "https://www.animegg.org/kagaku-ninja-tai-gatchaman-episode-105"
       }
     ]
+  },
+  {
+    "serial_no": 512,
+    "title": "Shiki",
+    "animegg_url": "https://www.animegg.org/series/shiki",
+    "mal_url": "https://myanimelist.net/anime/7724",
+    "mal_id": 7724,
+    "total_ep": 22,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/34511",
+        "dub": "https://www.animegg.org/embed/34512",
+        "url": "https://www.animegg.org/shiki-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/34505",
+        "dub": "https://www.animegg.org/embed/34506",
+        "url": "https://www.animegg.org/shiki-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/34509",
+        "dub": "https://www.animegg.org/embed/34510",
+        "url": "https://www.animegg.org/shiki-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/34507",
+        "dub": "https://www.animegg.org/embed/34508",
+        "url": "https://www.animegg.org/shiki-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/34513",
+        "dub": "https://www.animegg.org/embed/34514",
+        "url": "https://www.animegg.org/shiki-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/34517",
+        "dub": "https://www.animegg.org/embed/34518",
+        "url": "https://www.animegg.org/shiki-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/34515",
+        "dub": "https://www.animegg.org/embed/34516",
+        "url": "https://www.animegg.org/shiki-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/34519",
+        "dub": "https://www.animegg.org/embed/34520",
+        "url": "https://www.animegg.org/shiki-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/34521",
+        "dub": "https://www.animegg.org/embed/34522",
+        "url": "https://www.animegg.org/shiki-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/34523",
+        "dub": "https://www.animegg.org/embed/34524",
+        "url": "https://www.animegg.org/shiki-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/34529",
+        "dub": "https://www.animegg.org/embed/34530",
+        "url": "https://www.animegg.org/shiki-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/34527",
+        "dub": "https://www.animegg.org/embed/34528",
+        "url": "https://www.animegg.org/shiki-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/34525",
+        "dub": "https://www.animegg.org/embed/34526",
+        "url": "https://www.animegg.org/shiki-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/34533",
+        "dub": "https://www.animegg.org/embed/34534",
+        "url": "https://www.animegg.org/shiki-episode-14"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/34531",
+        "dub": "https://www.animegg.org/embed/34532",
+        "url": "https://www.animegg.org/shiki-episode-15"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/34535",
+        "dub": "https://www.animegg.org/embed/34536",
+        "url": "https://www.animegg.org/shiki-episode-16"
+      },
+      {
+        "ep": 17,
+        "sub": "https://www.animegg.org/embed/34537",
+        "dub": "https://www.animegg.org/embed/34538",
+        "url": "https://www.animegg.org/shiki-episode-17"
+      },
+      {
+        "ep": 18,
+        "sub": "https://www.animegg.org/embed/34539",
+        "dub": "https://www.animegg.org/embed/34540",
+        "url": "https://www.animegg.org/shiki-episode-18"
+      },
+      {
+        "ep": 19,
+        "sub": "https://www.animegg.org/embed/34541",
+        "dub": "https://www.animegg.org/embed/34542",
+        "url": "https://www.animegg.org/shiki-episode-19"
+      },
+      {
+        "ep": 20,
+        "sub": "https://www.animegg.org/embed/34543",
+        "dub": "https://www.animegg.org/embed/34544",
+        "url": "https://www.animegg.org/shiki-episode-20"
+      },
+      {
+        "ep": 21,
+        "sub": "https://www.animegg.org/embed/34545",
+        "dub": "https://www.animegg.org/embed/34546",
+        "url": "https://www.animegg.org/shiki-episode-21"
+      },
+      {
+        "ep": 22,
+        "sub": "https://www.animegg.org/embed/34547",
+        "dub": "https://www.animegg.org/embed/34548",
+        "url": "https://www.animegg.org/shiki-episode-22"
+      }
+    ]
   }
 ]
