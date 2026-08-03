@@ -97336,5 +97336,87 @@
         "url": "https://www.animegg.org/overlord-ii-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 200,
+    "title": "Prison School",
+    "animegg_url": "https://www.animegg.org/series/prison-school",
+    "mal_url": "https://myanimelist.net/anime/30240",
+    "mal_id": 30240,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/77822",
+        "dub": "https://www.animegg.org/embed/78548",
+        "url": "https://www.animegg.org/prison-school-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/78211",
+        "dub": null,
+        "url": "https://www.animegg.org/prison-school-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/78151",
+        "dub": null,
+        "url": "https://www.animegg.org/prison-school-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/78284",
+        "dub": null,
+        "url": "https://www.animegg.org/prison-school-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/78419",
+        "dub": null,
+        "url": "https://www.animegg.org/prison-school-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/78522",
+        "dub": null,
+        "url": "https://www.animegg.org/prison-school-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/78644",
+        "dub": null,
+        "url": "https://www.animegg.org/prison-school-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/78747",
+        "dub": null,
+        "url": "https://www.animegg.org/prison-school-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/78870",
+        "dub": null,
+        "url": "https://www.animegg.org/prison-school-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/78980",
+        "dub": null,
+        "url": "https://www.animegg.org/prison-school-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/79093",
+        "dub": null,
+        "url": "https://www.animegg.org/prison-school-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/79185",
+        "dub": "https://www.animegg.org/embed/79188",
+        "url": "https://www.animegg.org/prison-school-episode-12"
+      }
+    ]
   }
 ]
