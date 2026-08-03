@@ -46576,5 +46576,93 @@
         "url": "https://www.animegg.org/nanatsu-no-taizai-imashime-no-fukkatsu-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 41,
+    "title": "Boku no Hero Academia",
+    "animegg_url": "https://www.animegg.org/series/boku-no-hero-academia",
+    "mal_url": "https://myanimelist.net/anime/31964",
+    "mal_id": 31964,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/81792",
+        "dub": "https://www.animegg.org/embed/89294",
+        "url": "https://www.animegg.org/bokunoheroacademia-episode-1-7872-9175"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/81887",
+        "dub": "https://www.animegg.org/embed/89295",
+        "url": "https://www.animegg.org/bokunoheroacademia-episode-2-9557"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/81973",
+        "dub": null,
+        "url": "https://www.animegg.org/boku-noheroacademia-anime-episode-3-4426-9378-7534"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/82058",
+        "dub": "https://www.animegg.org/embed/82455",
+        "url": "https://www.animegg.org/bokunohero-academia-episode-4-3676-9181"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/82143",
+        "dub": null,
+        "url": "https://www.animegg.org/boku-no-hero-academia-anime-episode-5-9061-6777"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/82240",
+        "dub": null,
+        "url": "https://www.animegg.org/bokunoheroacademia-episode-6-1146-6227"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/82313",
+        "dub": null,
+        "url": "https://www.animegg.org/bokunoheroacademia-episode-7-4512"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/82407",
+        "dub": null,
+        "url": "https://www.animegg.org/bokunohero-academia-episode-8-6062"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/82496",
+        "dub": null,
+        "url": "https://www.animegg.org/bokunohero-academia-episode-9-8094-7639"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/82595",
+        "dub": null,
+        "url": "https://www.animegg.org/bokunoheroacademia-episode-10-4683-7077"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/87334",
+        "dub": null,
+        "url": "https://www.animegg.org/boku-no-hero-academia-episode-11-8343"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/82674",
+        "dub": null,
+        "url": "https://www.animegg.org/bokunoheroacademia-episode-12-7545"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/82826",
+        "dub": null,
+        "url": "https://www.animegg.org/bokunoheroacademia-episode-13-3618-5569"
+      }
+    ]
   }
 ]
