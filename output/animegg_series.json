@@ -92910,5 +92910,75 @@
         "url": "https://www.animegg.org/nisekoi-episode-20"
       }
     ]
+  },
+  {
+    "serial_no": 181,
+    "title": "Haikyuu!! Third Season",
+    "animegg_url": "https://www.animegg.org/series/haikyuu-third-season",
+    "mal_url": "https://myanimelist.net/anime/32935",
+    "mal_id": 32935,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/84159",
+        "dub": null,
+        "url": "https://www.animegg.org/haikyuu-third-season-episode-1-7104"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/84261",
+        "dub": null,
+        "url": "https://www.animegg.org/haikyuu-third-season-episode-2-7832"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/84469",
+        "dub": null,
+        "url": "https://www.animegg.org/haikyuu-third-season-episode-3-5495"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/84563",
+        "dub": null,
+        "url": "https://www.animegg.org/haikyuu-third-season-episode-4-8700"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/84564",
+        "dub": null,
+        "url": "https://www.animegg.org/haikyuu-third-season-episode-5-6435"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/84658",
+        "dub": null,
+        "url": "https://www.animegg.org/haikyuu-third-season-episode-6-3583"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/84757",
+        "dub": null,
+        "url": "https://www.animegg.org/haikyuu-third-season-episode-7-8841"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/84853",
+        "dub": null,
+        "url": "https://www.animegg.org/haikyuu-third-season-episode-8-6374"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/84949",
+        "dub": null,
+        "url": "https://www.animegg.org/haikyuu-third-season-episode-9-9745"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/85028",
+        "dub": null,
+        "url": "https://www.animegg.org/haikyuu-third-season-episode-10-6228"
+      }
+    ]
   }
 ]
