@@ -118704,5 +118704,147 @@
         "url": "https://www.animegg.org/capeta-episode-52"
       }
     ]
+  },
+  {
+    "serial_no": 286,
+    "title": "Hyouka",
+    "animegg_url": "https://www.animegg.org/series/hyouka",
+    "mal_url": "https://myanimelist.net/anime/12189",
+    "mal_id": 12189,
+    "total_ep": 22,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/17285",
+        "dub": null,
+        "url": "https://www.animegg.org/hyouka-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/17284",
+        "dub": null,
+        "url": "https://www.animegg.org/hyouka-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/17282",
+        "dub": null,
+        "url": "https://www.animegg.org/hyouka-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/75022",
+        "dub": null,
+        "url": "https://www.animegg.org/hyouka-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/17281",
+        "dub": null,
+        "url": "https://www.animegg.org/hyouka-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/17288",
+        "dub": null,
+        "url": "https://www.animegg.org/hyouka-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/17286",
+        "dub": null,
+        "url": "https://www.animegg.org/hyouka-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/17287",
+        "dub": null,
+        "url": "https://www.animegg.org/hyouka-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/17289",
+        "dub": null,
+        "url": "https://www.animegg.org/hyouka-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/17290",
+        "dub": null,
+        "url": "https://www.animegg.org/hyouka-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/17291",
+        "dub": null,
+        "url": "https://www.animegg.org/hyouka-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/17294",
+        "dub": null,
+        "url": "https://www.animegg.org/hyouka-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/17292",
+        "dub": null,
+        "url": "https://www.animegg.org/hyouka-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/17293",
+        "dub": null,
+        "url": "https://www.animegg.org/hyouka-episode-14"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/17295",
+        "dub": null,
+        "url": "https://www.animegg.org/hyouka-episode-15"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/17296",
+        "dub": null,
+        "url": "https://www.animegg.org/hyouka-episode-16"
+      },
+      {
+        "ep": 17,
+        "sub": "https://www.animegg.org/embed/17297",
+        "dub": null,
+        "url": "https://www.animegg.org/hyouka-episode-17"
+      },
+      {
+        "ep": 18,
+        "sub": "https://www.animegg.org/embed/17298",
+        "dub": null,
+        "url": "https://www.animegg.org/hyouka-episode-18"
+      },
+      {
+        "ep": 19,
+        "sub": "https://www.animegg.org/embed/17300",
+        "dub": null,
+        "url": "https://www.animegg.org/hyouka-episode-19"
+      },
+      {
+        "ep": 20,
+        "sub": "https://www.animegg.org/embed/17299",
+        "dub": null,
+        "url": "https://www.animegg.org/hyouka-episode-20"
+      },
+      {
+        "ep": 21,
+        "sub": "https://www.animegg.org/embed/17301",
+        "dub": null,
+        "url": "https://www.animegg.org/hyouka-episode-21"
+      },
+      {
+        "ep": 22,
+        "sub": "https://www.animegg.org/embed/17302",
+        "dub": null,
+        "url": "https://www.animegg.org/hyouka-episode-22"
+      }
+    ]
   }
 ]
