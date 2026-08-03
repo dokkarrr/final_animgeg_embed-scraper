@@ -42346,5 +42346,87 @@
         "url": "https://www.animegg.org/sword-art-online-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 32,
+    "title": "One Punch Man",
+    "animegg_url": "https://www.animegg.org/series/onepunch-man",
+    "mal_url": "https://myanimelist.net/anime/30276",
+    "mal_id": 30276,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/79303",
+        "dub": null,
+        "url": "https://www.animegg.org/onepunch-man-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/79439",
+        "dub": null,
+        "url": "https://www.animegg.org/onepunch-man-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/79544",
+        "dub": null,
+        "url": "https://www.animegg.org/onepunch-man-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/79657",
+        "dub": null,
+        "url": "https://www.animegg.org/one-punch-man-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/79744",
+        "dub": null,
+        "url": "https://www.animegg.org/one-punch-man-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/79834",
+        "dub": null,
+        "url": "https://www.animegg.org/one-punch-man-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/79921",
+        "dub": null,
+        "url": "https://www.animegg.org/one-punch-man-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/80019",
+        "dub": null,
+        "url": "https://www.animegg.org/one-punch-man-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/80120",
+        "dub": null,
+        "url": "https://www.animegg.org/one-punch-man-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/80258",
+        "dub": null,
+        "url": "https://www.animegg.org/one-punch-man-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/80340",
+        "dub": null,
+        "url": "https://www.animegg.org/one-punch-man-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/80432",
+        "dub": null,
+        "url": "https://www.animegg.org/one-punch-man-episode-12"
+      }
+    ]
   }
 ]
