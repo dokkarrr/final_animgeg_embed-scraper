@@ -92538,5 +92538,93 @@
         "url": "https://www.animegg.org/getbackers-episode-49"
       }
     ]
+  },
+  {
+    "serial_no": 178,
+    "title": "Charlotte",
+    "animegg_url": "https://www.animegg.org/series/charlotte",
+    "mal_url": "https://myanimelist.net/anime/28999",
+    "mal_id": 28999,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/77720",
+        "dub": "https://www.animegg.org/embed/77734",
+        "url": "https://www.animegg.org/charlotte-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/77841",
+        "dub": "https://www.animegg.org/embed/77845",
+        "url": "https://www.animegg.org/charlotte-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/78022",
+        "dub": "https://www.animegg.org/embed/78026",
+        "url": "https://www.animegg.org/charlotte-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/78163",
+        "dub": "https://www.animegg.org/embed/78166",
+        "url": "https://www.animegg.org/charlotte-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/78307",
+        "dub": "https://www.animegg.org/embed/78312",
+        "url": "https://www.animegg.org/charlotte-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/78435",
+        "dub": "https://www.animegg.org/embed/78438",
+        "url": "https://www.animegg.org/charlotte-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/78537",
+        "dub": null,
+        "url": "https://www.animegg.org/charlotte-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/78655",
+        "dub": null,
+        "url": "https://www.animegg.org/charlotte-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/78765",
+        "dub": "https://www.animegg.org/embed/78767",
+        "url": "https://www.animegg.org/charlotte-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/78884",
+        "dub": null,
+        "url": "https://www.animegg.org/charlotte-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/78996",
+        "dub": null,
+        "url": "https://www.animegg.org/charlotte-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/79108",
+        "dub": null,
+        "url": "https://www.animegg.org/charlotte-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/79201",
+        "dub": null,
+        "url": "https://www.animegg.org/charlotte-episode-13"
+      }
+    ]
   }
 ]
