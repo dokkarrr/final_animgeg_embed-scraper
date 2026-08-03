@@ -63752,5 +63752,87 @@
         "url": "https://www.animegg.org/haikyuu-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 75,
+    "title": "Tokyo Ghoul 2nd Season",
+    "animegg_url": "https://www.animegg.org/series/tokyo-ghoul-2nd-season",
+    "mal_url": "https://myanimelist.net/anime/27899",
+    "mal_id": 27899,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/75847",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-ghoul-a-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/75714",
+        "dub": "https://www.animegg.org/embed/75717",
+        "url": "https://www.animegg.org/tokyo-ghoul-a-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/75569",
+        "dub": "https://www.animegg.org/embed/76479",
+        "url": "https://www.animegg.org/tokyo-ghoul-a-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/75336",
+        "dub": "https://www.animegg.org/embed/76285",
+        "url": "https://www.animegg.org/tokyo-ghoul-a-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/75139",
+        "dub": "https://www.animegg.org/embed/76284",
+        "url": "https://www.animegg.org/tokyo-ghoul-a-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/75004",
+        "dub": "https://www.animegg.org/embed/76283",
+        "url": "https://www.animegg.org/tokyo-ghoul-a-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/74887",
+        "dub": "https://www.animegg.org/embed/75875",
+        "url": "https://www.animegg.org/tokyo-ghoul-a-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/74767",
+        "dub": "https://www.animegg.org/embed/75739",
+        "url": "https://www.animegg.org/tokyo-ghoul-a-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/74250",
+        "dub": "https://www.animegg.org/embed/75560",
+        "url": "https://www.animegg.org/tokyo-ghoul-a-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/73661",
+        "dub": "https://www.animegg.org/embed/75404",
+        "url": "https://www.animegg.org/tokyo-ghoul-a-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/73285",
+        "dub": "https://www.animegg.org/embed/75162",
+        "url": "https://www.animegg.org/tokyo-ghoul-2nd-season-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/75258",
+        "dub": "https://www.animegg.org/embed/75332",
+        "url": "https://www.animegg.org/tokyo-ghoul-a-episode-1"
+      }
+    ]
   }
 ]
