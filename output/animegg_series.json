@@ -110178,5 +110178,87 @@
         "url": "https://www.animegg.org/overlord-iii-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 244,
+    "title": "Shokugeki no Souma: San no Sara",
+    "animegg_url": "https://www.animegg.org/series/shokugeki-no-souma-san-no-sara",
+    "mal_url": "https://myanimelist.net/anime/35788",
+    "mal_id": 35788,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/88513",
+        "dub": null,
+        "url": "https://www.animegg.org/shokugeki-no-souma-san-no-sara-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/88610",
+        "dub": null,
+        "url": "https://www.animegg.org/shokugeki-no-souma-san-no-sara-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/88699",
+        "dub": null,
+        "url": "https://www.animegg.org/shokugeki-no-souma-san-no-sara-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/88774",
+        "dub": null,
+        "url": "https://www.animegg.org/shokugeki-no-souma-san-no-sara-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/88866",
+        "dub": null,
+        "url": "https://www.animegg.org/shokugeki-no-souma-san-no-sara-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/88956",
+        "dub": null,
+        "url": "https://www.animegg.org/shokugeki-no-souma-san-no-sara-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/89054",
+        "dub": null,
+        "url": "https://www.animegg.org/shokugeki-no-souma-san-no-sara-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/89127",
+        "dub": null,
+        "url": "https://www.animegg.org/shokugeki-no-souma-san-no-sara-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/89207",
+        "dub": null,
+        "url": "https://www.animegg.org/shokugeki-no-souma-san-no-sara-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/89286",
+        "dub": null,
+        "url": "https://www.animegg.org/shokugeki-no-souma-san-no-sara-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/89359",
+        "dub": null,
+        "url": "https://www.animegg.org/shokugeki-no-souma-san-no-sara-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/89435",
+        "dub": null,
+        "url": "https://www.animegg.org/shokugeki-no-souma-san-no-sara-episode-12"
+      }
+    ]
   }
 ]
