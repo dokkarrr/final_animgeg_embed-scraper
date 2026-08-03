@@ -51562,5 +51562,585 @@
         "url": "https://www.animegg.org/ranma-12-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 47,
+    "title": "Rurouni Kenshin",
+    "animegg_url": "https://www.animegg.org/series/rurouni-kenshin",
+    "mal_url": "https://myanimelist.net/anime/45",
+    "mal_id": 45,
+    "total_ep": 95,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/32203",
+        "dub": "https://www.animegg.org/embed/32204",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/32195",
+        "dub": "https://www.animegg.org/embed/32196",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/32177",
+        "dub": "https://www.animegg.org/embed/32178",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/32181",
+        "dub": "https://www.animegg.org/embed/32182",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/32185",
+        "dub": "https://www.animegg.org/embed/32186",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/32179",
+        "dub": "https://www.animegg.org/embed/32180",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/32187",
+        "dub": "https://www.animegg.org/embed/32188",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/32183",
+        "dub": "https://www.animegg.org/embed/32184",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/32189",
+        "dub": "https://www.animegg.org/embed/32190",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/32193",
+        "dub": "https://www.animegg.org/embed/32194",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/32191",
+        "dub": "https://www.animegg.org/embed/32192",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/32197",
+        "dub": "https://www.animegg.org/embed/32198",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/32201",
+        "dub": "https://www.animegg.org/embed/32202",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/32199",
+        "dub": "https://www.animegg.org/embed/32200",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-14"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/32205",
+        "dub": "https://www.animegg.org/embed/32206",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-15"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/32207",
+        "dub": "https://www.animegg.org/embed/32208",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-16"
+      },
+      {
+        "ep": 17,
+        "sub": "https://www.animegg.org/embed/32209",
+        "dub": "https://www.animegg.org/embed/32210",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-17"
+      },
+      {
+        "ep": 18,
+        "sub": "https://www.animegg.org/embed/32211",
+        "dub": "https://www.animegg.org/embed/32212",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-18"
+      },
+      {
+        "ep": 19,
+        "sub": "https://www.animegg.org/embed/32213",
+        "dub": "https://www.animegg.org/embed/32214",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-19"
+      },
+      {
+        "ep": 20,
+        "sub": "https://www.animegg.org/embed/32221",
+        "dub": "https://www.animegg.org/embed/32222",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-20"
+      },
+      {
+        "ep": 21,
+        "sub": "https://www.animegg.org/embed/32217",
+        "dub": "https://www.animegg.org/embed/32218",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-21"
+      },
+      {
+        "ep": 22,
+        "sub": "https://www.animegg.org/embed/32215",
+        "dub": "https://www.animegg.org/embed/32216",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-22"
+      },
+      {
+        "ep": 23,
+        "sub": "https://www.animegg.org/embed/32219",
+        "dub": "https://www.animegg.org/embed/32220",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-23"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/32223",
+        "dub": "https://www.animegg.org/embed/32224",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-24"
+      },
+      {
+        "ep": 25,
+        "sub": "https://www.animegg.org/embed/32225",
+        "dub": "https://www.animegg.org/embed/32226",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-25"
+      },
+      {
+        "ep": 26,
+        "sub": "https://www.animegg.org/embed/32229",
+        "dub": "https://www.animegg.org/embed/32230",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-26"
+      },
+      {
+        "ep": 27,
+        "sub": "https://www.animegg.org/embed/32227",
+        "dub": "https://www.animegg.org/embed/32228",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-27"
+      },
+      {
+        "ep": 28,
+        "sub": "https://www.animegg.org/embed/32231",
+        "dub": "https://www.animegg.org/embed/32232",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-28"
+      },
+      {
+        "ep": 29,
+        "sub": "https://www.animegg.org/embed/32233",
+        "dub": "https://www.animegg.org/embed/32234",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-29"
+      },
+      {
+        "ep": 30,
+        "sub": "https://www.animegg.org/embed/32237",
+        "dub": "https://www.animegg.org/embed/32238",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-30"
+      },
+      {
+        "ep": 31,
+        "sub": "https://www.animegg.org/embed/32235",
+        "dub": "https://www.animegg.org/embed/32236",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-31"
+      },
+      {
+        "ep": 32,
+        "sub": "https://www.animegg.org/embed/32245",
+        "dub": "https://www.animegg.org/embed/32246",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-32"
+      },
+      {
+        "ep": 33,
+        "sub": "https://www.animegg.org/embed/32241",
+        "dub": "https://www.animegg.org/embed/32242",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-33"
+      },
+      {
+        "ep": 34,
+        "sub": "https://www.animegg.org/embed/32243",
+        "dub": "https://www.animegg.org/embed/32244",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-34"
+      },
+      {
+        "ep": 35,
+        "sub": "https://www.animegg.org/embed/32239",
+        "dub": "https://www.animegg.org/embed/32240",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-35"
+      },
+      {
+        "ep": 36,
+        "sub": "https://www.animegg.org/embed/32247",
+        "dub": "https://www.animegg.org/embed/32248",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-36"
+      },
+      {
+        "ep": 37,
+        "sub": "https://www.animegg.org/embed/32249",
+        "dub": "https://www.animegg.org/embed/32250",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-37"
+      },
+      {
+        "ep": 38,
+        "sub": "https://www.animegg.org/embed/32251",
+        "dub": "https://www.animegg.org/embed/32252",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-38"
+      },
+      {
+        "ep": 39,
+        "sub": "https://www.animegg.org/embed/32253",
+        "dub": "https://www.animegg.org/embed/32254",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-39"
+      },
+      {
+        "ep": 40,
+        "sub": "https://www.animegg.org/embed/32255",
+        "dub": "https://www.animegg.org/embed/32256",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-40"
+      },
+      {
+        "ep": 41,
+        "sub": "https://www.animegg.org/embed/32279",
+        "dub": "https://www.animegg.org/embed/32280",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-41"
+      },
+      {
+        "ep": 42,
+        "sub": "https://www.animegg.org/embed/32257",
+        "dub": "https://www.animegg.org/embed/32258",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-42"
+      },
+      {
+        "ep": 43,
+        "sub": "https://www.animegg.org/embed/32259",
+        "dub": "https://www.animegg.org/embed/32260",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-43"
+      },
+      {
+        "ep": 44,
+        "sub": "https://www.animegg.org/embed/32265",
+        "dub": "https://www.animegg.org/embed/32266",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-44"
+      },
+      {
+        "ep": 45,
+        "sub": "https://www.animegg.org/embed/32261",
+        "dub": "https://www.animegg.org/embed/32262",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-45"
+      },
+      {
+        "ep": 46,
+        "sub": "https://www.animegg.org/embed/32263",
+        "dub": "https://www.animegg.org/embed/32264",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-46"
+      },
+      {
+        "ep": 47,
+        "sub": "https://www.animegg.org/embed/32267",
+        "dub": "https://www.animegg.org/embed/32268",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-47"
+      },
+      {
+        "ep": 48,
+        "sub": "https://www.animegg.org/embed/32273",
+        "dub": "https://www.animegg.org/embed/32274",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-48"
+      },
+      {
+        "ep": 49,
+        "sub": "https://www.animegg.org/embed/32269",
+        "dub": "https://www.animegg.org/embed/32270",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-49"
+      },
+      {
+        "ep": 50,
+        "sub": "https://www.animegg.org/embed/32271",
+        "dub": "https://www.animegg.org/embed/32272",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-50"
+      },
+      {
+        "ep": 51,
+        "sub": "https://www.animegg.org/embed/32275",
+        "dub": "https://www.animegg.org/embed/32276",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-51"
+      },
+      {
+        "ep": 52,
+        "sub": "https://www.animegg.org/embed/32281",
+        "dub": "https://www.animegg.org/embed/32282",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-52"
+      },
+      {
+        "ep": 53,
+        "sub": "https://www.animegg.org/embed/32283",
+        "dub": "https://www.animegg.org/embed/32284",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-53"
+      },
+      {
+        "ep": 54,
+        "sub": "https://www.animegg.org/embed/32277",
+        "dub": "https://www.animegg.org/embed/32278",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-54"
+      },
+      {
+        "ep": 55,
+        "sub": "https://www.animegg.org/embed/32287",
+        "dub": "https://www.animegg.org/embed/32288",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-55"
+      },
+      {
+        "ep": 56,
+        "sub": "https://www.animegg.org/embed/32285",
+        "dub": "https://www.animegg.org/embed/32286",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-56"
+      },
+      {
+        "ep": 57,
+        "sub": "https://www.animegg.org/embed/32295",
+        "dub": "https://www.animegg.org/embed/32296",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-57"
+      },
+      {
+        "ep": 58,
+        "sub": "https://www.animegg.org/embed/32289",
+        "dub": "https://www.animegg.org/embed/32290",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-58"
+      },
+      {
+        "ep": 59,
+        "sub": "https://www.animegg.org/embed/32291",
+        "dub": "https://www.animegg.org/embed/32292",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-59"
+      },
+      {
+        "ep": 60,
+        "sub": "https://www.animegg.org/embed/32293",
+        "dub": "https://www.animegg.org/embed/32294",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-60"
+      },
+      {
+        "ep": 61,
+        "sub": "https://www.animegg.org/embed/32297",
+        "dub": "https://www.animegg.org/embed/32298",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-61"
+      },
+      {
+        "ep": 62,
+        "sub": "https://www.animegg.org/embed/32299",
+        "dub": "https://www.animegg.org/embed/32300",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-62"
+      },
+      {
+        "ep": 63,
+        "sub": "https://www.animegg.org/embed/32323",
+        "dub": "https://www.animegg.org/embed/32324",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-63"
+      },
+      {
+        "ep": 64,
+        "sub": "https://www.animegg.org/embed/32311",
+        "dub": "https://www.animegg.org/embed/32312",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-64"
+      },
+      {
+        "ep": 65,
+        "sub": "https://www.animegg.org/embed/32303",
+        "dub": "https://www.animegg.org/embed/32304",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-65"
+      },
+      {
+        "ep": 66,
+        "sub": "https://www.animegg.org/embed/32305",
+        "dub": "https://www.animegg.org/embed/32306",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-66"
+      },
+      {
+        "ep": 67,
+        "sub": "https://www.animegg.org/embed/32301",
+        "dub": "https://www.animegg.org/embed/32302",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-67"
+      },
+      {
+        "ep": 68,
+        "sub": "https://www.animegg.org/embed/32307",
+        "dub": "https://www.animegg.org/embed/32308",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-68"
+      },
+      {
+        "ep": 69,
+        "sub": "https://www.animegg.org/embed/32309",
+        "dub": "https://www.animegg.org/embed/32310",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-69"
+      },
+      {
+        "ep": 70,
+        "sub": "https://www.animegg.org/embed/32313",
+        "dub": "https://www.animegg.org/embed/32314",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-70"
+      },
+      {
+        "ep": 71,
+        "sub": "https://www.animegg.org/embed/32315",
+        "dub": "https://www.animegg.org/embed/32316",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-71"
+      },
+      {
+        "ep": 72,
+        "sub": "https://www.animegg.org/embed/32319",
+        "dub": "https://www.animegg.org/embed/32320",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-72"
+      },
+      {
+        "ep": 73,
+        "sub": "https://www.animegg.org/embed/32317",
+        "dub": "https://www.animegg.org/embed/32318",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-73"
+      },
+      {
+        "ep": 74,
+        "sub": "https://www.animegg.org/embed/32321",
+        "dub": "https://www.animegg.org/embed/32322",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-74"
+      },
+      {
+        "ep": 75,
+        "sub": "https://www.animegg.org/embed/32325",
+        "dub": "https://www.animegg.org/embed/32326",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-75"
+      },
+      {
+        "ep": 76,
+        "sub": "https://www.animegg.org/embed/32327",
+        "dub": "https://www.animegg.org/embed/32328",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-76"
+      },
+      {
+        "ep": 77,
+        "sub": "https://www.animegg.org/embed/32329",
+        "dub": "https://www.animegg.org/embed/32330",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-77"
+      },
+      {
+        "ep": 78,
+        "sub": "https://www.animegg.org/embed/32331",
+        "dub": "https://www.animegg.org/embed/32332",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-78"
+      },
+      {
+        "ep": 79,
+        "sub": "https://www.animegg.org/embed/32333",
+        "dub": "https://www.animegg.org/embed/32334",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-79"
+      },
+      {
+        "ep": 80,
+        "sub": "https://www.animegg.org/embed/32335",
+        "dub": "https://www.animegg.org/embed/32336",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-80"
+      },
+      {
+        "ep": 81,
+        "sub": "https://www.animegg.org/embed/32341",
+        "dub": "https://www.animegg.org/embed/32342",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-81"
+      },
+      {
+        "ep": 82,
+        "sub": "https://www.animegg.org/embed/32337",
+        "dub": "https://www.animegg.org/embed/32338",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-82"
+      },
+      {
+        "ep": 83,
+        "sub": "https://www.animegg.org/embed/32343",
+        "dub": "https://www.animegg.org/embed/32344",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-83"
+      },
+      {
+        "ep": 84,
+        "sub": "https://www.animegg.org/embed/32339",
+        "dub": "https://www.animegg.org/embed/32340",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-84"
+      },
+      {
+        "ep": 85,
+        "sub": "https://www.animegg.org/embed/32345",
+        "dub": "https://www.animegg.org/embed/32346",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-85"
+      },
+      {
+        "ep": 86,
+        "sub": "https://www.animegg.org/embed/32347",
+        "dub": "https://www.animegg.org/embed/32348",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-86"
+      },
+      {
+        "ep": 87,
+        "sub": "https://www.animegg.org/embed/32349",
+        "dub": "https://www.animegg.org/embed/32350",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-87"
+      },
+      {
+        "ep": 88,
+        "sub": "https://www.animegg.org/embed/32355",
+        "dub": "https://www.animegg.org/embed/32356",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-88"
+      },
+      {
+        "ep": 89,
+        "sub": "https://www.animegg.org/embed/32351",
+        "dub": "https://www.animegg.org/embed/32352",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-89"
+      },
+      {
+        "ep": 90,
+        "sub": "https://www.animegg.org/embed/32353",
+        "dub": "https://www.animegg.org/embed/32354",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-90"
+      },
+      {
+        "ep": 91,
+        "sub": "https://www.animegg.org/embed/32359",
+        "dub": "https://www.animegg.org/embed/32360",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-91"
+      },
+      {
+        "ep": 92,
+        "sub": "https://www.animegg.org/embed/32357",
+        "dub": "https://www.animegg.org/embed/32358",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-92"
+      },
+      {
+        "ep": 93,
+        "sub": "https://www.animegg.org/embed/32361",
+        "dub": "https://www.animegg.org/embed/32362",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-93"
+      },
+      {
+        "ep": 94,
+        "sub": "https://www.animegg.org/embed/32365",
+        "dub": "https://www.animegg.org/embed/32366",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-94"
+      },
+      {
+        "ep": 95,
+        "sub": "https://www.animegg.org/embed/32363",
+        "dub": "https://www.animegg.org/embed/32364",
+        "url": "https://www.animegg.org/rurouni-kenshin-episode-95"
+      }
+    ]
   }
 ]
