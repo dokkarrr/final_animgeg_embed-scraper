@@ -86730,5 +86730,87 @@
         "url": "https://www.animegg.org/cardcaptor-sakura-episode-70"
       }
     ]
+  },
+  {
+    "serial_no": 157,
+    "title": "No Game No Life",
+    "animegg_url": "https://www.animegg.org/series/no-game-no-life",
+    "mal_url": "https://myanimelist.net/anime/19815",
+    "mal_id": 19815,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/43191",
+        "dub": "https://www.animegg.org/embed/77916",
+        "url": "https://www.animegg.org/no-game-no-life-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/43192",
+        "dub": "https://www.animegg.org/embed/77917",
+        "url": "https://www.animegg.org/no-game-no-life-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/43193",
+        "dub": "https://www.animegg.org/embed/77918",
+        "url": "https://www.animegg.org/no-game-no-life-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/43194",
+        "dub": "https://www.animegg.org/embed/77919",
+        "url": "https://www.animegg.org/no-game-no-life-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/43195",
+        "dub": "https://www.animegg.org/embed/77920",
+        "url": "https://www.animegg.org/no-game-no-life-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/43196",
+        "dub": "https://www.animegg.org/embed/77921",
+        "url": "https://www.animegg.org/no-game-no-life-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/43197",
+        "dub": "https://www.animegg.org/embed/77922",
+        "url": "https://www.animegg.org/no-game-no-life-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/43198",
+        "dub": "https://www.animegg.org/embed/43199",
+        "url": "https://www.animegg.org/no-game-no-life-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/43200",
+        "dub": "https://www.animegg.org/embed/43201",
+        "url": "https://www.animegg.org/no-game-no-life-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/43202",
+        "dub": "https://www.animegg.org/embed/43203",
+        "url": "https://www.animegg.org/no-game-no-life-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/43204",
+        "dub": "https://www.animegg.org/embed/43205",
+        "url": "https://www.animegg.org/no-game-no-life-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/43206",
+        "dub": "https://www.animegg.org/embed/43207",
+        "url": "https://www.animegg.org/no-game-no-life-episode-12"
+      }
+    ]
   }
 ]
