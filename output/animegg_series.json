@@ -123614,5 +123614,87 @@
         "url": "https://www.animegg.org/hagure-yuusha-no-estetica-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 309,
+    "title": "Death Parade",
+    "animegg_url": "https://www.animegg.org/series/death-parade",
+    "mal_url": "https://myanimelist.net/anime/28223",
+    "mal_id": 28223,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/69676",
+        "dub": "https://www.animegg.org/embed/69677",
+        "url": "https://www.animegg.org/death-parade-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/73562",
+        "dub": "https://www.animegg.org/embed/75192",
+        "url": "https://www.animegg.org/death-parade-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/73682",
+        "dub": "https://www.animegg.org/embed/75405",
+        "url": "https://www.animegg.org/death-parade-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/74650",
+        "dub": "https://www.animegg.org/embed/75584",
+        "url": "https://www.animegg.org/death-parade-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/75018",
+        "dub": "https://www.animegg.org/embed/75740",
+        "url": "https://www.animegg.org/death-parade-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/74913",
+        "dub": "https://www.animegg.org/embed/75876",
+        "url": "https://www.animegg.org/death-parade-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/75032",
+        "dub": "https://www.animegg.org/embed/76280",
+        "url": "https://www.animegg.org/death-parade-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/75198",
+        "dub": "https://www.animegg.org/embed/76281",
+        "url": "https://www.animegg.org/death-parade-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/75393",
+        "dub": "https://www.animegg.org/embed/76282",
+        "url": "https://www.animegg.org/death-parade-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/75601",
+        "dub": "https://www.animegg.org/embed/76480",
+        "url": "https://www.animegg.org/death-parade-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/75732",
+        "dub": "https://www.animegg.org/embed/76615",
+        "url": "https://www.animegg.org/death-parade-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/75868",
+        "dub": null,
+        "url": "https://www.animegg.org/death-parade-episode-12"
+      }
+    ]
   }
 ]
