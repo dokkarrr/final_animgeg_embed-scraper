@@ -133574,5 +133574,87 @@
         "url": "https://www.animegg.org/future-card-buddyfight-100-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 345,
+    "title": "Akagami no Shirayuki-hime",
+    "animegg_url": "https://www.animegg.org/series/akagami-no-shirayuki-hime",
+    "mal_url": "https://myanimelist.net/anime/30123",
+    "mal_id": 30123,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/77753",
+        "dub": "https://www.animegg.org/embed/80560",
+        "url": "https://www.animegg.org/akagami-no-shirayuki-hime-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/77881",
+        "dub": "https://www.animegg.org/embed/80561",
+        "url": "https://www.animegg.org/akagami-no-shirayuki-hime-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/78054",
+        "dub": "https://www.animegg.org/embed/78056",
+        "url": "https://www.animegg.org/akagami-no-shirayuki-hime-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/78230",
+        "dub": null,
+        "url": "https://www.animegg.org/akagami-no-shirayuki-hime-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/78347",
+        "dub": null,
+        "url": "https://www.animegg.org/akagami-no-shirayuki-hime-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/78464",
+        "dub": null,
+        "url": "https://www.animegg.org/akagami-no-shirayuki-hime-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/78582",
+        "dub": null,
+        "url": "https://www.animegg.org/akagami-no-shirayuki-hime-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/78684",
+        "dub": null,
+        "url": "https://www.animegg.org/akagami-no-shirayuki-hime-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/78799",
+        "dub": null,
+        "url": "https://www.animegg.org/akagami-no-shirayuki-hime-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/78915",
+        "dub": null,
+        "url": "https://www.animegg.org/akagami-no-shirayuki-hime-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/79022",
+        "dub": null,
+        "url": "https://www.animegg.org/akagami-no-shirayuki-hime-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/79132",
+        "dub": null,
+        "url": "https://www.animegg.org/akagami-no-shirayuki-hime-episode-12"
+      }
+    ]
   }
 ]
