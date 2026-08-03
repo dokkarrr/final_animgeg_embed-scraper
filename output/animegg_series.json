@@ -110652,5 +110652,93 @@
         "url": "https://www.animegg.org/absolute-duo-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 247,
+    "title": "Mob Psycho 100 II",
+    "animegg_url": "https://www.animegg.org/series/mob-psycho-100-ii",
+    "mal_url": "https://myanimelist.net/anime/37510",
+    "mal_id": 37510,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 100,
+        "sub": "https://www.animegg.org/embed/94978",
+        "dub": null,
+        "url": "https://www.animegg.org/mob-psycho-100-ii-episode-13"
+      },
+      {
+        "ep": 100,
+        "sub": "https://www.animegg.org/embed/94903",
+        "dub": null,
+        "url": "https://www.animegg.org/mob-psycho-100-ii-episode-12"
+      },
+      {
+        "ep": 100,
+        "sub": "https://www.animegg.org/embed/94820",
+        "dub": null,
+        "url": "https://www.animegg.org/mob-psycho-100-ii-episode-11"
+      },
+      {
+        "ep": 100,
+        "sub": "https://www.animegg.org/embed/94755",
+        "dub": null,
+        "url": "https://www.animegg.org/mob-psycho-100-ii-episode-10"
+      },
+      {
+        "ep": 100,
+        "sub": "https://www.animegg.org/embed/94693",
+        "dub": null,
+        "url": "https://www.animegg.org/mob-psycho-100-ii-episode-9"
+      },
+      {
+        "ep": 100,
+        "sub": "https://www.animegg.org/embed/94625",
+        "dub": null,
+        "url": "https://www.animegg.org/mob-psycho-100-ii-episode-8"
+      },
+      {
+        "ep": 100,
+        "sub": "https://www.animegg.org/embed/94550",
+        "dub": null,
+        "url": "https://www.animegg.org/mob-psycho-100-ii-episode-7"
+      },
+      {
+        "ep": 100,
+        "sub": "https://www.animegg.org/embed/94486",
+        "dub": null,
+        "url": "https://www.animegg.org/mob-psycho-100-ii-episode-6"
+      },
+      {
+        "ep": 100,
+        "sub": "https://www.animegg.org/embed/94423",
+        "dub": null,
+        "url": "https://www.animegg.org/mob-psycho-100-ii-episode-5"
+      },
+      {
+        "ep": 100,
+        "sub": "https://www.animegg.org/embed/94355",
+        "dub": null,
+        "url": "https://www.animegg.org/mob-psycho-100-ii-episode-4"
+      },
+      {
+        "ep": 100,
+        "sub": "https://www.animegg.org/embed/94293",
+        "dub": null,
+        "url": "https://www.animegg.org/mob-psycho-100-ii-episode-3"
+      },
+      {
+        "ep": 100,
+        "sub": "https://www.animegg.org/embed/94226",
+        "dub": null,
+        "url": "https://www.animegg.org/mob-psycho-100-ii-episode-2"
+      },
+      {
+        "ep": 100,
+        "sub": "https://www.animegg.org/embed/94150",
+        "dub": null,
+        "url": "https://www.animegg.org/mob-psycho-100-ii-episode-1"
+      }
+    ]
   }
 ]
