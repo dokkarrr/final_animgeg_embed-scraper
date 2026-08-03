@@ -113560,5 +113560,87 @@
         "url": "https://www.animegg.org/dororo-to-hyakkimaru-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 263,
+    "title": "Hundred",
+    "animegg_url": "https://www.animegg.org/series/hundred",
+    "mal_url": "https://myanimelist.net/anime/31338",
+    "mal_id": 31338,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/81806",
+        "dub": null,
+        "url": "https://www.animegg.org/hundred-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/81913",
+        "dub": null,
+        "url": "https://www.animegg.org/hundred-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/81992",
+        "dub": null,
+        "url": "https://www.animegg.org/hundred-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/82075",
+        "dub": null,
+        "url": "https://www.animegg.org/hundred-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/82177",
+        "dub": null,
+        "url": "https://www.animegg.org/hundred-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/82260",
+        "dub": null,
+        "url": "https://www.animegg.org/hundred-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/82334",
+        "dub": null,
+        "url": "https://www.animegg.org/hundred-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/82439",
+        "dub": null,
+        "url": "https://www.animegg.org/hundred-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/82518",
+        "dub": null,
+        "url": "https://www.animegg.org/hundred-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/82616",
+        "dub": null,
+        "url": "https://www.animegg.org/hundred-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/82695",
+        "dub": null,
+        "url": "https://www.animegg.org/hundred-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/82775",
+        "dub": null,
+        "url": "https://www.animegg.org/hundred-episode-12"
+      }
+    ]
   }
 ]
