@@ -103828,5 +103828,93 @@
         "url": "https://www.animegg.org/god-eater-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 221,
+    "title": "Noragami Aragoto",
+    "animegg_url": "https://www.animegg.org/series/noragami-aragoto",
+    "mal_url": "https://myanimelist.net/anime/30503",
+    "mal_id": 30503,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/79261",
+        "dub": "https://www.animegg.org/embed/79369",
+        "url": "https://www.animegg.org/noragami-aragoto-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/79387",
+        "dub": "https://www.animegg.org/embed/80167",
+        "url": "https://www.animegg.org/noragami-aragoto-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/79502",
+        "dub": "https://www.animegg.org/embed/80166",
+        "url": "https://www.animegg.org/noragami-aragoto-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/79609",
+        "dub": "https://www.animegg.org/embed/80165",
+        "url": "https://www.animegg.org/noragami-aragoto-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/79704",
+        "dub": "https://www.animegg.org/embed/80274",
+        "url": "https://www.animegg.org/noragami-aragoto-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/79793",
+        "dub": null,
+        "url": "https://www.animegg.org/noragami-aragoto-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/79882",
+        "dub": null,
+        "url": "https://www.animegg.org/noragami-aragoto-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/79978",
+        "dub": null,
+        "url": "https://www.animegg.org/noragami-aragoto-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/80082",
+        "dub": null,
+        "url": "https://www.animegg.org/noragami-aragoto-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/80204",
+        "dub": null,
+        "url": "https://www.animegg.org/noragami-aragoto-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/80300",
+        "dub": null,
+        "url": "https://www.animegg.org/noragami-aragoto-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/80398",
+        "dub": "https://www.animegg.org/embed/80941",
+        "url": "https://www.animegg.org/noragami-aragoto-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/80483",
+        "dub": null,
+        "url": "https://www.animegg.org/noragami-aragoto-episode-13"
+      }
+    ]
   }
 ]
