@@ -109770,5 +109770,159 @@
         "url": "https://www.animegg.org/digimon-adventure-02-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 241,
+    "title": "Ore Monogatari!!",
+    "animegg_url": "https://www.animegg.org/series/ore-monogatari",
+    "mal_url": "https://myanimelist.net/anime/28297",
+    "mal_id": 28297,
+    "total_ep": 24,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/76086",
+        "dub": "https://www.animegg.org/embed/76088",
+        "url": "https://www.animegg.org/ore-monogatari-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/76210",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-monogatari-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/76380",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-monogatari-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/76527",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-monogatari-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/76639",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-monogatari-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/76756",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-monogatari-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/76866",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-monogatari-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/76955",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-monogatari-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/77122",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-monogatari-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/77272",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-monogatari-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/77427",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-monogatari-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/77546",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-monogatari-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/77643",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-monogatari-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/77791",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-monogatari-episode-14"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/77968",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-monogatari-episode-15"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/78115",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-monogatari-episode-16"
+      },
+      {
+        "ep": 17,
+        "sub": "https://www.animegg.org/embed/78255",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-monogatari-episode-17"
+      },
+      {
+        "ep": 18,
+        "sub": "https://www.animegg.org/embed/78386",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-monogatari-episode-18"
+      },
+      {
+        "ep": 19,
+        "sub": "https://www.animegg.org/embed/78494",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-monogatari-episode-19"
+      },
+      {
+        "ep": 20,
+        "sub": "https://www.animegg.org/embed/78605",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-monogatari-episode-20"
+      },
+      {
+        "ep": 21,
+        "sub": "https://www.animegg.org/embed/78716",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-monogatari-episode-21"
+      },
+      {
+        "ep": 22,
+        "sub": "https://www.animegg.org/embed/78836",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-monogatari-episode-22"
+      },
+      {
+        "ep": 23,
+        "sub": "https://www.animegg.org/embed/78938",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-monogatari-episode-23"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/79158",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-monogatari-episode-24"
+      }
+    ]
   }
 ]
