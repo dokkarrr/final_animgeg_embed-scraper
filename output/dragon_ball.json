@@ -1,0 +1,775 @@
+{
+  "serial_no": 13,
+  "title": "Dragon Ball",
+  "animegg_url": "https://www.animegg.org/series/dragon-ball",
+  "mal_url": "https://myanimelist.net/anime/223",
+  "mal_id": 223,
+  "total_ep": 153,
+  "episodes": [
+    {
+      "ep": 1,
+      "sub": "https://www.animegg.org/embed/9063",
+      "dub": "https://www.animegg.org/embed/9064"
+    },
+    {
+      "ep": 2,
+      "sub": "https://www.animegg.org/embed/9061",
+      "dub": "https://www.animegg.org/embed/9062"
+    },
+    {
+      "ep": 3,
+      "sub": "https://www.animegg.org/embed/9059",
+      "dub": "https://www.animegg.org/embed/9060"
+    },
+    {
+      "ep": 4,
+      "sub": "https://www.animegg.org/embed/9065",
+      "dub": "https://www.animegg.org/embed/9066"
+    },
+    {
+      "ep": 5,
+      "sub": "https://www.animegg.org/embed/9057",
+      "dub": "https://www.animegg.org/embed/9058"
+    },
+    {
+      "ep": 6,
+      "sub": "https://www.animegg.org/embed/9069",
+      "dub": "https://www.animegg.org/embed/9070"
+    },
+    {
+      "ep": 7,
+      "sub": "https://www.animegg.org/embed/9067",
+      "dub": "https://www.animegg.org/embed/9068"
+    },
+    {
+      "ep": 8,
+      "sub": "https://www.animegg.org/embed/9071",
+      "dub": "https://www.animegg.org/embed/9072"
+    },
+    {
+      "ep": 9,
+      "sub": "https://www.animegg.org/embed/9075",
+      "dub": "https://www.animegg.org/embed/9076"
+    },
+    {
+      "ep": 10,
+      "sub": "https://www.animegg.org/embed/9073",
+      "dub": "https://www.animegg.org/embed/9074"
+    },
+    {
+      "ep": 11,
+      "sub": "https://www.animegg.org/embed/9077",
+      "dub": "https://www.animegg.org/embed/9078"
+    },
+    {
+      "ep": 12,
+      "sub": "https://www.animegg.org/embed/9079",
+      "dub": "https://www.animegg.org/embed/9080"
+    },
+    {
+      "ep": 13,
+      "sub": "https://www.animegg.org/embed/9081",
+      "dub": "https://www.animegg.org/embed/9082"
+    },
+    {
+      "ep": 14,
+      "sub": "https://www.animegg.org/embed/9083",
+      "dub": "https://www.animegg.org/embed/9084"
+    },
+    {
+      "ep": 15,
+      "sub": "https://www.animegg.org/embed/9085",
+      "dub": "https://www.animegg.org/embed/9086"
+    },
+    {
+      "ep": 16,
+      "sub": "https://www.animegg.org/embed/9087",
+      "dub": "https://www.animegg.org/embed/9088"
+    },
+    {
+      "ep": 17,
+      "sub": "https://www.animegg.org/embed/9089",
+      "dub": "https://www.animegg.org/embed/9090"
+    },
+    {
+      "ep": 18,
+      "sub": "https://www.animegg.org/embed/9091",
+      "dub": "https://www.animegg.org/embed/9092"
+    },
+    {
+      "ep": 19,
+      "sub": "https://www.animegg.org/embed/9093",
+      "dub": "https://www.animegg.org/embed/9094"
+    },
+    {
+      "ep": 20,
+      "sub": "https://www.animegg.org/embed/9095",
+      "dub": "https://www.animegg.org/embed/9096"
+    },
+    {
+      "ep": 21,
+      "sub": "https://www.animegg.org/embed/9099",
+      "dub": "https://www.animegg.org/embed/9100"
+    },
+    {
+      "ep": 22,
+      "sub": "https://www.animegg.org/embed/9097",
+      "dub": "https://www.animegg.org/embed/9098"
+    },
+    {
+      "ep": 23,
+      "sub": "https://www.animegg.org/embed/9101",
+      "dub": "https://www.animegg.org/embed/9102"
+    },
+    {
+      "ep": 24,
+      "sub": "https://www.animegg.org/embed/9103",
+      "dub": "https://www.animegg.org/embed/9104"
+    },
+    {
+      "ep": 25,
+      "sub": "https://www.animegg.org/embed/9105",
+      "dub": "https://www.animegg.org/embed/9106"
+    },
+    {
+      "ep": 26,
+      "sub": "https://www.animegg.org/embed/9107",
+      "dub": "https://www.animegg.org/embed/9108"
+    },
+    {
+      "ep": 27,
+      "sub": "https://www.animegg.org/embed/9109",
+      "dub": "https://www.animegg.org/embed/9110"
+    },
+    {
+      "ep": 28,
+      "sub": "https://www.animegg.org/embed/9111",
+      "dub": "https://www.animegg.org/embed/9112"
+    },
+    {
+      "ep": 29,
+      "sub": "https://www.animegg.org/embed/9113",
+      "dub": "https://www.animegg.org/embed/9114"
+    },
+    {
+      "ep": 30,
+      "sub": "https://www.animegg.org/embed/9115",
+      "dub": "https://www.animegg.org/embed/9116"
+    },
+    {
+      "ep": 31,
+      "sub": "https://www.animegg.org/embed/9117",
+      "dub": "https://www.animegg.org/embed/9118"
+    },
+    {
+      "ep": 32,
+      "sub": "https://www.animegg.org/embed/9119",
+      "dub": "https://www.animegg.org/embed/9120"
+    },
+    {
+      "ep": 33,
+      "sub": "https://www.animegg.org/embed/9121",
+      "dub": "https://www.animegg.org/embed/9122"
+    },
+    {
+      "ep": 34,
+      "sub": "https://www.animegg.org/embed/9123",
+      "dub": "https://www.animegg.org/embed/9124"
+    },
+    {
+      "ep": 35,
+      "sub": "https://www.animegg.org/embed/9125",
+      "dub": "https://www.animegg.org/embed/9126"
+    },
+    {
+      "ep": 36,
+      "sub": "https://www.animegg.org/embed/9127",
+      "dub": "https://www.animegg.org/embed/9128"
+    },
+    {
+      "ep": 37,
+      "sub": "https://www.animegg.org/embed/9129",
+      "dub": "https://www.animegg.org/embed/9130"
+    },
+    {
+      "ep": 38,
+      "sub": "https://www.animegg.org/embed/9133",
+      "dub": "https://www.animegg.org/embed/9134"
+    },
+    {
+      "ep": 39,
+      "sub": "https://www.animegg.org/embed/9131",
+      "dub": "https://www.animegg.org/embed/9132"
+    },
+    {
+      "ep": 40,
+      "sub": "https://www.animegg.org/embed/9135",
+      "dub": "https://www.animegg.org/embed/9136"
+    },
+    {
+      "ep": 41,
+      "sub": "https://www.animegg.org/embed/9139",
+      "dub": "https://www.animegg.org/embed/9140"
+    },
+    {
+      "ep": 42,
+      "sub": "https://www.animegg.org/embed/9137",
+      "dub": "https://www.animegg.org/embed/9138"
+    },
+    {
+      "ep": 43,
+      "sub": "https://www.animegg.org/embed/9141",
+      "dub": "https://www.animegg.org/embed/9142"
+    },
+    {
+      "ep": 44,
+      "sub": "https://www.animegg.org/embed/9143",
+      "dub": "https://www.animegg.org/embed/9144"
+    },
+    {
+      "ep": 45,
+      "sub": "https://www.animegg.org/embed/9147",
+      "dub": "https://www.animegg.org/embed/9148"
+    },
+    {
+      "ep": 46,
+      "sub": "https://www.animegg.org/embed/9145",
+      "dub": "https://www.animegg.org/embed/9146"
+    },
+    {
+      "ep": 47,
+      "sub": "https://www.animegg.org/embed/9149",
+      "dub": "https://www.animegg.org/embed/9150"
+    },
+    {
+      "ep": 48,
+      "sub": "https://www.animegg.org/embed/9151",
+      "dub": "https://www.animegg.org/embed/9152"
+    },
+    {
+      "ep": 49,
+      "sub": "https://www.animegg.org/embed/9155",
+      "dub": "https://www.animegg.org/embed/9156"
+    },
+    {
+      "ep": 50,
+      "sub": "https://www.animegg.org/embed/9153",
+      "dub": "https://www.animegg.org/embed/9154"
+    },
+    {
+      "ep": 51,
+      "sub": "https://www.animegg.org/embed/9157",
+      "dub": "https://www.animegg.org/embed/9158"
+    },
+    {
+      "ep": 52,
+      "sub": "https://www.animegg.org/embed/9159",
+      "dub": "https://www.animegg.org/embed/9160"
+    },
+    {
+      "ep": 53,
+      "sub": "https://www.animegg.org/embed/9161",
+      "dub": "https://www.animegg.org/embed/9162"
+    },
+    {
+      "ep": 54,
+      "sub": "https://www.animegg.org/embed/9163",
+      "dub": "https://www.animegg.org/embed/9164"
+    },
+    {
+      "ep": 55,
+      "sub": "https://www.animegg.org/embed/9165",
+      "dub": "https://www.animegg.org/embed/9166"
+    },
+    {
+      "ep": 56,
+      "sub": "https://www.animegg.org/embed/9167",
+      "dub": "https://www.animegg.org/embed/9168"
+    },
+    {
+      "ep": 57,
+      "sub": "https://www.animegg.org/embed/9169",
+      "dub": "https://www.animegg.org/embed/9170"
+    },
+    {
+      "ep": 58,
+      "sub": "https://www.animegg.org/embed/9173",
+      "dub": "https://www.animegg.org/embed/9174"
+    },
+    {
+      "ep": 59,
+      "sub": "https://www.animegg.org/embed/9171",
+      "dub": "https://www.animegg.org/embed/9172"
+    },
+    {
+      "ep": 60,
+      "sub": "https://www.animegg.org/embed/9175",
+      "dub": "https://www.animegg.org/embed/9176"
+    },
+    {
+      "ep": 61,
+      "sub": "https://www.animegg.org/embed/9177",
+      "dub": "https://www.animegg.org/embed/9178"
+    },
+    {
+      "ep": 62,
+      "sub": "https://www.animegg.org/embed/9179",
+      "dub": "https://www.animegg.org/embed/9180"
+    },
+    {
+      "ep": 63,
+      "sub": "https://www.animegg.org/embed/9183",
+      "dub": "https://www.animegg.org/embed/9184"
+    },
+    {
+      "ep": 64,
+      "sub": "https://www.animegg.org/embed/9181",
+      "dub": "https://www.animegg.org/embed/9182"
+    },
+    {
+      "ep": 65,
+      "sub": "https://www.animegg.org/embed/9185",
+      "dub": "https://www.animegg.org/embed/9186"
+    },
+    {
+      "ep": 66,
+      "sub": "https://www.animegg.org/embed/9187",
+      "dub": "https://www.animegg.org/embed/9188"
+    },
+    {
+      "ep": 67,
+      "sub": "https://www.animegg.org/embed/9189",
+      "dub": "https://www.animegg.org/embed/9190"
+    },
+    {
+      "ep": 68,
+      "sub": "https://www.animegg.org/embed/9191",
+      "dub": "https://www.animegg.org/embed/9192"
+    },
+    {
+      "ep": 69,
+      "sub": "https://www.animegg.org/embed/9193",
+      "dub": "https://www.animegg.org/embed/9194"
+    },
+    {
+      "ep": 70,
+      "sub": "https://www.animegg.org/embed/9197",
+      "dub": "https://www.animegg.org/embed/9198"
+    },
+    {
+      "ep": 71,
+      "sub": "https://www.animegg.org/embed/9195",
+      "dub": "https://www.animegg.org/embed/9196"
+    },
+    {
+      "ep": 72,
+      "sub": "https://www.animegg.org/embed/9199",
+      "dub": "https://www.animegg.org/embed/9200"
+    },
+    {
+      "ep": 73,
+      "sub": "https://www.animegg.org/embed/9201",
+      "dub": "https://www.animegg.org/embed/9202"
+    },
+    {
+      "ep": 74,
+      "sub": "https://www.animegg.org/embed/9203",
+      "dub": "https://www.animegg.org/embed/9204"
+    },
+    {
+      "ep": 75,
+      "sub": "https://www.animegg.org/embed/9205",
+      "dub": "https://www.animegg.org/embed/9206"
+    },
+    {
+      "ep": 76,
+      "sub": "https://www.animegg.org/embed/9207",
+      "dub": "https://www.animegg.org/embed/9208"
+    },
+    {
+      "ep": 77,
+      "sub": "https://www.animegg.org/embed/9209",
+      "dub": "https://www.animegg.org/embed/9210"
+    },
+    {
+      "ep": 78,
+      "sub": "https://www.animegg.org/embed/9211",
+      "dub": "https://www.animegg.org/embed/9212"
+    },
+    {
+      "ep": 79,
+      "sub": "https://www.animegg.org/embed/9213",
+      "dub": "https://www.animegg.org/embed/9214"
+    },
+    {
+      "ep": 80,
+      "sub": "https://www.animegg.org/embed/9215",
+      "dub": "https://www.animegg.org/embed/9216"
+    },
+    {
+      "ep": 81,
+      "sub": "https://www.animegg.org/embed/9219",
+      "dub": "https://www.animegg.org/embed/9220"
+    },
+    {
+      "ep": 82,
+      "sub": "https://www.animegg.org/embed/9221",
+      "dub": "https://www.animegg.org/embed/9222"
+    },
+    {
+      "ep": 83,
+      "sub": "https://www.animegg.org/embed/9217",
+      "dub": "https://www.animegg.org/embed/9218"
+    },
+    {
+      "ep": 84,
+      "sub": "https://www.animegg.org/embed/9223",
+      "dub": "https://www.animegg.org/embed/9224"
+    },
+    {
+      "ep": 85,
+      "sub": "https://www.animegg.org/embed/9225",
+      "dub": "https://www.animegg.org/embed/9226"
+    },
+    {
+      "ep": 86,
+      "sub": "https://www.animegg.org/embed/9227",
+      "dub": "https://www.animegg.org/embed/9228"
+    },
+    {
+      "ep": 87,
+      "sub": "https://www.animegg.org/embed/9229",
+      "dub": "https://www.animegg.org/embed/9230"
+    },
+    {
+      "ep": 88,
+      "sub": "https://www.animegg.org/embed/9231",
+      "dub": "https://www.animegg.org/embed/9232"
+    },
+    {
+      "ep": 89,
+      "sub": "https://www.animegg.org/embed/9233",
+      "dub": "https://www.animegg.org/embed/9234"
+    },
+    {
+      "ep": 90,
+      "sub": "https://www.animegg.org/embed/9235",
+      "dub": "https://www.animegg.org/embed/9236"
+    },
+    {
+      "ep": 91,
+      "sub": "https://www.animegg.org/embed/9237",
+      "dub": "https://www.animegg.org/embed/9238"
+    },
+    {
+      "ep": 92,
+      "sub": "https://www.animegg.org/embed/9241",
+      "dub": "https://www.animegg.org/embed/9242"
+    },
+    {
+      "ep": 93,
+      "sub": "https://www.animegg.org/embed/9239",
+      "dub": "https://www.animegg.org/embed/9240"
+    },
+    {
+      "ep": 94,
+      "sub": "https://www.animegg.org/embed/9243",
+      "dub": "https://www.animegg.org/embed/9244"
+    },
+    {
+      "ep": 95,
+      "sub": "https://www.animegg.org/embed/9245",
+      "dub": "https://www.animegg.org/embed/9246"
+    },
+    {
+      "ep": 96,
+      "sub": "https://www.animegg.org/embed/9247",
+      "dub": "https://www.animegg.org/embed/9248"
+    },
+    {
+      "ep": 97,
+      "sub": "https://www.animegg.org/embed/9249",
+      "dub": "https://www.animegg.org/embed/9250"
+    },
+    {
+      "ep": 98,
+      "sub": "https://www.animegg.org/embed/9251",
+      "dub": "https://www.animegg.org/embed/9252"
+    },
+    {
+      "ep": 99,
+      "sub": "https://www.animegg.org/embed/9253",
+      "dub": "https://www.animegg.org/embed/9254"
+    },
+    {
+      "ep": 100,
+      "sub": "https://www.animegg.org/embed/9255",
+      "dub": "https://www.animegg.org/embed/9256"
+    },
+    {
+      "ep": 101,
+      "sub": "https://www.animegg.org/embed/9261",
+      "dub": "https://www.animegg.org/embed/9262"
+    },
+    {
+      "ep": 102,
+      "sub": "https://www.animegg.org/embed/9257",
+      "dub": "https://www.animegg.org/embed/9258"
+    },
+    {
+      "ep": 103,
+      "sub": "https://www.animegg.org/embed/9259",
+      "dub": "https://www.animegg.org/embed/9260"
+    },
+    {
+      "ep": 104,
+      "sub": "https://www.animegg.org/embed/9263",
+      "dub": "https://www.animegg.org/embed/9264"
+    },
+    {
+      "ep": 105,
+      "sub": "https://www.animegg.org/embed/9265",
+      "dub": "https://www.animegg.org/embed/9266"
+    },
+    {
+      "ep": 106,
+      "sub": "https://www.animegg.org/embed/9267",
+      "dub": "https://www.animegg.org/embed/9268"
+    },
+    {
+      "ep": 107,
+      "sub": "https://www.animegg.org/embed/9269",
+      "dub": "https://www.animegg.org/embed/9270"
+    },
+    {
+      "ep": 108,
+      "sub": "https://www.animegg.org/embed/9271",
+      "dub": "https://www.animegg.org/embed/9272"
+    },
+    {
+      "ep": 109,
+      "sub": "https://www.animegg.org/embed/9273",
+      "dub": "https://www.animegg.org/embed/9274"
+    },
+    {
+      "ep": 110,
+      "sub": "https://www.animegg.org/embed/9275",
+      "dub": "https://www.animegg.org/embed/9276"
+    },
+    {
+      "ep": 111,
+      "sub": "https://www.animegg.org/embed/9277",
+      "dub": "https://www.animegg.org/embed/9278"
+    },
+    {
+      "ep": 112,
+      "sub": "https://www.animegg.org/embed/9279",
+      "dub": "https://www.animegg.org/embed/9280"
+    },
+    {
+      "ep": 113,
+      "sub": "https://www.animegg.org/embed/9281",
+      "dub": "https://www.animegg.org/embed/9282"
+    },
+    {
+      "ep": 114,
+      "sub": "https://www.animegg.org/embed/9283",
+      "dub": "https://www.animegg.org/embed/9284"
+    },
+    {
+      "ep": 115,
+      "sub": "https://www.animegg.org/embed/9285",
+      "dub": "https://www.animegg.org/embed/9286"
+    },
+    {
+      "ep": 116,
+      "sub": "https://www.animegg.org/embed/9287",
+      "dub": "https://www.animegg.org/embed/9288"
+    },
+    {
+      "ep": 117,
+      "sub": "https://www.animegg.org/embed/9289",
+      "dub": "https://www.animegg.org/embed/9290"
+    },
+    {
+      "ep": 118,
+      "sub": "https://www.animegg.org/embed/9291",
+      "dub": "https://www.animegg.org/embed/9292"
+    },
+    {
+      "ep": 119,
+      "sub": "https://www.animegg.org/embed/9293",
+      "dub": "https://www.animegg.org/embed/9294"
+    },
+    {
+      "ep": 120,
+      "sub": "https://www.animegg.org/embed/9295",
+      "dub": "https://www.animegg.org/embed/9296"
+    },
+    {
+      "ep": 121,
+      "sub": "https://www.animegg.org/embed/9297",
+      "dub": "https://www.animegg.org/embed/9298"
+    },
+    {
+      "ep": 122,
+      "sub": "https://www.animegg.org/embed/9299",
+      "dub": "https://www.animegg.org/embed/9300"
+    },
+    {
+      "ep": 123,
+      "sub": "https://www.animegg.org/embed/9301",
+      "dub": "https://www.animegg.org/embed/9302"
+    },
+    {
+      "ep": 124,
+      "sub": "https://www.animegg.org/embed/9303",
+      "dub": "https://www.animegg.org/embed/9304"
+    },
+    {
+      "ep": 125,
+      "sub": "https://www.animegg.org/embed/9305",
+      "dub": "https://www.animegg.org/embed/9306"
+    },
+    {
+      "ep": 126,
+      "sub": "https://www.animegg.org/embed/9307",
+      "dub": "https://www.animegg.org/embed/9308"
+    },
+    {
+      "ep": 127,
+      "sub": "https://www.animegg.org/embed/9309",
+      "dub": "https://www.animegg.org/embed/9310"
+    },
+    {
+      "ep": 128,
+      "sub": "https://www.animegg.org/embed/9311",
+      "dub": "https://www.animegg.org/embed/9312"
+    },
+    {
+      "ep": 129,
+      "sub": "https://www.animegg.org/embed/9313",
+      "dub": "https://www.animegg.org/embed/9314"
+    },
+    {
+      "ep": 130,
+      "sub": "https://www.animegg.org/embed/9315",
+      "dub": "https://www.animegg.org/embed/9316"
+    },
+    {
+      "ep": 131,
+      "sub": "https://www.animegg.org/embed/9361",
+      "dub": "https://www.animegg.org/embed/9362"
+    },
+    {
+      "ep": 132,
+      "sub": "https://www.animegg.org/embed/9321",
+      "dub": "https://www.animegg.org/embed/9322"
+    },
+    {
+      "ep": 133,
+      "sub": "https://www.animegg.org/embed/9317",
+      "dub": "https://www.animegg.org/embed/9318"
+    },
+    {
+      "ep": 134,
+      "sub": "https://www.animegg.org/embed/9323",
+      "dub": "https://www.animegg.org/embed/9324"
+    },
+    {
+      "ep": 135,
+      "sub": "https://www.animegg.org/embed/9319",
+      "dub": "https://www.animegg.org/embed/9320"
+    },
+    {
+      "ep": 136,
+      "sub": "https://www.animegg.org/embed/9327",
+      "dub": "https://www.animegg.org/embed/9328"
+    },
+    {
+      "ep": 137,
+      "sub": "https://www.animegg.org/embed/9325",
+      "dub": "https://www.animegg.org/embed/9326"
+    },
+    {
+      "ep": 138,
+      "sub": "https://www.animegg.org/embed/9335",
+      "dub": "https://www.animegg.org/embed/9336"
+    },
+    {
+      "ep": 139,
+      "sub": "https://www.animegg.org/embed/9329",
+      "dub": "https://www.animegg.org/embed/9330"
+    },
+    {
+      "ep": 140,
+      "sub": "https://www.animegg.org/embed/9331",
+      "dub": "https://www.animegg.org/embed/9332"
+    },
+    {
+      "ep": 141,
+      "sub": "https://www.animegg.org/embed/9333",
+      "dub": "https://www.animegg.org/embed/9334"
+    },
+    {
+      "ep": 142,
+      "sub": "https://www.animegg.org/embed/9339",
+      "dub": "https://www.animegg.org/embed/9340"
+    },
+    {
+      "ep": 143,
+      "sub": "https://www.animegg.org/embed/9341",
+      "dub": "https://www.animegg.org/embed/9342"
+    },
+    {
+      "ep": 144,
+      "sub": "https://www.animegg.org/embed/9343",
+      "dub": "https://www.animegg.org/embed/9344"
+    },
+    {
+      "ep": 145,
+      "sub": "https://www.animegg.org/embed/9337",
+      "dub": "https://www.animegg.org/embed/9338"
+    },
+    {
+      "ep": 146,
+      "sub": "https://www.animegg.org/embed/9345",
+      "dub": "https://www.animegg.org/embed/9346"
+    },
+    {
+      "ep": 147,
+      "sub": "https://www.animegg.org/embed/9355",
+      "dub": "https://www.animegg.org/embed/9356"
+    },
+    {
+      "ep": 148,
+      "sub": "https://www.animegg.org/embed/9347",
+      "dub": "https://www.animegg.org/embed/9348"
+    },
+    {
+      "ep": 149,
+      "sub": "https://www.animegg.org/embed/9349",
+      "dub": "https://www.animegg.org/embed/9350"
+    },
+    {
+      "ep": 150,
+      "sub": "https://www.animegg.org/embed/9351",
+      "dub": "https://www.animegg.org/embed/9352"
+    },
+    {
+      "ep": 151,
+      "sub": "https://www.animegg.org/embed/9353",
+      "dub": "https://www.animegg.org/embed/9354"
+    },
+    {
+      "ep": 152,
+      "sub": "https://www.animegg.org/embed/9357",
+      "dub": "https://www.animegg.org/embed/9358"
+    },
+    {
+      "ep": 153,
+      "sub": "https://www.animegg.org/embed/9359",
+      "dub": "https://www.animegg.org/embed/9360"
+    }
+  ]
+}
