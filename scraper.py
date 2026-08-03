@@ -3,8 +3,16 @@
 scraper.py
 
 Reads the master anime list from a remote JSON URL, scrapes each series
-episode-by-episode for sub/dub embed iframe URLs, and writes one JSON
-output file per series under output/.
+episode-by-episode for sub/dub embed iframe URLs, and writes all results
+into chunked output files under output/:
+
+    output/animegg_series.json
+    output/animegg_series2.json
+    output/animegg_series3.json
+    ...
+
+Each file is capped at MAX_CHUNK_BYTES (5 MB). A new file is started
+automatically when the current one would exceed the limit.
 
 Auto-commits every COMMIT_EVERY series so long runs don't lose progress.
 
@@ -39,8 +47,83 @@ REQUEST_TIMEOUT = 15          # seconds per HTTP request
 RETRY_ATTEMPTS  = 3           # retries on transient errors
 RETRY_DELAY     = 5           # seconds between retries
 POLITE_DELAY    = 1.0         # seconds between episode requests
-COMMIT_EVERY    = 1          # commit & push after every N completed anime
+COMMIT_EVERY    = 1           # commit & push after every N completed anime
+MAX_CHUNK_BYTES = 5 * 1024 * 1024   # 5 MB per output file
 SEPARATOR       = "=" * 70
+
+
+# ── Chunk file helpers ─────────────────────────────────────────────────────────
+
+def chunk_path(index: int) -> Path:
+    """
+    index 1  →  output/animegg_series.json
+    index 2  →  output/animegg_series2.json
+    index 3  →  output/animegg_series3.json
+    """
+    suffix = "" if index == 1 else str(index)
+    return OUTPUT_DIR / f"animegg_series{suffix}.json"
+
+
+def find_last_chunk_index() -> int:
+    """Return the index of the highest-numbered chunk file that exists (min 1)."""
+    idx = 1
+    while chunk_path(idx + 1).exists():
+        idx += 1
+    return idx
+
+
+def load_chunk(index: int) -> list:
+    """Load the JSON array from a chunk file, or return [] if missing/corrupt."""
+    p = chunk_path(index)
+    if p.exists():
+        try:
+            data = json.loads(p.read_text(encoding="utf-8"))
+            if isinstance(data, list):
+                return data
+        except Exception:
+            pass
+    return []
+
+
+def save_chunk(index: int, records: list) -> None:
+    """Write the records list as a pretty-printed JSON array."""
+    chunk_path(index).write_text(
+        json.dumps(records, indent=2, ensure_ascii=False),
+        encoding="utf-8",
+    )
+
+
+def chunk_size_bytes(index: int) -> int:
+    """Return on-disk byte size of a chunk file (0 if missing)."""
+    p = chunk_path(index)
+    return p.stat().st_size if p.exists() else 0
+
+
+def append_record_to_chunks(record: dict) -> tuple[int, int]:
+    """
+    Append *record* to the current chunk. If the file would exceed
+    MAX_CHUNK_BYTES after the append, start a new chunk first.
+
+    Returns (chunk_index_written, new_record_count_in_that_chunk).
+    """
+    record_bytes = len(
+        json.dumps(record, ensure_ascii=False).encode("utf-8")
+    )
+
+    # Find current active chunk
+    idx = find_last_chunk_index()
+    records = load_chunk(idx)
+
+    # If adding this record would push the file over the limit, start fresh
+    # (estimate: current file size + record bytes + ~4 bytes JSON overhead)
+    if records and chunk_size_bytes(idx) + record_bytes + 4 > MAX_CHUNK_BYTES:
+        idx += 1
+        records = []
+        print(f"  ↳ Starting new chunk: {chunk_path(idx).name}")
+
+    records.append(record)
+    save_chunk(idx, records)
+    return idx, len(records)
 
 
 # ── Helpers ────────────────────────────────────────────────────────────────────
@@ -84,10 +167,6 @@ def slug_from_series_url(series_url: str) -> str:
 
 def build_episode_url(slug: str, episode: int) -> str:
     return f"{BASE_URL}/{slug}-episode-{episode}"
-
-
-def safe_filename(title: str) -> str:
-    return re.sub(r'[^\w\-]', '_', title.lower()) + ".json"
 
 
 # ── Git helpers ────────────────────────────────────────────────────────────────
@@ -234,6 +313,12 @@ def main() -> None:
     completed = load_progress()
     print(f"Already completed: {len(completed)} series.\n")
 
+    # Show current chunk status on resume
+    current_chunk = find_last_chunk_index()
+    current_size  = chunk_size_bytes(current_chunk)
+    print(f"Current output chunk: {chunk_path(current_chunk).name}  "
+          f"({current_size / 1024:.1f} KB used of {MAX_CHUNK_BYTES // 1024} KB max)\n")
+
     batch_count = 0   # how many series finished in this run
 
     for entry in all_entries:
@@ -244,13 +329,15 @@ def main() -> None:
             continue
 
         # ── Scrape ────────────────────────────────────────────────────────
-        record    = scrape_series(entry)
-        out_file  = OUTPUT_DIR / safe_filename(entry.get("title", f"series_{serial_no}"))
-        out_file.write_text(
-            json.dumps(record, indent=2, ensure_ascii=False),
-            encoding="utf-8",
+        record = scrape_series(entry)
+
+        # ── Append to chunked output files ────────────────────────────────
+        chunk_idx, count_in_chunk = append_record_to_chunks(record)
+        size_kb = chunk_size_bytes(chunk_idx) / 1024
+        print(
+            f"\n  ✓ Appended to {chunk_path(chunk_idx).name}  "
+            f"(entry #{count_in_chunk} in this file, {size_kb:.1f} KB)"
         )
-        print(f"\n  ✓ Saved {len(record['episodes'])} episodes → {out_file}")
 
         completed.add(serial_no)
         save_progress(completed)
