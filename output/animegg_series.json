@@ -123136,5 +123136,87 @@
         "url": "https://www.animegg.org/smile-precure-episode-48"
       }
     ]
+  },
+  {
+    "serial_no": 305,
+    "title": "Highschool of the Dead",
+    "animegg_url": "https://www.animegg.org/series/highschool-of-the-dead",
+    "mal_url": "https://myanimelist.net/anime/8074",
+    "mal_id": 8074,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/16177",
+        "dub": "https://www.animegg.org/embed/16178",
+        "url": "https://www.animegg.org/highschool-of-the-dead-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/16175",
+        "dub": "https://www.animegg.org/embed/16176",
+        "url": "https://www.animegg.org/highschool-of-the-dead-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/16171",
+        "dub": "https://www.animegg.org/embed/16172",
+        "url": "https://www.animegg.org/highschool-of-the-dead-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/16173",
+        "dub": "https://www.animegg.org/embed/16174",
+        "url": "https://www.animegg.org/highschool-of-the-dead-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/16169",
+        "dub": "https://www.animegg.org/embed/16170",
+        "url": "https://www.animegg.org/highschool-of-the-dead-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/16179",
+        "dub": "https://www.animegg.org/embed/16180",
+        "url": "https://www.animegg.org/highschool-of-the-dead-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/16183",
+        "dub": "https://www.animegg.org/embed/16184",
+        "url": "https://www.animegg.org/highschool-of-the-dead-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/16181",
+        "dub": "https://www.animegg.org/embed/16182",
+        "url": "https://www.animegg.org/highschool-of-the-dead-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/16187",
+        "dub": "https://www.animegg.org/embed/16188",
+        "url": "https://www.animegg.org/highschool-of-the-dead-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/16185",
+        "dub": "https://www.animegg.org/embed/16186",
+        "url": "https://www.animegg.org/highschool-of-the-dead-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/16189",
+        "dub": "https://www.animegg.org/embed/16190",
+        "url": "https://www.animegg.org/highschool-of-the-dead-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/16191",
+        "dub": "https://www.animegg.org/embed/16192",
+        "url": "https://www.animegg.org/highschool-of-the-dead-episode-12"
+      }
+    ]
   }
 ]
