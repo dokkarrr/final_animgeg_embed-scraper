@@ -128168,5 +128168,87 @@
         "url": "https://www.animegg.org/death-march-kara-hajimaru-isekai-kyousoukyoku-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 330,
+    "title": "Noragami",
+    "animegg_url": "https://www.animegg.org/series/noragami",
+    "mal_url": "https://myanimelist.net/anime/20507",
+    "mal_id": 20507,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/44690",
+        "dub": "https://www.animegg.org/embed/77278",
+        "url": "https://www.animegg.org/noragami-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/44691",
+        "dub": "https://www.animegg.org/embed/77279",
+        "url": "https://www.animegg.org/noragami-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/44692",
+        "dub": null,
+        "url": "https://www.animegg.org/noragami-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/44693",
+        "dub": null,
+        "url": "https://www.animegg.org/noragami-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/44694",
+        "dub": null,
+        "url": "https://www.animegg.org/noragami-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/44695",
+        "dub": null,
+        "url": "https://www.animegg.org/noragami-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/44696",
+        "dub": null,
+        "url": "https://www.animegg.org/noragami-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/44697",
+        "dub": null,
+        "url": "https://www.animegg.org/noragami-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/44698",
+        "dub": null,
+        "url": "https://www.animegg.org/noragami-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/44699",
+        "dub": null,
+        "url": "https://www.animegg.org/noragami-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/44700",
+        "dub": null,
+        "url": "https://www.animegg.org/noragami-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/44701",
+        "dub": null,
+        "url": "https://www.animegg.org/noragami-episode-12"
+      }
+    ]
   }
 ]
