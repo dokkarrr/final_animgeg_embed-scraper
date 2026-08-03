@@ -20207,5 +20207,1335 @@
         "url": "https://www.animegg.org/dragon-ball-super-episode-131-4624"
       }
     ]
+  },
+  {
+    "serial_no": 7,
+    "title": "Naruto",
+    "animegg_url": "https://www.animegg.org/series/naruto",
+    "mal_url": "https://myanimelist.net/anime/20",
+    "mal_id": 20,
+    "total_ep": 220,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/25881",
+        "dub": "https://www.animegg.org/embed/25882",
+        "url": "https://www.animegg.org/naruto-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/25883",
+        "dub": "https://www.animegg.org/embed/25884",
+        "url": "https://www.animegg.org/naruto-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/25877",
+        "dub": "https://www.animegg.org/embed/25878",
+        "url": "https://www.animegg.org/naruto-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/25875",
+        "dub": "https://www.animegg.org/embed/25876",
+        "url": "https://www.animegg.org/naruto-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/25873",
+        "dub": "https://www.animegg.org/embed/25874",
+        "url": "https://www.animegg.org/naruto-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/25879",
+        "dub": "https://www.animegg.org/embed/25880",
+        "url": "https://www.animegg.org/naruto-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/25885",
+        "dub": "https://www.animegg.org/embed/25886",
+        "url": "https://www.animegg.org/naruto-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/25887",
+        "dub": "https://www.animegg.org/embed/25888",
+        "url": "https://www.animegg.org/naruto-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/25893",
+        "dub": "https://www.animegg.org/embed/25894",
+        "url": "https://www.animegg.org/naruto-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/25895",
+        "dub": "https://www.animegg.org/embed/25896",
+        "url": "https://www.animegg.org/naruto-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/25889",
+        "dub": "https://www.animegg.org/embed/25890",
+        "url": "https://www.animegg.org/naruto-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/25891",
+        "dub": "https://www.animegg.org/embed/25892",
+        "url": "https://www.animegg.org/naruto-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/25899",
+        "dub": "https://www.animegg.org/embed/25900",
+        "url": "https://www.animegg.org/naruto-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/25897",
+        "dub": "https://www.animegg.org/embed/25898",
+        "url": "https://www.animegg.org/naruto-episode-14"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/25901",
+        "dub": "https://www.animegg.org/embed/25902",
+        "url": "https://www.animegg.org/naruto-episode-15"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/25911",
+        "dub": "https://www.animegg.org/embed/25912",
+        "url": "https://www.animegg.org/naruto-episode-16"
+      },
+      {
+        "ep": 17,
+        "sub": "https://www.animegg.org/embed/25903",
+        "dub": "https://www.animegg.org/embed/25904",
+        "url": "https://www.animegg.org/naruto-episode-17"
+      },
+      {
+        "ep": 18,
+        "sub": "https://www.animegg.org/embed/25905",
+        "dub": "https://www.animegg.org/embed/25906",
+        "url": "https://www.animegg.org/naruto-episode-18"
+      },
+      {
+        "ep": 19,
+        "sub": "https://www.animegg.org/embed/25907",
+        "dub": "https://www.animegg.org/embed/25908",
+        "url": "https://www.animegg.org/naruto-episode-19"
+      },
+      {
+        "ep": 20,
+        "sub": "https://www.animegg.org/embed/25909",
+        "dub": "https://www.animegg.org/embed/25910",
+        "url": "https://www.animegg.org/naruto-episode-20"
+      },
+      {
+        "ep": 21,
+        "sub": "https://www.animegg.org/embed/25921",
+        "dub": "https://www.animegg.org/embed/25922",
+        "url": "https://www.animegg.org/naruto-episode-21"
+      },
+      {
+        "ep": 22,
+        "sub": "https://www.animegg.org/embed/25917",
+        "dub": "https://www.animegg.org/embed/25918",
+        "url": "https://www.animegg.org/naruto-episode-22"
+      },
+      {
+        "ep": 23,
+        "sub": "https://www.animegg.org/embed/25919",
+        "dub": "https://www.animegg.org/embed/25920",
+        "url": "https://www.animegg.org/naruto-episode-23"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/25915",
+        "dub": "https://www.animegg.org/embed/25916",
+        "url": "https://www.animegg.org/naruto-episode-24"
+      },
+      {
+        "ep": 25,
+        "sub": "https://www.animegg.org/embed/25913",
+        "dub": "https://www.animegg.org/embed/25914",
+        "url": "https://www.animegg.org/naruto-episode-25"
+      },
+      {
+        "ep": 26,
+        "sub": "https://www.animegg.org/embed/67273",
+        "dub": "https://www.animegg.org/embed/86384",
+        "url": "https://www.animegg.org/naruto-episode-26"
+      },
+      {
+        "ep": 27,
+        "sub": "https://www.animegg.org/embed/92365",
+        "dub": "https://www.animegg.org/embed/93654",
+        "url": "https://www.animegg.org/naruto-episode-27"
+      },
+      {
+        "ep": 28,
+        "sub": "https://www.animegg.org/embed/25923",
+        "dub": "https://www.animegg.org/embed/25924",
+        "url": "https://www.animegg.org/naruto-episode-28"
+      },
+      {
+        "ep": 29,
+        "sub": "https://www.animegg.org/embed/25925",
+        "dub": "https://www.animegg.org/embed/25926",
+        "url": "https://www.animegg.org/naruto-episode-29"
+      },
+      {
+        "ep": 30,
+        "sub": "https://www.animegg.org/embed/25929",
+        "dub": "https://www.animegg.org/embed/25930",
+        "url": "https://www.animegg.org/naruto-episode-30"
+      },
+      {
+        "ep": 31,
+        "sub": "https://www.animegg.org/embed/25927",
+        "dub": "https://www.animegg.org/embed/25928",
+        "url": "https://www.animegg.org/naruto-episode-31"
+      },
+      {
+        "ep": 32,
+        "sub": "https://www.animegg.org/embed/25931",
+        "dub": "https://www.animegg.org/embed/25932",
+        "url": "https://www.animegg.org/naruto-episode-32"
+      },
+      {
+        "ep": 33,
+        "sub": "https://www.animegg.org/embed/25933",
+        "dub": "https://www.animegg.org/embed/25934",
+        "url": "https://www.animegg.org/naruto-episode-33"
+      },
+      {
+        "ep": 34,
+        "sub": "https://www.animegg.org/embed/25941",
+        "dub": "https://www.animegg.org/embed/25942",
+        "url": "https://www.animegg.org/naruto-episode-34"
+      },
+      {
+        "ep": 35,
+        "sub": "https://www.animegg.org/embed/25939",
+        "dub": "https://www.animegg.org/embed/25940",
+        "url": "https://www.animegg.org/naruto-episode-35"
+      },
+      {
+        "ep": 36,
+        "sub": "https://www.animegg.org/embed/25935",
+        "dub": "https://www.animegg.org/embed/25936",
+        "url": "https://www.animegg.org/naruto-episode-36"
+      },
+      {
+        "ep": 37,
+        "sub": "https://www.animegg.org/embed/25937",
+        "dub": "https://www.animegg.org/embed/25938",
+        "url": "https://www.animegg.org/naruto-episode-37"
+      },
+      {
+        "ep": 38,
+        "sub": "https://www.animegg.org/embed/25943",
+        "dub": "https://www.animegg.org/embed/25944",
+        "url": "https://www.animegg.org/naruto-episode-38"
+      },
+      {
+        "ep": 39,
+        "sub": "https://www.animegg.org/embed/25947",
+        "dub": "https://www.animegg.org/embed/25948",
+        "url": "https://www.animegg.org/naruto-episode-39"
+      },
+      {
+        "ep": 40,
+        "sub": "https://www.animegg.org/embed/25949",
+        "dub": "https://www.animegg.org/embed/25950",
+        "url": "https://www.animegg.org/naruto-episode-40"
+      },
+      {
+        "ep": 41,
+        "sub": "https://www.animegg.org/embed/25953",
+        "dub": "https://www.animegg.org/embed/25954",
+        "url": "https://www.animegg.org/naruto-episode-41"
+      },
+      {
+        "ep": 42,
+        "sub": "https://www.animegg.org/embed/25945",
+        "dub": "https://www.animegg.org/embed/25946",
+        "url": "https://www.animegg.org/naruto-episode-42"
+      },
+      {
+        "ep": 43,
+        "sub": "https://www.animegg.org/embed/25951",
+        "dub": "https://www.animegg.org/embed/25952",
+        "url": "https://www.animegg.org/naruto-episode-43"
+      },
+      {
+        "ep": 44,
+        "sub": "https://www.animegg.org/embed/25955",
+        "dub": "https://www.animegg.org/embed/25956",
+        "url": "https://www.animegg.org/naruto-episode-44"
+      },
+      {
+        "ep": 45,
+        "sub": "https://www.animegg.org/embed/25965",
+        "dub": "https://www.animegg.org/embed/25966",
+        "url": "https://www.animegg.org/naruto-episode-45"
+      },
+      {
+        "ep": 46,
+        "sub": "https://www.animegg.org/embed/25957",
+        "dub": "https://www.animegg.org/embed/25958",
+        "url": "https://www.animegg.org/naruto-episode-46"
+      },
+      {
+        "ep": 47,
+        "sub": "https://www.animegg.org/embed/25959",
+        "dub": "https://www.animegg.org/embed/25960",
+        "url": "https://www.animegg.org/naruto-episode-47"
+      },
+      {
+        "ep": 48,
+        "sub": "https://www.animegg.org/embed/25961",
+        "dub": "https://www.animegg.org/embed/25962",
+        "url": "https://www.animegg.org/naruto-episode-48"
+      },
+      {
+        "ep": 49,
+        "sub": "https://www.animegg.org/embed/25963",
+        "dub": "https://www.animegg.org/embed/25964",
+        "url": "https://www.animegg.org/naruto-episode-49"
+      },
+      {
+        "ep": 50,
+        "sub": "https://www.animegg.org/embed/25967",
+        "dub": "https://www.animegg.org/embed/25968",
+        "url": "https://www.animegg.org/naruto-episode-50"
+      },
+      {
+        "ep": 51,
+        "sub": "https://www.animegg.org/embed/25969",
+        "dub": "https://www.animegg.org/embed/25970",
+        "url": "https://www.animegg.org/naruto-episode-51"
+      },
+      {
+        "ep": 52,
+        "sub": "https://www.animegg.org/embed/25971",
+        "dub": "https://www.animegg.org/embed/25972",
+        "url": "https://www.animegg.org/naruto-episode-52"
+      },
+      {
+        "ep": 53,
+        "sub": "https://www.animegg.org/embed/25973",
+        "dub": "https://www.animegg.org/embed/25974",
+        "url": "https://www.animegg.org/naruto-episode-53"
+      },
+      {
+        "ep": 54,
+        "sub": "https://www.animegg.org/embed/25977",
+        "dub": "https://www.animegg.org/embed/25978",
+        "url": "https://www.animegg.org/naruto-episode-54"
+      },
+      {
+        "ep": 55,
+        "sub": "https://www.animegg.org/embed/25975",
+        "dub": "https://www.animegg.org/embed/25976",
+        "url": "https://www.animegg.org/naruto-episode-55"
+      },
+      {
+        "ep": 56,
+        "sub": "https://www.animegg.org/embed/25979",
+        "dub": "https://www.animegg.org/embed/25980",
+        "url": "https://www.animegg.org/naruto-episode-56"
+      },
+      {
+        "ep": 57,
+        "sub": "https://www.animegg.org/embed/25987",
+        "dub": "https://www.animegg.org/embed/25988",
+        "url": "https://www.animegg.org/naruto-episode-57"
+      },
+      {
+        "ep": 58,
+        "sub": "https://www.animegg.org/embed/25985",
+        "dub": "https://www.animegg.org/embed/25986",
+        "url": "https://www.animegg.org/naruto-episode-58"
+      },
+      {
+        "ep": 59,
+        "sub": "https://www.animegg.org/embed/25983",
+        "dub": "https://www.animegg.org/embed/25984",
+        "url": "https://www.animegg.org/naruto-episode-59"
+      },
+      {
+        "ep": 60,
+        "sub": "https://www.animegg.org/embed/25989",
+        "dub": "https://www.animegg.org/embed/25990",
+        "url": "https://www.animegg.org/naruto-episode-60"
+      },
+      {
+        "ep": 61,
+        "sub": "https://www.animegg.org/embed/25981",
+        "dub": "https://www.animegg.org/embed/25982",
+        "url": "https://www.animegg.org/naruto-episode-61"
+      },
+      {
+        "ep": 62,
+        "sub": "https://www.animegg.org/embed/25993",
+        "dub": "https://www.animegg.org/embed/25994",
+        "url": "https://www.animegg.org/naruto-episode-62"
+      },
+      {
+        "ep": 63,
+        "sub": "https://www.animegg.org/embed/25991",
+        "dub": "https://www.animegg.org/embed/25992",
+        "url": "https://www.animegg.org/naruto-episode-63"
+      },
+      {
+        "ep": 64,
+        "sub": "https://www.animegg.org/embed/25995",
+        "dub": "https://www.animegg.org/embed/25996",
+        "url": "https://www.animegg.org/naruto-episode-64"
+      },
+      {
+        "ep": 65,
+        "sub": "https://www.animegg.org/embed/26001",
+        "dub": "https://www.animegg.org/embed/26002",
+        "url": "https://www.animegg.org/naruto-episode-65"
+      },
+      {
+        "ep": 66,
+        "sub": "https://www.animegg.org/embed/67272",
+        "dub": "https://www.animegg.org/embed/86385",
+        "url": "https://www.animegg.org/naruto-episode-66"
+      },
+      {
+        "ep": 67,
+        "sub": "https://www.animegg.org/embed/92366",
+        "dub": null,
+        "url": "https://www.animegg.org/naruto-episode-67"
+      },
+      {
+        "ep": 68,
+        "sub": "https://www.animegg.org/embed/25997",
+        "dub": "https://www.animegg.org/embed/25998",
+        "url": "https://www.animegg.org/naruto-episode-68"
+      },
+      {
+        "ep": 69,
+        "sub": "https://www.animegg.org/embed/25999",
+        "dub": "https://www.animegg.org/embed/26000",
+        "url": "https://www.animegg.org/naruto-episode-69"
+      },
+      {
+        "ep": 70,
+        "sub": "https://www.animegg.org/embed/26003",
+        "dub": "https://www.animegg.org/embed/26004",
+        "url": "https://www.animegg.org/naruto-episode-70"
+      },
+      {
+        "ep": 71,
+        "sub": "https://www.animegg.org/embed/26025",
+        "dub": "https://www.animegg.org/embed/26026",
+        "url": "https://www.animegg.org/naruto-episode-71"
+      },
+      {
+        "ep": 72,
+        "sub": "https://www.animegg.org/embed/26005",
+        "dub": "https://www.animegg.org/embed/26006",
+        "url": "https://www.animegg.org/naruto-episode-72"
+      },
+      {
+        "ep": 73,
+        "sub": "https://www.animegg.org/embed/26007",
+        "dub": "https://www.animegg.org/embed/26008",
+        "url": "https://www.animegg.org/naruto-episode-73"
+      },
+      {
+        "ep": 74,
+        "sub": "https://www.animegg.org/embed/26011",
+        "dub": "https://www.animegg.org/embed/26012",
+        "url": "https://www.animegg.org/naruto-episode-74"
+      },
+      {
+        "ep": 75,
+        "sub": "https://www.animegg.org/embed/26009",
+        "dub": "https://www.animegg.org/embed/26010",
+        "url": "https://www.animegg.org/naruto-episode-75"
+      },
+      {
+        "ep": 76,
+        "sub": "https://www.animegg.org/embed/26015",
+        "dub": "https://www.animegg.org/embed/26016",
+        "url": "https://www.animegg.org/naruto-episode-76"
+      },
+      {
+        "ep": 77,
+        "sub": "https://www.animegg.org/embed/26013",
+        "dub": "https://www.animegg.org/embed/26014",
+        "url": "https://www.animegg.org/naruto-episode-77"
+      },
+      {
+        "ep": 78,
+        "sub": "https://www.animegg.org/embed/26017",
+        "dub": "https://www.animegg.org/embed/26018",
+        "url": "https://www.animegg.org/naruto-episode-78"
+      },
+      {
+        "ep": 79,
+        "sub": "https://www.animegg.org/embed/26019",
+        "dub": "https://www.animegg.org/embed/26020",
+        "url": "https://www.animegg.org/naruto-episode-79"
+      },
+      {
+        "ep": 80,
+        "sub": "https://www.animegg.org/embed/26023",
+        "dub": "https://www.animegg.org/embed/26024",
+        "url": "https://www.animegg.org/naruto-episode-80"
+      },
+      {
+        "ep": 81,
+        "sub": "https://www.animegg.org/embed/26021",
+        "dub": "https://www.animegg.org/embed/26022",
+        "url": "https://www.animegg.org/naruto-episode-81"
+      },
+      {
+        "ep": 82,
+        "sub": "https://www.animegg.org/embed/26027",
+        "dub": "https://www.animegg.org/embed/95860",
+        "url": "https://www.animegg.org/naruto-episode-82"
+      },
+      {
+        "ep": 83,
+        "sub": "https://www.animegg.org/embed/26031",
+        "dub": "https://www.animegg.org/embed/26032",
+        "url": "https://www.animegg.org/naruto-episode-83"
+      },
+      {
+        "ep": 84,
+        "sub": "https://www.animegg.org/embed/26037",
+        "dub": "https://www.animegg.org/embed/26038",
+        "url": "https://www.animegg.org/naruto-episode-84"
+      },
+      {
+        "ep": 85,
+        "sub": "https://www.animegg.org/embed/26033",
+        "dub": "https://www.animegg.org/embed/26034",
+        "url": "https://www.animegg.org/naruto-episode-85"
+      },
+      {
+        "ep": 86,
+        "sub": "https://www.animegg.org/embed/26029",
+        "dub": "https://www.animegg.org/embed/26030",
+        "url": "https://www.animegg.org/naruto-episode-86"
+      },
+      {
+        "ep": 87,
+        "sub": "https://www.animegg.org/embed/26035",
+        "dub": "https://www.animegg.org/embed/26036",
+        "url": "https://www.animegg.org/naruto-episode-87"
+      },
+      {
+        "ep": 88,
+        "sub": "https://www.animegg.org/embed/26041",
+        "dub": "https://www.animegg.org/embed/26042",
+        "url": "https://www.animegg.org/naruto-episode-88"
+      },
+      {
+        "ep": 89,
+        "sub": "https://www.animegg.org/embed/26045",
+        "dub": "https://www.animegg.org/embed/26046",
+        "url": "https://www.animegg.org/naruto-episode-89"
+      },
+      {
+        "ep": 90,
+        "sub": "https://www.animegg.org/embed/26039",
+        "dub": "https://www.animegg.org/embed/26040",
+        "url": "https://www.animegg.org/naruto-episode-90"
+      },
+      {
+        "ep": 91,
+        "sub": "https://www.animegg.org/embed/26043",
+        "dub": "https://www.animegg.org/embed/26044",
+        "url": "https://www.animegg.org/naruto-episode-91"
+      },
+      {
+        "ep": 92,
+        "sub": "https://www.animegg.org/embed/26047",
+        "dub": "https://www.animegg.org/embed/26048",
+        "url": "https://www.animegg.org/naruto-episode-92"
+      },
+      {
+        "ep": 93,
+        "sub": "https://www.animegg.org/embed/26051",
+        "dub": "https://www.animegg.org/embed/26052",
+        "url": "https://www.animegg.org/naruto-episode-93"
+      },
+      {
+        "ep": 94,
+        "sub": "https://www.animegg.org/embed/26049",
+        "dub": "https://www.animegg.org/embed/26050",
+        "url": "https://www.animegg.org/naruto-episode-94"
+      },
+      {
+        "ep": 95,
+        "sub": "https://www.animegg.org/embed/67271",
+        "dub": "https://www.animegg.org/embed/86387",
+        "url": "https://www.animegg.org/naruto-episode-95"
+      },
+      {
+        "ep": 96,
+        "sub": "https://www.animegg.org/embed/92367",
+        "dub": null,
+        "url": "https://www.animegg.org/naruto-episode-96"
+      },
+      {
+        "ep": 97,
+        "sub": "https://www.animegg.org/embed/26053",
+        "dub": "https://www.animegg.org/embed/26054",
+        "url": "https://www.animegg.org/naruto-episode-97"
+      },
+      {
+        "ep": 98,
+        "sub": "https://www.animegg.org/embed/26061",
+        "dub": "https://www.animegg.org/embed/26062",
+        "url": "https://www.animegg.org/naruto-episode-98"
+      },
+      {
+        "ep": 99,
+        "sub": "https://www.animegg.org/embed/26055",
+        "dub": "https://www.animegg.org/embed/26056",
+        "url": "https://www.animegg.org/naruto-episode-99"
+      },
+      {
+        "ep": 100,
+        "sub": "https://www.animegg.org/embed/26057",
+        "dub": "https://www.animegg.org/embed/26058",
+        "url": "https://www.animegg.org/naruto-episode-100"
+      },
+      {
+        "ep": 101,
+        "sub": "https://www.animegg.org/embed/26063",
+        "dub": "https://www.animegg.org/embed/26064",
+        "url": "https://www.animegg.org/naruto-episode-101"
+      },
+      {
+        "ep": 102,
+        "sub": "https://www.animegg.org/embed/26059",
+        "dub": "https://www.animegg.org/embed/26060",
+        "url": "https://www.animegg.org/naruto-episode-102"
+      },
+      {
+        "ep": 103,
+        "sub": "https://www.animegg.org/embed/26065",
+        "dub": "https://www.animegg.org/embed/26066",
+        "url": "https://www.animegg.org/naruto-episode-103"
+      },
+      {
+        "ep": 104,
+        "sub": "https://www.animegg.org/embed/26073",
+        "dub": "https://www.animegg.org/embed/26074",
+        "url": "https://www.animegg.org/naruto-episode-104"
+      },
+      {
+        "ep": 105,
+        "sub": "https://www.animegg.org/embed/26067",
+        "dub": "https://www.animegg.org/embed/26068",
+        "url": "https://www.animegg.org/naruto-episode-105"
+      },
+      {
+        "ep": 106,
+        "sub": "https://www.animegg.org/embed/26071",
+        "dub": "https://www.animegg.org/embed/26072",
+        "url": "https://www.animegg.org/naruto-episode-106"
+      },
+      {
+        "ep": 107,
+        "sub": "https://www.animegg.org/embed/26069",
+        "dub": "https://www.animegg.org/embed/26070",
+        "url": "https://www.animegg.org/naruto-episode-107"
+      },
+      {
+        "ep": 108,
+        "sub": "https://www.animegg.org/embed/26075",
+        "dub": "https://www.animegg.org/embed/26076",
+        "url": "https://www.animegg.org/naruto-episode-108"
+      },
+      {
+        "ep": 109,
+        "sub": "https://www.animegg.org/embed/26083",
+        "dub": "https://www.animegg.org/embed/26084",
+        "url": "https://www.animegg.org/naruto-episode-109"
+      },
+      {
+        "ep": 110,
+        "sub": "https://www.animegg.org/embed/67270",
+        "dub": "https://www.animegg.org/embed/88963",
+        "url": "https://www.animegg.org/naruto-episode-110"
+      },
+      {
+        "ep": 111,
+        "sub": "https://www.animegg.org/embed/88964",
+        "dub": "https://www.animegg.org/embed/92360",
+        "url": "https://www.animegg.org/naruto-episode-111"
+      },
+      {
+        "ep": 112,
+        "sub": "https://www.animegg.org/embed/26079",
+        "dub": "https://www.animegg.org/embed/26080",
+        "url": "https://www.animegg.org/naruto-episode-112"
+      },
+      {
+        "ep": 113,
+        "sub": "https://www.animegg.org/embed/26077",
+        "dub": "https://www.animegg.org/embed/26078",
+        "url": "https://www.animegg.org/naruto-episode-113"
+      },
+      {
+        "ep": 114,
+        "sub": "https://www.animegg.org/embed/26081",
+        "dub": "https://www.animegg.org/embed/26082",
+        "url": "https://www.animegg.org/naruto-episode-114"
+      },
+      {
+        "ep": 115,
+        "sub": "https://www.animegg.org/embed/26089",
+        "dub": "https://www.animegg.org/embed/26090",
+        "url": "https://www.animegg.org/naruto-episode-115"
+      },
+      {
+        "ep": 116,
+        "sub": "https://www.animegg.org/embed/67269",
+        "dub": "https://www.animegg.org/embed/75609",
+        "url": "https://www.animegg.org/naruto-episode-116"
+      },
+      {
+        "ep": 117,
+        "sub": "https://www.animegg.org/embed/75610",
+        "dub": "https://www.animegg.org/embed/92361",
+        "url": "https://www.animegg.org/naruto-episode-117"
+      },
+      {
+        "ep": 118,
+        "sub": "https://www.animegg.org/embed/26091",
+        "dub": "https://www.animegg.org/embed/26092",
+        "url": "https://www.animegg.org/naruto-episode-118"
+      },
+      {
+        "ep": 119,
+        "sub": "https://www.animegg.org/embed/26086",
+        "dub": "https://www.animegg.org/embed/87293",
+        "url": "https://www.animegg.org/naruto-episode-119"
+      },
+      {
+        "ep": 120,
+        "sub": "https://www.animegg.org/embed/26093",
+        "dub": "https://www.animegg.org/embed/26094",
+        "url": "https://www.animegg.org/naruto-episode-120"
+      },
+      {
+        "ep": 121,
+        "sub": "https://www.animegg.org/embed/26087",
+        "dub": "https://www.animegg.org/embed/26088",
+        "url": "https://www.animegg.org/naruto-episode-121"
+      },
+      {
+        "ep": 122,
+        "sub": "https://www.animegg.org/embed/26099",
+        "dub": "https://www.animegg.org/embed/26100",
+        "url": "https://www.animegg.org/naruto-episode-122"
+      },
+      {
+        "ep": 123,
+        "sub": "https://www.animegg.org/embed/26095",
+        "dub": "https://www.animegg.org/embed/26096",
+        "url": "https://www.animegg.org/naruto-episode-123"
+      },
+      {
+        "ep": 124,
+        "sub": "https://www.animegg.org/embed/26103",
+        "dub": "https://www.animegg.org/embed/26104",
+        "url": "https://www.animegg.org/naruto-episode-124"
+      },
+      {
+        "ep": 125,
+        "sub": "https://www.animegg.org/embed/26097",
+        "dub": "https://www.animegg.org/embed/26098",
+        "url": "https://www.animegg.org/naruto-episode-125"
+      },
+      {
+        "ep": 126,
+        "sub": "https://www.animegg.org/embed/26101",
+        "dub": "https://www.animegg.org/embed/26102",
+        "url": "https://www.animegg.org/naruto-episode-126"
+      },
+      {
+        "ep": 127,
+        "sub": "https://www.animegg.org/embed/67268",
+        "dub": "https://www.animegg.org/embed/87471",
+        "url": "https://www.animegg.org/naruto-episode-127"
+      },
+      {
+        "ep": 128,
+        "sub": "https://www.animegg.org/embed/87472",
+        "dub": "https://www.animegg.org/embed/92362",
+        "url": "https://www.animegg.org/naruto-episode-128"
+      },
+      {
+        "ep": 129,
+        "sub": "https://www.animegg.org/embed/26107",
+        "dub": "https://www.animegg.org/embed/26108",
+        "url": "https://www.animegg.org/naruto-episode-129"
+      },
+      {
+        "ep": 130,
+        "sub": "https://www.animegg.org/embed/26105",
+        "dub": "https://www.animegg.org/embed/26106",
+        "url": "https://www.animegg.org/naruto-episode-130"
+      },
+      {
+        "ep": 131,
+        "sub": "https://www.animegg.org/embed/26109",
+        "dub": "https://www.animegg.org/embed/26110",
+        "url": "https://www.animegg.org/naruto-episode-131"
+      },
+      {
+        "ep": 132,
+        "sub": "https://www.animegg.org/embed/26111",
+        "dub": "https://www.animegg.org/embed/26112",
+        "url": "https://www.animegg.org/naruto-episode-132"
+      },
+      {
+        "ep": 133,
+        "sub": "https://www.animegg.org/embed/26115",
+        "dub": "https://www.animegg.org/embed/26116",
+        "url": "https://www.animegg.org/naruto-episode-133"
+      },
+      {
+        "ep": 134,
+        "sub": "https://www.animegg.org/embed/26113",
+        "dub": "https://www.animegg.org/embed/26114",
+        "url": "https://www.animegg.org/naruto-episode-134"
+      },
+      {
+        "ep": 135,
+        "sub": "https://www.animegg.org/embed/26117",
+        "dub": "https://www.animegg.org/embed/26118",
+        "url": "https://www.animegg.org/naruto-episode-135"
+      },
+      {
+        "ep": 136,
+        "sub": "https://www.animegg.org/embed/26119",
+        "dub": "https://www.animegg.org/embed/26120",
+        "url": "https://www.animegg.org/naruto-episode-136"
+      },
+      {
+        "ep": 137,
+        "sub": "https://www.animegg.org/embed/26129",
+        "dub": "https://www.animegg.org/embed/26130",
+        "url": "https://www.animegg.org/naruto-episode-137"
+      },
+      {
+        "ep": 138,
+        "sub": "https://www.animegg.org/embed/26121",
+        "dub": "https://www.animegg.org/embed/26122",
+        "url": "https://www.animegg.org/naruto-episode-138"
+      },
+      {
+        "ep": 139,
+        "sub": "https://www.animegg.org/embed/26125",
+        "dub": "https://www.animegg.org/embed/26126",
+        "url": "https://www.animegg.org/naruto-episode-139"
+      },
+      {
+        "ep": 140,
+        "sub": "https://www.animegg.org/embed/26123",
+        "dub": "https://www.animegg.org/embed/26124",
+        "url": "https://www.animegg.org/naruto-episode-140"
+      },
+      {
+        "ep": 141,
+        "sub": "https://www.animegg.org/embed/26127",
+        "dub": "https://www.animegg.org/embed/26128",
+        "url": "https://www.animegg.org/naruto-episode-141"
+      },
+      {
+        "ep": 142,
+        "sub": "https://www.animegg.org/embed/26131",
+        "dub": "https://www.animegg.org/embed/26132",
+        "url": "https://www.animegg.org/naruto-episode-142"
+      },
+      {
+        "ep": 143,
+        "sub": "https://www.animegg.org/embed/26137",
+        "dub": "https://www.animegg.org/embed/26138",
+        "url": "https://www.animegg.org/naruto-episode-143"
+      },
+      {
+        "ep": 144,
+        "sub": "https://www.animegg.org/embed/26139",
+        "dub": "https://www.animegg.org/embed/26140",
+        "url": "https://www.animegg.org/naruto-episode-144"
+      },
+      {
+        "ep": 145,
+        "sub": "https://www.animegg.org/embed/26135",
+        "dub": "https://www.animegg.org/embed/26136",
+        "url": "https://www.animegg.org/naruto-episode-145"
+      },
+      {
+        "ep": 146,
+        "sub": "https://www.animegg.org/embed/26133",
+        "dub": "https://www.animegg.org/embed/26134",
+        "url": "https://www.animegg.org/naruto-episode-146"
+      },
+      {
+        "ep": 147,
+        "sub": "https://www.animegg.org/embed/87469",
+        "dub": "https://www.animegg.org/embed/92363",
+        "url": "https://www.animegg.org/naruto-episode-147"
+      },
+      {
+        "ep": 148,
+        "sub": "https://www.animegg.org/embed/87470",
+        "dub": "https://www.animegg.org/embed/92364",
+        "url": "https://www.animegg.org/naruto-episode-148"
+      },
+      {
+        "ep": 149,
+        "sub": "https://www.animegg.org/embed/26141",
+        "dub": "https://www.animegg.org/embed/26142",
+        "url": "https://www.animegg.org/naruto-episode-149"
+      },
+      {
+        "ep": 150,
+        "sub": "https://www.animegg.org/embed/26147",
+        "dub": "https://www.animegg.org/embed/26148",
+        "url": "https://www.animegg.org/naruto-episode-150"
+      },
+      {
+        "ep": 151,
+        "sub": "https://www.animegg.org/embed/26143",
+        "dub": "https://www.animegg.org/embed/26144",
+        "url": "https://www.animegg.org/naruto-episode-151"
+      },
+      {
+        "ep": 152,
+        "sub": "https://www.animegg.org/embed/26145",
+        "dub": "https://www.animegg.org/embed/26146",
+        "url": "https://www.animegg.org/naruto-episode-152"
+      },
+      {
+        "ep": 153,
+        "sub": "https://www.animegg.org/embed/26151",
+        "dub": "https://www.animegg.org/embed/26152",
+        "url": "https://www.animegg.org/naruto-episode-153"
+      },
+      {
+        "ep": 154,
+        "sub": "https://www.animegg.org/embed/26153",
+        "dub": "https://www.animegg.org/embed/26154",
+        "url": "https://www.animegg.org/naruto-episode-154"
+      },
+      {
+        "ep": 155,
+        "sub": "https://www.animegg.org/embed/26149",
+        "dub": "https://www.animegg.org/embed/26150",
+        "url": "https://www.animegg.org/naruto-episode-155"
+      },
+      {
+        "ep": 156,
+        "sub": "https://www.animegg.org/embed/26155",
+        "dub": "https://www.animegg.org/embed/26156",
+        "url": "https://www.animegg.org/naruto-episode-156"
+      },
+      {
+        "ep": 157,
+        "sub": "https://www.animegg.org/embed/26161",
+        "dub": "https://www.animegg.org/embed/26162",
+        "url": "https://www.animegg.org/naruto-episode-157"
+      },
+      {
+        "ep": 158,
+        "sub": "https://www.animegg.org/embed/26163",
+        "dub": "https://www.animegg.org/embed/26164",
+        "url": "https://www.animegg.org/naruto-episode-158"
+      },
+      {
+        "ep": 159,
+        "sub": "https://www.animegg.org/embed/26157",
+        "dub": "https://www.animegg.org/embed/26158",
+        "url": "https://www.animegg.org/naruto-episode-159"
+      },
+      {
+        "ep": 160,
+        "sub": "https://www.animegg.org/embed/26159",
+        "dub": "https://www.animegg.org/embed/26160",
+        "url": "https://www.animegg.org/naruto-episode-160"
+      },
+      {
+        "ep": 161,
+        "sub": "https://www.animegg.org/embed/26167",
+        "dub": "https://www.animegg.org/embed/26168",
+        "url": "https://www.animegg.org/naruto-episode-161"
+      },
+      {
+        "ep": 162,
+        "sub": "https://www.animegg.org/embed/26169",
+        "dub": "https://www.animegg.org/embed/26170",
+        "url": "https://www.animegg.org/naruto-episode-162"
+      },
+      {
+        "ep": 163,
+        "sub": "https://www.animegg.org/embed/26165",
+        "dub": "https://www.animegg.org/embed/26166",
+        "url": "https://www.animegg.org/naruto-episode-163"
+      },
+      {
+        "ep": 164,
+        "sub": "https://www.animegg.org/embed/26179",
+        "dub": "https://www.animegg.org/embed/26180",
+        "url": "https://www.animegg.org/naruto-episode-164"
+      },
+      {
+        "ep": 165,
+        "sub": "https://www.animegg.org/embed/26171",
+        "dub": "https://www.animegg.org/embed/26172",
+        "url": "https://www.animegg.org/naruto-episode-165"
+      },
+      {
+        "ep": 166,
+        "sub": "https://www.animegg.org/embed/87459",
+        "dub": "https://www.animegg.org/embed/92355",
+        "url": "https://www.animegg.org/naruto-episode-166"
+      },
+      {
+        "ep": 167,
+        "sub": "https://www.animegg.org/embed/87460",
+        "dub": "https://www.animegg.org/embed/92356",
+        "url": "https://www.animegg.org/naruto-episode-167"
+      },
+      {
+        "ep": 168,
+        "sub": "https://www.animegg.org/embed/26181",
+        "dub": "https://www.animegg.org/embed/26182",
+        "url": "https://www.animegg.org/naruto-episode-168"
+      },
+      {
+        "ep": 169,
+        "sub": "https://www.animegg.org/embed/26175",
+        "dub": "https://www.animegg.org/embed/26176",
+        "url": "https://www.animegg.org/naruto-episode-169"
+      },
+      {
+        "ep": 170,
+        "sub": "https://www.animegg.org/embed/26173",
+        "dub": "https://www.animegg.org/embed/26174",
+        "url": "https://www.animegg.org/naruto-episode-170"
+      },
+      {
+        "ep": 171,
+        "sub": "https://www.animegg.org/embed/26177",
+        "dub": "https://www.animegg.org/embed/26178",
+        "url": "https://www.animegg.org/naruto-episode-171"
+      },
+      {
+        "ep": 172,
+        "sub": "https://www.animegg.org/embed/26189",
+        "dub": "https://www.animegg.org/embed/26190",
+        "url": "https://www.animegg.org/naruto-episode-172"
+      },
+      {
+        "ep": 173,
+        "sub": "https://www.animegg.org/embed/26187",
+        "dub": "https://www.animegg.org/embed/26188",
+        "url": "https://www.animegg.org/naruto-episode-173"
+      },
+      {
+        "ep": 174,
+        "sub": "https://www.animegg.org/embed/26183",
+        "dub": "https://www.animegg.org/embed/26184",
+        "url": "https://www.animegg.org/naruto-episode-174"
+      },
+      {
+        "ep": 175,
+        "sub": "https://www.animegg.org/embed/26185",
+        "dub": "https://www.animegg.org/embed/26186",
+        "url": "https://www.animegg.org/naruto-episode-175"
+      },
+      {
+        "ep": 176,
+        "sub": "https://www.animegg.org/embed/26193",
+        "dub": "https://www.animegg.org/embed/26194",
+        "url": "https://www.animegg.org/naruto-episode-176"
+      },
+      {
+        "ep": 177,
+        "sub": "https://www.animegg.org/embed/26197",
+        "dub": "https://www.animegg.org/embed/26198",
+        "url": "https://www.animegg.org/naruto-episode-177"
+      },
+      {
+        "ep": 178,
+        "sub": "https://www.animegg.org/embed/26195",
+        "dub": "https://www.animegg.org/embed/26196",
+        "url": "https://www.animegg.org/naruto-episode-178"
+      },
+      {
+        "ep": 179,
+        "sub": "https://www.animegg.org/embed/26191",
+        "dub": "https://www.animegg.org/embed/26192",
+        "url": "https://www.animegg.org/naruto-episode-179"
+      },
+      {
+        "ep": 180,
+        "sub": "https://www.animegg.org/embed/26207",
+        "dub": "https://www.animegg.org/embed/26208",
+        "url": "https://www.animegg.org/naruto-episode-180"
+      },
+      {
+        "ep": 181,
+        "sub": "https://www.animegg.org/embed/26203",
+        "dub": "https://www.animegg.org/embed/26204",
+        "url": "https://www.animegg.org/naruto-episode-181"
+      },
+      {
+        "ep": 182,
+        "sub": "https://www.animegg.org/embed/26199",
+        "dub": "https://www.animegg.org/embed/26200",
+        "url": "https://www.animegg.org/naruto-episode-182"
+      },
+      {
+        "ep": 183,
+        "sub": "https://www.animegg.org/embed/26205",
+        "dub": "https://www.animegg.org/embed/26206",
+        "url": "https://www.animegg.org/naruto-episode-183"
+      },
+      {
+        "ep": 184,
+        "sub": "https://www.animegg.org/embed/26201",
+        "dub": "https://www.animegg.org/embed/26202",
+        "url": "https://www.animegg.org/naruto-episode-184"
+      },
+      {
+        "ep": 185,
+        "sub": "https://www.animegg.org/embed/26213",
+        "dub": "https://www.animegg.org/embed/87468",
+        "url": "https://www.animegg.org/naruto-episode-185"
+      },
+      {
+        "ep": 186,
+        "sub": "https://www.animegg.org/embed/26209",
+        "dub": "https://www.animegg.org/embed/26210",
+        "url": "https://www.animegg.org/naruto-episode-186"
+      },
+      {
+        "ep": 187,
+        "sub": "https://www.animegg.org/embed/26214",
+        "dub": "https://www.animegg.org/embed/26215",
+        "url": "https://www.animegg.org/naruto-episode-187"
+      },
+      {
+        "ep": 188,
+        "sub": "https://www.animegg.org/embed/26211",
+        "dub": "https://www.animegg.org/embed/26212",
+        "url": "https://www.animegg.org/naruto-episode-188"
+      },
+      {
+        "ep": 189,
+        "sub": "https://www.animegg.org/embed/26226",
+        "dub": "https://www.animegg.org/embed/26227",
+        "url": "https://www.animegg.org/naruto-episode-189"
+      },
+      {
+        "ep": 190,
+        "sub": "https://www.animegg.org/embed/26216",
+        "dub": "https://www.animegg.org/embed/26217",
+        "url": "https://www.animegg.org/naruto-episode-190"
+      },
+      {
+        "ep": 191,
+        "sub": "https://www.animegg.org/embed/26218",
+        "dub": "https://www.animegg.org/embed/26219",
+        "url": "https://www.animegg.org/naruto-episode-191"
+      },
+      {
+        "ep": 192,
+        "sub": "https://www.animegg.org/embed/26220",
+        "dub": "https://www.animegg.org/embed/26221",
+        "url": "https://www.animegg.org/naruto-episode-192"
+      },
+      {
+        "ep": 193,
+        "sub": "https://www.animegg.org/embed/26222",
+        "dub": "https://www.animegg.org/embed/26223",
+        "url": "https://www.animegg.org/naruto-episode-193"
+      },
+      {
+        "ep": 194,
+        "sub": "https://www.animegg.org/embed/26224",
+        "dub": "https://www.animegg.org/embed/26225",
+        "url": "https://www.animegg.org/naruto-episode-194"
+      },
+      {
+        "ep": 195,
+        "sub": "https://www.animegg.org/embed/26228",
+        "dub": "https://www.animegg.org/embed/26229",
+        "url": "https://www.animegg.org/naruto-episode-195"
+      },
+      {
+        "ep": 196,
+        "sub": "https://www.animegg.org/embed/26230",
+        "dub": "https://www.animegg.org/embed/26231",
+        "url": "https://www.animegg.org/naruto-episode-196"
+      },
+      {
+        "ep": 197,
+        "sub": "https://www.animegg.org/embed/26232",
+        "dub": "https://www.animegg.org/embed/26233",
+        "url": "https://www.animegg.org/naruto-episode-197"
+      },
+      {
+        "ep": 198,
+        "sub": "https://www.animegg.org/embed/26234",
+        "dub": "https://www.animegg.org/embed/26235",
+        "url": "https://www.animegg.org/naruto-episode-198"
+      },
+      {
+        "ep": 199,
+        "sub": "https://www.animegg.org/embed/26238",
+        "dub": "https://www.animegg.org/embed/87467",
+        "url": "https://www.animegg.org/naruto-episode-199"
+      },
+      {
+        "ep": 200,
+        "sub": "https://www.animegg.org/embed/26236",
+        "dub": "https://www.animegg.org/embed/26237",
+        "url": "https://www.animegg.org/naruto-episode-200"
+      },
+      {
+        "ep": 201,
+        "sub": "https://www.animegg.org/embed/26244",
+        "dub": "https://www.animegg.org/embed/26245",
+        "url": "https://www.animegg.org/naruto-episode-201"
+      },
+      {
+        "ep": 202,
+        "sub": "https://www.animegg.org/embed/26240",
+        "dub": "https://www.animegg.org/embed/26241",
+        "url": "https://www.animegg.org/naruto-episode-202"
+      },
+      {
+        "ep": 203,
+        "sub": "https://www.animegg.org/embed/67275",
+        "dub": "https://www.animegg.org/embed/92357",
+        "url": "https://www.animegg.org/naruto-episode-203"
+      },
+      {
+        "ep": 204,
+        "sub": "https://www.animegg.org/embed/26273",
+        "dub": "https://www.animegg.org/embed/26274",
+        "url": "https://www.animegg.org/naruto-episode-204"
+      },
+      {
+        "ep": 205,
+        "sub": "https://www.animegg.org/embed/26272",
+        "dub": "https://www.animegg.org/embed/92358",
+        "url": "https://www.animegg.org/naruto-episode-205"
+      },
+      {
+        "ep": 206,
+        "sub": "https://www.animegg.org/embed/26242",
+        "dub": "https://www.animegg.org/embed/26243",
+        "url": "https://www.animegg.org/naruto-episode-206"
+      },
+      {
+        "ep": 207,
+        "sub": "https://www.animegg.org/embed/26246",
+        "dub": "https://www.animegg.org/embed/26247",
+        "url": "https://www.animegg.org/naruto-episode-207"
+      },
+      {
+        "ep": 208,
+        "sub": "https://www.animegg.org/embed/26248",
+        "dub": "https://www.animegg.org/embed/26249",
+        "url": "https://www.animegg.org/naruto-episode-208"
+      },
+      {
+        "ep": 209,
+        "sub": "https://www.animegg.org/embed/26252",
+        "dub": "https://www.animegg.org/embed/26253",
+        "url": "https://www.animegg.org/naruto-episode-209"
+      },
+      {
+        "ep": 210,
+        "sub": "https://www.animegg.org/embed/26254",
+        "dub": "https://www.animegg.org/embed/26255",
+        "url": "https://www.animegg.org/naruto-episode-210"
+      },
+      {
+        "ep": 211,
+        "sub": "https://www.animegg.org/embed/26250",
+        "dub": "https://www.animegg.org/embed/26251",
+        "url": "https://www.animegg.org/naruto-episode-211"
+      },
+      {
+        "ep": 212,
+        "sub": "https://www.animegg.org/embed/26256",
+        "dub": "https://www.animegg.org/embed/26257",
+        "url": "https://www.animegg.org/naruto-episode-212"
+      },
+      {
+        "ep": 213,
+        "sub": "https://www.animegg.org/embed/26262",
+        "dub": "https://www.animegg.org/embed/26263",
+        "url": "https://www.animegg.org/naruto-episode-213"
+      },
+      {
+        "ep": 214,
+        "sub": "https://www.animegg.org/embed/67276",
+        "dub": "https://www.animegg.org/embed/92359",
+        "url": "https://www.animegg.org/naruto-episode-214"
+      },
+      {
+        "ep": 215,
+        "sub": "https://www.animegg.org/embed/26270",
+        "dub": "https://www.animegg.org/embed/26271",
+        "url": "https://www.animegg.org/naruto-episode-215"
+      },
+      {
+        "ep": 216,
+        "sub": "https://www.animegg.org/embed/26264",
+        "dub": "https://www.animegg.org/embed/26265",
+        "url": "https://www.animegg.org/naruto-episode-216"
+      },
+      {
+        "ep": 217,
+        "sub": "https://www.animegg.org/embed/26258",
+        "dub": "https://www.animegg.org/embed/26259",
+        "url": "https://www.animegg.org/naruto-episode-217"
+      },
+      {
+        "ep": 218,
+        "sub": "https://www.animegg.org/embed/26260",
+        "dub": "https://www.animegg.org/embed/26261",
+        "url": "https://www.animegg.org/naruto-episode-218"
+      },
+      {
+        "ep": 219,
+        "sub": "https://www.animegg.org/embed/26266",
+        "dub": "https://www.animegg.org/embed/26267",
+        "url": "https://www.animegg.org/naruto-episode-219"
+      },
+      {
+        "ep": 220,
+        "sub": "https://www.animegg.org/embed/26268",
+        "dub": "https://www.animegg.org/embed/26269",
+        "url": "https://www.animegg.org/naruto-episode-220"
+      }
+    ]
   }
 ]
