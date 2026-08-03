@@ -85020,5 +85020,87 @@
         "url": "https://www.animegg.org/arslan-senki-tv-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 148,
+    "title": "Yosuga no Sora",
+    "animegg_url": "https://www.animegg.org/series/yosuga-no-sora",
+    "mal_url": "https://myanimelist.net/anime/8861",
+    "mal_id": 8861,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/41141",
+        "dub": null,
+        "url": "https://www.animegg.org/yosuga-no-sora-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/41138",
+        "dub": null,
+        "url": "https://www.animegg.org/yosuga-no-sora-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/41139",
+        "dub": null,
+        "url": "https://www.animegg.org/yosuga-no-sora-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/41140",
+        "dub": null,
+        "url": "https://www.animegg.org/yosuga-no-sora-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/41137",
+        "dub": null,
+        "url": "https://www.animegg.org/yosuga-no-sora-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/41142",
+        "dub": null,
+        "url": "https://www.animegg.org/yosuga-no-sora-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/41143",
+        "dub": null,
+        "url": "https://www.animegg.org/yosuga-no-sora-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/41144",
+        "dub": null,
+        "url": "https://www.animegg.org/yosuga-no-sora-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/41145",
+        "dub": null,
+        "url": "https://www.animegg.org/yosuga-no-sora-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/41146",
+        "dub": null,
+        "url": "https://www.animegg.org/yosuga-no-sora-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/41148",
+        "dub": null,
+        "url": "https://www.animegg.org/yosuga-no-sora-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/41147",
+        "dub": null,
+        "url": "https://www.animegg.org/yosuga-no-sora-episode-12"
+      }
+    ]
   }
 ]
