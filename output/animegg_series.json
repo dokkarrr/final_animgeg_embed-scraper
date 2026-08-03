@@ -97248,5 +97248,93 @@
         "url": "https://www.animegg.org/shugo-chara-episode-51"
       }
     ]
+  },
+  {
+    "serial_no": 199,
+    "title": "Overlord II",
+    "animegg_url": "https://www.animegg.org/series/overlord-ii",
+    "mal_url": "https://myanimelist.net/anime/35073",
+    "mal_id": 35073,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/89540",
+        "dub": null,
+        "url": "https://www.animegg.org/overlord-ii-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/89782",
+        "dub": null,
+        "url": "https://www.animegg.org/overlord-ii-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/89857",
+        "dub": null,
+        "url": "https://www.animegg.org/overlord-ii-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/89932",
+        "dub": null,
+        "url": "https://www.animegg.org/overlord-ii-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/90024",
+        "dub": null,
+        "url": "https://www.animegg.org/overlord-ii-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/90099",
+        "dub": null,
+        "url": "https://www.animegg.org/overlord-ii-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/90172",
+        "dub": null,
+        "url": "https://www.animegg.org/overlord-ii-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/90236",
+        "dub": null,
+        "url": "https://www.animegg.org/overlord-ii-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/90319",
+        "dub": null,
+        "url": "https://www.animegg.org/overlord-ii-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/90390",
+        "dub": null,
+        "url": "https://www.animegg.org/overlord-ii-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/90474",
+        "dub": null,
+        "url": "https://www.animegg.org/overlord-ii-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/90563",
+        "dub": null,
+        "url": "https://www.animegg.org/overlord-ii-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/90619",
+        "dub": null,
+        "url": "https://www.animegg.org/overlord-ii-episode-13"
+      }
+    ]
   }
 ]
