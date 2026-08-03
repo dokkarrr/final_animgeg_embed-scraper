@@ -129970,5 +129970,21 @@
         "url": "https://www.animegg.org/transformers-cybertron-episode-52"
       }
     ]
+  },
+  {
+    "serial_no": 335,
+    "title": "Boruto: Naruto the Movie",
+    "animegg_url": "https://www.animegg.org/series/boruto-naruto-the-movie",
+    "mal_url": "https://myanimelist.net/anime/28755",
+    "mal_id": 28755,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/86185",
+        "dub": "https://www.animegg.org/embed/90105",
+        "url": "https://www.animegg.org/boruto-naruto-the-movie-episode-1"
+      }
+    ]
   }
 ]
