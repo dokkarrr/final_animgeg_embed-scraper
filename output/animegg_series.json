@@ -79318,5 +79318,93 @@
         "url": "https://www.animegg.org/sailor-moon-episode-46"
       }
     ]
+  },
+  {
+    "serial_no": 128,
+    "title": "Highschool DxD",
+    "animegg_url": "https://www.animegg.org/series/highschool-dxd",
+    "mal_url": "https://myanimelist.net/anime/11617",
+    "mal_id": 11617,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/16160",
+        "dub": null,
+        "url": "https://www.animegg.org/highschool-dxd-episode-0"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/16144",
+        "dub": "https://www.animegg.org/embed/16145",
+        "url": "https://www.animegg.org/highschool-dxd-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/16142",
+        "dub": "https://www.animegg.org/embed/16143",
+        "url": "https://www.animegg.org/highschool-dxd-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/16140",
+        "dub": "https://www.animegg.org/embed/16141",
+        "url": "https://www.animegg.org/highschool-dxd-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/16138",
+        "dub": "https://www.animegg.org/embed/16139",
+        "url": "https://www.animegg.org/highschool-dxd-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/16136",
+        "dub": "https://www.animegg.org/embed/16137",
+        "url": "https://www.animegg.org/highschool-dxd-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/16148",
+        "dub": "https://www.animegg.org/embed/16149",
+        "url": "https://www.animegg.org/highschool-dxd-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/16146",
+        "dub": "https://www.animegg.org/embed/16147",
+        "url": "https://www.animegg.org/highschool-dxd-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/16150",
+        "dub": "https://www.animegg.org/embed/16151",
+        "url": "https://www.animegg.org/highschool-dxd-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/16152",
+        "dub": "https://www.animegg.org/embed/16153",
+        "url": "https://www.animegg.org/highschool-dxd-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/16154",
+        "dub": "https://www.animegg.org/embed/16155",
+        "url": "https://www.animegg.org/highschool-dxd-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/16156",
+        "dub": "https://www.animegg.org/embed/16157",
+        "url": "https://www.animegg.org/highschool-dxd-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/16158",
+        "dub": "https://www.animegg.org/embed/16159",
+        "url": "https://www.animegg.org/highschool-dxd-episode-12"
+      }
+    ]
   }
 ]
