@@ -85422,5 +85422,87 @@
         "url": "https://www.animegg.org/magi-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 151,
+    "title": "Owari no Seraph",
+    "animegg_url": "https://www.animegg.org/series/owari-no-seraph",
+    "mal_url": "https://myanimelist.net/anime/26243",
+    "mal_id": 26243,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/76014",
+        "dub": "https://www.animegg.org/embed/77050",
+        "url": "https://www.animegg.org/owari-no-seraph-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/76146",
+        "dub": "https://www.animegg.org/embed/77051",
+        "url": "https://www.animegg.org/owari-no-seraph-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/76317",
+        "dub": "https://www.animegg.org/embed/77113",
+        "url": "https://www.animegg.org/owari-no-seraph-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/76436",
+        "dub": "https://www.animegg.org/embed/77166",
+        "url": "https://www.animegg.org/owari-no-seraph-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/76567",
+        "dub": "https://www.animegg.org/embed/77376",
+        "url": "https://www.animegg.org/owari-no-seraph-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/76691",
+        "dub": "https://www.animegg.org/embed/77451",
+        "url": "https://www.animegg.org/owari-no-seraph-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/76799",
+        "dub": "https://www.animegg.org/embed/77906",
+        "url": "https://www.animegg.org/owari-no-seraph-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/76902",
+        "dub": "https://www.animegg.org/embed/77907",
+        "url": "https://www.animegg.org/owari-no-seraph-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/76990",
+        "dub": "https://www.animegg.org/embed/77908",
+        "url": "https://www.animegg.org/owari-no-seraph-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/77199",
+        "dub": "https://www.animegg.org/embed/77909",
+        "url": "https://www.animegg.org/owari-no-seraph-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/77337",
+        "dub": "https://www.animegg.org/embed/78197",
+        "url": "https://www.animegg.org/owari-no-seraph-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/77476",
+        "dub": "https://www.animegg.org/embed/78337",
+        "url": "https://www.animegg.org/owari-no-seraph-episode-12"
+      }
+    ]
   }
 ]
