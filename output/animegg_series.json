@@ -95342,5 +95342,93 @@
         "url": "https://www.animegg.org/gundam-zeta-episode-50"
       }
     ]
+  },
+  {
+    "serial_no": 189,
+    "title": "Gangsta.",
+    "animegg_url": "https://www.animegg.org/series/gangsta",
+    "mal_url": "https://myanimelist.net/anime/25183",
+    "mal_id": 25183,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/77641",
+        "dub": "https://www.animegg.org/embed/77645",
+        "url": "https://www.animegg.org/gangsta-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/77790",
+        "dub": "https://www.animegg.org/embed/77801",
+        "url": "https://www.animegg.org/gangsta-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/77966",
+        "dub": "https://www.animegg.org/embed/78720",
+        "url": "https://www.animegg.org/gangsta-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/78113",
+        "dub": null,
+        "url": "https://www.animegg.org/gangsta-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/78328",
+        "dub": "https://www.animegg.org/embed/78969",
+        "url": "https://www.animegg.org/gangsta-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/78454",
+        "dub": null,
+        "url": "https://www.animegg.org/gangsta-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/78571",
+        "dub": null,
+        "url": "https://www.animegg.org/gangsta-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/78671",
+        "dub": null,
+        "url": "https://www.animegg.org/gangsta-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/78791",
+        "dub": null,
+        "url": "https://www.animegg.org/gangsta-episode-9"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/78907",
+        "dub": "https://www.animegg.org/embed/79563",
+        "url": "https://www.animegg.org/gangsta-episode-9-5"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/78946",
+        "dub": "https://www.animegg.org/embed/79011",
+        "url": "https://www.animegg.org/gangsta-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/79061",
+        "dub": "https://www.animegg.org/embed/79141",
+        "url": "https://www.animegg.org/gangsta-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/79179",
+        "dub": "https://www.animegg.org/embed/79214",
+        "url": "https://www.animegg.org/gangsta-episode-12"
+      }
+    ]
   }
 ]
