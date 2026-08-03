@@ -16,6 +16,21 @@ automatically when the current one would exceed the limit.
 
 Auto-commits every COMMIT_EVERY series so long runs don't lose progress.
 
+Strategy for episode URLs
+--------------------------
+AnimeGG episode URLs are NOT predictable from the slug + episode number.
+The real URLs are only reliable when read from the series listing page
+(e.g. https://www.animegg.org/series/detectiveconan).
+
+So for every series we:
+  1. Fetch the /series/<slug> page.
+  2. Parse all <a href="..."> inside <ul class="newmanga"> to get the
+     actual episode page URLs.
+  3. Sort them by the episode number we extract from the link text /
+     <i class="anititle"> so that ep 1 comes first.
+  4. Fall back to the old guessed URL only when the series page cannot
+     be fetched (network error) or has no episode links at all.
+
 Usage:
     python scraper.py
 
@@ -55,17 +70,11 @@ SEPARATOR       = "=" * 70
 # ── Chunk file helpers ─────────────────────────────────────────────────────────
 
 def chunk_path(index: int) -> Path:
-    """
-    index 1  →  output/animegg_series.json
-    index 2  →  output/animegg_series2.json
-    index 3  →  output/animegg_series3.json
-    """
     suffix = "" if index == 1 else str(index)
     return OUTPUT_DIR / f"animegg_series{suffix}.json"
 
 
 def find_last_chunk_index() -> int:
-    """Return the index of the highest-numbered chunk file that exists (min 1)."""
     idx = 1
     while chunk_path(idx + 1).exists():
         idx += 1
@@ -73,7 +82,6 @@ def find_last_chunk_index() -> int:
 
 
 def load_chunk(index: int) -> list:
-    """Load the JSON array from a chunk file, or return [] if missing/corrupt."""
     p = chunk_path(index)
     if p.exists():
         try:
@@ -86,7 +94,6 @@ def load_chunk(index: int) -> list:
 
 
 def save_chunk(index: int, records: list) -> None:
-    """Write the records list as a pretty-printed JSON array."""
     chunk_path(index).write_text(
         json.dumps(records, indent=2, ensure_ascii=False),
         encoding="utf-8",
@@ -94,51 +101,40 @@ def save_chunk(index: int, records: list) -> None:
 
 
 def chunk_size_bytes(index: int) -> int:
-    """Return on-disk byte size of a chunk file (0 if missing)."""
     p = chunk_path(index)
     return p.stat().st_size if p.exists() else 0
 
 
 def append_record_to_chunks(record: dict) -> tuple[int, int]:
-    """
-    Append *record* to the current chunk. If the file would exceed
-    MAX_CHUNK_BYTES after the append, start a new chunk first.
-
-    Returns (chunk_index_written, new_record_count_in_that_chunk).
-    """
     record_bytes = len(
         json.dumps(record, ensure_ascii=False).encode("utf-8")
     )
-
-    # Find current active chunk
     idx = find_last_chunk_index()
     records = load_chunk(idx)
-
-    # If adding this record would push the file over the limit, start fresh
-    # (estimate: current file size + record bytes + ~4 bytes JSON overhead)
     if records and chunk_size_bytes(idx) + record_bytes + 4 > MAX_CHUNK_BYTES:
         idx += 1
         records = []
         print(f"  ↳ Starting new chunk: {chunk_path(idx).name}")
-
     records.append(record)
     save_chunk(idx, records)
     return idx, len(records)
 
 
-# ── Helpers ────────────────────────────────────────────────────────────────────
+# ── HTTP helper ────────────────────────────────────────────────────────────────
+
+HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/124.0.0.0 Safari/537.36"
+    )
+}
+
 
 def fetch_html(url: str) -> str:
-    headers = {
-        "User-Agent": (
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-            "AppleWebKit/537.36 (KHTML, like Gecko) "
-            "Chrome/124.0.0.0 Safari/537.36"
-        )
-    }
     for attempt in range(1, RETRY_ATTEMPTS + 1):
         try:
-            resp = requests.get(url, headers=headers, timeout=REQUEST_TIMEOUT)
+            resp = requests.get(url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
             resp.raise_for_status()
             return resp.text
         except requests.exceptions.RequestException as exc:
@@ -158,28 +154,101 @@ def extract_iframes(soup: BeautifulSoup, base_url: str) -> list[str]:
 
 
 def slug_from_series_url(series_url: str) -> str:
-    """
-    https://www.animegg.org/series/one-piece  →  one-piece
-    https://www.animegg.org/series/detectiveconan  →  detectiveconan
-    """
     return series_url.rstrip("/").split("/")[-1]
 
 
-def build_episode_url(slug: str, episode: int) -> str:
+# ── Episode URL discovery ──────────────────────────────────────────────────────
+
+def _ep_number_from_text(text: str) -> float:
+    """
+    Extract a numeric episode key from the link text / title text so we can
+    sort correctly.  Handles things like "Episode 1206", "Detective Conan 352-353",
+    "851", etc.  Returns a float so that e.g. 352.5 sorts between 352 and 353.
+    """
+    # Grab all digit-groups
+    nums = re.findall(r"\d+", text)
+    if not nums:
+        return 0.0
+    if len(nums) == 1:
+        return float(nums[0])
+    # Two numbers → treat as a range; sort by the first one with a tiny offset
+    return float(nums[0]) + 0.5
+
+
+def get_episode_urls_from_series_page(slug: str, total_eps: int) -> list[tuple[int, str]]:
+    """
+    Fetch the series listing page and return a list of (ep_number, full_url)
+    pairs sorted ascending by episode number.
+
+    Falls back to an empty list on any error so the caller can decide what to do.
+    """
+    series_url = f"{BASE_URL}/series/{slug}"
+    try:
+        html = fetch_html(series_url)
+    except requests.exceptions.RequestException as exc:
+        print(f"  ⚠ Could not fetch series page ({exc}); will fall back to guessed URLs.")
+        return []
+
+    soup = BeautifulSoup(html, "html.parser")
+
+    # The episode list lives in <ul class="newmanga">
+    ul = soup.find("ul", class_="newmanga")
+    if ul is None:
+        print("  ⚠ No <ul class='newmanga'> found on series page; will fall back.")
+        return []
+
+    results: list[tuple[float, str]] = []
+    for li in ul.find_all("li"):
+        a = li.find("a", class_="anm_det_pop")
+        if a is None:
+            continue
+        href = a.get("href", "").strip()
+        if not href:
+            continue
+        full_url = urljoin(BASE_URL, href)
+
+        # Best label: the <strong> text inside the link (e.g. "Detective Conan 1206")
+        strong = a.find("strong")
+        label  = strong.get_text(strip=True) if strong else a.get_text(strip=True)
+
+        ep_key = _ep_number_from_text(label)
+        results.append((ep_key, full_url))
+
+    if not results:
+        print("  ⚠ Series page had no episode links; will fall back.")
+        return []
+
+    # Sort ascending (page usually lists newest-first)
+    results.sort(key=lambda x: x[0])
+
+    # Convert float keys to int episode numbers 1..N
+    # We preserve the original URL; the ep number in the JSON is its 1-based
+    # position in the sorted list (or the rounded key if you prefer).
+    ep_pairs: list[tuple[int, str]] = []
+    for rank, (key, url) in enumerate(results, start=1):
+        ep_num = int(round(key)) if key == int(key) else int(key)  # e.g. 352.5 → 352
+        ep_pairs.append((ep_num, url))
+
+    print(f"  ✓ Series page: found {len(ep_pairs)} episode links "
+          f"(expected {total_eps})")
+    return ep_pairs
+
+
+def build_guessed_episode_url(slug: str, episode: int) -> str:
+    """Old-style fallback URL — may 404 for many series."""
     return f"{BASE_URL}/{slug}-episode-{episode}"
 
 
 # ── Git helpers ────────────────────────────────────────────────────────────────
 
 def git_commit_and_push(message: str) -> None:
-    """Stage output/, commit (if changed), push."""
     try:
         subprocess.run(["git", "add", "output/"], check=True)
         diff = subprocess.run(
             ["git", "diff", "--cached", "--quiet"],
             capture_output=True,
         )
-        if diff.returncode != 0:          # there are staged changes
+        if diff.returncode != 0:
             subprocess.run(["git", "commit", "-m", message], check=True)
             subprocess.run(["git", "push"], check=True)
             print(f"  ✓ Committed & pushed: {message}")
@@ -195,14 +264,24 @@ def scrape_series(entry: dict) -> dict:
     """
     Scrape all episodes for one anime entry and return the structured record.
 
-    Output shape:
+    Strategy
+    --------
+    1. Fetch the /series/<slug> page and collect the real episode URLs from the
+       <ul class="newmanga"> listing — these are the only reliable URLs.
+    2. If the series page fails or is empty, fall back to the old guessed URLs
+       (/{slug}-episode-{N}) which at least work for simple slugs like
+       naruto-shippuden.
+    3. Visit each episode URL and extract the first two iframe srcs as sub/dub.
+
+    Output shape
+    ------------
     {
         "serial_no":    1,
-        "title":        "One Piece",
-        "animegg_url":  "https://www.animegg.org/series/one-piece",
-        "mal_url":      "https://myanimelist.net/anime/21",
-        "mal_id":       21,
-        "total_ep":     1160,
+        "title":        "Detective Conan",
+        "animegg_url":  "https://www.animegg.org/series/detectiveconan",
+        "mal_url":      "https://myanimelist.net/anime/235",
+        "mal_id":       235,
+        "total_ep":     1182,
         "episodes": [
             { "ep": 1, "sub": "...", "dub": "..." },
             ...
@@ -215,36 +294,50 @@ def scrape_series(entry: dict) -> dict:
     mal_id      = entry.get("mal_id")
     mal_url     = entry.get("mal_url", "")
     total_eps   = entry.get("episode_count", 0)
-
-    slug = slug_from_series_url(series_url)
+    slug        = slug_from_series_url(series_url)
 
     print(f"\n{'#' * 70}")
     print(f"  [{serial_no}] {title}  ({total_eps} episodes)  slug={slug}")
     print(f"{'#' * 70}\n")
 
+    # ── Step 1: discover real episode URLs from the series listing page ────────
+    ep_pairs = get_episode_urls_from_series_page(slug, total_eps)
+
+    use_discovered = bool(ep_pairs)
+
+    if not use_discovered:
+        # Build guessed pairs as fallback
+        ep_pairs = [
+            (ep, build_guessed_episode_url(slug, ep))
+            for ep in range(1, total_eps + 1)
+        ]
+        print(f"  ↳ Using {len(ep_pairs)} guessed URLs as fallback.")
+
+    # ── Step 2: scrape each episode page ──────────────────────────────────────
     episodes = []
+    total = len(ep_pairs)
 
-    for ep in range(1, total_eps + 1):
-        url = build_episode_url(slug, ep)
-        print(f"  [{ep:>5}/{total_eps}] {url}")
+    for ep_num, ep_url in ep_pairs:
+        print(f"  [{ep_num:>5}/{total_eps}] {ep_url}")
 
-        sub = None
-        dub = None
+        sub = dub = None
         error = None
 
         try:
-            html = fetch_html(url)
-            soup = BeautifulSoup(html, "html.parser")
-            iframes = extract_iframes(soup, url)
-            sub = iframes[0] if len(iframes) > 0 else None
-            dub = iframes[1] if len(iframes) > 1 else None
+            html  = fetch_html(ep_url)
+            soup  = BeautifulSoup(html, "html.parser")
+            iframes = extract_iframes(soup, ep_url)
+            sub   = iframes[0] if len(iframes) > 0 else None
+            dub   = iframes[1] if len(iframes) > 1 else None
         except requests.exceptions.RequestException as exc:
             error = str(exc)
             print(f"           ERROR: {exc}")
 
-        ep_record = {"ep": ep, "sub": sub, "dub": dub}
+        ep_record = {"ep": ep_num, "sub": sub, "dub": dub}
         if error:
             ep_record["error"] = error
+        # Store the actual URL we used so it is easy to re-fetch later
+        ep_record["url"] = ep_url
 
         episodes.append(ep_record)
         time.sleep(POLITE_DELAY)
@@ -266,7 +359,6 @@ PROGRESS_FILE = OUTPUT_DIR / "_progress.json"
 
 
 def load_progress() -> set[int]:
-    """Return set of serial_no values already completed."""
     if PROGRESS_FILE.exists():
         try:
             data = json.loads(PROGRESS_FILE.read_text(encoding="utf-8"))
@@ -288,7 +380,6 @@ def save_progress(completed: set[int]) -> None:
 def main() -> None:
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-    # ── Fetch master list ──────────────────────────────────────────────────
     print(f"Fetching master list from:\n  {ALL_JSON_URL}\n")
     try:
         resp = requests.get(ALL_JSON_URL, timeout=REQUEST_TIMEOUT)
@@ -300,7 +391,6 @@ def main() -> None:
 
     print(f"Found {len(all_entries)} anime entries.\n")
 
-    # ── Optional serial_no range filter (set via workflow_dispatch inputs) ─
     serial_from = os.environ.get("SERIAL_FROM", "").strip()
     serial_to   = os.environ.get("SERIAL_TO",   "").strip()
 
@@ -313,13 +403,12 @@ def main() -> None:
     completed = load_progress()
     print(f"Already completed: {len(completed)} series.\n")
 
-    # Show current chunk status on resume
     current_chunk = find_last_chunk_index()
     current_size  = chunk_size_bytes(current_chunk)
     print(f"Current output chunk: {chunk_path(current_chunk).name}  "
           f"({current_size / 1024:.1f} KB used of {MAX_CHUNK_BYTES // 1024} KB max)\n")
 
-    batch_count = 0   # how many series finished in this run
+    batch_count = 0
 
     for entry in all_entries:
         serial_no = entry.get("serial_no")
@@ -328,10 +417,8 @@ def main() -> None:
             print(f"[{serial_no}] {entry.get('title')} — already done, skipping.")
             continue
 
-        # ── Scrape ────────────────────────────────────────────────────────
         record = scrape_series(entry)
 
-        # ── Append to chunked output files ────────────────────────────────
         chunk_idx, count_in_chunk = append_record_to_chunks(record)
         size_kb = chunk_size_bytes(chunk_idx) / 1024
         print(
@@ -343,7 +430,6 @@ def main() -> None:
         save_progress(completed)
         batch_count += 1
 
-        # ── Auto-commit every COMMIT_EVERY series ────────────────────────
         if batch_count % COMMIT_EVERY == 0:
             timestamp = time.strftime("%Y-%m-%d %H:%M UTC", time.gmtime())
             git_commit_and_push(
@@ -351,7 +437,6 @@ def main() -> None:
                 f"(total done: {len(completed)}) [{timestamp}]"
             )
 
-    # ── Final commit for any leftover series ──────────────────────────────
     if batch_count % COMMIT_EVERY != 0:
         timestamp = time.strftime("%Y-%m-%d %H:%M UTC", time.gmtime())
         git_commit_and_push(
