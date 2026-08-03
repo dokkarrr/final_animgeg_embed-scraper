@@ -119144,5 +119144,87 @@
         "url": "https://www.animegg.org/digimon-data-squad-episode-48"
       }
     ]
+  },
+  {
+    "serial_no": 288,
+    "title": "Kiss X Sis (TV)",
+    "animegg_url": "https://www.animegg.org/series/kiss-x-sis-tv",
+    "mal_url": "https://myanimelist.net/anime/7593",
+    "mal_id": 7593,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/20583",
+        "dub": null,
+        "url": "https://www.animegg.org/kiss-x-sis-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/20581",
+        "dub": null,
+        "url": "https://www.animegg.org/kiss-x-sis-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/20582",
+        "dub": null,
+        "url": "https://www.animegg.org/kiss-x-sis-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/20580",
+        "dub": null,
+        "url": "https://www.animegg.org/kiss-x-sis-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/20579",
+        "dub": null,
+        "url": "https://www.animegg.org/kiss-x-sis-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/20584",
+        "dub": null,
+        "url": "https://www.animegg.org/kiss-x-sis-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/20585",
+        "dub": null,
+        "url": "https://www.animegg.org/kiss-x-sis-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/20586",
+        "dub": null,
+        "url": "https://www.animegg.org/kiss-x-sis-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/20588",
+        "dub": null,
+        "url": "https://www.animegg.org/kiss-x-sis-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/20587",
+        "dub": null,
+        "url": "https://www.animegg.org/kiss-x-sis-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/20589",
+        "dub": null,
+        "url": "https://www.animegg.org/kiss-x-sis-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/20590",
+        "dub": null,
+        "url": "https://www.animegg.org/kiss-x-sis-episode-12"
+      }
+    ]
   }
 ]
