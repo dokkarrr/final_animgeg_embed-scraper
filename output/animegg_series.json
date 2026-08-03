@@ -69366,5 +69366,87 @@
         "url": "https://www.animegg.org/gintama-2015-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 91,
+    "title": "High School DxD New",
+    "animegg_url": "https://www.animegg.org/series/high-school-dxd-new",
+    "mal_url": "https://myanimelist.net/anime/15451",
+    "mal_id": 15451,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/16106",
+        "dub": "https://www.animegg.org/embed/16107",
+        "url": "https://www.animegg.org/high-school-dxd-new-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/16103",
+        "dub": "https://www.animegg.org/embed/74380",
+        "url": "https://www.animegg.org/high-school-dxd-new-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/16102",
+        "dub": "https://www.animegg.org/embed/74381",
+        "url": "https://www.animegg.org/high-school-dxd-new-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/16105",
+        "dub": "https://www.animegg.org/embed/74384",
+        "url": "https://www.animegg.org/high-school-dxd-new-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/16104",
+        "dub": "https://www.animegg.org/embed/74385",
+        "url": "https://www.animegg.org/high-school-dxd-new-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/16109",
+        "dub": "https://www.animegg.org/embed/74392",
+        "url": "https://www.animegg.org/high-school-dxd-new-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/16110",
+        "dub": "https://www.animegg.org/embed/74394",
+        "url": "https://www.animegg.org/high-school-dxd-new-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/16108",
+        "dub": "https://www.animegg.org/embed/74397",
+        "url": "https://www.animegg.org/high-school-dxd-new-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/16111",
+        "dub": "https://www.animegg.org/embed/74409",
+        "url": "https://www.animegg.org/high-school-dxd-new-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/16112",
+        "dub": "https://www.animegg.org/embed/74410",
+        "url": "https://www.animegg.org/high-school-dxd-new-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/16113",
+        "dub": "https://www.animegg.org/embed/74411",
+        "url": "https://www.animegg.org/high-school-dxd-new-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/16114",
+        "dub": "https://www.animegg.org/embed/74412",
+        "url": "https://www.animegg.org/high-school-dxd-new-episode-12"
+      }
+    ]
   }
 ]
