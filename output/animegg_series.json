@@ -88544,5 +88544,87 @@
         "url": "https://www.animegg.org/berserk-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 165,
+    "title": "Monster Musume no Iru Nichijou",
+    "animegg_url": "https://www.animegg.org/series/monster-musume-no-iru-nichijou",
+    "mal_url": "https://myanimelist.net/anime/30307",
+    "mal_id": 30307,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/77771",
+        "dub": "https://www.animegg.org/embed/77772",
+        "url": "https://www.animegg.org/monster-musume-no-iru-nichijou-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/77897",
+        "dub": null,
+        "url": "https://www.animegg.org/monster-musume-no-iru-nichijou-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/78103",
+        "dub": null,
+        "url": "https://www.animegg.org/monster-musume-no-iru-nichijou-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/78243",
+        "dub": null,
+        "url": "https://www.animegg.org/monster-musume-no-iru-nichijou-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/78359",
+        "dub": null,
+        "url": "https://www.animegg.org/monster-musume-no-iru-nichijou-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/78479",
+        "dub": null,
+        "url": "https://www.animegg.org/monster-musume-no-iru-nichijou-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/78595",
+        "dub": null,
+        "url": "https://www.animegg.org/monster-musume-no-iru-nichijou-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/78703",
+        "dub": null,
+        "url": "https://www.animegg.org/monster-musume-no-iru-nichijou-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/78811",
+        "dub": null,
+        "url": "https://www.animegg.org/monster-musume-no-iru-nichijou-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/78925",
+        "dub": null,
+        "url": "https://www.animegg.org/monster-musume-no-iru-nichijou-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/79034",
+        "dub": null,
+        "url": "https://www.animegg.org/monster-musume-no-iru-nichijou-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/79145",
+        "dub": null,
+        "url": "https://www.animegg.org/monster-musume-no-iru-nichijou-episode-12"
+      }
+    ]
   }
 ]
