@@ -122750,5 +122750,93 @@
         "url": "https://www.animegg.org/beyblade-v-force-episode-51"
       }
     ]
+  },
+  {
+    "serial_no": 303,
+    "title": "Highschool DxD Hero",
+    "animegg_url": "https://www.animegg.org/series/highschool-dxd-hero",
+    "mal_url": "https://myanimelist.net/anime/34281",
+    "mal_id": 34281,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/90717",
+        "dub": "https://www.animegg.org/embed/90725",
+        "url": "https://www.animegg.org/highschool-dxd-hero-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/90812",
+        "dub": null,
+        "url": "https://www.animegg.org/highschool-dxd-hero-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/90900",
+        "dub": null,
+        "url": "https://www.animegg.org/highschool-dxd-hero-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/90988",
+        "dub": null,
+        "url": "https://www.animegg.org/highschool-dxd-hero-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/91085",
+        "dub": null,
+        "url": "https://www.animegg.org/highschool-dxd-hero-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/91167",
+        "dub": null,
+        "url": "https://www.animegg.org/highschool-dxd-hero-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/91254",
+        "dub": null,
+        "url": "https://www.animegg.org/highschool-dxd-hero-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/91336",
+        "dub": null,
+        "url": "https://www.animegg.org/highschool-dxd-hero-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/91420",
+        "dub": null,
+        "url": "https://www.animegg.org/highschool-dxd-hero-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/91506",
+        "dub": null,
+        "url": "https://www.animegg.org/highschool-dxd-hero-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/91589",
+        "dub": null,
+        "url": "https://www.animegg.org/highschool-dxd-hero-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/91663",
+        "dub": null,
+        "url": "https://www.animegg.org/highschool-dxd-hero-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/highschool-dxd-hero-episode-13"
+      }
+    ]
   }
 ]
