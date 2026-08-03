@@ -98136,5 +98136,87 @@
         "url": "https://www.animegg.org/hataraku-maou-sama-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 205,
+    "title": "Saijaku Muhai no Bahamut",
+    "animegg_url": "https://www.animegg.org/series/saijaku-muhai-no-bahamut",
+    "mal_url": "https://myanimelist.net/anime/30749",
+    "mal_id": 30749,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/80643",
+        "dub": "https://www.animegg.org/embed/80652",
+        "url": "https://www.animegg.org/saijaku-muhai-no-bahamut-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/80745",
+        "dub": "https://www.animegg.org/embed/80747",
+        "url": "https://www.animegg.org/saijaku-muhai-no-bahamut-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/80843",
+        "dub": "https://www.animegg.org/embed/80850",
+        "url": "https://www.animegg.org/saijaku-muhai-no-bahamut-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/80957",
+        "dub": null,
+        "url": "https://www.animegg.org/saijaku-muhai-no-bahamut-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/81047",
+        "dub": "https://www.animegg.org/embed/81055",
+        "url": "https://www.animegg.org/saijaku-muhai-no-bahamut-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/81138",
+        "dub": "https://www.animegg.org/embed/81143",
+        "url": "https://www.animegg.org/saijaku-muhai-no-bahamut-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/81236",
+        "dub": "https://www.animegg.org/embed/81242",
+        "url": "https://www.animegg.org/saijaku-muhai-no-bahamut-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/81361",
+        "dub": "https://www.animegg.org/embed/81368",
+        "url": "https://www.animegg.org/saijaku-muhai-no-bahamut-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/81447",
+        "dub": "https://www.animegg.org/embed/81455",
+        "url": "https://www.animegg.org/saijaku-muhai-no-bahamut-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/81549",
+        "dub": "https://www.animegg.org/embed/81564",
+        "url": "https://www.animegg.org/saijaku-muhai-no-bahamut-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/81640",
+        "dub": "https://www.animegg.org/embed/81647",
+        "url": "https://www.animegg.org/saijaku-muhai-no-bahamut-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/81736",
+        "dub": null,
+        "url": "https://www.animegg.org/saijaku-muhai-no-bahamut-episode-12"
+      }
+    ]
   }
 ]
