@@ -119386,5 +119386,87 @@
         "url": "https://www.animegg.org/mobile-suit-gundam-iron-blooded-orphans-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 290,
+    "title": "Bungou Stray Dogs",
+    "animegg_url": "https://www.animegg.org/series/bungou-stray-dogs",
+    "mal_url": "https://myanimelist.net/anime/31478",
+    "mal_id": 31478,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/81827",
+        "dub": null,
+        "url": "https://www.animegg.org/bungou-stray-dogs-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/81921",
+        "dub": null,
+        "url": "https://www.animegg.org/bungou-stray-dogs-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/82015",
+        "dub": null,
+        "url": "https://www.animegg.org/bungou-stray-dogs-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/82087",
+        "dub": null,
+        "url": "https://www.animegg.org/bungou-stray-dogs-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/82189",
+        "dub": null,
+        "url": "https://www.animegg.org/bungou-stray-dogs-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/82266",
+        "dub": null,
+        "url": "https://www.animegg.org/bungou-stray-dogs-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/82353",
+        "dub": null,
+        "url": "https://www.animegg.org/bungou-stray-dogs-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/82450",
+        "dub": null,
+        "url": "https://www.animegg.org/bungou-stray-dogs-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/82531",
+        "dub": null,
+        "url": "https://www.animegg.org/bungou-stray-dogs-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/82626",
+        "dub": null,
+        "url": "https://www.animegg.org/bungou-stray-dogs-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/82706",
+        "dub": null,
+        "url": "https://www.animegg.org/bungou-stray-dogs-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/82783",
+        "dub": null,
+        "url": "https://www.animegg.org/bungou-stray-dogs-episode-12"
+      }
+    ]
   }
 ]
