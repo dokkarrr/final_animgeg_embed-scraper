@@ -69448,5 +69448,93 @@
         "url": "https://www.animegg.org/high-school-dxd-new-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 92,
+    "title": "Overlord",
+    "animegg_url": "https://www.animegg.org/series/overlord",
+    "mal_url": "https://myanimelist.net/anime/29803",
+    "mal_id": 29803,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/77768",
+        "dub": "https://www.animegg.org/embed/77770",
+        "url": "https://www.animegg.org/overlord-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/77895",
+        "dub": "https://www.animegg.org/embed/134367",
+        "url": "https://www.animegg.org/overlord-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/78101",
+        "dub": "https://www.animegg.org/embed/134368",
+        "url": "https://www.animegg.org/overlord-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/78240",
+        "dub": "https://www.animegg.org/embed/134369",
+        "url": "https://www.animegg.org/overlord-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/78357",
+        "dub": "https://www.animegg.org/embed/134370",
+        "url": "https://www.animegg.org/overlord-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/78471",
+        "dub": "https://www.animegg.org/embed/134371",
+        "url": "https://www.animegg.org/overlord-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/78594",
+        "dub": "https://www.animegg.org/embed/134372",
+        "url": "https://www.animegg.org/overlord-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/78702",
+        "dub": "https://www.animegg.org/embed/134373",
+        "url": "https://www.animegg.org/overlord-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/78809",
+        "dub": "https://www.animegg.org/embed/134374",
+        "url": "https://www.animegg.org/overlord-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/78924",
+        "dub": "https://www.animegg.org/embed/134375",
+        "url": "https://www.animegg.org/overlord-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/79033",
+        "dub": "https://www.animegg.org/embed/134376",
+        "url": "https://www.animegg.org/overlord-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/79144",
+        "dub": "https://www.animegg.org/embed/134377",
+        "url": "https://www.animegg.org/overlord-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/79229",
+        "dub": "https://www.animegg.org/embed/79233",
+        "url": "https://www.animegg.org/overlord-episode-13"
+      }
+    ]
   }
 ]
