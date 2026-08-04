@@ -134223,5 +134223,39 @@
         "url": "https://www.animegg.org/ufo-senshi-dai-apolon-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 2688,
+    "title": "Hayate no Gotoku! OVA",
+    "animegg_url": "https://www.animegg.org/series/hayate-no-gotoku-ova",
+    "mal_url": "https://myanimelist.net/anime/23153",
+    "mal_id": 23153,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/46366",
+        "dub": "https://www.animegg.org/embed/46367",
+        "url": "https://www.animegg.org/hayate-no-gotoku-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/46368",
+        "dub": "https://www.animegg.org/embed/46369",
+        "url": "https://www.animegg.org/hayate-no-gotoku-ova-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/67675",
+        "dub": "https://www.animegg.org/embed/67860",
+        "url": "https://www.animegg.org/hayate-no-gotoku-ova-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/hayate-no-gotoku-ova-episode-4"
+      }
+    ]
   }
 ]
