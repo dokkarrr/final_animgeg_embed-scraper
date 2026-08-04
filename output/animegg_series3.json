@@ -8534,5 +8534,81 @@
         "url": "https://www.animegg.org/gin-no-guardian-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1603,
+    "title": "Given",
+    "animegg_url": "https://www.animegg.org/series/given",
+    "mal_url": "https://myanimelist.net/anime/39533",
+    "mal_id": 39533,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/95883",
+        "dub": null,
+        "url": "https://www.animegg.org/given-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/95959",
+        "dub": null,
+        "url": "https://www.animegg.org/given-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/96019",
+        "dub": null,
+        "url": "https://www.animegg.org/given-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/96081",
+        "dub": null,
+        "url": "https://www.animegg.org/given-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/96140",
+        "dub": null,
+        "url": "https://www.animegg.org/given-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/96197",
+        "dub": null,
+        "url": "https://www.animegg.org/given-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/96256",
+        "dub": null,
+        "url": "https://www.animegg.org/given-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/96318",
+        "dub": null,
+        "url": "https://www.animegg.org/given-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/96379",
+        "dub": null,
+        "url": "https://www.animegg.org/given-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/96436",
+        "dub": null,
+        "url": "https://www.animegg.org/given-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/96491",
+        "dub": null,
+        "url": "https://www.animegg.org/given-episode-11"
+      }
+    ]
   }
 ]
