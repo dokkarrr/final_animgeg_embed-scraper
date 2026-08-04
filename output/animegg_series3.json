@@ -16872,5 +16872,93 @@
         "url": "https://www.animegg.org/bastof-syndrome-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 1658,
+    "title": "Kowabon",
+    "animegg_url": "https://www.animegg.org/series/kowabon",
+    "mal_url": "https://myanimelist.net/anime/30948",
+    "mal_id": 30948,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/79296",
+        "dub": "https://www.animegg.org/embed/79313",
+        "url": "https://www.animegg.org/kowabon-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/79423",
+        "dub": null,
+        "url": "https://www.animegg.org/kowabon-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/79538",
+        "dub": null,
+        "url": "https://www.animegg.org/kowabon-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/79730",
+        "dub": null,
+        "url": "https://www.animegg.org/kowabon-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/79953",
+        "dub": null,
+        "url": "https://www.animegg.org/kowabon-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/79997",
+        "dub": null,
+        "url": "https://www.animegg.org/kowabon-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/80142",
+        "dub": null,
+        "url": "https://www.animegg.org/kowabon-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/80538",
+        "dub": null,
+        "url": "https://www.animegg.org/kowabon-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/80539",
+        "dub": null,
+        "url": "https://www.animegg.org/kowabon-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/80544",
+        "dub": null,
+        "url": "https://www.animegg.org/kowabon-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/80546",
+        "dub": null,
+        "url": "https://www.animegg.org/kowabon-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/80559",
+        "dub": null,
+        "url": "https://www.animegg.org/kowabon-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/80613",
+        "dub": null,
+        "url": "https://www.animegg.org/kowabon-episode-13"
+      }
+    ]
   }
 ]
