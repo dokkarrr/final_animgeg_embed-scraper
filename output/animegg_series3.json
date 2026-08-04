@@ -61542,5 +61542,93 @@
         "url": "https://www.animegg.org/isshuukan-friends-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1994,
+    "title": "Aku no Hana",
+    "animegg_url": "https://www.animegg.org/series/aku-no-hana",
+    "mal_url": "https://myanimelist.net/anime/16201",
+    "mal_id": 16201,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/890",
+        "dub": null,
+        "url": "https://www.animegg.org/aku-no-hana-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/889",
+        "dub": null,
+        "url": "https://www.animegg.org/aku-no-hana-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/888",
+        "dub": null,
+        "url": "https://www.animegg.org/aku-no-hana-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/887",
+        "dub": null,
+        "url": "https://www.animegg.org/aku-no-hana-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/886",
+        "dub": null,
+        "url": "https://www.animegg.org/aku-no-hana-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/892",
+        "dub": null,
+        "url": "https://www.animegg.org/aku-no-hana-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/891",
+        "dub": null,
+        "url": "https://www.animegg.org/aku-no-hana-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/893",
+        "dub": null,
+        "url": "https://www.animegg.org/aku-no-hana-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/894",
+        "dub": null,
+        "url": "https://www.animegg.org/aku-no-hana-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/897",
+        "dub": null,
+        "url": "https://www.animegg.org/aku-no-hana-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/895",
+        "dub": null,
+        "url": "https://www.animegg.org/aku-no-hana-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/896",
+        "dub": null,
+        "url": "https://www.animegg.org/aku-no-hana-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/898",
+        "dub": null,
+        "url": "https://www.animegg.org/aku-no-hana-episode-13"
+      }
+    ]
   }
 ]
