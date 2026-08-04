@@ -66264,5 +66264,75 @@
         "url": "https://www.animegg.org/hiatari-ryoukou-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 2036,
+    "title": "Spiritpact",
+    "animegg_url": "https://www.animegg.org/series/spiritpact",
+    "mal_url": "https://myanimelist.net/anime/33605",
+    "mal_id": 33605,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/85384",
+        "dub": null,
+        "url": "https://www.animegg.org/spiritpact-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/85490",
+        "dub": null,
+        "url": "https://www.animegg.org/spiritpact-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/85589",
+        "dub": null,
+        "url": "https://www.animegg.org/spiritpact-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/85675",
+        "dub": null,
+        "url": "https://www.animegg.org/spiritpact-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/85763",
+        "dub": null,
+        "url": "https://www.animegg.org/spiritpact-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/85856",
+        "dub": null,
+        "url": "https://www.animegg.org/spiritpact-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/85927",
+        "dub": null,
+        "url": "https://www.animegg.org/spiritpact-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/86026",
+        "dub": null,
+        "url": "https://www.animegg.org/spiritpact-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/86105",
+        "dub": null,
+        "url": "https://www.animegg.org/spiritpact-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/86193",
+        "dub": null,
+        "url": "https://www.animegg.org/spiritpact-episode-10"
+      }
+    ]
   }
 ]
