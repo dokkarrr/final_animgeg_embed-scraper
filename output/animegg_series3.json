@@ -129241,5 +129241,87 @@
         "url": "https://www.animegg.org/futsuu-no-joshikousei-ga-locodol-yatte-mita-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2629,
+    "title": "Vanitas no Carte",
+    "animegg_url": "https://www.animegg.org/series/vanitas-no-carte",
+    "mal_url": "https://myanimelist.net/anime/48580",
+    "mal_id": 48580,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/102183",
+        "dub": null,
+        "url": "https://www.animegg.org/vanitas-no-carte-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/102230",
+        "dub": null,
+        "url": "https://www.animegg.org/vanitas-no-carte-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/102279",
+        "dub": null,
+        "url": "https://www.animegg.org/vanitas-no-carte-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/102354",
+        "dub": null,
+        "url": "https://www.animegg.org/vanitas-no-carte-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/102389",
+        "dub": null,
+        "url": "https://www.animegg.org/vanitas-no-carte-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/102445",
+        "dub": null,
+        "url": "https://www.animegg.org/vanitas-no-carte-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/102501",
+        "dub": null,
+        "url": "https://www.animegg.org/vanitas-no-carte-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/102555",
+        "dub": null,
+        "url": "https://www.animegg.org/vanitas-no-carte-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/102608",
+        "dub": null,
+        "url": "https://www.animegg.org/vanitas-no-carte-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/102663",
+        "dub": null,
+        "url": "https://www.animegg.org/vanitas-no-carte-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/102717",
+        "dub": null,
+        "url": "https://www.animegg.org/vanitas-no-carte-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/102777",
+        "dub": null,
+        "url": "https://www.animegg.org/vanitas-no-carte-episode-12"
+      }
+    ]
   }
 ]
