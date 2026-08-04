@@ -21132,5 +21132,87 @@
         "url": "https://www.animegg.org/saiki-kusuo-no--nan-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 627,
+    "title": "Spy x Family",
+    "animegg_url": "https://www.animegg.org/series/spy-x-family",
+    "mal_url": "https://myanimelist.net/anime/50265",
+    "mal_id": 50265,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/104383",
+        "dub": null,
+        "url": "https://www.animegg.org/spy-x-family-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/104451",
+        "dub": null,
+        "url": "https://www.animegg.org/spy-x-family-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/104511",
+        "dub": null,
+        "url": "https://www.animegg.org/spy-x-family-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/104568",
+        "dub": null,
+        "url": "https://www.animegg.org/spy-x-family-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/104627",
+        "dub": null,
+        "url": "https://www.animegg.org/spy-x-family-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/104686",
+        "dub": null,
+        "url": "https://www.animegg.org/spy-x-family-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/104842",
+        "dub": null,
+        "url": "https://www.animegg.org/spy-x-family-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/104902",
+        "dub": null,
+        "url": "https://www.animegg.org/spy-x-family-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/104961",
+        "dub": null,
+        "url": "https://www.animegg.org/spy-x-family-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/105042",
+        "dub": null,
+        "url": "https://www.animegg.org/spy-x-family-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/105097",
+        "dub": null,
+        "url": "https://www.animegg.org/spy-x-family-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/105151",
+        "dub": null,
+        "url": "https://www.animegg.org/spy-x-family-episode-12"
+      }
+    ]
   }
 ]
