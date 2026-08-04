@@ -129418,5 +129418,93 @@
         "url": "https://www.animegg.org/senki-zesshou-symphogear-gx-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 1267,
+    "title": "Hen Zemi",
+    "animegg_url": "https://www.animegg.org/series/hen-zemi",
+    "mal_url": "https://myanimelist.net/anime/10187",
+    "mal_id": 10187,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/15749",
+        "dub": null,
+        "url": "https://www.animegg.org/hen-zemi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/15745",
+        "dub": null,
+        "url": "https://www.animegg.org/hen-zemi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/15747",
+        "dub": null,
+        "url": "https://www.animegg.org/hen-zemi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/15748",
+        "dub": null,
+        "url": "https://www.animegg.org/hen-zemi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/15746",
+        "dub": null,
+        "url": "https://www.animegg.org/hen-zemi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/15751",
+        "dub": null,
+        "url": "https://www.animegg.org/hen-zemi-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/15750",
+        "dub": null,
+        "url": "https://www.animegg.org/hen-zemi-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/15752",
+        "dub": null,
+        "url": "https://www.animegg.org/hen-zemi-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/15754",
+        "dub": null,
+        "url": "https://www.animegg.org/hen-zemi-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/15753",
+        "dub": null,
+        "url": "https://www.animegg.org/hen-zemi-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/15755",
+        "dub": null,
+        "url": "https://www.animegg.org/hen-zemi-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/15756",
+        "dub": null,
+        "url": "https://www.animegg.org/hen-zemi-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/15757",
+        "dub": null,
+        "url": "https://www.animegg.org/hen-zemi-episode-13"
+      }
+    ]
   }
 ]
