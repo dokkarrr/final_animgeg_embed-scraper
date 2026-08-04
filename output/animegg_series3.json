@@ -24058,5 +24058,93 @@
         "url": "https://www.animegg.org/seirei-gensouki-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1704,
+    "title": "Hacka Doll The Animation",
+    "animegg_url": "https://www.animegg.org/series/hacka-doll-the-animation",
+    "mal_url": "https://myanimelist.net/anime/30721",
+    "mal_id": 30721,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/79256",
+        "dub": null,
+        "url": "https://www.animegg.org/hacka-doll-the-animation-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/79381",
+        "dub": null,
+        "url": "https://www.animegg.org/hacka-doll-the-animation-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/79496",
+        "dub": null,
+        "url": "https://www.animegg.org/hacka-doll-the-animation-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/79605",
+        "dub": null,
+        "url": "https://www.animegg.org/hacka-doll-the-animation-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/79700",
+        "dub": null,
+        "url": "https://www.animegg.org/hacka-doll-the-animation-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/79788",
+        "dub": null,
+        "url": "https://www.animegg.org/hacka-doll-the-animation-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/79878",
+        "dub": null,
+        "url": "https://www.animegg.org/hacka-doll-the-animation-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/79969",
+        "dub": null,
+        "url": "https://www.animegg.org/hacka-doll-the-animation-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/80078",
+        "dub": null,
+        "url": "https://www.animegg.org/hacka-doll-the-animation-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/80200",
+        "dub": null,
+        "url": "https://www.animegg.org/hacka-doll-the-animation-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/80293",
+        "dub": null,
+        "url": "https://www.animegg.org/hacka-doll-the-animation-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/80393",
+        "dub": null,
+        "url": "https://www.animegg.org/hacka-doll-the-animation-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/80479",
+        "dub": null,
+        "url": "https://www.animegg.org/hacka-doll-the-animation-episode-13"
+      }
+    ]
   }
 ]
