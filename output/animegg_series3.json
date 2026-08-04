@@ -42716,5 +42716,81 @@
         "url": "https://www.animegg.org/walkure-romanze-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1849,
+    "title": "Net-juu no Susume",
+    "animegg_url": "https://www.animegg.org/series/net-juu-no-susume",
+    "mal_url": "https://myanimelist.net/anime/36038",
+    "mal_id": 36038,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/88546",
+        "dub": null,
+        "url": "https://www.animegg.org/net-juu-no-susume-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/88640",
+        "dub": null,
+        "url": "https://www.animegg.org/net-juu-no-susume-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/88720",
+        "dub": null,
+        "url": "https://www.animegg.org/net-juu-no-susume-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/88808",
+        "dub": null,
+        "url": "https://www.animegg.org/net-juu-no-susume-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/88897",
+        "dub": null,
+        "url": "https://www.animegg.org/net-juu-no-susume-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/88983",
+        "dub": null,
+        "url": "https://www.animegg.org/net-juu-no-susume-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/89077",
+        "dub": null,
+        "url": "https://www.animegg.org/net-juu-no-susume-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/89148",
+        "dub": null,
+        "url": "https://www.animegg.org/net-juu-no-susume-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/89225",
+        "dub": null,
+        "url": "https://www.animegg.org/net-juu-no-susume-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/89303",
+        "dub": null,
+        "url": "https://www.animegg.org/net-juu-no-susume-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/89382",
+        "dub": null,
+        "url": "https://www.animegg.org/net-juu-no-susume-episode-11"
+      }
+    ]
   }
 ]
