@@ -125421,5 +125421,75 @@
         "url": "https://www.animegg.org/utawarerumono-futari-no-hakuoro-episode-28"
       }
     ]
+  },
+  {
+    "serial_no": 2586,
+    "title": "Nobunaga Concerto",
+    "animegg_url": "https://www.animegg.org/series/nobunaga-concerto",
+    "mal_url": "https://myanimelist.net/anime/24135",
+    "mal_id": 24135,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/45867",
+        "dub": "https://www.animegg.org/embed/45868",
+        "url": "https://www.animegg.org/nobunaga-concerto-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/45869",
+        "dub": "https://www.animegg.org/embed/45870",
+        "url": "https://www.animegg.org/nobunaga-concerto-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/45871",
+        "dub": "https://www.animegg.org/embed/45872",
+        "url": "https://www.animegg.org/nobunaga-concerto-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/45873",
+        "dub": "https://www.animegg.org/embed/45874",
+        "url": "https://www.animegg.org/nobunaga-concerto-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/45875",
+        "dub": "https://www.animegg.org/embed/45876",
+        "url": "https://www.animegg.org/nobunaga-concerto-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/45877",
+        "dub": "https://www.animegg.org/embed/45878",
+        "url": "https://www.animegg.org/nobunaga-concerto-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/45879",
+        "dub": "https://www.animegg.org/embed/45880",
+        "url": "https://www.animegg.org/nobunaga-concerto-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/45881",
+        "dub": "https://www.animegg.org/embed/45882",
+        "url": "https://www.animegg.org/nobunaga-concerto-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/45883",
+        "dub": "https://www.animegg.org/embed/45884",
+        "url": "https://www.animegg.org/nobunaga-concerto-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/45885",
+        "dub": "https://www.animegg.org/embed/45886",
+        "url": "https://www.animegg.org/nobunaga-concerto-episode-10"
+      }
+    ]
   }
 ]
