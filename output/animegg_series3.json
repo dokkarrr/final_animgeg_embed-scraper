@@ -114070,5 +114070,21 @@
         "url": "https://www.animegg.org/agent-aika-episode-7"
       }
     ]
+  },
+  {
+    "serial_no": 2475,
+    "title": "Nana To Kaoru",
+    "animegg_url": "https://www.animegg.org/series/nana-to-kaoru",
+    "mal_url": "https://myanimelist.net/anime/9741",
+    "mal_id": 9741,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/25860",
+        "dub": null,
+        "url": "https://www.animegg.org/nana-to-kaoru-episode-1"
+      }
+    ]
   }
 ]
