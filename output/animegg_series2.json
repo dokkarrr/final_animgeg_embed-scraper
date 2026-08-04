@@ -131182,5 +131182,93 @@
         "url": "https://www.animegg.org/rewrite-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 1279,
+    "title": "Zetman",
+    "animegg_url": "https://www.animegg.org/series/zetman",
+    "mal_url": "https://myanimelist.net/anime/11837",
+    "mal_id": 11837,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/25275",
+        "dub": "https://www.animegg.org/embed/68206",
+        "url": "https://www.animegg.org/zetman-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/25271",
+        "dub": "https://www.animegg.org/embed/68461",
+        "url": "https://www.animegg.org/zetman-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/25270",
+        "dub": "https://www.animegg.org/embed/68462",
+        "url": "https://www.animegg.org/zetman-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/25273",
+        "dub": "https://www.animegg.org/embed/68463",
+        "url": "https://www.animegg.org/zetman-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/25272",
+        "dub": "https://www.animegg.org/embed/68464",
+        "url": "https://www.animegg.org/zetman-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/25277",
+        "dub": "https://www.animegg.org/embed/68465",
+        "url": "https://www.animegg.org/zetman-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/25278",
+        "dub": "https://www.animegg.org/embed/68466",
+        "url": "https://www.animegg.org/zetman-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/25274",
+        "dub": "https://www.animegg.org/embed/68467",
+        "url": "https://www.animegg.org/zetman-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/25276",
+        "dub": "https://www.animegg.org/embed/68468",
+        "url": "https://www.animegg.org/zetman-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/25280",
+        "dub": "https://www.animegg.org/embed/68469",
+        "url": "https://www.animegg.org/zetman-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/25279",
+        "dub": "https://www.animegg.org/embed/68470",
+        "url": "https://www.animegg.org/zetman-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/25281",
+        "dub": "https://www.animegg.org/embed/68471",
+        "url": "https://www.animegg.org/zetman-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/25282",
+        "dub": "https://www.animegg.org/embed/68472",
+        "url": "https://www.animegg.org/zetman-episode-13"
+      }
+    ]
   }
 ]
