@@ -30882,5 +30882,93 @@
         "url": "https://www.animegg.org/canaan-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 1760,
+    "title": "Kanamemo",
+    "animegg_url": "https://www.animegg.org/series/kanamemo",
+    "mal_url": "https://myanimelist.net/anime/5914",
+    "mal_id": 5914,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/19476",
+        "dub": null,
+        "url": "https://www.animegg.org/kanamemo-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/19475",
+        "dub": null,
+        "url": "https://www.animegg.org/kanamemo-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/19473",
+        "dub": null,
+        "url": "https://www.animegg.org/kanamemo-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/19472",
+        "dub": null,
+        "url": "https://www.animegg.org/kanamemo-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/19474",
+        "dub": null,
+        "url": "https://www.animegg.org/kanamemo-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/19477",
+        "dub": null,
+        "url": "https://www.animegg.org/kanamemo-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/19478",
+        "dub": null,
+        "url": "https://www.animegg.org/kanamemo-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/19479",
+        "dub": null,
+        "url": "https://www.animegg.org/kanamemo-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/19481",
+        "dub": null,
+        "url": "https://www.animegg.org/kanamemo-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/19480",
+        "dub": null,
+        "url": "https://www.animegg.org/kanamemo-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/19482",
+        "dub": null,
+        "url": "https://www.animegg.org/kanamemo-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/19483",
+        "dub": null,
+        "url": "https://www.animegg.org/kanamemo-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/19484",
+        "dub": null,
+        "url": "https://www.animegg.org/kanamemo-episode-13"
+      }
+    ]
   }
 ]
