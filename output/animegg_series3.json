@@ -22198,5 +22198,93 @@
         "url": "https://www.animegg.org/ikkitousen-dragon-destiny-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1683,
+    "title": "Re-Kan!",
+    "animegg_url": "https://www.animegg.org/series/re-kan",
+    "mal_url": "https://myanimelist.net/anime/25859",
+    "mal_id": 25859,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/75981",
+        "dub": "https://www.animegg.org/embed/76010",
+        "url": "https://www.animegg.org/re-kan-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/76109",
+        "dub": "https://www.animegg.org/embed/76142",
+        "url": "https://www.animegg.org/re-kan-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/76263",
+        "dub": "https://www.animegg.org/embed/76308",
+        "url": "https://www.animegg.org/re-kan-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/76406",
+        "dub": "https://www.animegg.org/embed/76429",
+        "url": "https://www.animegg.org/re-kan-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/76542",
+        "dub": "https://www.animegg.org/embed/76561",
+        "url": "https://www.animegg.org/re-kan-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/76658",
+        "dub": "https://www.animegg.org/embed/76687",
+        "url": "https://www.animegg.org/re-kan-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/76768",
+        "dub": "https://www.animegg.org/embed/76791",
+        "url": "https://www.animegg.org/re-kan-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/76878",
+        "dub": "https://www.animegg.org/embed/76897",
+        "url": "https://www.animegg.org/re-kan-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/76967",
+        "dub": "https://www.animegg.org/embed/76986",
+        "url": "https://www.animegg.org/re-kan-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/77138",
+        "dub": "https://www.animegg.org/embed/77192",
+        "url": "https://www.animegg.org/re-kan-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/77302",
+        "dub": "https://www.animegg.org/embed/77327",
+        "url": "https://www.animegg.org/re-kan-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/77442",
+        "dub": "https://www.animegg.org/embed/77470",
+        "url": "https://www.animegg.org/re-kan-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/77559",
+        "dub": "https://www.animegg.org/embed/77579",
+        "url": "https://www.animegg.org/re-kan-episode-13"
+      }
+    ]
   }
 ]
