@@ -111926,5 +111926,87 @@
         "url": "https://www.animegg.org/fatekaleid-liner-prisma-illya-episode-11"
       }
     ]
+  },
+  {
+    "serial_no": 1151,
+    "title": "Mangaka-san to Assistant-san to",
+    "animegg_url": "https://www.animegg.org/series/the-comic-artist-and-assistants",
+    "mal_url": "https://myanimelist.net/anime/21863",
+    "mal_id": 21863,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/23056",
+        "dub": null,
+        "url": "https://www.animegg.org/mangaka-san-to-assistant-san-to-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/23055",
+        "dub": null,
+        "url": "https://www.animegg.org/mangaka-san-to-assistant-san-to-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/23054",
+        "dub": null,
+        "url": "https://www.animegg.org/mangaka-san-to-assistant-san-to-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/23053",
+        "dub": null,
+        "url": "https://www.animegg.org/mangaka-san-to-assistant-san-to-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/23057",
+        "dub": null,
+        "url": "https://www.animegg.org/mangaka-san-to-assistant-san-to-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/23058",
+        "dub": null,
+        "url": "https://www.animegg.org/the-comic-artist-and-assistants-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/23059",
+        "dub": null,
+        "url": "https://www.animegg.org/the-comic-artist-and-assistants-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/23060",
+        "dub": null,
+        "url": "https://www.animegg.org/mangaka-san-to-assistant-san-to-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/23061",
+        "dub": null,
+        "url": "https://www.animegg.org/mangaka-san-to-assistant-san-to-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/23062",
+        "dub": null,
+        "url": "https://www.animegg.org/mangaka-san-to-assistant-san-to-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/23063",
+        "dub": null,
+        "url": "https://www.animegg.org/mangaka-san-to-assistant-san-to-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/23064",
+        "dub": null,
+        "url": "https://www.animegg.org/mangaka-san-to-assistant-san-to-episode-12"
+      }
+    ]
   }
 ]
