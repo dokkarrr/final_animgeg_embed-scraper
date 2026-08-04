@@ -56732,5 +56732,87 @@
         "url": "https://www.animegg.org/negima-magister-negi-magi-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 830,
+    "title": "Junjou Romantica 3",
+    "animegg_url": "https://www.animegg.org/series/junjou-romantica-3",
+    "mal_url": "https://myanimelist.net/anime/25649",
+    "mal_id": 25649,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/79157",
+        "dub": null,
+        "url": "https://www.animegg.org/junjou-romantica-3-episode-12"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/79060",
+        "dub": null,
+        "url": "https://www.animegg.org/junjou-romantica-3-episode-11"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/78935",
+        "dub": null,
+        "url": "https://www.animegg.org/junjou-romantica-3-episode-10"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/78834",
+        "dub": null,
+        "url": "https://www.animegg.org/junjou-romantica-3-episode-9"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/78715",
+        "dub": null,
+        "url": "https://www.animegg.org/junjou-romantica-3-episode-8"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/78604",
+        "dub": null,
+        "url": "https://www.animegg.org/junjou-romantica-3-episode-7"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/78493",
+        "dub": null,
+        "url": "https://www.animegg.org/junjou-romantica-3-episode-6"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/78384",
+        "dub": null,
+        "url": "https://www.animegg.org/junjou-romantica-3-episode-5"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/78254",
+        "dub": null,
+        "url": "https://www.animegg.org/junjou-romantica-3-episode-4"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/78111",
+        "dub": null,
+        "url": "https://www.animegg.org/junjou-romantica-3-episode-3"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/77964",
+        "dub": null,
+        "url": "https://www.animegg.org/junjou-romantica-3-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/77786",
+        "dub": "https://www.animegg.org/embed/77788",
+        "url": "https://www.animegg.org/junjou-romantica-3-episode-1"
+      }
+    ]
   }
 ]
