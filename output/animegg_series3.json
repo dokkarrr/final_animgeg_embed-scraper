@@ -87774,5 +87774,93 @@
         "url": "https://www.animegg.org/strike-witches-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 2216,
+    "title": "Ushinawareta Mirai o Motomete",
+    "animegg_url": "https://www.animegg.org/series/ushinawareta-mirai-wo-motomete",
+    "mal_url": "https://myanimelist.net/anime/21845",
+    "mal_id": 21845,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66262",
+        "dub": "https://www.animegg.org/embed/66263",
+        "url": "https://www.animegg.org/ushinawareta-mirai-wo-motomete-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/66264",
+        "dub": "https://www.animegg.org/embed/66265",
+        "url": "https://www.animegg.org/ushinawareta-mirai-wo-motomete-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/66266",
+        "dub": "https://www.animegg.org/embed/66267",
+        "url": "https://www.animegg.org/ushinawareta-mirai-wo-motomete-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/66268",
+        "dub": "https://www.animegg.org/embed/66269",
+        "url": "https://www.animegg.org/ushinawareta-mirai-wo-motomete-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/66270",
+        "dub": "https://www.animegg.org/embed/66271",
+        "url": "https://www.animegg.org/ushinawareta-mirai-wo-motomete-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/66582",
+        "dub": "https://www.animegg.org/embed/66590",
+        "url": "https://www.animegg.org/ushinawareta-mirai-wo-motomete-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/66868",
+        "dub": "https://www.animegg.org/embed/67231",
+        "url": "https://www.animegg.org/ushinawareta-mirai-wo-motomete-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/67175",
+        "dub": null,
+        "url": "https://www.animegg.org/ushinawareta-mirai-wo-motomete-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/67305",
+        "dub": "https://www.animegg.org/embed/67311",
+        "url": "https://www.animegg.org/ushinawareta-mirai-wo-motomete-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/67433",
+        "dub": null,
+        "url": "https://www.animegg.org/ushinawareta-mirai-wo-motomete-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/67554",
+        "dub": "https://www.animegg.org/embed/67563",
+        "url": "https://www.animegg.org/ushinawareta-mirai-wo-motomete-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/67664",
+        "dub": "https://www.animegg.org/embed/67670",
+        "url": "https://www.animegg.org/ushinawareta-mirai-wo-motomete-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/78789",
+        "dub": null,
+        "url": "https://www.animegg.org/ushinawareta-mirai-wo-motomete-episode-13"
+      }
+    ]
   }
 ]
