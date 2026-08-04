@@ -103124,5 +103124,87 @@
         "url": "https://www.animegg.org/larva-2013-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 2362,
+    "title": "Shinkyoku Soukai Polyphonica",
+    "animegg_url": "https://www.animegg.org/series/shinkyoku-soukai-polyphonica",
+    "mal_url": "https://myanimelist.net/anime/1727",
+    "mal_id": 1727,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/34748",
+        "dub": null,
+        "url": "https://www.animegg.org/shinkyoku-soukai-polyphonica-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/34745",
+        "dub": null,
+        "url": "https://www.animegg.org/shinkyoku-soukai-polyphonica-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/34746",
+        "dub": null,
+        "url": "https://www.animegg.org/shinkyoku-soukai-polyphonica-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/34744",
+        "dub": null,
+        "url": "https://www.animegg.org/shinkyoku-soukai-polyphonica-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/34747",
+        "dub": null,
+        "url": "https://www.animegg.org/shinkyoku-soukai-polyphonica-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/34752",
+        "dub": null,
+        "url": "https://www.animegg.org/shinkyoku-soukai-polyphonica-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/34749",
+        "dub": null,
+        "url": "https://www.animegg.org/shinkyoku-soukai-polyphonica-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/34751",
+        "dub": null,
+        "url": "https://www.animegg.org/shinkyoku-soukai-polyphonica-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/34750",
+        "dub": null,
+        "url": "https://www.animegg.org/shinkyoku-soukai-polyphonica-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/34753",
+        "dub": null,
+        "url": "https://www.animegg.org/shinkyoku-soukai-polyphonica-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/34754",
+        "dub": null,
+        "url": "https://www.animegg.org/shinkyoku-soukai-polyphonica-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/34755",
+        "dub": null,
+        "url": "https://www.animegg.org/shinkyoku-soukai-polyphonica-episode-12"
+      }
+    ]
   }
 ]
