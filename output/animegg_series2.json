@@ -74328,5 +74328,93 @@
         "url": "https://www.animegg.org/futari-wa-precure-max-heart-episode-47"
       }
     ]
+  },
+  {
+    "serial_no": 939,
+    "title": "Code:Breaker",
+    "animegg_url": "https://www.animegg.org/series/codebreaker",
+    "mal_url": "https://myanimelist.net/anime/11703",
+    "mal_id": 11703,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/6237",
+        "dub": "https://www.animegg.org/embed/6238",
+        "url": "https://www.animegg.org/codebreaker-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/6235",
+        "dub": "https://www.animegg.org/embed/6236",
+        "url": "https://www.animegg.org/codebreaker-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/6231",
+        "dub": "https://www.animegg.org/embed/6232",
+        "url": "https://www.animegg.org/codebreaker-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/6229",
+        "dub": "https://www.animegg.org/embed/6230",
+        "url": "https://www.animegg.org/codebreaker-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/6233",
+        "dub": "https://www.animegg.org/embed/6234",
+        "url": "https://www.animegg.org/codebreaker-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/6239",
+        "dub": "https://www.animegg.org/embed/6240",
+        "url": "https://www.animegg.org/codebreaker-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/6245",
+        "dub": "https://www.animegg.org/embed/6246",
+        "url": "https://www.animegg.org/codebreaker-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/6243",
+        "dub": "https://www.animegg.org/embed/74114",
+        "url": "https://www.animegg.org/codebreaker-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/6241",
+        "dub": "https://www.animegg.org/embed/6242",
+        "url": "https://www.animegg.org/codebreaker-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/6247",
+        "dub": "https://www.animegg.org/embed/6248",
+        "url": "https://www.animegg.org/codebreaker-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/6251",
+        "dub": "https://www.animegg.org/embed/6252",
+        "url": "https://www.animegg.org/codebreaker-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/6249",
+        "dub": "https://www.animegg.org/embed/6250",
+        "url": "https://www.animegg.org/codebreaker-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/6253",
+        "dub": "https://www.animegg.org/embed/6254",
+        "url": "https://www.animegg.org/codebreaker-episode-13"
+      }
+    ]
   }
 ]
