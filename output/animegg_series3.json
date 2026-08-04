@@ -130813,5 +130813,87 @@
         "url": "https://www.animegg.org/seitokai-yakuindomo-ova-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 2647,
+    "title": "Touken Ranbu: Hanamaru",
+    "animegg_url": "https://www.animegg.org/series/touken-ranbu-hanamaru",
+    "mal_url": "https://myanimelist.net/anime/33023",
+    "mal_id": 33023,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/84086",
+        "dub": null,
+        "url": "https://www.animegg.org/touken-ranbu-hanamaru-episode-1-1930"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/84200",
+        "dub": null,
+        "url": "https://www.animegg.org/touken-ranbu-hanamaru-episode-2-5122"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/84305",
+        "dub": null,
+        "url": "https://www.animegg.org/touken-ranbu-hanamaru-episode-3-1992"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/84408",
+        "dub": null,
+        "url": "https://www.animegg.org/touken-ranbu-hanamaru-episode-4-8082"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/84500",
+        "dub": null,
+        "url": "https://www.animegg.org/touken-ranbu-hanamaru-episode-5-2351"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/84603",
+        "dub": null,
+        "url": "https://www.animegg.org/touken-ranbu-hanamaru-episode-6-6721"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/84695",
+        "dub": null,
+        "url": "https://www.animegg.org/touken-ranbu-hanamaru-episode-7-6796"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/84792",
+        "dub": null,
+        "url": "https://www.animegg.org/touken-ranbu-hanamaru-episode-8-2363"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/84893",
+        "dub": null,
+        "url": "https://www.animegg.org/touken-ranbu-hanamaru-episode-9-8263"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/84965",
+        "dub": null,
+        "url": "https://www.animegg.org/touken-ranbu-hanamaru-episode-10-1899-8243"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/85079",
+        "dub": null,
+        "url": "https://www.animegg.org/touken-ranbu-hanamaru-episode-11-4635-2252"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/85178",
+        "dub": null,
+        "url": "https://www.animegg.org/touken-ranbu-hanamaru-episode-12-4225-1288"
+      }
+    ]
   }
 ]
