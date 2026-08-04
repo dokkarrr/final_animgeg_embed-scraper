@@ -76990,5 +76990,93 @@
         "url": "https://www.animegg.org/tokyo-esp-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2142,
+    "title": "Ninja Scroll: The Series",
+    "animegg_url": "https://www.animegg.org/series/ninja-scroll-the-series",
+    "mal_url": "https://myanimelist.net/anime/618",
+    "mal_id": 618,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/59084",
+        "dub": "https://www.animegg.org/embed/59085",
+        "url": "https://www.animegg.org/ninja-scroll-the-series-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/59086",
+        "dub": "https://www.animegg.org/embed/59087",
+        "url": "https://www.animegg.org/ninja-scroll-the-series-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/59088",
+        "dub": "https://www.animegg.org/embed/59089",
+        "url": "https://www.animegg.org/ninja-scroll-the-series-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/59090",
+        "dub": "https://www.animegg.org/embed/59091",
+        "url": "https://www.animegg.org/ninja-scroll-the-series-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/59092",
+        "dub": "https://www.animegg.org/embed/59093",
+        "url": "https://www.animegg.org/ninja-scroll-the-series-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/59094",
+        "dub": "https://www.animegg.org/embed/59095",
+        "url": "https://www.animegg.org/ninja-scroll-the-series-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/59096",
+        "dub": "https://www.animegg.org/embed/59097",
+        "url": "https://www.animegg.org/ninja-scroll-the-series-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/59098",
+        "dub": "https://www.animegg.org/embed/59099",
+        "url": "https://www.animegg.org/ninja-scroll-the-series-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/59100",
+        "dub": "https://www.animegg.org/embed/59101",
+        "url": "https://www.animegg.org/ninja-scroll-the-series-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/59102",
+        "dub": "https://www.animegg.org/embed/59103",
+        "url": "https://www.animegg.org/ninja-scroll-the-series-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/59104",
+        "dub": "https://www.animegg.org/embed/59105",
+        "url": "https://www.animegg.org/ninja-scroll-the-series-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/59106",
+        "dub": "https://www.animegg.org/embed/59107",
+        "url": "https://www.animegg.org/ninja-scroll-the-series-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/59108",
+        "dub": "https://www.animegg.org/embed/59109",
+        "url": "https://www.animegg.org/ninja-scroll-the-series-episode-13"
+      }
+    ]
   }
 ]
