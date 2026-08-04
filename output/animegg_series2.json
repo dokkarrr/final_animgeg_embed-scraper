@@ -58096,5 +58096,75 @@
         "url": "https://www.animegg.org/ah-my-goddess-flights-of-fancy-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 841,
+    "title": "Grisaia no Rakuen",
+    "animegg_url": "https://www.animegg.org/series/grisaia-no-rakuen",
+    "mal_url": "https://myanimelist.net/anime/29095",
+    "mal_id": 29095,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/76347",
+        "dub": null,
+        "url": "https://www.animegg.org/grisaia-no-rakuen-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/76467",
+        "dub": "https://www.animegg.org/embed/76472",
+        "url": "https://www.animegg.org/grisaia-no-rakuen-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/76604",
+        "dub": "https://www.animegg.org/embed/76611",
+        "url": "https://www.animegg.org/grisaia-no-rakuen-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/76720",
+        "dub": "https://www.animegg.org/embed/76724",
+        "url": "https://www.animegg.org/grisaia-no-rakuen-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/76837",
+        "dub": null,
+        "url": "https://www.animegg.org/grisaia-no-rakuen-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/76934",
+        "dub": null,
+        "url": "https://www.animegg.org/grisaia-no-rakuen-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/77019",
+        "dub": "https://www.animegg.org/embed/77023",
+        "url": "https://www.animegg.org/grisaia-no-rakuen-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/77229",
+        "dub": "https://www.animegg.org/embed/77232",
+        "url": "https://www.animegg.org/grisaia-no-rakuen-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/77366",
+        "dub": "https://www.animegg.org/embed/77370",
+        "url": "https://www.animegg.org/grisaia-no-rakuen-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/77516",
+        "dub": "https://www.animegg.org/embed/77519",
+        "url": "https://www.animegg.org/grisaia-no-rakuen-episode-10"
+      }
+    ]
   }
 ]
