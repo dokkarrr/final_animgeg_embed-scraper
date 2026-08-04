@@ -8162,5 +8162,87 @@
         "url": "https://www.animegg.org/naruto-shippuuden-movie-6---road-to-ninja-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 1600,
+    "title": "Aho Girl",
+    "animegg_url": "https://www.animegg.org/series/aho-girl",
+    "mal_url": "https://myanimelist.net/anime/34881",
+    "mal_id": 34881,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/87959",
+        "dub": null,
+        "url": "https://www.animegg.org/aho-girl-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/87960",
+        "dub": null,
+        "url": "https://www.animegg.org/aho-girl-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/87961",
+        "dub": null,
+        "url": "https://www.animegg.org/aho-girl-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/87962",
+        "dub": null,
+        "url": "https://www.animegg.org/aho-girl-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/87963",
+        "dub": null,
+        "url": "https://www.animegg.org/aho-girl-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/87964",
+        "dub": null,
+        "url": "https://www.animegg.org/aho-girl-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/87965",
+        "dub": null,
+        "url": "https://www.animegg.org/aho-girl-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/88006",
+        "dub": null,
+        "url": "https://www.animegg.org/aho-girl-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/88104",
+        "dub": null,
+        "url": "https://www.animegg.org/aho-girl-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/88184",
+        "dub": null,
+        "url": "https://www.animegg.org/aho-girl-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/88259",
+        "dub": null,
+        "url": "https://www.animegg.org/aho-girl-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/88348",
+        "dub": null,
+        "url": "https://www.animegg.org/aho-girl-episode-12"
+      }
+    ]
   }
 ]
