@@ -94778,5 +94778,21 @@
         "url": "https://www.animegg.org/triage-x-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 1064,
+    "title": "Naruto: Shippuuden Movie 1",
+    "animegg_url": "https://www.animegg.org/series/naruto-shippuuden-movie-1",
+    "mal_url": "https://myanimelist.net/anime/2472",
+    "mal_id": 2472,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/58744",
+        "dub": "https://www.animegg.org/embed/58745",
+        "url": "https://www.animegg.org/naruto-shippuuden-movie-1-episode-1"
+      }
+    ]
   }
 ]
