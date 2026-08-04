@@ -111060,5 +111060,33 @@
         "url": "https://www.animegg.org/dennou-coil-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 1146,
+    "title": "Mushibugyou OVA",
+    "animegg_url": "https://www.animegg.org/series/mushibugyou-ova",
+    "mal_url": "https://myanimelist.net/anime/24171",
+    "mal_id": 24171,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/65849",
+        "dub": "https://www.animegg.org/embed/65850",
+        "url": "https://www.animegg.org/mushibugyou-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/65851",
+        "dub": "https://www.animegg.org/embed/75972",
+        "url": "https://www.animegg.org/mushibugyou-ova-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/82373",
+        "dub": null,
+        "url": "https://www.animegg.org/mushibugyou-ova-episode-3"
+      }
+    ]
   }
 ]
