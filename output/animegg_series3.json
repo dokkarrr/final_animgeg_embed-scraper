@@ -26652,5 +26652,93 @@
         "url": "https://www.animegg.org/sk-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1724,
+    "title": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "animegg_url": "https://www.animegg.org/series/bleach-sennen-kessen-hen---ketsubetsu-tan",
+    "mal_url": "https://myanimelist.net/anime/53998",
+    "mal_id": 53998,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/130094",
+        "dub": "https://www.animegg.org/embed/130833",
+        "url": "https://www.animegg.org/bleach-sennen-kessen-hen---ketsubetsu-tan-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/130262",
+        "dub": "https://www.animegg.org/embed/130888",
+        "url": "https://www.animegg.org/bleach-sennen-kessen-hen---ketsubetsu-tan-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/131078",
+        "dub": null,
+        "url": "https://www.animegg.org/bleach-sennen-kessen-hen---ketsubetsu-tan-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/131080",
+        "dub": null,
+        "url": "https://www.animegg.org/bleach-sennen-kessen-hen---ketsubetsu-tan-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/131081",
+        "dub": null,
+        "url": "https://www.animegg.org/bleach-sennen-kessen-hen---ketsubetsu-tan-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/130887",
+        "dub": "https://www.animegg.org/embed/131271",
+        "url": "https://www.animegg.org/bleach-sennen-kessen-hen---ketsubetsu-tan-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/130964",
+        "dub": "https://www.animegg.org/embed/131349",
+        "url": "https://www.animegg.org/bleach-sennen-kessen-hen---ketsubetsu-tan-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/131082",
+        "dub": null,
+        "url": "https://www.animegg.org/bleach-sennen-kessen-hen---ketsubetsu-tan-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/131657",
+        "dub": null,
+        "url": "https://www.animegg.org/bleach-sennen-kessen-hen---ketsubetsu-tan-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/bleach-sennen-kessen-hen---ketsubetsu-tan-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/131462",
+        "dub": "https://www.animegg.org/embed/131881",
+        "url": "https://www.animegg.org/bleach-sennen-kessen-hen---ketsubetsu-tan-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/bleach-sennen-kessen-hen---ketsubetsu-tan-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/bleach-sennen-kessen-hen---ketsubetsu-tan-episode-13"
+      }
+    ]
   }
 ]
