@@ -103794,5 +103794,93 @@
         "url": "https://www.animegg.org/ga-rei-zero-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2369,
+    "title": "Mahou Shoujo Lyrical Nanoha",
+    "animegg_url": "https://www.animegg.org/series/mahou-shoujo-lyrical-nanoha",
+    "mal_url": "https://myanimelist.net/anime/76",
+    "mal_id": 76,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/71780",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-lyrical-nanoha-episode-1-8520"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/71779",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-lyrical-nanoha-episode-2-7783"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/71778",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-lyrical-nanoha-episode-3-8750"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/71777",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-lyrical-nanoha-episode-4-6836"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/71776",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-lyrical-nanoha-episode-5-9044"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/71775",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-lyrical-nanoha-episode-6-6113"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/71773",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-lyrical-nanoha-episode-7-5454"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/71771",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-lyrical-nanoha-episode-8-5755"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/71769",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-lyrical-nanoha-episode-9-4207"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/71768",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-lyrical-nanoha-episode-10-9626"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/71767",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-lyrical-nanoha-episode-11-1698"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/71766",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-lyrical-nanoha-episode-12-5079"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/71765",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-lyrical-nanoha-episode-13-3842"
+      }
+    ]
   }
 ]
