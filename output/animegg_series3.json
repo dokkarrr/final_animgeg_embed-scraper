@@ -65174,5 +65174,87 @@
         "url": "https://www.animegg.org/digimon-adventure-tri-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 2026,
+    "title": "Gokujo",
+    "animegg_url": "https://www.animegg.org/series/gokujo",
+    "mal_url": "https://myanimelist.net/anime/11769",
+    "mal_id": 11769,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/13273",
+        "dub": null,
+        "url": "https://www.animegg.org/gokujo-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/13271",
+        "dub": null,
+        "url": "https://www.animegg.org/gokujo-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/13270",
+        "dub": null,
+        "url": "https://www.animegg.org/gokujo-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/13269",
+        "dub": null,
+        "url": "https://www.animegg.org/gokujo-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/13272",
+        "dub": null,
+        "url": "https://www.animegg.org/gokujo-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/13275",
+        "dub": null,
+        "url": "https://www.animegg.org/gokujo-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/13274",
+        "dub": null,
+        "url": "https://www.animegg.org/gokujo-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/13276",
+        "dub": null,
+        "url": "https://www.animegg.org/gokujo-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/13277",
+        "dub": null,
+        "url": "https://www.animegg.org/gokujo-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/13278",
+        "dub": null,
+        "url": "https://www.animegg.org/gokujo-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/13279",
+        "dub": null,
+        "url": "https://www.animegg.org/gokujo-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/13280",
+        "dub": null,
+        "url": "https://www.animegg.org/gokujo-episode-12"
+      }
+    ]
   }
 ]
