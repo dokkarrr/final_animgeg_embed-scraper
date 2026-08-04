@@ -29750,5 +29750,87 @@
         "url": "https://www.animegg.org/tokyo-majin-episode-14"
       }
     ]
+  },
+  {
+    "serial_no": 1750,
+    "title": "Flying Witch",
+    "animegg_url": "https://www.animegg.org/series/flying-witch",
+    "mal_url": "https://myanimelist.net/anime/31376",
+    "mal_id": 31376,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/81968",
+        "dub": null,
+        "url": "https://www.animegg.org/flying-witch-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/81970",
+        "dub": null,
+        "url": "https://www.animegg.org/flying-witch-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/82050",
+        "dub": null,
+        "url": "https://www.animegg.org/flying-witch-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/82134",
+        "dub": null,
+        "url": "https://www.animegg.org/flying-witch-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/82228",
+        "dub": null,
+        "url": "https://www.animegg.org/flying-witch-episode-05"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/82304",
+        "dub": null,
+        "url": "https://www.animegg.org/flying-witch-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/82396",
+        "dub": null,
+        "url": "https://www.animegg.org/flying-witch-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/82487",
+        "dub": null,
+        "url": "https://www.animegg.org/flying-witch-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/82587",
+        "dub": null,
+        "url": "https://www.animegg.org/flying-witch-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/82667",
+        "dub": null,
+        "url": "https://www.animegg.org/flying-witch-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/82818",
+        "dub": null,
+        "url": "https://www.animegg.org/flying-witch-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/82819",
+        "dub": null,
+        "url": "https://www.animegg.org/flying-witch-episode-12"
+      }
+    ]
   }
 ]
