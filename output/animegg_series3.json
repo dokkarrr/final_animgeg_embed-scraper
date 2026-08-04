@@ -126793,5 +126793,81 @@
         "url": "https://www.animegg.org/nanatsu-no-bitoku-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 2602,
+    "title": "Yuukoku no Moriarty",
+    "animegg_url": "https://www.animegg.org/series/yuukoku-no-moriarty",
+    "mal_url": "https://myanimelist.net/anime/40911",
+    "mal_id": 40911,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/99530",
+        "dub": null,
+        "url": "https://www.animegg.org/yuukoku-no-moriarty-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/99660",
+        "dub": null,
+        "url": "https://www.animegg.org/yuukoku-no-moriarty-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/99753",
+        "dub": null,
+        "url": "https://www.animegg.org/yuukoku-no-moriarty-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/99810",
+        "dub": null,
+        "url": "https://www.animegg.org/yuukoku-no-moriarty-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/99892",
+        "dub": null,
+        "url": "https://www.animegg.org/yuukoku-no-moriarty-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/99956",
+        "dub": null,
+        "url": "https://www.animegg.org/yuukoku-no-moriarty-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/100023",
+        "dub": null,
+        "url": "https://www.animegg.org/yuukoku-no-moriarty-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/100089",
+        "dub": null,
+        "url": "https://www.animegg.org/yuukoku-no-moriarty-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/100156",
+        "dub": null,
+        "url": "https://www.animegg.org/yuukoku-no-moriarty-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/100244",
+        "dub": null,
+        "url": "https://www.animegg.org/yuukoku-no-moriarty-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/100309",
+        "dub": null,
+        "url": "https://www.animegg.org/yuukoku-no-moriarty-episode-11"
+      }
+    ]
   }
 ]
