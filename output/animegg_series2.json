@@ -31200,5 +31200,93 @@
         "url": "https://www.animegg.org/nadia-the-secret-of-blue-water-episode-39"
       }
     ]
+  },
+  {
+    "serial_no": 684,
+    "title": "Saenai Heroine no Sodatekata",
+    "animegg_url": "https://www.animegg.org/series/saenai-heroine-no-sodatekata",
+    "mal_url": "https://myanimelist.net/anime/23277",
+    "mal_id": 23277,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/68612",
+        "dub": "https://www.animegg.org/embed/68615",
+        "url": "https://www.animegg.org/saenai-heroine-no-sodatekata-episode-0"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/73291",
+        "dub": null,
+        "url": "https://www.animegg.org/saenai-heroine-no-sodatekata-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/73663",
+        "dub": null,
+        "url": "https://www.animegg.org/saenai-heroine-no-sodatekata-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/74254",
+        "dub": null,
+        "url": "https://www.animegg.org/saenai-heroine-no-sodatekata-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/74773",
+        "dub": null,
+        "url": "https://www.animegg.org/saenai-heroine-no-sodatekata-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/74898",
+        "dub": null,
+        "url": "https://www.animegg.org/saenai-heroine-no-sodatekata-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/75011",
+        "dub": null,
+        "url": "https://www.animegg.org/saenai-heroine-no-sodatekata-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/75142",
+        "dub": null,
+        "url": "https://www.animegg.org/saenai-heroine-no-sodatekata-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/75342",
+        "dub": null,
+        "url": "https://www.animegg.org/saenai-heroine-no-sodatekata-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/75572",
+        "dub": null,
+        "url": "https://www.animegg.org/saenai-heroine-no-sodatekata-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/75721",
+        "dub": null,
+        "url": "https://www.animegg.org/saenai-heroine-no-sodatekata-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/75850",
+        "dub": null,
+        "url": "https://www.animegg.org/saenai-heroine-no-sodatekata-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/75858",
+        "dub": "https://www.animegg.org/embed/75860",
+        "url": "https://www.animegg.org/saenai-heroine-no-sodatekata-episode-12"
+      }
+    ]
   }
 ]
