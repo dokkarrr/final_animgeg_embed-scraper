@@ -79430,5 +79430,87 @@
         "url": "https://www.animegg.org/ghost-in-the-shell-arise---alternative-architecture-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 2164,
+    "title": "Red Data Girl",
+    "animegg_url": "https://www.animegg.org/series/red-data-girl",
+    "mal_url": "https://myanimelist.net/anime/14921",
+    "mal_id": 14921,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/31721",
+        "dub": "https://www.animegg.org/embed/31722",
+        "url": "https://www.animegg.org/red-data-girl-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/31719",
+        "dub": "https://www.animegg.org/embed/31720",
+        "url": "https://www.animegg.org/red-data-girl-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/31713",
+        "dub": "https://www.animegg.org/embed/31714",
+        "url": "https://www.animegg.org/red-data-girl-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/31717",
+        "dub": "https://www.animegg.org/embed/31718",
+        "url": "https://www.animegg.org/red-data-girl-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/31715",
+        "dub": "https://www.animegg.org/embed/31716",
+        "url": "https://www.animegg.org/red-data-girl-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/31727",
+        "dub": "https://www.animegg.org/embed/31728",
+        "url": "https://www.animegg.org/red-data-girl-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/31729",
+        "dub": "https://www.animegg.org/embed/31730",
+        "url": "https://www.animegg.org/red-data-girl-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/31723",
+        "dub": "https://www.animegg.org/embed/31724",
+        "url": "https://www.animegg.org/red-data-girl-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/31725",
+        "dub": "https://www.animegg.org/embed/31726",
+        "url": "https://www.animegg.org/red-data-girl-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/31733",
+        "dub": "https://www.animegg.org/embed/31734",
+        "url": "https://www.animegg.org/red-data-girl-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/31731",
+        "dub": "https://www.animegg.org/embed/31732",
+        "url": "https://www.animegg.org/red-data-girl-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/31735",
+        "dub": "https://www.animegg.org/embed/31736",
+        "url": "https://www.animegg.org/red-data-girl-episode-12"
+      }
+    ]
   }
 ]
