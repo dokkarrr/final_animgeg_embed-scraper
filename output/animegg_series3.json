@@ -69352,5 +69352,87 @@
         "url": "https://www.animegg.org/sword-of-the-demon-hunter-kijin-gentosho-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 2070,
+    "title": "RWBY Volume 4",
+    "animegg_url": "https://www.animegg.org/series/rwby-volume-4",
+    "mal_url": "https://myanimelist.net/anime/38400",
+    "mal_id": 38400,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/86024",
+        "dub": null,
+        "url": "https://www.animegg.org/rwby-volume-4-episode-12"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/86023",
+        "dub": null,
+        "url": "https://www.animegg.org/rwby-volume-4-episode-11"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/85689",
+        "dub": null,
+        "url": "https://www.animegg.org/rwby-volume-4-episode-10"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/85491",
+        "dub": null,
+        "url": "https://www.animegg.org/rwby-volume-4-episode-9"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/85389",
+        "dub": null,
+        "url": "https://www.animegg.org/rwby-volume-4-episode-8"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/85387",
+        "dub": "https://www.animegg.org/embed/85388",
+        "url": "https://www.animegg.org/rwby-volume-4-episode-7"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/85281",
+        "dub": null,
+        "url": "https://www.animegg.org/rwby-volume-4-episode-6"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/85280",
+        "dub": null,
+        "url": "https://www.animegg.org/rwby-volume-4-episode-5"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/84873",
+        "dub": null,
+        "url": "https://www.animegg.org/rwby-volume-4-episode-4"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/84672",
+        "dub": null,
+        "url": "https://www.animegg.org/rwby-volume-4-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/84671",
+        "dub": null,
+        "url": "https://www.animegg.org/rwby-volume-4-episode-2"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/84670",
+        "dub": null,
+        "url": "https://www.animegg.org/rwby-volume-4-episode-1"
+      }
+    ]
   }
 ]
