@@ -57988,5 +57988,81 @@
         "url": "https://www.animegg.org/honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-episode-14"
       }
     ]
+  },
+  {
+    "serial_no": 1956,
+    "title": "Kuragehime",
+    "animegg_url": "https://www.animegg.org/series/kuragehime",
+    "mal_url": "https://myanimelist.net/anime/8129",
+    "mal_id": 8129,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/20815",
+        "dub": "https://www.animegg.org/embed/72850",
+        "url": "https://www.animegg.org/kuragehime-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/20813",
+        "dub": "https://www.animegg.org/embed/72851",
+        "url": "https://www.animegg.org/kuragehime-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/20811",
+        "dub": "https://www.animegg.org/embed/72852",
+        "url": "https://www.animegg.org/kuragehime-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/20812",
+        "dub": "https://www.animegg.org/embed/72854",
+        "url": "https://www.animegg.org/kuragehime-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/20814",
+        "dub": "https://www.animegg.org/embed/72856",
+        "url": "https://www.animegg.org/kuragehime-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/20816",
+        "dub": "https://www.animegg.org/embed/72857",
+        "url": "https://www.animegg.org/kuragehime-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/20817",
+        "dub": "https://www.animegg.org/embed/72859",
+        "url": "https://www.animegg.org/kuragehime-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/20818",
+        "dub": "https://www.animegg.org/embed/72860",
+        "url": "https://www.animegg.org/kuragehime-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/20820",
+        "dub": "https://www.animegg.org/embed/72863",
+        "url": "https://www.animegg.org/kuragehime-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/20819",
+        "dub": "https://www.animegg.org/embed/72864",
+        "url": "https://www.animegg.org/kuragehime-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/20821",
+        "dub": "https://www.animegg.org/embed/72867",
+        "url": "https://www.animegg.org/kuragehime-episode-11"
+      }
+    ]
   }
 ]
