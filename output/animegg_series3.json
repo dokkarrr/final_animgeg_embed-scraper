@@ -46254,5 +46254,87 @@
         "url": "https://www.animegg.org/buzzer-beater-2007-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 1880,
+    "title": "Bakuon!!",
+    "animegg_url": "https://www.animegg.org/series/bakuon",
+    "mal_url": "https://myanimelist.net/anime/30795",
+    "mal_id": 30795,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/81804",
+        "dub": null,
+        "url": "https://www.animegg.org/bakuon-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/81907",
+        "dub": null,
+        "url": "https://www.animegg.org/bakuon-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/81988",
+        "dub": null,
+        "url": "https://www.animegg.org/bakuon-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/82070",
+        "dub": null,
+        "url": "https://www.animegg.org/bakuon-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/82174",
+        "dub": null,
+        "url": "https://www.animegg.org/bakuon-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/82256",
+        "dub": null,
+        "url": "https://www.animegg.org/bakuon-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/82329",
+        "dub": null,
+        "url": "https://www.animegg.org/bakuon-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/82434",
+        "dub": null,
+        "url": "https://www.animegg.org/bakuon-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/82512",
+        "dub": null,
+        "url": "https://www.animegg.org/bakuon-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/82612",
+        "dub": null,
+        "url": "https://www.animegg.org/bakuon-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/82691",
+        "dub": null,
+        "url": "https://www.animegg.org/bakuon-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/82771",
+        "dub": null,
+        "url": "https://www.animegg.org/bakuon-episode-12"
+      }
+    ]
   }
 ]
