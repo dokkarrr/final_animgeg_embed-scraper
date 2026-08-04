@@ -119538,5 +119538,93 @@
         "url": "https://www.animegg.org/zero-kara-hajimeru-mahou-no-sho-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1200,
+    "title": "Prince of Tennis: The National Tournament (OVA)",
+    "animegg_url": "https://www.animegg.org/series/prince-of-tennis-the-national-tournament-ova",
+    "mal_url": "https://myanimelist.net/anime/22",
+    "mal_id": 22,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/30987",
+        "dub": null,
+        "url": "https://www.animegg.org/prince-of-tennis-the-national-tournament-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/30988",
+        "dub": null,
+        "url": "https://www.animegg.org/prince-of-tennis-the-national-tournament-ova-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/30985",
+        "dub": null,
+        "url": "https://www.animegg.org/prince-of-tennis-the-national-tournament-ova-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/30984",
+        "dub": null,
+        "url": "https://www.animegg.org/prince-of-tennis-the-national-tournament-ova-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/30986",
+        "dub": null,
+        "url": "https://www.animegg.org/prince-of-tennis-the-national-tournament-ova-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/30990",
+        "dub": null,
+        "url": "https://www.animegg.org/prince-of-tennis-the-national-tournament-ova-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/30991",
+        "dub": null,
+        "url": "https://www.animegg.org/prince-of-tennis-the-national-tournament-ova-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/30989",
+        "dub": null,
+        "url": "https://www.animegg.org/prince-of-tennis-the-national-tournament-ova-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/30993",
+        "dub": null,
+        "url": "https://www.animegg.org/prince-of-tennis-the-national-tournament-ova-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/30992",
+        "dub": null,
+        "url": "https://www.animegg.org/prince-of-tennis-the-national-tournament-ova-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/30995",
+        "dub": null,
+        "url": "https://www.animegg.org/prince-of-tennis-the-national-tournament-ova-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/30996",
+        "dub": null,
+        "url": "https://www.animegg.org/prince-of-tennis-the-national-tournament-ova-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/30994",
+        "dub": null,
+        "url": "https://www.animegg.org/prince-of-tennis-the-national-tournament-ova-episode-13"
+      }
+    ]
   }
 ]
