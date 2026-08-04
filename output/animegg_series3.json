@@ -10664,5 +10664,21 @@
         "url": "https://www.animegg.org/strike-witches-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1624,
+    "title": "Kimetsu no Yaiba Movie: Mugen Ressha-hen",
+    "animegg_url": "https://www.animegg.org/series/kimetsu-no-yaiba-movie-mugen-ressha-hen",
+    "mal_url": "https://myanimelist.net/anime/40456",
+    "mal_id": 40456,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/101549",
+        "dub": null,
+        "url": "https://www.animegg.org/kimetsu-no-yaiba-movie-mugen-ressha-hen-episode-1"
+      }
+    ]
   }
 ]
