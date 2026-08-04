@@ -14914,5 +14914,93 @@
         "url": "https://www.animegg.org/wu-shen-zhu-zai-episode-492"
       }
     ]
+  },
+  {
+    "serial_no": 1641,
+    "title": "True Tears",
+    "animegg_url": "https://www.animegg.org/series/true-tears",
+    "mal_url": "https://myanimelist.net/anime/2129",
+    "mal_id": 2129,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/39016",
+        "dub": null,
+        "url": "https://www.animegg.org/true-tears-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/39013",
+        "dub": null,
+        "url": "https://www.animegg.org/true-tears-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/39015",
+        "dub": null,
+        "url": "https://www.animegg.org/true-tears-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/39012",
+        "dub": null,
+        "url": "https://www.animegg.org/true-tears-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/39014",
+        "dub": null,
+        "url": "https://www.animegg.org/true-tears-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/39017",
+        "dub": null,
+        "url": "https://www.animegg.org/true-tears-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/39021",
+        "dub": null,
+        "url": "https://www.animegg.org/true-tears-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/39018",
+        "dub": null,
+        "url": "https://www.animegg.org/true-tears-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/39019",
+        "dub": null,
+        "url": "https://www.animegg.org/true-tears-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/39020",
+        "dub": null,
+        "url": "https://www.animegg.org/true-tears-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/39022",
+        "dub": null,
+        "url": "https://www.animegg.org/true-tears-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/39023",
+        "dub": null,
+        "url": "https://www.animegg.org/true-tears-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/39024",
+        "dub": null,
+        "url": "https://www.animegg.org/true-tears-episode-13"
+      }
+    ]
   }
 ]
