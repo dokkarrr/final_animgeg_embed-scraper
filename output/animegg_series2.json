@@ -63502,5 +63502,87 @@
         "url": "https://www.animegg.org/dimension-w-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 874,
+    "title": "Hitori no Shita: The Outcast",
+    "animegg_url": "https://www.animegg.org/series/hitori-no-shita-the-outcast",
+    "mal_url": "https://myanimelist.net/anime/33421",
+    "mal_id": 33421,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/82998",
+        "dub": null,
+        "url": "https://www.animegg.org/hitori-no-shita-the-outcast-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/83104",
+        "dub": null,
+        "url": "https://www.animegg.org/hitori-no-shita-the-outcast-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/83212",
+        "dub": null,
+        "url": "https://www.animegg.org/hitori-no-shita-the-outcast-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/83300",
+        "dub": null,
+        "url": "https://www.animegg.org/hitori-no-shita-the-outcast-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/83384",
+        "dub": null,
+        "url": "https://www.animegg.org/hitori-no-shita-the-outcast-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/83480",
+        "dub": null,
+        "url": "https://www.animegg.org/hitori-no-shita-the-outcast-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/83560",
+        "dub": null,
+        "url": "https://www.animegg.org/hitori-no-shita-the-outcast-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/83645",
+        "dub": null,
+        "url": "https://www.animegg.org/hitori-no-shita-the-outcast-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/83742",
+        "dub": null,
+        "url": "https://www.animegg.org/hitori-no-shita-the-outcast-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/83823",
+        "dub": null,
+        "url": "https://www.animegg.org/hitori-no-shita-the-outcast-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/83910",
+        "dub": null,
+        "url": "https://www.animegg.org/hitori-no-shita-the-outcast-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/83998",
+        "dub": null,
+        "url": "https://www.animegg.org/hitori-no-shita-the-outcast-episode-12"
+      }
+    ]
   }
 ]
