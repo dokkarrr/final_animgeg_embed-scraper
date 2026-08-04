@@ -117466,5 +117466,21 @@
         "url": "https://www.animegg.org/hatsukoi-limited-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2511,
+    "title": "Naruto Shippuuden Movie 7: The Last Episode 1",
+    "animegg_url": "https://www.animegg.org/series/naruto-shippuuden-movie-7-the-last-episode-1",
+    "mal_url": "https://myanimelist.net/anime/1735",
+    "mal_id": 1735,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/78117",
+        "dub": null,
+        "url": "https://www.animegg.org/naruto-shippuuden-movie-7-the-last-episode-1-episode-1"
+      }
+    ]
   }
 ]
