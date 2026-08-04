@@ -122204,5 +122204,21 @@
         "url": "https://www.animegg.org/dears-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 1217,
+    "title": "Kimi no Na wa.",
+    "animegg_url": "https://www.animegg.org/series/kimi-no-na-wa",
+    "mal_url": "https://myanimelist.net/anime/32281",
+    "mal_id": 32281,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/83804",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-no-na-wa-episode-1-4242-3157-7223"
+      }
+    ]
   }
 ]
