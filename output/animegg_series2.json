@@ -46462,5 +46462,87 @@
         "url": "https://www.animegg.org/kyuuketsuki-miyu-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 766,
+    "title": "Durarara!!x2 Shou",
+    "animegg_url": "https://www.animegg.org/series/durarara-x2-shou",
+    "mal_url": "https://myanimelist.net/anime/23199",
+    "mal_id": 23199,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/75881",
+        "dub": "https://www.animegg.org/embed/75886",
+        "url": "https://www.animegg.org/durarara-x2-shou-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/75754",
+        "dub": "https://www.animegg.org/embed/75760",
+        "url": "https://www.animegg.org/durarara-x2-shou-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/75625",
+        "dub": "https://www.animegg.org/embed/75628",
+        "url": "https://www.animegg.org/durarara-x2-shou-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/75432",
+        "dub": "https://www.animegg.org/embed/75439",
+        "url": "https://www.animegg.org/durarara-x2-shou-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/75218",
+        "dub": "https://www.animegg.org/embed/75222",
+        "url": "https://www.animegg.org/durarara-x2-shou-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/75054",
+        "dub": "https://www.animegg.org/embed/75056",
+        "url": "https://www.animegg.org/durarara-x2-shou-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/74932",
+        "dub": "https://www.animegg.org/embed/74934",
+        "url": "https://www.animegg.org/durarara-x2-shou-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/74813",
+        "dub": "https://www.animegg.org/embed/76250",
+        "url": "https://www.animegg.org/durarara-x2-shou-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/74664",
+        "dub": "https://www.animegg.org/embed/74666",
+        "url": "https://www.animegg.org/durarara-x2-shou-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/73697",
+        "dub": "https://www.animegg.org/embed/75815",
+        "url": "https://www.animegg.org/durarara-x2-shou-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/73576",
+        "dub": "https://www.animegg.org/embed/73582",
+        "url": "https://www.animegg.org/durarara-x2-shou-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/69994",
+        "dub": "https://www.animegg.org/embed/75547",
+        "url": "https://www.animegg.org/durarara-x2-shou-episode-1"
+      }
+    ]
   }
 ]
