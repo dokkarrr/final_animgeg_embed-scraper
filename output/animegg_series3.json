@@ -22874,5 +22874,87 @@
         "url": "https://www.animegg.org/danna-ga-nani-o-itteiru-ka-wakaranai-ken-2-sure-me-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 1690,
+    "title": "Kakumeiki Valvrave",
+    "animegg_url": "https://www.animegg.org/series/kakumeiki-valvrave",
+    "mal_url": "https://myanimelist.net/anime/16668",
+    "mal_id": 16668,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/19112",
+        "dub": null,
+        "url": "https://www.animegg.org/kakumeiki-valvrave-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/19110",
+        "dub": null,
+        "url": "https://www.animegg.org/kakumeiki-valvrave-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/19111",
+        "dub": null,
+        "url": "https://www.animegg.org/kakumeiki-valvrave-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/19113",
+        "dub": null,
+        "url": "https://www.animegg.org/kakumeiki-valvrave-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/19114",
+        "dub": null,
+        "url": "https://www.animegg.org/kakumeiki-valvrave-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/19115",
+        "dub": null,
+        "url": "https://www.animegg.org/kakumeiki-valvrave-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/19116",
+        "dub": null,
+        "url": "https://www.animegg.org/kakumeiki-valvrave-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/19117",
+        "dub": null,
+        "url": "https://www.animegg.org/kakumeiki-valvrave-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/19118",
+        "dub": null,
+        "url": "https://www.animegg.org/kakumeiki-valvrave-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/19119",
+        "dub": null,
+        "url": "https://www.animegg.org/kakumeiki-valvrave-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/19120",
+        "dub": null,
+        "url": "https://www.animegg.org/kakumeiki-valvrave-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/19121",
+        "dub": null,
+        "url": "https://www.animegg.org/kakumeiki-valvrave-episode-12"
+      }
+    ]
   }
 ]
