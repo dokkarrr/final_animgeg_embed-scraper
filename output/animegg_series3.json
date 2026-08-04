@@ -116130,5 +116130,75 @@
         "url": "https://www.animegg.org/yoru-no-yatterman-episode-60"
       }
     ]
+  },
+  {
+    "serial_no": 2495,
+    "title": "Upotte!!",
+    "animegg_url": "https://www.animegg.org/series/upotte",
+    "mal_url": "https://myanimelist.net/anime/12317",
+    "mal_id": 12317,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/39523",
+        "dub": "https://www.animegg.org/embed/73902",
+        "url": "https://www.animegg.org/upotte-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/39520",
+        "dub": "https://www.animegg.org/embed/73903",
+        "url": "https://www.animegg.org/upotte-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/39521",
+        "dub": "https://www.animegg.org/embed/73904",
+        "url": "https://www.animegg.org/upotte-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/39522",
+        "dub": "https://www.animegg.org/embed/73905",
+        "url": "https://www.animegg.org/upotte-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/39519",
+        "dub": "https://www.animegg.org/embed/73906",
+        "url": "https://www.animegg.org/upotte-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/39527",
+        "dub": "https://www.animegg.org/embed/73907",
+        "url": "https://www.animegg.org/upotte-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/39524",
+        "dub": "https://www.animegg.org/embed/73908",
+        "url": "https://www.animegg.org/upotte-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/39525",
+        "dub": "https://www.animegg.org/embed/73909",
+        "url": "https://www.animegg.org/upotte-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/39526",
+        "dub": "https://www.animegg.org/embed/73910",
+        "url": "https://www.animegg.org/upotte-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/39528",
+        "dub": "https://www.animegg.org/embed/73911",
+        "url": "https://www.animegg.org/upotte-episode-10"
+      }
+    ]
   }
 ]
