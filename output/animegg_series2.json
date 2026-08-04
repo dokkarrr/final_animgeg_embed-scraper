@@ -122220,5 +122220,93 @@
         "url": "https://www.animegg.org/kimi-no-na-wa-episode-1-4242-3157-7223"
       }
     ]
+  },
+  {
+    "serial_no": 1218,
+    "title": "Ikkitousen",
+    "animegg_url": "https://www.animegg.org/series/ikkitousen",
+    "mal_url": "https://myanimelist.net/anime/257",
+    "mal_id": 257,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/17407",
+        "dub": "https://www.animegg.org/embed/70720",
+        "url": "https://www.animegg.org/ikkitousen-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/17405",
+        "dub": "https://www.animegg.org/embed/70718",
+        "url": "https://www.animegg.org/ikkitousen-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/17406",
+        "dub": "https://www.animegg.org/embed/70715",
+        "url": "https://www.animegg.org/ikkitousen-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/17409",
+        "dub": "https://www.animegg.org/embed/70712",
+        "url": "https://www.animegg.org/ikkitousen-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/17404",
+        "dub": "https://www.animegg.org/embed/70708",
+        "url": "https://www.animegg.org/ikkitousen-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/17412",
+        "dub": "https://www.animegg.org/embed/70706",
+        "url": "https://www.animegg.org/ikkitousen-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/17413",
+        "dub": "https://www.animegg.org/embed/70703",
+        "url": "https://www.animegg.org/ikkitousen-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/17411",
+        "dub": "https://www.animegg.org/embed/70701",
+        "url": "https://www.animegg.org/ikkitousen-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/17408",
+        "dub": "https://www.animegg.org/embed/70698",
+        "url": "https://www.animegg.org/ikkitousen-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/17410",
+        "dub": "https://www.animegg.org/embed/70696",
+        "url": "https://www.animegg.org/ikkitousen-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/17414",
+        "dub": "https://www.animegg.org/embed/70694",
+        "url": "https://www.animegg.org/ikkitousen-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/17416",
+        "dub": "https://www.animegg.org/embed/70692",
+        "url": "https://www.animegg.org/ikkitousen-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/17415",
+        "dub": "https://www.animegg.org/embed/70681",
+        "url": "https://www.animegg.org/ikkitousen-episode-13"
+      }
+    ]
   }
 ]
