@@ -87968,5 +87968,93 @@
         "url": "https://www.animegg.org/witchblade-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 1019,
+    "title": "Kampfer",
+    "animegg_url": "https://www.animegg.org/series/kampfer",
+    "mal_url": "https://myanimelist.net/anime/6205",
+    "mal_id": 6205,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/19461",
+        "dub": null,
+        "url": "https://www.animegg.org/kampfer-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/19460",
+        "dub": null,
+        "url": "https://www.animegg.org/kampfer-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/19459",
+        "dub": null,
+        "url": "https://www.animegg.org/kampfer-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/19458",
+        "dub": null,
+        "url": "https://www.animegg.org/kampfer-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/19457",
+        "dub": null,
+        "url": "https://www.animegg.org/kampfer-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/19462",
+        "dub": null,
+        "url": "https://www.animegg.org/kampfer-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/19463",
+        "dub": null,
+        "url": "https://www.animegg.org/kampfer-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/19466",
+        "dub": null,
+        "url": "https://www.animegg.org/kampfer-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/19465",
+        "dub": null,
+        "url": "https://www.animegg.org/kampfer-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/19464",
+        "dub": null,
+        "url": "https://www.animegg.org/kampfer-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/19467",
+        "dub": null,
+        "url": "https://www.animegg.org/kampfer-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/19468",
+        "dub": null,
+        "url": "https://www.animegg.org/kampfer-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/19469",
+        "dub": null,
+        "url": "https://www.animegg.org/kampfer-episode-13"
+      }
+    ]
   }
 ]
