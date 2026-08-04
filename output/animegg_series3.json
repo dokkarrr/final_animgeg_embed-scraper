@@ -79360,5 +79360,75 @@
         "url": "https://www.animegg.org/captain-tsubasa-season-2-junior-youth-hen-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 2163,
+    "title": "Ghost in the Shell: Arise - Alternative Architecture",
+    "animegg_url": "https://www.animegg.org/series/ghost-in-the-shell-arise---alternative-architecture",
+    "mal_url": "https://myanimelist.net/anime/29325",
+    "mal_id": 29325,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/76052",
+        "dub": "https://www.animegg.org/embed/76093",
+        "url": "https://www.animegg.org/ghost-in-the-shell-arise---alternative-architecture-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/76179",
+        "dub": null,
+        "url": "https://www.animegg.org/ghost-in-the-shell-arise---alternative-architecture-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/76343",
+        "dub": null,
+        "url": "https://www.animegg.org/ghost-in-the-shell-arise---alternative-architecture-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/76477",
+        "dub": null,
+        "url": "https://www.animegg.org/ghost-in-the-shell-arise---alternative-architecture-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/76466",
+        "dub": "https://www.animegg.org/embed/76603",
+        "url": "https://www.animegg.org/ghost-in-the-shell-arise---alternative-architecture-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/76719",
+        "dub": null,
+        "url": "https://www.animegg.org/ghost-in-the-shell-arise---alternative-architecture-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/76831",
+        "dub": null,
+        "url": "https://www.animegg.org/ghost-in-the-shell-arise---alternative-architecture-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/76929",
+        "dub": null,
+        "url": "https://www.animegg.org/ghost-in-the-shell-arise---alternative-architecture-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/77226",
+        "dub": null,
+        "url": "https://www.animegg.org/ghost-in-the-shell-arise---alternative-architecture-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/77365",
+        "dub": null,
+        "url": "https://www.animegg.org/ghost-in-the-shell-arise---alternative-architecture-episode-10"
+      }
+    ]
   }
 ]
