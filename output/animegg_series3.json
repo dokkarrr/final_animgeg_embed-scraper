@@ -126641,5 +126641,87 @@
         "url": "https://www.animegg.org/sasameki-koto-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2600,
+    "title": "Gingitsune",
+    "animegg_url": "https://www.animegg.org/series/gingitsune",
+    "mal_url": "https://myanimelist.net/anime/18411",
+    "mal_id": 18411,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/12789",
+        "dub": null,
+        "url": "https://www.animegg.org/gingitsune-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/12787",
+        "dub": null,
+        "url": "https://www.animegg.org/gingitsune-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/12788",
+        "dub": null,
+        "url": "https://www.animegg.org/gingitsune-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/12786",
+        "dub": null,
+        "url": "https://www.animegg.org/gingitsune-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/12785",
+        "dub": null,
+        "url": "https://www.animegg.org/gingitsune-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/12791",
+        "dub": null,
+        "url": "https://www.animegg.org/gingitsune-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/12790",
+        "dub": null,
+        "url": "https://www.animegg.org/gingitsune-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/12792",
+        "dub": null,
+        "url": "https://www.animegg.org/gingitsune-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/12793",
+        "dub": null,
+        "url": "https://www.animegg.org/gingitsune-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/12795",
+        "dub": null,
+        "url": "https://www.animegg.org/gingitsune-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/12794",
+        "dub": null,
+        "url": "https://www.animegg.org/gingitsune-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/12796",
+        "dub": null,
+        "url": "https://www.animegg.org/gingitsune-episode-12"
+      }
+    ]
   }
 ]
