@@ -132741,5 +132741,93 @@
         "url": "https://www.animegg.org/saki-zenkoku-hen-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2670,
+    "title": "Jubei-chan",
+    "animegg_url": "https://www.animegg.org/series/jubei-chan",
+    "mal_url": "https://myanimelist.net/anime/635",
+    "mal_id": 635,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/18714",
+        "dub": "https://www.animegg.org/embed/71100",
+        "url": "https://www.animegg.org/jubei-chan-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/18715",
+        "dub": "https://www.animegg.org/embed/71099",
+        "url": "https://www.animegg.org/jubei-chan-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/18712",
+        "dub": "https://www.animegg.org/embed/71098",
+        "url": "https://www.animegg.org/jubei-chan-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/18713",
+        "dub": "https://www.animegg.org/embed/71097",
+        "url": "https://www.animegg.org/jubei-chan-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/18716",
+        "dub": "https://www.animegg.org/embed/71096",
+        "url": "https://www.animegg.org/jubei-chan-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/18720",
+        "dub": "https://www.animegg.org/embed/71095",
+        "url": "https://www.animegg.org/jubei-chan-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/18718",
+        "dub": "https://www.animegg.org/embed/71094",
+        "url": "https://www.animegg.org/jubei-chan-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/18719",
+        "dub": "https://www.animegg.org/embed/71093",
+        "url": "https://www.animegg.org/jubei-chan-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/18717",
+        "dub": "https://www.animegg.org/embed/71092",
+        "url": "https://www.animegg.org/jubei-chan-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/18721",
+        "dub": "https://www.animegg.org/embed/71091",
+        "url": "https://www.animegg.org/jubei-chan-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/18724",
+        "dub": "https://www.animegg.org/embed/71090",
+        "url": "https://www.animegg.org/jubei-chan-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/18723",
+        "dub": "https://www.animegg.org/embed/71089",
+        "url": "https://www.animegg.org/jubei-chan-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/18722",
+        "dub": "https://www.animegg.org/embed/71088",
+        "url": "https://www.animegg.org/jubei-chan-episode-13"
+      }
+    ]
   }
 ]
