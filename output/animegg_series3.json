@@ -105594,5 +105594,87 @@
         "url": "https://www.animegg.org/magic-kyun-renaissance-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2387,
+    "title": "Dream Festival!",
+    "animegg_url": "https://www.animegg.org/series/dream-festival",
+    "mal_url": "https://myanimelist.net/anime/33045",
+    "mal_id": 33045,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/83976",
+        "dub": null,
+        "url": "https://www.animegg.org/dream-festival-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/84153",
+        "dub": null,
+        "url": "https://www.animegg.org/dream-festival-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/84257",
+        "dub": null,
+        "url": "https://www.animegg.org/dream-festival-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/84370",
+        "dub": null,
+        "url": "https://www.animegg.org/dream-festival-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/84464",
+        "dub": null,
+        "url": "https://www.animegg.org/dream-festival-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/84558",
+        "dub": null,
+        "url": "https://www.animegg.org/dream-festival-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/84652",
+        "dub": null,
+        "url": "https://www.animegg.org/dream-festival-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/84753",
+        "dub": null,
+        "url": "https://www.animegg.org/dream-festival-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/84850",
+        "dub": null,
+        "url": "https://www.animegg.org/dream-festival-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/84947",
+        "dub": null,
+        "url": "https://www.animegg.org/dream-festival-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/85019",
+        "dub": null,
+        "url": "https://www.animegg.org/dream-festival-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/85126",
+        "dub": null,
+        "url": "https://www.animegg.org/dream-festival-episode-12"
+      }
+    ]
   }
 ]
