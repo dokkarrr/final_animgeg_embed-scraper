@@ -10582,5 +10582,87 @@
         "url": "https://www.animegg.org/no-rin-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1623,
+    "title": "Strike Witches",
+    "animegg_url": "https://www.animegg.org/series/strike-witches",
+    "mal_url": "https://myanimelist.net/anime/3667",
+    "mal_id": 3667,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/36681",
+        "dub": "https://www.animegg.org/embed/73157",
+        "url": "https://www.animegg.org/strike-witches-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/36679",
+        "dub": "https://www.animegg.org/embed/73158",
+        "url": "https://www.animegg.org/strike-witches-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/36682",
+        "dub": "https://www.animegg.org/embed/73160",
+        "url": "https://www.animegg.org/strike-witches-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/36680",
+        "dub": "https://www.animegg.org/embed/73162",
+        "url": "https://www.animegg.org/strike-witches-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/36678",
+        "dub": "https://www.animegg.org/embed/73164",
+        "url": "https://www.animegg.org/strike-witches-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/36683",
+        "dub": "https://www.animegg.org/embed/73166",
+        "url": "https://www.animegg.org/strike-witches-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/36684",
+        "dub": "https://www.animegg.org/embed/73167",
+        "url": "https://www.animegg.org/strike-witches-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/36685",
+        "dub": "https://www.animegg.org/embed/73169",
+        "url": "https://www.animegg.org/strike-witches-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/36686",
+        "dub": "https://www.animegg.org/embed/73170",
+        "url": "https://www.animegg.org/strike-witches-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/36687",
+        "dub": "https://www.animegg.org/embed/73173",
+        "url": "https://www.animegg.org/strike-witches-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/36688",
+        "dub": "https://www.animegg.org/embed/73176",
+        "url": "https://www.animegg.org/strike-witches-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/36689",
+        "dub": "https://www.animegg.org/embed/73178",
+        "url": "https://www.animegg.org/strike-witches-episode-12"
+      }
+    ]
   }
 ]
