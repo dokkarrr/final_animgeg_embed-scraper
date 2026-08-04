@@ -88976,5 +88976,87 @@
         "url": "https://www.animegg.org/fateextra-last-encore-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 2227,
+    "title": "Innocent Venus",
+    "animegg_url": "https://www.animegg.org/series/innocent-venus",
+    "mal_url": "https://myanimelist.net/anime/1230",
+    "mal_id": 1230,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/17878",
+        "dub": "https://www.animegg.org/embed/70895",
+        "url": "https://www.animegg.org/innocent-venus-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/17874",
+        "dub": "https://www.animegg.org/embed/70894",
+        "url": "https://www.animegg.org/innocent-venus-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/17876",
+        "dub": "https://www.animegg.org/embed/70893",
+        "url": "https://www.animegg.org/innocent-venus-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/17877",
+        "dub": "https://www.animegg.org/embed/70892",
+        "url": "https://www.animegg.org/innocent-venus-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/17875",
+        "dub": "https://www.animegg.org/embed/70891",
+        "url": "https://www.animegg.org/innocent-venus-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/17879",
+        "dub": "https://www.animegg.org/embed/70890",
+        "url": "https://www.animegg.org/innocent-venus-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/17881",
+        "dub": "https://www.animegg.org/embed/70888",
+        "url": "https://www.animegg.org/innocent-venus-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/17880",
+        "dub": "https://www.animegg.org/embed/70887",
+        "url": "https://www.animegg.org/innocent-venus-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/17882",
+        "dub": "https://www.animegg.org/embed/70886",
+        "url": "https://www.animegg.org/innocent-venus-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/17883",
+        "dub": "https://www.animegg.org/embed/70885",
+        "url": "https://www.animegg.org/innocent-venus-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/17884",
+        "dub": "https://www.animegg.org/embed/70882",
+        "url": "https://www.animegg.org/innocent-venus-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/17885",
+        "dub": "https://www.animegg.org/embed/70881",
+        "url": "https://www.animegg.org/innocent-venus-episode-12"
+      }
+    ]
   }
 ]
