@@ -40836,5 +40836,21 @@
         "url": "https://www.animegg.org/duel-masters-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 1829,
+    "title": "One Piece (2000)",
+    "animegg_url": "https://www.animegg.org/series/one-piece-2000",
+    "mal_url": "https://myanimelist.net/anime/459",
+    "mal_id": 459,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2000,
+        "sub": "https://www.animegg.org/embed/59257",
+        "dub": null,
+        "url": "https://www.animegg.org/one-piece-2000-episode-1"
+      }
+    ]
   }
 ]
