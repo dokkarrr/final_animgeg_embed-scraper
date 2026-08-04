@@ -72958,5 +72958,69 @@
         "url": "https://www.animegg.org/gatchaman-crowds-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2097,
+    "title": "Kuroko no Basket NG-shuu",
+    "animegg_url": "https://www.animegg.org/series/kuroko-no-basket-ng-shuu",
+    "mal_url": "https://myanimelist.net/anime/15487",
+    "mal_id": 15487,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/20900",
+        "dub": null,
+        "url": "https://www.animegg.org/kuroko-no-basket-ng-shuu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/20898",
+        "dub": null,
+        "url": "https://www.animegg.org/kuroko-no-basket-ng-shuu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/20897",
+        "dub": null,
+        "url": "https://www.animegg.org/kuroko-no-basket-ng-shuu-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/20896",
+        "dub": null,
+        "url": "https://www.animegg.org/kuroko-no-basket-ng-shuu-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/20899",
+        "dub": null,
+        "url": "https://www.animegg.org/kuroko-no-basket-ng-shuu-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/20901",
+        "dub": null,
+        "url": "https://www.animegg.org/kuroko-no-basket-ng-shuu-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/20902",
+        "dub": null,
+        "url": "https://www.animegg.org/kuroko-no-basket-ng-shuu-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/20903",
+        "dub": null,
+        "url": "https://www.animegg.org/kuroko-no-basket-ng-shuu-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/20904",
+        "dub": null,
+        "url": "https://www.animegg.org/kuroko-no-basket-ng-shuu-episode-9"
+      }
+    ]
   }
 ]
