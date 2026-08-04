@@ -67312,5 +67312,93 @@
         "url": "https://www.animegg.org/blade-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2049,
+    "title": "Flip Flappers",
+    "animegg_url": "https://www.animegg.org/series/flip-flappers",
+    "mal_url": "https://myanimelist.net/anime/32979",
+    "mal_id": 32979,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/84128",
+        "dub": null,
+        "url": "https://www.animegg.org/flip-flappers-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/84249",
+        "dub": null,
+        "url": "https://www.animegg.org/flip-flappers-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/84362",
+        "dub": null,
+        "url": "https://www.animegg.org/flip-flappers-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/84455",
+        "dub": null,
+        "url": "https://www.animegg.org/flip-flappers-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/84547",
+        "dub": null,
+        "url": "https://www.animegg.org/flip-flappers-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/84645",
+        "dub": null,
+        "url": "https://www.animegg.org/flip-flappers-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/84742",
+        "dub": null,
+        "url": "https://www.animegg.org/flip-flappers-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/84841",
+        "dub": null,
+        "url": "https://www.animegg.org/flip-flappers-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/84939",
+        "dub": null,
+        "url": "https://www.animegg.org/flip-flappers-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/85010",
+        "dub": null,
+        "url": "https://www.animegg.org/flip-flappers-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/85117",
+        "dub": null,
+        "url": "https://www.animegg.org/flip-flappers-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/85236",
+        "dub": null,
+        "url": "https://www.animegg.org/flip-flappers-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/85319",
+        "dub": null,
+        "url": "https://www.animegg.org/flip-flappers-episode-13"
+      }
+    ]
   }
 ]
