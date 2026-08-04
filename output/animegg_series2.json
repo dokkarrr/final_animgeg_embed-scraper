@@ -15184,5 +15184,93 @@
         "url": "https://www.animegg.org/binan-koukou-chikyuu-bouei-bu-love-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 589,
+    "title": "Shingeki no Bahamut: Genesis",
+    "animegg_url": "https://www.animegg.org/series/shingeki-no-bahamut-genesis",
+    "mal_url": "https://myanimelist.net/anime/21843",
+    "mal_id": 21843,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/66944",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-bahamut-genesis-episode-6-1-2"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66318",
+        "dub": "https://www.animegg.org/embed/81652",
+        "url": "https://www.animegg.org/shingeki-no-bahamut-genesis-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/66319",
+        "dub": "https://www.animegg.org/embed/81653",
+        "url": "https://www.animegg.org/shingeki-no-bahamut-genesis-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/66320",
+        "dub": "https://www.animegg.org/embed/82091",
+        "url": "https://www.animegg.org/shingeki-no-bahamut-genesis-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/66321",
+        "dub": "https://www.animegg.org/embed/82092",
+        "url": "https://www.animegg.org/shingeki-no-bahamut-genesis-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/66322",
+        "dub": "https://www.animegg.org/embed/82093",
+        "url": "https://www.animegg.org/shingeki-no-bahamut-genesis-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/66631",
+        "dub": "https://www.animegg.org/embed/82094",
+        "url": "https://www.animegg.org/shingeki-no-bahamut-genesis-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/67208",
+        "dub": "https://www.animegg.org/embed/82095",
+        "url": "https://www.animegg.org/shingeki-no-bahamut-genesis-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/67354",
+        "dub": "https://www.animegg.org/embed/82096",
+        "url": "https://www.animegg.org/shingeki-no-bahamut-genesis-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/67476",
+        "dub": "https://www.animegg.org/embed/82097",
+        "url": "https://www.animegg.org/shingeki-no-bahamut-genesis-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/67602",
+        "dub": "https://www.animegg.org/embed/82098",
+        "url": "https://www.animegg.org/shingeki-no-bahamut-genesis-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/67709",
+        "dub": "https://www.animegg.org/embed/82099",
+        "url": "https://www.animegg.org/shingeki-no-bahamut-genesis-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/67795",
+        "dub": "https://www.animegg.org/embed/82101",
+        "url": "https://www.animegg.org/shingeki-no-bahamut-genesis-episode-12"
+      }
+    ]
   }
 ]
