@@ -7900,5 +7900,87 @@
         "url": "https://www.animegg.org/gravitation-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 1596,
+    "title": "Ryuuou no Oshigoto!",
+    "animegg_url": "https://www.animegg.org/series/ryuuou-no-oshigoto",
+    "mal_url": "https://myanimelist.net/anime/35905",
+    "mal_id": 35905,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/89594",
+        "dub": null,
+        "url": "https://www.animegg.org/ryuuou-no-oshigoto-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/89765",
+        "dub": null,
+        "url": "https://www.animegg.org/ryuuou-no-oshigoto-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/89845",
+        "dub": null,
+        "url": "https://www.animegg.org/ryuuou-no-oshigoto-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/89920",
+        "dub": null,
+        "url": "https://www.animegg.org/ryuuou-no-oshigoto-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/90011",
+        "dub": null,
+        "url": "https://www.animegg.org/ryuuou-no-oshigoto-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/90086",
+        "dub": null,
+        "url": "https://www.animegg.org/ryuuou-no-oshigoto-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/90160",
+        "dub": null,
+        "url": "https://www.animegg.org/ryuuou-no-oshigoto-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/90221",
+        "dub": null,
+        "url": "https://www.animegg.org/ryuuou-no-oshigoto-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/90309",
+        "dub": null,
+        "url": "https://www.animegg.org/ryuuou-no-oshigoto-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/90380",
+        "dub": null,
+        "url": "https://www.animegg.org/ryuuou-no-oshigoto-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/90463",
+        "dub": null,
+        "url": "https://www.animegg.org/ryuuou-no-oshigoto-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/90553",
+        "dub": null,
+        "url": "https://www.animegg.org/ryuuou-no-oshigoto-episode-12"
+      }
+    ]
   }
 ]
