@@ -116216,5 +116216,87 @@
         "url": "https://www.animegg.org/sword-art-online-movie-ordinal-scale-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 2497,
+    "title": "Ito Junji: Collection",
+    "animegg_url": "https://www.animegg.org/series/ito-junji-collection",
+    "mal_url": "https://myanimelist.net/anime/36124",
+    "mal_id": 36124,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/89552",
+        "dub": null,
+        "url": "https://www.animegg.org/ito-junji-collection-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/89703",
+        "dub": null,
+        "url": "https://www.animegg.org/ito-junji-collection-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/89802",
+        "dub": null,
+        "url": "https://www.animegg.org/ito-junji-collection-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/89880",
+        "dub": null,
+        "url": "https://www.animegg.org/ito-junji-collection-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/89964",
+        "dub": null,
+        "url": "https://www.animegg.org/ito-junji-collection-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/90042",
+        "dub": null,
+        "url": "https://www.animegg.org/ito-junji-collection-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/90119",
+        "dub": null,
+        "url": "https://www.animegg.org/ito-junji-collection-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/90189",
+        "dub": null,
+        "url": "https://www.animegg.org/ito-junji-collection-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/90261",
+        "dub": null,
+        "url": "https://www.animegg.org/ito-junji-collection-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/90338",
+        "dub": null,
+        "url": "https://www.animegg.org/ito-junji-collection-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/90410",
+        "dub": null,
+        "url": "https://www.animegg.org/ito-junji-collection-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/90496",
+        "dub": null,
+        "url": "https://www.animegg.org/ito-junji-collection-episode-12"
+      }
+    ]
   }
 ]
