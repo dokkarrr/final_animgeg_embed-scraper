@@ -2164,5 +2164,51 @@
         "url": "https://www.animegg.org/blade-soul-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 1560,
+    "title": "Highschool DxD Specials",
+    "animegg_url": "https://www.animegg.org/series/highschool-dxd-specials",
+    "mal_url": "https://myanimelist.net/anime/13357",
+    "mal_id": 13357,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/16163",
+        "dub": null,
+        "url": "https://www.animegg.org/highschool-dxd-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/16164",
+        "dub": null,
+        "url": "https://www.animegg.org/highschool-dxd-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/16167",
+        "dub": null,
+        "url": "https://www.animegg.org/highschool-dxd-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/16166",
+        "dub": null,
+        "url": "https://www.animegg.org/highschool-dxd-specials-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/16165",
+        "dub": null,
+        "url": "https://www.animegg.org/highschool-dxd-specials-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/16168",
+        "dub": null,
+        "url": "https://www.animegg.org/highschool-dxd-specials-episode-6"
+      }
+    ]
   }
 ]
