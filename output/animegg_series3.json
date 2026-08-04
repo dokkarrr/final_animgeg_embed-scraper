@@ -10500,5 +10500,87 @@
         "url": "https://www.animegg.org/rockmanexe-beast-episode-76"
       }
     ]
+  },
+  {
+    "serial_no": 1622,
+    "title": "Nourin",
+    "animegg_url": "https://www.animegg.org/series/no-rin",
+    "mal_url": "https://myanimelist.net/anime/18095",
+    "mal_id": 18095,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/58701",
+        "dub": null,
+        "url": "https://www.animegg.org/no-rin-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/58702",
+        "dub": null,
+        "url": "https://www.animegg.org/no-rin-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/58703",
+        "dub": "https://www.animegg.org/embed/81262",
+        "url": "https://www.animegg.org/no-rin-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/58704",
+        "dub": "https://www.animegg.org/embed/81263",
+        "url": "https://www.animegg.org/no-rin-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/58705",
+        "dub": "https://www.animegg.org/embed/81264",
+        "url": "https://www.animegg.org/no-rin-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/58706",
+        "dub": "https://www.animegg.org/embed/81265",
+        "url": "https://www.animegg.org/no-rin-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/58707",
+        "dub": "https://www.animegg.org/embed/81266",
+        "url": "https://www.animegg.org/no-rin-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/58708",
+        "dub": "https://www.animegg.org/embed/81267",
+        "url": "https://www.animegg.org/no-rin-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/58709",
+        "dub": "https://www.animegg.org/embed/81268",
+        "url": "https://www.animegg.org/no-rin-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/58710",
+        "dub": "https://www.animegg.org/embed/81269",
+        "url": "https://www.animegg.org/no-rin-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/58711",
+        "dub": "https://www.animegg.org/embed/81270",
+        "url": "https://www.animegg.org/no-rin-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/58712",
+        "dub": "https://www.animegg.org/embed/81271",
+        "url": "https://www.animegg.org/no-rin-episode-12"
+      }
+    ]
   }
 ]
