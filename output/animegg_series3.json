@@ -8146,5 +8146,21 @@
         "url": "https://www.animegg.org/rokujouma-no-shinryakusha-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1599,
+    "title": "Naruto: Shippuuden Movie 6 - Road to Ninja",
+    "animegg_url": "https://www.animegg.org/series/naruto-shippuuden-movie-6---road-to-ninja",
+    "mal_url": "https://myanimelist.net/anime/13667",
+    "mal_id": 13667,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/58804",
+        "dub": "https://www.animegg.org/embed/67294",
+        "url": "https://www.animegg.org/naruto-shippuuden-movie-6---road-to-ninja-episode-1"
+      }
+    ]
   }
 ]
