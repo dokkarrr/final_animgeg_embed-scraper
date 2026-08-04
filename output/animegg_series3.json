@@ -30794,5 +30794,93 @@
         "url": "https://www.animegg.org/ikoku-meiro-no-crois-e-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 1759,
+    "title": "Canaan",
+    "animegg_url": "https://www.animegg.org/series/canaan",
+    "mal_url": "https://myanimelist.net/anime/5356",
+    "mal_id": 5356,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/4992",
+        "dub": "https://www.animegg.org/embed/4993",
+        "url": "https://www.animegg.org/canaan-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/4990",
+        "dub": "https://www.animegg.org/embed/4991",
+        "url": "https://www.animegg.org/canaan-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/4986",
+        "dub": "https://www.animegg.org/embed/4987",
+        "url": "https://www.animegg.org/canaan-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/4984",
+        "dub": "https://www.animegg.org/embed/4985",
+        "url": "https://www.animegg.org/canaan-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/4988",
+        "dub": "https://www.animegg.org/embed/4989",
+        "url": "https://www.animegg.org/canaan-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/5000",
+        "dub": "https://www.animegg.org/embed/5001",
+        "url": "https://www.animegg.org/canaan-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/4996",
+        "dub": "https://www.animegg.org/embed/4997",
+        "url": "https://www.animegg.org/canaan-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/4994",
+        "dub": "https://www.animegg.org/embed/4995",
+        "url": "https://www.animegg.org/canaan-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/4998",
+        "dub": "https://www.animegg.org/embed/4999",
+        "url": "https://www.animegg.org/canaan-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/5002",
+        "dub": "https://www.animegg.org/embed/5003",
+        "url": "https://www.animegg.org/canaan-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/5004",
+        "dub": "https://www.animegg.org/embed/5005",
+        "url": "https://www.animegg.org/canaan-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/5006",
+        "dub": "https://www.animegg.org/embed/5007",
+        "url": "https://www.animegg.org/canaan-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/5008",
+        "dub": "https://www.animegg.org/embed/5009",
+        "url": "https://www.animegg.org/canaan-episode-13"
+      }
+    ]
   }
 ]
