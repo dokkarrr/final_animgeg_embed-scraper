@@ -111850,5 +111850,81 @@
         "url": "https://www.animegg.org/metal-armor-dragonar-episode-48"
       }
     ]
+  },
+  {
+    "serial_no": 1150,
+    "title": "Fate/kaleid liner Prisma☆Illya",
+    "animegg_url": "https://www.animegg.org/series/fatekaleid-liner-prisma-9734-illya",
+    "mal_url": "https://myanimelist.net/anime/14829",
+    "mal_id": 14829,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/10834",
+        "dub": "https://www.animegg.org/embed/10835",
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-9734-illya-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/10832",
+        "dub": "https://www.animegg.org/embed/74216",
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-9734-illya-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/10830",
+        "dub": "https://www.animegg.org/embed/74215",
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-9734-illya-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/10831",
+        "dub": "https://www.animegg.org/embed/74214",
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-9734-illya-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/10833",
+        "dub": "https://www.animegg.org/embed/74213",
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-9734-illya-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/10838",
+        "dub": "https://www.animegg.org/embed/74212",
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-9734-illya-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/10837",
+        "dub": "https://www.animegg.org/embed/74211",
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-9734-illya-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/10836",
+        "dub": "https://www.animegg.org/embed/74210",
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-9734-illya-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/10839",
+        "dub": "https://www.animegg.org/embed/74209",
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-9734-illya-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/10840",
+        "dub": "https://www.animegg.org/embed/74208",
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-9734-illya-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/74207",
+        "dub": null,
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-illya-episode-11"
+      }
+    ]
   }
 ]
