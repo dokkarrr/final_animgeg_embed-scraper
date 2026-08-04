@@ -71400,5 +71400,93 @@
         "url": "https://www.animegg.org/the-idolm-ster-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 918,
+    "title": "Made in Abyss",
+    "animegg_url": "https://www.animegg.org/series/made-in-abyss",
+    "mal_url": "https://myanimelist.net/anime/34599",
+    "mal_id": 34599,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/87512",
+        "dub": null,
+        "url": "https://www.animegg.org/made-in-abyss-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/87589",
+        "dub": null,
+        "url": "https://www.animegg.org/made-in-abyss-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/87656",
+        "dub": null,
+        "url": "https://www.animegg.org/made-in-abyss-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/87730",
+        "dub": null,
+        "url": "https://www.animegg.org/made-in-abyss-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/87820",
+        "dub": null,
+        "url": "https://www.animegg.org/made-in-abyss-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/87892",
+        "dub": null,
+        "url": "https://www.animegg.org/made-in-abyss-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/88024",
+        "dub": null,
+        "url": "https://www.animegg.org/made-in-abyss-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/88057",
+        "dub": null,
+        "url": "https://www.animegg.org/made-in-abyss-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/88129",
+        "dub": null,
+        "url": "https://www.animegg.org/made-in-abyss-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/88212",
+        "dub": null,
+        "url": "https://www.animegg.org/made-in-abyss-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/88285",
+        "dub": null,
+        "url": "https://www.animegg.org/made-in-abyss-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/88379",
+        "dub": null,
+        "url": "https://www.animegg.org/made-in-abyss-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/88438",
+        "dub": null,
+        "url": "https://www.animegg.org/made-in-abyss-episode-13"
+      }
+    ]
   }
 ]
