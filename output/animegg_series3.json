@@ -60956,5 +60956,87 @@
         "url": "https://www.animegg.org/makura-no-danshi-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1987,
+    "title": "Yozakura Quartet",
+    "animegg_url": "https://www.animegg.org/series/yozakura-quartet",
+    "mal_url": "https://myanimelist.net/anime/4548",
+    "mal_id": 4548,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/41193",
+        "dub": null,
+        "url": "https://www.animegg.org/yozakura-quartet-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/41195",
+        "dub": null,
+        "url": "https://www.animegg.org/yozakura-quartet-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/41191",
+        "dub": null,
+        "url": "https://www.animegg.org/yozakura-quartet-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/41192",
+        "dub": null,
+        "url": "https://www.animegg.org/yozakura-quartet-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/41194",
+        "dub": null,
+        "url": "https://www.animegg.org/yozakura-quartet-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/41196",
+        "dub": null,
+        "url": "https://www.animegg.org/yozakura-quartet-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/41200",
+        "dub": null,
+        "url": "https://www.animegg.org/yozakura-quartet-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/41198",
+        "dub": null,
+        "url": "https://www.animegg.org/yozakura-quartet-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/41197",
+        "dub": null,
+        "url": "https://www.animegg.org/yozakura-quartet-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/41199",
+        "dub": null,
+        "url": "https://www.animegg.org/yozakura-quartet-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/41202",
+        "dub": null,
+        "url": "https://www.animegg.org/yozakura-quartet-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/41201",
+        "dub": null,
+        "url": "https://www.animegg.org/yozakura-quartet-episode-12"
+      }
+    ]
   }
 ]
