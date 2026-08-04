@@ -10856,5 +10856,93 @@
         "url": "https://www.animegg.org/arifureta-shokugyou-de-sekai-saikyou-2nd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 1627,
+    "title": "Tari Tari",
+    "animegg_url": "https://www.animegg.org/series/tari-tari",
+    "mal_url": "https://myanimelist.net/anime/13333",
+    "mal_id": 13333,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/37202",
+        "dub": null,
+        "url": "https://www.animegg.org/tari-tari-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/37200",
+        "dub": null,
+        "url": "https://www.animegg.org/tari-tari-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/37201",
+        "dub": null,
+        "url": "https://www.animegg.org/tari-tari-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/37198",
+        "dub": null,
+        "url": "https://www.animegg.org/tari-tari-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/37199",
+        "dub": null,
+        "url": "https://www.animegg.org/tari-tari-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/37206",
+        "dub": null,
+        "url": "https://www.animegg.org/tari-tari-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/37205",
+        "dub": null,
+        "url": "https://www.animegg.org/tari-tari-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/37203",
+        "dub": null,
+        "url": "https://www.animegg.org/tari-tari-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/37204",
+        "dub": null,
+        "url": "https://www.animegg.org/tari-tari-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/37207",
+        "dub": null,
+        "url": "https://www.animegg.org/tari-tari-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/37209",
+        "dub": null,
+        "url": "https://www.animegg.org/tari-tari-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/37208",
+        "dub": null,
+        "url": "https://www.animegg.org/tari-tari-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/37210",
+        "dub": null,
+        "url": "https://www.animegg.org/tari-tari-episode-13"
+      }
+    ]
   }
 ]
