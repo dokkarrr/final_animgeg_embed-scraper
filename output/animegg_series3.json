@@ -120613,5 +120613,87 @@
         "url": "https://www.animegg.org/fuufu-ijou-koibito-miman-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2551,
+    "title": "Asatte No Houkou",
+    "animegg_url": "https://www.animegg.org/series/asatte-no-houkou",
+    "mal_url": "https://myanimelist.net/anime/1554",
+    "mal_id": 1554,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/1831",
+        "dub": null,
+        "url": "https://www.animegg.org/asatte-no-houkou-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/1833",
+        "dub": null,
+        "url": "https://www.animegg.org/asatte-no-houkou-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/1830",
+        "dub": null,
+        "url": "https://www.animegg.org/asatte-no-houkou-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/1838",
+        "dub": null,
+        "url": "https://www.animegg.org/asatte-no-houkou-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/1832",
+        "dub": null,
+        "url": "https://www.animegg.org/asatte-no-houkou-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/1835",
+        "dub": null,
+        "url": "https://www.animegg.org/asatte-no-houkou-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/1834",
+        "dub": null,
+        "url": "https://www.animegg.org/asatte-no-houkou-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/1839",
+        "dub": null,
+        "url": "https://www.animegg.org/asatte-no-houkou-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/1841",
+        "dub": null,
+        "url": "https://www.animegg.org/asatte-no-houkou-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/1836",
+        "dub": null,
+        "url": "https://www.animegg.org/asatte-no-houkou-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/1837",
+        "dub": null,
+        "url": "https://www.animegg.org/asatte-no-houkou-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/1840",
+        "dub": null,
+        "url": "https://www.animegg.org/asatte-no-houkou-episode-12"
+      }
+    ]
   }
 ]
