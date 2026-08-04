@@ -67102,5 +67102,87 @@
         "url": "https://www.animegg.org/kaiba-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2046,
+    "title": "Mashle",
+    "animegg_url": "https://www.animegg.org/series/mashle",
+    "mal_url": "https://myanimelist.net/anime/52211",
+    "mal_id": 52211,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/107662",
+        "dub": null,
+        "url": "https://www.animegg.org/mashle-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/107745",
+        "dub": null,
+        "url": "https://www.animegg.org/mashle-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/107846",
+        "dub": null,
+        "url": "https://www.animegg.org/mashle-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/107871",
+        "dub": null,
+        "url": "https://www.animegg.org/mashle-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/107971",
+        "dub": null,
+        "url": "https://www.animegg.org/mashle-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/107972",
+        "dub": null,
+        "url": "https://www.animegg.org/mashle-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/108327",
+        "dub": null,
+        "url": "https://www.animegg.org/mashle-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/108813",
+        "dub": null,
+        "url": "https://www.animegg.org/mashle-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/129878",
+        "dub": null,
+        "url": "https://www.animegg.org/mashle-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/129879",
+        "dub": null,
+        "url": "https://www.animegg.org/mashle-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/129972",
+        "dub": null,
+        "url": "https://www.animegg.org/mashle-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/130026",
+        "dub": null,
+        "url": "https://www.animegg.org/mashle-episode-12"
+      }
+    ]
   }
 ]
