@@ -9294,5 +9294,81 @@
         "url": "https://www.animegg.org/rahxephon-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 1610,
+    "title": "Kamisama Minarai: Himitsu no Cocotama",
+    "animegg_url": "https://www.animegg.org/series/kamisama-minarai-himitsu-no-cocotama",
+    "mal_url": "https://myanimelist.net/anime/31044",
+    "mal_id": 31044,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/79251",
+        "dub": "https://www.animegg.org/embed/79761",
+        "url": "https://www.animegg.org/kamisama-minarai-himitsu-no-cocotama-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/79352",
+        "dub": "https://www.animegg.org/embed/80326",
+        "url": "https://www.animegg.org/kamisama-minarai-himitsu-no-cocotama-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/79481",
+        "dub": "https://www.animegg.org/embed/81241",
+        "url": "https://www.animegg.org/kamisama-minarai-himitsu-no-cocotama-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/79593",
+        "dub": "https://www.animegg.org/embed/88525",
+        "url": "https://www.animegg.org/kamisama-minarai-himitsu-no-cocotama-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/79692",
+        "dub": "https://www.animegg.org/embed/83318",
+        "url": "https://www.animegg.org/kamisama-minarai-himitsu-no-cocotama-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/79781",
+        "dub": "https://www.animegg.org/embed/83329",
+        "url": "https://www.animegg.org/kamisama-minarai-himitsu-no-cocotama-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/79965",
+        "dub": "https://www.animegg.org/embed/83338",
+        "url": "https://www.animegg.org/kamisama-minarai-himitsu-no-cocotama-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/80065",
+        "dub": "https://www.animegg.org/embed/83337",
+        "url": "https://www.animegg.org/kamisama-minarai-himitsu-no-cocotama-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/83370",
+        "dub": null,
+        "url": "https://www.animegg.org/kamisama-minarai-himitsu-no-cocotama-episode-9"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/87151",
+        "dub": null,
+        "url": "https://www.animegg.org/kamisama-minarai-himitsu-no-cocotama-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/87152",
+        "dub": null,
+        "url": "https://www.animegg.org/kamisama-minarai-himitsu-no-cocotama-episode-14"
+      }
+    ]
   }
 ]
