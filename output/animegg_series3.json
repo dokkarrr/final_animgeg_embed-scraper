@@ -78224,5 +78224,87 @@
         "url": "https://www.animegg.org/oretachi-ni-tsubasa-wa-nai-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2155,
+    "title": "Dies Irae",
+    "animegg_url": "https://www.animegg.org/series/dies-irae",
+    "mal_url": "https://myanimelist.net/anime/32271",
+    "mal_id": 32271,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/88547",
+        "dub": null,
+        "url": "https://www.animegg.org/dies-irae-episode-00"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/88645",
+        "dub": null,
+        "url": "https://www.animegg.org/dies-irae-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/88722",
+        "dub": null,
+        "url": "https://www.animegg.org/dies-irae-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/88810",
+        "dub": null,
+        "url": "https://www.animegg.org/dies-irae-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/88899",
+        "dub": null,
+        "url": "https://www.animegg.org/dies-irae-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/88985",
+        "dub": null,
+        "url": "https://www.animegg.org/dies-irae-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/88989",
+        "dub": null,
+        "url": "https://www.animegg.org/dies-irae-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/89150",
+        "dub": null,
+        "url": "https://www.animegg.org/dies-irae-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/89231",
+        "dub": null,
+        "url": "https://www.animegg.org/dies-irae-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/89305",
+        "dub": null,
+        "url": "https://www.animegg.org/dies-irae-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/89385",
+        "dub": null,
+        "url": "https://www.animegg.org/dies-irae-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/89460",
+        "dub": null,
+        "url": "https://www.animegg.org/dies-irae-episode-11"
+      }
+    ]
   }
 ]
