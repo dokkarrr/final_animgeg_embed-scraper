@@ -72530,5 +72530,87 @@
         "url": "https://www.animegg.org/tactical-roar-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2092,
+    "title": "Rolling☆Girls",
+    "animegg_url": "https://www.animegg.org/series/rolling-girls",
+    "mal_url": "https://myanimelist.net/anime/25867",
+    "mal_id": 25867,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/69998",
+        "dub": "https://www.animegg.org/embed/75161",
+        "url": "https://www.animegg.org/rolling-girls-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/73587",
+        "dub": "https://www.animegg.org/embed/75352",
+        "url": "https://www.animegg.org/rolling-girls-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/73701",
+        "dub": "https://www.animegg.org/embed/76496",
+        "url": "https://www.animegg.org/rolling-girls-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/74670",
+        "dub": "https://www.animegg.org/embed/75689",
+        "url": "https://www.animegg.org/rolling-girls-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/74818",
+        "dub": "https://www.animegg.org/embed/75793",
+        "url": "https://www.animegg.org/rolling-girls-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/74939",
+        "dub": "https://www.animegg.org/embed/76392",
+        "url": "https://www.animegg.org/rolling-girls-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/75060",
+        "dub": "https://www.animegg.org/embed/76391",
+        "url": "https://www.animegg.org/rolling-girls-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/75226",
+        "dub": "https://www.animegg.org/embed/76390",
+        "url": "https://www.animegg.org/rolling-girls-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/75443",
+        "dub": "https://www.animegg.org/embed/76373",
+        "url": "https://www.animegg.org/rolling-girls-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/75632",
+        "dub": "https://www.animegg.org/embed/76514",
+        "url": "https://www.animegg.org/rolling-girls-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/75763",
+        "dub": "https://www.animegg.org/embed/92593",
+        "url": "https://www.animegg.org/rolling-girls-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/75890",
+        "dub": null,
+        "url": "https://www.animegg.org/rolling-girls-episode-12"
+      }
+    ]
   }
 ]
