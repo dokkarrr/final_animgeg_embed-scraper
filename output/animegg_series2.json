@@ -116606,5 +116606,51 @@
         "url": "https://www.animegg.org/91-days-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 1181,
+    "title": "Attack on Titan Special",
+    "animegg_url": "https://www.animegg.org/series/shingeki-no-kyojin-specials",
+    "mal_url": "https://myanimelist.net/anime/19285",
+    "mal_id": 19285,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/34643",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-kyojin-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/34642",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-kyojin-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/34641",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-kyojin-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/34640",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-kyojin-specials-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/34639",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-kyojin-specials-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/34644",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-kyojin-specials-episode-6"
+      }
+    ]
   }
 ]
