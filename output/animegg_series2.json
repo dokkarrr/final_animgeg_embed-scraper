@@ -127620,5 +127620,93 @@
         "url": "https://www.animegg.org/saikyou-ginga-ultimate-zero-battle-spirits-episode-49"
       }
     ]
+  },
+  {
+    "serial_no": 1257,
+    "title": "Noblesse",
+    "animegg_url": "https://www.animegg.org/series/noblesse",
+    "mal_url": "https://myanimelist.net/anime/41345",
+    "mal_id": 41345,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/99541",
+        "dub": null,
+        "url": "https://www.animegg.org/noblesse-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/99616",
+        "dub": null,
+        "url": "https://www.animegg.org/noblesse-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/99705",
+        "dub": null,
+        "url": "https://www.animegg.org/noblesse-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/99770",
+        "dub": null,
+        "url": "https://www.animegg.org/noblesse-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/99839",
+        "dub": null,
+        "url": "https://www.animegg.org/noblesse-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/99911",
+        "dub": null,
+        "url": "https://www.animegg.org/noblesse-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/99975",
+        "dub": null,
+        "url": "https://www.animegg.org/noblesse-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/100041",
+        "dub": null,
+        "url": "https://www.animegg.org/noblesse-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/100109",
+        "dub": null,
+        "url": "https://www.animegg.org/noblesse-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/100202",
+        "dub": null,
+        "url": "https://www.animegg.org/noblesse-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/100267",
+        "dub": null,
+        "url": "https://www.animegg.org/noblesse-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/100329",
+        "dub": null,
+        "url": "https://www.animegg.org/noblesse-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/100377",
+        "dub": null,
+        "url": "https://www.animegg.org/noblesse-episode-13"
+      }
+    ]
   }
 ]
