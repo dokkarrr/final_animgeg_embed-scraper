@@ -1830,5 +1830,87 @@
         "url": "https://www.animegg.org/chain-chronicle-haecceitas-no-hikari-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1556,
+    "title": "Shigurui",
+    "animegg_url": "https://www.animegg.org/series/shigurui",
+    "mal_url": "https://myanimelist.net/anime/2216",
+    "mal_id": 2216,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/34447",
+        "dub": "https://www.animegg.org/embed/74118",
+        "url": "https://www.animegg.org/shigurui-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/34446",
+        "dub": "https://www.animegg.org/embed/74119",
+        "url": "https://www.animegg.org/shigurui-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/34444",
+        "dub": "https://www.animegg.org/embed/74120",
+        "url": "https://www.animegg.org/shigurui-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/34443",
+        "dub": "https://www.animegg.org/embed/74121",
+        "url": "https://www.animegg.org/shigurui-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/34445",
+        "dub": "https://www.animegg.org/embed/74122",
+        "url": "https://www.animegg.org/shigurui-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/34448",
+        "dub": "https://www.animegg.org/embed/74123",
+        "url": "https://www.animegg.org/shigurui-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/34450",
+        "dub": "https://www.animegg.org/embed/74124",
+        "url": "https://www.animegg.org/shigurui-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/34452",
+        "dub": "https://www.animegg.org/embed/74126",
+        "url": "https://www.animegg.org/shigurui-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/34449",
+        "dub": "https://www.animegg.org/embed/74129",
+        "url": "https://www.animegg.org/shigurui-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/34451",
+        "dub": "https://www.animegg.org/embed/74131",
+        "url": "https://www.animegg.org/shigurui-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/34453",
+        "dub": "https://www.animegg.org/embed/74132",
+        "url": "https://www.animegg.org/shigurui-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/34454",
+        "dub": "https://www.animegg.org/embed/74134",
+        "url": "https://www.animegg.org/shigurui-episode-12"
+      }
+    ]
   }
 ]
