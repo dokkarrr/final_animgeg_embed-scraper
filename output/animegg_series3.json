@@ -85088,5 +85088,93 @@
         "url": "https://www.animegg.org/higashi-no-eden-episode-11"
       }
     ]
+  },
+  {
+    "serial_no": 2191,
+    "title": "Final Approach",
+    "animegg_url": "https://www.animegg.org/series/final-approach",
+    "mal_url": "https://myanimelist.net/anime/119",
+    "mal_id": 119,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/10892",
+        "dub": null,
+        "url": "https://www.animegg.org/final-approach-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/10891",
+        "dub": null,
+        "url": "https://www.animegg.org/final-approach-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/10889",
+        "dub": null,
+        "url": "https://www.animegg.org/final-approach-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/10893",
+        "dub": null,
+        "url": "https://www.animegg.org/final-approach-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/10890",
+        "dub": null,
+        "url": "https://www.animegg.org/final-approach-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/10894",
+        "dub": null,
+        "url": "https://www.animegg.org/final-approach-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/10895",
+        "dub": null,
+        "url": "https://www.animegg.org/final-approach-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/10896",
+        "dub": null,
+        "url": "https://www.animegg.org/final-approach-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/10898",
+        "dub": null,
+        "url": "https://www.animegg.org/final-approach-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/10897",
+        "dub": null,
+        "url": "https://www.animegg.org/final-approach-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/10899",
+        "dub": null,
+        "url": "https://www.animegg.org/final-approach-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/10901",
+        "dub": null,
+        "url": "https://www.animegg.org/final-approach-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/10900",
+        "dub": null,
+        "url": "https://www.animegg.org/final-approach-episode-13"
+      }
+    ]
   }
 ]
