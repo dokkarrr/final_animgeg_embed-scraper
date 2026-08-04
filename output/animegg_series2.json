@@ -21214,5 +21214,93 @@
         "url": "https://www.animegg.org/spy-x-family-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 628,
+    "title": "K (TV)",
+    "animegg_url": "https://www.animegg.org/series/k",
+    "mal_url": "https://myanimelist.net/anime/10014",
+    "mal_id": 10014,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/18814",
+        "dub": "https://www.animegg.org/embed/18815",
+        "url": "https://www.animegg.org/k-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/18818",
+        "dub": "https://www.animegg.org/embed/18819",
+        "url": "https://www.animegg.org/k-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/18812",
+        "dub": "https://www.animegg.org/embed/18813",
+        "url": "https://www.animegg.org/k-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/18810",
+        "dub": "https://www.animegg.org/embed/18811",
+        "url": "https://www.animegg.org/k-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/18816",
+        "dub": "https://www.animegg.org/embed/18817",
+        "url": "https://www.animegg.org/k-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/18823",
+        "dub": null,
+        "url": "https://www.animegg.org/k-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/18824",
+        "dub": "https://www.animegg.org/embed/18825",
+        "url": "https://www.animegg.org/k-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/18820",
+        "dub": "https://www.animegg.org/embed/18821",
+        "url": "https://www.animegg.org/k-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/18826",
+        "dub": "https://www.animegg.org/embed/18827",
+        "url": "https://www.animegg.org/k-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/18828",
+        "dub": "https://www.animegg.org/embed/18829",
+        "url": "https://www.animegg.org/k-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/18832",
+        "dub": "https://www.animegg.org/embed/18833",
+        "url": "https://www.animegg.org/k-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/18830",
+        "dub": "https://www.animegg.org/embed/18831",
+        "url": "https://www.animegg.org/k-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/18834",
+        "dub": "https://www.animegg.org/embed/95473",
+        "url": "https://www.animegg.org/k-episode-13"
+      }
+    ]
   }
 ]
