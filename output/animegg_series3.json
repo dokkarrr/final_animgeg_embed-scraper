@@ -73150,5 +73150,135 @@
         "url": "https://www.animegg.org/hourou-musuko-episode-11"
       }
     ]
+  },
+  {
+    "serial_no": 2100,
+    "title": "Sakamoto Days",
+    "animegg_url": "https://www.animegg.org/series/sakamoto-days",
+    "mal_url": "https://myanimelist.net/anime/58939",
+    "mal_id": 58939,
+    "total_ep": 20,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/139350",
+        "dub": "https://www.animegg.org/embed/139351",
+        "url": "https://www.animegg.org/sakamoto-days-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/139348",
+        "dub": "https://www.animegg.org/embed/139349",
+        "url": "https://www.animegg.org/sakamoto-days-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/139451",
+        "dub": null,
+        "url": "https://www.animegg.org/sakamoto-days-episode-3"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/139572",
+        "dub": "https://www.animegg.org/embed/139579",
+        "url": "https://www.animegg.org/sakamoto-days-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/139680",
+        "dub": "https://www.animegg.org/embed/139683",
+        "url": "https://www.animegg.org/sakamoto-days-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/139770",
+        "dub": null,
+        "url": "https://www.animegg.org/sakamoto-days-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/139860",
+        "dub": "https://www.animegg.org/embed/139874",
+        "url": "https://www.animegg.org/sakamoto-days-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/139969",
+        "dub": "https://www.animegg.org/embed/139973",
+        "url": "https://www.animegg.org/sakamoto-days-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/140052",
+        "dub": "https://www.animegg.org/embed/140056",
+        "url": "https://www.animegg.org/sakamoto-days-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/140147",
+        "dub": "https://www.animegg.org/embed/140148",
+        "url": "https://www.animegg.org/sakamoto-days-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/141724",
+        "dub": "https://www.animegg.org/embed/141729",
+        "url": "https://www.animegg.org/sakamoto-days-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/141722",
+        "dub": "https://www.animegg.org/embed/141725",
+        "url": "https://www.animegg.org/sakamoto-days-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/141836",
+        "dub": "https://www.animegg.org/embed/141838",
+        "url": "https://www.animegg.org/sakamoto-days-episode-14"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/141952",
+        "dub": "https://www.animegg.org/embed/141955",
+        "url": "https://www.animegg.org/sakamoto-days-episode-15"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/142077",
+        "dub": "https://www.animegg.org/embed/142078",
+        "url": "https://www.animegg.org/sakamoto-days-episode-16"
+      },
+      {
+        "ep": 17,
+        "sub": "https://www.animegg.org/embed/142194",
+        "dub": "https://www.animegg.org/embed/142195",
+        "url": "https://www.animegg.org/sakamoto-days-episode-17"
+      },
+      {
+        "ep": 18,
+        "sub": "https://www.animegg.org/embed/142316",
+        "dub": "https://www.animegg.org/embed/142317",
+        "url": "https://www.animegg.org/sakamoto-days-episode-18"
+      },
+      {
+        "ep": 20,
+        "sub": "https://www.animegg.org/embed/142425",
+        "dub": "https://www.animegg.org/embed/142429",
+        "url": "https://www.animegg.org/sakamoto-days-episode-20"
+      },
+      {
+        "ep": 21,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/sakamoto-days-episode-21"
+      },
+      {
+        "ep": 22,
+        "sub": "https://www.animegg.org/embed/142576",
+        "dub": "https://www.animegg.org/embed/142579",
+        "url": "https://www.animegg.org/sakamoto-days-episode-22"
+      }
+    ]
   }
 ]
