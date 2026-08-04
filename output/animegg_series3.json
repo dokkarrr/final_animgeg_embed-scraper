@@ -84636,5 +84636,87 @@
         "url": "https://www.animegg.org/melancholy-of-haruhi-chan-suzumiya-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 2186,
+    "title": "Hanamaru Kindergarten",
+    "animegg_url": "https://www.animegg.org/series/hanamaru-kindergarten",
+    "mal_url": "https://myanimelist.net/anime/6574",
+    "mal_id": 6574,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/15245",
+        "dub": null,
+        "url": "https://www.animegg.org/hanamaru-kindergarten-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/15244",
+        "dub": null,
+        "url": "https://www.animegg.org/hanamaru-kindergarten-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/15243",
+        "dub": null,
+        "url": "https://www.animegg.org/hanamaru-kindergarten-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/15241",
+        "dub": null,
+        "url": "https://www.animegg.org/hanamaru-kindergarten-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/15242",
+        "dub": null,
+        "url": "https://www.animegg.org/hanamaru-kindergarten-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/15247",
+        "dub": null,
+        "url": "https://www.animegg.org/hanamaru-kindergarten-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/15246",
+        "dub": null,
+        "url": "https://www.animegg.org/hanamaru-kindergarten-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/15248",
+        "dub": null,
+        "url": "https://www.animegg.org/hanamaru-kindergarten-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/15249",
+        "dub": null,
+        "url": "https://www.animegg.org/hanamaru-kindergarten-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/15250",
+        "dub": null,
+        "url": "https://www.animegg.org/hanamaru-kindergarten-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/15251",
+        "dub": null,
+        "url": "https://www.animegg.org/hanamaru-kindergarten-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/15252",
+        "dub": null,
+        "url": "https://www.animegg.org/hanamaru-kindergarten-episode-12"
+      }
+    ]
   }
 ]
