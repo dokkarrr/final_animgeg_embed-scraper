@@ -42080,5 +42080,93 @@
         "url": "https://www.animegg.org/doraemon-episode-1694"
       }
     ]
+  },
+  {
+    "serial_no": 743,
+    "title": "Tales of Zestiria the X",
+    "animegg_url": "https://www.animegg.org/series/tales-of-zestiria-the-x",
+    "mal_url": "https://myanimelist.net/anime/30911",
+    "mal_id": 30911,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/82931",
+        "dub": null,
+        "url": "https://www.animegg.org/talesofzestiria-thex-episode-1-3165"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/83016",
+        "dub": null,
+        "url": "https://www.animegg.org/talesofzestiria-thex-episode-2-3716"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/83121",
+        "dub": null,
+        "url": "https://www.animegg.org/talesofzestiria-thex-episode-3-8135"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/83230",
+        "dub": null,
+        "url": "https://www.animegg.org/talesofzestiria-thex-episode-4-8454-5373"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/83316",
+        "dub": null,
+        "url": "https://www.animegg.org/talesofzestiria-the-x-episode-5-9668-5812"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/83405",
+        "dub": null,
+        "url": "https://www.animegg.org/tales-of-zestiria-the-x-episode-6-7681"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/83495",
+        "dub": null,
+        "url": "https://www.animegg.org/tales-of-zestiria-the-x-episode-7-4024"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/83578",
+        "dub": null,
+        "url": "https://www.animegg.org/tales-of-zestiria-the-x-episode-8-6273"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/83665",
+        "dub": "https://www.animegg.org/embed/83676",
+        "url": "https://www.animegg.org/tales-of-zestiria-the-x-episode-9-8960"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/83763",
+        "dub": null,
+        "url": "https://www.animegg.org/tales-of-zestiria-the-x-episode-10-7792"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/83842",
+        "dub": null,
+        "url": "https://www.animegg.org/tales-of-zestiria-the-x-episode-11-2268"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/83928",
+        "dub": null,
+        "url": "https://www.animegg.org/tales-of-zestiria-the-x-episode-12-5176"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/84015",
+        "dub": null,
+        "url": "https://www.animegg.org/tales-of-zestiria-the-x-episode-13-2983"
+      }
+    ]
   }
 ]
