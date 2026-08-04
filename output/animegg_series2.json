@@ -27856,5 +27856,93 @@
         "url": "https://www.animegg.org/fresh-precure-episode-50"
       }
     ]
+  },
+  {
+    "serial_no": 664,
+    "title": "Maoyuu Maou Yuusha",
+    "animegg_url": "https://www.animegg.org/series/maoyuu-maou-yuusha",
+    "mal_url": "https://myanimelist.net/anime/14833",
+    "mal_id": 14833,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/23111",
+        "dub": null,
+        "url": "https://www.animegg.org/maoyuu-maou-yuusha-episode-0"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/23103",
+        "dub": null,
+        "url": "https://www.animegg.org/maoyuu-maou-yuusha-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/23102",
+        "dub": null,
+        "url": "https://www.animegg.org/maoyuu-maou-yuusha-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/23101",
+        "dub": null,
+        "url": "https://www.animegg.org/maoyuu-maou-yuusha-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/23100",
+        "dub": null,
+        "url": "https://www.animegg.org/maoyuu-maou-yuusha-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/23099",
+        "dub": null,
+        "url": "https://www.animegg.org/maoyuu-maou-yuusha-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/23104",
+        "dub": null,
+        "url": "https://www.animegg.org/maoyuu-maou-yuusha-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/23106",
+        "dub": null,
+        "url": "https://www.animegg.org/maoyuu-maou-yuusha-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/23105",
+        "dub": null,
+        "url": "https://www.animegg.org/maoyuu-maou-yuusha-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/23107",
+        "dub": null,
+        "url": "https://www.animegg.org/maoyuu-maou-yuusha-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/23108",
+        "dub": null,
+        "url": "https://www.animegg.org/maoyuu-maou-yuusha-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/23109",
+        "dub": null,
+        "url": "https://www.animegg.org/maoyuu-maou-yuusha-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/23110",
+        "dub": null,
+        "url": "https://www.animegg.org/maoyuu-maou-yuusha-episode-12"
+      }
+    ]
   }
 ]
