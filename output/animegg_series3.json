@@ -120273,5 +120273,99 @@
         "url": "https://www.animegg.org/udon-no-kuni-no-kiniro-kemari-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2547,
+    "title": "Ore-sama Kingdom",
+    "animegg_url": "https://www.animegg.org/series/ore-sama-kingdom",
+    "mal_url": "https://myanimelist.net/anime/153",
+    "mal_id": 153,
+    "total_ep": 14,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/28791",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-sama-kingdom-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/28790",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-sama-kingdom-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/98042",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-sama-kingdom-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/98043",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-sama-kingdom-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/98044",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-sama-kingdom-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/98045",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-sama-kingdom-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/98333",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-sama-kingdom-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ore-sama-kingdom-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ore-sama-kingdom-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ore-sama-kingdom-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ore-sama-kingdom-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ore-sama-kingdom-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ore-sama-kingdom-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ore-sama-kingdom-episode-14"
+      }
+    ]
   }
 ]
