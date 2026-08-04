@@ -2624,5 +2624,87 @@
         "url": "https://www.animegg.org/battle-athletes-victory-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 1564,
+    "title": "MM!",
+    "animegg_url": "https://www.animegg.org/series/mm",
+    "mal_url": "https://myanimelist.net/anime/8424",
+    "mal_id": 8424,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/24321",
+        "dub": "https://www.animegg.org/embed/24322",
+        "url": "https://www.animegg.org/mm-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/24315",
+        "dub": "https://www.animegg.org/embed/24316",
+        "url": "https://www.animegg.org/mm-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/24319",
+        "dub": "https://www.animegg.org/embed/24320",
+        "url": "https://www.animegg.org/mm-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/24317",
+        "dub": "https://www.animegg.org/embed/24318",
+        "url": "https://www.animegg.org/mm-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/24323",
+        "dub": "https://www.animegg.org/embed/24324",
+        "url": "https://www.animegg.org/mm-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/24325",
+        "dub": "https://www.animegg.org/embed/24326",
+        "url": "https://www.animegg.org/mm-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/24327",
+        "dub": "https://www.animegg.org/embed/24328",
+        "url": "https://www.animegg.org/mm-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/24329",
+        "dub": "https://www.animegg.org/embed/24330",
+        "url": "https://www.animegg.org/mm-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/24331",
+        "dub": "https://www.animegg.org/embed/24332",
+        "url": "https://www.animegg.org/mm-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/24333",
+        "dub": "https://www.animegg.org/embed/24334",
+        "url": "https://www.animegg.org/mm-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/24335",
+        "dub": "https://www.animegg.org/embed/24336",
+        "url": "https://www.animegg.org/mm-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/24337",
+        "dub": "https://www.animegg.org/embed/24338",
+        "url": "https://www.animegg.org/mm-episode-12"
+      }
+    ]
   }
 ]
