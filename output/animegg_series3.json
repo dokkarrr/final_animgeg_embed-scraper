@@ -87108,5 +87108,93 @@
         "url": "https://www.animegg.org/jinrui-wa-suitai-shimashita-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2210,
+    "title": "Yami Shibai 3",
+    "animegg_url": "https://www.animegg.org/series/yami-shibai-3rd-season",
+    "mal_url": "https://myanimelist.net/anime/31994",
+    "mal_id": 31994,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/81800",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-3rd-season-episode-13"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/81720",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-3rd-season-episode-12"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/81636",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-3rd-season-episode-11"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/81538",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-3rd-season-episode-10"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/81440",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-3rd-season-episode-9"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/81355",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-3rd-season-episode-8"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/81231",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-3rd-season-episode-7"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/81133",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-3rd-season-episode-6"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/81045",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-3rd-season-episode-5"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/81042",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-3rd-season-episode-4"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/80841",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-3rd-season-episode-3"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/80734",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-3rd-season-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/80638",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-3rd-season-episode-1"
+      }
+    ]
   }
 ]
