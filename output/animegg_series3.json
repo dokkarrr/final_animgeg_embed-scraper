@@ -95172,5 +95172,135 @@
         "url": "https://www.animegg.org/gintama-enchousen-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2282,
+    "title": "Yoiko",
+    "animegg_url": "https://www.animegg.org/series/yoiko",
+    "mal_url": "https://myanimelist.net/anime/4591",
+    "mal_id": 4591,
+    "total_ep": 20,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/41051",
+        "dub": null,
+        "url": "https://www.animegg.org/yoiko-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/41053",
+        "dub": null,
+        "url": "https://www.animegg.org/yoiko-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/41054",
+        "dub": null,
+        "url": "https://www.animegg.org/yoiko-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/41052",
+        "dub": null,
+        "url": "https://www.animegg.org/yoiko-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/41050",
+        "dub": null,
+        "url": "https://www.animegg.org/yoiko-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/41055",
+        "dub": null,
+        "url": "https://www.animegg.org/yoiko-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/41056",
+        "dub": null,
+        "url": "https://www.animegg.org/yoiko-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/41057",
+        "dub": null,
+        "url": "https://www.animegg.org/yoiko-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/41058",
+        "dub": null,
+        "url": "https://www.animegg.org/yoiko-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/41059",
+        "dub": null,
+        "url": "https://www.animegg.org/yoiko-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/41060",
+        "dub": null,
+        "url": "https://www.animegg.org/yoiko-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/41061",
+        "dub": null,
+        "url": "https://www.animegg.org/yoiko-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/41062",
+        "dub": null,
+        "url": "https://www.animegg.org/yoiko-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/41063",
+        "dub": null,
+        "url": "https://www.animegg.org/yoiko-episode-14"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/41064",
+        "dub": null,
+        "url": "https://www.animegg.org/yoiko-episode-15"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/41065",
+        "dub": null,
+        "url": "https://www.animegg.org/yoiko-episode-16"
+      },
+      {
+        "ep": 17,
+        "sub": "https://www.animegg.org/embed/41066",
+        "dub": null,
+        "url": "https://www.animegg.org/yoiko-episode-17"
+      },
+      {
+        "ep": 18,
+        "sub": "https://www.animegg.org/embed/41068",
+        "dub": null,
+        "url": "https://www.animegg.org/yoiko-episode-18"
+      },
+      {
+        "ep": 19,
+        "sub": "https://www.animegg.org/embed/41067",
+        "dub": null,
+        "url": "https://www.animegg.org/yoiko-episode-19"
+      },
+      {
+        "ep": 20,
+        "sub": "https://www.animegg.org/embed/41069",
+        "dub": null,
+        "url": "https://www.animegg.org/yoiko-episode-20"
+      }
+    ]
   }
 ]
