@@ -8452,5 +8452,87 @@
         "url": "https://www.animegg.org/romeo-no-aoi-sora-episode-33"
       }
     ]
+  },
+  {
+    "serial_no": 1602,
+    "title": "Gin no Guardian",
+    "animegg_url": "https://www.animegg.org/series/gin-no-guardian",
+    "mal_url": "https://myanimelist.net/anime/32936",
+    "mal_id": 32936,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/86415",
+        "dub": null,
+        "url": "https://www.animegg.org/gin-no-guardian-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/86495",
+        "dub": null,
+        "url": "https://www.animegg.org/gin-no-guardian-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/86591",
+        "dub": null,
+        "url": "https://www.animegg.org/gin-no-guardian-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/86685",
+        "dub": null,
+        "url": "https://www.animegg.org/gin-no-guardian-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/86768",
+        "dub": null,
+        "url": "https://www.animegg.org/gin-no-guardian-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/86843",
+        "dub": null,
+        "url": "https://www.animegg.org/gin-no-guardian-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/86923",
+        "dub": null,
+        "url": "https://www.animegg.org/gin-no-guardian-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/87004",
+        "dub": null,
+        "url": "https://www.animegg.org/gin-no-guardian-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/87083",
+        "dub": null,
+        "url": "https://www.animegg.org/gin-no-guardian-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/87201",
+        "dub": null,
+        "url": "https://www.animegg.org/gin-no-guardian-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/87245",
+        "dub": null,
+        "url": "https://www.animegg.org/gin-no-guardian-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/87313",
+        "dub": null,
+        "url": "https://www.animegg.org/gin-no-guardian-episode-12"
+      }
+    ]
   }
 ]
