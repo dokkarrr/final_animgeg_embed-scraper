@@ -65140,5 +65140,39 @@
         "url": "https://www.animegg.org/monster-strike-2-episode-0"
       }
     ]
+  },
+  {
+    "serial_no": 2025,
+    "title": "Digimon Adventure Tri.",
+    "animegg_url": "https://www.animegg.org/series/digimon-adventure-tri",
+    "mal_url": "https://myanimelist.net/anime/32551",
+    "mal_id": 32551,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/79972",
+        "dub": null,
+        "url": "https://www.animegg.org/digimon-adventure-tri-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/79973",
+        "dub": null,
+        "url": "https://www.animegg.org/digimon-adventure-tri-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/79974",
+        "dub": null,
+        "url": "https://www.animegg.org/digimon-adventure-tri-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/79975",
+        "dub": null,
+        "url": "https://www.animegg.org/digimon-adventure-tri-episode-4"
+      }
+    ]
   }
 ]
