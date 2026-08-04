@@ -132829,5 +132829,99 @@
         "url": "https://www.animegg.org/jubei-chan-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2671,
+    "title": "World Trigger 3rd Season",
+    "animegg_url": "https://www.animegg.org/series/world-trigger-3rd-season",
+    "mal_url": "https://myanimelist.net/anime/44940",
+    "mal_id": 44940,
+    "total_ep": 14,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/103836",
+        "dub": null,
+        "url": "https://www.animegg.org/world-trigger-3rd-season-episode-14"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/103737",
+        "dub": null,
+        "url": "https://www.animegg.org/world-trigger-3rd-season-episode-13"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/103671",
+        "dub": null,
+        "url": "https://www.animegg.org/world-trigger-3rd-season-episode-12"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/103622",
+        "dub": null,
+        "url": "https://www.animegg.org/world-trigger-3rd-season-episode-11"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/103566",
+        "dub": null,
+        "url": "https://www.animegg.org/world-trigger-3rd-season-episode-10"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/103490",
+        "dub": null,
+        "url": "https://www.animegg.org/world-trigger-3rd-season-episode-9"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/103432",
+        "dub": null,
+        "url": "https://www.animegg.org/world-trigger-3rd-season-episode-8"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/103372",
+        "dub": null,
+        "url": "https://www.animegg.org/world-trigger-3rd-season-episode-7"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/103310",
+        "dub": null,
+        "url": "https://www.animegg.org/world-trigger-3rd-season-episode-6"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/103253",
+        "dub": null,
+        "url": "https://www.animegg.org/world-trigger-3rd-season-episode-5"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/103187",
+        "dub": null,
+        "url": "https://www.animegg.org/world-trigger-3rd-season-episode-4"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/103123",
+        "dub": null,
+        "url": "https://www.animegg.org/world-trigger-3rd-season-episode-3"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/103061",
+        "dub": null,
+        "url": "https://www.animegg.org/world-trigger-3rd-season-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/102992",
+        "dub": null,
+        "url": "https://www.animegg.org/world-trigger-3rd-season-episode-1"
+      }
+    ]
   }
 ]
