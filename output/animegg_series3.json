@@ -37398,5 +37398,51 @@
         "url": "https://www.animegg.org/samurai-flamenco-episode-22"
       }
     ]
+  },
+  {
+    "serial_no": 1799,
+    "title": "FLCL",
+    "animegg_url": "https://www.animegg.org/series/flcl",
+    "mal_url": "https://myanimelist.net/anime/227",
+    "mal_id": 227,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/11019",
+        "dub": "https://www.animegg.org/embed/11020",
+        "url": "https://www.animegg.org/flcl-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/11015",
+        "dub": "https://www.animegg.org/embed/11016",
+        "url": "https://www.animegg.org/flcl-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/11013",
+        "dub": "https://www.animegg.org/embed/11014",
+        "url": "https://www.animegg.org/flcl-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/11017",
+        "dub": "https://www.animegg.org/embed/11018",
+        "url": "https://www.animegg.org/flcl-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/11011",
+        "dub": "https://www.animegg.org/embed/11012",
+        "url": "https://www.animegg.org/flcl-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/11021",
+        "dub": "https://www.animegg.org/embed/11022",
+        "url": "https://www.animegg.org/flcl-episode-6"
+      }
+    ]
   }
 ]
