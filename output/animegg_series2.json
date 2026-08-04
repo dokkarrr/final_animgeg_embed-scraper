@@ -11210,5 +11210,93 @@
         "url": "https://www.animegg.org/kung-fu-panda-legends-of-awesomeness-episode-60"
       }
     ]
+  },
+  {
+    "serial_no": 563,
+    "title": "Fate/stay night: Unlimited Blade Works (TV)",
+    "animegg_url": "https://www.animegg.org/series/fatestay-night-unlimited-blade-works-tv",
+    "mal_url": "https://myanimelist.net/anime/22297",
+    "mal_id": 22297,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66470",
+        "dub": null,
+        "url": "https://www.animegg.org/fatestay-night-unlimited-blade-works-tv-episode-1"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66469",
+        "dub": null,
+        "url": "https://www.animegg.org/fatestay-night-unlimited-blade-works-tv-episode-0"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/66471",
+        "dub": null,
+        "url": "https://www.animegg.org/fatestay-night-unlimited-blade-works-tv-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/66472",
+        "dub": "https://www.animegg.org/embed/66473",
+        "url": "https://www.animegg.org/fatestay-night-unlimited-blade-works-tv-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/66474",
+        "dub": null,
+        "url": "https://www.animegg.org/fatestay-night-unlimited-blade-works-tv-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/66589",
+        "dub": null,
+        "url": "https://www.animegg.org/fatestay-night-unlimited-blade-works-tv-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/66876",
+        "dub": null,
+        "url": "https://www.animegg.org/fatestay-night-unlimited-blade-works-tv-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/67174",
+        "dub": null,
+        "url": "https://www.animegg.org/fatestay-night-unlimited-blade-works-tv-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/67310",
+        "dub": null,
+        "url": "https://www.animegg.org/fatestay-night-unlimited-blade-works-tv-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/67432",
+        "dub": null,
+        "url": "https://www.animegg.org/fatestay-night-unlimited-blade-works-tv-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/67562",
+        "dub": null,
+        "url": "https://www.animegg.org/fatestay-night-unlimited-blade-works-tv-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/67671",
+        "dub": null,
+        "url": "https://www.animegg.org/fatestay-night-unlimited-blade-works-tv-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/67765",
+        "dub": "https://www.animegg.org/embed/67774",
+        "url": "https://www.animegg.org/fatestay-night-unlimited-blade-works-tv-episode-12"
+      }
+    ]
   }
 ]
