@@ -114086,5 +114086,87 @@
         "url": "https://www.animegg.org/nana-to-kaoru-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 2476,
+    "title": "House of Five Leaves",
+    "animegg_url": "https://www.animegg.org/series/house-of-five-leaves",
+    "mal_url": "https://myanimelist.net/anime/7588",
+    "mal_id": 7588,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/16784",
+        "dub": null,
+        "url": "https://www.animegg.org/house-of-five-leaves-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/16783",
+        "dub": null,
+        "url": "https://www.animegg.org/house-of-five-leaves-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/16781",
+        "dub": null,
+        "url": "https://www.animegg.org/house-of-five-leaves-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/16782",
+        "dub": null,
+        "url": "https://www.animegg.org/house-of-five-leaves-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/16780",
+        "dub": null,
+        "url": "https://www.animegg.org/house-of-five-leaves-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/16786",
+        "dub": null,
+        "url": "https://www.animegg.org/house-of-five-leaves-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/16785",
+        "dub": null,
+        "url": "https://www.animegg.org/house-of-five-leaves-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/16787",
+        "dub": null,
+        "url": "https://www.animegg.org/house-of-five-leaves-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/16788",
+        "dub": null,
+        "url": "https://www.animegg.org/house-of-five-leaves-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/16789",
+        "dub": null,
+        "url": "https://www.animegg.org/house-of-five-leaves-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/16790",
+        "dub": null,
+        "url": "https://www.animegg.org/house-of-five-leaves-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/16791",
+        "dub": null,
+        "url": "https://www.animegg.org/house-of-five-leaves-episode-12"
+      }
+    ]
   }
 ]
