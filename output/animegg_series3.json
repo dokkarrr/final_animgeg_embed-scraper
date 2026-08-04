@@ -75666,5 +75666,87 @@
         "url": "https://www.animegg.org/to-heart-remember-my-memories-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2126,
+    "title": "Kenzen Robo Daimidaler",
+    "animegg_url": "https://www.animegg.org/series/kenzen-robo-daimidaler",
+    "mal_url": "https://myanimelist.net/anime/21809",
+    "mal_id": 21809,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/19964",
+        "dub": null,
+        "url": "https://www.animegg.org/kenzen-robo-daimidaler-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/19963",
+        "dub": null,
+        "url": "https://www.animegg.org/kenzen-robo-daimidaler-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/19962",
+        "dub": null,
+        "url": "https://www.animegg.org/kenzen-robo-daimidaler-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/19961",
+        "dub": null,
+        "url": "https://www.animegg.org/kenzen-robo-daimidaler-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/19966",
+        "dub": null,
+        "url": "https://www.animegg.org/kenzen-robo-daimidaler-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/19965",
+        "dub": null,
+        "url": "https://www.animegg.org/kenzen-robo-daimidaler-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/19967",
+        "dub": null,
+        "url": "https://www.animegg.org/kenzen-robo-daimidaler-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/19968",
+        "dub": null,
+        "url": "https://www.animegg.org/kenzen-robo-daimidaler-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/19969",
+        "dub": null,
+        "url": "https://www.animegg.org/kenzen-robo-daimidaler-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/19970",
+        "dub": null,
+        "url": "https://www.animegg.org/kenzen-robo-daimidaler-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/19971",
+        "dub": null,
+        "url": "https://www.animegg.org/kenzen-robo-daimidaler-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/19972",
+        "dub": null,
+        "url": "https://www.animegg.org/kenzen-robo-daimidaler-episode-12"
+      }
+    ]
   }
 ]
