@@ -44716,5 +44716,87 @@
         "url": "https://www.animegg.org/abenobashi-mahou-shotengai-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 1866,
+    "title": "Gunparade March",
+    "animegg_url": "https://www.animegg.org/series/gunparade-march",
+    "mal_url": "https://myanimelist.net/anime/266",
+    "mal_id": 266,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/14641",
+        "dub": "https://www.animegg.org/embed/71017",
+        "url": "https://www.animegg.org/gunparade-march-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/14637",
+        "dub": "https://www.animegg.org/embed/71019",
+        "url": "https://www.animegg.org/gunparade-march-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/14638",
+        "dub": "https://www.animegg.org/embed/71020",
+        "url": "https://www.animegg.org/gunparade-march-episode-3-5270"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/14639",
+        "dub": "https://www.animegg.org/embed/71022",
+        "url": "https://www.animegg.org/gunparade-march-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/14640",
+        "dub": "https://www.animegg.org/embed/71023",
+        "url": "https://www.animegg.org/gunparade-march-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/14643",
+        "dub": "https://www.animegg.org/embed/71025",
+        "url": "https://www.animegg.org/gunparade-march-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/14644",
+        "dub": "https://www.animegg.org/embed/71027",
+        "url": "https://www.animegg.org/gunparade-march-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/14642",
+        "dub": "https://www.animegg.org/embed/71028",
+        "url": "https://www.animegg.org/gunparade-march-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/14645",
+        "dub": "https://www.animegg.org/embed/71031",
+        "url": "https://www.animegg.org/gunparade-march-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/14646",
+        "dub": "https://www.animegg.org/embed/71033",
+        "url": "https://www.animegg.org/gunparade-march-episode-10-8683"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/14648",
+        "dub": "https://www.animegg.org/embed/71035",
+        "url": "https://www.animegg.org/gunparade-march-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/14647",
+        "dub": "https://www.animegg.org/embed/71036",
+        "url": "https://www.animegg.org/gunparade-march-episode-12"
+      }
+    ]
   }
 ]
