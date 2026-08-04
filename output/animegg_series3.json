@@ -1266,5 +1266,87 @@
         "url": "https://www.animegg.org/seitokai-no-ichizon-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1550,
+    "title": "Uzaki-chan wa Asobitai!",
+    "animegg_url": "https://www.animegg.org/series/uzaki-chan-wa-asobitai",
+    "mal_url": "https://myanimelist.net/anime/41226",
+    "mal_id": 41226,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/98898",
+        "dub": null,
+        "url": "https://www.animegg.org/uzaki-chan-wa-asobitai-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/98941",
+        "dub": null,
+        "url": "https://www.animegg.org/uzaki-chan-wa-asobitai-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/98980",
+        "dub": null,
+        "url": "https://www.animegg.org/uzaki-chan-wa-asobitai-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/99025",
+        "dub": null,
+        "url": "https://www.animegg.org/uzaki-chan-wa-asobitai-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/99086",
+        "dub": null,
+        "url": "https://www.animegg.org/uzaki-chan-wa-asobitai-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/99125",
+        "dub": null,
+        "url": "https://www.animegg.org/uzaki-chan-wa-asobitai-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/99168",
+        "dub": null,
+        "url": "https://www.animegg.org/uzaki-chan-wa-asobitai-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/99208",
+        "dub": null,
+        "url": "https://www.animegg.org/uzaki-chan-wa-asobitai-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/99251",
+        "dub": null,
+        "url": "https://www.animegg.org/uzaki-chan-wa-asobitai-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/99289",
+        "dub": null,
+        "url": "https://www.animegg.org/uzaki-chan-wa-asobitai-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/99370",
+        "dub": null,
+        "url": "https://www.animegg.org/uzaki-chan-wa-asobitai-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/99424",
+        "dub": null,
+        "url": "https://www.animegg.org/uzaki-chan-wa-asobitai-episode-12"
+      }
+    ]
   }
 ]
