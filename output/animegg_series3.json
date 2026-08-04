@@ -101034,5 +101034,57 @@
         "url": "https://www.animegg.org/pita-ten-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 2339,
+    "title": "Kimetsu no Yaiba: Mugen Ressha-hen (TV)",
+    "animegg_url": "https://www.animegg.org/series/kimetsu-no-yaiba-mugen-ressha-hen-tv",
+    "mal_url": "https://myanimelist.net/anime/40456",
+    "mal_id": 40456,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/103012",
+        "dub": null,
+        "url": "https://www.animegg.org/kimetsu-no-yaiba-mugen-ressha-hen-tv-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/103073",
+        "dub": null,
+        "url": "https://www.animegg.org/kimetsu-no-yaiba-mugen-ressha-hen-tv-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/103137",
+        "dub": null,
+        "url": "https://www.animegg.org/kimetsu-no-yaiba-mugen-ressha-hen-tv-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/103263",
+        "dub": null,
+        "url": "https://www.animegg.org/kimetsu-no-yaiba-mugen-ressha-hen-tv-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/103323",
+        "dub": null,
+        "url": "https://www.animegg.org/kimetsu-no-yaiba-mugen-ressha-hen-tv-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/103380",
+        "dub": null,
+        "url": "https://www.animegg.org/kimetsu-no-yaiba-mugen-ressha-hen-tv-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/103441",
+        "dub": null,
+        "url": "https://www.animegg.org/kimetsu-no-yaiba-mugen-ressha-hen-tv-episode-7"
+      }
+    ]
   }
 ]
