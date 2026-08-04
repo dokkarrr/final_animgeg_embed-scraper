@@ -63420,5 +63420,87 @@
         "url": "https://www.animegg.org/yamato-nadeshiko-shichi-henge-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 873,
+    "title": "Dimension W",
+    "animegg_url": "https://www.animegg.org/series/dimension-w",
+    "mal_url": "https://myanimelist.net/anime/31163",
+    "mal_id": 31163,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/80633",
+        "dub": null,
+        "url": "https://www.animegg.org/dimension-w-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/80728",
+        "dub": null,
+        "url": "https://www.animegg.org/dimension-w-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/80834",
+        "dub": "https://www.animegg.org/embed/81545",
+        "url": "https://www.animegg.org/dimension-w-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/80933",
+        "dub": null,
+        "url": "https://www.animegg.org/dimension-w-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/81037",
+        "dub": "https://www.animegg.org/embed/81721",
+        "url": "https://www.animegg.org/dimension-w-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/81125",
+        "dub": "https://www.animegg.org/embed/81818",
+        "url": "https://www.animegg.org/dimension-w-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/81224",
+        "dub": "https://www.animegg.org/embed/81899",
+        "url": "https://www.animegg.org/dimension-w-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/81344",
+        "dub": "https://www.animegg.org/embed/82009",
+        "url": "https://www.animegg.org/dimension-w-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/81435",
+        "dub": null,
+        "url": "https://www.animegg.org/dimension-w-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/81532",
+        "dub": null,
+        "url": "https://www.animegg.org/dimension-w-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/81624",
+        "dub": null,
+        "url": "https://www.animegg.org/dimension-w-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/81713",
+        "dub": null,
+        "url": "https://www.animegg.org/dimension-w-episode-12"
+      }
+    ]
   }
 ]
