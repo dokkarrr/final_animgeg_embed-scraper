@@ -100354,5 +100354,87 @@
         "url": "https://www.animegg.org/kabukichou-sherlock-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 2334,
+    "title": "You and I Are Polar Opposites",
+    "animegg_url": "https://www.animegg.org/series/you-and-i-are-polar-opposites",
+    "mal_url": "https://myanimelist.net/anime/60371",
+    "mal_id": 60371,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/144152",
+        "dub": "https://www.animegg.org/embed/144162",
+        "url": "https://www.animegg.org/you-and-i-are-polar-opposites-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/144247",
+        "dub": "https://www.animegg.org/embed/144258",
+        "url": "https://www.animegg.org/you-and-i-are-polar-opposites-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/144363",
+        "dub": "https://www.animegg.org/embed/144370",
+        "url": "https://www.animegg.org/you-and-i-are-polar-opposites-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/144461",
+        "dub": "https://www.animegg.org/embed/144481",
+        "url": "https://www.animegg.org/you-and-i-are-polar-opposites-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/144574",
+        "dub": "https://www.animegg.org/embed/144582",
+        "url": "https://www.animegg.org/you-and-i-are-polar-opposites-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/144670",
+        "dub": "https://www.animegg.org/embed/144678",
+        "url": "https://www.animegg.org/you-and-i-are-polar-opposites-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/144767",
+        "dub": "https://www.animegg.org/embed/144777",
+        "url": "https://www.animegg.org/you-and-i-are-polar-opposites-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/144885",
+        "dub": null,
+        "url": "https://www.animegg.org/you-and-i-are-polar-opposites-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/144987",
+        "dub": "https://www.animegg.org/embed/145103",
+        "url": "https://www.animegg.org/you-and-i-are-polar-opposites-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/145097",
+        "dub": "https://www.animegg.org/embed/145215",
+        "url": "https://www.animegg.org/you-and-i-are-polar-opposites-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/145206",
+        "dub": null,
+        "url": "https://www.animegg.org/you-and-i-are-polar-opposites-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/145431",
+        "dub": null,
+        "url": "https://www.animegg.org/you-and-i-are-polar-opposites-episode-12"
+      }
+    ]
   }
 ]
