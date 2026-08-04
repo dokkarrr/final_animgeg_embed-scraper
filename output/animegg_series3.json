@@ -117384,5 +117384,87 @@
         "url": "https://www.animegg.org/shingu-secret-of-the-stellar-wars-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 2510,
+    "title": "Hatsukoi Limited",
+    "animegg_url": "https://www.animegg.org/series/hatsukoi-limited",
+    "mal_url": "https://myanimelist.net/anime/5150",
+    "mal_id": 5150,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/15475",
+        "dub": null,
+        "url": "https://www.animegg.org/hatsukoi-limited-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/15476",
+        "dub": null,
+        "url": "https://www.animegg.org/hatsukoi-limited-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/15473",
+        "dub": null,
+        "url": "https://www.animegg.org/hatsukoi-limited-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/15474",
+        "dub": null,
+        "url": "https://www.animegg.org/hatsukoi-limited-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/15482",
+        "dub": null,
+        "url": "https://www.animegg.org/hatsukoi-limited-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/15483",
+        "dub": null,
+        "url": "https://www.animegg.org/hatsukoi-limited-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/15477",
+        "dub": null,
+        "url": "https://www.animegg.org/hatsukoi-limited-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/15478",
+        "dub": null,
+        "url": "https://www.animegg.org/hatsukoi-limited-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/15479",
+        "dub": null,
+        "url": "https://www.animegg.org/hatsukoi-limited-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/15480",
+        "dub": null,
+        "url": "https://www.animegg.org/hatsukoi-limited-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/15481",
+        "dub": null,
+        "url": "https://www.animegg.org/hatsukoi-limited-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/15484",
+        "dub": null,
+        "url": "https://www.animegg.org/hatsukoi-limited-episode-12"
+      }
+    ]
   }
 ]
