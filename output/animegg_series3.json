@@ -20846,5 +20846,87 @@
         "url": "https://www.animegg.org/peter-pan-wendy-episode-41"
       }
     ]
+  },
+  {
+    "serial_no": 1672,
+    "title": "Kekkai Sensen & Beyond",
+    "animegg_url": "https://www.animegg.org/series/kekkai-sensen-beyond",
+    "mal_url": "https://myanimelist.net/anime/34451",
+    "mal_id": 34451,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/88573",
+        "dub": null,
+        "url": "https://www.animegg.org/kekkai-sensen-beyond-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/88673",
+        "dub": null,
+        "url": "https://www.animegg.org/kekkai-sensen-beyond-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/88748",
+        "dub": null,
+        "url": "https://www.animegg.org/kekkai-sensen-beyond-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/88836",
+        "dub": null,
+        "url": "https://www.animegg.org/kekkai-sensen-beyond-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/88926",
+        "dub": null,
+        "url": "https://www.animegg.org/kekkai-sensen-beyond-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/89017",
+        "dub": null,
+        "url": "https://www.animegg.org/kekkai-sensen-beyond-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/89101",
+        "dub": null,
+        "url": "https://www.animegg.org/kekkai-sensen-beyond-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/89180",
+        "dub": null,
+        "url": "https://www.animegg.org/kekkai-sensen-beyond-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/89255",
+        "dub": null,
+        "url": "https://www.animegg.org/kekkai-sensen-beyond-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/89334",
+        "dub": null,
+        "url": "https://www.animegg.org/kekkai-sensen-beyond-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/89411",
+        "dub": null,
+        "url": "https://www.animegg.org/kekkai-sensen-beyond-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/89483",
+        "dub": null,
+        "url": "https://www.animegg.org/kekkai-sensen-beyond-episode-12"
+      }
+    ]
   }
 ]
