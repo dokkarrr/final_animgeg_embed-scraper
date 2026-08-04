@@ -67846,5 +67846,99 @@
         "url": "https://www.animegg.org/koufuku-graffiti-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2055,
+    "title": "Yu-Gi-Oh! Capsule Monsters",
+    "animegg_url": "https://www.animegg.org/series/yu-gi-oh-capsule-monsters",
+    "mal_url": "https://myanimelist.net/anime/552",
+    "mal_id": 552,
+    "total_ep": 14,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/41373",
+        "dub": null,
+        "url": "https://www.animegg.org/yu-gi-oh-capsule-monsters-episode-15"
+      },
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/41372",
+        "dub": null,
+        "url": "https://www.animegg.org/yu-gi-oh-capsule-monsters-episode-14"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/41360",
+        "dub": null,
+        "url": "https://www.animegg.org/yu-gi-oh-capsule-monsters-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/41363",
+        "dub": null,
+        "url": "https://www.animegg.org/yu-gi-oh-capsule-monsters-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/41361",
+        "dub": null,
+        "url": "https://www.animegg.org/yu-gi-oh-capsule-monsters-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/41362",
+        "dub": null,
+        "url": "https://www.animegg.org/yu-gi-oh-capsule-monsters-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/41364",
+        "dub": null,
+        "url": "https://www.animegg.org/yu-gi-oh-capsule-monsters-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/41366",
+        "dub": null,
+        "url": "https://www.animegg.org/yu-gi-oh-capsule-monsters-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/41365",
+        "dub": null,
+        "url": "https://www.animegg.org/yu-gi-oh-capsule-monsters-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/41369",
+        "dub": null,
+        "url": "https://www.animegg.org/yu-gi-oh-capsule-monsters-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/41368",
+        "dub": null,
+        "url": "https://www.animegg.org/yu-gi-oh-capsule-monsters-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/41367",
+        "dub": null,
+        "url": "https://www.animegg.org/yu-gi-oh-capsule-monsters-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/41370",
+        "dub": null,
+        "url": "https://www.animegg.org/yu-gi-oh-capsule-monsters-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/41371",
+        "dub": null,
+        "url": "https://www.animegg.org/yu-gi-oh-capsule-monsters-episode-12"
+      }
+    ]
   }
 ]
