@@ -83368,5 +83368,87 @@
         "url": "https://www.animegg.org/boogiepop-phantom-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2175,
+    "title": "Kemono Jihen",
+    "animegg_url": "https://www.animegg.org/series/kemono-jihen",
+    "mal_url": "https://myanimelist.net/anime/40908",
+    "mal_id": 40908,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/100461",
+        "dub": null,
+        "url": "https://www.animegg.org/kemono-jihen-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/100559",
+        "dub": null,
+        "url": "https://www.animegg.org/kemono-jihen-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/100631",
+        "dub": null,
+        "url": "https://www.animegg.org/kemono-jihen-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/100705",
+        "dub": null,
+        "url": "https://www.animegg.org/kemono-jihen-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/100775",
+        "dub": null,
+        "url": "https://www.animegg.org/kemono-jihen-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/100845",
+        "dub": null,
+        "url": "https://www.animegg.org/kemono-jihen-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/100922",
+        "dub": null,
+        "url": "https://www.animegg.org/kemono-jihen-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/100998",
+        "dub": null,
+        "url": "https://www.animegg.org/kemono-jihen-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/101070",
+        "dub": null,
+        "url": "https://www.animegg.org/kemono-jihen-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/101143",
+        "dub": null,
+        "url": "https://www.animegg.org/kemono-jihen-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/101213",
+        "dub": null,
+        "url": "https://www.animegg.org/kemono-jihen-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/101281",
+        "dub": null,
+        "url": "https://www.animegg.org/kemono-jihen-episode-12"
+      }
+    ]
   }
 ]
