@@ -53832,5 +53832,87 @@
         "url": "https://www.animegg.org/vandread-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 1931,
+    "title": "Nightwalker",
+    "animegg_url": "https://www.animegg.org/series/nightwalker",
+    "mal_url": "https://myanimelist.net/anime/621",
+    "mal_id": 621,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/27194",
+        "dub": "https://www.animegg.org/embed/27195",
+        "url": "https://www.animegg.org/nightwalker-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/27200",
+        "dub": "https://www.animegg.org/embed/27201",
+        "url": "https://www.animegg.org/nightwalker-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/27198",
+        "dub": "https://www.animegg.org/embed/27199",
+        "url": "https://www.animegg.org/nightwalker-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/27202",
+        "dub": "https://www.animegg.org/embed/27203",
+        "url": "https://www.animegg.org/nightwalker-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/27196",
+        "dub": "https://www.animegg.org/embed/27197",
+        "url": "https://www.animegg.org/nightwalker-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/27208",
+        "dub": "https://www.animegg.org/embed/27209",
+        "url": "https://www.animegg.org/nightwalker-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/27212",
+        "dub": "https://www.animegg.org/embed/27213",
+        "url": "https://www.animegg.org/nightwalker-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/27204",
+        "dub": "https://www.animegg.org/embed/27205",
+        "url": "https://www.animegg.org/nightwalker-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/27206",
+        "dub": "https://www.animegg.org/embed/27207",
+        "url": "https://www.animegg.org/nightwalker-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/27210",
+        "dub": "https://www.animegg.org/embed/27211",
+        "url": "https://www.animegg.org/nightwalker-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/27214",
+        "dub": "https://www.animegg.org/embed/27215",
+        "url": "https://www.animegg.org/nightwalker-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/27216",
+        "dub": "https://www.animegg.org/embed/27217",
+        "url": "https://www.animegg.org/nightwalker-episode-12"
+      }
+    ]
   }
 ]
