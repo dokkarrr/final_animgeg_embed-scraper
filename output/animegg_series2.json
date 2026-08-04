@@ -70952,5 +70952,87 @@
         "url": "https://www.animegg.org/nanbaka-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 914,
+    "title": "Chaos Dragon: Sekiryuu Senyaku",
+    "animegg_url": "https://www.animegg.org/series/chaos-dragon-sekiryuu-senyaku",
+    "mal_url": "https://myanimelist.net/anime/30091",
+    "mal_id": 30091,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/77659",
+        "dub": "https://www.animegg.org/embed/77747",
+        "url": "https://www.animegg.org/chaos-dragon-sekiryuu-senyaku-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/77805",
+        "dub": null,
+        "url": "https://www.animegg.org/chaos-dragon-sekiryuu-senyaku-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/77977",
+        "dub": null,
+        "url": "https://www.animegg.org/chaos-dragon-sekiryuu-senyaku-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/78125",
+        "dub": "https://www.animegg.org/embed/78127",
+        "url": "https://www.animegg.org/chaos-dragon-sekiryuu-senyaku-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/78265",
+        "dub": null,
+        "url": "https://www.animegg.org/chaos-dragon-sekiryuu-senyaku-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/78393",
+        "dub": null,
+        "url": "https://www.animegg.org/chaos-dragon-sekiryuu-senyaku-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/78503",
+        "dub": null,
+        "url": "https://www.animegg.org/chaos-dragon-sekiryuu-senyaku-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/78614",
+        "dub": "https://www.animegg.org/embed/78615",
+        "url": "https://www.animegg.org/chaos-dragon-sekiryuu-senyaku-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/78727",
+        "dub": "https://www.animegg.org/embed/92548",
+        "url": "https://www.animegg.org/chaos-dragon-sekiryuu-senyaku-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/78856",
+        "dub": null,
+        "url": "https://www.animegg.org/chaos-dragon-sekiryuu-senyaku-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/78951",
+        "dub": "https://www.animegg.org/embed/78958",
+        "url": "https://www.animegg.org/chaos-dragon-sekiryuu-senyaku-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/79073",
+        "dub": "https://www.animegg.org/embed/79083",
+        "url": "https://www.animegg.org/chaos-dragon-sekiryuu-senyaku-episode-12"
+      }
+    ]
   }
 ]
