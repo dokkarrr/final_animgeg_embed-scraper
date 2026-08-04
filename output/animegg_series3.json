@@ -118370,5 +118370,87 @@
         "url": "https://www.animegg.org/bocchi-the-rock-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2524,
+    "title": "Hitohira",
+    "animegg_url": "https://www.animegg.org/series/hitohira",
+    "mal_url": "https://myanimelist.net/anime/1721",
+    "mal_id": 1721,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/16648",
+        "dub": null,
+        "url": "https://www.animegg.org/hitohira-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/16649",
+        "dub": null,
+        "url": "https://www.animegg.org/hitohira-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/16650",
+        "dub": null,
+        "url": "https://www.animegg.org/hitohira-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/16651",
+        "dub": null,
+        "url": "https://www.animegg.org/hitohira-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/16652",
+        "dub": null,
+        "url": "https://www.animegg.org/hitohira-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/16655",
+        "dub": null,
+        "url": "https://www.animegg.org/hitohira-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/16653",
+        "dub": null,
+        "url": "https://www.animegg.org/hitohira-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/16654",
+        "dub": null,
+        "url": "https://www.animegg.org/hitohira-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/16658",
+        "dub": null,
+        "url": "https://www.animegg.org/hitohira-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/16656",
+        "dub": null,
+        "url": "https://www.animegg.org/hitohira-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/16657",
+        "dub": null,
+        "url": "https://www.animegg.org/hitohira-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/16659",
+        "dub": null,
+        "url": "https://www.animegg.org/hitohira-episode-12"
+      }
+    ]
   }
 ]
