@@ -129957,5 +129957,93 @@
         "url": "https://www.animegg.org/pilot-candidate-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2637,
+    "title": "Hoozuki no Reitetsu 2nd Season",
+    "animegg_url": "https://www.animegg.org/series/hoozuki-no-reitetsu-2nd-season",
+    "mal_url": "https://myanimelist.net/anime/35075",
+    "mal_id": 35075,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/89537",
+        "dub": null,
+        "url": "https://www.animegg.org/hoozuki-no-reitetsu-2nd-season-episode-13"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/89481",
+        "dub": null,
+        "url": "https://www.animegg.org/hoozuki-no-reitetsu-2nd-season-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/89408",
+        "dub": null,
+        "url": "https://www.animegg.org/hoozuki-no-reitetsu-2nd-season-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/89332",
+        "dub": null,
+        "url": "https://www.animegg.org/hoozuki-no-reitetsu-2nd-season-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/89250",
+        "dub": null,
+        "url": "https://www.animegg.org/hoozuki-no-reitetsu-2nd-season-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/89179",
+        "dub": null,
+        "url": "https://www.animegg.org/hoozuki-no-reitetsu-2nd-season-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/89096",
+        "dub": null,
+        "url": "https://www.animegg.org/hoozuki-no-reitetsu-2nd-season-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/89013",
+        "dub": null,
+        "url": "https://www.animegg.org/hoozuki-no-reitetsu-2nd-season-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/88924",
+        "dub": null,
+        "url": "https://www.animegg.org/hoozuki-no-reitetsu-2nd-season-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/88832",
+        "dub": null,
+        "url": "https://www.animegg.org/hoozuki-no-reitetsu-2nd-season-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/88745",
+        "dub": null,
+        "url": "https://www.animegg.org/hoozuki-no-reitetsu-2nd-season-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/88671",
+        "dub": null,
+        "url": "https://www.animegg.org/hoozuki-no-reitetsu-2nd-season-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/88572",
+        "dub": null,
+        "url": "https://www.animegg.org/hoozuki-no-reitetsu-2nd-season-episode-1"
+      }
+    ]
   }
 ]
