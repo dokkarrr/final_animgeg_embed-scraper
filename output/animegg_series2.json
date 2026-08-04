@@ -27128,5 +27128,87 @@
         "url": "https://www.animegg.org/bakugan-new-vestroia-episode-52"
       }
     ]
+  },
+  {
+    "serial_no": 659,
+    "title": "Kore wa Zombie Desu ka?",
+    "animegg_url": "https://www.animegg.org/series/kore-wa-zombie-desu-ka",
+    "mal_url": "https://myanimelist.net/anime/8841",
+    "mal_id": 8841,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/20696",
+        "dub": "https://www.animegg.org/embed/20697",
+        "url": "https://www.animegg.org/kore-wa-zombie-desu-ka-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/20690",
+        "dub": "https://www.animegg.org/embed/20691",
+        "url": "https://www.animegg.org/kore-wa-zombie-desu-ka-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/20688",
+        "dub": "https://www.animegg.org/embed/20689",
+        "url": "https://www.animegg.org/kore-wa-zombie-desu-ka-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/20694",
+        "dub": "https://www.animegg.org/embed/20695",
+        "url": "https://www.animegg.org/kore-wa-zombie-desu-ka-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/20692",
+        "dub": "https://www.animegg.org/embed/20693",
+        "url": "https://www.animegg.org/kore-wa-zombie-desu-ka-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/20698",
+        "dub": "https://www.animegg.org/embed/20699",
+        "url": "https://www.animegg.org/kore-wa-zombie-desu-ka-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/20704",
+        "dub": "https://www.animegg.org/embed/20705",
+        "url": "https://www.animegg.org/kore-wa-zombie-desu-ka-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/20700",
+        "dub": "https://www.animegg.org/embed/20701",
+        "url": "https://www.animegg.org/kore-wa-zombie-desu-ka-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/20702",
+        "dub": "https://www.animegg.org/embed/20703",
+        "url": "https://www.animegg.org/kore-wa-zombie-desu-ka-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/20706",
+        "dub": "https://www.animegg.org/embed/20707",
+        "url": "https://www.animegg.org/kore-wa-zombie-desu-ka-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/20708",
+        "dub": "https://www.animegg.org/embed/20709",
+        "url": "https://www.animegg.org/kore-wa-zombie-desu-ka-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/20710",
+        "dub": "https://www.animegg.org/embed/20711",
+        "url": "https://www.animegg.org/kore-wa-zombie-desu-ka-episode-12"
+      }
+    ]
   }
 ]
