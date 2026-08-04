@@ -36504,5 +36504,93 @@
         "url": "https://www.animegg.org/onigiri-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 1790,
+    "title": "Mitsudomoe",
+    "animegg_url": "https://www.animegg.org/series/mitsudomoe",
+    "mal_url": "https://myanimelist.net/anime/7627",
+    "mal_id": 7627,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/24288",
+        "dub": null,
+        "url": "https://www.animegg.org/mitsudomoe-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/24284",
+        "dub": null,
+        "url": "https://www.animegg.org/mitsudomoe-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/24285",
+        "dub": null,
+        "url": "https://www.animegg.org/mitsudomoe-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/24287",
+        "dub": null,
+        "url": "https://www.animegg.org/mitsudomoe-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/24286",
+        "dub": null,
+        "url": "https://www.animegg.org/mitsudomoe-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/24289",
+        "dub": null,
+        "url": "https://www.animegg.org/mitsudomoe-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/24291",
+        "dub": null,
+        "url": "https://www.animegg.org/mitsudomoe-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/24290",
+        "dub": null,
+        "url": "https://www.animegg.org/mitsudomoe-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/24292",
+        "dub": null,
+        "url": "https://www.animegg.org/mitsudomoe-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/24293",
+        "dub": null,
+        "url": "https://www.animegg.org/mitsudomoe-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/24294",
+        "dub": null,
+        "url": "https://www.animegg.org/mitsudomoe-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/24295",
+        "dub": null,
+        "url": "https://www.animegg.org/mitsudomoe-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/24296",
+        "dub": null,
+        "url": "https://www.animegg.org/mitsudomoe-episode-13"
+      }
+    ]
   }
 ]
