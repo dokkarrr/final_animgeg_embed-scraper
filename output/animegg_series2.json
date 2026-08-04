@@ -33934,5 +33934,87 @@
         "url": "https://www.animegg.org/endride-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 700,
+    "title": "Sword Art Online Alternative: Gun Gale Online",
+    "animegg_url": "https://www.animegg.org/series/sword-art-online-alternative-gun-gale-online",
+    "mal_url": "https://myanimelist.net/anime/36475",
+    "mal_id": 36475,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/90675",
+        "dub": "https://www.animegg.org/embed/90677",
+        "url": "https://www.animegg.org/sword-art-online-alternative-gun-gale-online-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/90778",
+        "dub": null,
+        "url": "https://www.animegg.org/sword-art-online-alternative-gun-gale-online-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/90858",
+        "dub": null,
+        "url": "https://www.animegg.org/sword-art-online-alternative-gun-gale-online-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/90951",
+        "dub": null,
+        "url": "https://www.animegg.org/sword-art-online-alternative-gun-gale-online-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/91050",
+        "dub": null,
+        "url": "https://www.animegg.org/sword-art-online-alternative-gun-gale-online-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/91218",
+        "dub": null,
+        "url": "https://www.animegg.org/sword-art-online-alternative-gun-gale-online-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/91301",
+        "dub": null,
+        "url": "https://www.animegg.org/sword-art-online-alternative-gun-gale-online-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/91386",
+        "dub": null,
+        "url": "https://www.animegg.org/sword-art-online-alternative-gun-gale-online-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/91473",
+        "dub": null,
+        "url": "https://www.animegg.org/sword-art-online-alternative-gun-gale-online-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/91553",
+        "dub": null,
+        "url": "https://www.animegg.org/sword-art-online-alternative-gun-gale-online-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/91636",
+        "dub": null,
+        "url": "https://www.animegg.org/sword-art-online-alternative-gun-gale-online-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/91824",
+        "dub": null,
+        "url": "https://www.animegg.org/sword-art-online-alternative-gun-gale-online-episode-12"
+      }
+    ]
   }
 ]
