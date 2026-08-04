@@ -85798,5 +85798,93 @@
         "url": "https://www.animegg.org/orange-episode-13-2780"
       }
     ]
+  },
+  {
+    "serial_no": 1006,
+    "title": "Kimi Ni Todoke 2nd Season",
+    "animegg_url": "https://www.animegg.org/series/kimi-ni-todoke-2nd-season",
+    "mal_url": "https://myanimelist.net/anime/9656",
+    "mal_id": 9656,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/20312",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-ni-todoke-2nd-season-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/20310",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-ni-todoke-2nd-season-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/20311",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-ni-todoke-2nd-season-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/20308",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-ni-todoke-2nd-season-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/20307",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-ni-todoke-2nd-season-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/20306",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-ni-todoke-2nd-season-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/20309",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-ni-todoke-2nd-season-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/20305",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-ni-todoke-2nd-season-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/20301",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-ni-todoke-2nd-season-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/20303",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-ni-todoke-2nd-season-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/20304",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-ni-todoke-2nd-season-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/20302",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-ni-todoke-2nd-season-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/20300",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-ni-todoke-2nd-season-episode-0"
+      }
+    ]
   }
 ]
