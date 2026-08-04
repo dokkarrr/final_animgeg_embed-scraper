@@ -80832,5 +80832,87 @@
         "url": "https://www.animegg.org/jewelpet-tinkle-episode-52"
       }
     ]
+  },
+  {
+    "serial_no": 975,
+    "title": "Prince of Stride: Alternative",
+    "animegg_url": "https://www.animegg.org/series/prince-of-stride-alternative",
+    "mal_url": "https://myanimelist.net/anime/31559",
+    "mal_id": 31559,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/80556",
+        "dub": "https://www.animegg.org/embed/80568",
+        "url": "https://www.animegg.org/prince-of-stride-alternative-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/80656",
+        "dub": "https://www.animegg.org/embed/80658",
+        "url": "https://www.animegg.org/prince-of-stride-alternative-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/80763",
+        "dub": "https://www.animegg.org/embed/80764",
+        "url": "https://www.animegg.org/prince-of-stride-alternative-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/80859",
+        "dub": null,
+        "url": "https://www.animegg.org/prince-of-stride-alternative-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/80963",
+        "dub": null,
+        "url": "https://www.animegg.org/prince-of-stride-alternative-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/81062",
+        "dub": null,
+        "url": "https://www.animegg.org/prince-of-stride-alternative-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/81149",
+        "dub": "https://www.animegg.org/embed/81757",
+        "url": "https://www.animegg.org/prince-of-stride-alternative-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/81250",
+        "dub": "https://www.animegg.org/embed/81756",
+        "url": "https://www.animegg.org/prince-of-stride-alternative-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/81372",
+        "dub": null,
+        "url": "https://www.animegg.org/prince-of-stride-alternative-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/81459",
+        "dub": null,
+        "url": "https://www.animegg.org/prince-of-stride-alternative-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/81563",
+        "dub": null,
+        "url": "https://www.animegg.org/prince-of-stride-alternative-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/81656",
+        "dub": null,
+        "url": "https://www.animegg.org/prince-of-stride-alternative-episode-12"
+      }
+    ]
   }
 ]
