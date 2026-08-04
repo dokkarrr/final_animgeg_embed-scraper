@@ -40506,5 +40506,87 @@
         "url": "https://www.animegg.org/x-episode-0"
       }
     ]
+  },
+  {
+    "serial_no": 1826,
+    "title": "Gundam: The 08th MS Team",
+    "animegg_url": "https://www.animegg.org/series/gundam-the-08th-ms-team",
+    "mal_url": "https://myanimelist.net/anime/81",
+    "mal_id": 81,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/14441",
+        "dub": "https://www.animegg.org/embed/14442",
+        "url": "https://www.animegg.org/gundam-the-08th-ms-team-episode-12"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/14443",
+        "dub": "https://www.animegg.org/embed/14444",
+        "url": "https://www.animegg.org/gundam-the-08th-ms-team-episode-11"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/14439",
+        "dub": "https://www.animegg.org/embed/14440",
+        "url": "https://www.animegg.org/gundam-the-08th-ms-team-episode-10"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/14437",
+        "dub": "https://www.animegg.org/embed/14438",
+        "url": "https://www.animegg.org/gundam-the-08th-ms-team-episode-9"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/14433",
+        "dub": "https://www.animegg.org/embed/14434",
+        "url": "https://www.animegg.org/gundam-the-08th-ms-team-episode-8"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/14431",
+        "dub": "https://www.animegg.org/embed/14432",
+        "url": "https://www.animegg.org/gundam-the-08th-ms-team-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/14435",
+        "dub": "https://www.animegg.org/embed/14436",
+        "url": "https://www.animegg.org/gundam-the-08th-ms-team-episode-6"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/14423",
+        "dub": "https://www.animegg.org/embed/14424",
+        "url": "https://www.animegg.org/gundam-the-08th-ms-team-episode-5"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/14425",
+        "dub": "https://www.animegg.org/embed/14426",
+        "url": "https://www.animegg.org/gundam-the-08th-ms-team-episode-4"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/14427",
+        "dub": "https://www.animegg.org/embed/14428",
+        "url": "https://www.animegg.org/gundam-the-08th-ms-team-episode-3"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/14429",
+        "dub": "https://www.animegg.org/embed/14430",
+        "url": "https://www.animegg.org/gundam-the-08th-ms-team-episode-2"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/14421",
+        "dub": "https://www.animegg.org/embed/14422",
+        "url": "https://www.animegg.org/gundam-the-08th-ms-team-episode-1"
+      }
+    ]
   }
 ]
