@@ -106042,5 +106042,87 @@
         "url": "https://www.animegg.org/bubblegum-crisis-tokyo-2040-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 1117,
+    "title": "Arcana Famiglia",
+    "animegg_url": "https://www.animegg.org/series/arcana-famiglia",
+    "mal_url": "https://myanimelist.net/anime/12967",
+    "mal_id": 12967,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/1628",
+        "dub": "https://www.animegg.org/embed/1629",
+        "url": "https://www.animegg.org/arcana-famiglia-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/1630",
+        "dub": "https://www.animegg.org/embed/1631",
+        "url": "https://www.animegg.org/arcana-famiglia-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/1624",
+        "dub": "https://www.animegg.org/embed/1625",
+        "url": "https://www.animegg.org/arcana-famiglia-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/1622",
+        "dub": "https://www.animegg.org/embed/1623",
+        "url": "https://www.animegg.org/arcana-famiglia-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/1626",
+        "dub": "https://www.animegg.org/embed/1627",
+        "url": "https://www.animegg.org/arcana-famiglia-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/1632",
+        "dub": "https://www.animegg.org/embed/1633",
+        "url": "https://www.animegg.org/arcana-famiglia-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/1636",
+        "dub": "https://www.animegg.org/embed/1637",
+        "url": "https://www.animegg.org/arcana-famiglia-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/1634",
+        "dub": "https://www.animegg.org/embed/1635",
+        "url": "https://www.animegg.org/arcana-famiglia-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/1638",
+        "dub": "https://www.animegg.org/embed/1639",
+        "url": "https://www.animegg.org/arcana-famiglia-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/1640",
+        "dub": "https://www.animegg.org/embed/1641",
+        "url": "https://www.animegg.org/arcana-famiglia-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/1642",
+        "dub": "https://www.animegg.org/embed/1643",
+        "url": "https://www.animegg.org/arcana-famiglia-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/1644",
+        "dub": "https://www.animegg.org/embed/1645",
+        "url": "https://www.animegg.org/arcana-famiglia-episode-12"
+      }
+    ]
   }
 ]
