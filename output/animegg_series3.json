@@ -7812,5 +7812,93 @@
         "url": "https://www.animegg.org/isekai-maou-to-shoukan-shoujo-no-dorei-majutsu-omega-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 1595,
+    "title": "Gravitation",
+    "animegg_url": "https://www.animegg.org/series/gravitation",
+    "mal_url": "https://myanimelist.net/anime/243",
+    "mal_id": 243,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/13485",
+        "dub": null,
+        "url": "https://www.animegg.org/gravitation-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/13483",
+        "dub": null,
+        "url": "https://www.animegg.org/gravitation-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/13482",
+        "dub": null,
+        "url": "https://www.animegg.org/gravitation-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/13486",
+        "dub": null,
+        "url": "https://www.animegg.org/gravitation-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/13484",
+        "dub": null,
+        "url": "https://www.animegg.org/gravitation-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/13489",
+        "dub": null,
+        "url": "https://www.animegg.org/gravitation-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/13487",
+        "dub": null,
+        "url": "https://www.animegg.org/gravitation-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/13488",
+        "dub": null,
+        "url": "https://www.animegg.org/gravitation-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/13491",
+        "dub": null,
+        "url": "https://www.animegg.org/gravitation-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/13490",
+        "dub": null,
+        "url": "https://www.animegg.org/gravitation-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/13493",
+        "dub": null,
+        "url": "https://www.animegg.org/gravitation-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/13492",
+        "dub": null,
+        "url": "https://www.animegg.org/gravitation-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/13494",
+        "dub": null,
+        "url": "https://www.animegg.org/gravitation-episode-13"
+      }
+    ]
   }
 ]
