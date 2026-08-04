@@ -128683,5 +128683,93 @@
         "url": "https://www.animegg.org/love-live-sunshine-2nd-season-episode-00"
       }
     ]
+  },
+  {
+    "serial_no": 2623,
+    "title": "Girl Meets Girl",
+    "animegg_url": "https://www.animegg.org/series/girl-meets-girl",
+    "mal_url": "https://myanimelist.net/anime/667",
+    "mal_id": 667,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/53029",
+        "dub": "https://www.animegg.org/embed/71327",
+        "url": "https://www.animegg.org/girl-meets-girl-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/53030",
+        "dub": "https://www.animegg.org/embed/71326",
+        "url": "https://www.animegg.org/girl-meets-girl-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/53031",
+        "dub": "https://www.animegg.org/embed/71324",
+        "url": "https://www.animegg.org/girl-meets-girl-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/53032",
+        "dub": "https://www.animegg.org/embed/71322",
+        "url": "https://www.animegg.org/girl-meets-girl-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/53033",
+        "dub": "https://www.animegg.org/embed/71320",
+        "url": "https://www.animegg.org/girl-meets-girl-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/53034",
+        "dub": "https://www.animegg.org/embed/71319",
+        "url": "https://www.animegg.org/girl-meets-girl-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/53035",
+        "dub": "https://www.animegg.org/embed/71318",
+        "url": "https://www.animegg.org/girl-meets-girl-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/53036",
+        "dub": "https://www.animegg.org/embed/71316",
+        "url": "https://www.animegg.org/girl-meets-girl-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/53037",
+        "dub": "https://www.animegg.org/embed/71315",
+        "url": "https://www.animegg.org/girl-meets-girl-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/53038",
+        "dub": "https://www.animegg.org/embed/71314",
+        "url": "https://www.animegg.org/girl-meets-girl-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/53039",
+        "dub": "https://www.animegg.org/embed/71313",
+        "url": "https://www.animegg.org/girl-meets-girl-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/53040",
+        "dub": "https://www.animegg.org/embed/71310",
+        "url": "https://www.animegg.org/girl-meets-girl-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/71328",
+        "dub": null,
+        "url": "https://www.animegg.org/girl-meets-girl-episode-13"
+      }
+    ]
   }
 ]
