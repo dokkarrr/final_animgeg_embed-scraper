@@ -10944,5 +10944,93 @@
         "url": "https://www.animegg.org/tari-tari-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 1628,
+    "title": "Air",
+    "animegg_url": "https://www.animegg.org/series/air",
+    "mal_url": "https://myanimelist.net/anime/101",
+    "mal_id": 101,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/669",
+        "dub": "https://www.animegg.org/embed/670",
+        "url": "https://www.animegg.org/air-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/667",
+        "dub": "https://www.animegg.org/embed/668",
+        "url": "https://www.animegg.org/air-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/665",
+        "dub": "https://www.animegg.org/embed/666",
+        "url": "https://www.animegg.org/air-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/663",
+        "dub": "https://www.animegg.org/embed/664",
+        "url": "https://www.animegg.org/air-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/661",
+        "dub": "https://www.animegg.org/embed/662",
+        "url": "https://www.animegg.org/air-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/673",
+        "dub": "https://www.animegg.org/embed/674",
+        "url": "https://www.animegg.org/air-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/671",
+        "dub": "https://www.animegg.org/embed/672",
+        "url": "https://www.animegg.org/air-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/679",
+        "dub": "https://www.animegg.org/embed/680",
+        "url": "https://www.animegg.org/air-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/675",
+        "dub": "https://www.animegg.org/embed/676",
+        "url": "https://www.animegg.org/air-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/677",
+        "dub": "https://www.animegg.org/embed/678",
+        "url": "https://www.animegg.org/air-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/681",
+        "dub": "https://www.animegg.org/embed/682",
+        "url": "https://www.animegg.org/air-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/683",
+        "dub": "https://www.animegg.org/embed/684",
+        "url": "https://www.animegg.org/air-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/685",
+        "dub": "https://www.animegg.org/embed/686",
+        "url": "https://www.animegg.org/air-episode-13"
+      }
+    ]
   }
 ]
