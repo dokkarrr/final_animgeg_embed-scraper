@@ -49324,5 +49324,87 @@
         "url": "https://www.animegg.org/gotoubun-no-hanayome-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 784,
+    "title": "Kanokon",
+    "animegg_url": "https://www.animegg.org/series/kanokon",
+    "mal_url": "https://myanimelist.net/anime/3503",
+    "mal_id": 3503,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/19533",
+        "dub": "https://www.animegg.org/embed/71286",
+        "url": "https://www.animegg.org/kanokon-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/19532",
+        "dub": "https://www.animegg.org/embed/71285",
+        "url": "https://www.animegg.org/kanokon-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/19531",
+        "dub": "https://www.animegg.org/embed/71284",
+        "url": "https://www.animegg.org/kanokon-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/19529",
+        "dub": "https://www.animegg.org/embed/71283",
+        "url": "https://www.animegg.org/kanokon-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/19530",
+        "dub": "https://www.animegg.org/embed/71282",
+        "url": "https://www.animegg.org/kanokon-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/19534",
+        "dub": "https://www.animegg.org/embed/71281",
+        "url": "https://www.animegg.org/kanokon-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/71280",
+        "dub": "https://www.animegg.org/embed/81063",
+        "url": "https://www.animegg.org/kanokon-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/19536",
+        "dub": "https://www.animegg.org/embed/71279",
+        "url": "https://www.animegg.org/kanokon-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/19537",
+        "dub": "https://www.animegg.org/embed/71278",
+        "url": "https://www.animegg.org/kanokon-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/19538",
+        "dub": "https://www.animegg.org/embed/71277",
+        "url": "https://www.animegg.org/kanokon-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/19539",
+        "dub": "https://www.animegg.org/embed/71276",
+        "url": "https://www.animegg.org/kanokon-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/19540",
+        "dub": "https://www.animegg.org/embed/71275",
+        "url": "https://www.animegg.org/kanokon-episode-12"
+      }
+    ]
   }
 ]
