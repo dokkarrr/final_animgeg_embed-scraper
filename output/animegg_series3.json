@@ -1666,5 +1666,87 @@
         "url": "https://www.animegg.org/arakawa-under-the-bridge-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 1554,
+    "title": "Medaka Box",
+    "animegg_url": "https://www.animegg.org/series/medaka-box",
+    "mal_url": "https://myanimelist.net/anime/11761",
+    "mal_id": 11761,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/23774",
+        "dub": null,
+        "url": "https://www.animegg.org/medaka-box-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/23772",
+        "dub": null,
+        "url": "https://www.animegg.org/medaka-box-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/23771",
+        "dub": null,
+        "url": "https://www.animegg.org/medaka-box-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/23770",
+        "dub": null,
+        "url": "https://www.animegg.org/medaka-box-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/23769",
+        "dub": null,
+        "url": "https://www.animegg.org/medaka-box-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/23773",
+        "dub": null,
+        "url": "https://www.animegg.org/medaka-box-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/23775",
+        "dub": null,
+        "url": "https://www.animegg.org/medaka-box-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/23776",
+        "dub": null,
+        "url": "https://www.animegg.org/medaka-box-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/23777",
+        "dub": null,
+        "url": "https://www.animegg.org/medaka-box-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/23779",
+        "dub": null,
+        "url": "https://www.animegg.org/medaka-box-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/23780",
+        "dub": null,
+        "url": "https://www.animegg.org/medaka-box-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/23778",
+        "dub": null,
+        "url": "https://www.animegg.org/medaka-box-episode-12"
+      }
+    ]
   }
 ]
