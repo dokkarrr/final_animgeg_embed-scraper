@@ -35272,5 +35272,75 @@
         "url": "https://www.animegg.org/dr-stone-stone-wars-episode-11"
       }
     ]
+  },
+  {
+    "serial_no": 709,
+    "title": "Blood Lad",
+    "animegg_url": "https://www.animegg.org/series/blood-lad",
+    "mal_url": "https://myanimelist.net/anime/11633",
+    "mal_id": 11633,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/4109",
+        "dub": "https://www.animegg.org/embed/4110",
+        "url": "https://www.animegg.org/blood-lad-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/4101",
+        "dub": "https://www.animegg.org/embed/4102",
+        "url": "https://www.animegg.org/blood-lad-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/4103",
+        "dub": "https://www.animegg.org/embed/4104",
+        "url": "https://www.animegg.org/blood-lad-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/4107",
+        "dub": "https://www.animegg.org/embed/4108",
+        "url": "https://www.animegg.org/blood-lad-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/4105",
+        "dub": "https://www.animegg.org/embed/4106",
+        "url": "https://www.animegg.org/blood-lad-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/4111",
+        "dub": "https://www.animegg.org/embed/4112",
+        "url": "https://www.animegg.org/blood-lad-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/4113",
+        "dub": "https://www.animegg.org/embed/4114",
+        "url": "https://www.animegg.org/blood-lad-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/4115",
+        "dub": "https://www.animegg.org/embed/4116",
+        "url": "https://www.animegg.org/blood-lad-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/4117",
+        "dub": "https://www.animegg.org/embed/4118",
+        "url": "https://www.animegg.org/blood-lad-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/4119",
+        "dub": "https://www.animegg.org/embed/4120",
+        "url": "https://www.animegg.org/blood-lad-episode-10"
+      }
+    ]
   }
 ]
