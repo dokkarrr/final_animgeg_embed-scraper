@@ -74564,5 +74564,39 @@
         "url": "https://www.animegg.org/fairy-tail-2014-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 2113,
+    "title": "Kamisama Hajimemashita: Kako-hen",
+    "animegg_url": "https://www.animegg.org/series/kamisama-hajimemashita-kako-hen",
+    "mal_url": "https://myanimelist.net/anime/30709",
+    "mal_id": 30709,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/79020",
+        "dub": null,
+        "url": "https://www.animegg.org/kamisama-hajimemashita-kako-hen-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/80529",
+        "dub": "https://www.animegg.org/embed/80639",
+        "url": "https://www.animegg.org/kamisama-hajimemashita-kako-hen-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/80530",
+        "dub": "https://www.animegg.org/embed/82446",
+        "url": "https://www.animegg.org/kamisama-hajimemashita-kako-hen-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/83674",
+        "dub": "https://www.animegg.org/embed/83685",
+        "url": "https://www.animegg.org/kamisama-hajimemashita-kako-hen-episode-4"
+      }
+    ]
   }
 ]
