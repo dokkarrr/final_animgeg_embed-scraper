@@ -89854,5 +89854,87 @@
         "url": "https://www.animegg.org/inuyashiki-episode-11"
       }
     ]
+  },
+  {
+    "serial_no": 1033,
+    "title": "Oku-sama ga Seito Kaichou! 2nd Season",
+    "animegg_url": "https://www.animegg.org/series/oku-sama-ga-seito-kaichou-2nd-season",
+    "mal_url": "https://myanimelist.net/anime/32603",
+    "mal_id": 32603,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/85177",
+        "dub": null,
+        "url": "https://www.animegg.org/oku-sama-ga-seito-kaichou-2nd-season-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/85078",
+        "dub": null,
+        "url": "https://www.animegg.org/oku-sama-ga-seito-kaichou-2nd-season-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/84964",
+        "dub": null,
+        "url": "https://www.animegg.org/oku-sama-ga-seito-kaichou-2nd-season-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/84891",
+        "dub": null,
+        "url": "https://www.animegg.org/oku-sama-ga-seito-kaichou-2nd-season-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/84793",
+        "dub": null,
+        "url": "https://www.animegg.org/oku-sama-ga-seito-kaichou-2nd-season-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/84694",
+        "dub": null,
+        "url": "https://www.animegg.org/oku-sama-ga-seito-kaichou-2nd-season-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/84601",
+        "dub": null,
+        "url": "https://www.animegg.org/oku-sama-ga-seito-kaichou-2nd-season-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/84496",
+        "dub": null,
+        "url": "https://www.animegg.org/oku-sama-ga-seito-kaichou-2nd-season-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/84495",
+        "dub": null,
+        "url": "https://www.animegg.org/oku-sama-ga-seito-kaichou-2nd-season-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/91874",
+        "dub": null,
+        "url": "https://www.animegg.org/oku-sama-ga-seito-kaichou-2nd-season-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/84198",
+        "dub": null,
+        "url": "https://www.animegg.org/oku-sama-ga-seito-kaichou-2nd-season-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/84092",
+        "dub": null,
+        "url": "https://www.animegg.org/oku-sama-ga-seito-kaichou-2nd-season-episode-1"
+      }
+    ]
   }
 ]
