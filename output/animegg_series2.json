@@ -59988,5 +59988,87 @@
         "url": "https://www.animegg.org/persona-trinity-soul-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 852,
+    "title": "Kanokon Specials",
+    "animegg_url": "https://www.animegg.org/series/kanokon-specials",
+    "mal_url": "https://myanimelist.net/anime/4760",
+    "mal_id": 4760,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/19547",
+        "dub": null,
+        "url": "https://www.animegg.org/kanokon-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/19545",
+        "dub": null,
+        "url": "https://www.animegg.org/kanokon-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/19543",
+        "dub": null,
+        "url": "https://www.animegg.org/kanokon-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/19546",
+        "dub": null,
+        "url": "https://www.animegg.org/kanokon-specials-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/19544",
+        "dub": null,
+        "url": "https://www.animegg.org/kanokon-specials-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/19548",
+        "dub": null,
+        "url": "https://www.animegg.org/kanokon-specials-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/19550",
+        "dub": null,
+        "url": "https://www.animegg.org/kanokon-specials-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/19549",
+        "dub": null,
+        "url": "https://www.animegg.org/kanokon-specials-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/19551",
+        "dub": null,
+        "url": "https://www.animegg.org/kanokon-specials-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/19552",
+        "dub": null,
+        "url": "https://www.animegg.org/kanokon-specials-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/19553",
+        "dub": null,
+        "url": "https://www.animegg.org/kanokon-specials-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/19554",
+        "dub": null,
+        "url": "https://www.animegg.org/kanokon-specials-episode-12"
+      }
+    ]
   }
 ]
