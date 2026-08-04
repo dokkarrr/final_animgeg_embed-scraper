@@ -99760,5 +99760,93 @@
         "url": "https://www.animegg.org/white-album-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2328,
+    "title": "Banner of the Stars",
+    "animegg_url": "https://www.animegg.org/series/banner-of-the-stars",
+    "mal_url": "https://myanimelist.net/anime/396",
+    "mal_id": 396,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/2604",
+        "dub": "https://www.animegg.org/embed/68168",
+        "url": "https://www.animegg.org/banner-of-the-stars-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/2607",
+        "dub": "https://www.animegg.org/embed/68173",
+        "url": "https://www.animegg.org/banner-of-the-stars-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/2603",
+        "dub": "https://www.animegg.org/embed/68177",
+        "url": "https://www.animegg.org/banner-of-the-stars-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/2605",
+        "dub": "https://www.animegg.org/embed/68179",
+        "url": "https://www.animegg.org/banner-of-the-stars-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/2606",
+        "dub": "https://www.animegg.org/embed/68180",
+        "url": "https://www.animegg.org/banner-of-the-stars-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/2608",
+        "dub": "https://www.animegg.org/embed/68181",
+        "url": "https://www.animegg.org/banner-of-the-stars-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/2609",
+        "dub": "https://www.animegg.org/embed/68182",
+        "url": "https://www.animegg.org/banner-of-the-stars-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/2610",
+        "dub": "https://www.animegg.org/embed/68183",
+        "url": "https://www.animegg.org/banner-of-the-stars-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/2612",
+        "dub": "https://www.animegg.org/embed/68186",
+        "url": "https://www.animegg.org/banner-of-the-stars-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/2611",
+        "dub": "https://www.animegg.org/embed/68189",
+        "url": "https://www.animegg.org/banner-of-the-stars-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/2614",
+        "dub": "https://www.animegg.org/embed/68190",
+        "url": "https://www.animegg.org/banner-of-the-stars-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/2613",
+        "dub": "https://www.animegg.org/embed/68192",
+        "url": "https://www.animegg.org/banner-of-the-stars-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/2615",
+        "dub": "https://www.animegg.org/embed/68250",
+        "url": "https://www.animegg.org/banner-of-the-stars-episode-13"
+      }
+    ]
   }
 ]
