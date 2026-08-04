@@ -106094,5 +106094,87 @@
         "url": "https://www.animegg.org/fractale-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2395,
+    "title": "Inugami-san to Nekoyama-san",
+    "animegg_url": "https://www.animegg.org/series/inugami-san-to-nekoyama-san",
+    "mal_url": "https://myanimelist.net/anime/22123",
+    "mal_id": 22123,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/17925",
+        "dub": null,
+        "url": "https://www.animegg.org/inugami-san-to-nekoyama-san-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/17924",
+        "dub": null,
+        "url": "https://www.animegg.org/inugami-san-to-nekoyama-san-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/17922",
+        "dub": null,
+        "url": "https://www.animegg.org/inugami-san-to-nekoyama-san-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/17923",
+        "dub": null,
+        "url": "https://www.animegg.org/inugami-san-to-nekoyama-san-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/17926",
+        "dub": null,
+        "url": "https://www.animegg.org/inugami-san-to-nekoyama-san-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/17927",
+        "dub": null,
+        "url": "https://www.animegg.org/inugami-san-to-nekoyama-san-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/17928",
+        "dub": null,
+        "url": "https://www.animegg.org/inugami-san-to-nekoyama-san-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/17929",
+        "dub": "https://www.animegg.org/embed/17930",
+        "url": "https://www.animegg.org/inugami-san-to-nekoyama-san-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/17931",
+        "dub": "https://www.animegg.org/embed/17932",
+        "url": "https://www.animegg.org/inugami-san-to-nekoyama-san-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/17933",
+        "dub": "https://www.animegg.org/embed/17934",
+        "url": "https://www.animegg.org/inugami-san-to-nekoyama-san-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/17935",
+        "dub": null,
+        "url": "https://www.animegg.org/inugami-san-to-nekoyama-san-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/17936",
+        "dub": "https://www.animegg.org/embed/17937",
+        "url": "https://www.animegg.org/inugami-san-to-nekoyama-san-episode-12"
+      }
+    ]
   }
 ]
