@@ -7660,5 +7660,87 @@
         "url": "https://www.animegg.org/tsukuyomi-moon-phase-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 1593,
+    "title": "Tsuki ga Kirei",
+    "animegg_url": "https://www.animegg.org/series/tsuki-ga-kirei",
+    "mal_url": "https://myanimelist.net/anime/34822",
+    "mal_id": 34822,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/86472",
+        "dub": null,
+        "url": "https://www.animegg.org/tsuki-ga-kirei-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/86566",
+        "dub": null,
+        "url": "https://www.animegg.org/tsuki-ga-kirei-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/86652",
+        "dub": null,
+        "url": "https://www.animegg.org/tsuki-ga-kirei-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/86743",
+        "dub": null,
+        "url": "https://www.animegg.org/tsuki-ga-kirei-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/86821",
+        "dub": null,
+        "url": "https://www.animegg.org/tsuki-ga-kirei-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/86900",
+        "dub": null,
+        "url": "https://www.animegg.org/tsuki-ga-kirei-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/86979",
+        "dub": null,
+        "url": "https://www.animegg.org/tsuki-ga-kirei-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/87058",
+        "dub": null,
+        "url": "https://www.animegg.org/tsuki-ga-kirei-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/87229",
+        "dub": null,
+        "url": "https://www.animegg.org/tsuki-ga-kirei-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/87302",
+        "dub": null,
+        "url": "https://www.animegg.org/tsuki-ga-kirei-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/87371",
+        "dub": null,
+        "url": "https://www.animegg.org/tsuki-ga-kirei-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/87433",
+        "dub": null,
+        "url": "https://www.animegg.org/tsuki-ga-kirei-episode-12"
+      }
+    ]
   }
 ]
