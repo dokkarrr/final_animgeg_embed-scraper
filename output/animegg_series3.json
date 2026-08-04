@@ -6204,5 +6204,87 @@
         "url": "https://www.animegg.org/choujikuu-seiki-orguss-episode-35"
       }
     ]
+  },
+  {
+    "serial_no": 1580,
+    "title": "Gunslinger Stratos: The Animation",
+    "animegg_url": "https://www.animegg.org/series/gunslinger-stratos-the-animation",
+    "mal_url": "https://myanimelist.net/anime/28791",
+    "mal_id": 28791,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/76016",
+        "dub": "https://www.animegg.org/embed/76021",
+        "url": "https://www.animegg.org/gunslinger-stratos-the-animation-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/76149",
+        "dub": "https://www.animegg.org/embed/76153",
+        "url": "https://www.animegg.org/gunslinger-stratos-the-animation-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/76320",
+        "dub": "https://www.animegg.org/embed/76322",
+        "url": "https://www.animegg.org/gunslinger-stratos-the-animation-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/76443",
+        "dub": null,
+        "url": "https://www.animegg.org/gunslinger-stratos-the-animation-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/76573",
+        "dub": "https://www.animegg.org/embed/76576",
+        "url": "https://www.animegg.org/gunslinger-stratos-the-animation-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/76693",
+        "dub": "https://www.animegg.org/embed/76696",
+        "url": "https://www.animegg.org/gunslinger-stratos-the-animation-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/76803",
+        "dub": "https://www.animegg.org/embed/76806",
+        "url": "https://www.animegg.org/gunslinger-stratos-the-animation-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/76904",
+        "dub": "https://www.animegg.org/embed/76907",
+        "url": "https://www.animegg.org/gunslinger-stratos-the-animation-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/76993",
+        "dub": "https://www.animegg.org/embed/76997",
+        "url": "https://www.animegg.org/gunslinger-stratos-the-animation-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/77202",
+        "dub": "https://www.animegg.org/embed/77205",
+        "url": "https://www.animegg.org/gunslinger-stratos-the-animation-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/77339",
+        "dub": "https://www.animegg.org/embed/77344",
+        "url": "https://www.animegg.org/gunslinger-stratos-the-animation-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/77478",
+        "dub": "https://www.animegg.org/embed/77482",
+        "url": "https://www.animegg.org/gunslinger-stratos-the-animation-episode-12"
+      }
+    ]
   }
 ]
