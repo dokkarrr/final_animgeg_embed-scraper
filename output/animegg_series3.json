@@ -126153,5 +126153,87 @@
         "url": "https://www.animegg.org/area-88-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 2595,
+    "title": "Super Sonico The Animation",
+    "animegg_url": "https://www.animegg.org/series/super-sonico-the-animation",
+    "mal_url": "https://myanimelist.net/anime/20555",
+    "mal_id": 20555,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/62543",
+        "dub": "https://www.animegg.org/embed/76502",
+        "url": "https://www.animegg.org/super-sonico-the-animation-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/62544",
+        "dub": "https://www.animegg.org/embed/76503",
+        "url": "https://www.animegg.org/super-sonico-the-animation-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/62545",
+        "dub": "https://www.animegg.org/embed/76504",
+        "url": "https://www.animegg.org/super-sonico-the-animation-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/62546",
+        "dub": "https://www.animegg.org/embed/76505",
+        "url": "https://www.animegg.org/super-sonico-the-animation-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/62547",
+        "dub": "https://www.animegg.org/embed/76506",
+        "url": "https://www.animegg.org/super-sonico-the-animation-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/62548",
+        "dub": "https://www.animegg.org/embed/76507",
+        "url": "https://www.animegg.org/super-sonico-the-animation-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/62549",
+        "dub": "https://www.animegg.org/embed/76508",
+        "url": "https://www.animegg.org/super-sonico-the-animation-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/62550",
+        "dub": "https://www.animegg.org/embed/76509",
+        "url": "https://www.animegg.org/super-sonico-the-animation-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/62551",
+        "dub": "https://www.animegg.org/embed/76510",
+        "url": "https://www.animegg.org/super-sonico-the-animation-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/62552",
+        "dub": "https://www.animegg.org/embed/76511",
+        "url": "https://www.animegg.org/super-sonico-the-animation-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/62553",
+        "dub": "https://www.animegg.org/embed/76512",
+        "url": "https://www.animegg.org/super-sonico-the-animation-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/62554",
+        "dub": "https://www.animegg.org/embed/76513",
+        "url": "https://www.animegg.org/super-sonico-the-animation-episode-12"
+      }
+    ]
   }
 ]
