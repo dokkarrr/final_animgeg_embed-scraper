@@ -27458,5 +27458,93 @@
         "url": "https://www.animegg.org/phi-brain-kami-no-puzzle-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 662,
+    "title": "ReLIFE",
+    "animegg_url": "https://www.animegg.org/series/relife",
+    "mal_url": "https://myanimelist.net/anime/30015",
+    "mal_id": 30015,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/82890",
+        "dub": null,
+        "url": "https://www.animegg.org/relife-anime-episode-1-8523"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/82891",
+        "dub": null,
+        "url": "https://www.animegg.org/relife-anime-episode-2-3144"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/82892",
+        "dub": null,
+        "url": "https://www.animegg.org/relife-anime-episode-3-8767"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/82893",
+        "dub": null,
+        "url": "https://www.animegg.org/relife-anime-episode-4-2524"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/82894",
+        "dub": null,
+        "url": "https://www.animegg.org/relife-anime-episode-5-9166"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/82895",
+        "dub": null,
+        "url": "https://www.animegg.org/relife-anime-episode-6-5462"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/82896",
+        "dub": null,
+        "url": "https://www.animegg.org/relife-anime-episode-7-9095"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/82897",
+        "dub": null,
+        "url": "https://www.animegg.org/relife-anime-episode-8-9512"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/82898",
+        "dub": null,
+        "url": "https://www.animegg.org/relife-anime-episode-9-6326"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/82899",
+        "dub": null,
+        "url": "https://www.animegg.org/relife-anime-episode-10-1857"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/82901",
+        "dub": null,
+        "url": "https://www.animegg.org/relife-anime-episode-11-2610"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/82902",
+        "dub": null,
+        "url": "https://www.animegg.org/relife-anime-episode-12-2694"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/82903",
+        "dub": null,
+        "url": "https://www.animegg.org/relife-anime-episode-13-5251"
+      }
+    ]
   }
 ]
