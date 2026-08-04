@@ -113020,5 +113020,57 @@
         "url": "https://www.animegg.org/dantalian-no-shoka-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2463,
+    "title": "BAR Kiraware Yasai",
+    "animegg_url": "https://www.animegg.org/series/bar-kiraware-yasai",
+    "mal_url": "https://myanimelist.net/anime/29865",
+    "mal_id": 29865,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/76094",
+        "dub": null,
+        "url": "https://www.animegg.org/bar-kiraware-yasai-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/76204",
+        "dub": null,
+        "url": "https://www.animegg.org/bar-kiraware-yasai-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/76433",
+        "dub": null,
+        "url": "https://www.animegg.org/bar-kiraware-yasai-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/76758",
+        "dub": null,
+        "url": "https://www.animegg.org/bar-kiraware-yasai-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/77512",
+        "dub": null,
+        "url": "https://www.animegg.org/bar-kiraware-yasai-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/77513",
+        "dub": null,
+        "url": "https://www.animegg.org/bar-kiraware-yasai-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/110636",
+        "dub": null,
+        "url": "https://www.animegg.org/bar-kiraware-yasai-episode-7"
+      }
+    ]
   }
 ]
