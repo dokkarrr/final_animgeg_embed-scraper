@@ -79414,5 +79414,87 @@
         "url": "https://www.animegg.org/ben-to-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 967,
+    "title": "Daily Lives of High School Boys",
+    "animegg_url": "https://www.animegg.org/series/daily-lives-of-high-school-boys",
+    "mal_url": "https://myanimelist.net/anime/11843",
+    "mal_id": 11843,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/7017",
+        "dub": null,
+        "url": "https://www.animegg.org/daily-lives-of-high-school-boys-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/7015",
+        "dub": null,
+        "url": "https://www.animegg.org/daily-lives-of-high-school-boys-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/7016",
+        "dub": null,
+        "url": "https://www.animegg.org/daily-lives-of-high-school-boys-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/7013",
+        "dub": null,
+        "url": "https://www.animegg.org/daily-lives-of-high-school-boys-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/7014",
+        "dub": null,
+        "url": "https://www.animegg.org/daily-lives-of-high-school-boys-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/7018",
+        "dub": null,
+        "url": "https://www.animegg.org/daily-lives-of-high-school-boys-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/7020",
+        "dub": null,
+        "url": "https://www.animegg.org/daily-lives-of-high-school-boys-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/7019",
+        "dub": null,
+        "url": "https://www.animegg.org/daily-lives-of-high-school-boys-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/7021",
+        "dub": null,
+        "url": "https://www.animegg.org/daily-lives-of-high-school-boys-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/7022",
+        "dub": null,
+        "url": "https://www.animegg.org/daily-lives-of-high-school-boys-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/7023",
+        "dub": null,
+        "url": "https://www.animegg.org/daily-lives-of-high-school-boys-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/7024",
+        "dub": null,
+        "url": "https://www.animegg.org/daily-lives-of-high-school-boys-episode-12"
+      }
+    ]
   }
 ]
