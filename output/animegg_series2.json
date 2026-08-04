@@ -112880,5 +112880,75 @@
         "url": "https://www.animegg.org/inou-battle-wa-nichijou-kei-no-naka-de-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1157,
+    "title": "Fate/kaleid liner Prisma☆Illya 2wei Herz!",
+    "animegg_url": "https://www.animegg.org/series/fatekaleid-liner-prisma-illya-2wei-herz",
+    "mal_url": "https://myanimelist.net/anime/27525",
+    "mal_id": 27525,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/79187",
+        "dub": "https://www.animegg.org/embed/79199",
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-illya-2wei-herz-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/79094",
+        "dub": null,
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-illya-2wei-herz-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/78982",
+        "dub": null,
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-illya-2wei-herz-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/78871",
+        "dub": null,
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-illya-2wei-herz-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/78748",
+        "dub": null,
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-illya-2wei-herz-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/78633",
+        "dub": null,
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-illya-2wei-herz-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/78525",
+        "dub": "https://www.animegg.org/embed/78526",
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-illya-2wei-herz-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/78420",
+        "dub": null,
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-illya-2wei-herz-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/78285",
+        "dub": null,
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-illya-2wei-herz-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/78146",
+        "dub": null,
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-illya-2wei-herz-episode-1"
+      }
+    ]
   }
 ]
