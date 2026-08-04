@@ -76006,5 +76006,165 @@
         "url": "https://www.animegg.org/folktales-from-japan-season-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 946,
+    "title": "Shugo Chara Party!",
+    "animegg_url": "https://www.animegg.org/series/shugo-chara-party",
+    "mal_url": "https://myanimelist.net/anime/7082",
+    "mal_id": 7082,
+    "total_ep": 25,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/35105",
+        "dub": null,
+        "url": "https://www.animegg.org/shugo-chara-party-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/35107",
+        "dub": null,
+        "url": "https://www.animegg.org/shugo-chara-party-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/35104",
+        "dub": null,
+        "url": "https://www.animegg.org/shugo-chara-party-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/35103",
+        "dub": null,
+        "url": "https://www.animegg.org/shugo-chara-party-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/35106",
+        "dub": null,
+        "url": "https://www.animegg.org/shugo-chara-party-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/35108",
+        "dub": null,
+        "url": "https://www.animegg.org/shugo-chara-party-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/shugo-chara-party-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/35109",
+        "dub": null,
+        "url": "https://www.animegg.org/shugo-chara-party-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/35122",
+        "dub": null,
+        "url": "https://www.animegg.org/shugo-chara-party-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/35110",
+        "dub": null,
+        "url": "https://www.animegg.org/shugo-chara-party-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/35111",
+        "dub": null,
+        "url": "https://www.animegg.org/shugo-chara-party-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/35116",
+        "dub": null,
+        "url": "https://www.animegg.org/shugo-chara-party-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/35112",
+        "dub": null,
+        "url": "https://www.animegg.org/shugo-chara-party-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/35114",
+        "dub": null,
+        "url": "https://www.animegg.org/shugo-chara-party-episode-14"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/35113",
+        "dub": null,
+        "url": "https://www.animegg.org/shugo-chara-party-episode-15"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/35115",
+        "dub": null,
+        "url": "https://www.animegg.org/shugo-chara-party-episode-16"
+      },
+      {
+        "ep": 17,
+        "sub": "https://www.animegg.org/embed/35117",
+        "dub": null,
+        "url": "https://www.animegg.org/shugo-chara-party-episode-17"
+      },
+      {
+        "ep": 18,
+        "sub": "https://www.animegg.org/embed/35118",
+        "dub": null,
+        "url": "https://www.animegg.org/shugo-chara-party-episode-18"
+      },
+      {
+        "ep": 19,
+        "sub": "https://www.animegg.org/embed/35119",
+        "dub": null,
+        "url": "https://www.animegg.org/shugo-chara-party-episode-19"
+      },
+      {
+        "ep": 20,
+        "sub": "https://www.animegg.org/embed/35121",
+        "dub": null,
+        "url": "https://www.animegg.org/shugo-chara-party-episode-20"
+      },
+      {
+        "ep": 21,
+        "sub": "https://www.animegg.org/embed/35120",
+        "dub": null,
+        "url": "https://www.animegg.org/shugo-chara-party-episode-21"
+      },
+      {
+        "ep": 22,
+        "sub": "https://www.animegg.org/embed/35123",
+        "dub": null,
+        "url": "https://www.animegg.org/shugo-chara-party-episode-22"
+      },
+      {
+        "ep": 23,
+        "sub": "https://www.animegg.org/embed/35124",
+        "dub": null,
+        "url": "https://www.animegg.org/shugo-chara-party-episode-23"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/35125",
+        "dub": null,
+        "url": "https://www.animegg.org/shugo-chara-party-episode-24"
+      },
+      {
+        "ep": 25,
+        "sub": "https://www.animegg.org/embed/35126",
+        "dub": null,
+        "url": "https://www.animegg.org/shugo-chara-party-episode-25"
+      }
+    ]
   }
 ]
