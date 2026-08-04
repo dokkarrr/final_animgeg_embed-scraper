@@ -91070,5 +91070,87 @@
         "url": "https://www.animegg.org/bleach-sennen-kessen-hen-episode-40"
       }
     ]
+  },
+  {
+    "serial_no": 1043,
+    "title": "Valkyrie Drive: Mermaid",
+    "animegg_url": "https://www.animegg.org/series/valkyrie-drive-mermaid",
+    "mal_url": "https://myanimelist.net/anime/30385",
+    "mal_id": 30385,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/79412",
+        "dub": "https://www.animegg.org/embed/79424",
+        "url": "https://www.animegg.org/valkyrie-drive-mermaid-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/79518",
+        "dub": null,
+        "url": "https://www.animegg.org/valkyrie-drive-mermaid-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/79624",
+        "dub": "https://www.animegg.org/embed/79625",
+        "url": "https://www.animegg.org/valkyrie-drive-mermaid-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/79721",
+        "dub": null,
+        "url": "https://www.animegg.org/valkyrie-drive-mermaid-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/79810",
+        "dub": null,
+        "url": "https://www.animegg.org/valkyrie-drive-mermaid-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/79896",
+        "dub": null,
+        "url": "https://www.animegg.org/valkyrie-drive-mermaid-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/79999",
+        "dub": null,
+        "url": "https://www.animegg.org/valkyrie-drive-mermaid-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/80096",
+        "dub": null,
+        "url": "https://www.animegg.org/valkyrie-drive-mermaid-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/80222",
+        "dub": null,
+        "url": "https://www.animegg.org/valkyrie-drive-mermaid-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/80316",
+        "dub": null,
+        "url": "https://www.animegg.org/valkyrie-drive-mermaid-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/80413",
+        "dub": null,
+        "url": "https://www.animegg.org/valkyrie-drive-mermaid-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/80496",
+        "dub": "https://www.animegg.org/embed/80501",
+        "url": "https://www.animegg.org/valkyrie-drive-mermaid-episode-12"
+      }
+    ]
   }
 ]
