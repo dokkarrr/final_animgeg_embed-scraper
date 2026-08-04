@@ -8610,5 +8610,87 @@
         "url": "https://www.animegg.org/given-episode-11"
       }
     ]
+  },
+  {
+    "serial_no": 1604,
+    "title": "Himouto! Umaru-chan S",
+    "animegg_url": "https://www.animegg.org/series/himouto-umaru-chan-s",
+    "mal_url": "https://myanimelist.net/anime/31234",
+    "mal_id": 31234,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/78241",
+        "dub": null,
+        "url": "https://www.animegg.org/himouto-umaru-chan-s-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/78245",
+        "dub": null,
+        "url": "https://www.animegg.org/himouto-umaru-chan-s-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/78248",
+        "dub": null,
+        "url": "https://www.animegg.org/himouto-umaru-chan-s-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/78569",
+        "dub": null,
+        "url": "https://www.animegg.org/himouto-umaru-chan-s-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/78813",
+        "dub": null,
+        "url": "https://www.animegg.org/himouto-umaru-chan-s-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/79021",
+        "dub": null,
+        "url": "https://www.animegg.org/himouto-umaru-chan-s-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/79153",
+        "dub": null,
+        "url": "https://www.animegg.org/himouto-umaru-chan-s-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/79414",
+        "dub": null,
+        "url": "https://www.animegg.org/himouto-umaru-chan-s-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/79415",
+        "dub": null,
+        "url": "https://www.animegg.org/himouto-umaru-chan-s-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/83248",
+        "dub": null,
+        "url": "https://www.animegg.org/himouto-umaru-chan-s-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/83249",
+        "dub": "https://www.animegg.org/embed/83258",
+        "url": "https://www.animegg.org/himouto-umaru-chan-s-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/83250",
+        "dub": "https://www.animegg.org/embed/83259",
+        "url": "https://www.animegg.org/himouto-umaru-chan-s-episode-12"
+      }
+    ]
   }
 ]
