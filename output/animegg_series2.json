@@ -78872,5 +78872,69 @@
         "url": "https://www.animegg.org/astro-boy-2003-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 962,
+    "title": "Seitokai Yakuindomo 2 OVA",
+    "animegg_url": "https://www.animegg.org/series/seitokai-yakuindomo-2-ova",
+    "mal_url": "https://myanimelist.net/anime/26123",
+    "mal_id": 26123,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/96415",
+        "dub": null,
+        "url": "https://www.animegg.org/seitokai-yakuindomo-2-ova-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/95172",
+        "dub": null,
+        "url": "https://www.animegg.org/seitokai-yakuindomo-2-ova-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/95171",
+        "dub": null,
+        "url": "https://www.animegg.org/seitokai-yakuindomo-2-ova-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/85276",
+        "dub": null,
+        "url": "https://www.animegg.org/seitokai-yakuindomo-2-ova-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/81946",
+        "dub": "https://www.animegg.org/embed/82759",
+        "url": "https://www.animegg.org/seitokai-yakuindomo-2-ova-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/79995",
+        "dub": "https://www.animegg.org/embed/80543",
+        "url": "https://www.animegg.org/seitokai-yakuindomo-2-ova-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/74973",
+        "dub": "https://www.animegg.org/embed/88264",
+        "url": "https://www.animegg.org/seitokai-yakuindomo-2-ova-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/44965",
+        "dub": "https://www.animegg.org/embed/67595",
+        "url": "https://www.animegg.org/seitokai-yakuindomo-2-ova-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/44964",
+        "dub": "https://www.animegg.org/embed/78483",
+        "url": "https://www.animegg.org/seitokai-yakuindomo-2-ova-episode-1"
+      }
+    ]
   }
 ]
