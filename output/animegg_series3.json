@@ -95378,5 +95378,93 @@
         "url": "https://www.animegg.org/tokyo-magnitude-80-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 2284,
+    "title": "Orenchi no Furo Jijou",
+    "animegg_url": "https://www.animegg.org/series/orenchi-no-furo-jijou",
+    "mal_url": "https://myanimelist.net/anime/24211",
+    "mal_id": 24211,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66404",
+        "dub": null,
+        "url": "https://www.animegg.org/orenchi-no-furo-jijou-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/66405",
+        "dub": null,
+        "url": "https://www.animegg.org/orenchi-no-furo-jijou-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/66406",
+        "dub": null,
+        "url": "https://www.animegg.org/orenchi-no-furo-jijou-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/66407",
+        "dub": null,
+        "url": "https://www.animegg.org/orenchi-no-furo-jijou-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/66408",
+        "dub": null,
+        "url": "https://www.animegg.org/orenchi-no-furo-jijou-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/66632",
+        "dub": null,
+        "url": "https://www.animegg.org/orenchi-no-furo-jijou-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/66945",
+        "dub": null,
+        "url": "https://www.animegg.org/orenchi-no-furo-jijou-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/67210",
+        "dub": null,
+        "url": "https://www.animegg.org/orenchi-no-furo-jijou-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/67356",
+        "dub": null,
+        "url": "https://www.animegg.org/orenchi-no-furo-jijou-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/67477",
+        "dub": "https://www.animegg.org/embed/67478",
+        "url": "https://www.animegg.org/orenchi-no-furo-jijou-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/67603",
+        "dub": null,
+        "url": "https://www.animegg.org/orenchi-no-furo-jijou-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/67710",
+        "dub": "https://www.animegg.org/embed/67711",
+        "url": "https://www.animegg.org/orenchi-no-furo-jijou-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/67794",
+        "dub": null,
+        "url": "https://www.animegg.org/orenchi-no-furo-jijou-episode-13"
+      }
+    ]
   }
 ]
