@@ -87862,5 +87862,87 @@
         "url": "https://www.animegg.org/ushinawareta-mirai-wo-motomete-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2217,
+    "title": "Ange Vierge",
+    "animegg_url": "https://www.animegg.org/series/ange-vierge",
+    "mal_url": "https://myanimelist.net/anime/32171",
+    "mal_id": 32171,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/83006",
+        "dub": null,
+        "url": "https://www.animegg.org/ange-vierge-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/83111",
+        "dub": null,
+        "url": "https://www.animegg.org/ange-vierge-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/83221",
+        "dub": null,
+        "url": "https://www.animegg.org/ange-vierge-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/83306",
+        "dub": null,
+        "url": "https://www.animegg.org/ange-vierge-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/83393",
+        "dub": null,
+        "url": "https://www.animegg.org/ange-vierge-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/83487",
+        "dub": null,
+        "url": "https://www.animegg.org/ange-vierge-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/83567",
+        "dub": null,
+        "url": "https://www.animegg.org/ange-vierge-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/83652",
+        "dub": null,
+        "url": "https://www.animegg.org/ange-vierge-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/83749",
+        "dub": null,
+        "url": "https://www.animegg.org/ange-vierge-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/83830",
+        "dub": null,
+        "url": "https://www.animegg.org/ange-vierge-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/83918",
+        "dub": null,
+        "url": "https://www.animegg.org/ange-vierge-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/84004",
+        "dub": null,
+        "url": "https://www.animegg.org/ange-vierge-episode-12"
+      }
+    ]
   }
 ]
