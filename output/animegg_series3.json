@@ -118767,5 +118767,87 @@
         "url": "https://www.animegg.org/robot-girls-z-plus-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 2529,
+    "title": "Hanayamata",
+    "animegg_url": "https://www.animegg.org/series/hanayamata",
+    "mal_url": "https://myanimelist.net/anime/21681",
+    "mal_id": 21681,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/45759",
+        "dub": null,
+        "url": "https://www.animegg.org/hanayamata-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/45760",
+        "dub": null,
+        "url": "https://www.animegg.org/hanayamata-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/45761",
+        "dub": null,
+        "url": "https://www.animegg.org/hanayamata-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/45762",
+        "dub": null,
+        "url": "https://www.animegg.org/hanayamata-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/45763",
+        "dub": null,
+        "url": "https://www.animegg.org/hanayamata-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/45764",
+        "dub": null,
+        "url": "https://www.animegg.org/hanayamata-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/45765",
+        "dub": null,
+        "url": "https://www.animegg.org/hanayamata-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/45766",
+        "dub": null,
+        "url": "https://www.animegg.org/hanayamata-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/45767",
+        "dub": null,
+        "url": "https://www.animegg.org/hanayamata-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/45768",
+        "dub": null,
+        "url": "https://www.animegg.org/hanayamata-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/45769",
+        "dub": null,
+        "url": "https://www.animegg.org/hanayamata-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/45770",
+        "dub": null,
+        "url": "https://www.animegg.org/hanayamata-episode-12"
+      }
+    ]
   }
 ]
