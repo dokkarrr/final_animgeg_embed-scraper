@@ -52172,5 +52172,87 @@
         "url": "https://www.animegg.org/zoku-natsume-yuujinchou-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 1915,
+    "title": "Kage Kara Mamoru!",
+    "animegg_url": "https://www.animegg.org/series/kage-kara-mamoru",
+    "mal_url": "https://myanimelist.net/anime/590",
+    "mal_id": 590,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/18889",
+        "dub": null,
+        "url": "https://www.animegg.org/kage-kara-mamoru-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/18885",
+        "dub": null,
+        "url": "https://www.animegg.org/kage-kara-mamoru-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/18888",
+        "dub": null,
+        "url": "https://www.animegg.org/kage-kara-mamoru-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/18887",
+        "dub": null,
+        "url": "https://www.animegg.org/kage-kara-mamoru-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/18886",
+        "dub": null,
+        "url": "https://www.animegg.org/kage-kara-mamoru-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/18894",
+        "dub": null,
+        "url": "https://www.animegg.org/kage-kara-mamoru-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/18892",
+        "dub": null,
+        "url": "https://www.animegg.org/kage-kara-mamoru-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/18893",
+        "dub": null,
+        "url": "https://www.animegg.org/kage-kara-mamoru-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/18891",
+        "dub": null,
+        "url": "https://www.animegg.org/kage-kara-mamoru-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/18890",
+        "dub": null,
+        "url": "https://www.animegg.org/kage-kara-mamoru-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/18895",
+        "dub": null,
+        "url": "https://www.animegg.org/kage-kara-mamoru-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/18896",
+        "dub": null,
+        "url": "https://www.animegg.org/kage-kara-mamoru-episode-12"
+      }
+    ]
   }
 ]
