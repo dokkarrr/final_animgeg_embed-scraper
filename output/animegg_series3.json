@@ -114012,5 +114012,63 @@
         "url": "https://www.animegg.org/panzer-world-galient-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 2474,
+    "title": "Agent Aika",
+    "animegg_url": "https://www.animegg.org/series/agent-aika",
+    "mal_url": "https://myanimelist.net/anime/366",
+    "mal_id": 366,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/417",
+        "dub": "https://www.animegg.org/embed/67999",
+        "url": "https://www.animegg.org/agent-aika-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/416",
+        "dub": "https://www.animegg.org/embed/68001",
+        "url": "https://www.animegg.org/agent-aika-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/414",
+        "dub": "https://www.animegg.org/embed/68002",
+        "url": "https://www.animegg.org/agent-aika-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/415",
+        "dub": "https://www.animegg.org/embed/68004",
+        "url": "https://www.animegg.org/agent-aika-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/418",
+        "dub": "https://www.animegg.org/embed/68007",
+        "url": "https://www.animegg.org/agent-aika-episode-5"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/421",
+        "dub": "https://www.animegg.org/embed/68005",
+        "url": "https://www.animegg.org/agent-aika-episode-45"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/419",
+        "dub": "https://www.animegg.org/embed/68010",
+        "url": "https://www.animegg.org/agent-aika-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/420",
+        "dub": "https://www.animegg.org/embed/68012",
+        "url": "https://www.animegg.org/agent-aika-episode-7"
+      }
+    ]
   }
 ]
