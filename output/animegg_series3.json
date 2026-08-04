@@ -122331,5 +122331,87 @@
         "url": "https://www.animegg.org/devilman-crybaby-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 2556,
+    "title": "Kyoshiro to Towa no Sora",
+    "animegg_url": "https://www.animegg.org/series/kyoshiro-to-towa-no-sora",
+    "mal_url": "https://myanimelist.net/anime/1810",
+    "mal_id": 1810,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/21111",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoshiro-to-towa-no-sora-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/21113",
+        "dub": "https://www.animegg.org/embed/21114",
+        "url": "https://www.animegg.org/kyoshiro-to-towa-no-sora-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/21109",
+        "dub": "https://www.animegg.org/embed/21110",
+        "url": "https://www.animegg.org/kyoshiro-to-towa-no-sora-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/21105",
+        "dub": "https://www.animegg.org/embed/21106",
+        "url": "https://www.animegg.org/kyoshiro-to-towa-no-sora-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/21107",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoshiro-to-towa-no-sora-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/21119",
+        "dub": "https://www.animegg.org/embed/21120",
+        "url": "https://www.animegg.org/kyoshiro-to-towa-no-sora-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/21115",
+        "dub": "https://www.animegg.org/embed/21116",
+        "url": "https://www.animegg.org/kyoshiro-to-towa-no-sora-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/21117",
+        "dub": "https://www.animegg.org/embed/21118",
+        "url": "https://www.animegg.org/kyoshiro-to-towa-no-sora-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/21125",
+        "dub": "https://www.animegg.org/embed/21126",
+        "url": "https://www.animegg.org/kyoshiro-to-towa-no-sora-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/21121",
+        "dub": "https://www.animegg.org/embed/21122",
+        "url": "https://www.animegg.org/kyoshiro-to-towa-no-sora-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/21123",
+        "dub": "https://www.animegg.org/embed/21124",
+        "url": "https://www.animegg.org/kyoshiro-to-towa-no-sora-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/21127",
+        "dub": "https://www.animegg.org/embed/21128",
+        "url": "https://www.animegg.org/kyoshiro-to-towa-no-sora-episode-12"
+      }
+    ]
   }
 ]
