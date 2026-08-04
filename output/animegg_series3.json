@@ -115590,5 +115590,87 @@
         "url": "https://www.animegg.org/saredo-tsumibito-wa-ryuu-to-odoru-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2492,
+    "title": "Netsuzou TRap",
+    "animegg_url": "https://www.animegg.org/series/netsuzou-trap",
+    "mal_url": "https://myanimelist.net/anime/34383",
+    "mal_id": 34383,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/87498",
+        "dub": null,
+        "url": "https://www.animegg.org/netsuzou-trap-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/87570",
+        "dub": null,
+        "url": "https://www.animegg.org/netsuzou-trap-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/87640",
+        "dub": null,
+        "url": "https://www.animegg.org/netsuzou-trap-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/87709",
+        "dub": null,
+        "url": "https://www.animegg.org/netsuzou-trap-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/87802",
+        "dub": null,
+        "url": "https://www.animegg.org/netsuzou-trap-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/87874",
+        "dub": null,
+        "url": "https://www.animegg.org/netsuzou-trap-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/87946",
+        "dub": null,
+        "url": "https://www.animegg.org/netsuzou-trap-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/88034",
+        "dub": null,
+        "url": "https://www.animegg.org/netsuzou-trap-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/88110",
+        "dub": null,
+        "url": "https://www.animegg.org/netsuzou-trap-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/88191",
+        "dub": null,
+        "url": "https://www.animegg.org/netsuzou-trap-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/88267",
+        "dub": null,
+        "url": "https://www.animegg.org/netsuzou-trap-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/88362",
+        "dub": null,
+        "url": "https://www.animegg.org/netsuzou-trap-episode-12"
+      }
+    ]
   }
 ]
