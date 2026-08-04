@@ -63190,5 +63190,75 @@
         "url": "https://www.animegg.org/tomica-kizuna-gattai-earth-granner-episode-51"
       }
     ]
+  },
+  {
+    "serial_no": 871,
+    "title": "Date A Live II",
+    "animegg_url": "https://www.animegg.org/series/date-a-live-ii",
+    "mal_url": "https://myanimelist.net/anime/19163",
+    "mal_id": 19163,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/88878",
+        "dub": null,
+        "url": "https://www.animegg.org/date-a-live-ii-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/7357",
+        "dub": null,
+        "url": "https://www.animegg.org/date-a-live-ii-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/7356",
+        "dub": null,
+        "url": "https://www.animegg.org/date-a-live-ii-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/7358",
+        "dub": null,
+        "url": "https://www.animegg.org/date-a-live-ii-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/88877",
+        "dub": null,
+        "url": "https://www.animegg.org/date-a-live-ii-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/7361",
+        "dub": null,
+        "url": "https://www.animegg.org/date-a-live-ii-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/7362",
+        "dub": null,
+        "url": "https://www.animegg.org/date-a-live-ii-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/7363",
+        "dub": "https://www.animegg.org/embed/7364",
+        "url": "https://www.animegg.org/date-a-live-ii-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/7365",
+        "dub": "https://www.animegg.org/embed/7366",
+        "url": "https://www.animegg.org/date-a-live-ii-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/7367",
+        "dub": null,
+        "url": "https://www.animegg.org/date-a-live-ii-episode-10"
+      }
+    ]
   }
 ]
