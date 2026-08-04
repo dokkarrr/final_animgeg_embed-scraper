@@ -102280,5 +102280,63 @@
         "url": "https://www.animegg.org/super-robot-wars-og-divine-wars-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 2352,
+    "title": "Hunter X Hunter: Greed Island  (OVA)",
+    "animegg_url": "https://www.animegg.org/series/hunter-x-hunter-greed-island-ova",
+    "mal_url": "https://myanimelist.net/anime/11061",
+    "mal_id": 11061,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/17156",
+        "dub": null,
+        "url": "https://www.animegg.org/hunter-x-hunter-greed-island-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/17158",
+        "dub": null,
+        "url": "https://www.animegg.org/hunter-x-hunter-greed-island-ova-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/17157",
+        "dub": null,
+        "url": "https://www.animegg.org/hunter-x-hunter-greed-island-ova-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/17160",
+        "dub": null,
+        "url": "https://www.animegg.org/hunter-x-hunter-greed-island-ova-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/17159",
+        "dub": null,
+        "url": "https://www.animegg.org/hunter-x-hunter-greed-island-ova-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/17161",
+        "dub": null,
+        "url": "https://www.animegg.org/hunter-x-hunter-greed-island-ova-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/17163",
+        "dub": null,
+        "url": "https://www.animegg.org/hunter-x-hunter-greed-island-ova-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/17162",
+        "dub": null,
+        "url": "https://www.animegg.org/hunter-x-hunter-greed-island-ova-episode-8"
+      }
+    ]
   }
 ]
