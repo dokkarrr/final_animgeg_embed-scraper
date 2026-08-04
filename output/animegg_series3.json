@@ -67670,5 +67670,99 @@
         "url": "https://www.animegg.org/kino-no-tabi-the-beautiful-world-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2053,
+    "title": "Himawari!",
+    "animegg_url": "https://www.animegg.org/series/himawari",
+    "mal_url": "https://myanimelist.net/anime/910",
+    "mal_id": 910,
+    "total_ep": 14,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/16445",
+        "dub": null,
+        "url": "https://www.animegg.org/himawari-episode-0"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/16433",
+        "dub": null,
+        "url": "https://www.animegg.org/himawari-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/16435",
+        "dub": null,
+        "url": "https://www.animegg.org/himawari-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/16432",
+        "dub": null,
+        "url": "https://www.animegg.org/himawari-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/16434",
+        "dub": null,
+        "url": "https://www.animegg.org/himawari-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/16436",
+        "dub": null,
+        "url": "https://www.animegg.org/himawari-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/16439",
+        "dub": null,
+        "url": "https://www.animegg.org/himawari-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/16438",
+        "dub": null,
+        "url": "https://www.animegg.org/himawari-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/16437",
+        "dub": null,
+        "url": "https://www.animegg.org/himawari-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/16440",
+        "dub": null,
+        "url": "https://www.animegg.org/himawari-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/16441",
+        "dub": null,
+        "url": "https://www.animegg.org/himawari-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/16442",
+        "dub": null,
+        "url": "https://www.animegg.org/himawari-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/16443",
+        "dub": null,
+        "url": "https://www.animegg.org/himawari-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/16444",
+        "dub": null,
+        "url": "https://www.animegg.org/himawari-episode-13"
+      }
+    ]
   }
 ]
