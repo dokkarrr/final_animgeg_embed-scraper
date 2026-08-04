@@ -130121,5 +130121,93 @@
         "url": "https://www.animegg.org/kyousougiga-tv-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 2639,
+    "title": "Da Capo II Second Season",
+    "animegg_url": "https://www.animegg.org/series/da-capo-ii-second-season",
+    "mal_url": "https://myanimelist.net/anime/3627",
+    "mal_id": 3627,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/6954",
+        "dub": null,
+        "url": "https://www.animegg.org/da-capo-ii-second-season-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/6953",
+        "dub": null,
+        "url": "https://www.animegg.org/da-capo-ii-second-season-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/6956",
+        "dub": null,
+        "url": "https://www.animegg.org/da-capo-ii-second-season-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/6957",
+        "dub": null,
+        "url": "https://www.animegg.org/da-capo-ii-second-season-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/6955",
+        "dub": null,
+        "url": "https://www.animegg.org/da-capo-ii-second-season-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/6958",
+        "dub": null,
+        "url": "https://www.animegg.org/da-capo-ii-second-season-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/6959",
+        "dub": null,
+        "url": "https://www.animegg.org/da-capo-ii-second-season-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/6961",
+        "dub": null,
+        "url": "https://www.animegg.org/da-capo-ii-second-season-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/6960",
+        "dub": null,
+        "url": "https://www.animegg.org/da-capo-ii-second-season-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/6962",
+        "dub": null,
+        "url": "https://www.animegg.org/da-capo-ii-second-season-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/6963",
+        "dub": null,
+        "url": "https://www.animegg.org/da-capo-ii-second-season-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/6964",
+        "dub": null,
+        "url": "https://www.animegg.org/da-capo-ii-second-season-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/6965",
+        "dub": null,
+        "url": "https://www.animegg.org/da-capo-ii-second-season-episode-13"
+      }
+    ]
   }
 ]
