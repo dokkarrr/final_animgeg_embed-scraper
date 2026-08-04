@@ -38968,5 +38968,93 @@
         "url": "https://www.animegg.org/yuru-yuri-san-hai-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1812,
+    "title": "Sushi Police",
+    "animegg_url": "https://www.animegg.org/series/sushi-police",
+    "mal_url": "https://myanimelist.net/anime/31633",
+    "mal_id": 31633,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/80574",
+        "dub": "https://www.animegg.org/embed/80575",
+        "url": "https://www.animegg.org/sushi-police-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/80664",
+        "dub": "https://www.animegg.org/embed/80666",
+        "url": "https://www.animegg.org/sushi-police-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/80772",
+        "dub": "https://www.animegg.org/embed/80773",
+        "url": "https://www.animegg.org/sushi-police-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/80874",
+        "dub": null,
+        "url": "https://www.animegg.org/sushi-police-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/80972",
+        "dub": "https://www.animegg.org/embed/80994",
+        "url": "https://www.animegg.org/sushi-police-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/81074",
+        "dub": null,
+        "url": "https://www.animegg.org/sushi-police-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/81169",
+        "dub": "https://www.animegg.org/embed/81170",
+        "url": "https://www.animegg.org/sushi-police-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/81279",
+        "dub": "https://www.animegg.org/embed/81340",
+        "url": "https://www.animegg.org/sushi-police-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/81380",
+        "dub": "https://www.animegg.org/embed/81381",
+        "url": "https://www.animegg.org/sushi-police-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/81467",
+        "dub": null,
+        "url": "https://www.animegg.org/sushi-police-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/81570",
+        "dub": null,
+        "url": "https://www.animegg.org/sushi-police-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/81667",
+        "dub": null,
+        "url": "https://www.animegg.org/sushi-police-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/81746",
+        "dub": null,
+        "url": "https://www.animegg.org/sushi-police-episode-13"
+      }
+    ]
   }
 ]
