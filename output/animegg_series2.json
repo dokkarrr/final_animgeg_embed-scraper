@@ -61906,5 +61906,87 @@
         "url": "https://www.animegg.org/major-s3-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 865,
+    "title": "Aldnoah.Zero",
+    "animegg_url": "https://www.animegg.org/series/aldnoahzero",
+    "mal_url": "https://myanimelist.net/anime/22729",
+    "mal_id": 22729,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/45589",
+        "dub": "https://www.animegg.org/embed/45590",
+        "url": "https://www.animegg.org/aldnoahzero-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/45591",
+        "dub": "https://www.animegg.org/embed/45592",
+        "url": "https://www.animegg.org/aldnoahzero-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/45593",
+        "dub": "https://www.animegg.org/embed/45594",
+        "url": "https://www.animegg.org/aldnoahzero-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/45595",
+        "dub": "https://www.animegg.org/embed/45596",
+        "url": "https://www.animegg.org/aldnoahzero-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/45597",
+        "dub": "https://www.animegg.org/embed/45598",
+        "url": "https://www.animegg.org/aldnoahzero-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/45599",
+        "dub": "https://www.animegg.org/embed/45600",
+        "url": "https://www.animegg.org/aldnoahzero-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/45601",
+        "dub": "https://www.animegg.org/embed/45602",
+        "url": "https://www.animegg.org/aldnoahzero-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/45603",
+        "dub": "https://www.animegg.org/embed/45604",
+        "url": "https://www.animegg.org/aldnoahzero-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/45605",
+        "dub": "https://www.animegg.org/embed/45606",
+        "url": "https://www.animegg.org/aldnoahzero-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/45607",
+        "dub": "https://www.animegg.org/embed/45608",
+        "url": "https://www.animegg.org/aldnoahzero-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/45609",
+        "dub": "https://www.animegg.org/embed/45610",
+        "url": "https://www.animegg.org/aldnoahzero-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/45611",
+        "dub": null,
+        "url": "https://www.animegg.org/aldnoahzero-episode-12"
+      }
+    ]
   }
 ]
