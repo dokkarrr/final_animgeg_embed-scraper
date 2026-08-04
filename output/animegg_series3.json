@@ -129577,5 +129577,87 @@
         "url": "https://www.animegg.org/emiya-san-chi-no-kyou-no-gohan-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2632,
+    "title": "Jaku-Chara Tomozaki-kun",
+    "animegg_url": "https://www.animegg.org/series/jaku-chara-tomozaki-kun",
+    "mal_url": "https://myanimelist.net/anime/40530",
+    "mal_id": 40530,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/100435",
+        "dub": null,
+        "url": "https://www.animegg.org/jaku-chara-tomozaki-kun-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/100517",
+        "dub": null,
+        "url": "https://www.animegg.org/jaku-chara-tomozaki-kun-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/100606",
+        "dub": null,
+        "url": "https://www.animegg.org/jaku-chara-tomozaki-kun-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/100678",
+        "dub": null,
+        "url": "https://www.animegg.org/jaku-chara-tomozaki-kun-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/100753",
+        "dub": null,
+        "url": "https://www.animegg.org/jaku-chara-tomozaki-kun-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/100819",
+        "dub": null,
+        "url": "https://www.animegg.org/jaku-chara-tomozaki-kun-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/100894",
+        "dub": null,
+        "url": "https://www.animegg.org/jaku-chara-tomozaki-kun-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/100971",
+        "dub": null,
+        "url": "https://www.animegg.org/jaku-chara-tomozaki-kun-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/101044",
+        "dub": null,
+        "url": "https://www.animegg.org/jaku-chara-tomozaki-kun-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/101116",
+        "dub": null,
+        "url": "https://www.animegg.org/jaku-chara-tomozaki-kun-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/101189",
+        "dub": null,
+        "url": "https://www.animegg.org/jaku-chara-tomozaki-kun-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/101261",
+        "dub": null,
+        "url": "https://www.animegg.org/jaku-chara-tomozaki-kun-episode-12"
+      }
+    ]
   }
 ]
