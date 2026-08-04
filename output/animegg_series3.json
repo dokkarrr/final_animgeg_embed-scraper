@@ -76498,5 +76498,87 @@
         "url": "https://www.animegg.org/h20-footprints-in-the-sand-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 2136,
+    "title": "Himouto! Umaru-chan R",
+    "animegg_url": "https://www.animegg.org/series/himouto-umaru-chan-r",
+    "mal_url": "https://myanimelist.net/anime/35376",
+    "mal_id": 35376,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/88594",
+        "dub": null,
+        "url": "https://www.animegg.org/himouto-umaru-chan-r-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/88683",
+        "dub": null,
+        "url": "https://www.animegg.org/himouto-umaru-chan-r-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/88757",
+        "dub": null,
+        "url": "https://www.animegg.org/himouto-umaru-chan-r-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/88848",
+        "dub": null,
+        "url": "https://www.animegg.org/himouto-umaru-chan-r-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/88935",
+        "dub": null,
+        "url": "https://www.animegg.org/himouto-umaru-chan-r-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/89028",
+        "dub": null,
+        "url": "https://www.animegg.org/himouto-umaru-chan-r-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/89112",
+        "dub": null,
+        "url": "https://www.animegg.org/himouto-umaru-chan-r-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/89191",
+        "dub": null,
+        "url": "https://www.animegg.org/himouto-umaru-chan-r-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/89262",
+        "dub": null,
+        "url": "https://www.animegg.org/himouto-umaru-chan-r-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/89344",
+        "dub": null,
+        "url": "https://www.animegg.org/himouto-umaru-chan-r-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/89420",
+        "dub": null,
+        "url": "https://www.animegg.org/himouto-umaru-chan-r-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/89491",
+        "dub": null,
+        "url": "https://www.animegg.org/himouto-umaru-chan-r-episode-12"
+      }
+    ]
   }
 ]
