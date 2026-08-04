@@ -63978,5 +63978,87 @@
         "url": "https://www.animegg.org/ore-twintails-ni-narimasu-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2015,
+    "title": "Teekyuu 7",
+    "animegg_url": "https://www.animegg.org/series/teekyuu-7",
+    "mal_url": "https://myanimelist.net/anime/32228",
+    "mal_id": 32228,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/81732",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-7-episode-12"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/81644",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-7-episode-11"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/81551",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-7-episode-10"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/81451",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-7-episode-9"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/81363",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-7-episode-8"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/81238",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-7-episode-7"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/81139",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-7-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/81049",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-7-episode-5"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/80951",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-7-episode-4"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/80846",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-7-episode-3"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/80738",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-7-episode-2"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/80648",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-7-episode-1"
+      }
+    ]
   }
 ]
