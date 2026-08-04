@@ -131094,5 +131094,93 @@
         "url": "https://www.animegg.org/high-school-star-musical-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1278,
+    "title": "Rewrite",
+    "animegg_url": "https://www.animegg.org/series/rewrite",
+    "mal_url": "https://myanimelist.net/anime/31716",
+    "mal_id": 31716,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/82917",
+        "dub": "https://www.animegg.org/embed/82918",
+        "url": "https://www.animegg.org/rewrite-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/83000",
+        "dub": null,
+        "url": "https://www.animegg.org/rewrite-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/83108",
+        "dub": null,
+        "url": "https://www.animegg.org/rewrite-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/83218",
+        "dub": null,
+        "url": "https://www.animegg.org/rewrite-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/83304",
+        "dub": null,
+        "url": "https://www.animegg.org/rewrite-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/83390",
+        "dub": null,
+        "url": "https://www.animegg.org/rewrite-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/83484",
+        "dub": null,
+        "url": "https://www.animegg.org/rewrite-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/83564",
+        "dub": null,
+        "url": "https://www.animegg.org/rewrite-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/83649",
+        "dub": null,
+        "url": "https://www.animegg.org/rewrite-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/83746",
+        "dub": null,
+        "url": "https://www.animegg.org/rewrite-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/83827",
+        "dub": null,
+        "url": "https://www.animegg.org/rewrite-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/83915",
+        "dub": null,
+        "url": "https://www.animegg.org/rewrite-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/84001",
+        "dub": null,
+        "url": "https://www.animegg.org/rewrite-episode-13"
+      }
+    ]
   }
 ]
