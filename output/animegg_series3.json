@@ -40104,5 +40104,93 @@
         "url": "https://www.animegg.org/kamisama-no-memochou-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1823,
+    "title": "Baki 2nd Season",
+    "animegg_url": "https://www.animegg.org/series/baki-2nd-season",
+    "mal_url": "https://myanimelist.net/anime/40028",
+    "mal_id": 40028,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/98690",
+        "dub": null,
+        "url": "https://www.animegg.org/baki-2nd-season-episode-13"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/98722",
+        "dub": null,
+        "url": "https://www.animegg.org/baki-2nd-season-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/98721",
+        "dub": null,
+        "url": "https://www.animegg.org/baki-2nd-season-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/98720",
+        "dub": null,
+        "url": "https://www.animegg.org/baki-2nd-season-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/98730",
+        "dub": null,
+        "url": "https://www.animegg.org/baki-2nd-season-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/98729",
+        "dub": null,
+        "url": "https://www.animegg.org/baki-2nd-season-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/98728",
+        "dub": null,
+        "url": "https://www.animegg.org/baki-2nd-season-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/98727",
+        "dub": null,
+        "url": "https://www.animegg.org/baki-2nd-season-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/98726",
+        "dub": null,
+        "url": "https://www.animegg.org/baki-2nd-season-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/98725",
+        "dub": null,
+        "url": "https://www.animegg.org/baki-2nd-season-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/98724",
+        "dub": null,
+        "url": "https://www.animegg.org/baki-2nd-season-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/98723",
+        "dub": null,
+        "url": "https://www.animegg.org/baki-2nd-season-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/98689",
+        "dub": null,
+        "url": "https://www.animegg.org/baki-2nd-season-episode-1"
+      }
+    ]
   }
 ]
