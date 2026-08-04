@@ -54486,5 +54486,21 @@
         "url": "https://www.animegg.org/wangan-midnight-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 816,
+    "title": "Dragon Ball Super Movie: Broly",
+    "animegg_url": "https://www.animegg.org/series/dragon-ball-super-movie-broly",
+    "mal_url": "https://myanimelist.net/anime/36946",
+    "mal_id": 36946,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/94375",
+        "dub": null,
+        "url": "https://www.animegg.org/dragon-ball-super-movie-broly-episode-1"
+      }
+    ]
   }
 ]
