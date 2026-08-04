@@ -62344,5 +62344,93 @@
         "url": "https://www.animegg.org/ganbare-goemon-episode-23"
       }
     ]
+  },
+  {
+    "serial_no": 2001,
+    "title": "Love Live! Sunshine!!",
+    "animegg_url": "https://www.animegg.org/series/love-live-sunshine",
+    "mal_url": "https://myanimelist.net/anime/32526",
+    "mal_id": 32526,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/82915",
+        "dub": "https://www.animegg.org/embed/82916",
+        "url": "https://www.animegg.org/lovelivesunshine-anime-episode-1-4669"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/82997",
+        "dub": null,
+        "url": "https://www.animegg.org/lovelivesun-shine-episode-2-5564"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/83106",
+        "dub": null,
+        "url": "https://www.animegg.org/lovelivesun-shine-episode-3-1817"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/83214",
+        "dub": null,
+        "url": "https://www.animegg.org/lovelivesunshine-anime-episode-4-1264"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/83302",
+        "dub": null,
+        "url": "https://www.animegg.org/lovelivesunshine-episode-5-4078"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/83387",
+        "dub": null,
+        "url": "https://www.animegg.org/love-live-sunshine-episode-6-3971"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/83482",
+        "dub": null,
+        "url": "https://www.animegg.org/love-live-sunshine-episode-7-2411"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/83562",
+        "dub": null,
+        "url": "https://www.animegg.org/love-live-sunshine-episode-8-3206"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/83656",
+        "dub": null,
+        "url": "https://www.animegg.org/love-live-sunshine-episode-9-7906"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/83744",
+        "dub": null,
+        "url": "https://www.animegg.org/love-live-sunshine-episode-10-7217"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/83912",
+        "dub": null,
+        "url": "https://www.animegg.org/love-live-sunshine-episode-11-9132"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/83913",
+        "dub": null,
+        "url": "https://www.animegg.org/love-live-sunshine-episode-12-3338"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/84000",
+        "dub": null,
+        "url": "https://www.animegg.org/love-live-sunshine-episode-13-6810"
+      }
+    ]
   }
 ]
