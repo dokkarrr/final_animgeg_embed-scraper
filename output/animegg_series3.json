@@ -124377,5 +124377,69 @@
         "url": "https://www.animegg.org/one-piece-episode-of-merry---mou-hitori-no-nakama-no-monogatari-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 2577,
+    "title": "Qin's Moon season 1",
+    "animegg_url": "https://www.animegg.org/series/qins-moon",
+    "mal_url": "https://myanimelist.net/anime/40028",
+    "mal_id": 40028,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/64106",
+        "dub": null,
+        "url": "https://www.animegg.org/qins-moon-season-1-episode-9"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/64105",
+        "dub": null,
+        "url": "https://www.animegg.org/qins-moon-season-1-episode-8"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/64104",
+        "dub": null,
+        "url": "https://www.animegg.org/qins-moon-season-1-episode-7"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/64103",
+        "dub": null,
+        "url": "https://www.animegg.org/qins-moon-season-1-episode-6"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/64102",
+        "dub": null,
+        "url": "https://www.animegg.org/qins-moon-season-1-episode-5"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/64101",
+        "dub": null,
+        "url": "https://www.animegg.org/qins-moon-season-1-episode-4"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/64100",
+        "dub": null,
+        "url": "https://www.animegg.org/qins-moon-season-1-episode-3"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/64099",
+        "dub": null,
+        "url": "https://www.animegg.org/qins-moon-season-1-episode-2"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/64098",
+        "dub": null,
+        "url": "https://www.animegg.org/qins-moon-season-1-episode-1"
+      }
+    ]
   }
 ]
