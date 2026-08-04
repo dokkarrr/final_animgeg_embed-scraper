@@ -86222,5 +86222,87 @@
         "url": "https://www.animegg.org/akuma-no-riddle-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1010,
+    "title": "Domestic na Kanojo",
+    "animegg_url": "https://www.animegg.org/series/domestic-na-kanojo",
+    "mal_url": "https://myanimelist.net/anime/37982",
+    "mal_id": 37982,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/94191",
+        "dub": null,
+        "url": "https://www.animegg.org/domestic-na-kanojo-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/94261",
+        "dub": null,
+        "url": "https://www.animegg.org/domestic-na-kanojo-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/94323",
+        "dub": null,
+        "url": "https://www.animegg.org/domestic-na-kanojo-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/94390",
+        "dub": null,
+        "url": "https://www.animegg.org/domestic-na-kanojo-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/94455",
+        "dub": null,
+        "url": "https://www.animegg.org/domestic-na-kanojo-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/94518",
+        "dub": null,
+        "url": "https://www.animegg.org/domestic-na-kanojo-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/94593",
+        "dub": null,
+        "url": "https://www.animegg.org/domestic-na-kanojo-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/94661",
+        "dub": null,
+        "url": "https://www.animegg.org/domestic-na-kanojo-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/94724",
+        "dub": null,
+        "url": "https://www.animegg.org/domestic-na-kanojo-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/94788",
+        "dub": null,
+        "url": "https://www.animegg.org/domestic-na-kanojo-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/94869",
+        "dub": null,
+        "url": "https://www.animegg.org/domestic-na-kanojo-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/94946",
+        "dub": null,
+        "url": "https://www.animegg.org/domestic-na-kanojo-episode-12"
+      }
+    ]
   }
 ]
