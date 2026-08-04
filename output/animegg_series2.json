@@ -107646,5 +107646,21 @@
         "url": "https://www.animegg.org/gaogaigar-episode-49"
       }
     ]
+  },
+  {
+    "serial_no": 1125,
+    "title": "One Punch Man: Road to Hero",
+    "animegg_url": "https://www.animegg.org/series/one-punch-man-road-to-hero",
+    "mal_url": "https://myanimelist.net/anime/31704",
+    "mal_id": 31704,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/80198",
+        "dub": "https://www.animegg.org/embed/80233",
+        "url": "https://www.animegg.org/one-punch-man-road-to-hero-episode-1"
+      }
+    ]
   }
 ]
