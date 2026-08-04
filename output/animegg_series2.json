@@ -123996,5 +123996,93 @@
         "url": "https://www.animegg.org/reideen-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 1230,
+    "title": "Amagami SS+ plus",
+    "animegg_url": "https://www.animegg.org/series/amagami-ss-plus",
+    "mal_url": "https://myanimelist.net/anime/11235",
+    "mal_id": 11235,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/1047",
+        "dub": null,
+        "url": "https://www.animegg.org/amagami-ss-plus-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/1046",
+        "dub": null,
+        "url": "https://www.animegg.org/amagami-ss-plus-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/1045",
+        "dub": null,
+        "url": "https://www.animegg.org/amagami-ss-plus-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/1044",
+        "dub": null,
+        "url": "https://www.animegg.org/amagami-ss-plus-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/1043",
+        "dub": null,
+        "url": "https://www.animegg.org/amagami-ss-plus-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/1049",
+        "dub": null,
+        "url": "https://www.animegg.org/amagami-ss-plus-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/1048",
+        "dub": null,
+        "url": "https://www.animegg.org/amagami-ss-plus-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/1051",
+        "dub": null,
+        "url": "https://www.animegg.org/amagami-ss-plus-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/1050",
+        "dub": null,
+        "url": "https://www.animegg.org/amagami-ss-plus-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/1052",
+        "dub": null,
+        "url": "https://www.animegg.org/amagami-ss-plus-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/1053",
+        "dub": null,
+        "url": "https://www.animegg.org/amagami-ss-plus-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/1055",
+        "dub": null,
+        "url": "https://www.animegg.org/amagami-ss-plus-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/1054",
+        "dub": null,
+        "url": "https://www.animegg.org/amagami-ss-plus-episode-13"
+      }
+    ]
   }
 ]
