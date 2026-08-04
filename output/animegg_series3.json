@@ -62936,5 +62936,87 @@
         "url": "https://www.animegg.org/spy-x-family-part-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 2008,
+    "title": "Mahoromatic - Automatic Maiden",
+    "animegg_url": "https://www.animegg.org/series/mahoromatic---automatic-maiden",
+    "mal_url": "https://myanimelist.net/anime/276",
+    "mal_id": 276,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66653",
+        "dub": null,
+        "url": "https://www.animegg.org/mahoromatic---automatic-maiden-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/66654",
+        "dub": null,
+        "url": "https://www.animegg.org/mahoromatic---automatic-maiden-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/66655",
+        "dub": null,
+        "url": "https://www.animegg.org/mahoromatic---automatic-maiden-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/66656",
+        "dub": null,
+        "url": "https://www.animegg.org/mahoromatic---automatic-maiden-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/66657",
+        "dub": null,
+        "url": "https://www.animegg.org/mahoromatic---automatic-maiden-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/66658",
+        "dub": null,
+        "url": "https://www.animegg.org/mahoromatic---automatic-maiden-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/66659",
+        "dub": null,
+        "url": "https://www.animegg.org/mahoromatic---automatic-maiden-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/66660",
+        "dub": null,
+        "url": "https://www.animegg.org/mahoromatic---automatic-maiden-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/66661",
+        "dub": null,
+        "url": "https://www.animegg.org/mahoromatic---automatic-maiden-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/66662",
+        "dub": null,
+        "url": "https://www.animegg.org/mahoromatic---automatic-maiden-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/66663",
+        "dub": null,
+        "url": "https://www.animegg.org/mahoromatic---automatic-maiden-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/66664",
+        "dub": null,
+        "url": "https://www.animegg.org/mahoromatic---automatic-maiden-episode-12"
+      }
+    ]
   }
 ]
