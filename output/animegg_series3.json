@@ -47530,5 +47530,93 @@
         "url": "https://www.animegg.org/free-dive-to-the-future-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1893,
+    "title": "Gokusen",
+    "animegg_url": "https://www.animegg.org/series/gokusen",
+    "mal_url": "https://myanimelist.net/anime/242",
+    "mal_id": 242,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/13348",
+        "dub": "https://www.animegg.org/embed/70130",
+        "url": "https://www.animegg.org/gokusen-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/13349",
+        "dub": "https://www.animegg.org/embed/70131",
+        "url": "https://www.animegg.org/gokusen-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/13346",
+        "dub": "https://www.animegg.org/embed/70132",
+        "url": "https://www.animegg.org/gokusen-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/13347",
+        "dub": "https://www.animegg.org/embed/70133",
+        "url": "https://www.animegg.org/gokusen-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/13350",
+        "dub": "https://www.animegg.org/embed/70134",
+        "url": "https://www.animegg.org/gokusen-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/13353",
+        "dub": "https://www.animegg.org/embed/70135",
+        "url": "https://www.animegg.org/gokusen-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/13351",
+        "dub": "https://www.animegg.org/embed/70136",
+        "url": "https://www.animegg.org/gokusen-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/13352",
+        "dub": "https://www.animegg.org/embed/70137",
+        "url": "https://www.animegg.org/gokusen-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/13354",
+        "dub": "https://www.animegg.org/embed/70138",
+        "url": "https://www.animegg.org/gokusen-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/13355",
+        "dub": "https://www.animegg.org/embed/70139",
+        "url": "https://www.animegg.org/gokusen-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/13357",
+        "dub": "https://www.animegg.org/embed/70140",
+        "url": "https://www.animegg.org/gokusen-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/13356",
+        "dub": "https://www.animegg.org/embed/70141",
+        "url": "https://www.animegg.org/gokusen-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/13358",
+        "dub": "https://www.animegg.org/embed/70143",
+        "url": "https://www.animegg.org/gokusen-episode-13"
+      }
+    ]
   }
 ]
