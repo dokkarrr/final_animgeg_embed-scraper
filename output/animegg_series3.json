@@ -67230,5 +67230,87 @@
         "url": "https://www.animegg.org/no-game-no-life-specials-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 2048,
+    "title": "Blade",
+    "animegg_url": "https://www.animegg.org/series/blade",
+    "mal_url": "https://myanimelist.net/anime/6920",
+    "mal_id": 6920,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/3276",
+        "dub": null,
+        "url": "https://www.animegg.org/blade-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/3282",
+        "dub": null,
+        "url": "https://www.animegg.org/blade-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/3277",
+        "dub": null,
+        "url": "https://www.animegg.org/blade-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/3274",
+        "dub": null,
+        "url": "https://www.animegg.org/blade-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/3275",
+        "dub": null,
+        "url": "https://www.animegg.org/blade-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/3283",
+        "dub": null,
+        "url": "https://www.animegg.org/blade-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/3280",
+        "dub": null,
+        "url": "https://www.animegg.org/blade-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/3278",
+        "dub": null,
+        "url": "https://www.animegg.org/blade-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/3284",
+        "dub": null,
+        "url": "https://www.animegg.org/blade-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/3279",
+        "dub": null,
+        "url": "https://www.animegg.org/blade-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/3285",
+        "dub": null,
+        "url": "https://www.animegg.org/blade-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/3281",
+        "dub": null,
+        "url": "https://www.animegg.org/blade-episode-12"
+      }
+    ]
   }
 ]
