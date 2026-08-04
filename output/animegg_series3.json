@@ -67940,5 +67940,87 @@
         "url": "https://www.animegg.org/yu-gi-oh-capsule-monsters-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2056,
+    "title": "Mushishi Zoku Shou",
+    "animegg_url": "https://www.animegg.org/series/mushishi-zoku-shou",
+    "mal_url": "https://myanimelist.net/anime/21939",
+    "mal_id": 21939,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/24863",
+        "dub": null,
+        "url": "https://www.animegg.org/mushishi-zoku-shou-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/24862",
+        "dub": null,
+        "url": "https://www.animegg.org/mushishi-zoku-shou-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/24861",
+        "dub": null,
+        "url": "https://www.animegg.org/mushishi-zoku-shou-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/24859",
+        "dub": null,
+        "url": "https://www.animegg.org/mushishi-zoku-shou-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/24860",
+        "dub": null,
+        "url": "https://www.animegg.org/mushishi-zoku-shou-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/24864",
+        "dub": null,
+        "url": "https://www.animegg.org/mushishi-zoku-shou-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/24865",
+        "dub": "https://www.animegg.org/embed/24866",
+        "url": "https://www.animegg.org/mushishi-zoku-shou-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/24867",
+        "dub": "https://www.animegg.org/embed/24868",
+        "url": "https://www.animegg.org/mushishi-zoku-shou-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/24869",
+        "dub": null,
+        "url": "https://www.animegg.org/mushishi-zoku-shou-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/24870",
+        "dub": "https://www.animegg.org/embed/121683",
+        "url": "https://www.animegg.org/mushishi-zoku-shou-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/24871",
+        "dub": null,
+        "url": "https://www.animegg.org/mushishi-zoku-shou-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/24872",
+        "dub": null,
+        "url": "https://www.animegg.org/mushishi-zoku-shou-episode-12"
+      }
+    ]
   }
 ]
