@@ -105676,5 +105676,27 @@
         "url": "https://www.animegg.org/dream-festival-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2388,
+    "title": "Death Note Rewrite",
+    "animegg_url": "https://www.animegg.org/series/death-note-rewrite",
+    "mal_url": "https://myanimelist.net/anime/2994",
+    "mal_id": 2994,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/7524",
+        "dub": "https://www.animegg.org/embed/69176",
+        "url": "https://www.animegg.org/death-note-rewrite-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/7523",
+        "dub": "https://www.animegg.org/embed/69181",
+        "url": "https://www.animegg.org/death-note-rewrite-episode-2"
+      }
+    ]
   }
 ]
