@@ -128771,5 +128771,81 @@
         "url": "https://www.animegg.org/girl-meets-girl-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2624,
+    "title": "Hataraki Man",
+    "animegg_url": "https://www.animegg.org/series/hataraki-man",
+    "mal_url": "https://myanimelist.net/anime/1592",
+    "mal_id": 1592,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/15442",
+        "dub": null,
+        "url": "https://www.animegg.org/hataraki-man-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/15443",
+        "dub": null,
+        "url": "https://www.animegg.org/hataraki-man-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/15441",
+        "dub": null,
+        "url": "https://www.animegg.org/hataraki-man-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/15440",
+        "dub": null,
+        "url": "https://www.animegg.org/hataraki-man-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/15439",
+        "dub": null,
+        "url": "https://www.animegg.org/hataraki-man-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/15444",
+        "dub": null,
+        "url": "https://www.animegg.org/hataraki-man-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/15445",
+        "dub": null,
+        "url": "https://www.animegg.org/hataraki-man-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/15446",
+        "dub": null,
+        "url": "https://www.animegg.org/hataraki-man-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/15447",
+        "dub": null,
+        "url": "https://www.animegg.org/hataraki-man-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/15448",
+        "dub": null,
+        "url": "https://www.animegg.org/hataraki-man-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/15449",
+        "dub": null,
+        "url": "https://www.animegg.org/hataraki-man-episode-11"
+      }
+    ]
   }
 ]
