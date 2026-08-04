@@ -120449,5 +120449,87 @@
         "url": "https://www.animegg.org/midara-na-ao-chan-wa-benkyou-ga-dekinai-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2549,
+    "title": "I Want to End this Love Game",
+    "animegg_url": "https://www.animegg.org/series/i-want-to-end-this-love-game",
+    "mal_url": "https://myanimelist.net/anime/61839",
+    "mal_id": 61839,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/145536",
+        "dub": null,
+        "url": "https://www.animegg.org/i-want-to-end-this-love-game-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/145646",
+        "dub": null,
+        "url": "https://www.animegg.org/i-want-to-end-this-love-game-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/145535",
+        "dub": "https://www.animegg.org/embed/145725",
+        "url": "https://www.animegg.org/i-want-to-end-this-love-game-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/145640",
+        "dub": "https://www.animegg.org/embed/145844",
+        "url": "https://www.animegg.org/i-want-to-end-this-love-game-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/145724",
+        "dub": "https://www.animegg.org/embed/145955",
+        "url": "https://www.animegg.org/i-want-to-end-this-love-game-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/145835",
+        "dub": "https://www.animegg.org/embed/145995",
+        "url": "https://www.animegg.org/i-want-to-end-this-love-game-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/145947",
+        "dub": null,
+        "url": "https://www.animegg.org/i-want-to-end-this-love-game-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/145991",
+        "dub": "https://www.animegg.org/embed/146130",
+        "url": "https://www.animegg.org/i-want-to-end-this-love-game-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/146060",
+        "dub": "https://www.animegg.org/embed/146200",
+        "url": "https://www.animegg.org/i-want-to-end-this-love-game-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/146103",
+        "dub": null,
+        "url": "https://www.animegg.org/i-want-to-end-this-love-game-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/146196",
+        "dub": null,
+        "url": "https://www.animegg.org/i-want-to-end-this-love-game-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/146444",
+        "dub": null,
+        "url": "https://www.animegg.org/i-want-to-end-this-love-game-episode-12"
+      }
+    ]
   }
 ]
