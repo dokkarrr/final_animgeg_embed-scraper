@@ -76908,5 +76908,87 @@
         "url": "https://www.animegg.org/gatchaman-crowds-insight-tv-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2141,
+    "title": "Tokyo ESP",
+    "animegg_url": "https://www.animegg.org/series/tokyo-esp",
+    "mal_url": "https://myanimelist.net/anime/21353",
+    "mal_id": 21353,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/46107",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-esp-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/46108",
+        "dub": "https://www.animegg.org/embed/46109",
+        "url": "https://www.animegg.org/tokyo-esp-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/46110",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-esp-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/46111",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-esp-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/46112",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-esp-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/46113",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-esp-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/46114",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-esp-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/46115",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-esp-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/46116",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-esp-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/46117",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-esp-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/46118",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-esp-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/46119",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-esp-episode-12"
+      }
+    ]
   }
 ]
