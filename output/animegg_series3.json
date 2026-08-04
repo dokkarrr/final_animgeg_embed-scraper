@@ -116386,5 +116386,69 @@
         "url": "https://www.animegg.org/saint-seiya-the-lost-canvas---meiou-shinwa-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 2499,
+    "title": "Meitantei Rascal",
+    "animegg_url": "https://www.animegg.org/series/meitantei-rascal",
+    "mal_url": "https://myanimelist.net/anime/21447",
+    "mal_id": 21447,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/42788",
+        "dub": null,
+        "url": "https://www.animegg.org/meitantei-rascal-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/42789",
+        "dub": null,
+        "url": "https://www.animegg.org/meitantei-rascal-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/42790",
+        "dub": null,
+        "url": "https://www.animegg.org/meitantei-rascal-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/42792",
+        "dub": null,
+        "url": "https://www.animegg.org/meitantei-rascal-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/42791",
+        "dub": null,
+        "url": "https://www.animegg.org/meitantei-rascal-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/42793",
+        "dub": null,
+        "url": "https://www.animegg.org/meitantei-rascal-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/42796",
+        "dub": null,
+        "url": "https://www.animegg.org/meitantei-rascal-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/42794",
+        "dub": null,
+        "url": "https://www.animegg.org/meitantei-rascal-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/42795",
+        "dub": null,
+        "url": "https://www.animegg.org/meitantei-rascal-episode-9"
+      }
+    ]
   }
 ]
