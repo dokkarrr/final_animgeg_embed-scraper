@@ -107514,5 +107514,87 @@
         "url": "https://www.animegg.org/shin-mazinger-shougeki-z-hen-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 2408,
+    "title": "Soredemo Machi wa Mawatteiru",
+    "animegg_url": "https://www.animegg.org/series/soredemo-machi-wa-mawatteiru",
+    "mal_url": "https://myanimelist.net/anime/8726",
+    "mal_id": 8726,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/35888",
+        "dub": null,
+        "url": "https://www.animegg.org/soredemo-machi-wa-mawatteiru-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/35890",
+        "dub": null,
+        "url": "https://www.animegg.org/soredemo-machi-wa-mawatteiru-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/35886",
+        "dub": null,
+        "url": "https://www.animegg.org/soredemo-machi-wa-mawatteiru-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/35889",
+        "dub": null,
+        "url": "https://www.animegg.org/soredemo-machi-wa-mawatteiru-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/35887",
+        "dub": null,
+        "url": "https://www.animegg.org/soredemo-machi-wa-mawatteiru-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/35894",
+        "dub": null,
+        "url": "https://www.animegg.org/soredemo-machi-wa-mawatteiru-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/35893",
+        "dub": null,
+        "url": "https://www.animegg.org/soredemo-machi-wa-mawatteiru-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/35895",
+        "dub": null,
+        "url": "https://www.animegg.org/soredemo-machi-wa-mawatteiru-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/35892",
+        "dub": null,
+        "url": "https://www.animegg.org/soredemo-machi-wa-mawatteiru-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/35891",
+        "dub": null,
+        "url": "https://www.animegg.org/soredemo-machi-wa-mawatteiru-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/35896",
+        "dub": null,
+        "url": "https://www.animegg.org/soredemo-machi-wa-mawatteiru-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/35897",
+        "dub": null,
+        "url": "https://www.animegg.org/soredemo-machi-wa-mawatteiru-episode-12"
+      }
+    ]
   }
 ]
