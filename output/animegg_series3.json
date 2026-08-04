@@ -9046,5 +9046,87 @@
         "url": "https://www.animegg.org/tensei-shitara-slime-datta-ken-ova-episode-5"
       }
     ]
+  },
+  {
+    "serial_no": 1608,
+    "title": "Oshiete! Galko-chan",
+    "animegg_url": "https://www.animegg.org/series/oshiete-galko-chan",
+    "mal_url": "https://myanimelist.net/anime/32013",
+    "mal_id": 32013,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/80594",
+        "dub": "https://www.animegg.org/embed/80600",
+        "url": "https://www.animegg.org/oshiete-galko-chan-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/80687",
+        "dub": null,
+        "url": "https://www.animegg.org/oshiete-galko-chan-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/80792",
+        "dub": null,
+        "url": "https://www.animegg.org/oshiete-galko-chan-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/80899",
+        "dub": null,
+        "url": "https://www.animegg.org/oshiete-galko-chan-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/80999",
+        "dub": null,
+        "url": "https://www.animegg.org/oshiete-galko-chan-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/81091",
+        "dub": null,
+        "url": "https://www.animegg.org/oshiete-galko-chan-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/81189",
+        "dub": null,
+        "url": "https://www.animegg.org/oshiete-galko-chan-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/81297",
+        "dub": null,
+        "url": "https://www.animegg.org/oshiete-galko-chan-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/81401",
+        "dub": null,
+        "url": "https://www.animegg.org/oshiete-galko-chan-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/81494",
+        "dub": null,
+        "url": "https://www.animegg.org/oshiete-galko-chan-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/81591",
+        "dub": null,
+        "url": "https://www.animegg.org/oshiete-galko-chan-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/81677",
+        "dub": null,
+        "url": "https://www.animegg.org/oshiete-galko-chan-episode-12"
+      }
+    ]
   }
 ]
