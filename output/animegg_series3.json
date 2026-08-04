@@ -30476,5 +30476,87 @@
         "url": "https://www.animegg.org/dungeon-meshi-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 1756,
+    "title": "Gugure! Kokkuri-san",
+    "animegg_url": "https://www.animegg.org/series/gugure-kokkuri-san",
+    "mal_url": "https://myanimelist.net/anime/23251",
+    "mal_id": 23251,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66374",
+        "dub": null,
+        "url": "https://www.animegg.org/gugure-kokkuri-san-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/66375",
+        "dub": null,
+        "url": "https://www.animegg.org/gugure-kokkuri-san-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/66376",
+        "dub": null,
+        "url": "https://www.animegg.org/gugure-kokkuri-san-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/66377",
+        "dub": null,
+        "url": "https://www.animegg.org/gugure-kokkuri-san-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/66378",
+        "dub": null,
+        "url": "https://www.animegg.org/gugure-kokkuri-san-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/66619",
+        "dub": null,
+        "url": "https://www.animegg.org/gugure-kokkuri-san-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/66911",
+        "dub": null,
+        "url": "https://www.animegg.org/gugure-kokkuri-san-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/67198",
+        "dub": null,
+        "url": "https://www.animegg.org/gugure-kokkuri-san-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/67337",
+        "dub": "https://www.animegg.org/embed/67341",
+        "url": "https://www.animegg.org/gugure-kokkuri-san-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/67463",
+        "dub": null,
+        "url": "https://www.animegg.org/gugure-kokkuri-san-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/67591",
+        "dub": null,
+        "url": "https://www.animegg.org/gugure-kokkuri-san-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/67703",
+        "dub": null,
+        "url": "https://www.animegg.org/gugure-kokkuri-san-episode-12"
+      }
+    ]
   }
 ]
