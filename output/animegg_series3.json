@@ -109916,5 +109916,87 @@
         "url": "https://www.animegg.org/hakuouki-hakketsuroku-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 2431,
+    "title": "A.D. Police: To Protect and Serve",
+    "animegg_url": "https://www.animegg.org/series/ad-police-to-protect-and-serve",
+    "mal_url": "https://myanimelist.net/anime/1346",
+    "mal_id": 1346,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/281",
+        "dub": "https://www.animegg.org/embed/282",
+        "url": "https://www.animegg.org/ad-police-to-protect-and-serve-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/277",
+        "dub": "https://www.animegg.org/embed/278",
+        "url": "https://www.animegg.org/ad-police-to-protect-and-serve-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/279",
+        "dub": "https://www.animegg.org/embed/280",
+        "url": "https://www.animegg.org/ad-police-to-protect-and-serve-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/285",
+        "dub": "https://www.animegg.org/embed/286",
+        "url": "https://www.animegg.org/ad-police-to-protect-and-serve-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/283",
+        "dub": "https://www.animegg.org/embed/284",
+        "url": "https://www.animegg.org/ad-police-to-protect-and-serve-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/287",
+        "dub": "https://www.animegg.org/embed/288",
+        "url": "https://www.animegg.org/ad-police-to-protect-and-serve-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/289",
+        "dub": "https://www.animegg.org/embed/290",
+        "url": "https://www.animegg.org/ad-police-to-protect-and-serve-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/293",
+        "dub": "https://www.animegg.org/embed/294",
+        "url": "https://www.animegg.org/ad-police-to-protect-and-serve-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/291",
+        "dub": "https://www.animegg.org/embed/292",
+        "url": "https://www.animegg.org/ad-police-to-protect-and-serve-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/295",
+        "dub": "https://www.animegg.org/embed/296",
+        "url": "https://www.animegg.org/ad-police-to-protect-and-serve-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/297",
+        "dub": "https://www.animegg.org/embed/298",
+        "url": "https://www.animegg.org/ad-police-to-protect-and-serve-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/299",
+        "dub": "https://www.animegg.org/embed/300",
+        "url": "https://www.animegg.org/ad-police-to-protect-and-serve-episode-12"
+      }
+    ]
   }
 ]
