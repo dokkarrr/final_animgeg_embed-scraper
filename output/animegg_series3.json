@@ -93242,5 +93242,87 @@
         "url": "https://www.animegg.org/sansha-sanyou-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2263,
+    "title": "Majimoji Rurumo",
+    "animegg_url": "https://www.animegg.org/series/majimoji-rurumo",
+    "mal_url": "https://myanimelist.net/anime/23945",
+    "mal_id": 23945,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/45828",
+        "dub": "https://www.animegg.org/embed/45829",
+        "url": "https://www.animegg.org/majimoji-rurumo-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/45830",
+        "dub": "https://www.animegg.org/embed/45831",
+        "url": "https://www.animegg.org/majimoji-rurumo-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/45832",
+        "dub": "https://www.animegg.org/embed/45833",
+        "url": "https://www.animegg.org/majimoji-rurumo-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/45834",
+        "dub": "https://www.animegg.org/embed/45835",
+        "url": "https://www.animegg.org/majimoji-rurumo-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/45836",
+        "dub": "https://www.animegg.org/embed/45837",
+        "url": "https://www.animegg.org/majimoji-rurumo-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/45838",
+        "dub": "https://www.animegg.org/embed/45839",
+        "url": "https://www.animegg.org/majimoji-rurumo-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/45840",
+        "dub": "https://www.animegg.org/embed/45841",
+        "url": "https://www.animegg.org/majimoji-rurumo-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/45842",
+        "dub": "https://www.animegg.org/embed/45843",
+        "url": "https://www.animegg.org/majimoji-rurumo-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/45844",
+        "dub": "https://www.animegg.org/embed/45845",
+        "url": "https://www.animegg.org/majimoji-rurumo-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/45846",
+        "dub": "https://www.animegg.org/embed/45847",
+        "url": "https://www.animegg.org/majimoji-rurumo-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/45848",
+        "dub": "https://www.animegg.org/embed/45849",
+        "url": "https://www.animegg.org/majimoji-rurumo-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/45850",
+        "dub": "https://www.animegg.org/embed/45851",
+        "url": "https://www.animegg.org/majimoji-rurumo-episode-12"
+      }
+    ]
   }
 ]
