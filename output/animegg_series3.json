@@ -128083,5 +128083,87 @@
         "url": "https://www.animegg.org/cyclops-shoujo-saipuu-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2617,
+    "title": "Momo Kyun Sword",
+    "animegg_url": "https://www.animegg.org/series/momo-kyun-sword",
+    "mal_url": "https://myanimelist.net/anime/22225",
+    "mal_id": 22225,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/45852",
+        "dub": "https://www.animegg.org/embed/45853",
+        "url": "https://www.animegg.org/momo-kyun-sword-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/45854",
+        "dub": null,
+        "url": "https://www.animegg.org/momo-kyun-sword-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/45855",
+        "dub": null,
+        "url": "https://www.animegg.org/momo-kyun-sword-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/45856",
+        "dub": "https://www.animegg.org/embed/45857",
+        "url": "https://www.animegg.org/momo-kyun-sword-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/45858",
+        "dub": null,
+        "url": "https://www.animegg.org/momo-kyun-sword-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/45859",
+        "dub": null,
+        "url": "https://www.animegg.org/momo-kyun-sword-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/45860",
+        "dub": null,
+        "url": "https://www.animegg.org/momo-kyun-sword-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/45861",
+        "dub": null,
+        "url": "https://www.animegg.org/momo-kyun-sword-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/45862",
+        "dub": "https://www.animegg.org/embed/45863",
+        "url": "https://www.animegg.org/momo-kyun-sword-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/45864",
+        "dub": null,
+        "url": "https://www.animegg.org/momo-kyun-sword-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/45865",
+        "dub": null,
+        "url": "https://www.animegg.org/momo-kyun-sword-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/45866",
+        "dub": null,
+        "url": "https://www.animegg.org/momo-kyun-sword-episode-12"
+      }
+    ]
   }
 ]
