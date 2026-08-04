@@ -77324,5 +77324,87 @@
         "url": "https://www.animegg.org/sentouin-hakenshimasu-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2146,
+    "title": "Mahou Shoujo Site",
+    "animegg_url": "https://www.animegg.org/series/mahou-shoujo-site",
+    "mal_url": "https://myanimelist.net/anime/36266",
+    "mal_id": 36266,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/90660",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-site-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/90762",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-site-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/90843",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-site-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/90936",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-site-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/91118",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-site-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/91119",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-site-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/91203",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-site-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/91284",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-site-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/91375",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-site-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/91459",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-site-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/91539",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-site-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/91619",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-site-episode-12"
+      }
+    ]
   }
 ]
