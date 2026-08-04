@@ -108826,5 +108826,93 @@
         "url": "https://www.animegg.org/crayon-shin-chan-episode-996"
       }
     ]
+  },
+  {
+    "serial_no": 2418,
+    "title": "Love Love?",
+    "animegg_url": "https://www.animegg.org/series/love-love",
+    "mal_url": "https://myanimelist.net/anime/275",
+    "mal_id": 275,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/21954",
+        "dub": null,
+        "url": "https://www.animegg.org/love-love-episode-10"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/21949",
+        "dub": null,
+        "url": "https://www.animegg.org/love-love-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/21956",
+        "dub": null,
+        "url": "https://www.animegg.org/love-love-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/21947",
+        "dub": null,
+        "url": "https://www.animegg.org/love-love-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/21955",
+        "dub": null,
+        "url": "https://www.animegg.org/love-love-episode-12"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/21946",
+        "dub": null,
+        "url": "https://www.animegg.org/love-love-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/21957",
+        "dub": null,
+        "url": "https://www.animegg.org/love-love-episode-13"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/21948",
+        "dub": null,
+        "url": "https://www.animegg.org/love-love-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/21945",
+        "dub": null,
+        "url": "https://www.animegg.org/love-love-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/21951",
+        "dub": null,
+        "url": "https://www.animegg.org/love-love-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/21950",
+        "dub": null,
+        "url": "https://www.animegg.org/love-love-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/21952",
+        "dub": null,
+        "url": "https://www.animegg.org/love-love-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/21953",
+        "dub": null,
+        "url": "https://www.animegg.org/love-love-episode-9"
+      }
+    ]
   }
 ]
