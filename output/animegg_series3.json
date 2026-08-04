@@ -64650,5 +64650,93 @@
         "url": "https://www.animegg.org/bananya-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2021,
+    "title": "Tsukiuta. The Animation",
+    "animegg_url": "https://www.animegg.org/series/tsukiuta-the-animation",
+    "mal_url": "https://myanimelist.net/anime/33037",
+    "mal_id": 33037,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/82963",
+        "dub": null,
+        "url": "https://www.animegg.org/tsukiuta-the-animation-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/83053",
+        "dub": null,
+        "url": "https://www.animegg.org/tsukiuta-the-animation-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/83157",
+        "dub": null,
+        "url": "https://www.animegg.org/tsukiuta-the-animation-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/83270",
+        "dub": null,
+        "url": "https://www.animegg.org/tsukiuta-the-animation-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/83350",
+        "dub": null,
+        "url": "https://www.animegg.org/tsukiuta-the-animation-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/83439",
+        "dub": null,
+        "url": "https://www.animegg.org/tsukiuta-the-animation-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/83530",
+        "dub": null,
+        "url": "https://www.animegg.org/tsukiuta-the-animation-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/83608",
+        "dub": null,
+        "url": "https://www.animegg.org/tsukiuta-the-animation-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/83709",
+        "dub": null,
+        "url": "https://www.animegg.org/tsukiuta-the-animation-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/83791",
+        "dub": null,
+        "url": "https://www.animegg.org/tsukiuta-the-animation-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/83872",
+        "dub": null,
+        "url": "https://www.animegg.org/tsukiuta-the-animation-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/83957",
+        "dub": null,
+        "url": "https://www.animegg.org/tsukiuta-the-animation-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/84040",
+        "dub": null,
+        "url": "https://www.animegg.org/tsukiuta-the-animation-episode-13"
+      }
+    ]
   }
 ]
