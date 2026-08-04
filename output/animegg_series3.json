@@ -93324,5 +93324,87 @@
         "url": "https://www.animegg.org/majimoji-rurumo-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2264,
+    "title": "Oruchuban Ebichu",
+    "animegg_url": "https://www.animegg.org/series/oruchuban-ebichu",
+    "mal_url": "https://myanimelist.net/anime/1060",
+    "mal_id": 1060,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/58688",
+        "dub": null,
+        "url": "https://www.animegg.org/oruchuban-ebichu-episode-1"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/58689",
+        "dub": null,
+        "url": "https://www.animegg.org/oruchuban-ebichu-episode-3"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/58690",
+        "dub": null,
+        "url": "https://www.animegg.org/oruchuban-ebichu-episode-5"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/58691",
+        "dub": null,
+        "url": "https://www.animegg.org/oruchuban-ebichu-episode-7"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/58692",
+        "dub": null,
+        "url": "https://www.animegg.org/oruchuban-ebichu-episode-9"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/58693",
+        "dub": null,
+        "url": "https://www.animegg.org/oruchuban-ebichu-episode-11"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/58694",
+        "dub": null,
+        "url": "https://www.animegg.org/oruchuban-ebichu-episode-13"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/58695",
+        "dub": null,
+        "url": "https://www.animegg.org/oruchuban-ebichu-episode-15"
+      },
+      {
+        "ep": 17,
+        "sub": "https://www.animegg.org/embed/58696",
+        "dub": null,
+        "url": "https://www.animegg.org/oruchuban-ebichu-episode-17"
+      },
+      {
+        "ep": 19,
+        "sub": "https://www.animegg.org/embed/58697",
+        "dub": null,
+        "url": "https://www.animegg.org/oruchuban-ebichu-episode-19"
+      },
+      {
+        "ep": 21,
+        "sub": "https://www.animegg.org/embed/58698",
+        "dub": null,
+        "url": "https://www.animegg.org/oruchuban-ebichu-episode-21"
+      },
+      {
+        "ep": 23,
+        "sub": "https://www.animegg.org/embed/58699",
+        "dub": null,
+        "url": "https://www.animegg.org/oruchuban-ebichu-episode-23"
+      }
+    ]
   }
 ]
