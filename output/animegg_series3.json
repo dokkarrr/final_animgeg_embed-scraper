@@ -72788,5 +72788,93 @@
         "url": "https://www.animegg.org/kono-oto-tomare-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2095,
+    "title": "Onihei",
+    "animegg_url": "https://www.animegg.org/series/onihei",
+    "mal_url": "https://myanimelist.net/anime/33983",
+    "mal_id": 33983,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/85430",
+        "dub": "https://www.animegg.org/embed/85432",
+        "url": "https://www.animegg.org/onihei-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/85528",
+        "dub": null,
+        "url": "https://www.animegg.org/onihei-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/85619",
+        "dub": null,
+        "url": "https://www.animegg.org/onihei-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/85724",
+        "dub": null,
+        "url": "https://www.animegg.org/onihei-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/85801",
+        "dub": null,
+        "url": "https://www.animegg.org/onihei-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/85944",
+        "dub": null,
+        "url": "https://www.animegg.org/onihei-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/85963",
+        "dub": null,
+        "url": "https://www.animegg.org/onihei-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/86068",
+        "dub": null,
+        "url": "https://www.animegg.org/onihei-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/86136",
+        "dub": null,
+        "url": "https://www.animegg.org/onihei-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/86222",
+        "dub": null,
+        "url": "https://www.animegg.org/onihei-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/86293",
+        "dub": null,
+        "url": "https://www.animegg.org/onihei-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/86367",
+        "dub": null,
+        "url": "https://www.animegg.org/onihei-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/86448",
+        "dub": null,
+        "url": "https://www.animegg.org/onihei-episode-13"
+      }
+    ]
   }
 ]
