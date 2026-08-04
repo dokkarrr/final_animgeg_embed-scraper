@@ -17592,5 +17592,87 @@
         "url": "https://www.animegg.org/soukyuu-no-fafner-dead-aggressor---exodus-episode-13-7871"
       }
     ]
+  },
+  {
+    "serial_no": 1664,
+    "title": "Break Blade (TV)",
+    "animegg_url": "https://www.animegg.org/series/break-blade-tv",
+    "mal_url": "https://myanimelist.net/anime/22433",
+    "mal_id": 22433,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/4728",
+        "dub": null,
+        "url": "https://www.animegg.org/break-blade-tv-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/4727",
+        "dub": null,
+        "url": "https://www.animegg.org/break-blade-tv-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/4729",
+        "dub": null,
+        "url": "https://www.animegg.org/break-blade-tv-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/4730",
+        "dub": null,
+        "url": "https://www.animegg.org/break-blade-tv-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/4731",
+        "dub": null,
+        "url": "https://www.animegg.org/break-blade-tv-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/4732",
+        "dub": "https://www.animegg.org/embed/4733",
+        "url": "https://www.animegg.org/break-blade-tv-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/4734",
+        "dub": "https://www.animegg.org/embed/4735",
+        "url": "https://www.animegg.org/break-blade-tv-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/4736",
+        "dub": "https://www.animegg.org/embed/4737",
+        "url": "https://www.animegg.org/break-blade-tv-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/4738",
+        "dub": "https://www.animegg.org/embed/4739",
+        "url": "https://www.animegg.org/break-blade-tv-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/4740",
+        "dub": "https://www.animegg.org/embed/4741",
+        "url": "https://www.animegg.org/break-blade-tv-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/4742",
+        "dub": "https://www.animegg.org/embed/4743",
+        "url": "https://www.animegg.org/break-blade-tv-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/4744",
+        "dub": "https://www.animegg.org/embed/4745",
+        "url": "https://www.animegg.org/break-blade-tv-episode-12"
+      }
+    ]
   }
 ]
