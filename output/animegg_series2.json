@@ -69864,5 +69864,99 @@
         "url": "https://www.animegg.org/uchuu-senkan-yamato-2199-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 906,
+    "title": "K-ON!",
+    "animegg_url": "https://www.animegg.org/series/k-on",
+    "mal_url": "https://myanimelist.net/anime/5680",
+    "mal_id": 5680,
+    "total_ep": 14,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/18847",
+        "dub": "https://www.animegg.org/embed/71209",
+        "url": "https://www.animegg.org/kon-episode-1-9681"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/18846",
+        "dub": "https://www.animegg.org/embed/71208",
+        "url": "https://www.animegg.org/kon-episode-2-9262"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/18843",
+        "dub": "https://www.animegg.org/embed/71207",
+        "url": "https://www.animegg.org/kon-episode-3-9268"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/18845",
+        "dub": "https://www.animegg.org/embed/71206",
+        "url": "https://www.animegg.org/kon-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/18844",
+        "dub": "https://www.animegg.org/embed/71205",
+        "url": "https://www.animegg.org/kon-episode-5-1295"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/18849",
+        "dub": "https://www.animegg.org/embed/71204",
+        "url": "https://www.animegg.org/kon-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/18850",
+        "dub": "https://www.animegg.org/embed/71203",
+        "url": "https://www.animegg.org/kon-episode-7-2950"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/18848",
+        "dub": "https://www.animegg.org/embed/71202",
+        "url": "https://www.animegg.org/kon-episode-8-6488"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/18851",
+        "dub": "https://www.animegg.org/embed/71201",
+        "url": "https://www.animegg.org/kon-episode-9-2283"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/18852",
+        "dub": "https://www.animegg.org/embed/71200",
+        "url": "https://www.animegg.org/kon-episode-10-4954"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/18853",
+        "dub": "https://www.animegg.org/embed/71199",
+        "url": "https://www.animegg.org/kon-episode-11-5007"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/18854",
+        "dub": "https://www.animegg.org/embed/71190",
+        "url": "https://www.animegg.org/kon-episode-12-5162"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/18855",
+        "dub": "https://www.animegg.org/embed/71187",
+        "url": "https://www.animegg.org/kon-episode-13-5430"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/18856",
+        "dub": "https://www.animegg.org/embed/71166",
+        "url": "https://www.animegg.org/kon-episode-14"
+      }
+    ]
   }
 ]
