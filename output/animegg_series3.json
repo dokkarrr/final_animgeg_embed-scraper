@@ -108914,5 +108914,87 @@
         "url": "https://www.animegg.org/love-love-episode-9"
       }
     ]
+  },
+  {
+    "serial_no": 2419,
+    "title": "Oushitsu Kyoushi Haine",
+    "animegg_url": "https://www.animegg.org/series/oushitsu-kyoushi-haine",
+    "mal_url": "https://myanimelist.net/anime/34262",
+    "mal_id": 34262,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/86453",
+        "dub": null,
+        "url": "https://www.animegg.org/oushitsu-kyoushi-haine-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/86555",
+        "dub": null,
+        "url": "https://www.animegg.org/oushitsu-kyoushi-haine-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/86639",
+        "dub": null,
+        "url": "https://www.animegg.org/oushitsu-kyoushi-haine-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/86723",
+        "dub": null,
+        "url": "https://www.animegg.org/oushitsu-kyoushi-haine-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/86801",
+        "dub": null,
+        "url": "https://www.animegg.org/oushitsu-kyoushi-haine-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/86882",
+        "dub": null,
+        "url": "https://www.animegg.org/oushitsu-kyoushi-haine-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/86958",
+        "dub": null,
+        "url": "https://www.animegg.org/oushitsu-kyoushi-haine-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/87042",
+        "dub": null,
+        "url": "https://www.animegg.org/oushitsu-kyoushi-haine-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/87122",
+        "dub": null,
+        "url": "https://www.animegg.org/oushitsu-kyoushi-haine-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/87213",
+        "dub": null,
+        "url": "https://www.animegg.org/oushitsu-kyoushi-haine-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/87280",
+        "dub": null,
+        "url": "https://www.animegg.org/oushitsu-kyoushi-haine-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/87348",
+        "dub": null,
+        "url": "https://www.animegg.org/oushitsu-kyoushi-haine-episode-12"
+      }
+    ]
   }
 ]
