@@ -33630,5 +33630,93 @@
         "url": "https://www.animegg.org/enmusubi-no-youko-chan-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 1769,
+    "title": "Miss Monochrome: The Animation 2",
+    "animegg_url": "https://www.animegg.org/series/miss-monochrome-the-animation-2",
+    "mal_url": "https://myanimelist.net/anime/30384",
+    "mal_id": 30384,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/79184",
+        "dub": null,
+        "url": "https://www.animegg.org/miss-monochrome-the-animation-2-episode-13"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/79085",
+        "dub": null,
+        "url": "https://www.animegg.org/miss-monochrome-the-animation-2-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/78976",
+        "dub": null,
+        "url": "https://www.animegg.org/miss-monochrome-the-animation-2-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/78864",
+        "dub": null,
+        "url": "https://www.animegg.org/miss-monochrome-the-animation-2-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/78743",
+        "dub": null,
+        "url": "https://www.animegg.org/miss-monochrome-the-animation-2-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/78626",
+        "dub": null,
+        "url": "https://www.animegg.org/miss-monochrome-the-animation-2-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/78517",
+        "dub": null,
+        "url": "https://www.animegg.org/miss-monochrome-the-animation-2-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/78414",
+        "dub": null,
+        "url": "https://www.animegg.org/miss-monochrome-the-animation-2-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/78278",
+        "dub": null,
+        "url": "https://www.animegg.org/miss-monochrome-the-animation-2-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/78138",
+        "dub": null,
+        "url": "https://www.animegg.org/miss-monochrome-the-animation-2-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/77991",
+        "dub": null,
+        "url": "https://www.animegg.org/miss-monochrome-the-animation-2-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/77813",
+        "dub": "https://www.animegg.org/embed/77816",
+        "url": "https://www.animegg.org/miss-monochrome-the-animation-2-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/77673",
+        "dub": "https://www.animegg.org/embed/77676",
+        "url": "https://www.animegg.org/miss-monochrome-the-animation-2-episode-1"
+      }
+    ]
   }
 ]
