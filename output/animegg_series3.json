@@ -113440,5 +113440,87 @@
         "url": "https://www.animegg.org/show-by-rock-short-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2469,
+    "title": "Anne Happy♪",
+    "animegg_url": "https://www.animegg.org/series/anne-happy",
+    "mal_url": "https://myanimelist.net/anime/31080",
+    "mal_id": 31080,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/81847",
+        "dub": "https://www.animegg.org/embed/81849",
+        "url": "https://www.animegg.org/anne-happy-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/81934",
+        "dub": null,
+        "url": "https://www.animegg.org/anne-happy-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/82021",
+        "dub": null,
+        "url": "https://www.animegg.org/anne-happy-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/82106",
+        "dub": null,
+        "url": "https://www.animegg.org/anne-happy-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/82194",
+        "dub": null,
+        "url": "https://www.animegg.org/anne-happy-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/82278",
+        "dub": null,
+        "url": "https://www.animegg.org/anne-happy-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/82361",
+        "dub": null,
+        "url": "https://www.animegg.org/anne-happy-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/82461",
+        "dub": null,
+        "url": "https://www.animegg.org/anne-happy-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/82539",
+        "dub": null,
+        "url": "https://www.animegg.org/anne-happy-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/82633",
+        "dub": null,
+        "url": "https://www.animegg.org/anne-happy-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/82713",
+        "dub": null,
+        "url": "https://www.animegg.org/anne-happy-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/82789",
+        "dub": null,
+        "url": "https://www.animegg.org/anne-happy-episode-12"
+      }
+    ]
   }
 ]
