@@ -110080,5 +110080,147 @@
         "url": "https://www.animegg.org/tamayura-hitotose-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2433,
+    "title": "Great Mazinger",
+    "animegg_url": "https://www.animegg.org/series/great-mazinger",
+    "mal_url": "https://myanimelist.net/anime/5658",
+    "mal_id": 5658,
+    "total_ep": 22,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/53267",
+        "dub": null,
+        "url": "https://www.animegg.org/great-mazinger-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/53268",
+        "dub": null,
+        "url": "https://www.animegg.org/great-mazinger-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/53269",
+        "dub": null,
+        "url": "https://www.animegg.org/great-mazinger-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/53270",
+        "dub": null,
+        "url": "https://www.animegg.org/great-mazinger-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/53271",
+        "dub": null,
+        "url": "https://www.animegg.org/great-mazinger-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/53272",
+        "dub": null,
+        "url": "https://www.animegg.org/great-mazinger-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/53273",
+        "dub": null,
+        "url": "https://www.animegg.org/great-mazinger-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/53274",
+        "dub": null,
+        "url": "https://www.animegg.org/great-mazinger-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/53275",
+        "dub": null,
+        "url": "https://www.animegg.org/great-mazinger-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/53276",
+        "dub": null,
+        "url": "https://www.animegg.org/great-mazinger-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/53277",
+        "dub": null,
+        "url": "https://www.animegg.org/great-mazinger-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/53278",
+        "dub": null,
+        "url": "https://www.animegg.org/great-mazinger-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/53279",
+        "dub": null,
+        "url": "https://www.animegg.org/great-mazinger-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/53280",
+        "dub": null,
+        "url": "https://www.animegg.org/great-mazinger-episode-14"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/53281",
+        "dub": null,
+        "url": "https://www.animegg.org/great-mazinger-episode-15"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/53282",
+        "dub": null,
+        "url": "https://www.animegg.org/great-mazinger-episode-16"
+      },
+      {
+        "ep": 17,
+        "sub": "https://www.animegg.org/embed/53283",
+        "dub": null,
+        "url": "https://www.animegg.org/great-mazinger-episode-17"
+      },
+      {
+        "ep": 18,
+        "sub": "https://www.animegg.org/embed/53284",
+        "dub": null,
+        "url": "https://www.animegg.org/great-mazinger-episode-18"
+      },
+      {
+        "ep": 19,
+        "sub": "https://www.animegg.org/embed/53285",
+        "dub": null,
+        "url": "https://www.animegg.org/great-mazinger-episode-19"
+      },
+      {
+        "ep": 20,
+        "sub": "https://www.animegg.org/embed/53286",
+        "dub": null,
+        "url": "https://www.animegg.org/great-mazinger-episode-20"
+      },
+      {
+        "ep": 21,
+        "sub": "https://www.animegg.org/embed/53287",
+        "dub": null,
+        "url": "https://www.animegg.org/great-mazinger-episode-21"
+      },
+      {
+        "ep": 22,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/great-mazinger-episode-22"
+      }
+    ]
   }
 ]
