@@ -66092,5 +66092,87 @@
         "url": "https://www.animegg.org/phantom-requiem-for-the-phantom-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 887,
+    "title": "Dagashi Kashi",
+    "animegg_url": "https://www.animegg.org/series/dagashi-kashi",
+    "mal_url": "https://myanimelist.net/anime/31636",
+    "mal_id": 31636,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/80586",
+        "dub": "https://www.animegg.org/embed/80599",
+        "url": "https://www.animegg.org/dagashi-kashi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/80680",
+        "dub": "https://www.animegg.org/embed/80684",
+        "url": "https://www.animegg.org/dagashi-kashi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/80783",
+        "dub": "https://www.animegg.org/embed/80788",
+        "url": "https://www.animegg.org/dagashi-kashi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/80890",
+        "dub": "https://www.animegg.org/embed/80897",
+        "url": "https://www.animegg.org/dagashi-kashi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/80987",
+        "dub": "https://www.animegg.org/embed/80993",
+        "url": "https://www.animegg.org/dagashi-kashi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/81181",
+        "dub": "https://www.animegg.org/embed/81358",
+        "url": "https://www.animegg.org/dagashi-kashi-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/81283",
+        "dub": "https://www.animegg.org/embed/81292",
+        "url": "https://www.animegg.org/dagashi-kashi-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/81391",
+        "dub": "https://www.animegg.org/embed/81397",
+        "url": "https://www.animegg.org/dagashi-kashi-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/81478",
+        "dub": "https://www.animegg.org/embed/81815",
+        "url": "https://www.animegg.org/dagashi-kashi-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/81582",
+        "dub": "https://www.animegg.org/embed/81588",
+        "url": "https://www.animegg.org/dagashi-kashi-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/81759",
+        "dub": null,
+        "url": "https://www.animegg.org/dagashi-kashi-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/81760",
+        "dub": null,
+        "url": "https://www.animegg.org/dagashi-kashi-episode-12"
+      }
+    ]
   }
 ]
