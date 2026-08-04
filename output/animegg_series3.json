@@ -123877,5 +123877,87 @@
         "url": "https://www.animegg.org/sora-no-method-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2572,
+    "title": "30-sai no Hoken Taiiku",
+    "animegg_url": "https://www.animegg.org/series/30-sai-no-hoken-taiiku",
+    "mal_url": "https://myanimelist.net/anime/9624",
+    "mal_id": 9624,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 30,
+        "sub": "https://www.animegg.org/embed/25117",
+        "dub": null,
+        "url": "https://www.animegg.org/30-sai-no-hoken-taiiku-episode-12"
+      },
+      {
+        "ep": 30,
+        "sub": "https://www.animegg.org/embed/25116",
+        "dub": null,
+        "url": "https://www.animegg.org/30-sai-no-hoken-taiiku-episode-11"
+      },
+      {
+        "ep": 30,
+        "sub": "https://www.animegg.org/embed/25115",
+        "dub": null,
+        "url": "https://www.animegg.org/30-sai-no-hoken-taiiku-episode-10"
+      },
+      {
+        "ep": 30,
+        "sub": "https://www.animegg.org/embed/25114",
+        "dub": null,
+        "url": "https://www.animegg.org/30-sai-no-hoken-taiiku-episode-9"
+      },
+      {
+        "ep": 30,
+        "sub": "https://www.animegg.org/embed/25113",
+        "dub": null,
+        "url": "https://www.animegg.org/30-sai-no-hoken-taiiku-episode-8"
+      },
+      {
+        "ep": 30,
+        "sub": "https://www.animegg.org/embed/25112",
+        "dub": null,
+        "url": "https://www.animegg.org/30-sai-no-hoken-taiiku-episode-7"
+      },
+      {
+        "ep": 30,
+        "sub": "https://www.animegg.org/embed/25111",
+        "dub": null,
+        "url": "https://www.animegg.org/30-sai-no-hoken-taiiku-episode-6"
+      },
+      {
+        "ep": 30,
+        "sub": "https://www.animegg.org/embed/25110",
+        "dub": null,
+        "url": "https://www.animegg.org/30-sai-no-hoken-taiiku-episode-5"
+      },
+      {
+        "ep": 30,
+        "sub": "https://www.animegg.org/embed/25109",
+        "dub": null,
+        "url": "https://www.animegg.org/30-sai-no-hoken-taiiku-episode-4"
+      },
+      {
+        "ep": 30,
+        "sub": "https://www.animegg.org/embed/25108",
+        "dub": null,
+        "url": "https://www.animegg.org/30-sai-no-hoken-taiiku-episode-3"
+      },
+      {
+        "ep": 30,
+        "sub": "https://www.animegg.org/embed/25107",
+        "dub": null,
+        "url": "https://www.animegg.org/30-sai-no-hoken-taiiku-episode-2"
+      },
+      {
+        "ep": 30,
+        "sub": "https://www.animegg.org/embed/25106",
+        "dub": null,
+        "url": "https://www.animegg.org/30-sai-no-hoken-taiiku-episode-1"
+      }
+    ]
   }
 ]
