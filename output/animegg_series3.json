@@ -132073,5 +132073,87 @@
         "url": "https://www.animegg.org/trouble-chocolate-episode-20"
       }
     ]
+  },
+  {
+    "serial_no": 2662,
+    "title": "Soul Buster",
+    "animegg_url": "https://www.animegg.org/series/soul-buster",
+    "mal_url": "https://myanimelist.net/anime/33775",
+    "mal_id": 33775,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/84202",
+        "dub": null,
+        "url": "https://www.animegg.org/soul-buster-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/84222",
+        "dub": null,
+        "url": "https://www.animegg.org/soul-buster-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/84336",
+        "dub": null,
+        "url": "https://www.animegg.org/soul-buster-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/84427",
+        "dub": null,
+        "url": "https://www.animegg.org/soul-buster-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/84523",
+        "dub": null,
+        "url": "https://www.animegg.org/soul-buster-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/84619",
+        "dub": null,
+        "url": "https://www.animegg.org/soul-buster-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/84714",
+        "dub": null,
+        "url": "https://www.animegg.org/soul-buster-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/84818",
+        "dub": null,
+        "url": "https://www.animegg.org/soul-buster-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/84916",
+        "dub": null,
+        "url": "https://www.animegg.org/soul-buster-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/84984",
+        "dub": null,
+        "url": "https://www.animegg.org/soul-buster-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/85096",
+        "dub": null,
+        "url": "https://www.animegg.org/soul-buster-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/85203",
+        "dub": null,
+        "url": "https://www.animegg.org/soul-buster-episode-12"
+      }
+    ]
   }
 ]
