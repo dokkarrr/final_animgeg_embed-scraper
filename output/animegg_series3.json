@@ -48768,5 +48768,87 @@
         "url": "https://www.animegg.org/koutetsu-sangokushi-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 1904,
+    "title": "Gochuumon wa Usagi Desu ka?",
+    "animegg_url": "https://www.animegg.org/series/is-the-order-a-rabbit",
+    "mal_url": "https://myanimelist.net/anime/21273",
+    "mal_id": 21273,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/13255",
+        "dub": null,
+        "url": "https://www.animegg.org/gochuumon-wa-usagi-desu-ka-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/13254",
+        "dub": null,
+        "url": "https://www.animegg.org/gochuumon-wa-usagi-desu-ka-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/13253",
+        "dub": null,
+        "url": "https://www.animegg.org/gochuumon-wa-usagi-desu-ka-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/13252",
+        "dub": null,
+        "url": "https://www.animegg.org/gochuumon-wa-usagi-desu-ka-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/13256",
+        "dub": null,
+        "url": "https://www.animegg.org/gochuumon-wa-usagi-desu-ka-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/13257",
+        "dub": null,
+        "url": "https://www.animegg.org/is-the-order-a-rabbit-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/13258",
+        "dub": null,
+        "url": "https://www.animegg.org/is-the-order-a-rabbit-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/13259",
+        "dub": null,
+        "url": "https://www.animegg.org/gochuumon-wa-usagi-desu-ka-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/13260",
+        "dub": null,
+        "url": "https://www.animegg.org/gochuumon-wa-usagi-desu-ka-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/13261",
+        "dub": null,
+        "url": "https://www.animegg.org/gochuumon-wa-usagi-desu-ka-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/13262",
+        "dub": null,
+        "url": "https://www.animegg.org/gochuumon-wa-usagi-desu-ka-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/13263",
+        "dub": null,
+        "url": "https://www.animegg.org/gochuumon-wa-usagi-desu-ka-episode-12"
+      }
+    ]
   }
 ]
