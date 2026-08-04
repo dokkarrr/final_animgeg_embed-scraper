@@ -122870,5 +122870,87 @@
         "url": "https://www.animegg.org/el-hazard-wanderers-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 1223,
+    "title": "B Gata H Kei",
+    "animegg_url": "https://www.animegg.org/series/b-gata-h-kei",
+    "mal_url": "https://myanimelist.net/anime/7817",
+    "mal_id": 7817,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/2174",
+        "dub": "https://www.animegg.org/embed/2175",
+        "url": "https://www.animegg.org/b-gata-h-kei-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/2170",
+        "dub": "https://www.animegg.org/embed/2171",
+        "url": "https://www.animegg.org/b-gata-h-kei-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/2172",
+        "dub": "https://www.animegg.org/embed/2173",
+        "url": "https://www.animegg.org/b-gata-h-kei-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/2166",
+        "dub": "https://www.animegg.org/embed/2167",
+        "url": "https://www.animegg.org/b-gata-h-kei-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/2168",
+        "dub": "https://www.animegg.org/embed/2169",
+        "url": "https://www.animegg.org/b-gata-h-kei-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/2178",
+        "dub": "https://www.animegg.org/embed/2179",
+        "url": "https://www.animegg.org/b-gata-h-kei-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/2176",
+        "dub": "https://www.animegg.org/embed/2177",
+        "url": "https://www.animegg.org/b-gata-h-kei-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/2180",
+        "dub": "https://www.animegg.org/embed/2181",
+        "url": "https://www.animegg.org/b-gata-h-kei-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/2182",
+        "dub": "https://www.animegg.org/embed/2183",
+        "url": "https://www.animegg.org/b-gata-h-kei-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/2184",
+        "dub": "https://www.animegg.org/embed/2185",
+        "url": "https://www.animegg.org/b-gata-h-kei-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/2186",
+        "dub": "https://www.animegg.org/embed/2187",
+        "url": "https://www.animegg.org/b-gata-h-kei-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/2188",
+        "dub": "https://www.animegg.org/embed/2189",
+        "url": "https://www.animegg.org/b-gata-h-kei-episode-12"
+      }
+    ]
   }
 ]
