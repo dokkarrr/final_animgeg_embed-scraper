@@ -82874,5 +82874,87 @@
         "url": "https://www.animegg.org/da-capo-ii-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2170,
+    "title": "Anitore! EX",
+    "animegg_url": "https://www.animegg.org/series/anitore-ex",
+    "mal_url": "https://myanimelist.net/anime/31519",
+    "mal_id": 31519,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/79456",
+        "dub": null,
+        "url": "https://www.animegg.org/anitore-ex-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/79555",
+        "dub": null,
+        "url": "https://www.animegg.org/anitore-ex-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/79671",
+        "dub": null,
+        "url": "https://www.animegg.org/anitore-ex-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/79759",
+        "dub": null,
+        "url": "https://www.animegg.org/anitore-ex-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/79842",
+        "dub": null,
+        "url": "https://www.animegg.org/anitore-ex-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/79932",
+        "dub": null,
+        "url": "https://www.animegg.org/anitore-ex-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/80029",
+        "dub": null,
+        "url": "https://www.animegg.org/anitore-ex-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/80131",
+        "dub": null,
+        "url": "https://www.animegg.org/anitore-ex-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/80255",
+        "dub": null,
+        "url": "https://www.animegg.org/anitore-ex-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/80353",
+        "dub": null,
+        "url": "https://www.animegg.org/anitore-ex-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/80444",
+        "dub": null,
+        "url": "https://www.animegg.org/anitore-ex-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/80520",
+        "dub": null,
+        "url": "https://www.animegg.org/anitore-ex-episode-12"
+      }
+    ]
   }
 ]
