@@ -9774,5 +9774,93 @@
         "url": "https://www.animegg.org/kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1616,
+    "title": "Sore ga Seiyuu!",
+    "animegg_url": "https://www.animegg.org/series/sore-ga-seiyuu",
+    "mal_url": "https://myanimelist.net/anime/29163",
+    "mal_id": 29163,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/77769",
+        "dub": "https://www.animegg.org/embed/77777",
+        "url": "https://www.animegg.org/sore-ga-seiyuu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/77896",
+        "dub": "https://www.animegg.org/embed/77900",
+        "url": "https://www.animegg.org/sore-ga-seiyuu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/78102",
+        "dub": "https://www.animegg.org/embed/78105",
+        "url": "https://www.animegg.org/sore-ga-seiyuu-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/78242",
+        "dub": "https://www.animegg.org/embed/78247",
+        "url": "https://www.animegg.org/sore-ga-seiyuu-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/78358",
+        "dub": "https://www.animegg.org/embed/78363",
+        "url": "https://www.animegg.org/sore-ga-seiyuu-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/78481",
+        "dub": null,
+        "url": "https://www.animegg.org/sore-ga-seiyuu-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/78597",
+        "dub": null,
+        "url": "https://www.animegg.org/sore-ga-seiyuu-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/78705",
+        "dub": null,
+        "url": "https://www.animegg.org/sore-ga-seiyuu-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/78810",
+        "dub": "https://www.animegg.org/embed/78816",
+        "url": "https://www.animegg.org/sore-ga-seiyuu-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/78928",
+        "dub": null,
+        "url": "https://www.animegg.org/sore-ga-seiyuu-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/79037",
+        "dub": null,
+        "url": "https://www.animegg.org/sore-ga-seiyuu-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/79147",
+        "dub": null,
+        "url": "https://www.animegg.org/sore-ga-seiyuu-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/79230",
+        "dub": "https://www.animegg.org/embed/79231",
+        "url": "https://www.animegg.org/sore-ga-seiyuu-episode-13"
+      }
+    ]
   }
 ]
