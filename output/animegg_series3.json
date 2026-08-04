@@ -110992,5 +110992,93 @@
         "url": "https://www.animegg.org/la-corda-doro---blue-sky-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2442,
+    "title": "Now And Then Here And There",
+    "animegg_url": "https://www.animegg.org/series/now-and-then-here-and-there",
+    "mal_url": "https://myanimelist.net/anime/36111",
+    "mal_id": 36111,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/27417",
+        "dub": "https://www.animegg.org/embed/71873",
+        "url": "https://www.animegg.org/now-and-then-here-and-there-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/27419",
+        "dub": "https://www.animegg.org/embed/71876",
+        "url": "https://www.animegg.org/now-and-then-here-and-there-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/27418",
+        "dub": "https://www.animegg.org/embed/71877",
+        "url": "https://www.animegg.org/now-and-then-here-and-there-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/27420",
+        "dub": "https://www.animegg.org/embed/71915",
+        "url": "https://www.animegg.org/now-and-then-here-and-there-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/27416",
+        "dub": "https://www.animegg.org/embed/71917",
+        "url": "https://www.animegg.org/now-and-then-here-and-there-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/27422",
+        "dub": "https://www.animegg.org/embed/71919",
+        "url": "https://www.animegg.org/now-and-then-here-and-there-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/27421",
+        "dub": "https://www.animegg.org/embed/71920",
+        "url": "https://www.animegg.org/now-and-then-here-and-there-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/27423",
+        "dub": "https://www.animegg.org/embed/71922",
+        "url": "https://www.animegg.org/now-and-then-here-and-there-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/27424",
+        "dub": "https://www.animegg.org/embed/71923",
+        "url": "https://www.animegg.org/now-and-then-here-and-there-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/27425",
+        "dub": "https://www.animegg.org/embed/71925",
+        "url": "https://www.animegg.org/now-and-then-here-and-there-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/27427",
+        "dub": "https://www.animegg.org/embed/71927",
+        "url": "https://www.animegg.org/now-and-then-here-and-there-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/27426",
+        "dub": "https://www.animegg.org/embed/71928",
+        "url": "https://www.animegg.org/now-and-then-here-and-there-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/27428",
+        "dub": "https://www.animegg.org/embed/71929",
+        "url": "https://www.animegg.org/now-and-then-here-and-there-episode-13"
+      }
+    ]
   }
 ]
