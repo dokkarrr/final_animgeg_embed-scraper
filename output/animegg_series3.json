@@ -46506,5 +46506,87 @@
         "url": "https://www.animegg.org/glasslip-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 1883,
+    "title": "Clockwork Planet",
+    "animegg_url": "https://www.animegg.org/series/clockwork-planet",
+    "mal_url": "https://myanimelist.net/anime/32407",
+    "mal_id": 32407,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/86474",
+        "dub": null,
+        "url": "https://www.animegg.org/clockwork-planet-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/86567",
+        "dub": null,
+        "url": "https://www.animegg.org/clockwork-planet-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/86654",
+        "dub": null,
+        "url": "https://www.animegg.org/clockwork-planet-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/86744",
+        "dub": null,
+        "url": "https://www.animegg.org/clockwork-planet-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/86822",
+        "dub": null,
+        "url": "https://www.animegg.org/clockwork-planet-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/86901",
+        "dub": null,
+        "url": "https://www.animegg.org/clockwork-planet-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/86980",
+        "dub": null,
+        "url": "https://www.animegg.org/clockwork-planet-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/87059",
+        "dub": null,
+        "url": "https://www.animegg.org/clockwork-planet-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/87129",
+        "dub": null,
+        "url": "https://www.animegg.org/clockwork-planet-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/87227",
+        "dub": null,
+        "url": "https://www.animegg.org/clockwork-planet-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/87292",
+        "dub": null,
+        "url": "https://www.animegg.org/clockwork-planet-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/87369",
+        "dub": null,
+        "url": "https://www.animegg.org/clockwork-planet-episode-12"
+      }
+    ]
   }
 ]
