@@ -52848,5 +52848,87 @@
         "url": "https://www.animegg.org/senki-zesshou-symphogear-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 1922,
+    "title": "Mahou Shoujo Nante Mou Ii Desukara.",
+    "animegg_url": "https://www.animegg.org/series/mahou-shoujo-nante-mou-ii-desukara",
+    "mal_url": "https://myanimelist.net/anime/31793",
+    "mal_id": 31793,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/80645",
+        "dub": "https://www.animegg.org/embed/80649",
+        "url": "https://www.animegg.org/mahou-shoujo-nante-mou-ii-desukara-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/80741",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-nante-mou-ii-desukara-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/80848",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-nante-mou-ii-desukara-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/80954",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-nante-mou-ii-desukara-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/81051",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-nante-mou-ii-desukara-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/81141",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-nante-mou-ii-desukara-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/81364",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-nante-mou-ii-desukara-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/81365",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-nante-mou-ii-desukara-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/81453",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-nante-mou-ii-desukara-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/81555",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-nante-mou-ii-desukara-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/81645",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-nante-mou-ii-desukara-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/81733",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-nante-mou-ii-desukara-episode-12"
+      }
+    ]
   }
 ]
