@@ -123137,5 +123137,87 @@
         "url": "https://www.animegg.org/magikano-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2564,
+    "title": "2x2=Shinobuden",
+    "animegg_url": "https://www.animegg.org/series/2x2-shinobuden",
+    "mal_url": "https://myanimelist.net/anime/229",
+    "mal_id": 229,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/25104",
+        "dub": "https://www.animegg.org/embed/25105",
+        "url": "https://www.animegg.org/2x2-shinobuden-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/25102",
+        "dub": "https://www.animegg.org/embed/25103",
+        "url": "https://www.animegg.org/2x2-shinobuden-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/25100",
+        "dub": "https://www.animegg.org/embed/25101",
+        "url": "https://www.animegg.org/2x2-shinobuden-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/25098",
+        "dub": "https://www.animegg.org/embed/25099",
+        "url": "https://www.animegg.org/2x2-shinobuden-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/25096",
+        "dub": "https://www.animegg.org/embed/25097",
+        "url": "https://www.animegg.org/2x2-shinobuden-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/25094",
+        "dub": "https://www.animegg.org/embed/25095",
+        "url": "https://www.animegg.org/2x2-shinobuden-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/25092",
+        "dub": "https://www.animegg.org/embed/25093",
+        "url": "https://www.animegg.org/2x2-shinobuden-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/25090",
+        "dub": "https://www.animegg.org/embed/25091",
+        "url": "https://www.animegg.org/2x2-shinobuden-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/25088",
+        "dub": "https://www.animegg.org/embed/25089",
+        "url": "https://www.animegg.org/2x2-shinobuden-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/25086",
+        "dub": "https://www.animegg.org/embed/25087",
+        "url": "https://www.animegg.org/2x2-shinobuden-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/25084",
+        "dub": "https://www.animegg.org/embed/25085",
+        "url": "https://www.animegg.org/2x2-shinobuden-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/25082",
+        "dub": "https://www.animegg.org/embed/25083",
+        "url": "https://www.animegg.org/2x2-shinobuden-episode-1"
+      }
+    ]
   }
 ]
