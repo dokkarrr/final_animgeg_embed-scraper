@@ -107096,5 +107096,87 @@
         "url": "https://www.animegg.org/onee-chan-ga-kita-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2404,
+    "title": "He Is My Master",
+    "animegg_url": "https://www.animegg.org/series/he-is-my-master",
+    "mal_url": "https://myanimelist.net/anime/412",
+    "mal_id": 412,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/15603",
+        "dub": null,
+        "url": "https://www.animegg.org/he-is-my-master-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/15599",
+        "dub": null,
+        "url": "https://www.animegg.org/he-is-my-master-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/15602",
+        "dub": null,
+        "url": "https://www.animegg.org/he-is-my-master-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/15601",
+        "dub": null,
+        "url": "https://www.animegg.org/he-is-my-master-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/15600",
+        "dub": null,
+        "url": "https://www.animegg.org/he-is-my-master-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/15606",
+        "dub": null,
+        "url": "https://www.animegg.org/he-is-my-master-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/15604",
+        "dub": null,
+        "url": "https://www.animegg.org/he-is-my-master-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/15605",
+        "dub": null,
+        "url": "https://www.animegg.org/he-is-my-master-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/15607",
+        "dub": null,
+        "url": "https://www.animegg.org/he-is-my-master-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/15608",
+        "dub": null,
+        "url": "https://www.animegg.org/he-is-my-master-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/15610",
+        "dub": null,
+        "url": "https://www.animegg.org/he-is-my-master-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/15609",
+        "dub": null,
+        "url": "https://www.animegg.org/he-is-my-master-episode-12"
+      }
+    ]
   }
 ]
