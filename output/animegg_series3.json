@@ -5738,5 +5738,93 @@
         "url": "https://www.animegg.org/gokukoku-no-brynhildr-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 1576,
+    "title": "Asura Cryin",
+    "animegg_url": "https://www.animegg.org/series/asura-cryin",
+    "mal_url": "https://myanimelist.net/anime/5342",
+    "mal_id": 5342,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/1937",
+        "dub": null,
+        "url": "https://www.animegg.org/asura-cryin-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/1933",
+        "dub": null,
+        "url": "https://www.animegg.org/asura-cryin-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/1934",
+        "dub": null,
+        "url": "https://www.animegg.org/asura-cryin-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/1936",
+        "dub": null,
+        "url": "https://www.animegg.org/asura-cryin-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/1935",
+        "dub": null,
+        "url": "https://www.animegg.org/asura-cryin-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/1941",
+        "dub": null,
+        "url": "https://www.animegg.org/asura-cryin-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/1938",
+        "dub": null,
+        "url": "https://www.animegg.org/asura-cryin-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/1940",
+        "dub": null,
+        "url": "https://www.animegg.org/asura-cryin-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/1939",
+        "dub": null,
+        "url": "https://www.animegg.org/asura-cryin-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/1942",
+        "dub": null,
+        "url": "https://www.animegg.org/asura-cryin-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/1943",
+        "dub": null,
+        "url": "https://www.animegg.org/asura-cryin-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/66651",
+        "dub": null,
+        "url": "https://www.animegg.org/asura-cryin-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/66652",
+        "dub": null,
+        "url": "https://www.animegg.org/asura-cryin-episode-13"
+      }
+    ]
   }
 ]
