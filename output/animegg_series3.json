@@ -74680,5 +74680,87 @@
         "url": "https://www.animegg.org/teekyuu-4-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 2115,
+    "title": "Kure-nai",
+    "animegg_url": "https://www.animegg.org/series/kure-nai",
+    "mal_url": "https://myanimelist.net/anime/3358",
+    "mal_id": 3358,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/20836",
+        "dub": null,
+        "url": "https://www.animegg.org/kure-nai-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/20832",
+        "dub": null,
+        "url": "https://www.animegg.org/kure-nai-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/20833",
+        "dub": null,
+        "url": "https://www.animegg.org/kure-nai-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/20834",
+        "dub": null,
+        "url": "https://www.animegg.org/kure-nai-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/20835",
+        "dub": null,
+        "url": "https://www.animegg.org/kure-nai-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/20839",
+        "dub": null,
+        "url": "https://www.animegg.org/kure-nai-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/20837",
+        "dub": null,
+        "url": "https://www.animegg.org/kure-nai-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/20838",
+        "dub": null,
+        "url": "https://www.animegg.org/kure-nai-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/20840",
+        "dub": null,
+        "url": "https://www.animegg.org/kure-nai-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/20841",
+        "dub": null,
+        "url": "https://www.animegg.org/kure-nai-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/20842",
+        "dub": null,
+        "url": "https://www.animegg.org/kure-nai-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/20843",
+        "dub": null,
+        "url": "https://www.animegg.org/kure-nai-episode-12"
+      }
+    ]
   }
 ]
