@@ -43494,5 +43494,93 @@
         "url": "https://www.animegg.org/platinum-end-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 1856,
+    "title": "Cheer Danshi!!",
+    "animegg_url": "https://www.animegg.org/series/cheer-danshi",
+    "mal_url": "https://myanimelist.net/anime/32483",
+    "mal_id": 32483,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/82952",
+        "dub": null,
+        "url": "https://www.animegg.org/cheer-danshi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/83039",
+        "dub": "https://www.animegg.org/embed/92544",
+        "url": "https://www.animegg.org/cheer-danshi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/83140",
+        "dub": null,
+        "url": "https://www.animegg.org/cheer-danshi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/83261",
+        "dub": null,
+        "url": "https://www.animegg.org/cheer-danshi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/83341",
+        "dub": null,
+        "url": "https://www.animegg.org/cheer-danshi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/83430",
+        "dub": null,
+        "url": "https://www.animegg.org/cheer-danshi-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/83518",
+        "dub": null,
+        "url": "https://www.animegg.org/cheer-danshi-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/83598",
+        "dub": null,
+        "url": "https://www.animegg.org/cheer-danshi-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/83700",
+        "dub": "https://www.animegg.org/embed/92545",
+        "url": "https://www.animegg.org/cheer-danshi-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/83784",
+        "dub": "https://www.animegg.org/embed/92464",
+        "url": "https://www.animegg.org/cheer-danshi-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/83864",
+        "dub": null,
+        "url": "https://www.animegg.org/cheer-danshi-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/83947",
+        "dub": "https://www.animegg.org/embed/92543",
+        "url": "https://www.animegg.org/cheer-danshi-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/84034",
+        "dub": null,
+        "url": "https://www.animegg.org/cheer-danshi-episode-13"
+      }
+    ]
   }
 ]
