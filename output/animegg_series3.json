@@ -102026,5 +102026,93 @@
         "url": "https://www.animegg.org/petite-princess-yucie-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 2350,
+    "title": "BanG Dream!",
+    "animegg_url": "https://www.animegg.org/series/bang-dream",
+    "mal_url": "https://myanimelist.net/anime/33573",
+    "mal_id": 33573,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/85704",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/85705",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/85762",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/85855",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/85926",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/86025",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/86104",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/86192",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/86338",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/86416",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/86496",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/86593",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/86687",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-episode-13"
+      }
+    ]
   }
 ]
