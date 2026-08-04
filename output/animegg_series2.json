@@ -102170,5 +102170,87 @@
         "url": "https://www.animegg.org/dog-days-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 1091,
+    "title": "Gamers!",
+    "animegg_url": "https://www.animegg.org/series/gamers",
+    "mal_url": "https://myanimelist.net/anime/34280",
+    "mal_id": 34280,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/87582",
+        "dub": null,
+        "url": "https://www.animegg.org/gamers-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/87703",
+        "dub": null,
+        "url": "https://www.animegg.org/gamers-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/87723",
+        "dub": null,
+        "url": "https://www.animegg.org/gamers-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/87862",
+        "dub": null,
+        "url": "https://www.animegg.org/gamers-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/88020",
+        "dub": null,
+        "url": "https://www.animegg.org/gamers-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/88021",
+        "dub": null,
+        "url": "https://www.animegg.org/gamers-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/88049",
+        "dub": null,
+        "url": "https://www.animegg.org/gamers-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/88122",
+        "dub": null,
+        "url": "https://www.animegg.org/gamers-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/88208",
+        "dub": null,
+        "url": "https://www.animegg.org/gamers-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/88283",
+        "dub": null,
+        "url": "https://www.animegg.org/gamers-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/88374",
+        "dub": null,
+        "url": "https://www.animegg.org/gamers-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/88427",
+        "dub": null,
+        "url": "https://www.animegg.org/gamers-episode-12"
+      }
+    ]
   }
 ]
