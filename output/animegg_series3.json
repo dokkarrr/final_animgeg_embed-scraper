@@ -118721,5 +118721,51 @@
         "url": "https://www.animegg.org/to-heart-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 2528,
+    "title": "Robot Girls Z Plus",
+    "animegg_url": "https://www.animegg.org/series/robot-girls-z-plus",
+    "mal_url": "https://myanimelist.net/anime/29035",
+    "mal_id": 29035,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/76863",
+        "dub": null,
+        "url": "https://www.animegg.org/robot-girls-z-plus-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/77453",
+        "dub": null,
+        "url": "https://www.animegg.org/robot-girls-z-plus-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/78047",
+        "dub": null,
+        "url": "https://www.animegg.org/robot-girls-z-plus-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/78609",
+        "dub": null,
+        "url": "https://www.animegg.org/robot-girls-z-plus-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/79106",
+        "dub": null,
+        "url": "https://www.animegg.org/robot-girls-z-plus-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/79552",
+        "dub": null,
+        "url": "https://www.animegg.org/robot-girls-z-plus-episode-6"
+      }
+    ]
   }
 ]
