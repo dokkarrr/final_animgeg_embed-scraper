@@ -33746,5 +33746,93 @@
         "url": "https://www.animegg.org/imawa-no-kuni-no-alice-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 1771,
+    "title": "Natsume Yuujinchou San",
+    "animegg_url": "https://www.animegg.org/series/natsume-yuujinchou-san",
+    "mal_url": "https://myanimelist.net/anime/10379",
+    "mal_id": 10379,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/26933",
+        "dub": null,
+        "url": "https://www.animegg.org/natsume-yuujinchou-san-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/26930",
+        "dub": null,
+        "url": "https://www.animegg.org/natsume-yuujinchou-san-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/26931",
+        "dub": null,
+        "url": "https://www.animegg.org/natsume-yuujinchou-san-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/26932",
+        "dub": null,
+        "url": "https://www.animegg.org/natsume-yuujinchou-san-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/26929",
+        "dub": null,
+        "url": "https://www.animegg.org/natsume-yuujinchou-san-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/26937",
+        "dub": null,
+        "url": "https://www.animegg.org/natsume-yuujinchou-san-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/26936",
+        "dub": null,
+        "url": "https://www.animegg.org/natsume-yuujinchou-san-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/26934",
+        "dub": null,
+        "url": "https://www.animegg.org/natsume-yuujinchou-san-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/26935",
+        "dub": null,
+        "url": "https://www.animegg.org/natsume-yuujinchou-san-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/26938",
+        "dub": null,
+        "url": "https://www.animegg.org/natsume-yuujinchou-san-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/26939",
+        "dub": null,
+        "url": "https://www.animegg.org/natsume-yuujinchou-san-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/26940",
+        "dub": null,
+        "url": "https://www.animegg.org/natsume-yuujinchou-san-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/26941",
+        "dub": null,
+        "url": "https://www.animegg.org/natsume-yuujinchou-san-episode-13"
+      }
+    ]
   }
 ]
