@@ -123713,5 +123713,81 @@
         "url": "https://www.animegg.org/weiss-kreuz-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 2570,
+    "title": "Hakaba Kitarou",
+    "animegg_url": "https://www.animegg.org/series/hakaba-kitarou",
+    "mal_url": "https://myanimelist.net/anime/3710",
+    "mal_id": 3710,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/15073",
+        "dub": null,
+        "url": "https://www.animegg.org/hakaba-kitarou-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/15074",
+        "dub": null,
+        "url": "https://www.animegg.org/hakaba-kitarou-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/15071",
+        "dub": null,
+        "url": "https://www.animegg.org/hakaba-kitarou-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/15072",
+        "dub": null,
+        "url": "https://www.animegg.org/hakaba-kitarou-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/15075",
+        "dub": null,
+        "url": "https://www.animegg.org/hakaba-kitarou-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/15076",
+        "dub": null,
+        "url": "https://www.animegg.org/hakaba-kitarou-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/15077",
+        "dub": null,
+        "url": "https://www.animegg.org/hakaba-kitarou-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/15078",
+        "dub": null,
+        "url": "https://www.animegg.org/hakaba-kitarou-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/15079",
+        "dub": null,
+        "url": "https://www.animegg.org/hakaba-kitarou-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/15080",
+        "dub": null,
+        "url": "https://www.animegg.org/hakaba-kitarou-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/15081",
+        "dub": null,
+        "url": "https://www.animegg.org/hakaba-kitarou-episode-11"
+      }
+    ]
   }
 ]
