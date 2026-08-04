@@ -86140,5 +86140,87 @@
         "url": "https://www.animegg.org/bikini-warriors-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1009,
+    "title": "Akuma no Riddle",
+    "animegg_url": "https://www.animegg.org/series/akuma-no-riddle",
+    "mal_url": "https://myanimelist.net/anime/19429",
+    "mal_id": 19429,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/904",
+        "dub": null,
+        "url": "https://www.animegg.org/akuma-no-riddle-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/903",
+        "dub": null,
+        "url": "https://www.animegg.org/akuma-no-riddle-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/899",
+        "dub": null,
+        "url": "https://www.animegg.org/akuma-no-riddle-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/900",
+        "dub": "https://www.animegg.org/embed/80371",
+        "url": "https://www.animegg.org/akuma-no-riddle-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/901",
+        "dub": "https://www.animegg.org/embed/80370",
+        "url": "https://www.animegg.org/akuma-no-riddle-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/902",
+        "dub": "https://www.animegg.org/embed/80369",
+        "url": "https://www.animegg.org/akuma-no-riddle-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/905",
+        "dub": "https://www.animegg.org/embed/906",
+        "url": "https://www.animegg.org/akuma-no-riddle-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/907",
+        "dub": "https://www.animegg.org/embed/908",
+        "url": "https://www.animegg.org/akuma-no-riddle-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/909",
+        "dub": "https://www.animegg.org/embed/910",
+        "url": "https://www.animegg.org/akuma-no-riddle-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/911",
+        "dub": "https://www.animegg.org/embed/912",
+        "url": "https://www.animegg.org/akuma-no-riddle-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/913",
+        "dub": "https://www.animegg.org/embed/914",
+        "url": "https://www.animegg.org/akuma-no-riddle-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/915",
+        "dub": "https://www.animegg.org/embed/916",
+        "url": "https://www.animegg.org/akuma-no-riddle-episode-12"
+      }
+    ]
   }
 ]
