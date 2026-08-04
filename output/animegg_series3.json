@@ -23472,5 +23472,81 @@
         "url": "https://www.animegg.org/hyakka-ryouran-samurai-bride-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1697,
+    "title": "Nodame Cantabile Paris-Hen",
+    "animegg_url": "https://www.animegg.org/series/nodame-cantabile-paris-hen",
+    "mal_url": "https://myanimelist.net/anime/4477",
+    "mal_id": 4477,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/27292",
+        "dub": null,
+        "url": "https://www.animegg.org/nodame-cantabile-paris-hen-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/27291",
+        "dub": null,
+        "url": "https://www.animegg.org/nodame-cantabile-paris-hen-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/27289",
+        "dub": null,
+        "url": "https://www.animegg.org/nodame-cantabile-paris-hen-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/27294",
+        "dub": null,
+        "url": "https://www.animegg.org/nodame-cantabile-paris-hen-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/27290",
+        "dub": null,
+        "url": "https://www.animegg.org/nodame-cantabile-paris-hen-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/27293",
+        "dub": null,
+        "url": "https://www.animegg.org/nodame-cantabile-paris-hen-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/27299",
+        "dub": null,
+        "url": "https://www.animegg.org/nodame-cantabile-paris-hen-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/27295",
+        "dub": null,
+        "url": "https://www.animegg.org/nodame-cantabile-paris-hen-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/27297",
+        "dub": null,
+        "url": "https://www.animegg.org/nodame-cantabile-paris-hen-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/27296",
+        "dub": null,
+        "url": "https://www.animegg.org/nodame-cantabile-paris-hen-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/27298",
+        "dub": null,
+        "url": "https://www.animegg.org/nodame-cantabile-paris-hen-episode-11"
+      }
+    ]
   }
 ]
