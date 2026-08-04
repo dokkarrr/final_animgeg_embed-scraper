@@ -49242,5 +49242,87 @@
         "url": "https://www.animegg.org/kyoukai-no-kanata-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 783,
+    "title": "Gotoubun no Hanayome",
+    "animegg_url": "https://www.animegg.org/series/gotoubun-no-hanayome",
+    "mal_url": "https://myanimelist.net/anime/38101",
+    "mal_id": 38101,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/94181",
+        "dub": null,
+        "url": "https://www.animegg.org/gotoubun-no-hanayome-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/94251",
+        "dub": null,
+        "url": "https://www.animegg.org/gotoubun-no-hanayome-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/94316",
+        "dub": null,
+        "url": "https://www.animegg.org/gotoubun-no-hanayome-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/94381",
+        "dub": null,
+        "url": "https://www.animegg.org/gotoubun-no-hanayome-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/94445",
+        "dub": null,
+        "url": "https://www.animegg.org/gotoubun-no-hanayome-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/94510",
+        "dub": null,
+        "url": "https://www.animegg.org/gotoubun-no-hanayome-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/94582",
+        "dub": null,
+        "url": "https://www.animegg.org/gotoubun-no-hanayome-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/94654",
+        "dub": null,
+        "url": "https://www.animegg.org/gotoubun-no-hanayome-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/94717",
+        "dub": null,
+        "url": "https://www.animegg.org/gotoubun-no-hanayome-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/94780",
+        "dub": null,
+        "url": "https://www.animegg.org/gotoubun-no-hanayome-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/94861",
+        "dub": null,
+        "url": "https://www.animegg.org/gotoubun-no-hanayome-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/94939",
+        "dub": null,
+        "url": "https://www.animegg.org/gotoubun-no-hanayome-episode-12"
+      }
+    ]
   }
 ]
