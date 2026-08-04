@@ -122261,5 +122261,75 @@
         "url": "https://www.animegg.org/the-apothecary-diaries-season-2-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 2555,
+    "title": "Devilman: Crybaby",
+    "animegg_url": "https://www.animegg.org/series/devilman-crybaby",
+    "mal_url": "https://myanimelist.net/anime/35120",
+    "mal_id": 35120,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/89548",
+        "dub": null,
+        "url": "https://www.animegg.org/devilman-crybaby-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/90416",
+        "dub": null,
+        "url": "https://www.animegg.org/devilman-crybaby-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/90871",
+        "dub": null,
+        "url": "https://www.animegg.org/devilman-crybaby-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/90872",
+        "dub": null,
+        "url": "https://www.animegg.org/devilman-crybaby-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/90873",
+        "dub": null,
+        "url": "https://www.animegg.org/devilman-crybaby-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/90874",
+        "dub": null,
+        "url": "https://www.animegg.org/devilman-crybaby-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/90875",
+        "dub": null,
+        "url": "https://www.animegg.org/devilman-crybaby-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/90876",
+        "dub": null,
+        "url": "https://www.animegg.org/devilman-crybaby-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/89550",
+        "dub": null,
+        "url": "https://www.animegg.org/devilman-crybaby-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/89549",
+        "dub": null,
+        "url": "https://www.animegg.org/devilman-crybaby-episode-10"
+      }
+    ]
   }
 ]
