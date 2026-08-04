@@ -109846,5 +109846,75 @@
         "url": "https://www.animegg.org/naruto-the-movie-ninja-clash-in-the-land-of-snow-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 2430,
+    "title": "Hakuouki Hekketsuroku",
+    "animegg_url": "https://www.animegg.org/series/hakuouki-hakketsuroku",
+    "mal_url": "https://myanimelist.net/anime/9065",
+    "mal_id": 9065,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/15110",
+        "dub": null,
+        "url": "https://www.animegg.org/hakuouki-hakketsuroku-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/15108",
+        "dub": null,
+        "url": "https://www.animegg.org/hakuouki-hakketsuroku-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/15111",
+        "dub": null,
+        "url": "https://www.animegg.org/hakuouki-hakketsuroku-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/15109",
+        "dub": null,
+        "url": "https://www.animegg.org/hakuouki-hakketsuroku-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/15112",
+        "dub": null,
+        "url": "https://www.animegg.org/hakuouki-hakketsuroku-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/15113",
+        "dub": null,
+        "url": "https://www.animegg.org/hakuouki-hakketsuroku-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/15114",
+        "dub": null,
+        "url": "https://www.animegg.org/hakuouki-hakketsuroku-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/15115",
+        "dub": null,
+        "url": "https://www.animegg.org/hakuouki-hakketsuroku-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/15116",
+        "dub": null,
+        "url": "https://www.animegg.org/hakuouki-hakketsuroku-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/15117",
+        "dub": null,
+        "url": "https://www.animegg.org/hakuouki-hakketsuroku-episode-10"
+      }
+    ]
   }
 ]
