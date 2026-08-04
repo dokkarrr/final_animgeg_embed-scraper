@@ -74844,5 +74844,93 @@
         "url": "https://www.animegg.org/ousama-game-the-animation-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2117,
+    "title": "Love Lab",
+    "animegg_url": "https://www.animegg.org/series/love-lab",
+    "mal_url": "https://myanimelist.net/anime/16353",
+    "mal_id": 16353,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/21903",
+        "dub": null,
+        "url": "https://www.animegg.org/love-lab-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/21901",
+        "dub": null,
+        "url": "https://www.animegg.org/love-lab-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/21899",
+        "dub": null,
+        "url": "https://www.animegg.org/love-lab-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/21900",
+        "dub": null,
+        "url": "https://www.animegg.org/love-lab-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/21902",
+        "dub": null,
+        "url": "https://www.animegg.org/love-lab-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/21904",
+        "dub": null,
+        "url": "https://www.animegg.org/love-lab-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/21905",
+        "dub": null,
+        "url": "https://www.animegg.org/love-lab-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/21906",
+        "dub": null,
+        "url": "https://www.animegg.org/love-lab-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/21907",
+        "dub": null,
+        "url": "https://www.animegg.org/love-lab-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/21908",
+        "dub": null,
+        "url": "https://www.animegg.org/love-lab-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/21911",
+        "dub": null,
+        "url": "https://www.animegg.org/love-lab-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/21909",
+        "dub": null,
+        "url": "https://www.animegg.org/love-lab-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/21910",
+        "dub": null,
+        "url": "https://www.animegg.org/love-lab-episode-13"
+      }
+    ]
   }
 ]
