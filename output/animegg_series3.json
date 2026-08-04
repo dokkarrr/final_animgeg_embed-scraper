@@ -25304,5 +25304,93 @@
         "url": "https://www.animegg.org/aoi-bungaku-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1714,
+    "title": "Aria The Animation",
+    "animegg_url": "https://www.animegg.org/series/aria-the-animation",
+    "mal_url": "https://myanimelist.net/anime/477",
+    "mal_id": 477,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/1730",
+        "dub": null,
+        "url": "https://www.animegg.org/aria-the-animation-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/1729",
+        "dub": null,
+        "url": "https://www.animegg.org/aria-the-animation-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/1731",
+        "dub": null,
+        "url": "https://www.animegg.org/aria-the-animation-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/1728",
+        "dub": null,
+        "url": "https://www.animegg.org/aria-the-animation-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/1727",
+        "dub": null,
+        "url": "https://www.animegg.org/aria-the-animation-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/1734",
+        "dub": null,
+        "url": "https://www.animegg.org/aria-the-animation-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/1733",
+        "dub": null,
+        "url": "https://www.animegg.org/aria-the-animation-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/1732",
+        "dub": null,
+        "url": "https://www.animegg.org/aria-the-animation-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/1736",
+        "dub": null,
+        "url": "https://www.animegg.org/aria-the-animation-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/1735",
+        "dub": null,
+        "url": "https://www.animegg.org/aria-the-animation-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/1737",
+        "dub": null,
+        "url": "https://www.animegg.org/aria-the-animation-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/1738",
+        "dub": null,
+        "url": "https://www.animegg.org/aria-the-animation-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/1739",
+        "dub": null,
+        "url": "https://www.animegg.org/aria-the-animation-episode-13"
+      }
+    ]
   }
 ]
