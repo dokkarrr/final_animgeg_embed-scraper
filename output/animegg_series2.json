@@ -16932,5 +16932,165 @@
         "url": "https://www.animegg.org/zoids-genesis-episode-50"
       }
     ]
+  },
+  {
+    "serial_no": 600,
+    "title": "Macross Frontier",
+    "animegg_url": "https://www.animegg.org/series/macross-frontier",
+    "mal_url": "https://myanimelist.net/anime/3572",
+    "mal_id": 3572,
+    "total_ep": 25,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/22343",
+        "dub": null,
+        "url": "https://www.animegg.org/macross-frontier-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/22340",
+        "dub": null,
+        "url": "https://www.animegg.org/macross-frontier-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/22339",
+        "dub": null,
+        "url": "https://www.animegg.org/macross-frontier-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/22342",
+        "dub": null,
+        "url": "https://www.animegg.org/macross-frontier-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/22341",
+        "dub": null,
+        "url": "https://www.animegg.org/macross-frontier-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/22344",
+        "dub": null,
+        "url": "https://www.animegg.org/macross-frontier-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/22345",
+        "dub": null,
+        "url": "https://www.animegg.org/macross-frontier-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/22346",
+        "dub": null,
+        "url": "https://www.animegg.org/macross-frontier-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/22347",
+        "dub": null,
+        "url": "https://www.animegg.org/macross-frontier-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/22348",
+        "dub": null,
+        "url": "https://www.animegg.org/macross-frontier-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/22349",
+        "dub": null,
+        "url": "https://www.animegg.org/macross-frontier-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/22351",
+        "dub": null,
+        "url": "https://www.animegg.org/macross-frontier-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/22350",
+        "dub": null,
+        "url": "https://www.animegg.org/macross-frontier-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/22352",
+        "dub": null,
+        "url": "https://www.animegg.org/macross-frontier-episode-14"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/22353",
+        "dub": null,
+        "url": "https://www.animegg.org/macross-frontier-episode-15"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/22354",
+        "dub": null,
+        "url": "https://www.animegg.org/macross-frontier-episode-16"
+      },
+      {
+        "ep": 17,
+        "sub": "https://www.animegg.org/embed/22356",
+        "dub": null,
+        "url": "https://www.animegg.org/macross-frontier-episode-17"
+      },
+      {
+        "ep": 18,
+        "sub": "https://www.animegg.org/embed/22355",
+        "dub": null,
+        "url": "https://www.animegg.org/macross-frontier-episode-18"
+      },
+      {
+        "ep": 19,
+        "sub": "https://www.animegg.org/embed/22357",
+        "dub": null,
+        "url": "https://www.animegg.org/macross-frontier-episode-19"
+      },
+      {
+        "ep": 20,
+        "sub": "https://www.animegg.org/embed/22358",
+        "dub": null,
+        "url": "https://www.animegg.org/macross-frontier-episode-20"
+      },
+      {
+        "ep": 21,
+        "sub": "https://www.animegg.org/embed/22359",
+        "dub": null,
+        "url": "https://www.animegg.org/macross-frontier-episode-21"
+      },
+      {
+        "ep": 22,
+        "sub": "https://www.animegg.org/embed/22360",
+        "dub": null,
+        "url": "https://www.animegg.org/macross-frontier-episode-22"
+      },
+      {
+        "ep": 23,
+        "sub": "https://www.animegg.org/embed/22361",
+        "dub": null,
+        "url": "https://www.animegg.org/macross-frontier-episode-23"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/22362",
+        "dub": null,
+        "url": "https://www.animegg.org/macross-frontier-episode-24"
+      },
+      {
+        "ep": 25,
+        "sub": "https://www.animegg.org/embed/22363",
+        "dub": null,
+        "url": "https://www.animegg.org/macross-frontier-episode-25"
+      }
+    ]
   }
 ]
