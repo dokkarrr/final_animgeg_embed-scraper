@@ -87026,5 +87026,87 @@
         "url": "https://www.animegg.org/uchouten-kazoku-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2209,
+    "title": "Jinrui wa Suitai Shimashita",
+    "animegg_url": "https://www.animegg.org/series/jinrui-wa-suitai-shimashita",
+    "mal_url": "https://myanimelist.net/anime/10357",
+    "mal_id": 10357,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/18597",
+        "dub": null,
+        "url": "https://www.animegg.org/jinrui-wa-suitai-shimashita-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/18596",
+        "dub": null,
+        "url": "https://www.animegg.org/jinrui-wa-suitai-shimashita-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/18593",
+        "dub": null,
+        "url": "https://www.animegg.org/jinrui-wa-suitai-shimashita-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/18595",
+        "dub": null,
+        "url": "https://www.animegg.org/jinrui-wa-suitai-shimashita-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/18594",
+        "dub": null,
+        "url": "https://www.animegg.org/jinrui-wa-suitai-shimashita-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/18599",
+        "dub": null,
+        "url": "https://www.animegg.org/jinrui-wa-suitai-shimashita-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/18598",
+        "dub": null,
+        "url": "https://www.animegg.org/jinrui-wa-suitai-shimashita-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/18600",
+        "dub": null,
+        "url": "https://www.animegg.org/jinrui-wa-suitai-shimashita-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/18602",
+        "dub": null,
+        "url": "https://www.animegg.org/jinrui-wa-suitai-shimashita-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/18601",
+        "dub": null,
+        "url": "https://www.animegg.org/jinrui-wa-suitai-shimashita-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/18604",
+        "dub": null,
+        "url": "https://www.animegg.org/jinrui-wa-suitai-shimashita-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/18603",
+        "dub": null,
+        "url": "https://www.animegg.org/jinrui-wa-suitai-shimashita-episode-12"
+      }
+    ]
   }
 ]
