@@ -108726,5 +108726,63 @@
         "url": "https://www.animegg.org/anymal-tantei-kiruminzoo-episode-50"
       }
     ]
+  },
+  {
+    "serial_no": 1131,
+    "title": "Strike the Blood II",
+    "animegg_url": "https://www.animegg.org/series/strike-the-blood-ii",
+    "mal_url": "https://myanimelist.net/anime/33286",
+    "mal_id": 33286,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/84878",
+        "dub": "https://www.animegg.org/embed/85083",
+        "url": "https://www.animegg.org/strike-the-blood-ii-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/84879",
+        "dub": "https://www.animegg.org/embed/85264",
+        "url": "https://www.animegg.org/strike-the-blood-ii-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/85287",
+        "dub": "https://www.animegg.org/embed/85342",
+        "url": "https://www.animegg.org/strike-the-blood-ii-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/85288",
+        "dub": "https://www.animegg.org/embed/85483",
+        "url": "https://www.animegg.org/strike-the-blood-ii-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/86392",
+        "dub": "https://www.animegg.org/embed/86735",
+        "url": "https://www.animegg.org/strike-the-blood-ii-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/86393",
+        "dub": "https://www.animegg.org/embed/86961",
+        "url": "https://www.animegg.org/strike-the-blood-ii-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/87055",
+        "dub": "https://www.animegg.org/embed/87504",
+        "url": "https://www.animegg.org/strike-the-blood-ii-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/87056",
+        "dub": "https://www.animegg.org/embed/88580",
+        "url": "https://www.animegg.org/strike-the-blood-ii-episode-8"
+      }
+    ]
   }
 ]
