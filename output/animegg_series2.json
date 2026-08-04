@@ -15674,5 +15674,87 @@
         "url": "https://www.animegg.org/kuromukuro-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 593,
+    "title": "Aoharu x Kikanjuu",
+    "animegg_url": "https://www.animegg.org/series/aoharu-x-kikanjuu",
+    "mal_url": "https://myanimelist.net/anime/30205",
+    "mal_id": 30205,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/77664",
+        "dub": "https://www.animegg.org/embed/77697",
+        "url": "https://www.animegg.org/aoharu-x-kikanjuu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/77811",
+        "dub": "https://www.animegg.org/embed/77829",
+        "url": "https://www.animegg.org/aoharu-x-kikanjuu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/77983",
+        "dub": "https://www.animegg.org/embed/78011",
+        "url": "https://www.animegg.org/aoharu-x-kikanjuu-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/78133",
+        "dub": "https://www.animegg.org/embed/78154",
+        "url": "https://www.animegg.org/aoharu-x-kikanjuu-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/78271",
+        "dub": "https://www.animegg.org/embed/78292",
+        "url": "https://www.animegg.org/aoharu-x-kikanjuu-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/78403",
+        "dub": "https://www.animegg.org/embed/78427",
+        "url": "https://www.animegg.org/aoharu-x-kikanjuu-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/78512",
+        "dub": "https://www.animegg.org/embed/78532",
+        "url": "https://www.animegg.org/aoharu-x-kikanjuu-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/78620",
+        "dub": "https://www.animegg.org/embed/78648",
+        "url": "https://www.animegg.org/aoharu-x-kikanjuu-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/78733",
+        "dub": "https://www.animegg.org/embed/78758",
+        "url": "https://www.animegg.org/aoharu-x-kikanjuu-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/78861",
+        "dub": "https://www.animegg.org/embed/78877",
+        "url": "https://www.animegg.org/aoharu-x-kikanjuu-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/78954",
+        "dub": "https://www.animegg.org/embed/78989",
+        "url": "https://www.animegg.org/aoharu-x-kikanjuu-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/79078",
+        "dub": "https://www.animegg.org/embed/79099",
+        "url": "https://www.animegg.org/aoharu-x-kikanjuu-episode-12"
+      }
+    ]
   }
 ]
