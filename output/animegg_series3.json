@@ -9006,5 +9006,45 @@
         "url": "https://www.animegg.org/shoukoku-no-altair-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 1607,
+    "title": "Tensei shitara Slime Datta Ken OVA",
+    "animegg_url": "https://www.animegg.org/series/tensei-shitara-slime-datta-ken-ova",
+    "mal_url": "https://myanimelist.net/anime/38793",
+    "mal_id": 38793,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/95858",
+        "dub": null,
+        "url": "https://www.animegg.org/tensei-shitara-slime-datta-ken-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/97187",
+        "dub": null,
+        "url": "https://www.animegg.org/tensei-shitara-slime-datta-ken-ova-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/98171",
+        "dub": null,
+        "url": "https://www.animegg.org/tensei-shitara-slime-datta-ken-ova-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/98884",
+        "dub": null,
+        "url": "https://www.animegg.org/tensei-shitara-slime-datta-ken-ova-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/100053",
+        "dub": null,
+        "url": "https://www.animegg.org/tensei-shitara-slime-datta-ken-ova-episode-5"
+      }
+    ]
   }
 ]
