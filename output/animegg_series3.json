@@ -47618,5 +47618,63 @@
         "url": "https://www.animegg.org/gokusen-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 1894,
+    "title": "Overlord Specials",
+    "animegg_url": "https://www.animegg.org/series/overlord-combat-maid-chibi-comedy-spinoff",
+    "mal_url": "https://myanimelist.net/anime/40991",
+    "mal_id": 40991,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/78487",
+        "dub": null,
+        "url": "https://www.animegg.org/overlord-combat-maid-chibi-comedy-spinoff-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/78488",
+        "dub": null,
+        "url": "https://www.animegg.org/overlord-combat-maid-chibi-comedy-spinoff-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/78598",
+        "dub": null,
+        "url": "https://www.animegg.org/overlord-combat-maid-chibi-comedy-spinoff-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/78713",
+        "dub": null,
+        "url": "https://www.animegg.org/overlord-specials-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/78835",
+        "dub": null,
+        "url": "https://www.animegg.org/overlord-specials-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/78931",
+        "dub": null,
+        "url": "https://www.animegg.org/overlord-specials-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/79054",
+        "dub": null,
+        "url": "https://www.animegg.org/overlord-specials-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/79152",
+        "dub": null,
+        "url": "https://www.animegg.org/overlord-specials-episode-8"
+      }
+    ]
   }
 ]
