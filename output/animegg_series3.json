@@ -67184,5 +67184,51 @@
         "url": "https://www.animegg.org/mashle-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2047,
+    "title": "No Game No Life Specials",
+    "animegg_url": "https://www.animegg.org/series/no-game-no-life-specials",
+    "mal_url": "https://myanimelist.net/anime/24991",
+    "mal_id": 24991,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66053",
+        "dub": "https://www.animegg.org/embed/66054",
+        "url": "https://www.animegg.org/no-game-no-life-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/66055",
+        "dub": "https://www.animegg.org/embed/66056",
+        "url": "https://www.animegg.org/no-game-no-life-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/66057",
+        "dub": "https://www.animegg.org/embed/66643",
+        "url": "https://www.animegg.org/no-game-no-life-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/66058",
+        "dub": "https://www.animegg.org/embed/66666",
+        "url": "https://www.animegg.org/no-game-no-life-specials-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/66611",
+        "dub": "https://www.animegg.org/embed/66893",
+        "url": "https://www.animegg.org/no-game-no-life-specials-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/73706",
+        "dub": null,
+        "url": "https://www.animegg.org/no-game-no-life-specials-episode-6"
+      }
+    ]
   }
 ]
