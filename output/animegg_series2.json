@@ -77508,5 +77508,87 @@
         "url": "https://www.animegg.org/psycho-pass-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 954,
+    "title": "Gekkan Shoujo Nozaki-kun",
+    "animegg_url": "https://www.animegg.org/series/gekkan-shoujo-nozaki-kun",
+    "mal_url": "https://myanimelist.net/anime/23289",
+    "mal_id": 23289,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/45719",
+        "dub": "https://www.animegg.org/embed/45720",
+        "url": "https://www.animegg.org/gekkan-shoujo-nozaki-kun-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/45721",
+        "dub": null,
+        "url": "https://www.animegg.org/gekkan-shoujo-nozaki-kun-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/45722",
+        "dub": null,
+        "url": "https://www.animegg.org/gekkan-shoujo-nozaki-kun-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/45723",
+        "dub": "https://www.animegg.org/embed/45724",
+        "url": "https://www.animegg.org/gekkan-shoujo-nozaki-kun-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/45725",
+        "dub": null,
+        "url": "https://www.animegg.org/gekkan-shoujo-nozaki-kun-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/45726",
+        "dub": null,
+        "url": "https://www.animegg.org/gekkan-shoujo-nozaki-kun-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/45727",
+        "dub": null,
+        "url": "https://www.animegg.org/gekkan-shoujo-nozaki-kun-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/45728",
+        "dub": null,
+        "url": "https://www.animegg.org/gekkan-shoujo-nozaki-kun-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/45729",
+        "dub": null,
+        "url": "https://www.animegg.org/gekkan-shoujo-nozaki-kun-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/45730",
+        "dub": null,
+        "url": "https://www.animegg.org/gekkan-shoujo-nozaki-kun-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/45731",
+        "dub": null,
+        "url": "https://www.animegg.org/gekkan-shoujo-nozaki-kun-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/45732",
+        "dub": null,
+        "url": "https://www.animegg.org/gekkan-shoujo-nozaki-kun-episode-12"
+      }
+    ]
   }
 ]
