@@ -107702,5 +107702,87 @@
         "url": "https://www.animegg.org/saki-achiga-hen---episode-of-side-a-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2410,
+    "title": "Nanatsuiro Drops",
+    "animegg_url": "https://www.animegg.org/series/nanatsuiro-drops",
+    "mal_url": "https://myanimelist.net/anime/1688",
+    "mal_id": 1688,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/25864",
+        "dub": null,
+        "url": "https://www.animegg.org/nanatsuiro-drops-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/25863",
+        "dub": null,
+        "url": "https://www.animegg.org/nanatsuiro-drops-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/25865",
+        "dub": null,
+        "url": "https://www.animegg.org/nanatsuiro-drops-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/25861",
+        "dub": null,
+        "url": "https://www.animegg.org/nanatsuiro-drops-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/25862",
+        "dub": null,
+        "url": "https://www.animegg.org/nanatsuiro-drops-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/25868",
+        "dub": null,
+        "url": "https://www.animegg.org/nanatsuiro-drops-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/25867",
+        "dub": null,
+        "url": "https://www.animegg.org/nanatsuiro-drops-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/25866",
+        "dub": null,
+        "url": "https://www.animegg.org/nanatsuiro-drops-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/25870",
+        "dub": null,
+        "url": "https://www.animegg.org/nanatsuiro-drops-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/25869",
+        "dub": null,
+        "url": "https://www.animegg.org/nanatsuiro-drops-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/25871",
+        "dub": null,
+        "url": "https://www.animegg.org/nanatsuiro-drops-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/25872",
+        "dub": null,
+        "url": "https://www.animegg.org/nanatsuiro-drops-episode-12"
+      }
+    ]
   }
 ]
