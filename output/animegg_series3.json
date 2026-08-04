@@ -22698,5 +22698,93 @@
         "url": "https://www.animegg.org/jujutsu-kaisen-season-3-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 1688,
+    "title": "Geneshaft",
+    "animegg_url": "https://www.animegg.org/series/geneshaft",
+    "mal_url": "https://myanimelist.net/anime/909",
+    "mal_id": 909,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/12140",
+        "dub": "https://www.animegg.org/embed/12141",
+        "url": "https://www.animegg.org/geneshaft-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/12138",
+        "dub": "https://www.animegg.org/embed/12139",
+        "url": "https://www.animegg.org/geneshaft-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/12146",
+        "dub": "https://www.animegg.org/embed/12147",
+        "url": "https://www.animegg.org/geneshaft-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/12144",
+        "dub": "https://www.animegg.org/embed/12145",
+        "url": "https://www.animegg.org/geneshaft-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/12142",
+        "dub": "https://www.animegg.org/embed/12143",
+        "url": "https://www.animegg.org/geneshaft-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/12154",
+        "dub": "https://www.animegg.org/embed/12155",
+        "url": "https://www.animegg.org/geneshaft-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/12148",
+        "dub": "https://www.animegg.org/embed/12149",
+        "url": "https://www.animegg.org/geneshaft-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/12152",
+        "dub": "https://www.animegg.org/embed/12153",
+        "url": "https://www.animegg.org/geneshaft-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/12150",
+        "dub": "https://www.animegg.org/embed/12151",
+        "url": "https://www.animegg.org/geneshaft-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/12156",
+        "dub": "https://www.animegg.org/embed/12157",
+        "url": "https://www.animegg.org/geneshaft-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/12162",
+        "dub": "https://www.animegg.org/embed/12163",
+        "url": "https://www.animegg.org/geneshaft-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/12158",
+        "dub": "https://www.animegg.org/embed/12159",
+        "url": "https://www.animegg.org/geneshaft-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/12160",
+        "dub": "https://www.animegg.org/embed/12161",
+        "url": "https://www.animegg.org/geneshaft-episode-13"
+      }
+    ]
   }
 ]
