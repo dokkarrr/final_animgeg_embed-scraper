@@ -87196,5 +87196,93 @@
         "url": "https://www.animegg.org/yami-shibai-3rd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 2211,
+    "title": "Photokano",
+    "animegg_url": "https://www.animegg.org/series/photokano",
+    "mal_url": "https://myanimelist.net/anime/16397",
+    "mal_id": 16397,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/29498",
+        "dub": null,
+        "url": "https://www.animegg.org/photokano-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/29497",
+        "dub": null,
+        "url": "https://www.animegg.org/photokano-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/29496",
+        "dub": null,
+        "url": "https://www.animegg.org/photokano-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/29494",
+        "dub": null,
+        "url": "https://www.animegg.org/photokano-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/29495",
+        "dub": null,
+        "url": "https://www.animegg.org/photokano-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/29503",
+        "dub": null,
+        "url": "https://www.animegg.org/photokano-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/29501",
+        "dub": null,
+        "url": "https://www.animegg.org/photokano-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/29500",
+        "dub": null,
+        "url": "https://www.animegg.org/photokano-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/29499",
+        "dub": null,
+        "url": "https://www.animegg.org/photokano-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/29502",
+        "dub": null,
+        "url": "https://www.animegg.org/photokano-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/29504",
+        "dub": null,
+        "url": "https://www.animegg.org/photokano-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/29505",
+        "dub": null,
+        "url": "https://www.animegg.org/photokano-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/29506",
+        "dub": null,
+        "url": "https://www.animegg.org/photokano-episode-13"
+      }
+    ]
   }
 ]
