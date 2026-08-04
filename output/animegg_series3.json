@@ -95002,5 +95002,87 @@
         "url": "https://www.animegg.org/futakoi-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2280,
+    "title": "Genshiken",
+    "animegg_url": "https://www.animegg.org/series/genshiken",
+    "mal_url": "https://myanimelist.net/anime/240",
+    "mal_id": 240,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/12177",
+        "dub": "https://www.animegg.org/embed/12178",
+        "url": "https://www.animegg.org/genshiken-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/12179",
+        "dub": "https://www.animegg.org/embed/12180",
+        "url": "https://www.animegg.org/genshiken-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/12175",
+        "dub": "https://www.animegg.org/embed/12176",
+        "url": "https://www.animegg.org/genshiken-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/12183",
+        "dub": "https://www.animegg.org/embed/12184",
+        "url": "https://www.animegg.org/genshiken-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/12181",
+        "dub": "https://www.animegg.org/embed/12182",
+        "url": "https://www.animegg.org/genshiken-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/12185",
+        "dub": "https://www.animegg.org/embed/12186",
+        "url": "https://www.animegg.org/genshiken-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/12187",
+        "dub": "https://www.animegg.org/embed/12188",
+        "url": "https://www.animegg.org/genshiken-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/12189",
+        "dub": "https://www.animegg.org/embed/12190",
+        "url": "https://www.animegg.org/genshiken-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/12191",
+        "dub": "https://www.animegg.org/embed/12192",
+        "url": "https://www.animegg.org/genshiken-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/12193",
+        "dub": "https://www.animegg.org/embed/12194",
+        "url": "https://www.animegg.org/genshiken-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/12195",
+        "dub": "https://www.animegg.org/embed/12196",
+        "url": "https://www.animegg.org/genshiken-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/12197",
+        "dub": "https://www.animegg.org/embed/12198",
+        "url": "https://www.animegg.org/genshiken-episode-12"
+      }
+    ]
   }
 ]
