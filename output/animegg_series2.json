@@ -110440,5 +110440,93 @@
         "url": "https://www.animegg.org/jewelpet-happiness-episode-52"
       }
     ]
+  },
+  {
+    "serial_no": 1141,
+    "title": "Onegai☆Teacher",
+    "animegg_url": "https://www.animegg.org/series/onegai-teacher",
+    "mal_url": "https://myanimelist.net/anime/195",
+    "mal_id": 195,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/28644",
+        "dub": "https://www.animegg.org/embed/72750",
+        "url": "https://www.animegg.org/onegai-teacher-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/28640",
+        "dub": "https://www.animegg.org/embed/72751",
+        "url": "https://www.animegg.org/onegai-teacher-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/28641",
+        "dub": "https://www.animegg.org/embed/72752",
+        "url": "https://www.animegg.org/onegai-teacher-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/28639",
+        "dub": "https://www.animegg.org/embed/72753",
+        "url": "https://www.animegg.org/onegai-teacher-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/28642",
+        "dub": "https://www.animegg.org/embed/72754",
+        "url": "https://www.animegg.org/onegai-teacher-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/28645",
+        "dub": "https://www.animegg.org/embed/72755",
+        "url": "https://www.animegg.org/onegai-teacher-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/28643",
+        "dub": "https://www.animegg.org/embed/72756",
+        "url": "https://www.animegg.org/onegai-teacher-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/28646",
+        "dub": "https://www.animegg.org/embed/72758",
+        "url": "https://www.animegg.org/onegai-teacher-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/28647",
+        "dub": "https://www.animegg.org/embed/72763",
+        "url": "https://www.animegg.org/onegai-teacher-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/28650",
+        "dub": "https://www.animegg.org/embed/72759",
+        "url": "https://www.animegg.org/onegai-teacher-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/28648",
+        "dub": "https://www.animegg.org/embed/72760",
+        "url": "https://www.animegg.org/onegai-teacher-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/28649",
+        "dub": "https://www.animegg.org/embed/72761",
+        "url": "https://www.animegg.org/onegai-teacher-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/28651",
+        "dub": "https://www.animegg.org/embed/72762",
+        "url": "https://www.animegg.org/onegai-teacher-episode-13"
+      }
+    ]
   }
 ]
