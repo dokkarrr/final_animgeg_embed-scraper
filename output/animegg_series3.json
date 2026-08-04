@@ -72282,5 +72282,165 @@
         "url": "https://www.animegg.org/idolish7-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 2090,
+    "title": "The Fable",
+    "animegg_url": "https://www.animegg.org/series/the-fable",
+    "mal_url": null,
+    "mal_id": null,
+    "total_ep": 25,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/133550",
+        "dub": "https://www.animegg.org/embed/140238",
+        "url": "https://www.animegg.org/the-fable-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/133666",
+        "dub": null,
+        "url": "https://www.animegg.org/the-fable-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/133720",
+        "dub": null,
+        "url": "https://www.animegg.org/the-fable-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/133800",
+        "dub": null,
+        "url": "https://www.animegg.org/the-fable-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/133958",
+        "dub": null,
+        "url": "https://www.animegg.org/the-fable-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/134079",
+        "dub": null,
+        "url": "https://www.animegg.org/the-fable-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/134244",
+        "dub": null,
+        "url": "https://www.animegg.org/the-fable-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/134446",
+        "dub": null,
+        "url": "https://www.animegg.org/the-fable-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/134611",
+        "dub": null,
+        "url": "https://www.animegg.org/the-fable-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/134762",
+        "dub": null,
+        "url": "https://www.animegg.org/the-fable-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/134916",
+        "dub": null,
+        "url": "https://www.animegg.org/the-fable-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/135092",
+        "dub": null,
+        "url": "https://www.animegg.org/the-fable-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/135224",
+        "dub": null,
+        "url": "https://www.animegg.org/the-fable-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/135456",
+        "dub": null,
+        "url": "https://www.animegg.org/the-fable-episode-14"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/135601",
+        "dub": null,
+        "url": "https://www.animegg.org/the-fable-episode-15"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/135709",
+        "dub": null,
+        "url": "https://www.animegg.org/the-fable-episode-16"
+      },
+      {
+        "ep": 17,
+        "sub": "https://www.animegg.org/embed/135881",
+        "dub": null,
+        "url": "https://www.animegg.org/the-fable-episode-17"
+      },
+      {
+        "ep": 18,
+        "sub": "https://www.animegg.org/embed/136023",
+        "dub": null,
+        "url": "https://www.animegg.org/the-fable-episode-18"
+      },
+      {
+        "ep": 19,
+        "sub": "https://www.animegg.org/embed/136350",
+        "dub": null,
+        "url": "https://www.animegg.org/the-fable-episode-19"
+      },
+      {
+        "ep": 20,
+        "sub": "https://www.animegg.org/embed/136486",
+        "dub": null,
+        "url": "https://www.animegg.org/the-fable-episode-20"
+      },
+      {
+        "ep": 21,
+        "sub": "https://www.animegg.org/embed/136523",
+        "dub": null,
+        "url": "https://www.animegg.org/the-fable-episode-21"
+      },
+      {
+        "ep": 22,
+        "sub": "https://www.animegg.org/embed/136873",
+        "dub": null,
+        "url": "https://www.animegg.org/the-fable-episode-22"
+      },
+      {
+        "ep": 23,
+        "sub": "https://www.animegg.org/embed/137089",
+        "dub": null,
+        "url": "https://www.animegg.org/the-fable-episode-23"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/137227",
+        "dub": null,
+        "url": "https://www.animegg.org/the-fable-episode-24"
+      },
+      {
+        "ep": 25,
+        "sub": "https://www.animegg.org/embed/137432",
+        "dub": "https://www.animegg.org/embed/140236",
+        "url": "https://www.animegg.org/the-fable-episode-25"
+      }
+    ]
   }
 ]
