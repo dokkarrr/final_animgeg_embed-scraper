@@ -69028,5 +69028,87 @@
         "url": "https://www.animegg.org/captain-tsubasa-j-episode-47"
       }
     ]
+  },
+  {
+    "serial_no": 2067,
+    "title": "Ooya-san wa Shishunki!",
+    "animegg_url": "https://www.animegg.org/series/ooyasan-wa-shishunki",
+    "mal_url": "https://myanimelist.net/anime/31621",
+    "mal_id": 31621,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/80634",
+        "dub": null,
+        "url": "https://www.animegg.org/ooyasan-wa-shishunki-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/80729",
+        "dub": null,
+        "url": "https://www.animegg.org/ooyasan-wa-shishunki-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/80836",
+        "dub": null,
+        "url": "https://www.animegg.org/ooyasan-wa-shishunki-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/80935",
+        "dub": null,
+        "url": "https://www.animegg.org/ooyasan-wa-shishunki-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/81038",
+        "dub": null,
+        "url": "https://www.animegg.org/ooyasan-wa-shishunki-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/81128",
+        "dub": null,
+        "url": "https://www.animegg.org/ooyasan-wa-shishunki-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/81225",
+        "dub": null,
+        "url": "https://www.animegg.org/ooyasan-wa-shishunki-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/81348",
+        "dub": null,
+        "url": "https://www.animegg.org/ooyasan-wa-shishunki-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/81436",
+        "dub": null,
+        "url": "https://www.animegg.org/ooyasan-wa-shishunki-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/81533",
+        "dub": null,
+        "url": "https://www.animegg.org/ooyasan-wa-shishunki-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/81625",
+        "dub": null,
+        "url": "https://www.animegg.org/ooyasan-wa-shishunki-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/81714",
+        "dub": "https://www.animegg.org/embed/87153",
+        "url": "https://www.animegg.org/ooyasan-wa-shishunki-episode-12"
+      }
+    ]
   }
 ]
