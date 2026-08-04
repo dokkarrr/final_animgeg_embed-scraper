@@ -76652,5 +76652,87 @@
         "url": "https://www.animegg.org/the-black-lagoon-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 950,
+    "title": "Gakuen Babysitters",
+    "animegg_url": "https://www.animegg.org/series/gakuen-babysitters",
+    "mal_url": "https://myanimelist.net/anime/35222",
+    "mal_id": 35222,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/89583",
+        "dub": null,
+        "url": "https://www.animegg.org/gakuen-babysitters-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/89754",
+        "dub": null,
+        "url": "https://www.animegg.org/gakuen-babysitters-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/89834",
+        "dub": null,
+        "url": "https://www.animegg.org/gakuen-babysitters-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/89912",
+        "dub": null,
+        "url": "https://www.animegg.org/gakuen-babysitters-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/89999",
+        "dub": null,
+        "url": "https://www.animegg.org/gakuen-babysitters-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/90077",
+        "dub": null,
+        "url": "https://www.animegg.org/gakuen-babysitters-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/90150",
+        "dub": null,
+        "url": "https://www.animegg.org/gakuen-babysitters-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/90204",
+        "dub": null,
+        "url": "https://www.animegg.org/gakuen-babysitters-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/90299",
+        "dub": null,
+        "url": "https://www.animegg.org/gakuen-babysitters-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/90373",
+        "dub": null,
+        "url": "https://www.animegg.org/gakuen-babysitters-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/90447",
+        "dub": null,
+        "url": "https://www.animegg.org/gakuen-babysitters-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/90538",
+        "dub": null,
+        "url": "https://www.animegg.org/gakuen-babysitters-episode-12"
+      }
+    ]
   }
 ]
