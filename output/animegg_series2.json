@@ -50476,5 +50476,93 @@
         "url": "https://www.animegg.org/asu-no-yoichi-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 793,
+    "title": "Baka to Test to Shoukanjuu Ni!",
+    "animegg_url": "https://www.animegg.org/series/baka-to-test-to-shoukanjuu-ni",
+    "mal_url": "https://myanimelist.net/anime/8516",
+    "mal_id": 8516,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/2303",
+        "dub": "https://www.animegg.org/embed/2304",
+        "url": "https://www.animegg.org/baka-to-test-to-shoukanjuu-ni-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/2305",
+        "dub": "https://www.animegg.org/embed/2306",
+        "url": "https://www.animegg.org/baka-to-test-to-shoukanjuu-ni-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/2299",
+        "dub": "https://www.animegg.org/embed/2300",
+        "url": "https://www.animegg.org/baka-to-test-to-shoukanjuu-ni-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/2307",
+        "dub": "https://www.animegg.org/embed/2308",
+        "url": "https://www.animegg.org/baka-to-test-to-shoukanjuu-ni-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/2301",
+        "dub": "https://www.animegg.org/embed/2302",
+        "url": "https://www.animegg.org/baka-to-test-to-shoukanjuu-ni-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/2309",
+        "dub": "https://www.animegg.org/embed/2310",
+        "url": "https://www.animegg.org/baka-to-test-to-shoukanjuu-ni-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/2311",
+        "dub": "https://www.animegg.org/embed/2312",
+        "url": "https://www.animegg.org/baka-to-test-to-shoukanjuu-ni-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/2313",
+        "dub": "https://www.animegg.org/embed/2314",
+        "url": "https://www.animegg.org/baka-to-test-to-shoukanjuu-ni-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/2317",
+        "dub": "https://www.animegg.org/embed/2318",
+        "url": "https://www.animegg.org/baka-to-test-to-shoukanjuu-ni-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/2315",
+        "dub": "https://www.animegg.org/embed/2316",
+        "url": "https://www.animegg.org/baka-to-test-to-shoukanjuu-ni-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/2319",
+        "dub": "https://www.animegg.org/embed/2320",
+        "url": "https://www.animegg.org/baka-to-test-to-shoukanjuu-ni-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/2321",
+        "dub": "https://www.animegg.org/embed/2322",
+        "url": "https://www.animegg.org/baka-to-test-to-shoukanjuu-ni-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/2323",
+        "dub": "https://www.animegg.org/embed/2324",
+        "url": "https://www.animegg.org/baka-to-test-to-shoukanjuu-ni-episode-13"
+      }
+    ]
   }
 ]
