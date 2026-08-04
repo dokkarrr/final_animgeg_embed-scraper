@@ -74536,5 +74536,33 @@
         "url": "https://www.animegg.org/ani-ni-tsukeru-kusuri-wa-nai-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 2112,
+    "title": "Fairy Tail (2014) OVA",
+    "animegg_url": "https://www.animegg.org/series/fairy-tail-2014-ova",
+    "mal_url": "https://myanimelist.net/anime/22043",
+    "mal_id": 22043,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 2014,
+        "sub": "https://www.animegg.org/embed/85332",
+        "dub": null,
+        "url": "https://www.animegg.org/fairy-tail-2014-ova-episode-3"
+      },
+      {
+        "ep": 2014,
+        "sub": "https://www.animegg.org/embed/85136",
+        "dub": "https://www.animegg.org/embed/92466",
+        "url": "https://www.animegg.org/fairy-tail-2014-ova-episode-2"
+      },
+      {
+        "ep": 2014,
+        "sub": "https://www.animegg.org/embed/82431",
+        "dub": "https://www.animegg.org/embed/92465",
+        "url": "https://www.animegg.org/fairy-tail-2014-ova-episode-1"
+      }
+    ]
   }
 ]
