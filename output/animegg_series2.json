@@ -121904,5 +121904,135 @@
         "url": "https://www.animegg.org/lupin-iii-series-1-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 1214,
+    "title": "Fumetsu no Anata e",
+    "animegg_url": "https://www.animegg.org/series/fumetsu-no-anata-e",
+    "mal_url": "https://myanimelist.net/anime/41025",
+    "mal_id": 41025,
+    "total_ep": 20,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/101419",
+        "dub": null,
+        "url": "https://www.animegg.org/fumetsu-no-anata-e-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/101484",
+        "dub": null,
+        "url": "https://www.animegg.org/fumetsu-no-anata-e-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/101545",
+        "dub": null,
+        "url": "https://www.animegg.org/fumetsu-no-anata-e-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/101610",
+        "dub": null,
+        "url": "https://www.animegg.org/fumetsu-no-anata-e-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/101673",
+        "dub": null,
+        "url": "https://www.animegg.org/fumetsu-no-anata-e-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/101738",
+        "dub": null,
+        "url": "https://www.animegg.org/fumetsu-no-anata-e-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/101812",
+        "dub": null,
+        "url": "https://www.animegg.org/fumetsu-no-anata-e-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/101886",
+        "dub": null,
+        "url": "https://www.animegg.org/fumetsu-no-anata-e-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/101959",
+        "dub": null,
+        "url": "https://www.animegg.org/fumetsu-no-anata-e-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/102027",
+        "dub": null,
+        "url": "https://www.animegg.org/fumetsu-no-anata-e-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/102113",
+        "dub": null,
+        "url": "https://www.animegg.org/fumetsu-no-anata-e-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/102160",
+        "dub": null,
+        "url": "https://www.animegg.org/fumetsu-no-anata-e-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/102260",
+        "dub": null,
+        "url": "https://www.animegg.org/fumetsu-no-anata-e-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/102313",
+        "dub": null,
+        "url": "https://www.animegg.org/fumetsu-no-anata-e-episode-14"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/102369",
+        "dub": null,
+        "url": "https://www.animegg.org/fumetsu-no-anata-e-episode-15"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/102424",
+        "dub": null,
+        "url": "https://www.animegg.org/fumetsu-no-anata-e-episode-16"
+      },
+      {
+        "ep": 17,
+        "sub": "https://www.animegg.org/embed/102471",
+        "dub": null,
+        "url": "https://www.animegg.org/fumetsu-no-anata-e-episode-17"
+      },
+      {
+        "ep": 18,
+        "sub": "https://www.animegg.org/embed/102531",
+        "dub": null,
+        "url": "https://www.animegg.org/fumetsu-no-anata-e-episode-18"
+      },
+      {
+        "ep": 19,
+        "sub": "https://www.animegg.org/embed/102582",
+        "dub": null,
+        "url": "https://www.animegg.org/fumetsu-no-anata-e-episode-19"
+      },
+      {
+        "ep": 20,
+        "sub": "https://www.animegg.org/embed/102645",
+        "dub": null,
+        "url": "https://www.animegg.org/fumetsu-no-anata-e-episode-20"
+      }
+    ]
   }
 ]
