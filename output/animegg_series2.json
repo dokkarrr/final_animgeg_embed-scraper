@@ -57706,5 +57706,87 @@
         "url": "https://www.animegg.org/slayers-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 838,
+    "title": "Jormungand",
+    "animegg_url": "https://www.animegg.org/series/jormungand",
+    "mal_url": "https://myanimelist.net/anime/12413",
+    "mal_id": 12413,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/18670",
+        "dub": "https://www.animegg.org/embed/18671",
+        "url": "https://www.animegg.org/jormungand-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/18666",
+        "dub": "https://www.animegg.org/embed/18667",
+        "url": "https://www.animegg.org/jormungand-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/18668",
+        "dub": "https://www.animegg.org/embed/18669",
+        "url": "https://www.animegg.org/jormungand-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/18664",
+        "dub": "https://www.animegg.org/embed/18665",
+        "url": "https://www.animegg.org/jormungand-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/18662",
+        "dub": "https://www.animegg.org/embed/18663",
+        "url": "https://www.animegg.org/jormungand-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/18672",
+        "dub": "https://www.animegg.org/embed/18673",
+        "url": "https://www.animegg.org/jormungand-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/18676",
+        "dub": "https://www.animegg.org/embed/18677",
+        "url": "https://www.animegg.org/jormungand-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/18674",
+        "dub": "https://www.animegg.org/embed/18675",
+        "url": "https://www.animegg.org/jormungand-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/18678",
+        "dub": "https://www.animegg.org/embed/18679",
+        "url": "https://www.animegg.org/jormungand-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/18680",
+        "dub": "https://www.animegg.org/embed/18681",
+        "url": "https://www.animegg.org/jormungand-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/18682",
+        "dub": "https://www.animegg.org/embed/18683",
+        "url": "https://www.animegg.org/jormungand-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/18684",
+        "dub": "https://www.animegg.org/embed/18685",
+        "url": "https://www.animegg.org/jormungand-episode-12"
+      }
+    ]
   }
 ]
