@@ -28642,5 +28642,87 @@
         "url": "https://www.animegg.org/mai-hime-specials-episode-28"
       }
     ]
+  },
+  {
+    "serial_no": 1740,
+    "title": "Koi to Uso",
+    "animegg_url": "https://www.animegg.org/series/koi-to-uso",
+    "mal_url": "https://myanimelist.net/anime/34934",
+    "mal_id": 34934,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/87475",
+        "dub": "https://www.animegg.org/embed/88526",
+        "url": "https://www.animegg.org/koi-to-uso-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/87560",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-to-uso-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/87632",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-to-uso-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/87700",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-to-uso-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/87793",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-to-uso-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/87864",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-to-uso-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/87938",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-to-uso-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/88001",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-to-uso-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/88102",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-to-uso-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/88174",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-to-uso-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/88256",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-to-uso-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/88327",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-to-uso-episode-12"
+      }
+    ]
   }
 ]
