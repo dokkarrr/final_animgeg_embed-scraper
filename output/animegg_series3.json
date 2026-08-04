@@ -1578,5 +1578,93 @@
         "url": "https://www.animegg.org/mayoi-neko-overrun-episode-19"
       }
     ]
+  },
+  {
+    "serial_no": 1553,
+    "title": "Arakawa Under the Bridge",
+    "animegg_url": "https://www.animegg.org/series/arakawa-under-the-bridge",
+    "mal_url": "https://myanimelist.net/anime/7647",
+    "mal_id": 7647,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/1509",
+        "dub": null,
+        "url": "https://www.animegg.org/arakawa-under-the-bridge-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/1505",
+        "dub": null,
+        "url": "https://www.animegg.org/arakawa-under-the-bridge-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/1507",
+        "dub": null,
+        "url": "https://www.animegg.org/arakawa-under-the-bridge-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/1508",
+        "dub": null,
+        "url": "https://www.animegg.org/arakawa-under-the-bridge-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/1506",
+        "dub": null,
+        "url": "https://www.animegg.org/arakawa-under-the-bridge-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/1510",
+        "dub": null,
+        "url": "https://www.animegg.org/arakawa-under-the-bridge-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/1511",
+        "dub": null,
+        "url": "https://www.animegg.org/arakawa-under-the-bridge-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/1512",
+        "dub": null,
+        "url": "https://www.animegg.org/arakawa-under-the-bridge-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/1514",
+        "dub": null,
+        "url": "https://www.animegg.org/arakawa-under-the-bridge-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/1513",
+        "dub": null,
+        "url": "https://www.animegg.org/arakawa-under-the-bridge-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/1515",
+        "dub": null,
+        "url": "https://www.animegg.org/arakawa-under-the-bridge-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/1516",
+        "dub": null,
+        "url": "https://www.animegg.org/arakawa-under-the-bridge-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/1517",
+        "dub": null,
+        "url": "https://www.animegg.org/arakawa-under-the-bridge-episode-13"
+      }
+    ]
   }
 ]
