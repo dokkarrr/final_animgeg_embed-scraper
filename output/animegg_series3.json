@@ -133381,5 +133381,87 @@
         "url": "https://www.animegg.org/mission-e-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2677,
+    "title": "Murenase! Seton Gakuen",
+    "animegg_url": "https://www.animegg.org/series/murenase-seton-gakuen",
+    "mal_url": "https://myanimelist.net/anime/40483",
+    "mal_id": 40483,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/97459",
+        "dub": null,
+        "url": "https://www.animegg.org/murenase-seton-gakuen-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/97531",
+        "dub": null,
+        "url": "https://www.animegg.org/murenase-seton-gakuen-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/97598",
+        "dub": null,
+        "url": "https://www.animegg.org/murenase-seton-gakuen-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/97667",
+        "dub": null,
+        "url": "https://www.animegg.org/murenase-seton-gakuen-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/97732",
+        "dub": null,
+        "url": "https://www.animegg.org/murenase-seton-gakuen-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/97801",
+        "dub": null,
+        "url": "https://www.animegg.org/murenase-seton-gakuen-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/97856",
+        "dub": null,
+        "url": "https://www.animegg.org/murenase-seton-gakuen-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/97912",
+        "dub": null,
+        "url": "https://www.animegg.org/murenase-seton-gakuen-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/97969",
+        "dub": null,
+        "url": "https://www.animegg.org/murenase-seton-gakuen-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/98029",
+        "dub": null,
+        "url": "https://www.animegg.org/murenase-seton-gakuen-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/98094",
+        "dub": null,
+        "url": "https://www.animegg.org/murenase-seton-gakuen-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/98153",
+        "dub": null,
+        "url": "https://www.animegg.org/murenase-seton-gakuen-episode-12"
+      }
+    ]
   }
 ]
