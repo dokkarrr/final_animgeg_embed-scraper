@@ -95572,5 +95572,87 @@
         "url": "https://www.animegg.org/glass-fleet-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 1069,
+    "title": "Joukamachi no Dandelion",
+    "animegg_url": "https://www.animegg.org/series/joukamachi-no-dandelion",
+    "mal_url": "https://myanimelist.net/anime/28387",
+    "mal_id": 28387,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/77666",
+        "dub": "https://www.animegg.org/embed/77763",
+        "url": "https://www.animegg.org/joukamachi-no-dandelion-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/77812",
+        "dub": "https://www.animegg.org/embed/77874",
+        "url": "https://www.animegg.org/joukamachi-no-dandelion-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/77982",
+        "dub": "https://www.animegg.org/embed/77990",
+        "url": "https://www.animegg.org/joukamachi-no-dandelion-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/78132",
+        "dub": "https://www.animegg.org/embed/78142",
+        "url": "https://www.animegg.org/joukamachi-no-dandelion-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/78272",
+        "dub": "https://www.animegg.org/embed/78275",
+        "url": "https://www.animegg.org/joukamachi-no-dandelion-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/78401",
+        "dub": "https://www.animegg.org/embed/78411",
+        "url": "https://www.animegg.org/joukamachi-no-dandelion-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/78511",
+        "dub": "https://www.animegg.org/embed/78513",
+        "url": "https://www.animegg.org/joukamachi-no-dandelion-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/78621",
+        "dub": "https://www.animegg.org/embed/78624",
+        "url": "https://www.animegg.org/joukamachi-no-dandelion-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/78735",
+        "dub": "https://www.animegg.org/embed/78736",
+        "url": "https://www.animegg.org/joukamachi-no-dandelion-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/78956",
+        "dub": "https://www.animegg.org/embed/78971",
+        "url": "https://www.animegg.org/joukamachi-no-dandelion-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/78970",
+        "dub": "https://www.animegg.org/embed/124270",
+        "url": "https://www.animegg.org/joukamachi-no-dandelion-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/79079",
+        "dub": "https://www.animegg.org/embed/79082",
+        "url": "https://www.animegg.org/joukamachi-no-dandelion-episode-12"
+      }
+    ]
   }
 ]
