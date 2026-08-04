@@ -129659,5 +129659,87 @@
         "url": "https://www.animegg.org/jaku-chara-tomozaki-kun-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2633,
+    "title": "Muteki Kanban Musume",
+    "animegg_url": "https://www.animegg.org/series/muteki-kanban-musume",
+    "mal_url": "https://myanimelist.net/anime/1738",
+    "mal_id": 1738,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/muteki-kanban-musume-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/24908",
+        "dub": null,
+        "url": "https://www.animegg.org/muteki-kanban-musume-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/24906",
+        "dub": null,
+        "url": "https://www.animegg.org/muteki-kanban-musume-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/24907",
+        "dub": null,
+        "url": "https://www.animegg.org/muteki-kanban-musume-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/24905",
+        "dub": null,
+        "url": "https://www.animegg.org/muteki-kanban-musume-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/24911",
+        "dub": null,
+        "url": "https://www.animegg.org/muteki-kanban-musume-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/24910",
+        "dub": null,
+        "url": "https://www.animegg.org/muteki-kanban-musume-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/24909",
+        "dub": null,
+        "url": "https://www.animegg.org/muteki-kanban-musume-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/24912",
+        "dub": null,
+        "url": "https://www.animegg.org/muteki-kanban-musume-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/24913",
+        "dub": null,
+        "url": "https://www.animegg.org/muteki-kanban-musume-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/24914",
+        "dub": null,
+        "url": "https://www.animegg.org/muteki-kanban-musume-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/24915",
+        "dub": null,
+        "url": "https://www.animegg.org/muteki-kanban-musume-episode-12"
+      }
+    ]
   }
 ]
