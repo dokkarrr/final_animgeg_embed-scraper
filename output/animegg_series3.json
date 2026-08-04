@@ -59940,5 +59940,87 @@
         "url": "https://www.animegg.org/fudanshi-koukou-seikatsu-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1976,
+    "title": "Togainu no Chi",
+    "animegg_url": "https://www.animegg.org/series/togainu-no-chi",
+    "mal_url": "https://myanimelist.net/anime/8449",
+    "mal_id": 8449,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/38362",
+        "dub": null,
+        "url": "https://www.animegg.org/togainu-no-chi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/38366",
+        "dub": null,
+        "url": "https://www.animegg.org/togainu-no-chi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/38361",
+        "dub": null,
+        "url": "https://www.animegg.org/togainu-no-chi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/38364",
+        "dub": null,
+        "url": "https://www.animegg.org/togainu-no-chi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/38365",
+        "dub": null,
+        "url": "https://www.animegg.org/togainu-no-chi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/38367",
+        "dub": null,
+        "url": "https://www.animegg.org/togainu-no-chi-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/38369",
+        "dub": null,
+        "url": "https://www.animegg.org/togainu-no-chi-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/38363",
+        "dub": null,
+        "url": "https://www.animegg.org/togainu-no-chi-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/38370",
+        "dub": null,
+        "url": "https://www.animegg.org/togainu-no-chi-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/38372",
+        "dub": null,
+        "url": "https://www.animegg.org/togainu-no-chi-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/38368",
+        "dub": null,
+        "url": "https://www.animegg.org/togainu-no-chi-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/38371",
+        "dub": null,
+        "url": "https://www.animegg.org/togainu-no-chi-episode-12"
+      }
+    ]
   }
 ]
