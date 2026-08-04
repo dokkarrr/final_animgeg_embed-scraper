@@ -46418,5 +46418,93 @@
         "url": "https://www.animegg.org/100-man-no-inochi-no-ue-ni-ore-wa-tatteiru-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 1882,
+    "title": "Glasslip",
+    "animegg_url": "https://www.animegg.org/series/glasslip",
+    "mal_url": "https://myanimelist.net/anime/23079",
+    "mal_id": 23079,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/45733",
+        "dub": null,
+        "url": "https://www.animegg.org/glasslip-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/45734",
+        "dub": "https://www.animegg.org/embed/45735",
+        "url": "https://www.animegg.org/glasslip-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/45736",
+        "dub": "https://www.animegg.org/embed/45737",
+        "url": "https://www.animegg.org/glasslip-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/45738",
+        "dub": "https://www.animegg.org/embed/45739",
+        "url": "https://www.animegg.org/glasslip-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/45740",
+        "dub": null,
+        "url": "https://www.animegg.org/glasslip-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/45741",
+        "dub": null,
+        "url": "https://www.animegg.org/glasslip-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/45742",
+        "dub": null,
+        "url": "https://www.animegg.org/glasslip-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/45743",
+        "dub": null,
+        "url": "https://www.animegg.org/glasslip-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/45744",
+        "dub": null,
+        "url": "https://www.animegg.org/glasslip-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/45745",
+        "dub": null,
+        "url": "https://www.animegg.org/glasslip-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/45746",
+        "dub": null,
+        "url": "https://www.animegg.org/glasslip-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/45747",
+        "dub": null,
+        "url": "https://www.animegg.org/glasslip-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/45748",
+        "dub": null,
+        "url": "https://www.animegg.org/glasslip-episode-13"
+      }
+    ]
   }
 ]
