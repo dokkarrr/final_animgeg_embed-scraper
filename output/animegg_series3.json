@@ -17962,5 +17962,87 @@
         "url": "https://www.animegg.org/koukaku-no-pandora-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1668,
+    "title": "Ayakashi",
+    "animegg_url": "https://www.animegg.org/series/ayakashi",
+    "mal_url": "https://myanimelist.net/anime/3166",
+    "mal_id": 3166,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/2076",
+        "dub": null,
+        "url": "https://www.animegg.org/ayakashi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/2075",
+        "dub": null,
+        "url": "https://www.animegg.org/ayakashi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/2072",
+        "dub": null,
+        "url": "https://www.animegg.org/ayakashi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/2073",
+        "dub": null,
+        "url": "https://www.animegg.org/ayakashi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/2074",
+        "dub": null,
+        "url": "https://www.animegg.org/ayakashi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/2079",
+        "dub": null,
+        "url": "https://www.animegg.org/ayakashi-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/2078",
+        "dub": null,
+        "url": "https://www.animegg.org/ayakashi-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/2077",
+        "dub": null,
+        "url": "https://www.animegg.org/ayakashi-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/2081",
+        "dub": null,
+        "url": "https://www.animegg.org/ayakashi-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/2080",
+        "dub": null,
+        "url": "https://www.animegg.org/ayakashi-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/2082",
+        "dub": null,
+        "url": "https://www.animegg.org/ayakashi-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/2083",
+        "dub": null,
+        "url": "https://www.animegg.org/ayakashi-episode-12"
+      }
+    ]
   }
 ]
