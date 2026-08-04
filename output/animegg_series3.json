@@ -76252,5 +76252,87 @@
         "url": "https://www.animegg.org/legends-of-the-dark-king-a-fist-of-the-north-star-story-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2133,
+    "title": "Suzakinishi The Animation",
+    "animegg_url": "https://www.animegg.org/series/suzakinishi-the-animation",
+    "mal_url": "https://myanimelist.net/anime/30826",
+    "mal_id": 30826,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/77782",
+        "dub": "https://www.animegg.org/embed/77802",
+        "url": "https://www.animegg.org/suzakinishi-the-animation-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/77962",
+        "dub": "https://www.animegg.org/embed/77965",
+        "url": "https://www.animegg.org/suzakinishi-the-animation-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/78108",
+        "dub": "https://www.animegg.org/embed/78361",
+        "url": "https://www.animegg.org/suzakinishi-the-animation-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/78251",
+        "dub": "https://www.animegg.org/embed/78362",
+        "url": "https://www.animegg.org/suzakinishi-the-animation-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/78382",
+        "dub": "https://www.animegg.org/embed/117540",
+        "url": "https://www.animegg.org/suzakinishi-the-animation-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/78490",
+        "dub": "https://www.animegg.org/embed/117539",
+        "url": "https://www.animegg.org/suzakinishi-the-animation-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/78602",
+        "dub": "https://www.animegg.org/embed/117538",
+        "url": "https://www.animegg.org/suzakinishi-the-animation-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/78712",
+        "dub": "https://www.animegg.org/embed/117537",
+        "url": "https://www.animegg.org/suzakinishi-the-animation-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/78828",
+        "dub": "https://www.animegg.org/embed/117536",
+        "url": "https://www.animegg.org/suzakinishi-the-animation-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/78933",
+        "dub": "https://www.animegg.org/embed/117543",
+        "url": "https://www.animegg.org/suzakinishi-the-animation-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/79055",
+        "dub": "https://www.animegg.org/embed/117542",
+        "url": "https://www.animegg.org/suzakinishi-the-animation-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/79154",
+        "dub": "https://www.animegg.org/embed/117541",
+        "url": "https://www.animegg.org/suzakinishi-the-animation-episode-12"
+      }
+    ]
   }
 ]
