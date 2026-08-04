@@ -33718,5 +33718,33 @@
         "url": "https://www.animegg.org/miss-monochrome-the-animation-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 1770,
+    "title": "Imawa no Kuni no Alice",
+    "animegg_url": "https://www.animegg.org/series/imawa-no-kuni-no-alice",
+    "mal_url": "https://myanimelist.net/anime/24781",
+    "mal_id": 24781,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66512",
+        "dub": "https://www.animegg.org/embed/67676",
+        "url": "https://www.animegg.org/imawa-no-kuni-no-alice-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/67677",
+        "dub": "https://www.animegg.org/embed/73629",
+        "url": "https://www.animegg.org/imawa-no-kuni-no-alice-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/75946",
+        "dub": "https://www.animegg.org/embed/79036",
+        "url": "https://www.animegg.org/imawa-no-kuni-no-alice-episode-3"
+      }
+    ]
   }
 ]
