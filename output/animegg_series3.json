@@ -38574,5 +38574,87 @@
         "url": "https://www.animegg.org/bloodivores-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1808,
+    "title": "Yuragi-sou no Yuuna-san",
+    "animegg_url": "https://www.animegg.org/series/yuragi-sou-no-yuuna-san",
+    "mal_url": "https://myanimelist.net/anime/36726",
+    "mal_id": 36726,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/91847",
+        "dub": null,
+        "url": "https://www.animegg.org/yuragi-sou-no-yuuna-san-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/91974",
+        "dub": null,
+        "url": "https://www.animegg.org/yuragi-sou-no-yuuna-san-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/92060",
+        "dub": null,
+        "url": "https://www.animegg.org/yuragi-sou-no-yuuna-san-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/92177",
+        "dub": null,
+        "url": "https://www.animegg.org/yuragi-sou-no-yuuna-san-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/92252",
+        "dub": null,
+        "url": "https://www.animegg.org/yuragi-sou-no-yuuna-san-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/92411",
+        "dub": null,
+        "url": "https://www.animegg.org/yuragi-sou-no-yuuna-san-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/92599",
+        "dub": null,
+        "url": "https://www.animegg.org/yuragi-sou-no-yuuna-san-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/92700",
+        "dub": null,
+        "url": "https://www.animegg.org/yuragi-sou-no-yuuna-san-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/92796",
+        "dub": null,
+        "url": "https://www.animegg.org/yuragi-sou-no-yuuna-san-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/92868",
+        "dub": null,
+        "url": "https://www.animegg.org/yuragi-sou-no-yuuna-san-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/92970",
+        "dub": null,
+        "url": "https://www.animegg.org/yuragi-sou-no-yuuna-san-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/93035",
+        "dub": null,
+        "url": "https://www.animegg.org/yuragi-sou-no-yuuna-san-episode-12"
+      }
+    ]
   }
 ]
