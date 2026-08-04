@@ -61038,5 +61038,87 @@
         "url": "https://www.animegg.org/yozakura-quartet-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1988,
+    "title": "Akikan!",
+    "animegg_url": "https://www.animegg.org/series/akikan",
+    "mal_url": "https://myanimelist.net/anime/5112",
+    "mal_id": 5112,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/877",
+        "dub": null,
+        "url": "https://www.animegg.org/akikan-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/874",
+        "dub": null,
+        "url": "https://www.animegg.org/akikan-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/876",
+        "dub": null,
+        "url": "https://www.animegg.org/akikan-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/873",
+        "dub": null,
+        "url": "https://www.animegg.org/akikan-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/875",
+        "dub": null,
+        "url": "https://www.animegg.org/akikan-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/878",
+        "dub": null,
+        "url": "https://www.animegg.org/akikan-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/879",
+        "dub": null,
+        "url": "https://www.animegg.org/akikan-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/880",
+        "dub": null,
+        "url": "https://www.animegg.org/akikan-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/881",
+        "dub": null,
+        "url": "https://www.animegg.org/akikan-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/882",
+        "dub": null,
+        "url": "https://www.animegg.org/akikan-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/883",
+        "dub": null,
+        "url": "https://www.animegg.org/akikan-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/884",
+        "dub": null,
+        "url": "https://www.animegg.org/akikan-episode-12"
+      }
+    ]
   }
 ]
