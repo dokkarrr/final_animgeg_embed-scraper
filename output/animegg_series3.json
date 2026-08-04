@@ -118627,5 +118627,99 @@
         "url": "https://www.animegg.org/tetsujin-28-go2004-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 2527,
+    "title": "To Heart 2",
+    "animegg_url": "https://www.animegg.org/series/to-heart-2",
+    "mal_url": "https://myanimelist.net/anime/471",
+    "mal_id": 471,
+    "total_ep": 14,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/38235",
+        "dub": null,
+        "url": "https://www.animegg.org/to-heart-2-episode-13"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/38234",
+        "dub": null,
+        "url": "https://www.animegg.org/to-heart-2-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/38236",
+        "dub": null,
+        "url": "https://www.animegg.org/to-heart-2-episode-14"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/38233",
+        "dub": null,
+        "url": "https://www.animegg.org/to-heart-2-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/38232",
+        "dub": null,
+        "url": "https://www.animegg.org/to-heart-2-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/38230",
+        "dub": null,
+        "url": "https://www.animegg.org/to-heart-2-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/38229",
+        "dub": null,
+        "url": "https://www.animegg.org/to-heart-2-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/38228",
+        "dub": null,
+        "url": "https://www.animegg.org/to-heart-2-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/38231",
+        "dub": null,
+        "url": "https://www.animegg.org/to-heart-2-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/38224",
+        "dub": null,
+        "url": "https://www.animegg.org/to-heart-2-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/38225",
+        "dub": null,
+        "url": "https://www.animegg.org/to-heart-2-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/38226",
+        "dub": null,
+        "url": "https://www.animegg.org/to-heart-2-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/38223",
+        "dub": null,
+        "url": "https://www.animegg.org/to-heart-2-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/38227",
+        "dub": null,
+        "url": "https://www.animegg.org/to-heart-2-episode-1"
+      }
+    ]
   }
 ]
