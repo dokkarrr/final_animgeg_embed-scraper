@@ -41560,5 +41560,81 @@
         "url": "https://www.animegg.org/aoki-hagane-no-arpeggio-ars-nova-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1839,
+    "title": "No.6",
+    "animegg_url": "https://www.animegg.org/series/no6",
+    "mal_url": "https://myanimelist.net/anime/10161",
+    "mal_id": 10161,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/27252",
+        "dub": null,
+        "url": "https://www.animegg.org/no6-episode-11"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/27251",
+        "dub": null,
+        "url": "https://www.animegg.org/no6-episode-10"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/27250",
+        "dub": null,
+        "url": "https://www.animegg.org/no6-episode-9"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/27247",
+        "dub": null,
+        "url": "https://www.animegg.org/no6-episode-8"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/27249",
+        "dub": null,
+        "url": "https://www.animegg.org/no6-episode-7"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/27248",
+        "dub": null,
+        "url": "https://www.animegg.org/no6-episode-6"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/27243",
+        "dub": null,
+        "url": "https://www.animegg.org/no6-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/27245",
+        "dub": null,
+        "url": "https://www.animegg.org/no6-episode-4"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/27242",
+        "dub": null,
+        "url": "https://www.animegg.org/no6-episode-3"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/27244",
+        "dub": null,
+        "url": "https://www.animegg.org/no6-episode-2"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/27246",
+        "dub": null,
+        "url": "https://www.animegg.org/no6-episode-1"
+      }
+    ]
   }
 ]
