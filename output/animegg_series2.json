@@ -131650,5 +131650,21 @@
         "url": "https://www.animegg.org/witch-hat-atelier-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 1282,
+    "title": "Naruto: Shippuuden Movie 2 - Kizuna",
+    "animegg_url": "https://www.animegg.org/series/naruto-shippuuden-movie-2---kizuna",
+    "mal_url": "https://myanimelist.net/anime/4437",
+    "mal_id": 4437,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/58746",
+        "dub": "https://www.animegg.org/embed/58747",
+        "url": "https://www.animegg.org/naruto-shippuuden-movie-2---kizuna-episode-1"
+      }
+    ]
   }
 ]
