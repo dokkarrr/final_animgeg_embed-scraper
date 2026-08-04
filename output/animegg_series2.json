@@ -116524,5 +116524,87 @@
         "url": "https://www.animegg.org/onegai-my-melody-episode-52"
       }
     ]
+  },
+  {
+    "serial_no": 1180,
+    "title": "91 Days",
+    "animegg_url": "https://www.animegg.org/series/91-days",
+    "mal_url": "https://myanimelist.net/anime/32998",
+    "mal_id": 32998,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 91,
+        "sub": "https://www.animegg.org/embed/84059",
+        "dub": null,
+        "url": "https://www.animegg.org/91-days-episode-12"
+      },
+      {
+        "ep": 91,
+        "sub": "https://www.animegg.org/embed/83902",
+        "dub": null,
+        "url": "https://www.animegg.org/91-days-episode-11"
+      },
+      {
+        "ep": 91,
+        "sub": "https://www.animegg.org/embed/83816",
+        "dub": null,
+        "url": "https://www.animegg.org/91-days-episode-10"
+      },
+      {
+        "ep": 91,
+        "sub": "https://www.animegg.org/embed/83731",
+        "dub": null,
+        "url": "https://www.animegg.org/91-days-episode-9"
+      },
+      {
+        "ep": 91,
+        "sub": "https://www.animegg.org/embed/83637",
+        "dub": null,
+        "url": "https://www.animegg.org/91-days-episode-8"
+      },
+      {
+        "ep": 91,
+        "sub": "https://www.animegg.org/embed/83552",
+        "dub": null,
+        "url": "https://www.animegg.org/91-days-episode-7"
+      },
+      {
+        "ep": 91,
+        "sub": "https://www.animegg.org/embed/83467",
+        "dub": null,
+        "url": "https://www.animegg.org/91-days-episode-6"
+      },
+      {
+        "ep": 91,
+        "sub": "https://www.animegg.org/embed/83376",
+        "dub": null,
+        "url": "https://www.animegg.org/91-days-episode-5"
+      },
+      {
+        "ep": 91,
+        "sub": "https://www.animegg.org/embed/83294",
+        "dub": null,
+        "url": "https://www.animegg.org/91-days-episode-4"
+      },
+      {
+        "ep": 91,
+        "sub": "https://www.animegg.org/embed/83186",
+        "dub": null,
+        "url": "https://www.animegg.org/91-days-episode-3"
+      },
+      {
+        "ep": 91,
+        "sub": "https://www.animegg.org/embed/83088",
+        "dub": null,
+        "url": "https://www.animegg.org/91-days-episode-2"
+      },
+      {
+        "ep": 91,
+        "sub": "https://www.animegg.org/embed/82990",
+        "dub": null,
+        "url": "https://www.animegg.org/91-days-episode-1"
+      }
+    ]
   }
 ]
