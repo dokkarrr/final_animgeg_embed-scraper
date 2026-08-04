@@ -123049,5 +123049,93 @@
         "url": "https://www.animegg.org/lord-of-mysteries-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2563,
+    "title": "Magikano",
+    "animegg_url": "https://www.animegg.org/series/magikano",
+    "mal_url": "https://myanimelist.net/anime/576",
+    "mal_id": 576,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/22539",
+        "dub": "https://www.animegg.org/embed/22540",
+        "url": "https://www.animegg.org/magikano-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/22533",
+        "dub": "https://www.animegg.org/embed/22534",
+        "url": "https://www.animegg.org/magikano-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/22537",
+        "dub": "https://www.animegg.org/embed/22538",
+        "url": "https://www.animegg.org/magikano-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/22535",
+        "dub": "https://www.animegg.org/embed/22536",
+        "url": "https://www.animegg.org/magikano-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/22531",
+        "dub": "https://www.animegg.org/embed/22532",
+        "url": "https://www.animegg.org/magikano-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/22541",
+        "dub": "https://www.animegg.org/embed/22542",
+        "url": "https://www.animegg.org/magikano-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/22545",
+        "dub": "https://www.animegg.org/embed/22546",
+        "url": "https://www.animegg.org/magikano-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/22543",
+        "dub": "https://www.animegg.org/embed/22544",
+        "url": "https://www.animegg.org/magikano-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/22547",
+        "dub": "https://www.animegg.org/embed/22548",
+        "url": "https://www.animegg.org/magikano-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/22549",
+        "dub": "https://www.animegg.org/embed/22550",
+        "url": "https://www.animegg.org/magikano-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/22551",
+        "dub": "https://www.animegg.org/embed/22552",
+        "url": "https://www.animegg.org/magikano-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/22553",
+        "dub": "https://www.animegg.org/embed/22554",
+        "url": "https://www.animegg.org/magikano-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/22555",
+        "dub": "https://www.animegg.org/embed/22556",
+        "url": "https://www.animegg.org/magikano-episode-13"
+      }
+    ]
   }
 ]
