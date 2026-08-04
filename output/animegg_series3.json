@@ -115014,5 +115014,87 @@
         "url": "https://www.animegg.org/rurouni-kenshin-meiji-kenkaku-romantan-2023-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 2486,
+    "title": "Vampire Holmes",
+    "animegg_url": "https://www.animegg.org/series/vampire-holmes",
+    "mal_url": "https://myanimelist.net/anime/28929",
+    "mal_id": 28929,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/76002",
+        "dub": "https://www.animegg.org/embed/76004",
+        "url": "https://www.animegg.org/vampire-holmes-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/76139",
+        "dub": "https://www.animegg.org/embed/76147",
+        "url": "https://www.animegg.org/vampire-holmes-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/76328",
+        "dub": null,
+        "url": "https://www.animegg.org/vampire-holmes-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/76422",
+        "dub": "https://www.animegg.org/embed/115866",
+        "url": "https://www.animegg.org/vampire-holmes-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/76550",
+        "dub": "https://www.animegg.org/embed/115865",
+        "url": "https://www.animegg.org/vampire-holmes-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/76678",
+        "dub": "https://www.animegg.org/embed/115864",
+        "url": "https://www.animegg.org/vampire-holmes-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/76795",
+        "dub": "https://www.animegg.org/embed/115863",
+        "url": "https://www.animegg.org/vampire-holmes-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/76892",
+        "dub": "https://www.animegg.org/embed/115862",
+        "url": "https://www.animegg.org/vampire-holmes-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/76980",
+        "dub": "https://www.animegg.org/embed/115861",
+        "url": "https://www.animegg.org/vampire-holmes-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/77183",
+        "dub": "https://www.animegg.org/embed/115867",
+        "url": "https://www.animegg.org/vampire-holmes-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/77319",
+        "dub": "https://www.animegg.org/embed/78817",
+        "url": "https://www.animegg.org/vampire-holmes-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/77463",
+        "dub": "https://www.animegg.org/embed/78818",
+        "url": "https://www.animegg.org/vampire-holmes-episode-12"
+      }
+    ]
   }
 ]
