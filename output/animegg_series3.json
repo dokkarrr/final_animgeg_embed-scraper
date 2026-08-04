@@ -2924,5 +2924,87 @@
         "url": "https://www.animegg.org/radiant-2nd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 1567,
+    "title": "Mononoke",
+    "animegg_url": "https://www.animegg.org/series/mononoke",
+    "mal_url": "https://myanimelist.net/anime/2246",
+    "mal_id": 2246,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/24406",
+        "dub": null,
+        "url": "https://www.animegg.org/mononoke-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/24403",
+        "dub": null,
+        "url": "https://www.animegg.org/mononoke-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/24405",
+        "dub": null,
+        "url": "https://www.animegg.org/mononoke-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/24402",
+        "dub": null,
+        "url": "https://www.animegg.org/mononoke-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/24404",
+        "dub": null,
+        "url": "https://www.animegg.org/mononoke-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/24408",
+        "dub": null,
+        "url": "https://www.animegg.org/mononoke-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/24409",
+        "dub": null,
+        "url": "https://www.animegg.org/mononoke-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/24407",
+        "dub": null,
+        "url": "https://www.animegg.org/mononoke-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/24410",
+        "dub": null,
+        "url": "https://www.animegg.org/mononoke-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/24411",
+        "dub": null,
+        "url": "https://www.animegg.org/mononoke-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/24412",
+        "dub": null,
+        "url": "https://www.animegg.org/mononoke-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/24413",
+        "dub": null,
+        "url": "https://www.animegg.org/mononoke-episode-12"
+      }
+    ]
   }
 ]
