@@ -117120,5 +117120,87 @@
         "url": "https://www.animegg.org/hanyou-no-yashahime-sengoku-otogizoushi---ni-no-shou-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 2507,
+    "title": "Wandaba Style",
+    "animegg_url": "https://www.animegg.org/series/wandaba-style",
+    "mal_url": "https://myanimelist.net/anime/545",
+    "mal_id": 545,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/40133",
+        "dub": "https://www.animegg.org/embed/40134",
+        "url": "https://www.animegg.org/wandaba-style-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/40131",
+        "dub": "https://www.animegg.org/embed/40132",
+        "url": "https://www.animegg.org/wandaba-style-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/40137",
+        "dub": "https://www.animegg.org/embed/40138",
+        "url": "https://www.animegg.org/wandaba-style-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/40135",
+        "dub": "https://www.animegg.org/embed/40136",
+        "url": "https://www.animegg.org/wandaba-style-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/40129",
+        "dub": "https://www.animegg.org/embed/40130",
+        "url": "https://www.animegg.org/wandaba-style-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/40144",
+        "dub": "https://www.animegg.org/embed/40145",
+        "url": "https://www.animegg.org/wandaba-style-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/40139",
+        "dub": "https://www.animegg.org/embed/40140",
+        "url": "https://www.animegg.org/wandaba-style-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/40142",
+        "dub": "https://www.animegg.org/embed/40143",
+        "url": "https://www.animegg.org/wandaba-style-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/40141",
+        "dub": "https://www.animegg.org/embed/69194",
+        "url": "https://www.animegg.org/wandaba-style-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/40146",
+        "dub": "https://www.animegg.org/embed/40147",
+        "url": "https://www.animegg.org/wandaba-style-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/40150",
+        "dub": "https://www.animegg.org/embed/40151",
+        "url": "https://www.animegg.org/wandaba-style-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/40148",
+        "dub": "https://www.animegg.org/embed/40149",
+        "url": "https://www.animegg.org/wandaba-style-episode-12"
+      }
+    ]
   }
 ]
