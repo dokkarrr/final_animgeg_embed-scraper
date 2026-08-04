@@ -92298,5 +92298,87 @@
         "url": "https://www.animegg.org/eromanga-sensei-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1050,
+    "title": "Maji de Watashi ni Koi Shinasai!",
+    "animegg_url": "https://www.animegg.org/series/maji-de-watashi-ni-koi-shinasai",
+    "mal_url": "https://myanimelist.net/anime/10213",
+    "mal_id": 10213,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/22844",
+        "dub": null,
+        "url": "https://www.animegg.org/maji-de-watashi-ni-koi-shinasai-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/22842",
+        "dub": null,
+        "url": "https://www.animegg.org/maji-de-watashi-ni-koi-shinasai-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/22843",
+        "dub": null,
+        "url": "https://www.animegg.org/maji-de-watashi-ni-koi-shinasai-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/22841",
+        "dub": null,
+        "url": "https://www.animegg.org/maji-de-watashi-ni-koi-shinasai-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/22840",
+        "dub": null,
+        "url": "https://www.animegg.org/maji-de-watashi-ni-koi-shinasai-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/22847",
+        "dub": null,
+        "url": "https://www.animegg.org/maji-de-watashi-ni-koi-shinasai-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/22846",
+        "dub": null,
+        "url": "https://www.animegg.org/maji-de-watashi-ni-koi-shinasai-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/22845",
+        "dub": null,
+        "url": "https://www.animegg.org/maji-de-watashi-ni-koi-shinasai-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/22848",
+        "dub": null,
+        "url": "https://www.animegg.org/maji-de-watashi-ni-koi-shinasai-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/22849",
+        "dub": null,
+        "url": "https://www.animegg.org/maji-de-watashi-ni-koi-shinasai-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/22850",
+        "dub": null,
+        "url": "https://www.animegg.org/maji-de-watashi-ni-koi-shinasai-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/22851",
+        "dub": null,
+        "url": "https://www.animegg.org/maji-de-watashi-ni-koi-shinasai-episode-12"
+      }
+    ]
   }
 ]
