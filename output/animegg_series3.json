@@ -73280,5 +73280,87 @@
         "url": "https://www.animegg.org/sakamoto-days-episode-22"
       }
     ]
+  },
+  {
+    "serial_no": 2101,
+    "title": "Tenrou: Sirius the Jaeger",
+    "animegg_url": "https://www.animegg.org/series/tenrou-sirius-the-jaeger",
+    "mal_url": "https://myanimelist.net/anime/37569",
+    "mal_id": 37569,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/91907",
+        "dub": "https://www.animegg.org/embed/91922",
+        "url": "https://www.animegg.org/tenrou-sirius-the-jaeger-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/91923",
+        "dub": "https://www.animegg.org/embed/91969",
+        "url": "https://www.animegg.org/tenrou-sirius-the-jaeger-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/92034",
+        "dub": "https://www.animegg.org/embed/92037",
+        "url": "https://www.animegg.org/tenrou-sirius-the-jaeger-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/92183",
+        "dub": null,
+        "url": "https://www.animegg.org/tenrou-sirius-the-jaeger-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/92236",
+        "dub": null,
+        "url": "https://www.animegg.org/tenrou-sirius-the-jaeger-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/92496",
+        "dub": null,
+        "url": "https://www.animegg.org/tenrou-sirius-the-jaeger-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/92723",
+        "dub": null,
+        "url": "https://www.animegg.org/tenrou-sirius-the-jaeger-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/92724",
+        "dub": null,
+        "url": "https://www.animegg.org/tenrou-sirius-the-jaeger-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/92801",
+        "dub": null,
+        "url": "https://www.animegg.org/tenrou-sirius-the-jaeger-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/92918",
+        "dub": null,
+        "url": "https://www.animegg.org/tenrou-sirius-the-jaeger-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/93001",
+        "dub": null,
+        "url": "https://www.animegg.org/tenrou-sirius-the-jaeger-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/93064",
+        "dub": null,
+        "url": "https://www.animegg.org/tenrou-sirius-the-jaeger-episode-12"
+      }
+    ]
   }
 ]
