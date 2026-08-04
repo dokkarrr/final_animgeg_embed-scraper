@@ -119126,5 +119126,93 @@
         "url": "https://www.animegg.org/monkey-typhoon-episode-52"
       }
     ]
+  },
+  {
+    "serial_no": 1196,
+    "title": "Danchigai",
+    "animegg_url": "https://www.animegg.org/series/danchigai",
+    "mal_url": "https://myanimelist.net/anime/30127",
+    "mal_id": 30127,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/79175",
+        "dub": null,
+        "url": "https://www.animegg.org/danchigai-episode-13"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/77807",
+        "dub": "https://www.animegg.org/embed/77809",
+        "url": "https://www.animegg.org/danchigai-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/77981",
+        "dub": null,
+        "url": "https://www.animegg.org/danchigai-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/78129",
+        "dub": null,
+        "url": "https://www.animegg.org/danchigai-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/78269",
+        "dub": null,
+        "url": "https://www.animegg.org/danchigai-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/78399",
+        "dub": null,
+        "url": "https://www.animegg.org/danchigai-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/78508",
+        "dub": null,
+        "url": "https://www.animegg.org/danchigai-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/78618",
+        "dub": null,
+        "url": "https://www.animegg.org/danchigai-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/78732",
+        "dub": null,
+        "url": "https://www.animegg.org/danchigai-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/78858",
+        "dub": null,
+        "url": "https://www.animegg.org/danchigai-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/78952",
+        "dub": null,
+        "url": "https://www.animegg.org/danchigai-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/79075",
+        "dub": null,
+        "url": "https://www.animegg.org/danchigai-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/79169",
+        "dub": null,
+        "url": "https://www.animegg.org/danchigai-episode-12"
+      }
+    ]
   }
 ]
