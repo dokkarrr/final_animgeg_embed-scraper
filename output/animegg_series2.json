@@ -18538,5 +18538,87 @@
         "url": "https://www.animegg.org/freezing-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 610,
+    "title": "IS: Infinite Stratos 2",
+    "animegg_url": "https://www.animegg.org/series/is-infinite-stratos-2",
+    "mal_url": "https://myanimelist.net/anime/18247",
+    "mal_id": 18247,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/18372",
+        "dub": "https://www.animegg.org/embed/74382",
+        "url": "https://www.animegg.org/is-infinite-stratos-2-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/18370",
+        "dub": "https://www.animegg.org/embed/74383",
+        "url": "https://www.animegg.org/is-infinite-stratos-2-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/18371",
+        "dub": "https://www.animegg.org/embed/74386",
+        "url": "https://www.animegg.org/is-infinite-stratos-2-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/18368",
+        "dub": "https://www.animegg.org/embed/74387",
+        "url": "https://www.animegg.org/is-infinite-stratos-2-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/18369",
+        "dub": "https://www.animegg.org/embed/74388",
+        "url": "https://www.animegg.org/is-infinite-stratos-2-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/18366",
+        "dub": "https://www.animegg.org/embed/74389",
+        "url": "https://www.animegg.org/is-infinite-stratos-2-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/18365",
+        "dub": "https://www.animegg.org/embed/74390",
+        "url": "https://www.animegg.org/is-infinite-stratos-2-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/18363",
+        "dub": "https://www.animegg.org/embed/74396",
+        "url": "https://www.animegg.org/is-infinite-stratos-2-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/18364",
+        "dub": "https://www.animegg.org/embed/74398",
+        "url": "https://www.animegg.org/is-infinite-stratos-2-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/18361",
+        "dub": "https://www.animegg.org/embed/74402",
+        "url": "https://www.animegg.org/is-infinite-stratos-2-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/18362",
+        "dub": "https://www.animegg.org/embed/74405",
+        "url": "https://www.animegg.org/is-infinite-stratos-2-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/18367",
+        "dub": "https://www.animegg.org/embed/74407",
+        "url": "https://www.animegg.org/is-infinite-stratos-2-episode-1"
+      }
+    ]
   }
 ]
