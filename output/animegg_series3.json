@@ -133299,5 +133299,87 @@
         "url": "https://www.animegg.org/hakuouki-reimeiroku-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2676,
+    "title": "Mission-E",
+    "animegg_url": "https://www.animegg.org/series/mission-e",
+    "mal_url": "https://myanimelist.net/anime/4209",
+    "mal_id": 4209,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/24272",
+        "dub": null,
+        "url": "https://www.animegg.org/mission-e-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/24276",
+        "dub": null,
+        "url": "https://www.animegg.org/mission-e-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/24274",
+        "dub": null,
+        "url": "https://www.animegg.org/mission-e-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/24273",
+        "dub": null,
+        "url": "https://www.animegg.org/mission-e-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/24275",
+        "dub": null,
+        "url": "https://www.animegg.org/mission-e-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/24279",
+        "dub": null,
+        "url": "https://www.animegg.org/mission-e-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/24280",
+        "dub": null,
+        "url": "https://www.animegg.org/mission-e-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/24277",
+        "dub": null,
+        "url": "https://www.animegg.org/mission-e-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/24278",
+        "dub": null,
+        "url": "https://www.animegg.org/mission-e-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/24281",
+        "dub": null,
+        "url": "https://www.animegg.org/mission-e-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/24282",
+        "dub": null,
+        "url": "https://www.animegg.org/mission-e-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/24283",
+        "dub": null,
+        "url": "https://www.animegg.org/mission-e-episode-12"
+      }
+    ]
   }
 ]
