@@ -24602,5 +24602,21 @@
         "url": "https://www.animegg.org/shounen-ashibe-go-go-goma-chan-3-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 1708,
+    "title": "Psycho-Pass Movie",
+    "animegg_url": "https://www.animegg.org/series/psycho-pass-movie",
+    "mal_url": "https://myanimelist.net/anime/21339",
+    "mal_id": 21339,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/77985",
+        "dub": "https://www.animegg.org/embed/78188",
+        "url": "https://www.animegg.org/psycho-pass-movie-episode-1"
+      }
+    ]
   }
 ]
