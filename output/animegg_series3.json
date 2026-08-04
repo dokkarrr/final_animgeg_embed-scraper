@@ -104352,5 +104352,87 @@
         "url": "https://www.animegg.org/ping-pong-the-animation-episode-11"
       }
     ]
+  },
+  {
+    "serial_no": 2375,
+    "title": "Tondemo Skill de Isekai Hourou Meshi",
+    "animegg_url": "https://www.animegg.org/series/tondemo-skill-de-isekai-hourou-meshi",
+    "mal_url": "https://myanimelist.net/anime/53446",
+    "mal_id": 53446,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/106826",
+        "dub": null,
+        "url": "https://www.animegg.org/tondemo-skill-de-isekai-hourou-meshi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/106899",
+        "dub": null,
+        "url": "https://www.animegg.org/tondemo-skill-de-isekai-hourou-meshi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/106971",
+        "dub": null,
+        "url": "https://www.animegg.org/tondemo-skill-de-isekai-hourou-meshi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/107044",
+        "dub": null,
+        "url": "https://www.animegg.org/tondemo-skill-de-isekai-hourou-meshi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/107113",
+        "dub": null,
+        "url": "https://www.animegg.org/tondemo-skill-de-isekai-hourou-meshi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/107185",
+        "dub": null,
+        "url": "https://www.animegg.org/tondemo-skill-de-isekai-hourou-meshi-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/107290",
+        "dub": null,
+        "url": "https://www.animegg.org/tondemo-skill-de-isekai-hourou-meshi-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/107356",
+        "dub": null,
+        "url": "https://www.animegg.org/tondemo-skill-de-isekai-hourou-meshi-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/107421",
+        "dub": null,
+        "url": "https://www.animegg.org/tondemo-skill-de-isekai-hourou-meshi-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/107486",
+        "dub": null,
+        "url": "https://www.animegg.org/tondemo-skill-de-isekai-hourou-meshi-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/107550",
+        "dub": null,
+        "url": "https://www.animegg.org/tondemo-skill-de-isekai-hourou-meshi-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/107606",
+        "dub": null,
+        "url": "https://www.animegg.org/tondemo-skill-de-isekai-hourou-meshi-episode-12"
+      }
+    ]
   }
 ]
