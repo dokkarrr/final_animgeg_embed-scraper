@@ -103712,5 +103712,87 @@
         "url": "https://www.animegg.org/ai-mai-mi-mousou-catastrophe-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2368,
+    "title": "Ga-Rei Zero",
+    "animegg_url": "https://www.animegg.org/series/ga-rei-zero",
+    "mal_url": "https://myanimelist.net/anime/4725",
+    "mal_id": 4725,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/11899",
+        "dub": "https://www.animegg.org/embed/11900",
+        "url": "https://www.animegg.org/ga-rei-zero-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/11897",
+        "dub": "https://www.animegg.org/embed/11898",
+        "url": "https://www.animegg.org/ga-rei-zero-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/11891",
+        "dub": "https://www.animegg.org/embed/11892",
+        "url": "https://www.animegg.org/ga-rei-zero-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/11893",
+        "dub": "https://www.animegg.org/embed/11894",
+        "url": "https://www.animegg.org/ga-rei-zero-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/11895",
+        "dub": "https://www.animegg.org/embed/11896",
+        "url": "https://www.animegg.org/ga-rei-zero-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/11901",
+        "dub": "https://www.animegg.org/embed/11902",
+        "url": "https://www.animegg.org/ga-rei-zero-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/11903",
+        "dub": "https://www.animegg.org/embed/11904",
+        "url": "https://www.animegg.org/ga-rei-zero-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/11905",
+        "dub": "https://www.animegg.org/embed/11906",
+        "url": "https://www.animegg.org/ga-rei-zero-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/11909",
+        "dub": "https://www.animegg.org/embed/11910",
+        "url": "https://www.animegg.org/ga-rei-zero-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/11907",
+        "dub": "https://www.animegg.org/embed/11908",
+        "url": "https://www.animegg.org/ga-rei-zero-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/11911",
+        "dub": "https://www.animegg.org/embed/11912",
+        "url": "https://www.animegg.org/ga-rei-zero-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/11913",
+        "dub": "https://www.animegg.org/embed/11914",
+        "url": "https://www.animegg.org/ga-rei-zero-episode-12"
+      }
+    ]
   }
 ]
