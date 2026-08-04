@@ -64408,5 +64408,87 @@
         "url": "https://www.animegg.org/monster-strike-episode-20"
       }
     ]
+  },
+  {
+    "serial_no": 880,
+    "title": "Grand Blue",
+    "animegg_url": "https://www.animegg.org/series/grand-blue",
+    "mal_url": "https://myanimelist.net/anime/37105",
+    "mal_id": 37105,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/91963",
+        "dub": null,
+        "url": "https://www.animegg.org/grand-blue-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/91941",
+        "dub": null,
+        "url": "https://www.animegg.org/grand-blue-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/92046",
+        "dub": null,
+        "url": "https://www.animegg.org/grand-blue-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/92165",
+        "dub": null,
+        "url": "https://www.animegg.org/grand-blue-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/92241",
+        "dub": null,
+        "url": "https://www.animegg.org/grand-blue-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/92399",
+        "dub": null,
+        "url": "https://www.animegg.org/grand-blue-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/92533",
+        "dub": null,
+        "url": "https://www.animegg.org/grand-blue-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/92687",
+        "dub": null,
+        "url": "https://www.animegg.org/grand-blue-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/92783",
+        "dub": null,
+        "url": "https://www.animegg.org/grand-blue-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/92857",
+        "dub": null,
+        "url": "https://www.animegg.org/grand-blue-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/92933",
+        "dub": null,
+        "url": "https://www.animegg.org/grand-blue-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/93021",
+        "dub": null,
+        "url": "https://www.animegg.org/grand-blue-episode-12"
+      }
+    ]
   }
 ]
