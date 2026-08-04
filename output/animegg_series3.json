@@ -5650,5 +5650,93 @@
         "url": "https://www.animegg.org/recorder-to-randoseru-episode-38"
       }
     ]
+  },
+  {
+    "serial_no": 1575,
+    "title": "Gokukoku no Brynhildr",
+    "animegg_url": "https://www.animegg.org/series/brynhildr-in-the-darkness",
+    "mal_url": "https://myanimelist.net/anime/21431",
+    "mal_id": 21431,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/13337",
+        "dub": null,
+        "url": "https://www.animegg.org/gokukoku-no-brynhildr-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/13336",
+        "dub": null,
+        "url": "https://www.animegg.org/gokukoku-no-brynhildr-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/13333",
+        "dub": null,
+        "url": "https://www.animegg.org/gokukoku-no-brynhildr-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/13335",
+        "dub": null,
+        "url": "https://www.animegg.org/gokukoku-no-brynhildr-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/13334",
+        "dub": null,
+        "url": "https://www.animegg.org/gokukoku-no-brynhildr-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/13338",
+        "dub": null,
+        "url": "https://www.animegg.org/gokukoku-no-brynhildr-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/13339",
+        "dub": null,
+        "url": "https://www.animegg.org/brynhildr-in-the-darkness-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/13340",
+        "dub": null,
+        "url": "https://www.animegg.org/brynhildr-in-the-darkness-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/13341",
+        "dub": null,
+        "url": "https://www.animegg.org/brynhildr-in-the-darkness-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/13342",
+        "dub": null,
+        "url": "https://www.animegg.org/gokukoku-no-brynhildr-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/13343",
+        "dub": null,
+        "url": "https://www.animegg.org/gokukoku-no-brynhildr-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/13344",
+        "dub": null,
+        "url": "https://www.animegg.org/gokukoku-no-brynhildr-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/13345",
+        "dub": null,
+        "url": "https://www.animegg.org/gokukoku-no-brynhildr-episode-13"
+      }
+    ]
   }
 ]
