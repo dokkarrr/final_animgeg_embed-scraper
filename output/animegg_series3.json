@@ -83590,5 +83590,51 @@
         "url": "https://www.animegg.org/kenka-banchou-otome-girl-beats-boys-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2178,
+    "title": "Jojo's bizarre Adventure (1993)",
+    "animegg_url": "https://www.animegg.org/series/1993",
+    "mal_url": "https://myanimelist.net/anime/666",
+    "mal_id": 666,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1993,
+        "sub": "https://www.animegg.org/embed/44071",
+        "dub": "https://www.animegg.org/embed/44072",
+        "url": "https://www.animegg.org/jojos-bizarre-adventure-1993-episode-6"
+      },
+      {
+        "ep": 1993,
+        "sub": "https://www.animegg.org/embed/44069",
+        "dub": "https://www.animegg.org/embed/44070",
+        "url": "https://www.animegg.org/jojos-bizarre-adventure-1993-episode-5"
+      },
+      {
+        "ep": 1993,
+        "sub": "https://www.animegg.org/embed/44067",
+        "dub": "https://www.animegg.org/embed/44068",
+        "url": "https://www.animegg.org/jojos-bizarre-adventure-1993-episode-4"
+      },
+      {
+        "ep": 1993,
+        "sub": "https://www.animegg.org/embed/44065",
+        "dub": "https://www.animegg.org/embed/44066",
+        "url": "https://www.animegg.org/jojos-bizarre-adventure-1993-episode-3"
+      },
+      {
+        "ep": 1993,
+        "sub": "https://www.animegg.org/embed/44063",
+        "dub": "https://www.animegg.org/embed/44064",
+        "url": "https://www.animegg.org/jojos-bizarre-adventure-1993-episode-2"
+      },
+      {
+        "ep": 1993,
+        "sub": "https://www.animegg.org/embed/44060",
+        "dub": "https://www.animegg.org/embed/44061",
+        "url": "https://www.animegg.org/jojos-bizarre-adventure-1993-episode-1"
+      }
+    ]
   }
 ]
