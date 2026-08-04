@@ -110870,5 +110870,45 @@
         "url": "https://www.animegg.org/ane-log-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 2440,
+    "title": "Blade and Soul Specials",
+    "animegg_url": "https://www.animegg.org/series/blade-and-soul-specials",
+    "mal_url": "https://myanimelist.net/anime/23781",
+    "mal_id": 23781,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66077",
+        "dub": null,
+        "url": "https://www.animegg.org/blade-and-soul-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/66078",
+        "dub": null,
+        "url": "https://www.animegg.org/blade-and-soul-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/67465",
+        "dub": null,
+        "url": "https://www.animegg.org/blade-and-soul-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/67466",
+        "dub": null,
+        "url": "https://www.animegg.org/blade-and-soul-specials-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/67467",
+        "dub": null,
+        "url": "https://www.animegg.org/blade-and-soul-specials-episode-5"
+      }
+    ]
   }
 ]
