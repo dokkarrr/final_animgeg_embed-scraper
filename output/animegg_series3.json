@@ -39700,5 +39700,87 @@
         "url": "https://www.animegg.org/isekai-nonbiri-nouka-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1818,
+    "title": "Million Doll",
+    "animegg_url": "https://www.animegg.org/series/million-doll",
+    "mal_url": "https://myanimelist.net/anime/29941",
+    "mal_id": 29941,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/77754",
+        "dub": "https://www.animegg.org/embed/77778",
+        "url": "https://www.animegg.org/million-doll-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/77884",
+        "dub": "https://www.animegg.org/embed/77888",
+        "url": "https://www.animegg.org/million-doll-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/78059",
+        "dub": "https://www.animegg.org/embed/78062",
+        "url": "https://www.animegg.org/million-doll-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/78233",
+        "dub": null,
+        "url": "https://www.animegg.org/million-doll-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/78351",
+        "dub": null,
+        "url": "https://www.animegg.org/million-doll-episode-5"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/78467",
+        "dub": null,
+        "url": "https://www.animegg.org/million-doll-episode-55"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/78585",
+        "dub": null,
+        "url": "https://www.animegg.org/million-doll-episode-7"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/78688",
+        "dub": null,
+        "url": "https://www.animegg.org/million-doll-episode-8"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/78803",
+        "dub": null,
+        "url": "https://www.animegg.org/million-doll-episode-9"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/78920",
+        "dub": null,
+        "url": "https://www.animegg.org/million-doll-episode-10"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/79026",
+        "dub": null,
+        "url": "https://www.animegg.org/million-doll-episode-11"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/79135",
+        "dub": null,
+        "url": "https://www.animegg.org/million-doll-episode-12"
+      }
+    ]
   }
 ]
