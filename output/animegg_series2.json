@@ -50394,5 +50394,87 @@
         "url": "https://www.animegg.org/ano-hi-mita-hana-no-namae-wo-bokutachi-wa-mada-shiranai-episode-11"
       }
     ]
+  },
+  {
+    "serial_no": 792,
+    "title": "Asu No Yoichi!",
+    "animegg_url": "https://www.animegg.org/series/asu-no-yoichi",
+    "mal_url": "https://myanimelist.net/anime/4999",
+    "mal_id": 4999,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/1922",
+        "dub": null,
+        "url": "https://www.animegg.org/asu-no-yoichi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/1921",
+        "dub": null,
+        "url": "https://www.animegg.org/asu-no-yoichi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/1924",
+        "dub": null,
+        "url": "https://www.animegg.org/asu-no-yoichi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/1925",
+        "dub": null,
+        "url": "https://www.animegg.org/asu-no-yoichi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/1923",
+        "dub": null,
+        "url": "https://www.animegg.org/asu-no-yoichi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/1928",
+        "dub": null,
+        "url": "https://www.animegg.org/asu-no-yoichi-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/1926",
+        "dub": null,
+        "url": "https://www.animegg.org/asu-no-yoichi-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/1927",
+        "dub": null,
+        "url": "https://www.animegg.org/asu-no-yoichi-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/1930",
+        "dub": null,
+        "url": "https://www.animegg.org/asu-no-yoichi-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/1929",
+        "dub": null,
+        "url": "https://www.animegg.org/asu-no-yoichi-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/1931",
+        "dub": null,
+        "url": "https://www.animegg.org/asu-no-yoichi-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/1932",
+        "dub": null,
+        "url": "https://www.animegg.org/asu-no-yoichi-episode-12"
+      }
+    ]
   }
 ]
