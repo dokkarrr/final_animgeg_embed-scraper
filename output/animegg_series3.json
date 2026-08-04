@@ -22452,5 +22452,87 @@
         "url": "https://www.animegg.org/thundercats-2011-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 1685,
+    "title": "BlazBlue: Alter Memory",
+    "animegg_url": "https://www.animegg.org/series/blazblue-alter-memory",
+    "mal_url": "https://myanimelist.net/anime/18767",
+    "mal_id": 18767,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/3380",
+        "dub": "https://www.animegg.org/embed/77282",
+        "url": "https://www.animegg.org/blazblue-alter-memory-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/3379",
+        "dub": "https://www.animegg.org/embed/77283",
+        "url": "https://www.animegg.org/blazblue-alter-memory-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/3377",
+        "dub": "https://www.animegg.org/embed/77928",
+        "url": "https://www.animegg.org/blazblue-alter-memory-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/3376",
+        "dub": "https://www.animegg.org/embed/77929",
+        "url": "https://www.animegg.org/blazblue-alter-memory-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/3378",
+        "dub": "https://www.animegg.org/embed/77930",
+        "url": "https://www.animegg.org/blazblue-alter-memory-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/3382",
+        "dub": "https://www.animegg.org/embed/77931",
+        "url": "https://www.animegg.org/blazblue-alter-memory-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/3381",
+        "dub": "https://www.animegg.org/embed/77932",
+        "url": "https://www.animegg.org/blazblue-alter-memory-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/3383",
+        "dub": "https://www.animegg.org/embed/77933",
+        "url": "https://www.animegg.org/blazblue-alter-memory-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/3384",
+        "dub": "https://www.animegg.org/embed/77935",
+        "url": "https://www.animegg.org/blazblue-alter-memory-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/3385",
+        "dub": "https://www.animegg.org/embed/77936",
+        "url": "https://www.animegg.org/blazblue-alter-memory-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/3386",
+        "dub": "https://www.animegg.org/embed/77937",
+        "url": "https://www.animegg.org/blazblue-alter-memory-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/3387",
+        "dub": "https://www.animegg.org/embed/77938",
+        "url": "https://www.animegg.org/blazblue-alter-memory-episode-12"
+      }
+    ]
   }
 ]
