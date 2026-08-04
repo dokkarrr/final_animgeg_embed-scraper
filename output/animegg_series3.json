@@ -1748,5 +1748,87 @@
         "url": "https://www.animegg.org/medaka-box-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1555,
+    "title": "Chain Chronicle: Haecceitas no Hikari",
+    "animegg_url": "https://www.animegg.org/series/chain-chronicle-haecceitas-no-hikari",
+    "mal_url": "https://myanimelist.net/anime/28833",
+    "mal_id": 28833,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/85394",
+        "dub": "https://www.animegg.org/embed/85395",
+        "url": "https://www.animegg.org/chain-chronicle-haecceitas-no-hikari-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/85496",
+        "dub": null,
+        "url": "https://www.animegg.org/chain-chronicle-haecceitas-no-hikari-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/85593",
+        "dub": null,
+        "url": "https://www.animegg.org/chain-chronicle-haecceitas-no-hikari-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/85680",
+        "dub": null,
+        "url": "https://www.animegg.org/chain-chronicle-haecceitas-no-hikari-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/85769",
+        "dub": null,
+        "url": "https://www.animegg.org/chain-chronicle-haecceitas-no-hikari-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/85859",
+        "dub": null,
+        "url": "https://www.animegg.org/chain-chronicle-haecceitas-no-hikari-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/85931",
+        "dub": null,
+        "url": "https://www.animegg.org/chain-chronicle-haecceitas-no-hikari-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/86030",
+        "dub": null,
+        "url": "https://www.animegg.org/chain-chronicle-haecceitas-no-hikari-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/86110",
+        "dub": null,
+        "url": "https://www.animegg.org/chain-chronicle-haecceitas-no-hikari-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/86199",
+        "dub": null,
+        "url": "https://www.animegg.org/chain-chronicle-haecceitas-no-hikari-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/86271",
+        "dub": null,
+        "url": "https://www.animegg.org/chain-chronicle-haecceitas-no-hikari-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/86341",
+        "dub": null,
+        "url": "https://www.animegg.org/chain-chronicle-haecceitas-no-hikari-episode-12"
+      }
+    ]
   }
 ]
