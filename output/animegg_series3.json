@@ -112768,5 +112768,87 @@
         "url": "https://www.animegg.org/those-who-hunt-elves-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2460,
+    "title": "Deca-Dence",
+    "animegg_url": "https://www.animegg.org/series/deca-dence",
+    "mal_url": "https://myanimelist.net/anime/40056",
+    "mal_id": 40056,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/98883",
+        "dub": null,
+        "url": "https://www.animegg.org/deca-dence-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/98932",
+        "dub": null,
+        "url": "https://www.animegg.org/deca-dence-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/98971",
+        "dub": null,
+        "url": "https://www.animegg.org/deca-dence-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/99016",
+        "dub": null,
+        "url": "https://www.animegg.org/deca-dence-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/99066",
+        "dub": null,
+        "url": "https://www.animegg.org/deca-dence-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/99117",
+        "dub": null,
+        "url": "https://www.animegg.org/deca-dence-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/99160",
+        "dub": null,
+        "url": "https://www.animegg.org/deca-dence-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/99200",
+        "dub": null,
+        "url": "https://www.animegg.org/deca-dence-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/99244",
+        "dub": null,
+        "url": "https://www.animegg.org/deca-dence-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/99280",
+        "dub": null,
+        "url": "https://www.animegg.org/deca-dence-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/99362",
+        "dub": null,
+        "url": "https://www.animegg.org/deca-dence-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/99417",
+        "dub": null,
+        "url": "https://www.animegg.org/deca-dence-episode-12"
+      }
+    ]
   }
 ]
