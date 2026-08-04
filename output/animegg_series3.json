@@ -73068,5 +73068,87 @@
         "url": "https://www.animegg.org/ladies-vs-butlers-specials-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 2099,
+    "title": "Hourou Musuko",
+    "animegg_url": "https://www.animegg.org/series/hourou-musuko",
+    "mal_url": "https://myanimelist.net/anime/8426",
+    "mal_id": 8426,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/16778",
+        "dub": null,
+        "url": "https://www.animegg.org/hourou-musuko-episode-12"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/16772",
+        "dub": null,
+        "url": "https://www.animegg.org/hourou-musuko-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/16771",
+        "dub": null,
+        "url": "https://www.animegg.org/hourou-musuko-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/16770",
+        "dub": null,
+        "url": "https://www.animegg.org/hourou-musuko-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/16769",
+        "dub": null,
+        "url": "https://www.animegg.org/hourou-musuko-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/16768",
+        "dub": null,
+        "url": "https://www.animegg.org/hourou-musuko-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/16773",
+        "dub": null,
+        "url": "https://www.animegg.org/hourou-musuko-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/16774",
+        "dub": null,
+        "url": "https://www.animegg.org/hourou-musuko-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/16775",
+        "dub": null,
+        "url": "https://www.animegg.org/hourou-musuko-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/16776",
+        "dub": null,
+        "url": "https://www.animegg.org/hourou-musuko-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/16777",
+        "dub": null,
+        "url": "https://www.animegg.org/hourou-musuko-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/16779",
+        "dub": null,
+        "url": "https://www.animegg.org/hourou-musuko-episode-11"
+      }
+    ]
   }
 ]
