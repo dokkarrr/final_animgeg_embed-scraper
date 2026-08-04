@@ -47924,5 +47924,51 @@
         "url": "https://www.animegg.org/souten-no-ken-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 1897,
+    "title": "Gekkan Shoujo Nozaki-kun Specials",
+    "animegg_url": "https://www.animegg.org/series/gekkan-shoujo-nozaki-kun-specials",
+    "mal_url": "https://myanimelist.net/anime/27633",
+    "mal_id": 27633,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66447",
+        "dub": "https://www.animegg.org/embed/66448",
+        "url": "https://www.animegg.org/gekkan-shoujo-nozaki-kun-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/66449",
+        "dub": "https://www.animegg.org/embed/66624",
+        "url": "https://www.animegg.org/gekkan-shoujo-nozaki-kun-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/67597",
+        "dub": null,
+        "url": "https://www.animegg.org/gekkan-shoujo-nozaki-kun-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/73672",
+        "dub": null,
+        "url": "https://www.animegg.org/gekkan-shoujo-nozaki-kun-specials-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/74923",
+        "dub": null,
+        "url": "https://www.animegg.org/gekkan-shoujo-nozaki-kun-specials-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/75238",
+        "dub": "https://www.animegg.org/embed/75273",
+        "url": "https://www.animegg.org/gekkan-shoujo-nozaki-kun-specials-episode-6"
+      }
+    ]
   }
 ]
