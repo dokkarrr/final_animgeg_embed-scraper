@@ -92480,5 +92480,21 @@
         "url": "https://www.animegg.org/ginga-eiyuu-densetsu-die-neue-these---kaikou-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2254,
+    "title": "Dragon Ball Z Movie 15: Fukkatsu no F",
+    "animegg_url": "https://www.animegg.org/series/dragon-ball-z-movie-15-fukkatsu-no-f",
+    "mal_url": "https://myanimelist.net/anime/25389",
+    "mal_id": 25389,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/79378",
+        "dub": "https://www.animegg.org/embed/79380",
+        "url": "https://www.animegg.org/dragon-ball-z-movie-15-fukkatsu-no-f-episode-1"
+      }
+    ]
   }
 ]
