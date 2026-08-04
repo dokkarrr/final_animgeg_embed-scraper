@@ -68522,5 +68522,75 @@
         "url": "https://www.animegg.org/kakumeiki-valvrave-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 2062,
+    "title": "Ao no Exorcist Specials",
+    "animegg_url": "https://www.animegg.org/series/ao-no-exorcist-specials",
+    "mal_url": "https://myanimelist.net/anime/9919",
+    "mal_id": 9919,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/1435",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-exorcist-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/1433",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-exorcist-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/1434",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-exorcist-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/1431",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-exorcist-specials-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/1432",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-exorcist-specials-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/1437",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-exorcist-specials-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/1436",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-exorcist-specials-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/1438",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-exorcist-specials-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/1439",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-exorcist-specials-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/1440",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-exorcist-specials-episode-10"
+      }
+    ]
   }
 ]
