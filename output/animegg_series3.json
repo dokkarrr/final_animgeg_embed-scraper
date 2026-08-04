@@ -28180,5 +28180,93 @@
         "url": "https://www.animegg.org/digimon-beatbreak-episode-41"
       }
     ]
+  },
+  {
+    "serial_no": 1737,
+    "title": "Hiiro No Kakera",
+    "animegg_url": "https://www.animegg.org/series/hiiro-no-kakera",
+    "mal_url": "https://myanimelist.net/anime/12461",
+    "mal_id": 12461,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/16283",
+        "dub": null,
+        "url": "https://www.animegg.org/hiiro-no-kakera-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/16280",
+        "dub": null,
+        "url": "https://www.animegg.org/hiiro-no-kakera-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/16281",
+        "dub": null,
+        "url": "https://www.animegg.org/hiiro-no-kakera-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/16279",
+        "dub": null,
+        "url": "https://www.animegg.org/hiiro-no-kakera-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/16282",
+        "dub": null,
+        "url": "https://www.animegg.org/hiiro-no-kakera-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/16284",
+        "dub": null,
+        "url": "https://www.animegg.org/hiiro-no-kakera-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/16286",
+        "dub": null,
+        "url": "https://www.animegg.org/hiiro-no-kakera-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/16285",
+        "dub": null,
+        "url": "https://www.animegg.org/hiiro-no-kakera-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/16287",
+        "dub": null,
+        "url": "https://www.animegg.org/hiiro-no-kakera-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/16288",
+        "dub": null,
+        "url": "https://www.animegg.org/hiiro-no-kakera-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/16289",
+        "dub": null,
+        "url": "https://www.animegg.org/hiiro-no-kakera-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/16290",
+        "dub": null,
+        "url": "https://www.animegg.org/hiiro-no-kakera-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/16291",
+        "dub": null,
+        "url": "https://www.animegg.org/hiiro-no-kakera-episode-13"
+      }
+    ]
   }
 ]
