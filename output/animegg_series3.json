@@ -44628,5 +44628,93 @@
         "url": "https://www.animegg.org/show-by-rock-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1865,
+    "title": "Abenobashi Mahou Shotengai",
+    "animegg_url": "https://www.animegg.org/series/abenobashi-mahou-shotengai",
+    "mal_url": "https://myanimelist.net/anime/306",
+    "mal_id": 306,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/328",
+        "dub": "https://www.animegg.org/embed/67953",
+        "url": "https://www.animegg.org/abenobashi-mahou-shotengai-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/327",
+        "dub": "https://www.animegg.org/embed/67954",
+        "url": "https://www.animegg.org/abenobashi-mahou-shotengai-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/324",
+        "dub": "https://www.animegg.org/embed/67955",
+        "url": "https://www.animegg.org/abenobashi-mahou-shotengai-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/325",
+        "dub": "https://www.animegg.org/embed/67956",
+        "url": "https://www.animegg.org/abenobashi-mahou-shotengai-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/326",
+        "dub": "https://www.animegg.org/embed/67957",
+        "url": "https://www.animegg.org/abenobashi-mahou-shotengai-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/329",
+        "dub": "https://www.animegg.org/embed/67958",
+        "url": "https://www.animegg.org/abenobashi-mahou-shotengai-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/330",
+        "dub": "https://www.animegg.org/embed/67959",
+        "url": "https://www.animegg.org/abenobashi-mahou-shotengai-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/331",
+        "dub": "https://www.animegg.org/embed/67960",
+        "url": "https://www.animegg.org/abenobashi-mahou-shotengai-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/334",
+        "dub": "https://www.animegg.org/embed/67961",
+        "url": "https://www.animegg.org/abenobashi-mahou-shotengai-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/333",
+        "dub": "https://www.animegg.org/embed/67963",
+        "url": "https://www.animegg.org/abenobashi-mahou-shotengai-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/332",
+        "dub": "https://www.animegg.org/embed/67964",
+        "url": "https://www.animegg.org/abenobashi-mahou-shotengai-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/336",
+        "dub": "https://www.animegg.org/embed/67965",
+        "url": "https://www.animegg.org/abenobashi-mahou-shotengai-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/335",
+        "dub": "https://www.animegg.org/embed/67966",
+        "url": "https://www.animegg.org/abenobashi-mahou-shotengai-episode-13"
+      }
+    ]
   }
 ]
