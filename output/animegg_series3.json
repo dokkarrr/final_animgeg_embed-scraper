@@ -116200,5 +116200,21 @@
         "url": "https://www.animegg.org/upotte-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 2496,
+    "title": "Sword Art Online Movie: Ordinal Scale",
+    "animegg_url": "https://www.animegg.org/series/sword-art-online-movie-ordinal-scale",
+    "mal_url": "https://myanimelist.net/anime/31765",
+    "mal_id": 31765,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/88299",
+        "dub": null,
+        "url": "https://www.animegg.org/sword-art-online-movie-ordinal-scale-episode-1"
+      }
+    ]
   }
 ]
