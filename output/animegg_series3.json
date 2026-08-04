@@ -122731,5 +122731,141 @@
         "url": "https://www.animegg.org/nijuu-mensou-no-musume-episode-22"
       }
     ]
+  },
+  {
+    "serial_no": 2560,
+    "title": "Dark Gathering",
+    "animegg_url": "https://www.animegg.org/series/dark-gathering",
+    "mal_url": "https://myanimelist.net/anime/52505",
+    "mal_id": 52505,
+    "total_ep": 21,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/130103",
+        "dub": null,
+        "url": "https://www.animegg.org/dark-gathering-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/130271",
+        "dub": null,
+        "url": "https://www.animegg.org/dark-gathering-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/130522",
+        "dub": null,
+        "url": "https://www.animegg.org/dark-gathering-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/dark-gathering-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/130811",
+        "dub": null,
+        "url": "https://www.animegg.org/dark-gathering-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/130908",
+        "dub": null,
+        "url": "https://www.animegg.org/dark-gathering-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/130989",
+        "dub": null,
+        "url": "https://www.animegg.org/dark-gathering-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/131075",
+        "dub": null,
+        "url": "https://www.animegg.org/dark-gathering-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/131173",
+        "dub": null,
+        "url": "https://www.animegg.org/dark-gathering-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/131279",
+        "dub": null,
+        "url": "https://www.animegg.org/dark-gathering-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/131371",
+        "dub": null,
+        "url": "https://www.animegg.org/dark-gathering-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/131476",
+        "dub": "https://www.animegg.org/embed/133106",
+        "url": "https://www.animegg.org/dark-gathering-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/131556",
+        "dub": null,
+        "url": "https://www.animegg.org/dark-gathering-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/131684",
+        "dub": null,
+        "url": "https://www.animegg.org/dark-gathering-episode-14"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/131799",
+        "dub": "https://www.animegg.org/embed/133353",
+        "url": "https://www.animegg.org/dark-gathering-episode-15"
+      },
+      {
+        "ep": 16,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/dark-gathering-episode-16"
+      },
+      {
+        "ep": 17,
+        "sub": "https://www.animegg.org/embed/132017",
+        "dub": null,
+        "url": "https://www.animegg.org/dark-gathering-episode-17"
+      },
+      {
+        "ep": 18,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/dark-gathering-episode-18"
+      },
+      {
+        "ep": 19,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/dark-gathering-episode-19"
+      },
+      {
+        "ep": 20,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/dark-gathering-episode-20"
+      },
+      {
+        "ep": 25,
+        "sub": "https://www.animegg.org/embed/132552",
+        "dub": null,
+        "url": "https://www.animegg.org/dark-gathering-episode-25"
+      }
+    ]
   }
 ]
