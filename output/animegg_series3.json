@@ -41950,5 +41950,87 @@
         "url": "https://www.animegg.org/the-snow-queen-episode-36"
       }
     ]
+  },
+  {
+    "serial_no": 1842,
+    "title": "R-15",
+    "animegg_url": "https://www.animegg.org/series/r-15",
+    "mal_url": "https://myanimelist.net/anime/10611",
+    "mal_id": 10611,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/31435",
+        "dub": null,
+        "url": "https://www.animegg.org/r-15-episode-12"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/31434",
+        "dub": null,
+        "url": "https://www.animegg.org/r-15-episode-11"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/31433",
+        "dub": null,
+        "url": "https://www.animegg.org/r-15-episode-10"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/31431",
+        "dub": null,
+        "url": "https://www.animegg.org/r-15-episode-9"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/31432",
+        "dub": null,
+        "url": "https://www.animegg.org/r-15-episode-8"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/31429",
+        "dub": null,
+        "url": "https://www.animegg.org/r-15-episode-7"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/31428",
+        "dub": null,
+        "url": "https://www.animegg.org/r-15-episode-6"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/31425",
+        "dub": null,
+        "url": "https://www.animegg.org/r-15-episode-5"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/31427",
+        "dub": null,
+        "url": "https://www.animegg.org/r-15-episode-4"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/31424",
+        "dub": null,
+        "url": "https://www.animegg.org/r-15-episode-3"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/31426",
+        "dub": null,
+        "url": "https://www.animegg.org/r-15-episode-2"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/31430",
+        "dub": null,
+        "url": "https://www.animegg.org/r-15-episode-1"
+      }
+    ]
   }
 ]
