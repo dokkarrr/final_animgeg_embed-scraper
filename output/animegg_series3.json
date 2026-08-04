@@ -15254,5 +15254,87 @@
         "url": "https://www.animegg.org/senran-kagura-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1645,
+    "title": "Bubuki Buranki",
+    "animegg_url": "https://www.animegg.org/series/bubuki-buranki",
+    "mal_url": "https://myanimelist.net/anime/32023",
+    "mal_id": 32023,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/80616",
+        "dub": null,
+        "url": "https://www.animegg.org/bubuki-buranki-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/80707",
+        "dub": null,
+        "url": "https://www.animegg.org/bubuki-buranki-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/80812",
+        "dub": null,
+        "url": "https://www.animegg.org/bubuki-buranki-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/80917",
+        "dub": null,
+        "url": "https://www.animegg.org/bubuki-buranki-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/81016",
+        "dub": null,
+        "url": "https://www.animegg.org/bubuki-buranki-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/81106",
+        "dub": null,
+        "url": "https://www.animegg.org/bubuki-buranki-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/81208",
+        "dub": null,
+        "url": "https://www.animegg.org/bubuki-buranki-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/81326",
+        "dub": null,
+        "url": "https://www.animegg.org/bubuki-buranki-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/81418",
+        "dub": null,
+        "url": "https://www.animegg.org/bubuki-buranki-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/81514",
+        "dub": null,
+        "url": "https://www.animegg.org/bubuki-buranki-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/81609",
+        "dub": null,
+        "url": "https://www.animegg.org/bubuki-buranki-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/81692",
+        "dub": null,
+        "url": "https://www.animegg.org/bubuki-buranki-episode-12"
+      }
+    ]
   }
 ]
