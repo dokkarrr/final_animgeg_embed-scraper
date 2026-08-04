@@ -122867,5 +122867,99 @@
         "url": "https://www.animegg.org/dark-gathering-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 2561,
+    "title": "Rio: Rainbow Gate!",
+    "animegg_url": "https://www.animegg.org/series/rio-rainbow-gate",
+    "mal_url": "https://myanimelist.net/anime/8241",
+    "mal_id": 8241,
+    "total_ep": 14,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/31895",
+        "dub": null,
+        "url": "https://www.animegg.org/rio-rainbow-gate-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/31892",
+        "dub": null,
+        "url": "https://www.animegg.org/rio-rainbow-gate-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/31893",
+        "dub": null,
+        "url": "https://www.animegg.org/rio-rainbow-gate-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/31894",
+        "dub": null,
+        "url": "https://www.animegg.org/rio-rainbow-gate-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/31891",
+        "dub": null,
+        "url": "https://www.animegg.org/rio-rainbow-gate-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/31896",
+        "dub": null,
+        "url": "https://www.animegg.org/rio-rainbow-gate-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/31898",
+        "dub": null,
+        "url": "https://www.animegg.org/rio-rainbow-gate-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/31897",
+        "dub": null,
+        "url": "https://www.animegg.org/rio-rainbow-gate-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/31904",
+        "dub": null,
+        "url": "https://www.animegg.org/rio-rainbow-gate-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/31899",
+        "dub": null,
+        "url": "https://www.animegg.org/rio-rainbow-gate-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/31900",
+        "dub": null,
+        "url": "https://www.animegg.org/rio-rainbow-gate-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/31901",
+        "dub": null,
+        "url": "https://www.animegg.org/rio-rainbow-gate-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/31902",
+        "dub": null,
+        "url": "https://www.animegg.org/rio-rainbow-gate-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/31903",
+        "dub": null,
+        "url": "https://www.animegg.org/rio-rainbow-gate-episode-14"
+      }
+    ]
   }
 ]
