@@ -111704,5 +111704,87 @@
         "url": "https://www.animegg.org/tojima-wants-to-be-a-kamen-rider-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 2449,
+    "title": "Re: Hamatora",
+    "animegg_url": "https://www.animegg.org/series/re-hamatora",
+    "mal_url": "https://myanimelist.net/anime/23421",
+    "mal_id": 23421,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/45931",
+        "dub": null,
+        "url": "https://www.animegg.org/hamatora-the-animation-2nd-season-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/45932",
+        "dub": null,
+        "url": "https://www.animegg.org/hamatora-the-animation-2nd-season-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/45933",
+        "dub": null,
+        "url": "https://www.animegg.org/hamatora-the-animation-2nd-season-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/45934",
+        "dub": null,
+        "url": "https://www.animegg.org/hamatora-the-animation-2nd-season-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/45935",
+        "dub": null,
+        "url": "https://www.animegg.org/hamatora-the-animation-2nd-season-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/45936",
+        "dub": null,
+        "url": "https://www.animegg.org/hamatora-the-animation-2nd-season-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/45937",
+        "dub": null,
+        "url": "https://www.animegg.org/hamatora-the-animation-2nd-season-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/45938",
+        "dub": null,
+        "url": "https://www.animegg.org/hamatora-the-animation-2nd-season-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/45939",
+        "dub": null,
+        "url": "https://www.animegg.org/hamatora-the-animation-2nd-season-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/45940",
+        "dub": null,
+        "url": "https://www.animegg.org/hamatora-the-animation-2nd-season-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/45941",
+        "dub": null,
+        "url": "https://www.animegg.org/hamatora-the-animation-2nd-season-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/45942",
+        "dub": null,
+        "url": "https://www.animegg.org/hamatora-the-animation-2nd-season-episode-12"
+      }
+    ]
   }
 ]
