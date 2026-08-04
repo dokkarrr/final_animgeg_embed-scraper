@@ -95302,5 +95302,81 @@
         "url": "https://www.animegg.org/yoiko-episode-20"
       }
     ]
+  },
+  {
+    "serial_no": 2283,
+    "title": "Tokyo Magnitude 8.0",
+    "animegg_url": "https://www.animegg.org/series/tokyo-magnitude-80",
+    "mal_url": "https://myanimelist.net/anime/6211",
+    "mal_id": 6211,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/38423",
+        "dub": "https://www.animegg.org/embed/70650",
+        "url": "https://www.animegg.org/tokyo-magnitude-80-episode-11"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/38422",
+        "dub": "https://www.animegg.org/embed/70649",
+        "url": "https://www.animegg.org/tokyo-magnitude-80-episode-10"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/38419",
+        "dub": "https://www.animegg.org/embed/70648",
+        "url": "https://www.animegg.org/tokyo-magnitude-80-episode-9"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/38421",
+        "dub": "https://www.animegg.org/embed/70647",
+        "url": "https://www.animegg.org/tokyo-magnitude-80-episode-8"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/38418",
+        "dub": "https://www.animegg.org/embed/70646",
+        "url": "https://www.animegg.org/tokyo-magnitude-80-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/38417",
+        "dub": "https://www.animegg.org/embed/70645",
+        "url": "https://www.animegg.org/tokyo-magnitude-80-episode-6"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/38416",
+        "dub": "https://www.animegg.org/embed/70644",
+        "url": "https://www.animegg.org/tokyo-magnitude-80-episode-5"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/38413",
+        "dub": "https://www.animegg.org/embed/70643",
+        "url": "https://www.animegg.org/tokyo-magnitude-80-episode-4"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/38414",
+        "dub": "https://www.animegg.org/embed/70642",
+        "url": "https://www.animegg.org/tokyo-magnitude-80-episode-3"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/38420",
+        "dub": "https://www.animegg.org/embed/70641",
+        "url": "https://www.animegg.org/tokyo-magnitude-80-episode-2"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/38415",
+        "dub": "https://www.animegg.org/embed/70640",
+        "url": "https://www.animegg.org/tokyo-magnitude-80-episode-1"
+      }
+    ]
   }
 ]
