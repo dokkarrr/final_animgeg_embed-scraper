@@ -59188,5 +59188,21 @@
         "url": "https://www.animegg.org/nanbaka-2017-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 1968,
+    "title": "One Piece: Dead End",
+    "animegg_url": "https://www.animegg.org/series/one-piece-dead-end",
+    "mal_url": "https://myanimelist.net/anime/462",
+    "mal_id": 462,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/59168",
+        "dub": null,
+        "url": "https://www.animegg.org/one-piece-dead-end-episode-1"
+      }
+    ]
   }
 ]
