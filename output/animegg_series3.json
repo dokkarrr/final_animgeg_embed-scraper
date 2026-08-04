@@ -111244,5 +111244,81 @@
         "url": "https://www.animegg.org/ikkitousen-xtreme-xecutor-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2445,
+    "title": "Fugou Keiji: Balance:Unlimited",
+    "animegg_url": "https://www.animegg.org/series/fugou-keiji-balanceunlimited",
+    "mal_url": "https://myanimelist.net/anime/41120",
+    "mal_id": 41120,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/98273",
+        "dub": null,
+        "url": "https://www.animegg.org/fugou-keiji-balanceunlimited-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/98322",
+        "dub": null,
+        "url": "https://www.animegg.org/fugou-keiji-balanceunlimited-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/99021",
+        "dub": null,
+        "url": "https://www.animegg.org/fugou-keiji-balanceunlimited-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/99081",
+        "dub": null,
+        "url": "https://www.animegg.org/fugou-keiji-balanceunlimited-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/99122",
+        "dub": null,
+        "url": "https://www.animegg.org/fugou-keiji-balanceunlimited-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/99163",
+        "dub": null,
+        "url": "https://www.animegg.org/fugou-keiji-balanceunlimited-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/99205",
+        "dub": null,
+        "url": "https://www.animegg.org/fugou-keiji-balanceunlimited-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/99247",
+        "dub": null,
+        "url": "https://www.animegg.org/fugou-keiji-balanceunlimited-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/99285",
+        "dub": null,
+        "url": "https://www.animegg.org/fugou-keiji-balanceunlimited-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/99365",
+        "dub": null,
+        "url": "https://www.animegg.org/fugou-keiji-balanceunlimited-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/99420",
+        "dub": null,
+        "url": "https://www.animegg.org/fugou-keiji-balanceunlimited-episode-11"
+      }
+    ]
   }
 ]
