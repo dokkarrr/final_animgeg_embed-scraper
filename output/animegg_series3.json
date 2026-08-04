@@ -89750,5 +89750,135 @@
         "url": "https://www.animegg.org/code-e-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2236,
+    "title": "Dragon Ball Daima",
+    "animegg_url": "https://www.animegg.org/series/dragon-ball-daima",
+    "mal_url": "https://myanimelist.net/anime/56894",
+    "mal_id": 56894,
+    "total_ep": 20,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/137882",
+        "dub": "https://www.animegg.org/embed/139343",
+        "url": "https://www.animegg.org/dragon-ball-daima-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/138137",
+        "dub": "https://www.animegg.org/embed/139421",
+        "url": "https://www.animegg.org/dragon-ball-daima-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/138403",
+        "dub": null,
+        "url": "https://www.animegg.org/dragon-ball-daima-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/138590",
+        "dub": "https://www.animegg.org/embed/139564",
+        "url": "https://www.animegg.org/dragon-ball-daima-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/138823",
+        "dub": "https://www.animegg.org/embed/139672",
+        "url": "https://www.animegg.org/dragon-ball-daima-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/139000",
+        "dub": "https://www.animegg.org/embed/139761",
+        "url": "https://www.animegg.org/dragon-ball-daima-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/139193",
+        "dub": "https://www.animegg.org/embed/139866",
+        "url": "https://www.animegg.org/dragon-ball-daima-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/139951",
+        "dub": null,
+        "url": "https://www.animegg.org/dragon-ball-daima-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/140050",
+        "dub": null,
+        "url": "https://www.animegg.org/dragon-ball-daima-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/140136",
+        "dub": null,
+        "url": "https://www.animegg.org/dragon-ball-daima-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/140214",
+        "dub": null,
+        "url": "https://www.animegg.org/dragon-ball-daima-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/140305",
+        "dub": null,
+        "url": "https://www.animegg.org/dragon-ball-daima-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/139321",
+        "dub": "https://www.animegg.org/embed/140361",
+        "url": "https://www.animegg.org/dragon-ball-daima-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/139424",
+        "dub": "https://www.animegg.org/embed/140450",
+        "url": "https://www.animegg.org/dragon-ball-daima-episode-14"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/140537",
+        "dub": null,
+        "url": "https://www.animegg.org/dragon-ball-daima-episode-15"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/139558",
+        "dub": "https://www.animegg.org/embed/140610",
+        "url": "https://www.animegg.org/dragon-ball-daima-episode-16"
+      },
+      {
+        "ep": 17,
+        "sub": "https://www.animegg.org/embed/139669",
+        "dub": "https://www.animegg.org/embed/140705",
+        "url": "https://www.animegg.org/dragon-ball-daima-episode-17"
+      },
+      {
+        "ep": 18,
+        "sub": "https://www.animegg.org/embed/139754",
+        "dub": "https://www.animegg.org/embed/140795",
+        "url": "https://www.animegg.org/dragon-ball-daima-episode-18"
+      },
+      {
+        "ep": 19,
+        "sub": "https://www.animegg.org/embed/139845",
+        "dub": "https://www.animegg.org/embed/140902",
+        "url": "https://www.animegg.org/dragon-ball-daima-episode-19"
+      },
+      {
+        "ep": 20,
+        "sub": "https://www.animegg.org/embed/139952",
+        "dub": "https://www.animegg.org/embed/140903",
+        "url": "https://www.animegg.org/dragon-ball-daima-episode-20"
+      }
+    ]
   }
 ]
