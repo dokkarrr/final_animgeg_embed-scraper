@@ -129741,5 +129741,51 @@
         "url": "https://www.animegg.org/muteki-kanban-musume-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2634,
+    "title": "Maken-Ki! Specials",
+    "animegg_url": "https://www.animegg.org/series/maken-ki-specials",
+    "mal_url": "https://myanimelist.net/anime/12449",
+    "mal_id": 12449,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/22978",
+        "dub": null,
+        "url": "https://www.animegg.org/maken-ki-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/22974",
+        "dub": null,
+        "url": "https://www.animegg.org/maken-ki-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/22977",
+        "dub": null,
+        "url": "https://www.animegg.org/maken-ki-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/22976",
+        "dub": null,
+        "url": "https://www.animegg.org/maken-ki-specials-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/22975",
+        "dub": null,
+        "url": "https://www.animegg.org/maken-ki-specials-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/22979",
+        "dub": null,
+        "url": "https://www.animegg.org/maken-ki-specials-episode-6"
+      }
+    ]
   }
 ]
