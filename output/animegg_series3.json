@@ -6528,5 +6528,81 @@
         "url": "https://www.animegg.org/grander-musashi-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 1583,
+    "title": "Ranpo Kitan: Game of Laplace",
+    "animegg_url": "https://www.animegg.org/series/ranpo-kitan-game-of-laplace",
+    "mal_url": "https://myanimelist.net/anime/28619",
+    "mal_id": 28619,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/77663",
+        "dub": "https://www.animegg.org/embed/77665",
+        "url": "https://www.animegg.org/ranpo-kitan-game-of-laplace-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/77810",
+        "dub": null,
+        "url": "https://www.animegg.org/ranpo-kitan-game-of-laplace-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/77980",
+        "dub": null,
+        "url": "https://www.animegg.org/ranpo-kitan-game-of-laplace-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/78131",
+        "dub": null,
+        "url": "https://www.animegg.org/ranpo-kitan-game-of-laplace-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/78268",
+        "dub": null,
+        "url": "https://www.animegg.org/ranpo-kitan-game-of-laplace-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/78398",
+        "dub": null,
+        "url": "https://www.animegg.org/ranpo-kitan-game-of-laplace-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/78506",
+        "dub": null,
+        "url": "https://www.animegg.org/ranpo-kitan-game-of-laplace-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/78619",
+        "dub": null,
+        "url": "https://www.animegg.org/ranpo-kitan-game-of-laplace-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/78859",
+        "dub": null,
+        "url": "https://www.animegg.org/ranpo-kitan-game-of-laplace-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/78955",
+        "dub": null,
+        "url": "https://www.animegg.org/ranpo-kitan-game-of-laplace-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/79076",
+        "dub": null,
+        "url": "https://www.animegg.org/ranpo-kitan-game-of-laplace-episode-11"
+      }
+    ]
   }
 ]
