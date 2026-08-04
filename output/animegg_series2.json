@@ -90208,5 +90208,87 @@
         "url": "https://www.animegg.org/wagaya-no-oinari-sama-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 1036,
+    "title": "Ao no Kanata no Four Rhythm",
+    "animegg_url": "https://www.animegg.org/series/ao-no-kanata-no-four-rhythm",
+    "mal_url": "https://myanimelist.net/anime/28391",
+    "mal_id": 28391,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/80647",
+        "dub": "https://www.animegg.org/embed/80653",
+        "url": "https://www.animegg.org/ao-no-kanata-no-four-rhythm-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/80746",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-kanata-no-four-rhythm-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/80851",
+        "dub": "https://www.animegg.org/embed/80852",
+        "url": "https://www.animegg.org/ao-no-kanata-no-four-rhythm-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/80958",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-kanata-no-four-rhythm-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/81056",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-kanata-no-four-rhythm-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/81144",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-kanata-no-four-rhythm-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/81244",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-kanata-no-four-rhythm-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/81367",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-kanata-no-four-rhythm-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/81456",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-kanata-no-four-rhythm-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/81558",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-kanata-no-four-rhythm-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/81648",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-kanata-no-four-rhythm-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/81735",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-kanata-no-four-rhythm-episode-12"
+      }
+    ]
   }
 ]
