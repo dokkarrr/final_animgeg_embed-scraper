@@ -83694,5 +83694,87 @@
         "url": "https://www.animegg.org/bonjour-koiaji-p-tisserie-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 993,
+    "title": "Inu x Boku SS",
+    "animegg_url": "https://www.animegg.org/series/inu-x-boku-ss",
+    "mal_url": "https://myanimelist.net/anime/11013",
+    "mal_id": 11013,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/17906",
+        "dub": "https://www.animegg.org/embed/17907",
+        "url": "https://www.animegg.org/inu-x-boku-ss-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/17904",
+        "dub": "https://www.animegg.org/embed/17905",
+        "url": "https://www.animegg.org/inu-x-boku-ss-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/17900",
+        "dub": "https://www.animegg.org/embed/17901",
+        "url": "https://www.animegg.org/inu-x-boku-ss-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/17902",
+        "dub": "https://www.animegg.org/embed/17903",
+        "url": "https://www.animegg.org/inu-x-boku-ss-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/17898",
+        "dub": "https://www.animegg.org/embed/17899",
+        "url": "https://www.animegg.org/inu-x-boku-ss-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/17914",
+        "dub": "https://www.animegg.org/embed/17915",
+        "url": "https://www.animegg.org/inu-x-boku-ss-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/17908",
+        "dub": "https://www.animegg.org/embed/17909",
+        "url": "https://www.animegg.org/inu-x-boku-ss-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/17910",
+        "dub": "https://www.animegg.org/embed/17911",
+        "url": "https://www.animegg.org/inu-x-boku-ss-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/17912",
+        "dub": "https://www.animegg.org/embed/17913",
+        "url": "https://www.animegg.org/inu-x-boku-ss-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/17916",
+        "dub": "https://www.animegg.org/embed/17917",
+        "url": "https://www.animegg.org/inu-x-boku-ss-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/17918",
+        "dub": "https://www.animegg.org/embed/17919",
+        "url": "https://www.animegg.org/inu-x-boku-ss-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/17920",
+        "dub": "https://www.animegg.org/embed/17921",
+        "url": "https://www.animegg.org/inu-x-boku-ss-episode-12"
+      }
+    ]
   }
 ]
