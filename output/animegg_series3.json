@@ -88906,5 +88906,75 @@
         "url": "https://www.animegg.org/sabagebu-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2226,
+    "title": "Fate/Extra Last Encore",
+    "animegg_url": "https://www.animegg.org/series/fateextra-last-encore",
+    "mal_url": "https://myanimelist.net/anime/37651",
+    "mal_id": 37651,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/89916",
+        "dub": null,
+        "url": "https://www.animegg.org/fateextra-last-encore-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/89984",
+        "dub": "https://www.animegg.org/embed/90012",
+        "url": "https://www.animegg.org/fateextra-last-encore-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/90059",
+        "dub": "https://www.animegg.org/embed/90082",
+        "url": "https://www.animegg.org/fateextra-last-encore-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/90155",
+        "dub": null,
+        "url": "https://www.animegg.org/fateextra-last-encore-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/90201",
+        "dub": "https://www.animegg.org/embed/90202",
+        "url": "https://www.animegg.org/fateextra-last-encore-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/90284",
+        "dub": "https://www.animegg.org/embed/90310",
+        "url": "https://www.animegg.org/fateextra-last-encore-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/90393",
+        "dub": null,
+        "url": "https://www.animegg.org/fateextra-last-encore-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/90433",
+        "dub": "https://www.animegg.org/embed/90453",
+        "url": "https://www.animegg.org/fateextra-last-encore-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/90526",
+        "dub": "https://www.animegg.org/embed/90545",
+        "url": "https://www.animegg.org/fateextra-last-encore-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/90609",
+        "dub": null,
+        "url": "https://www.animegg.org/fateextra-last-encore-episode-10"
+      }
+    ]
   }
 ]
