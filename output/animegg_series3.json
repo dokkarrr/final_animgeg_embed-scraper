@@ -114250,5 +114250,87 @@
         "url": "https://www.animegg.org/aiura-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2478,
+    "title": "Usakame",
+    "animegg_url": "https://www.animegg.org/series/usakame",
+    "mal_url": "https://myanimelist.net/anime/32454",
+    "mal_id": 32454,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/81911",
+        "dub": null,
+        "url": "https://www.animegg.org/usakame-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/81989",
+        "dub": null,
+        "url": "https://www.animegg.org/usakame-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/82072",
+        "dub": null,
+        "url": "https://www.animegg.org/usakame-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/82175",
+        "dub": null,
+        "url": "https://www.animegg.org/usakame-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/82257",
+        "dub": null,
+        "url": "https://www.animegg.org/usakame-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/82332",
+        "dub": null,
+        "url": "https://www.animegg.org/usakame-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/82436",
+        "dub": null,
+        "url": "https://www.animegg.org/usakame-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/82515",
+        "dub": null,
+        "url": "https://www.animegg.org/usakame-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/82613",
+        "dub": null,
+        "url": "https://www.animegg.org/usakame-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/82692",
+        "dub": null,
+        "url": "https://www.animegg.org/usakame-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/82772",
+        "dub": null,
+        "url": "https://www.animegg.org/usakame-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/82847",
+        "dub": null,
+        "url": "https://www.animegg.org/usakame-episode-12"
+      }
+    ]
   }
 ]
