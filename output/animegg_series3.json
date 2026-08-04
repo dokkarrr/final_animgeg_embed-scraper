@@ -110818,5 +110818,57 @@
         "url": "https://www.animegg.org/beyblade-burst-chouzetsu-episode-51"
       }
     ]
+  },
+  {
+    "serial_no": 2439,
+    "title": "Ane Log",
+    "animegg_url": "https://www.animegg.org/series/ane-log",
+    "mal_url": "https://myanimelist.net/anime/24531",
+    "mal_id": 24531,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/77669",
+        "dub": null,
+        "url": "https://www.animegg.org/ane-log-episode-5"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66513",
+        "dub": null,
+        "url": "https://www.animegg.org/ane-log-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/77670",
+        "dub": null,
+        "url": "https://www.animegg.org/ane-log-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/67673",
+        "dub": "https://www.animegg.org/embed/77538",
+        "url": "https://www.animegg.org/ane-log-episode-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/77671",
+        "dub": null,
+        "url": "https://www.animegg.org/ane-log-episode-7"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/76367",
+        "dub": "https://www.animegg.org/embed/77539",
+        "url": "https://www.animegg.org/ane-log-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ane-log-episode-4"
+      }
+    ]
   }
 ]
