@@ -126296,5 +126296,87 @@
         "url": "https://www.animegg.org/kore-wa-zombie-desu-ka-of-the-dead-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 1250,
+    "title": "Lance N' Masques",
+    "animegg_url": "https://www.animegg.org/series/lance-n-masques",
+    "mal_url": "https://myanimelist.net/anime/24011",
+    "mal_id": 24011,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/79250",
+        "dub": null,
+        "url": "https://www.animegg.org/lance-n-masques-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/79357",
+        "dub": null,
+        "url": "https://www.animegg.org/lance-n-masques-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/79485",
+        "dub": null,
+        "url": "https://www.animegg.org/lance-n-masques-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/79599",
+        "dub": null,
+        "url": "https://www.animegg.org/lance-n-masques-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/79695",
+        "dub": null,
+        "url": "https://www.animegg.org/lance-n-masques-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/79786",
+        "dub": null,
+        "url": "https://www.animegg.org/lance-n-masques-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/79870",
+        "dub": "https://www.animegg.org/embed/79872",
+        "url": "https://www.animegg.org/lance-n-masques-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/79964",
+        "dub": "https://www.animegg.org/embed/79966",
+        "url": "https://www.animegg.org/lance-n-masques-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/80068",
+        "dub": null,
+        "url": "https://www.animegg.org/lance-n-masques-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/80160",
+        "dub": null,
+        "url": "https://www.animegg.org/lance-n-masques-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/80286",
+        "dub": null,
+        "url": "https://www.animegg.org/lance-n-masques-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/80389",
+        "dub": null,
+        "url": "https://www.animegg.org/lance-n-masques-episode-12"
+      }
+    ]
   }
 ]
