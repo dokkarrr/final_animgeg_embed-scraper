@@ -125983,5 +125983,93 @@
         "url": "https://www.animegg.org/no-guns-life-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2593,
+    "title": "Crest of the Stars",
+    "animegg_url": "https://www.animegg.org/series/crest-of-the-stars",
+    "mal_url": "https://myanimelist.net/anime/290",
+    "mal_id": 290,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/6402",
+        "dub": null,
+        "url": "https://www.animegg.org/crest-of-the-stars-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/6400",
+        "dub": null,
+        "url": "https://www.animegg.org/crest-of-the-stars-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/6399",
+        "dub": null,
+        "url": "https://www.animegg.org/crest-of-the-stars-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/6403",
+        "dub": null,
+        "url": "https://www.animegg.org/crest-of-the-stars-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/6401",
+        "dub": null,
+        "url": "https://www.animegg.org/crest-of-the-stars-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/6404",
+        "dub": null,
+        "url": "https://www.animegg.org/crest-of-the-stars-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/6405",
+        "dub": null,
+        "url": "https://www.animegg.org/crest-of-the-stars-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/6406",
+        "dub": null,
+        "url": "https://www.animegg.org/crest-of-the-stars-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/6408",
+        "dub": null,
+        "url": "https://www.animegg.org/crest-of-the-stars-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/6407",
+        "dub": null,
+        "url": "https://www.animegg.org/crest-of-the-stars-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/6411",
+        "dub": null,
+        "url": "https://www.animegg.org/crest-of-the-stars-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/6410",
+        "dub": null,
+        "url": "https://www.animegg.org/crest-of-the-stars-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/6409",
+        "dub": null,
+        "url": "https://www.animegg.org/crest-of-the-stars-episode-13"
+      }
+    ]
   }
 ]
