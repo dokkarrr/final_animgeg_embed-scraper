@@ -127621,5 +127621,27 @@
         "url": "https://www.animegg.org/corpse-party-tortured-souls---bougyakusareta-tamashii-no-jukyou-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 2611,
+    "title": "Kuttsukiboshi",
+    "animegg_url": "https://www.animegg.org/series/kuttsukiboshi",
+    "mal_url": "https://myanimelist.net/anime/9014",
+    "mal_id": 9014,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/20982",
+        "dub": null,
+        "url": "https://www.animegg.org/kuttsukiboshi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/20981",
+        "dub": null,
+        "url": "https://www.animegg.org/kuttsukiboshi-episode-2"
+      }
+    ]
   }
 ]
