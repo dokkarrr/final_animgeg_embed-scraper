@@ -116114,5 +116114,93 @@
         "url": "https://www.animegg.org/stellvia-of-the-universe-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 1178,
+    "title": "Astarotte no Omocha!",
+    "animegg_url": "https://www.animegg.org/series/astarotte-no-omocha",
+    "mal_url": "https://myanimelist.net/anime/9736",
+    "mal_id": 9736,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/1919",
+        "dub": null,
+        "url": "https://www.animegg.org/astarotte-no-omocha-episode-0"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/1911",
+        "dub": null,
+        "url": "https://www.animegg.org/astarotte-no-omocha-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/1908",
+        "dub": null,
+        "url": "https://www.animegg.org/astarotte-no-omocha-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/1910",
+        "dub": null,
+        "url": "https://www.animegg.org/astarotte-no-omocha-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/1909",
+        "dub": null,
+        "url": "https://www.animegg.org/astarotte-no-omocha-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/1907",
+        "dub": null,
+        "url": "https://www.animegg.org/astarotte-no-omocha-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/1912",
+        "dub": null,
+        "url": "https://www.animegg.org/astarotte-no-omocha-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/1913",
+        "dub": null,
+        "url": "https://www.animegg.org/astarotte-no-omocha-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/1914",
+        "dub": null,
+        "url": "https://www.animegg.org/astarotte-no-omocha-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/1915",
+        "dub": null,
+        "url": "https://www.animegg.org/astarotte-no-omocha-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/1916",
+        "dub": null,
+        "url": "https://www.animegg.org/astarotte-no-omocha-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/1918",
+        "dub": null,
+        "url": "https://www.animegg.org/astarotte-no-omocha-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/1917",
+        "dub": null,
+        "url": "https://www.animegg.org/astarotte-no-omocha-episode-12"
+      }
+    ]
   }
 ]
