@@ -97948,5 +97948,87 @@
         "url": "https://www.animegg.org/sora-no-manimani-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2310,
+    "title": "Wagamama High Spec",
+    "animegg_url": "https://www.animegg.org/series/wagamama-high-spec",
+    "mal_url": "https://myanimelist.net/anime/31439",
+    "mal_id": 31439,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/81910",
+        "dub": null,
+        "url": "https://www.animegg.org/wagamama-high-spec-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/81990",
+        "dub": null,
+        "url": "https://www.animegg.org/wagamama-high-spec-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/82073",
+        "dub": null,
+        "url": "https://www.animegg.org/wagamama-high-spec-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/82176",
+        "dub": null,
+        "url": "https://www.animegg.org/wagamama-high-spec-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/82258",
+        "dub": null,
+        "url": "https://www.animegg.org/wagamama-high-spec-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/82331",
+        "dub": null,
+        "url": "https://www.animegg.org/wagamama-high-spec-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/82437",
+        "dub": null,
+        "url": "https://www.animegg.org/wagamama-high-spec-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/82516",
+        "dub": null,
+        "url": "https://www.animegg.org/wagamama-high-spec-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/82614",
+        "dub": null,
+        "url": "https://www.animegg.org/wagamama-high-spec-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/82693",
+        "dub": null,
+        "url": "https://www.animegg.org/wagamama-high-spec-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/82773",
+        "dub": null,
+        "url": "https://www.animegg.org/wagamama-high-spec-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/82846",
+        "dub": null,
+        "url": "https://www.animegg.org/wagamama-high-spec-episode-12"
+      }
+    ]
   }
 ]
