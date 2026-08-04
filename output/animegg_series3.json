@@ -116950,5 +116950,21 @@
         "url": "https://www.animegg.org/kyuukyoku-shinka-shita-full-dive-rpg-ga-genjitsu-yori-mo-kusoge-dattara-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2505,
+    "title": "Naruto x UT",
+    "animegg_url": "https://www.animegg.org/series/naruto-x-ut",
+    "mal_url": "https://myanimelist.net/anime/10075",
+    "mal_id": 10075,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/26838",
+        "dub": null,
+        "url": "https://www.animegg.org/naruto-x-ut-episode-1"
+      }
+    ]
   }
 ]
