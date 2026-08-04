@@ -110910,5 +110910,87 @@
         "url": "https://www.animegg.org/blade-and-soul-specials-episode-5"
       }
     ]
+  },
+  {
+    "serial_no": 2441,
+    "title": "Kiniro no Corda: Blue Sky",
+    "animegg_url": "https://www.animegg.org/series/la-no-corda-doro-blue-sky",
+    "mal_url": "https://myanimelist.net/anime/20971",
+    "mal_id": 20971,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/20476",
+        "dub": null,
+        "url": "https://www.animegg.org/kiniro-no-corda-blue-9834-sky-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/20475",
+        "dub": null,
+        "url": "https://www.animegg.org/kiniro-no-corda-blue-9834-sky-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/20474",
+        "dub": null,
+        "url": "https://www.animegg.org/kiniro-no-corda-blue-9834-sky-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/20473",
+        "dub": null,
+        "url": "https://www.animegg.org/kiniro-no-corda-blue-9834-sky-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/20472",
+        "dub": null,
+        "url": "https://www.animegg.org/kiniro-no-corda-blue-9834-sky-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/20477",
+        "dub": null,
+        "url": "https://www.animegg.org/kiniro-no-corda-blue-sky-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/20478",
+        "dub": null,
+        "url": "https://www.animegg.org/la-corda-doro---blue-sky-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/20479",
+        "dub": null,
+        "url": "https://www.animegg.org/la-corda-doro---blue-sky-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/20480",
+        "dub": null,
+        "url": "https://www.animegg.org/la-corda-doro---blue-sky-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/20481",
+        "dub": null,
+        "url": "https://www.animegg.org/la-corda-doro---blue-sky-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/20482",
+        "dub": null,
+        "url": "https://www.animegg.org/la-corda-doro---blue-sky-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/20483",
+        "dub": null,
+        "url": "https://www.animegg.org/la-corda-doro---blue-sky-episode-12"
+      }
+    ]
   }
 ]
