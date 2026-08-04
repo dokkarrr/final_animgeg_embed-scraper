@@ -125901,5 +125901,87 @@
         "url": "https://www.animegg.org/hanebado-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2592,
+    "title": "No Guns Life",
+    "animegg_url": "https://www.animegg.org/series/no-guns-life",
+    "mal_url": "https://myanimelist.net/anime/39539",
+    "mal_id": 39539,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/96686",
+        "dub": null,
+        "url": "https://www.animegg.org/no-guns-life-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/96750",
+        "dub": null,
+        "url": "https://www.animegg.org/no-guns-life-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/96817",
+        "dub": null,
+        "url": "https://www.animegg.org/no-guns-life-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/96881",
+        "dub": null,
+        "url": "https://www.animegg.org/no-guns-life-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/96941",
+        "dub": null,
+        "url": "https://www.animegg.org/no-guns-life-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/97002",
+        "dub": null,
+        "url": "https://www.animegg.org/no-guns-life-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/97066",
+        "dub": null,
+        "url": "https://www.animegg.org/no-guns-life-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/97136",
+        "dub": null,
+        "url": "https://www.animegg.org/no-guns-life-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/97201",
+        "dub": null,
+        "url": "https://www.animegg.org/no-guns-life-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/97269",
+        "dub": null,
+        "url": "https://www.animegg.org/no-guns-life-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/97334",
+        "dub": null,
+        "url": "https://www.animegg.org/no-guns-life-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/97394",
+        "dub": null,
+        "url": "https://www.animegg.org/no-guns-life-episode-12"
+      }
+    ]
   }
 ]
