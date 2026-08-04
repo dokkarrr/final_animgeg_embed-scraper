@@ -43420,5 +43420,93 @@
         "url": "https://www.animegg.org/cromartie-high-school-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 751,
+    "title": "Hellsing",
+    "animegg_url": "https://www.animegg.org/series/hellsing",
+    "mal_url": "https://myanimelist.net/anime/270",
+    "mal_id": 270,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/15724",
+        "dub": "https://www.animegg.org/embed/15725",
+        "url": "https://www.animegg.org/hellsing-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/15722",
+        "dub": "https://www.animegg.org/embed/15723",
+        "url": "https://www.animegg.org/hellsing-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/15720",
+        "dub": "https://www.animegg.org/embed/15721",
+        "url": "https://www.animegg.org/hellsing-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/15716",
+        "dub": "https://www.animegg.org/embed/15717",
+        "url": "https://www.animegg.org/hellsing-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/15718",
+        "dub": "https://www.animegg.org/embed/15719",
+        "url": "https://www.animegg.org/hellsing-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/15730",
+        "dub": "https://www.animegg.org/embed/15731",
+        "url": "https://www.animegg.org/hellsing-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/15726",
+        "dub": "https://www.animegg.org/embed/15727",
+        "url": "https://www.animegg.org/hellsing-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/15728",
+        "dub": "https://www.animegg.org/embed/15729",
+        "url": "https://www.animegg.org/hellsing-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/15732",
+        "dub": "https://www.animegg.org/embed/15733",
+        "url": "https://www.animegg.org/hellsing-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/15734",
+        "dub": "https://www.animegg.org/embed/15735",
+        "url": "https://www.animegg.org/hellsing-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/15736",
+        "dub": "https://www.animegg.org/embed/15737",
+        "url": "https://www.animegg.org/hellsing-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/15738",
+        "dub": "https://www.animegg.org/embed/15739",
+        "url": "https://www.animegg.org/hellsing-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/15740",
+        "dub": "https://www.animegg.org/embed/15741",
+        "url": "https://www.animegg.org/hellsing-episode-13"
+      }
+    ]
   }
 ]
