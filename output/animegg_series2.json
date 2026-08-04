@@ -119456,5 +119456,87 @@
         "url": "https://www.animegg.org/gunparade-orchestra-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 1199,
+    "title": "Zero kara Hajimeru Mahou no Sho",
+    "animegg_url": "https://www.animegg.org/series/zero-kara-hajimeru-mahou-no-sho",
+    "mal_url": "https://myanimelist.net/anime/34176",
+    "mal_id": 34176,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/86541",
+        "dub": "https://www.animegg.org/embed/86543",
+        "url": "https://www.animegg.org/zero-kara-hajimeru-mahou-no-sho-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/86629",
+        "dub": null,
+        "url": "https://www.animegg.org/zero-kara-hajimeru-mahou-no-sho-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/86711",
+        "dub": null,
+        "url": "https://www.animegg.org/zero-kara-hajimeru-mahou-no-sho-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/86795",
+        "dub": null,
+        "url": "https://www.animegg.org/zero-kara-hajimeru-mahou-no-sho-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/86871",
+        "dub": null,
+        "url": "https://www.animegg.org/zero-kara-hajimeru-mahou-no-sho-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/86949",
+        "dub": null,
+        "url": "https://www.animegg.org/zero-kara-hajimeru-mahou-no-sho-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/87033",
+        "dub": null,
+        "url": "https://www.animegg.org/zero-kara-hajimeru-mahou-no-sho-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/87107",
+        "dub": null,
+        "url": "https://www.animegg.org/zero-kara-hajimeru-mahou-no-sho-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/87205",
+        "dub": "https://www.animegg.org/embed/87273",
+        "url": "https://www.animegg.org/zero-kara-hajimeru-mahou-no-sho-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/87266",
+        "dub": null,
+        "url": "https://www.animegg.org/zero-kara-hajimeru-mahou-no-sho-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/87341",
+        "dub": null,
+        "url": "https://www.animegg.org/zero-kara-hajimeru-mahou-no-sho-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/87418",
+        "dub": "https://www.animegg.org/embed/87719",
+        "url": "https://www.animegg.org/zero-kara-hajimeru-mahou-no-sho-episode-12"
+      }
+    ]
   }
 ]
