@@ -106012,5 +106012,87 @@
         "url": "https://www.animegg.org/ragnastrike-angels-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2394,
+    "title": "Fractale",
+    "animegg_url": "https://www.animegg.org/series/fractale",
+    "mal_url": "https://myanimelist.net/anime/9314",
+    "mal_id": 9314,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/11166",
+        "dub": "https://www.animegg.org/embed/11167",
+        "url": "https://www.animegg.org/fractale-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/11170",
+        "dub": "https://www.animegg.org/embed/11171",
+        "url": "https://www.animegg.org/fractale-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/11174",
+        "dub": "https://www.animegg.org/embed/11175",
+        "url": "https://www.animegg.org/fractale-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/11172",
+        "dub": "https://www.animegg.org/embed/11173",
+        "url": "https://www.animegg.org/fractale-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/11168",
+        "dub": "https://www.animegg.org/embed/11169",
+        "url": "https://www.animegg.org/fractale-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/11176",
+        "dub": "https://www.animegg.org/embed/11177",
+        "url": "https://www.animegg.org/fractale-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/11180",
+        "dub": "https://www.animegg.org/embed/11181",
+        "url": "https://www.animegg.org/fractale-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/11178",
+        "dub": "https://www.animegg.org/embed/11179",
+        "url": "https://www.animegg.org/fractale-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/11182",
+        "dub": "https://www.animegg.org/embed/11183",
+        "url": "https://www.animegg.org/fractale-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/11184",
+        "dub": "https://www.animegg.org/embed/11185",
+        "url": "https://www.animegg.org/fractale-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/11186",
+        "dub": "https://www.animegg.org/embed/11187",
+        "url": "https://www.animegg.org/fractale-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/fractale-episode-12"
+      }
+    ]
   }
 ]
