@@ -53348,5 +53348,81 @@
         "url": "https://www.animegg.org/slayers-try-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 1927,
+    "title": "Gin no Saji",
+    "animegg_url": "https://www.animegg.org/series/gin-no-saji",
+    "mal_url": "https://myanimelist.net/anime/16918",
+    "mal_id": 16918,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/12670",
+        "dub": null,
+        "url": "https://www.animegg.org/gin-no-saji-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/12668",
+        "dub": null,
+        "url": "https://www.animegg.org/gin-no-saji-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/12667",
+        "dub": null,
+        "url": "https://www.animegg.org/gin-no-saji-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/12669",
+        "dub": null,
+        "url": "https://www.animegg.org/gin-no-saji-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/12666",
+        "dub": null,
+        "url": "https://www.animegg.org/gin-no-saji-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/12671",
+        "dub": null,
+        "url": "https://www.animegg.org/gin-no-saji-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/12672",
+        "dub": null,
+        "url": "https://www.animegg.org/gin-no-saji-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/12674",
+        "dub": null,
+        "url": "https://www.animegg.org/gin-no-saji-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/12673",
+        "dub": null,
+        "url": "https://www.animegg.org/gin-no-saji-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/12675",
+        "dub": null,
+        "url": "https://www.animegg.org/gin-no-saji-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/12676",
+        "dub": null,
+        "url": "https://www.animegg.org/gin-no-saji-episode-11"
+      }
+    ]
   }
 ]
