@@ -41132,5 +41132,87 @@
         "url": "https://www.animegg.org/kyoukai-senjou-no-horizon-ii-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 1834,
+    "title": "Macademi Wasshoi!",
+    "animegg_url": "https://www.animegg.org/series/macademi-wasshoi",
+    "mal_url": "https://myanimelist.net/anime/3654",
+    "mal_id": 3654,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/22310",
+        "dub": null,
+        "url": "https://www.animegg.org/macademi-wasshoi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/22311",
+        "dub": null,
+        "url": "https://www.animegg.org/macademi-wasshoi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/22308",
+        "dub": null,
+        "url": "https://www.animegg.org/macademi-wasshoi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/22314",
+        "dub": null,
+        "url": "https://www.animegg.org/macademi-wasshoi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/22309",
+        "dub": null,
+        "url": "https://www.animegg.org/macademi-wasshoi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/22317",
+        "dub": null,
+        "url": "https://www.animegg.org/macademi-wasshoi-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/22318",
+        "dub": null,
+        "url": "https://www.animegg.org/macademi-wasshoi-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/22315",
+        "dub": null,
+        "url": "https://www.animegg.org/macademi-wasshoi-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/22312",
+        "dub": null,
+        "url": "https://www.animegg.org/macademi-wasshoi-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/22313",
+        "dub": null,
+        "url": "https://www.animegg.org/macademi-wasshoi-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/22316",
+        "dub": null,
+        "url": "https://www.animegg.org/macademi-wasshoi-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/22319",
+        "dub": null,
+        "url": "https://www.animegg.org/macademi-wasshoi-episode-12"
+      }
+    ]
   }
 ]
