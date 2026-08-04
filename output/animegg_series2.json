@@ -112394,5 +112394,93 @@
         "url": "https://www.animegg.org/tiger-bunny-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 1154,
+    "title": "Koi to Senkyo to Chocolate",
+    "animegg_url": "https://www.animegg.org/series/koi-to-senkyo-to-chocolate",
+    "mal_url": "https://myanimelist.net/anime/12175",
+    "mal_id": 12175,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/20631",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-to-senkyo-to-chocolate-episode-13"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/20623",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-to-senkyo-to-chocolate-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/20621",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-to-senkyo-to-chocolate-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/20622",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-to-senkyo-to-chocolate-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/20625",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-to-senkyo-to-chocolate-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/20624",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-to-senkyo-to-chocolate-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/20626",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-to-senkyo-to-chocolate-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/20627",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-to-senkyo-to-chocolate-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/20628",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-to-senkyo-to-chocolate-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/20629",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-to-senkyo-to-chocolate-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/20630",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-to-senkyo-to-chocolate-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/20632",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-to-senkyo-to-chocolate-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/20633",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-to-senkyo-to-chocolate-episode-12"
+      }
+    ]
   }
 ]
