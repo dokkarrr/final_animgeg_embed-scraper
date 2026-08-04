@@ -117482,5 +117482,21 @@
         "url": "https://www.animegg.org/naruto-shippuuden-movie-7-the-last-episode-1-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 2512,
+    "title": "Boku no Hero Academia the Movie 2: Heroes:Rising",
+    "animegg_url": "https://www.animegg.org/series/boku-no-hero-academia-the-movie-2-heroesrising",
+    "mal_url": "https://myanimelist.net/anime/39565",
+    "mal_id": 39565,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/98900",
+        "dub": null,
+        "url": "https://www.animegg.org/boku-no-hero-academia-the-movie-2-heroesrising-episode-1"
+      }
+    ]
   }
 ]
