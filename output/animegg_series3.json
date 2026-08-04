@@ -122961,5 +122961,93 @@
         "url": "https://www.animegg.org/rio-rainbow-gate-episode-14"
       }
     ]
+  },
+  {
+    "serial_no": 2562,
+    "title": "Lord of Mysteries",
+    "animegg_url": "https://www.animegg.org/series/lord-of-mysteries",
+    "mal_url": "https://myanimelist.net/anime/49818",
+    "mal_id": 49818,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/141484",
+        "dub": "https://www.animegg.org/embed/141894",
+        "url": "https://www.animegg.org/lord-of-mysteries-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/141483",
+        "dub": "https://www.animegg.org/embed/141892",
+        "url": "https://www.animegg.org/lord-of-mysteries-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/141569",
+        "dub": "https://www.animegg.org/embed/142019",
+        "url": "https://www.animegg.org/lord-of-mysteries-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/141678",
+        "dub": "https://www.animegg.org/embed/142136",
+        "url": "https://www.animegg.org/lord-of-mysteries-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/142295",
+        "dub": null,
+        "url": "https://www.animegg.org/lord-of-mysteries-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/141942",
+        "dub": "https://www.animegg.org/embed/142370",
+        "url": "https://www.animegg.org/lord-of-mysteries-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/142023",
+        "dub": "https://www.animegg.org/embed/142418",
+        "url": "https://www.animegg.org/lord-of-mysteries-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/142143",
+        "dub": "https://www.animegg.org/embed/142472",
+        "url": "https://www.animegg.org/lord-of-mysteries-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/142262",
+        "dub": "https://www.animegg.org/embed/142509",
+        "url": "https://www.animegg.org/lord-of-mysteries-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/142387",
+        "dub": "https://www.animegg.org/embed/142632",
+        "url": "https://www.animegg.org/lord-of-mysteries-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/142711",
+        "dub": null,
+        "url": "https://www.animegg.org/lord-of-mysteries-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/142799",
+        "dub": null,
+        "url": "https://www.animegg.org/lord-of-mysteries-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/142532",
+        "dub": "https://www.animegg.org/embed/142834",
+        "url": "https://www.animegg.org/lord-of-mysteries-episode-13"
+      }
+    ]
   }
 ]
