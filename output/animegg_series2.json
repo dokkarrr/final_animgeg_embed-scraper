@@ -117538,5 +117538,21 @@
         "url": "https://www.animegg.org/agatha-christie-no-meitantei-poirot-to-marple-episode-39"
       }
     ]
+  },
+  {
+    "serial_no": 1186,
+    "title": "Black Clover",
+    "animegg_url": "https://www.animegg.org/series/black-clover",
+    "mal_url": "https://myanimelist.net/anime/34572",
+    "mal_id": 34572,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/86896",
+        "dub": null,
+        "url": "https://www.animegg.org/black-clover-episode-1"
+      }
+    ]
   }
 ]
