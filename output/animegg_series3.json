@@ -97508,5 +97508,99 @@
         "url": "https://www.animegg.org/souryo-to-majiwaru-shikiyoku-no-yoru-ni-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2305,
+    "title": "Sora No Woto",
+    "animegg_url": "https://www.animegg.org/series/sora-no-woto",
+    "mal_url": "https://myanimelist.net/anime/6802",
+    "mal_id": 6802,
+    "total_ep": 14,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/35867",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-no-woto-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/35864",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-no-woto-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/35866",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-no-woto-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/35865",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-no-woto-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/35863",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-no-woto-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/35868",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-no-woto-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/35869",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-no-woto-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/35871",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-no-woto-episode-8"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/35875",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-no-woto-episode-0"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/35870",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-no-woto-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/35872",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-no-woto-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/35873",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-no-woto-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/35874",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-no-woto-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/35876",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-no-woto-episode-13"
+      }
+    ]
   }
 ]
