@@ -61630,5 +61630,51 @@
         "url": "https://www.animegg.org/aku-no-hana-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 1995,
+    "title": "Chu Feng: B.E.E",
+    "animegg_url": "https://www.animegg.org/series/chu-feng-bee",
+    "mal_url": "https://myanimelist.net/anime/29876",
+    "mal_id": 29876,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/78692",
+        "dub": null,
+        "url": "https://www.animegg.org/chu-feng-bee-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/79018",
+        "dub": null,
+        "url": "https://www.animegg.org/chu-feng-bee-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/79564",
+        "dub": null,
+        "url": "https://www.animegg.org/chu-feng-bee-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/80343",
+        "dub": null,
+        "url": "https://www.animegg.org/chu-feng-bee-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/80485",
+        "dub": null,
+        "url": "https://www.animegg.org/chu-feng-bee-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/82443",
+        "dub": null,
+        "url": "https://www.animegg.org/chu-feng-bee-episode-6"
+      }
+    ]
   }
 ]
