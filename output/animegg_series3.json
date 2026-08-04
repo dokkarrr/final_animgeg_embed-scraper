@@ -94302,5 +94302,93 @@
         "url": "https://www.animegg.org/yagate-kimi-ni-naru-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2273,
+    "title": "Bottle Fairy",
+    "animegg_url": "https://www.animegg.org/series/bottle-fairy",
+    "mal_url": "https://myanimelist.net/anime/348",
+    "mal_id": 348,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/4615",
+        "dub": "https://www.animegg.org/embed/4616",
+        "url": "https://www.animegg.org/bottle-fairy-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/4621",
+        "dub": "https://www.animegg.org/embed/4622",
+        "url": "https://www.animegg.org/bottle-fairy-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/4619",
+        "dub": "https://www.animegg.org/embed/4620",
+        "url": "https://www.animegg.org/bottle-fairy-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/4617",
+        "dub": "https://www.animegg.org/embed/4618",
+        "url": "https://www.animegg.org/bottle-fairy-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/4613",
+        "dub": "https://www.animegg.org/embed/4614",
+        "url": "https://www.animegg.org/bottle-fairy-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/4627",
+        "dub": "https://www.animegg.org/embed/4628",
+        "url": "https://www.animegg.org/bottle-fairy-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/4623",
+        "dub": "https://www.animegg.org/embed/4624",
+        "url": "https://www.animegg.org/bottle-fairy-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/4625",
+        "dub": "https://www.animegg.org/embed/4626",
+        "url": "https://www.animegg.org/bottle-fairy-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/4629",
+        "dub": "https://www.animegg.org/embed/4630",
+        "url": "https://www.animegg.org/bottle-fairy-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/4631",
+        "dub": "https://www.animegg.org/embed/4632",
+        "url": "https://www.animegg.org/bottle-fairy-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/4633",
+        "dub": "https://www.animegg.org/embed/4634",
+        "url": "https://www.animegg.org/bottle-fairy-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/4635",
+        "dub": "https://www.animegg.org/embed/4636",
+        "url": "https://www.animegg.org/bottle-fairy-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/4637",
+        "dub": "https://www.animegg.org/embed/4638",
+        "url": "https://www.animegg.org/bottle-fairy-episode-13"
+      }
+    ]
   }
 ]
