@@ -56898,5 +56898,93 @@
         "url": "https://www.animegg.org/red-garden-episode-22"
       }
     ]
+  },
+  {
+    "serial_no": 1946,
+    "title": "Space☆Dandy",
+    "animegg_url": "https://www.animegg.org/series/space-dandy",
+    "mal_url": "https://myanimelist.net/anime/20057",
+    "mal_id": 20057,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/62193",
+        "dub": "https://www.animegg.org/embed/62194",
+        "url": "https://www.animegg.org/space-dandy-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/62195",
+        "dub": "https://www.animegg.org/embed/62196",
+        "url": "https://www.animegg.org/space-dandy-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/62197",
+        "dub": "https://www.animegg.org/embed/62198",
+        "url": "https://www.animegg.org/space-dandy-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/62199",
+        "dub": "https://www.animegg.org/embed/62200",
+        "url": "https://www.animegg.org/space-dandy-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/62201",
+        "dub": "https://www.animegg.org/embed/62202",
+        "url": "https://www.animegg.org/space-dandy-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/62203",
+        "dub": "https://www.animegg.org/embed/62204",
+        "url": "https://www.animegg.org/space-dandy-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/62205",
+        "dub": "https://www.animegg.org/embed/62206",
+        "url": "https://www.animegg.org/space-dandy-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/62207",
+        "dub": "https://www.animegg.org/embed/62208",
+        "url": "https://www.animegg.org/space-dandy-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/62209",
+        "dub": "https://www.animegg.org/embed/62210",
+        "url": "https://www.animegg.org/space-dandy-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/62211",
+        "dub": "https://www.animegg.org/embed/62212",
+        "url": "https://www.animegg.org/space-dandy-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/62213",
+        "dub": "https://www.animegg.org/embed/62214",
+        "url": "https://www.animegg.org/space-dandy-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/62215",
+        "dub": "https://www.animegg.org/embed/62216",
+        "url": "https://www.animegg.org/space-dandy-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/62217",
+        "dub": "https://www.animegg.org/embed/62218",
+        "url": "https://www.animegg.org/space-dandy-episode-13"
+      }
+    ]
   }
 ]
