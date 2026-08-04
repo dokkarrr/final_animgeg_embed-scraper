@@ -96038,5 +96038,81 @@
         "url": "https://www.animegg.org/katsugekitouken-ranbu-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2290,
+    "title": "Moyashimon",
+    "animegg_url": "https://www.animegg.org/series/moyashimon",
+    "mal_url": "https://myanimelist.net/anime/3001",
+    "mal_id": 3001,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/24712",
+        "dub": null,
+        "url": "https://www.animegg.org/moyashimon-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/24709",
+        "dub": null,
+        "url": "https://www.animegg.org/moyashimon-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/24708",
+        "dub": null,
+        "url": "https://www.animegg.org/moyashimon-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/24710",
+        "dub": null,
+        "url": "https://www.animegg.org/moyashimon-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/24711",
+        "dub": null,
+        "url": "https://www.animegg.org/moyashimon-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/24713",
+        "dub": null,
+        "url": "https://www.animegg.org/moyashimon-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/24714",
+        "dub": null,
+        "url": "https://www.animegg.org/moyashimon-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/24716",
+        "dub": null,
+        "url": "https://www.animegg.org/moyashimon-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/24715",
+        "dub": null,
+        "url": "https://www.animegg.org/moyashimon-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/24717",
+        "dub": null,
+        "url": "https://www.animegg.org/moyashimon-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/24718",
+        "dub": null,
+        "url": "https://www.animegg.org/moyashimon-episode-11"
+      }
+    ]
   }
 ]
