@@ -16960,5 +16960,87 @@
         "url": "https://www.animegg.org/kowabon-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 1659,
+    "title": "Ijiranaide, Nagatoro-san",
+    "animegg_url": "https://www.animegg.org/series/ijiranaide-nagatoro-san",
+    "mal_url": "https://myanimelist.net/anime/42361",
+    "mal_id": 42361,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/101394",
+        "dub": null,
+        "url": "https://www.animegg.org/ijiranaide-nagatoro-san-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/101460",
+        "dub": null,
+        "url": "https://www.animegg.org/ijiranaide-nagatoro-san-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/101520",
+        "dub": null,
+        "url": "https://www.animegg.org/ijiranaide-nagatoro-san-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/101586",
+        "dub": null,
+        "url": "https://www.animegg.org/ijiranaide-nagatoro-san-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/101650",
+        "dub": null,
+        "url": "https://www.animegg.org/ijiranaide-nagatoro-san-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/101715",
+        "dub": null,
+        "url": "https://www.animegg.org/ijiranaide-nagatoro-san-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/101789",
+        "dub": null,
+        "url": "https://www.animegg.org/ijiranaide-nagatoro-san-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/101859",
+        "dub": null,
+        "url": "https://www.animegg.org/ijiranaide-nagatoro-san-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/101936",
+        "dub": null,
+        "url": "https://www.animegg.org/ijiranaide-nagatoro-san-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/102003",
+        "dub": null,
+        "url": "https://www.animegg.org/ijiranaide-nagatoro-san-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/102083",
+        "dub": null,
+        "url": "https://www.animegg.org/ijiranaide-nagatoro-san-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/102142",
+        "dub": null,
+        "url": "https://www.animegg.org/ijiranaide-nagatoro-san-episode-12"
+      }
+    ]
   }
 ]
