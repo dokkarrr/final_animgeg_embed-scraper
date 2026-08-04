@@ -65874,5 +65874,87 @@
         "url": "https://www.animegg.org/princess-princess-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2033,
+    "title": "UN-GO",
+    "animegg_url": "https://www.animegg.org/series/un-go",
+    "mal_url": "https://myanimelist.net/anime/10798",
+    "mal_id": 10798,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/39518",
+        "dub": null,
+        "url": "https://www.animegg.org/un-go-episode-0"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/39511",
+        "dub": "https://www.animegg.org/embed/69581",
+        "url": "https://www.animegg.org/un-go-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/39510",
+        "dub": "https://www.animegg.org/embed/69583",
+        "url": "https://www.animegg.org/un-go-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/39509",
+        "dub": "https://www.animegg.org/embed/69585",
+        "url": "https://www.animegg.org/un-go-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/39507",
+        "dub": "https://www.animegg.org/embed/69586",
+        "url": "https://www.animegg.org/un-go-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/39508",
+        "dub": "https://www.animegg.org/embed/69594",
+        "url": "https://www.animegg.org/un-go-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/39512",
+        "dub": "https://www.animegg.org/embed/69595",
+        "url": "https://www.animegg.org/un-go-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/39513",
+        "dub": "https://www.animegg.org/embed/69598",
+        "url": "https://www.animegg.org/un-go-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/39515",
+        "dub": "https://www.animegg.org/embed/69599",
+        "url": "https://www.animegg.org/un-go-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/39514",
+        "dub": "https://www.animegg.org/embed/69600",
+        "url": "https://www.animegg.org/un-go-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/39516",
+        "dub": "https://www.animegg.org/embed/69601",
+        "url": "https://www.animegg.org/un-go-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/39517",
+        "dub": "https://www.animegg.org/embed/69602",
+        "url": "https://www.animegg.org/un-go-episode-11"
+      }
+    ]
   }
 ]
