@@ -101596,5 +101596,99 @@
         "url": "https://www.animegg.org/osake-wa-fuufu-ni-natte-kara-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2346,
+    "title": "Angel Tales",
+    "animegg_url": "https://www.animegg.org/series/angel-tales",
+    "mal_url": "https://myanimelist.net/anime/682",
+    "mal_id": 682,
+    "total_ep": 14,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/65275",
+        "dub": "https://www.animegg.org/embed/65276",
+        "url": "https://www.animegg.org/angel-tales-episode-14"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/65249",
+        "dub": "https://www.animegg.org/embed/65250",
+        "url": "https://www.animegg.org/angel-tales-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/65251",
+        "dub": "https://www.animegg.org/embed/65252",
+        "url": "https://www.animegg.org/angel-tales-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/65253",
+        "dub": "https://www.animegg.org/embed/65254",
+        "url": "https://www.animegg.org/angel-tales-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/65255",
+        "dub": "https://www.animegg.org/embed/65256",
+        "url": "https://www.animegg.org/angel-tales-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/65257",
+        "dub": "https://www.animegg.org/embed/65258",
+        "url": "https://www.animegg.org/angel-tales-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/65259",
+        "dub": "https://www.animegg.org/embed/65260",
+        "url": "https://www.animegg.org/angel-tales-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/65261",
+        "dub": "https://www.animegg.org/embed/65262",
+        "url": "https://www.animegg.org/angel-tales-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/65263",
+        "dub": "https://www.animegg.org/embed/65264",
+        "url": "https://www.animegg.org/angel-tales-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/65265",
+        "dub": "https://www.animegg.org/embed/65266",
+        "url": "https://www.animegg.org/angel-tales-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/65267",
+        "dub": "https://www.animegg.org/embed/65268",
+        "url": "https://www.animegg.org/angel-tales-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/65269",
+        "dub": "https://www.animegg.org/embed/65270",
+        "url": "https://www.animegg.org/angel-tales-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/65271",
+        "dub": "https://www.animegg.org/embed/65272",
+        "url": "https://www.animegg.org/angel-tales-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/65273",
+        "dub": "https://www.animegg.org/embed/65274",
+        "url": "https://www.animegg.org/angel-tales-episode-13"
+      }
+    ]
   }
 ]
