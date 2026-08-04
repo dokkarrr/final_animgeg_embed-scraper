@@ -70582,5 +70582,51 @@
         "url": "https://www.animegg.org/mawaru-penguindrum-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 910,
+    "title": "Highschool DxD BorN Specials",
+    "animegg_url": "https://www.animegg.org/series/highschool-dxd-born-specials",
+    "mal_url": "https://myanimelist.net/anime/11617",
+    "mal_id": 11617,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/78135",
+        "dub": "https://www.animegg.org/embed/78402",
+        "url": "https://www.animegg.org/highschool-dxd-born-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/79858",
+        "dub": null,
+        "url": "https://www.animegg.org/highschool-dxd-born-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/79859",
+        "dub": null,
+        "url": "https://www.animegg.org/highschool-dxd-born-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/80060",
+        "dub": "https://www.animegg.org/embed/80162",
+        "url": "https://www.animegg.org/highschool-dxd-born-specials-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/81011",
+        "dub": null,
+        "url": "https://www.animegg.org/highschool-dxd-born-specials-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/81196",
+        "dub": "https://www.animegg.org/embed/81251",
+        "url": "https://www.animegg.org/highschool-dxd-born-specials-episode-6"
+      }
+    ]
   }
 ]
