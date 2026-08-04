@@ -85844,5 +85844,87 @@
         "url": "https://www.animegg.org/mahou-shoujo-ikusei-keikaku-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2197,
+    "title": "Loveless",
+    "animegg_url": "https://www.animegg.org/series/loveless",
+    "mal_url": "https://myanimelist.net/anime/149",
+    "mal_id": 149,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/21961",
+        "dub": "https://www.animegg.org/embed/71636",
+        "url": "https://www.animegg.org/loveless-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/21958",
+        "dub": "https://www.animegg.org/embed/71638",
+        "url": "https://www.animegg.org/loveless-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/21960",
+        "dub": "https://www.animegg.org/embed/71641",
+        "url": "https://www.animegg.org/loveless-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/21959",
+        "dub": "https://www.animegg.org/embed/71643",
+        "url": "https://www.animegg.org/loveless-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/21966",
+        "dub": "https://www.animegg.org/embed/71644",
+        "url": "https://www.animegg.org/loveless-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/21962",
+        "dub": "https://www.animegg.org/embed/71647",
+        "url": "https://www.animegg.org/loveless-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/21963",
+        "dub": "https://www.animegg.org/embed/71649",
+        "url": "https://www.animegg.org/loveless-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/21964",
+        "dub": "https://www.animegg.org/embed/71652",
+        "url": "https://www.animegg.org/loveless-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/21965",
+        "dub": "https://www.animegg.org/embed/71655",
+        "url": "https://www.animegg.org/loveless-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/21967",
+        "dub": "https://www.animegg.org/embed/71658",
+        "url": "https://www.animegg.org/loveless-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/21968",
+        "dub": "https://www.animegg.org/embed/71659",
+        "url": "https://www.animegg.org/loveless-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/21969",
+        "dub": "https://www.animegg.org/embed/71661",
+        "url": "https://www.animegg.org/loveless-episode-12"
+      }
+    ]
   }
 ]
