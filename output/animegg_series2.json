@@ -38970,5 +38970,87 @@
         "url": "https://www.animegg.org/mushishi-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 732,
+    "title": "Hidan no Aria",
+    "animegg_url": "https://www.animegg.org/series/hidan-no-aria",
+    "mal_url": "https://myanimelist.net/anime/8630",
+    "mal_id": 8630,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/16046",
+        "dub": "https://www.animegg.org/embed/16047",
+        "url": "https://www.animegg.org/hidan-no-aria-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/16044",
+        "dub": null,
+        "url": "https://www.animegg.org/hidan-no-aria-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/16038",
+        "dub": "https://www.animegg.org/embed/16039",
+        "url": "https://www.animegg.org/hidan-no-aria-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/16042",
+        "dub": "https://www.animegg.org/embed/16043",
+        "url": "https://www.animegg.org/hidan-no-aria-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/16040",
+        "dub": "https://www.animegg.org/embed/16041",
+        "url": "https://www.animegg.org/hidan-no-aria-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/16048",
+        "dub": "https://www.animegg.org/embed/16049",
+        "url": "https://www.animegg.org/hidan-no-aria-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/16054",
+        "dub": "https://www.animegg.org/embed/16055",
+        "url": "https://www.animegg.org/hidan-no-aria-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/16050",
+        "dub": "https://www.animegg.org/embed/16051",
+        "url": "https://www.animegg.org/hidan-no-aria-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/16052",
+        "dub": "https://www.animegg.org/embed/16053",
+        "url": "https://www.animegg.org/hidan-no-aria-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/16056",
+        "dub": "https://www.animegg.org/embed/16057",
+        "url": "https://www.animegg.org/hidan-no-aria-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/16058",
+        "dub": "https://www.animegg.org/embed/16059",
+        "url": "https://www.animegg.org/hidan-no-aria-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/16060",
+        "dub": "https://www.animegg.org/embed/16061",
+        "url": "https://www.animegg.org/hidan-no-aria-episode-12"
+      }
+    ]
   }
 ]
