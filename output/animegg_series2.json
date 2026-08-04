@@ -134888,5 +134888,87 @@
         "url": "https://www.animegg.org/ghost-sweeper-mikami-episode-45"
       }
     ]
+  },
+  {
+    "serial_no": 1295,
+    "title": "A Channel",
+    "animegg_url": "https://www.animegg.org/series/a-channel",
+    "mal_url": "https://myanimelist.net/anime/9776",
+    "mal_id": 9776,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/178",
+        "dub": null,
+        "url": "https://www.animegg.org/a-channel-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/177",
+        "dub": null,
+        "url": "https://www.animegg.org/a-channel-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/176",
+        "dub": null,
+        "url": "https://www.animegg.org/a-channel-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/175",
+        "dub": null,
+        "url": "https://www.animegg.org/a-channel-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/174",
+        "dub": null,
+        "url": "https://www.animegg.org/a-channel-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/180",
+        "dub": null,
+        "url": "https://www.animegg.org/a-channel-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/179",
+        "dub": null,
+        "url": "https://www.animegg.org/a-channel-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/181",
+        "dub": null,
+        "url": "https://www.animegg.org/a-channel-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/182",
+        "dub": null,
+        "url": "https://www.animegg.org/a-channel-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/183",
+        "dub": null,
+        "url": "https://www.animegg.org/a-channel-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/184",
+        "dub": null,
+        "url": "https://www.animegg.org/a-channel-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/185",
+        "dub": null,
+        "url": "https://www.animegg.org/a-channel-episode-12"
+      }
+    ]
   }
 ]
