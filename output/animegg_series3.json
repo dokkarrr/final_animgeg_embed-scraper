@@ -23636,5 +23636,87 @@
         "url": "https://www.animegg.org/psychic-detective-yakumo-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 1699,
+    "title": "Hitorijime My Hero",
+    "animegg_url": "https://www.animegg.org/series/hitorijime-my-hero",
+    "mal_url": "https://myanimelist.net/anime/33654",
+    "mal_id": 33654,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/87535",
+        "dub": null,
+        "url": "https://www.animegg.org/hitorijime-my-hero-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/87601",
+        "dub": null,
+        "url": "https://www.animegg.org/hitorijime-my-hero-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/87691",
+        "dub": null,
+        "url": "https://www.animegg.org/hitorijime-my-hero-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/87744",
+        "dub": null,
+        "url": "https://www.animegg.org/hitorijime-my-hero-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/87836",
+        "dub": null,
+        "url": "https://www.animegg.org/hitorijime-my-hero-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/87907",
+        "dub": null,
+        "url": "https://www.animegg.org/hitorijime-my-hero-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/88011",
+        "dub": null,
+        "url": "https://www.animegg.org/hitorijime-my-hero-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/88083",
+        "dub": null,
+        "url": "https://www.animegg.org/hitorijime-my-hero-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/88147",
+        "dub": null,
+        "url": "https://www.animegg.org/hitorijime-my-hero-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/88229",
+        "dub": null,
+        "url": "https://www.animegg.org/hitorijime-my-hero-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/88307",
+        "dub": null,
+        "url": "https://www.animegg.org/hitorijime-my-hero-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/88429",
+        "dub": null,
+        "url": "https://www.animegg.org/hitorijime-my-hero-episode-12"
+      }
+    ]
   }
 ]
