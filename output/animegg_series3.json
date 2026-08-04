@@ -61290,5 +61290,87 @@
         "url": "https://www.animegg.org/blue-drop-tenshi-tachi-no-gikyoku-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 1991,
+    "title": "Just Because!",
+    "animegg_url": "https://www.animegg.org/series/just-because",
+    "mal_url": "https://myanimelist.net/anime/35639",
+    "mal_id": 35639,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/88518",
+        "dub": "https://www.animegg.org/embed/88524",
+        "url": "https://www.animegg.org/just-because-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/88635",
+        "dub": null,
+        "url": "https://www.animegg.org/just-because-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/88715",
+        "dub": null,
+        "url": "https://www.animegg.org/just-because-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/88803",
+        "dub": null,
+        "url": "https://www.animegg.org/just-because-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/88891",
+        "dub": null,
+        "url": "https://www.animegg.org/just-because-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/88978",
+        "dub": null,
+        "url": "https://www.animegg.org/just-because-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/89142",
+        "dub": null,
+        "url": "https://www.animegg.org/just-because-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/89219",
+        "dub": null,
+        "url": "https://www.animegg.org/just-because-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/89299",
+        "dub": null,
+        "url": "https://www.animegg.org/just-because-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/89380",
+        "dub": null,
+        "url": "https://www.animegg.org/just-because-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/89456",
+        "dub": null,
+        "url": "https://www.animegg.org/just-because-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/89526",
+        "dub": null,
+        "url": "https://www.animegg.org/just-because-episode-12"
+      }
+    ]
   }
 ]
