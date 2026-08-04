@@ -109998,5 +109998,87 @@
         "url": "https://www.animegg.org/ad-police-to-protect-and-serve-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2432,
+    "title": "Tamayura: Hitotose",
+    "animegg_url": "https://www.animegg.org/series/tamayura-hitotose",
+    "mal_url": "https://myanimelist.net/anime/10232",
+    "mal_id": 10232,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/37132",
+        "dub": null,
+        "url": "https://www.animegg.org/tamayura-hitotose-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/37131",
+        "dub": null,
+        "url": "https://www.animegg.org/tamayura-hitotose-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/37129",
+        "dub": null,
+        "url": "https://www.animegg.org/tamayura-hitotose-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/37130",
+        "dub": null,
+        "url": "https://www.animegg.org/tamayura-hitotose-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/37140",
+        "dub": null,
+        "url": "https://www.animegg.org/tamayura-hitotose-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/37136",
+        "dub": null,
+        "url": "https://www.animegg.org/tamayura-hitotose-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/37134",
+        "dub": null,
+        "url": "https://www.animegg.org/tamayura-hitotose-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/37133",
+        "dub": null,
+        "url": "https://www.animegg.org/tamayura-hitotose-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/37135",
+        "dub": null,
+        "url": "https://www.animegg.org/tamayura-hitotose-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/37137",
+        "dub": null,
+        "url": "https://www.animegg.org/tamayura-hitotose-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/37138",
+        "dub": null,
+        "url": "https://www.animegg.org/tamayura-hitotose-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/37139",
+        "dub": null,
+        "url": "https://www.animegg.org/tamayura-hitotose-episode-12"
+      }
+    ]
   }
 ]
