@@ -24522,5 +24522,93 @@
         "url": "https://www.animegg.org/bakumatsu-kikansetsu-irohanihoheto-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 648,
+    "title": "Elfen Lied",
+    "animegg_url": "https://www.animegg.org/series/elfen-lied",
+    "mal_url": "https://myanimelist.net/anime/226",
+    "mal_id": 226,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/9961",
+        "dub": "https://www.animegg.org/embed/9962",
+        "url": "https://www.animegg.org/elfen-lied-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/9955",
+        "dub": "https://www.animegg.org/embed/9956",
+        "url": "https://www.animegg.org/elfen-lied-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/9953",
+        "dub": "https://www.animegg.org/embed/9954",
+        "url": "https://www.animegg.org/elfen-lied-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/9959",
+        "dub": "https://www.animegg.org/embed/9960",
+        "url": "https://www.animegg.org/elfen-lied-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/9957",
+        "dub": "https://www.animegg.org/embed/9958",
+        "url": "https://www.animegg.org/elfen-lied-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/9963",
+        "dub": "https://www.animegg.org/embed/9964",
+        "url": "https://www.animegg.org/elfen-lied-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/9965",
+        "dub": "https://www.animegg.org/embed/9966",
+        "url": "https://www.animegg.org/elfen-lied-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/9967",
+        "dub": "https://www.animegg.org/embed/9968",
+        "url": "https://www.animegg.org/elfen-lied-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/9969",
+        "dub": "https://www.animegg.org/embed/9970",
+        "url": "https://www.animegg.org/elfen-lied-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/9971",
+        "dub": "https://www.animegg.org/embed/9972",
+        "url": "https://www.animegg.org/elfen-lied-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/9973",
+        "dub": "https://www.animegg.org/embed/9974",
+        "url": "https://www.animegg.org/elfen-lied-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/9975",
+        "dub": "https://www.animegg.org/embed/9976",
+        "url": "https://www.animegg.org/elfen-lied-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/9977",
+        "dub": "https://www.animegg.org/embed/9978",
+        "url": "https://www.animegg.org/elfen-lied-episode-13"
+      }
+    ]
   }
 ]
