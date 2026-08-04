@@ -49862,5 +49862,27 @@
         "url": "https://www.animegg.org/black-cat-episode-23"
       }
     ]
+  },
+  {
+    "serial_no": 788,
+    "title": "Aki-Sora: Yume no Naka",
+    "animegg_url": "https://www.animegg.org/series/aki-sora-yume-no-naka",
+    "mal_url": "https://myanimelist.net/anime/8577",
+    "mal_id": 8577,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/46733",
+        "dub": null,
+        "url": "https://www.animegg.org/aki-sora-yume-no-naka-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/46734",
+        "dub": null,
+        "url": "https://www.animegg.org/aki-sora-yume-no-naka-episode-2"
+      }
+    ]
   }
 ]
