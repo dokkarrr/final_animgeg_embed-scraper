@@ -117662,5 +117662,51 @@
         "url": "https://www.animegg.org/pupa-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2515,
+    "title": "Hagure Yuusha no Estetica: Hajirai Ippai",
+    "animegg_url": "https://www.animegg.org/series/hagure-yuusha-no-estetica-hajirai-ippai",
+    "mal_url": "https://myanimelist.net/anime/13161",
+    "mal_id": 13161,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/14825",
+        "dub": null,
+        "url": "https://www.animegg.org/hagure-yuusha-no-estetica-hajirai-ippai-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/14823",
+        "dub": null,
+        "url": "https://www.animegg.org/hagure-yuusha-no-estetica-hajirai-ippai-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/14824",
+        "dub": null,
+        "url": "https://www.animegg.org/hagure-yuusha-no-estetica-hajirai-ippai-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/14827",
+        "dub": null,
+        "url": "https://www.animegg.org/hagure-yuusha-no-estetica-hajirai-ippai-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/14826",
+        "dub": null,
+        "url": "https://www.animegg.org/hagure-yuusha-no-estetica-hajirai-ippai-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/14828",
+        "dub": null,
+        "url": "https://www.animegg.org/hagure-yuusha-no-estetica-hajirai-ippai-episode-6"
+      }
+    ]
   }
 ]
