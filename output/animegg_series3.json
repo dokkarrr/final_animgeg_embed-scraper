@@ -37444,5 +37444,87 @@
         "url": "https://www.animegg.org/flcl-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 1800,
+    "title": "Dorohedoro",
+    "animegg_url": "https://www.animegg.org/series/dorohedoro",
+    "mal_url": "https://myanimelist.net/anime/38668",
+    "mal_id": 38668,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/97526",
+        "dub": null,
+        "url": "https://www.animegg.org/dorohedoro-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/97591",
+        "dub": null,
+        "url": "https://www.animegg.org/dorohedoro-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/97652",
+        "dub": null,
+        "url": "https://www.animegg.org/dorohedoro-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/97720",
+        "dub": null,
+        "url": "https://www.animegg.org/dorohedoro-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/97793",
+        "dub": null,
+        "url": "https://www.animegg.org/dorohedoro-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/97848",
+        "dub": null,
+        "url": "https://www.animegg.org/dorohedoro-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/97901",
+        "dub": null,
+        "url": "https://www.animegg.org/dorohedoro-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/97958",
+        "dub": null,
+        "url": "https://www.animegg.org/dorohedoro-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/98021",
+        "dub": null,
+        "url": "https://www.animegg.org/dorohedoro-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/98086",
+        "dub": null,
+        "url": "https://www.animegg.org/dorohedoro-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/98141",
+        "dub": null,
+        "url": "https://www.animegg.org/dorohedoro-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/98203",
+        "dub": null,
+        "url": "https://www.animegg.org/dorohedoro-episode-12"
+      }
+    ]
   }
 ]
