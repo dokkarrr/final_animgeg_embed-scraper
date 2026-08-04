@@ -7742,5 +7742,75 @@
         "url": "https://www.animegg.org/tsuki-ga-kirei-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1594,
+    "title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω",
+    "animegg_url": "https://www.animegg.org/series/isekai-maou-to-shoukan-shoujo-no-dorei-majutsu-omega",
+    "mal_url": "https://myanimelist.net/anime/41623",
+    "mal_id": 41623,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/101400",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-maou-to-shoukan-shoujo-no-dorei-majutsu-omega-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/101438",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-maou-to-shoukan-shoujo-no-dorei-majutsu-omega-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/135507",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-maou-to-shoukan-shoujo-no-dorei-majutsu-omega-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/101566",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-maou-to-shoukan-shoujo-no-dorei-majutsu-omega-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/101629",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-maou-to-shoukan-shoujo-no-dorei-majutsu-omega-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/101695",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-maou-to-shoukan-shoujo-no-dorei-majutsu-omega-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/101772",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-maou-to-shoukan-shoujo-no-dorei-majutsu-omega-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/101837",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-maou-to-shoukan-shoujo-no-dorei-majutsu-omega-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/101915",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-maou-to-shoukan-shoujo-no-dorei-majutsu-omega-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/101981",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-maou-to-shoukan-shoujo-no-dorei-majutsu-omega-episode-10"
+      }
+    ]
   }
 ]
