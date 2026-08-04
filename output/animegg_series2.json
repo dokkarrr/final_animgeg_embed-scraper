@@ -99328,5 +99328,21 @@
         "url": "https://www.animegg.org/sailor-moon-sailor-stars-episode-34"
       }
     ]
+  },
+  {
+    "serial_no": 1075,
+    "title": "Kagaku na Yatsura",
+    "animegg_url": "https://www.animegg.org/series/kagaku-na-yatsura",
+    "mal_url": "https://myanimelist.net/anime/15391",
+    "mal_id": 15391,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/18884",
+        "dub": null,
+        "url": "https://www.animegg.org/kagaku-na-yatsura-episode-1"
+      }
+    ]
   }
 ]
