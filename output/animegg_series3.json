@@ -118206,5 +118206,87 @@
         "url": "https://www.animegg.org/idinvaded-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2522,
+    "title": "Sewayaki Kitsune no Senko-san",
+    "animegg_url": "https://www.animegg.org/series/sewayaki-kitsune-no-senko-san",
+    "mal_url": "https://myanimelist.net/anime/38759",
+    "mal_id": 38759,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/95054",
+        "dub": null,
+        "url": "https://www.animegg.org/sewayaki-kitsune-no-senko-san-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/95113",
+        "dub": null,
+        "url": "https://www.animegg.org/sewayaki-kitsune-no-senko-san-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/95177",
+        "dub": null,
+        "url": "https://www.animegg.org/sewayaki-kitsune-no-senko-san-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/95240",
+        "dub": null,
+        "url": "https://www.animegg.org/sewayaki-kitsune-no-senko-san-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/95301",
+        "dub": null,
+        "url": "https://www.animegg.org/sewayaki-kitsune-no-senko-san-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/95362",
+        "dub": null,
+        "url": "https://www.animegg.org/sewayaki-kitsune-no-senko-san-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/95422",
+        "dub": null,
+        "url": "https://www.animegg.org/sewayaki-kitsune-no-senko-san-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/95490",
+        "dub": null,
+        "url": "https://www.animegg.org/sewayaki-kitsune-no-senko-san-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/95551",
+        "dub": null,
+        "url": "https://www.animegg.org/sewayaki-kitsune-no-senko-san-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/95624",
+        "dub": null,
+        "url": "https://www.animegg.org/sewayaki-kitsune-no-senko-san-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/95692",
+        "dub": null,
+        "url": "https://www.animegg.org/sewayaki-kitsune-no-senko-san-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/95750",
+        "dub": null,
+        "url": "https://www.animegg.org/sewayaki-kitsune-no-senko-san-episode-12"
+      }
+    ]
   }
 ]
