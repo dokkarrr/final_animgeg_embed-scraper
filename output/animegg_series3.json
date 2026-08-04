@@ -89380,5 +89380,45 @@
         "url": "https://www.animegg.org/battery-episode-11"
       }
     ]
+  },
+  {
+    "serial_no": 2232,
+    "title": "Afro Samurai",
+    "animegg_url": "https://www.animegg.org/series/afro-samurai",
+    "mal_url": "https://myanimelist.net/anime/1292",
+    "mal_id": 1292,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/412",
+        "dub": "https://www.animegg.org/embed/109433",
+        "url": "https://www.animegg.org/afro-samurai-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/411",
+        "dub": "https://www.animegg.org/embed/109434",
+        "url": "https://www.animegg.org/afro-samurai-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/409",
+        "dub": "https://www.animegg.org/embed/109435",
+        "url": "https://www.animegg.org/afro-samurai-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/408",
+        "dub": "https://www.animegg.org/embed/109436",
+        "url": "https://www.animegg.org/afro-samurai-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/410",
+        "dub": "https://www.animegg.org/embed/109437",
+        "url": "https://www.animegg.org/afro-samurai-episode-5"
+      }
+    ]
   }
 ]
