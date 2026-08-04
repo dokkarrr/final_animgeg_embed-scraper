@@ -104522,5 +104522,87 @@
         "url": "https://www.animegg.org/irozuku-sekai-no-ashita-kara-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2377,
+    "title": "Bakumatsu Rock",
+    "animegg_url": "https://www.animegg.org/series/bakumatsu-rock",
+    "mal_url": "https://myanimelist.net/anime/23037",
+    "mal_id": 23037,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/45636",
+        "dub": null,
+        "url": "https://www.animegg.org/bakumatsu-rock-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/45637",
+        "dub": null,
+        "url": "https://www.animegg.org/bakumatsu-rock-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/45638",
+        "dub": null,
+        "url": "https://www.animegg.org/bakumatsu-rock-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/45639",
+        "dub": null,
+        "url": "https://www.animegg.org/bakumatsu-rock-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/45640",
+        "dub": null,
+        "url": "https://www.animegg.org/bakumatsu-rock-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/45641",
+        "dub": null,
+        "url": "https://www.animegg.org/bakumatsu-rock-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/45642",
+        "dub": null,
+        "url": "https://www.animegg.org/bakumatsu-rock-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/45643",
+        "dub": null,
+        "url": "https://www.animegg.org/bakumatsu-rock-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/45644",
+        "dub": null,
+        "url": "https://www.animegg.org/bakumatsu-rock-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/45645",
+        "dub": null,
+        "url": "https://www.animegg.org/bakumatsu-rock-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/45646",
+        "dub": null,
+        "url": "https://www.animegg.org/bakumatsu-rock-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/45647",
+        "dub": null,
+        "url": "https://www.animegg.org/bakumatsu-rock-episode-12"
+      }
+    ]
   }
 ]
