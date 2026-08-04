@@ -82786,5 +82786,93 @@
         "url": "https://www.animegg.org/karasu-tengu-kabuto-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 2169,
+    "title": "Da Capo II",
+    "animegg_url": "https://www.animegg.org/series/da-capo-ii",
+    "mal_url": "https://myanimelist.net/anime/3627",
+    "mal_id": 3627,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/6944",
+        "dub": null,
+        "url": "https://www.animegg.org/da-capo-ii-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/6943",
+        "dub": null,
+        "url": "https://www.animegg.org/da-capo-ii-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/6942",
+        "dub": null,
+        "url": "https://www.animegg.org/da-capo-ii-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/6940",
+        "dub": null,
+        "url": "https://www.animegg.org/da-capo-ii-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/6941",
+        "dub": null,
+        "url": "https://www.animegg.org/da-capo-ii-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/6945",
+        "dub": null,
+        "url": "https://www.animegg.org/da-capo-ii-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/6946",
+        "dub": null,
+        "url": "https://www.animegg.org/da-capo-ii-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/6947",
+        "dub": null,
+        "url": "https://www.animegg.org/da-capo-ii-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/6948",
+        "dub": null,
+        "url": "https://www.animegg.org/da-capo-ii-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/6949",
+        "dub": null,
+        "url": "https://www.animegg.org/da-capo-ii-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/6950",
+        "dub": null,
+        "url": "https://www.animegg.org/da-capo-ii-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/6952",
+        "dub": null,
+        "url": "https://www.animegg.org/da-capo-ii-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/6951",
+        "dub": null,
+        "url": "https://www.animegg.org/da-capo-ii-episode-13"
+      }
+    ]
   }
 ]
