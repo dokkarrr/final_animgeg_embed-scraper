@@ -116692,5 +116692,93 @@
         "url": "https://www.animegg.org/popolocrois-monogatari-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 2502,
+    "title": "Senko No Night Raid",
+    "animegg_url": "https://www.animegg.org/series/senko-no-night-raid",
+    "mal_url": "https://myanimelist.net/anime/1879",
+    "mal_id": 1879,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/33968",
+        "dub": null,
+        "url": "https://www.animegg.org/senko-no-night-raid-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/33965",
+        "dub": null,
+        "url": "https://www.animegg.org/senko-no-night-raid-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/33966",
+        "dub": null,
+        "url": "https://www.animegg.org/senko-no-night-raid-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/33967",
+        "dub": null,
+        "url": "https://www.animegg.org/senko-no-night-raid-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/33964",
+        "dub": null,
+        "url": "https://www.animegg.org/senko-no-night-raid-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/33973",
+        "dub": null,
+        "url": "https://www.animegg.org/senko-no-night-raid-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/33970",
+        "dub": null,
+        "url": "https://www.animegg.org/senko-no-night-raid-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/33972",
+        "dub": null,
+        "url": "https://www.animegg.org/senko-no-night-raid-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/33969",
+        "dub": null,
+        "url": "https://www.animegg.org/senko-no-night-raid-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/33971",
+        "dub": null,
+        "url": "https://www.animegg.org/senko-no-night-raid-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/33974",
+        "dub": "https://www.animegg.org/embed/33975",
+        "url": "https://www.animegg.org/senko-no-night-raid-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/33977",
+        "dub": null,
+        "url": "https://www.animegg.org/senko-no-night-raid-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/33976",
+        "dub": null,
+        "url": "https://www.animegg.org/senko-no-night-raid-episode-13"
+      }
+    ]
   }
 ]
