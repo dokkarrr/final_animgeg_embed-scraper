@@ -63584,5 +63584,87 @@
         "url": "https://www.animegg.org/hitori-no-shita-the-outcast-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 875,
+    "title": "School Days",
+    "animegg_url": "https://www.animegg.org/series/school-days",
+    "mal_url": "https://myanimelist.net/anime/2476",
+    "mal_id": 2476,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/33418",
+        "dub": null,
+        "url": "https://www.animegg.org/school-days-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/33414",
+        "dub": null,
+        "url": "https://www.animegg.org/school-days-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/33415",
+        "dub": null,
+        "url": "https://www.animegg.org/school-days-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/33416",
+        "dub": null,
+        "url": "https://www.animegg.org/school-days-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/33417",
+        "dub": null,
+        "url": "https://www.animegg.org/school-days-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/33423",
+        "dub": null,
+        "url": "https://www.animegg.org/school-days-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/33419",
+        "dub": null,
+        "url": "https://www.animegg.org/school-days-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/33420",
+        "dub": null,
+        "url": "https://www.animegg.org/school-days-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/33421",
+        "dub": null,
+        "url": "https://www.animegg.org/school-days-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/33422",
+        "dub": null,
+        "url": "https://www.animegg.org/school-days-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/33424",
+        "dub": null,
+        "url": "https://www.animegg.org/school-days-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/33425",
+        "dub": null,
+        "url": "https://www.animegg.org/school-days-episode-12"
+      }
+    ]
   }
 ]
