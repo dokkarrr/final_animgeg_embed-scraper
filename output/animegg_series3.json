@@ -97602,5 +97602,87 @@
         "url": "https://www.animegg.org/sora-no-woto-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2306,
+    "title": "Ozmafia!!",
+    "animegg_url": "https://www.animegg.org/series/ozmafia",
+    "mal_url": "https://myanimelist.net/anime/32697",
+    "mal_id": 32697,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/82965",
+        "dub": null,
+        "url": "https://www.animegg.org/ozmafia-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/83055",
+        "dub": null,
+        "url": "https://www.animegg.org/ozmafia-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/83159",
+        "dub": null,
+        "url": "https://www.animegg.org/ozmafia-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/83272",
+        "dub": null,
+        "url": "https://www.animegg.org/ozmafia-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/83351",
+        "dub": null,
+        "url": "https://www.animegg.org/ozmafia-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/83441",
+        "dub": null,
+        "url": "https://www.animegg.org/ozmafia-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/83533",
+        "dub": null,
+        "url": "https://www.animegg.org/ozmafia-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/83610",
+        "dub": null,
+        "url": "https://www.animegg.org/ozmafia-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/83711",
+        "dub": null,
+        "url": "https://www.animegg.org/ozmafia-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/83794",
+        "dub": null,
+        "url": "https://www.animegg.org/ozmafia-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/83875",
+        "dub": null,
+        "url": "https://www.animegg.org/ozmafia-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/83959",
+        "dub": null,
+        "url": "https://www.animegg.org/ozmafia-episode-12"
+      }
+    ]
   }
 ]
