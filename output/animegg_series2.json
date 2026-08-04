@@ -122116,5 +122116,93 @@
         "url": "https://www.animegg.org/killing-bites-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1216,
+    "title": "DearS",
+    "animegg_url": "https://www.animegg.org/series/dears",
+    "mal_url": "https://myanimelist.net/anime/63",
+    "mal_id": 63,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/7440",
+        "dub": "https://www.animegg.org/embed/69147",
+        "url": "https://www.animegg.org/dears-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/7437",
+        "dub": "https://www.animegg.org/embed/69148",
+        "url": "https://www.animegg.org/dears-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/7436",
+        "dub": "https://www.animegg.org/embed/69150",
+        "url": "https://www.animegg.org/dears-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/7439",
+        "dub": "https://www.animegg.org/embed/69151",
+        "url": "https://www.animegg.org/dears-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/7438",
+        "dub": "https://www.animegg.org/embed/69153",
+        "url": "https://www.animegg.org/dears-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/7441",
+        "dub": "https://www.animegg.org/embed/69156",
+        "url": "https://www.animegg.org/dears-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/7442",
+        "dub": "https://www.animegg.org/embed/69157",
+        "url": "https://www.animegg.org/dears-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/7443",
+        "dub": "https://www.animegg.org/embed/69160",
+        "url": "https://www.animegg.org/dears-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/7444",
+        "dub": "https://www.animegg.org/embed/69162",
+        "url": "https://www.animegg.org/dears-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/7445",
+        "dub": "https://www.animegg.org/embed/69163",
+        "url": "https://www.animegg.org/dears-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/7446",
+        "dub": "https://www.animegg.org/embed/69164",
+        "url": "https://www.animegg.org/dears-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/7447",
+        "dub": "https://www.animegg.org/embed/69167",
+        "url": "https://www.animegg.org/dears-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/7448",
+        "dub": "https://www.animegg.org/embed/69169",
+        "url": "https://www.animegg.org/dears-episode-13"
+      }
+    ]
   }
 ]
