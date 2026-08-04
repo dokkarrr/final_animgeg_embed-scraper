@@ -35496,5 +35496,87 @@
         "url": "https://www.animegg.org/shakugan-no-shana-iii-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 711,
+    "title": "Seikoku no Dragonar",
+    "animegg_url": "https://www.animegg.org/series/seikoku-no-dragonar",
+    "mal_url": "https://myanimelist.net/anime/21033",
+    "mal_id": 21033,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/43513",
+        "dub": null,
+        "url": "https://www.animegg.org/seikoku-no-dragonar-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/43514",
+        "dub": null,
+        "url": "https://www.animegg.org/seikoku-no-dragonar-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/43515",
+        "dub": null,
+        "url": "https://www.animegg.org/seikoku-no-dragonar-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/43516",
+        "dub": null,
+        "url": "https://www.animegg.org/seikoku-no-dragonar-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/43517",
+        "dub": null,
+        "url": "https://www.animegg.org/seikoku-no-dragonar-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/43518",
+        "dub": null,
+        "url": "https://www.animegg.org/seikoku-no-dragonar-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/43519",
+        "dub": "https://www.animegg.org/embed/43520",
+        "url": "https://www.animegg.org/seikoku-no-dragonar-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/43521",
+        "dub": null,
+        "url": "https://www.animegg.org/seikoku-no-dragonar-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/43522",
+        "dub": "https://www.animegg.org/embed/43523",
+        "url": "https://www.animegg.org/seikoku-no-dragonar-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/43524",
+        "dub": "https://www.animegg.org/embed/43525",
+        "url": "https://www.animegg.org/seikoku-no-dragonar-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/43526",
+        "dub": "https://www.animegg.org/embed/43527",
+        "url": "https://www.animegg.org/seikoku-no-dragonar-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/43528",
+        "dub": "https://www.animegg.org/embed/43529",
+        "url": "https://www.animegg.org/seikoku-no-dragonar-episode-12"
+      }
+    ]
   }
 ]
