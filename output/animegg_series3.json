@@ -94868,5 +94868,51 @@
         "url": "https://www.animegg.org/natsume-yuujinchou-roku-episode-11"
       }
     ]
+  },
+  {
+    "serial_no": 2278,
+    "title": "Hori-san to Miyamura-kun",
+    "animegg_url": "https://www.animegg.org/series/hori-san-to-miyamura-kun",
+    "mal_url": "https://myanimelist.net/anime/14753",
+    "mal_id": 14753,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/53823",
+        "dub": null,
+        "url": "https://www.animegg.org/hori-san-to-miyamura-kun-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/53824",
+        "dub": null,
+        "url": "https://www.animegg.org/hori-san-to-miyamura-kun-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/100453",
+        "dub": null,
+        "url": "https://www.animegg.org/hori-san-to-miyamura-kun-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/125634",
+        "dub": null,
+        "url": "https://www.animegg.org/hori-san-to-miyamura-kun-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/130690",
+        "dub": null,
+        "url": "https://www.animegg.org/hori-san-to-miyamura-kun-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/130689",
+        "dub": null,
+        "url": "https://www.animegg.org/hori-san-to-miyamura-kun-episode-6"
+      }
+    ]
   }
 ]
