@@ -109332,5 +109332,93 @@
         "url": "https://www.animegg.org/shuumatsu-no-valkyrie-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2423,
+    "title": "Ai Mai Mi",
+    "animegg_url": "https://www.animegg.org/series/ai-mai-mi",
+    "mal_url": "https://myanimelist.net/anime/16169",
+    "mal_id": 16169,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/481",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-mai-mi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/480",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-mai-mi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/482",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-mai-mi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/478",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-mai-mi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/479",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-mai-mi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/483",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-mai-mi-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/484",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-mai-mi-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/485",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-mai-mi-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/487",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-mai-mi-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/486",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-mai-mi-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/489",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-mai-mi-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/488",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-mai-mi-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/490",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-mai-mi-episode-13"
+      }
+    ]
   }
 ]
