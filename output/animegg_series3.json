@@ -132443,5 +132443,51 @@
         "url": "https://www.animegg.org/laughing-salesman-episode-19"
       }
     ]
+  },
+  {
+    "serial_no": 2666,
+    "title": "Venus Project: Climax",
+    "animegg_url": "https://www.animegg.org/series/venus-project-climax",
+    "mal_url": "https://myanimelist.net/anime/30251",
+    "mal_id": 30251,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/77868",
+        "dub": "https://www.animegg.org/embed/77972",
+        "url": "https://www.animegg.org/venus-project-climax-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/78046",
+        "dub": null,
+        "url": "https://www.animegg.org/venus-project-climax-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/78186",
+        "dub": null,
+        "url": "https://www.animegg.org/venus-project-climax-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/78912",
+        "dub": null,
+        "url": "https://www.animegg.org/venus-project-climax-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/79014",
+        "dub": null,
+        "url": "https://www.animegg.org/venus-project-climax-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/79139",
+        "dub": null,
+        "url": "https://www.animegg.org/venus-project-climax-episode-6"
+      }
+    ]
   }
 ]
