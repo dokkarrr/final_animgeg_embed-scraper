@@ -103328,5 +103328,87 @@
         "url": "https://www.animegg.org/akane-iro-ni-somaru-saka-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1100,
+    "title": "Engaged to the Unidentified",
+    "animegg_url": "https://www.animegg.org/series/mikakunin-de-shinkoukei",
+    "mal_url": "https://myanimelist.net/anime/20541",
+    "mal_id": 20541,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/24107",
+        "dub": null,
+        "url": "https://www.animegg.org/mikakunin-de-shinkoukei-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/24106",
+        "dub": null,
+        "url": "https://www.animegg.org/mikakunin-de-shinkoukei-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/24104",
+        "dub": null,
+        "url": "https://www.animegg.org/mikakunin-de-shinkoukei-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/24105",
+        "dub": null,
+        "url": "https://www.animegg.org/mikakunin-de-shinkoukei-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/24109",
+        "dub": "https://www.animegg.org/embed/92566",
+        "url": "https://www.animegg.org/mikakunin-de-shinkoukei-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/24108",
+        "dub": null,
+        "url": "https://www.animegg.org/mikakunin-de-shinkoukei-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/24110",
+        "dub": null,
+        "url": "https://www.animegg.org/mikakunin-de-shinkoukei-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/24111",
+        "dub": null,
+        "url": "https://www.animegg.org/mikakunin-de-shinkoukei-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/24112",
+        "dub": null,
+        "url": "https://www.animegg.org/mikakunin-de-shinkoukei-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/24113",
+        "dub": null,
+        "url": "https://www.animegg.org/mikakunin-de-shinkoukei-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/24114",
+        "dub": null,
+        "url": "https://www.animegg.org/mikakunin-de-shinkoukei-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/24115",
+        "dub": null,
+        "url": "https://www.animegg.org/mikakunin-de-shinkoukei-episode-12"
+      }
+    ]
   }
 ]
