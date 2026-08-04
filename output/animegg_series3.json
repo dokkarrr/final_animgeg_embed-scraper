@@ -111450,5 +111450,93 @@
         "url": "https://www.animegg.org/tweeny-witches-episode-39"
       }
     ]
+  },
+  {
+    "serial_no": 2447,
+    "title": "Yoku Wakaru Gendai Mahou",
+    "animegg_url": "https://www.animegg.org/series/yoku-wakaru-gendai-mahou",
+    "mal_url": "https://myanimelist.net/anime/5454",
+    "mal_id": 5454,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/41081",
+        "dub": null,
+        "url": "https://www.animegg.org/yoku-wakaru-gendai-mahou-episode-0"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/41084",
+        "dub": null,
+        "url": "https://www.animegg.org/yoku-wakaru-gendai-mahou-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/41083",
+        "dub": null,
+        "url": "https://www.animegg.org/yoku-wakaru-gendai-mahou-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/41085",
+        "dub": null,
+        "url": "https://www.animegg.org/yoku-wakaru-gendai-mahou-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/41082",
+        "dub": null,
+        "url": "https://www.animegg.org/yoku-wakaru-gendai-mahou-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/41088",
+        "dub": null,
+        "url": "https://www.animegg.org/yoku-wakaru-gendai-mahou-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/41086",
+        "dub": null,
+        "url": "https://www.animegg.org/yoku-wakaru-gendai-mahou-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/41087",
+        "dub": null,
+        "url": "https://www.animegg.org/yoku-wakaru-gendai-mahou-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/41089",
+        "dub": null,
+        "url": "https://www.animegg.org/yoku-wakaru-gendai-mahou-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/41090",
+        "dub": null,
+        "url": "https://www.animegg.org/yoku-wakaru-gendai-mahou-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/41091",
+        "dub": null,
+        "url": "https://www.animegg.org/yoku-wakaru-gendai-mahou-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/41092",
+        "dub": null,
+        "url": "https://www.animegg.org/yoku-wakaru-gendai-mahou-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/41093",
+        "dub": null,
+        "url": "https://www.animegg.org/yoku-wakaru-gendai-mahou-episode-12"
+      }
+    ]
   }
 ]
