@@ -73870,5 +73870,81 @@
         "url": "https://www.animegg.org/shokugeki-no-souma-ova-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 2106,
+    "title": "86",
+    "animegg_url": "https://www.animegg.org/series/86",
+    "mal_url": null,
+    "mal_id": null,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 86,
+        "sub": "https://www.animegg.org/embed/102086",
+        "dub": null,
+        "url": "https://www.animegg.org/86-episode-11"
+      },
+      {
+        "ep": 86,
+        "sub": "https://www.animegg.org/embed/102005",
+        "dub": null,
+        "url": "https://www.animegg.org/86-episode-10"
+      },
+      {
+        "ep": 86,
+        "sub": "https://www.animegg.org/embed/101938",
+        "dub": null,
+        "url": "https://www.animegg.org/86-episode-9"
+      },
+      {
+        "ep": 86,
+        "sub": "https://www.animegg.org/embed/101863",
+        "dub": null,
+        "url": "https://www.animegg.org/86-episode-8"
+      },
+      {
+        "ep": 86,
+        "sub": "https://www.animegg.org/embed/101791",
+        "dub": null,
+        "url": "https://www.animegg.org/86-episode-7"
+      },
+      {
+        "ep": 86,
+        "sub": "https://www.animegg.org/embed/101717",
+        "dub": null,
+        "url": "https://www.animegg.org/86-episode-6"
+      },
+      {
+        "ep": 86,
+        "sub": "https://www.animegg.org/embed/101649",
+        "dub": null,
+        "url": "https://www.animegg.org/86-episode-5"
+      },
+      {
+        "ep": 86,
+        "sub": "https://www.animegg.org/embed/101588",
+        "dub": null,
+        "url": "https://www.animegg.org/86-episode-4"
+      },
+      {
+        "ep": 86,
+        "sub": "https://www.animegg.org/embed/101522",
+        "dub": null,
+        "url": "https://www.animegg.org/86-episode-3"
+      },
+      {
+        "ep": 86,
+        "sub": "https://www.animegg.org/embed/101457",
+        "dub": null,
+        "url": "https://www.animegg.org/86-episode-2"
+      },
+      {
+        "ep": 86,
+        "sub": "https://www.animegg.org/embed/101401",
+        "dub": null,
+        "url": "https://www.animegg.org/86-episode-1"
+      }
+    ]
   }
 ]
