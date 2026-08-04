@@ -113358,5 +113358,87 @@
         "url": "https://www.animegg.org/himawari-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 2468,
+    "title": "Show By Rock!! Short!!",
+    "animegg_url": "https://www.animegg.org/series/show-by-rock-short",
+    "mal_url": "https://myanimelist.net/anime/32039",
+    "mal_id": 32039,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/82941",
+        "dub": null,
+        "url": "https://www.animegg.org/show-by-rock-short-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/83029",
+        "dub": null,
+        "url": "https://www.animegg.org/show-by-rock-short-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/83133",
+        "dub": null,
+        "url": "https://www.animegg.org/show-by-rock-short-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/83243",
+        "dub": null,
+        "url": "https://www.animegg.org/show-by-rock-short-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/83331",
+        "dub": null,
+        "url": "https://www.animegg.org/show-by-rock-short-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/83423",
+        "dub": null,
+        "url": "https://www.animegg.org/show-by-rock-short-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/83512",
+        "dub": null,
+        "url": "https://www.animegg.org/show-by-rock-short-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/83588",
+        "dub": null,
+        "url": "https://www.animegg.org/show-by-rock-short-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/83690",
+        "dub": null,
+        "url": "https://www.animegg.org/show-by-rock-short-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/83779",
+        "dub": null,
+        "url": "https://www.animegg.org/show-by-rock-short-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/83852",
+        "dub": null,
+        "url": "https://www.animegg.org/show-by-rock-short-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/83940",
+        "dub": null,
+        "url": "https://www.animegg.org/show-by-rock-short-episode-12"
+      }
+    ]
   }
 ]
