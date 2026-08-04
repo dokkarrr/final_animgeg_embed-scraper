@@ -67400,5 +67400,93 @@
         "url": "https://www.animegg.org/flip-flappers-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2050,
+    "title": "Coppelion",
+    "animegg_url": "https://www.animegg.org/series/coppelion",
+    "mal_url": "https://myanimelist.net/anime/9479",
+    "mal_id": 9479,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/6321",
+        "dub": "https://www.animegg.org/embed/74115",
+        "url": "https://www.animegg.org/coppelion-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/6320",
+        "dub": "https://www.animegg.org/embed/74116",
+        "url": "https://www.animegg.org/coppelion-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/6317",
+        "dub": "https://www.animegg.org/embed/74117",
+        "url": "https://www.animegg.org/coppelion-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/6319",
+        "dub": "https://www.animegg.org/embed/74125",
+        "url": "https://www.animegg.org/coppelion-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/6318",
+        "dub": "https://www.animegg.org/embed/74127",
+        "url": "https://www.animegg.org/coppelion-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/6323",
+        "dub": "https://www.animegg.org/embed/74135",
+        "url": "https://www.animegg.org/coppelion-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/6322",
+        "dub": "https://www.animegg.org/embed/74136",
+        "url": "https://www.animegg.org/coppelion-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/6324",
+        "dub": "https://www.animegg.org/embed/74137",
+        "url": "https://www.animegg.org/coppelion-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/6325",
+        "dub": "https://www.animegg.org/embed/74138",
+        "url": "https://www.animegg.org/coppelion-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/6326",
+        "dub": "https://www.animegg.org/embed/74139",
+        "url": "https://www.animegg.org/coppelion-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/6327",
+        "dub": "https://www.animegg.org/embed/74140",
+        "url": "https://www.animegg.org/coppelion-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/6328",
+        "dub": "https://www.animegg.org/embed/74141",
+        "url": "https://www.animegg.org/coppelion-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/6329",
+        "dub": "https://www.animegg.org/embed/74130",
+        "url": "https://www.animegg.org/coppelion-episode-13"
+      }
+    ]
   }
 ]
