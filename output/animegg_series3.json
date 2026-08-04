@@ -85012,5 +85012,81 @@
         "url": "https://www.animegg.org/hataage-kemono-michi-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2190,
+    "title": "Higashi no Eden",
+    "animegg_url": "https://www.animegg.org/series/higashi-no-eden",
+    "mal_url": "https://myanimelist.net/anime/5630",
+    "mal_id": 5630,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/46134",
+        "dub": "https://www.animegg.org/embed/46135",
+        "url": "https://www.animegg.org/higashi-no-eden-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/46136",
+        "dub": "https://www.animegg.org/embed/46137",
+        "url": "https://www.animegg.org/higashi-no-eden-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/46138",
+        "dub": "https://www.animegg.org/embed/46139",
+        "url": "https://www.animegg.org/higashi-no-eden-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/46140",
+        "dub": "https://www.animegg.org/embed/46141",
+        "url": "https://www.animegg.org/higashi-no-eden-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/46142",
+        "dub": "https://www.animegg.org/embed/46143",
+        "url": "https://www.animegg.org/higashi-no-eden-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/46144",
+        "dub": "https://www.animegg.org/embed/46145",
+        "url": "https://www.animegg.org/higashi-no-eden-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/46146",
+        "dub": "https://www.animegg.org/embed/46147",
+        "url": "https://www.animegg.org/higashi-no-eden-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/46148",
+        "dub": "https://www.animegg.org/embed/46149",
+        "url": "https://www.animegg.org/higashi-no-eden-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/46150",
+        "dub": "https://www.animegg.org/embed/46151",
+        "url": "https://www.animegg.org/higashi-no-eden-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/46152",
+        "dub": "https://www.animegg.org/embed/46153",
+        "url": "https://www.animegg.org/higashi-no-eden-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/46154",
+        "dub": null,
+        "url": "https://www.animegg.org/higashi-no-eden-episode-11"
+      }
+    ]
   }
 ]
