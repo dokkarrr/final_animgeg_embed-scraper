@@ -124318,5 +124318,87 @@
         "url": "https://www.animegg.org/quanzhi-fashi-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1234,
+    "title": "Joker Game",
+    "animegg_url": "https://www.animegg.org/series/joker-game",
+    "mal_url": "https://myanimelist.net/anime/31405",
+    "mal_id": 31405,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/81812",
+        "dub": "https://www.animegg.org/embed/81814",
+        "url": "https://www.animegg.org/joker-game-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/81916",
+        "dub": null,
+        "url": "https://www.animegg.org/joker-game-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/81998",
+        "dub": null,
+        "url": "https://www.animegg.org/joker-game-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/82081",
+        "dub": null,
+        "url": "https://www.animegg.org/joker-game-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/82180",
+        "dub": null,
+        "url": "https://www.animegg.org/joker-game-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/82262",
+        "dub": null,
+        "url": "https://www.animegg.org/joker-game-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/82338",
+        "dub": null,
+        "url": "https://www.animegg.org/joker-game-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/82444",
+        "dub": null,
+        "url": "https://www.animegg.org/joker-game-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/82527",
+        "dub": null,
+        "url": "https://www.animegg.org/joker-game-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/82621",
+        "dub": null,
+        "url": "https://www.animegg.org/joker-game-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/82701",
+        "dub": null,
+        "url": "https://www.animegg.org/joker-game-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/82779",
+        "dub": null,
+        "url": "https://www.animegg.org/joker-game-episode-12"
+      }
+    ]
   }
 ]
