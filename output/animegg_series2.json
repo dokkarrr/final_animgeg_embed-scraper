@@ -86058,5 +86058,87 @@
         "url": "https://www.animegg.org/tokimeki-memorial-only-love-episode-27"
       }
     ]
+  },
+  {
+    "serial_no": 1008,
+    "title": "Bikini Warriors",
+    "animegg_url": "https://www.animegg.org/series/bikini-warriors",
+    "mal_url": "https://myanimelist.net/anime/30782",
+    "mal_id": 30782,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/77774",
+        "dub": "https://www.animegg.org/embed/77775",
+        "url": "https://www.animegg.org/bikini-warriors-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/77898",
+        "dub": null,
+        "url": "https://www.animegg.org/bikini-warriors-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/78104",
+        "dub": null,
+        "url": "https://www.animegg.org/bikini-warriors-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/78244",
+        "dub": null,
+        "url": "https://www.animegg.org/bikini-warriors-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/78360",
+        "dub": null,
+        "url": "https://www.animegg.org/bikini-warriors-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/78480",
+        "dub": null,
+        "url": "https://www.animegg.org/bikini-warriors-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/78596",
+        "dub": null,
+        "url": "https://www.animegg.org/bikini-warriors-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/78704",
+        "dub": null,
+        "url": "https://www.animegg.org/bikini-warriors-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/78815",
+        "dub": null,
+        "url": "https://www.animegg.org/bikini-warriors-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/78927",
+        "dub": null,
+        "url": "https://www.animegg.org/bikini-warriors-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/79035",
+        "dub": null,
+        "url": "https://www.animegg.org/bikini-warriors-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/79146",
+        "dub": null,
+        "url": "https://www.animegg.org/bikini-warriors-episode-12"
+      }
+    ]
   }
 ]
