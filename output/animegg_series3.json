@@ -64562,5 +64562,93 @@
         "url": "https://www.animegg.org/full-metal-panic-invisible-victory-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2020,
+    "title": "Bananya",
+    "animegg_url": "https://www.animegg.org/series/bananya",
+    "mal_url": "https://myanimelist.net/anime/32664",
+    "mal_id": 32664,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/82938",
+        "dub": null,
+        "url": "https://www.animegg.org/bananya-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/83027",
+        "dub": null,
+        "url": "https://www.animegg.org/bananya-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/83131",
+        "dub": null,
+        "url": "https://www.animegg.org/bananya-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/83240",
+        "dub": null,
+        "url": "https://www.animegg.org/bananya-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/83328",
+        "dub": null,
+        "url": "https://www.animegg.org/bananya-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/83418",
+        "dub": null,
+        "url": "https://www.animegg.org/bananya-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/83509",
+        "dub": null,
+        "url": "https://www.animegg.org/bananya-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/83586",
+        "dub": null,
+        "url": "https://www.animegg.org/bananya-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/83687",
+        "dub": null,
+        "url": "https://www.animegg.org/bananya-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/83775",
+        "dub": null,
+        "url": "https://www.animegg.org/bananya-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/83848",
+        "dub": null,
+        "url": "https://www.animegg.org/bananya-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/83937",
+        "dub": null,
+        "url": "https://www.animegg.org/bananya-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/84026",
+        "dub": null,
+        "url": "https://www.animegg.org/bananya-episode-13"
+      }
+    ]
   }
 ]
