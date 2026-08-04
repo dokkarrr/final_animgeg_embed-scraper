@@ -101338,5 +101338,93 @@
         "url": "https://www.animegg.org/shakunetsu-no-takkyuu-musume-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2343,
+    "title": "Appleseed XIII",
+    "animegg_url": "https://www.animegg.org/series/appleseed-xiii",
+    "mal_url": "https://myanimelist.net/anime/9737",
+    "mal_id": 9737,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/1479",
+        "dub": "https://www.animegg.org/embed/73948",
+        "url": "https://www.animegg.org/appleseed-xiii-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/1481",
+        "dub": "https://www.animegg.org/embed/73947",
+        "url": "https://www.animegg.org/appleseed-xiii-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/1480",
+        "dub": "https://www.animegg.org/embed/73946",
+        "url": "https://www.animegg.org/appleseed-xiii-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/1482",
+        "dub": "https://www.animegg.org/embed/73943",
+        "url": "https://www.animegg.org/appleseed-xiii-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/1485",
+        "dub": "https://www.animegg.org/embed/73932",
+        "url": "https://www.animegg.org/appleseed-xiii-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/1483",
+        "dub": "https://www.animegg.org/embed/73931",
+        "url": "https://www.animegg.org/appleseed-xiii-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/1484",
+        "dub": "https://www.animegg.org/embed/73930",
+        "url": "https://www.animegg.org/appleseed-xiii-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/1486",
+        "dub": "https://www.animegg.org/embed/73929",
+        "url": "https://www.animegg.org/appleseed-xiii-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/1487",
+        "dub": "https://www.animegg.org/embed/73928",
+        "url": "https://www.animegg.org/appleseed-xiii-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/1490",
+        "dub": "https://www.animegg.org/embed/73927",
+        "url": "https://www.animegg.org/appleseed-xiii-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/1488",
+        "dub": "https://www.animegg.org/embed/73926",
+        "url": "https://www.animegg.org/appleseed-xiii-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/1489",
+        "dub": "https://www.animegg.org/embed/73925",
+        "url": "https://www.animegg.org/appleseed-xiii-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/1491",
+        "dub": "https://www.animegg.org/embed/73924",
+        "url": "https://www.animegg.org/appleseed-xiii-episode-13"
+      }
+    ]
   }
 ]
