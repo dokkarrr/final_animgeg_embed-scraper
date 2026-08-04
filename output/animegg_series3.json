@@ -91446,5 +91446,87 @@
         "url": "https://www.animegg.org/power-stone-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 2243,
+    "title": "Persona 4 The Golden Animation",
+    "animegg_url": "https://www.animegg.org/series/persona-4-the-golden-animation",
+    "mal_url": "https://myanimelist.net/anime/24075",
+    "mal_id": 24075,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/45902",
+        "dub": null,
+        "url": "https://www.animegg.org/persona-4-the-golden-animation-episode-12"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/45900",
+        "dub": "https://www.animegg.org/embed/45901",
+        "url": "https://www.animegg.org/persona-4-the-golden-animation-episode-11"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/45899",
+        "dub": null,
+        "url": "https://www.animegg.org/persona-4-the-golden-animation-episode-10"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/45898",
+        "dub": null,
+        "url": "https://www.animegg.org/persona-4-the-golden-animation-episode-9"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/45897",
+        "dub": null,
+        "url": "https://www.animegg.org/persona-4-the-golden-animation-episode-8"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/45896",
+        "dub": null,
+        "url": "https://www.animegg.org/persona-4-the-golden-animation-episode-7"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/45895",
+        "dub": null,
+        "url": "https://www.animegg.org/persona-4-the-golden-animation-episode-6"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/45894",
+        "dub": null,
+        "url": "https://www.animegg.org/persona-4-the-golden-animation-episode-5"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/45893",
+        "dub": null,
+        "url": "https://www.animegg.org/persona-4-the-golden-animation-episode-4"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/45891",
+        "dub": "https://www.animegg.org/embed/45892",
+        "url": "https://www.animegg.org/persona-4-the-golden-animation-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/45889",
+        "dub": "https://www.animegg.org/embed/45890",
+        "url": "https://www.animegg.org/persona-4-the-golden-animation-episode-2"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/45887",
+        "dub": "https://www.animegg.org/embed/45888",
+        "url": "https://www.animegg.org/persona-4-the-golden-animation-episode-1"
+      }
+    ]
   }
 ]
