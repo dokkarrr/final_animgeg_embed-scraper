@@ -97102,5 +97102,87 @@
         "url": "https://www.animegg.org/gift-eternal-rainbow-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2301,
+    "title": "Rozen Maiden",
+    "animegg_url": "https://www.animegg.org/series/rozen-maiden",
+    "mal_url": "https://myanimelist.net/anime/64",
+    "mal_id": 64,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/32142",
+        "dub": "https://www.animegg.org/embed/74277",
+        "url": "https://www.animegg.org/rozen-maiden-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/32139",
+        "dub": "https://www.animegg.org/embed/74278",
+        "url": "https://www.animegg.org/rozen-maiden-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/32141",
+        "dub": "https://www.animegg.org/embed/74279",
+        "url": "https://www.animegg.org/rozen-maiden-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/32140",
+        "dub": "https://www.animegg.org/embed/74280",
+        "url": "https://www.animegg.org/rozen-maiden-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/32143",
+        "dub": "https://www.animegg.org/embed/74281",
+        "url": "https://www.animegg.org/rozen-maiden-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/32146",
+        "dub": "https://www.animegg.org/embed/74283",
+        "url": "https://www.animegg.org/rozen-maiden-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/32149",
+        "dub": "https://www.animegg.org/embed/74284",
+        "url": "https://www.animegg.org/rozen-maiden-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/32145",
+        "dub": "https://www.animegg.org/embed/74285",
+        "url": "https://www.animegg.org/rozen-maiden-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/32144",
+        "dub": "https://www.animegg.org/embed/74286",
+        "url": "https://www.animegg.org/rozen-maiden-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/32147",
+        "dub": "https://www.animegg.org/embed/74287",
+        "url": "https://www.animegg.org/rozen-maiden-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/32148",
+        "dub": "https://www.animegg.org/embed/74288",
+        "url": "https://www.animegg.org/rozen-maiden-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/32150",
+        "dub": "https://www.animegg.org/embed/74289",
+        "url": "https://www.animegg.org/rozen-maiden-episode-12"
+      }
+    ]
   }
 ]
