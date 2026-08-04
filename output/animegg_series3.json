@@ -114168,5 +114168,87 @@
         "url": "https://www.animegg.org/house-of-five-leaves-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2477,
+    "title": "Aiura",
+    "animegg_url": "https://www.animegg.org/series/aiura",
+    "mal_url": "https://myanimelist.net/anime/17082",
+    "mal_id": 17082,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/797",
+        "dub": null,
+        "url": "https://www.animegg.org/aiura-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/794",
+        "dub": null,
+        "url": "https://www.animegg.org/aiura-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/795",
+        "dub": null,
+        "url": "https://www.animegg.org/aiura-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/793",
+        "dub": null,
+        "url": "https://www.animegg.org/aiura-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/796",
+        "dub": null,
+        "url": "https://www.animegg.org/aiura-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/799",
+        "dub": null,
+        "url": "https://www.animegg.org/aiura-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/800",
+        "dub": null,
+        "url": "https://www.animegg.org/aiura-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/798",
+        "dub": null,
+        "url": "https://www.animegg.org/aiura-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/801",
+        "dub": null,
+        "url": "https://www.animegg.org/aiura-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/802",
+        "dub": null,
+        "url": "https://www.animegg.org/aiura-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/803",
+        "dub": null,
+        "url": "https://www.animegg.org/aiura-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/804",
+        "dub": null,
+        "url": "https://www.animegg.org/aiura-episode-12"
+      }
+    ]
   }
 ]
