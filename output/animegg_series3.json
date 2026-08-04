@@ -20928,5 +20928,45 @@
         "url": "https://www.animegg.org/kekkai-sensen-beyond-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1673,
+    "title": "Code Geass: Boukoku no Akito",
+    "animegg_url": "https://www.animegg.org/series/code-geass-boukoku-no-akito",
+    "mal_url": "https://myanimelist.net/anime/8888",
+    "mal_id": 8888,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/6211",
+        "dub": null,
+        "url": "https://www.animegg.org/code-geass-boukoku-no-akito-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/6212",
+        "dub": "https://www.animegg.org/embed/107217",
+        "url": "https://www.animegg.org/code-geass-boukoku-no-akito-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/76842",
+        "dub": "https://www.animegg.org/embed/77632",
+        "url": "https://www.animegg.org/code-geass-boukoku-no-akito-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/79940",
+        "dub": null,
+        "url": "https://www.animegg.org/code-geass-boukoku-no-akito-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/81342",
+        "dub": "https://www.animegg.org/embed/81824",
+        "url": "https://www.animegg.org/code-geass-boukoku-no-akito-episode-5"
+      }
+    ]
   }
 ]
