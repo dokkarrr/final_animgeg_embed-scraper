@@ -100118,5 +100118,87 @@
         "url": "https://www.animegg.org/to-heart-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2332,
+    "title": "Teekyuu 5",
+    "animegg_url": "https://www.animegg.org/series/teekyuu-5",
+    "mal_url": "https://myanimelist.net/anime/30567",
+    "mal_id": 30567,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/79133",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-5-episode-12"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/79024",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-5-episode-11"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/78918",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-5-episode-10"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/78801",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-5-episode-9"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/78686",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-5-episode-8"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/78583",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-5-episode-7"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/78465",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-5-episode-6"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/78349",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-5-episode-5"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/78231",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-5-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/78055",
+        "dub": "https://www.animegg.org/embed/78060",
+        "url": "https://www.animegg.org/teekyuu-5-episode-3"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/77883",
+        "dub": "https://www.animegg.org/embed/77885",
+        "url": "https://www.animegg.org/teekyuu-5-episode-2"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/77752",
+        "dub": "https://www.animegg.org/embed/77755",
+        "url": "https://www.animegg.org/teekyuu-5-episode-1"
+      }
+    ]
   }
 ]
