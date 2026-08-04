@@ -58064,5 +58064,93 @@
         "url": "https://www.animegg.org/kuragehime-episode-11"
       }
     ]
+  },
+  {
+    "serial_no": 1957,
+    "title": "Lemon Angel Project",
+    "animegg_url": "https://www.animegg.org/series/lemon-angel-project",
+    "mal_url": "https://myanimelist.net/anime/671",
+    "mal_id": 671,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/21600",
+        "dub": null,
+        "url": "https://www.animegg.org/lemon-angel-project-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/21602",
+        "dub": null,
+        "url": "https://www.animegg.org/lemon-angel-project-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/21603",
+        "dub": null,
+        "url": "https://www.animegg.org/lemon-angel-project-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/21601",
+        "dub": null,
+        "url": "https://www.animegg.org/lemon-angel-project-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/21604",
+        "dub": null,
+        "url": "https://www.animegg.org/lemon-angel-project-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/21608",
+        "dub": null,
+        "url": "https://www.animegg.org/lemon-angel-project-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/21606",
+        "dub": null,
+        "url": "https://www.animegg.org/lemon-angel-project-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/21605",
+        "dub": null,
+        "url": "https://www.animegg.org/lemon-angel-project-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/21607",
+        "dub": null,
+        "url": "https://www.animegg.org/lemon-angel-project-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/21609",
+        "dub": null,
+        "url": "https://www.animegg.org/lemon-angel-project-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/21610",
+        "dub": null,
+        "url": "https://www.animegg.org/lemon-angel-project-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/21611",
+        "dub": null,
+        "url": "https://www.animegg.org/lemon-angel-project-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/21612",
+        "dub": null,
+        "url": "https://www.animegg.org/lemon-angel-project-episode-13"
+      }
+    ]
   }
 ]
