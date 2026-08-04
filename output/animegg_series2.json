@@ -29830,5 +29830,87 @@
         "url": "https://www.animegg.org/eureka-seven-ao-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 676,
+    "title": "Btooom!",
+    "animegg_url": "https://www.animegg.org/series/btooom",
+    "mal_url": "https://myanimelist.net/anime/14345",
+    "mal_id": 14345,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/4766",
+        "dub": "https://www.animegg.org/embed/4767",
+        "url": "https://www.animegg.org/btooom-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/4762",
+        "dub": "https://www.animegg.org/embed/4763",
+        "url": "https://www.animegg.org/btooom-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/4758",
+        "dub": "https://www.animegg.org/embed/4759",
+        "url": "https://www.animegg.org/btooom-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/4764",
+        "dub": "https://www.animegg.org/embed/66954",
+        "url": "https://www.animegg.org/btooom-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/4760",
+        "dub": "https://www.animegg.org/embed/66955",
+        "url": "https://www.animegg.org/btooom-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/4768",
+        "dub": "https://www.animegg.org/embed/4769",
+        "url": "https://www.animegg.org/btooom-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/4772",
+        "dub": "https://www.animegg.org/embed/4773",
+        "url": "https://www.animegg.org/btooom-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/4770",
+        "dub": "https://www.animegg.org/embed/4771",
+        "url": "https://www.animegg.org/btooom-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/4774",
+        "dub": "https://www.animegg.org/embed/4775",
+        "url": "https://www.animegg.org/btooom-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/4776",
+        "dub": "https://www.animegg.org/embed/4777",
+        "url": "https://www.animegg.org/btooom-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/4778",
+        "dub": "https://www.animegg.org/embed/4779",
+        "url": "https://www.animegg.org/btooom-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/4780",
+        "dub": "https://www.animegg.org/embed/4781",
+        "url": "https://www.animegg.org/btooom-episode-12"
+      }
+    ]
   }
 ]
