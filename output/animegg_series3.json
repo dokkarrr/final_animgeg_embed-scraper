@@ -66592,5 +66592,93 @@
         "url": "https://www.animegg.org/c-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2040,
+    "title": "Hoozuki no Reitetsu",
+    "animegg_url": "https://www.animegg.org/series/hoozuki-no-reitetsu",
+    "mal_url": "https://myanimelist.net/anime/20431",
+    "mal_id": 20431,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/16742",
+        "dub": null,
+        "url": "https://www.animegg.org/hoozuki-no-reitetsu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/16740",
+        "dub": null,
+        "url": "https://www.animegg.org/hoozuki-no-reitetsu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/16741",
+        "dub": null,
+        "url": "https://www.animegg.org/hoozuki-no-reitetsu-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/16738",
+        "dub": null,
+        "url": "https://www.animegg.org/hoozuki-no-reitetsu-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/16739",
+        "dub": null,
+        "url": "https://www.animegg.org/hoozuki-no-reitetsu-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/16743",
+        "dub": null,
+        "url": "https://www.animegg.org/hoozuki-no-reitetsu-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/16744",
+        "dub": null,
+        "url": "https://www.animegg.org/hoozuki-no-reitetsu-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/16745",
+        "dub": null,
+        "url": "https://www.animegg.org/hoozuki-no-reitetsu-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/16747",
+        "dub": null,
+        "url": "https://www.animegg.org/hoozuki-no-reitetsu-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/16746",
+        "dub": null,
+        "url": "https://www.animegg.org/hoozuki-no-reitetsu-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/16748",
+        "dub": null,
+        "url": "https://www.animegg.org/hoozuki-no-reitetsu-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/16750",
+        "dub": null,
+        "url": "https://www.animegg.org/hoozuki-no-reitetsu-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/16749",
+        "dub": null,
+        "url": "https://www.animegg.org/hoozuki-no-reitetsu-episode-13"
+      }
+    ]
   }
 ]
