@@ -23132,5 +23132,87 @@
         "url": "https://www.animegg.org/amaenaideyo-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1693,
+    "title": "Sidonia no Kishi",
+    "animegg_url": "https://www.animegg.org/series/sidonia-no-kishi",
+    "mal_url": "https://myanimelist.net/anime/19775",
+    "mal_id": 19775,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/43554",
+        "dub": "https://www.animegg.org/embed/74525",
+        "url": "https://www.animegg.org/sidonia-no-kishi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/43555",
+        "dub": "https://www.animegg.org/embed/74526",
+        "url": "https://www.animegg.org/sidonia-no-kishi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/43556",
+        "dub": "https://www.animegg.org/embed/74527",
+        "url": "https://www.animegg.org/sidonia-no-kishi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/43557",
+        "dub": "https://www.animegg.org/embed/74528",
+        "url": "https://www.animegg.org/sidonia-no-kishi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/43558",
+        "dub": "https://www.animegg.org/embed/74532",
+        "url": "https://www.animegg.org/sidonia-no-kishi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/43559",
+        "dub": "https://www.animegg.org/embed/43560",
+        "url": "https://www.animegg.org/sidonia-no-kishi-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/43561",
+        "dub": "https://www.animegg.org/embed/43562",
+        "url": "https://www.animegg.org/sidonia-no-kishi-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/43563",
+        "dub": "https://www.animegg.org/embed/43564",
+        "url": "https://www.animegg.org/sidonia-no-kishi-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/43565",
+        "dub": "https://www.animegg.org/embed/43566",
+        "url": "https://www.animegg.org/sidonia-no-kishi-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/43567",
+        "dub": "https://www.animegg.org/embed/43568",
+        "url": "https://www.animegg.org/sidonia-no-kishi-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/43569",
+        "dub": "https://www.animegg.org/embed/43570",
+        "url": "https://www.animegg.org/sidonia-no-kishi-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/43571",
+        "dub": "https://www.animegg.org/embed/43572",
+        "url": "https://www.animegg.org/sidonia-no-kishi-episode-12"
+      }
+    ]
   }
 ]
