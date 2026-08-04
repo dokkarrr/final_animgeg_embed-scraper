@@ -72782,5 +72782,87 @@
         "url": "https://www.animegg.org/shoujo-tachi-wa-kouya-wo-mezasu-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 929,
+    "title": "Seiken No Blacksmith",
+    "animegg_url": "https://www.animegg.org/series/seiken-no-blacksmith",
+    "mal_url": "https://myanimelist.net/anime/5940",
+    "mal_id": 5940,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/37750",
+        "dub": "https://www.animegg.org/embed/37751",
+        "url": "https://www.animegg.org/seiken-no-blacksmith-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/37746",
+        "dub": "https://www.animegg.org/embed/37747",
+        "url": "https://www.animegg.org/seiken-no-blacksmith-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/37742",
+        "dub": "https://www.animegg.org/embed/37743",
+        "url": "https://www.animegg.org/seiken-no-blacksmith-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/37748",
+        "dub": "https://www.animegg.org/embed/37749",
+        "url": "https://www.animegg.org/seiken-no-blacksmith-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/37744",
+        "dub": "https://www.animegg.org/embed/37745",
+        "url": "https://www.animegg.org/seiken-no-blacksmith-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/37752",
+        "dub": "https://www.animegg.org/embed/37753",
+        "url": "https://www.animegg.org/seiken-no-blacksmith-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/37756",
+        "dub": "https://www.animegg.org/embed/37757",
+        "url": "https://www.animegg.org/seiken-no-blacksmith-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/37754",
+        "dub": "https://www.animegg.org/embed/37755",
+        "url": "https://www.animegg.org/seiken-no-blacksmith-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/37758",
+        "dub": "https://www.animegg.org/embed/37759",
+        "url": "https://www.animegg.org/seiken-no-blacksmith-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/37760",
+        "dub": "https://www.animegg.org/embed/37761",
+        "url": "https://www.animegg.org/seiken-no-blacksmith-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/37762",
+        "dub": "https://www.animegg.org/embed/37763",
+        "url": "https://www.animegg.org/seiken-no-blacksmith-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/37764",
+        "dub": "https://www.animegg.org/embed/37765",
+        "url": "https://www.animegg.org/seiken-no-blacksmith-episode-12"
+      }
+    ]
   }
 ]
