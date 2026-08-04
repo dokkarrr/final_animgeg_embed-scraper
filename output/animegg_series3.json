@@ -66762,5 +66762,27 @@
         "url": "https://www.animegg.org/inu-to-hasami-wa-tsukaiyou-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2042,
+    "title": "Hey, Class President!",
+    "animegg_url": "https://www.animegg.org/series/hey-class-president",
+    "mal_url": "https://myanimelist.net/anime/5774",
+    "mal_id": 5774,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/53508",
+        "dub": null,
+        "url": "https://www.animegg.org/hey-class-president-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/53509",
+        "dub": null,
+        "url": "https://www.animegg.org/hey-class-president-episode-2"
+      }
+    ]
   }
 ]
