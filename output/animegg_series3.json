@@ -72700,5 +72700,93 @@
         "url": "https://www.animegg.org/w-wish-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2094,
+    "title": "Kono Oto Tomare!",
+    "animegg_url": "https://www.animegg.org/series/kono-oto-tomare",
+    "mal_url": "https://myanimelist.net/anime/38080",
+    "mal_id": 38080,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/95020",
+        "dub": null,
+        "url": "https://www.animegg.org/kono-oto-tomare-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/95079",
+        "dub": null,
+        "url": "https://www.animegg.org/kono-oto-tomare-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/95141",
+        "dub": null,
+        "url": "https://www.animegg.org/kono-oto-tomare-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/95206",
+        "dub": null,
+        "url": "https://www.animegg.org/kono-oto-tomare-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/95269",
+        "dub": null,
+        "url": "https://www.animegg.org/kono-oto-tomare-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/95327",
+        "dub": null,
+        "url": "https://www.animegg.org/kono-oto-tomare-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/95388",
+        "dub": null,
+        "url": "https://www.animegg.org/kono-oto-tomare-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/95447",
+        "dub": null,
+        "url": "https://www.animegg.org/kono-oto-tomare-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/95509",
+        "dub": null,
+        "url": "https://www.animegg.org/kono-oto-tomare-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/95589",
+        "dub": null,
+        "url": "https://www.animegg.org/kono-oto-tomare-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/95657",
+        "dub": null,
+        "url": "https://www.animegg.org/kono-oto-tomare-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/95717",
+        "dub": null,
+        "url": "https://www.animegg.org/kono-oto-tomare-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/95782",
+        "dub": null,
+        "url": "https://www.animegg.org/kono-oto-tomare-episode-13"
+      }
+    ]
   }
 ]
