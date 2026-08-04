@@ -107178,5 +107178,93 @@
         "url": "https://www.animegg.org/he-is-my-master-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2405,
+    "title": "Gakuen Heaven",
+    "animegg_url": "https://www.animegg.org/series/gakuen-heaven",
+    "mal_url": "https://myanimelist.net/anime/850",
+    "mal_id": 850,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/51834",
+        "dub": null,
+        "url": "https://www.animegg.org/gakuen-heaven-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/51835",
+        "dub": null,
+        "url": "https://www.animegg.org/gakuen-heaven-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/51836",
+        "dub": null,
+        "url": "https://www.animegg.org/gakuen-heaven-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/51837",
+        "dub": null,
+        "url": "https://www.animegg.org/gakuen-heaven-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/51838",
+        "dub": null,
+        "url": "https://www.animegg.org/gakuen-heaven-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/51839",
+        "dub": null,
+        "url": "https://www.animegg.org/gakuen-heaven-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/51840",
+        "dub": null,
+        "url": "https://www.animegg.org/gakuen-heaven-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/51841",
+        "dub": null,
+        "url": "https://www.animegg.org/gakuen-heaven-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/51842",
+        "dub": null,
+        "url": "https://www.animegg.org/gakuen-heaven-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/51843",
+        "dub": null,
+        "url": "https://www.animegg.org/gakuen-heaven-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/51844",
+        "dub": null,
+        "url": "https://www.animegg.org/gakuen-heaven-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/51845",
+        "dub": null,
+        "url": "https://www.animegg.org/gakuen-heaven-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/51846",
+        "dub": null,
+        "url": "https://www.animegg.org/gakuen-heaven-episode-13"
+      }
+    ]
   }
 ]
