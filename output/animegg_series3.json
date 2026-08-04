@@ -10194,5 +10194,69 @@
         "url": "https://www.animegg.org/antique-bakery-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1619,
+    "title": "Owari no Seraph: Owaranai Seraph",
+    "animegg_url": "https://www.animegg.org/series/owari-no-seraph-owaranai-seraph",
+    "mal_url": "https://myanimelist.net/anime/30714",
+    "mal_id": 30714,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/79568",
+        "dub": null,
+        "url": "https://www.animegg.org/owari-no-seraph-owaranai-seraph-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/79569",
+        "dub": null,
+        "url": "https://www.animegg.org/owari-no-seraph-owaranai-seraph-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/79570",
+        "dub": null,
+        "url": "https://www.animegg.org/owari-no-seraph-owaranai-seraph-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/79571",
+        "dub": null,
+        "url": "https://www.animegg.org/owari-no-seraph-owaranai-seraph-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/79577",
+        "dub": null,
+        "url": "https://www.animegg.org/owari-no-seraph-owaranai-seraph-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/79587",
+        "dub": null,
+        "url": "https://www.animegg.org/owari-no-seraph-owaranai-seraph-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/79588",
+        "dub": null,
+        "url": "https://www.animegg.org/owari-no-seraph-owaranai-seraph-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/79794",
+        "dub": null,
+        "url": "https://www.animegg.org/owari-no-seraph-owaranai-seraph-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/79811",
+        "dub": null,
+        "url": "https://www.animegg.org/owari-no-seraph-owaranai-seraph-episode-9"
+      }
+    ]
   }
 ]
