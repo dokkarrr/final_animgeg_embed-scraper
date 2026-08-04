@@ -59292,5 +59292,87 @@
         "url": "https://www.animegg.org/jigokuraku-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 1970,
+    "title": "Haifuri",
+    "animegg_url": "https://www.animegg.org/series/haifuri",
+    "mal_url": "https://myanimelist.net/anime/31500",
+    "mal_id": 31500,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/81877",
+        "dub": null,
+        "url": "https://www.animegg.org/haifuri-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/81957",
+        "dub": null,
+        "url": "https://www.animegg.org/haifuri-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/82046",
+        "dub": null,
+        "url": "https://www.animegg.org/haifuri-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/82133",
+        "dub": null,
+        "url": "https://www.animegg.org/haifuri-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/82226",
+        "dub": null,
+        "url": "https://www.animegg.org/haifuri-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/82301",
+        "dub": null,
+        "url": "https://www.animegg.org/haifuri-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/82393",
+        "dub": null,
+        "url": "https://www.animegg.org/haifuri-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/82486",
+        "dub": null,
+        "url": "https://www.animegg.org/haifuri-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/82584",
+        "dub": null,
+        "url": "https://www.animegg.org/haifuri-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/82662",
+        "dub": null,
+        "url": "https://www.animegg.org/haifuri-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/82746",
+        "dub": null,
+        "url": "https://www.animegg.org/haifuri-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/82809",
+        "dub": null,
+        "url": "https://www.animegg.org/haifuri-episode-12"
+      }
+    ]
   }
 ]
