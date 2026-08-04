@@ -86608,5 +86608,87 @@
         "url": "https://www.animegg.org/otogizoushi-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 2205,
+    "title": "X-Men",
+    "animegg_url": "https://www.animegg.org/series/x-men",
+    "mal_url": "https://myanimelist.net/anime/6919",
+    "mal_id": 6919,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/40665",
+        "dub": "https://www.animegg.org/embed/40666",
+        "url": "https://www.animegg.org/x-men-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/40661",
+        "dub": "https://www.animegg.org/embed/40662",
+        "url": "https://www.animegg.org/x-men-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/40659",
+        "dub": "https://www.animegg.org/embed/40660",
+        "url": "https://www.animegg.org/x-men-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/40663",
+        "dub": "https://www.animegg.org/embed/40664",
+        "url": "https://www.animegg.org/x-men-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/40657",
+        "dub": "https://www.animegg.org/embed/40658",
+        "url": "https://www.animegg.org/x-men-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/40671",
+        "dub": "https://www.animegg.org/embed/40672",
+        "url": "https://www.animegg.org/x-men-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/40669",
+        "dub": "https://www.animegg.org/embed/40670",
+        "url": "https://www.animegg.org/x-men-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/40667",
+        "dub": "https://www.animegg.org/embed/40668",
+        "url": "https://www.animegg.org/x-men-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/40673",
+        "dub": "https://www.animegg.org/embed/40674",
+        "url": "https://www.animegg.org/x-men-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/40675",
+        "dub": "https://www.animegg.org/embed/40676",
+        "url": "https://www.animegg.org/x-men-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/40677",
+        "dub": "https://www.animegg.org/embed/40678",
+        "url": "https://www.animegg.org/x-men-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/40679",
+        "dub": "https://www.animegg.org/embed/40680",
+        "url": "https://www.animegg.org/x-men-episode-12"
+      }
+    ]
   }
 ]
