@@ -98986,5 +98986,87 @@
         "url": "https://www.animegg.org/ginban-kaleidoscope-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2322,
+    "title": "Sengoku Basara: Judge End",
+    "animegg_url": "https://www.animegg.org/series/sengoku-basara-judge-end",
+    "mal_url": "https://myanimelist.net/anime/23201",
+    "mal_id": 23201,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/45995",
+        "dub": "https://www.animegg.org/embed/45996",
+        "url": "https://www.animegg.org/sengoku-basara-judge-end-episode"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/45997",
+        "dub": "https://www.animegg.org/embed/45998",
+        "url": "https://www.animegg.org/sengoku-basara-judge-end-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/45999",
+        "dub": "https://www.animegg.org/embed/46000",
+        "url": "https://www.animegg.org/sengoku-basara-judge-end-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/46001",
+        "dub": "https://www.animegg.org/embed/46002",
+        "url": "https://www.animegg.org/sengoku-basara-judge-end-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/46003",
+        "dub": null,
+        "url": "https://www.animegg.org/sengoku-basara-judge-end-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/46004",
+        "dub": null,
+        "url": "https://www.animegg.org/sengoku-basara-judge-end-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/46005",
+        "dub": null,
+        "url": "https://www.animegg.org/sengoku-basara-judge-end-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/46006",
+        "dub": null,
+        "url": "https://www.animegg.org/sengoku-basara-judge-end-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/46007",
+        "dub": null,
+        "url": "https://www.animegg.org/sengoku-basara-judge-end-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/46008",
+        "dub": null,
+        "url": "https://www.animegg.org/sengoku-basara-judge-end-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/46009",
+        "dub": null,
+        "url": "https://www.animegg.org/sengoku-basara-judge-end-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/46010",
+        "dub": null,
+        "url": "https://www.animegg.org/sengoku-basara-judge-end-episode-12"
+      }
+    ]
   }
 ]
