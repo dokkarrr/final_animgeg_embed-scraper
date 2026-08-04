@@ -100596,5 +100596,87 @@
         "url": "https://www.animegg.org/violinist-of-hamelin-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 2336,
+    "title": "Kiniro Mosaic",
+    "animegg_url": "https://www.animegg.org/series/kiniro-mosaic",
+    "mal_url": "https://myanimelist.net/anime/16732",
+    "mal_id": 16732,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/20464",
+        "dub": null,
+        "url": "https://www.animegg.org/kiniro-mosaic-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/20463",
+        "dub": null,
+        "url": "https://www.animegg.org/kiniro-mosaic-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/20462",
+        "dub": null,
+        "url": "https://www.animegg.org/kiniro-mosaic-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/20460",
+        "dub": null,
+        "url": "https://www.animegg.org/kiniro-mosaic-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/20461",
+        "dub": null,
+        "url": "https://www.animegg.org/kiniro-mosaic-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/20465",
+        "dub": null,
+        "url": "https://www.animegg.org/kiniro-mosaic-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/20467",
+        "dub": null,
+        "url": "https://www.animegg.org/kiniro-mosaic-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/20466",
+        "dub": null,
+        "url": "https://www.animegg.org/kiniro-mosaic-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/20468",
+        "dub": null,
+        "url": "https://www.animegg.org/kiniro-mosaic-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/20469",
+        "dub": null,
+        "url": "https://www.animegg.org/kiniro-mosaic-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/20470",
+        "dub": null,
+        "url": "https://www.animegg.org/kiniro-mosaic-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/20471",
+        "dub": null,
+        "url": "https://www.animegg.org/kiniro-mosaic-episode-12"
+      }
+    ]
   }
 ]
