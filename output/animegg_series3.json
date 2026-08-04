@@ -103548,5 +103548,87 @@
         "url": "https://www.animegg.org/love-get-chu-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 2366,
+    "title": "Lostorage Incited WIXOSS",
+    "animegg_url": "https://www.animegg.org/series/lostorage-incited-wixoss",
+    "mal_url": "https://myanimelist.net/anime/33197",
+    "mal_id": 33197,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/84156",
+        "dub": "https://www.animegg.org/embed/84158",
+        "url": "https://www.animegg.org/lostorage-incited-wixoss-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/84260",
+        "dub": null,
+        "url": "https://www.animegg.org/lostorage-incited-wixoss-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/84374",
+        "dub": null,
+        "url": "https://www.animegg.org/lostorage-incited-wixoss-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/84468",
+        "dub": null,
+        "url": "https://www.animegg.org/lostorage-incited-wixoss-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/84562",
+        "dub": null,
+        "url": "https://www.animegg.org/lostorage-incited-wixoss-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/84657",
+        "dub": null,
+        "url": "https://www.animegg.org/lostorage-incited-wixoss-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/84755",
+        "dub": null,
+        "url": "https://www.animegg.org/lostorage-incited-wixoss-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/84856",
+        "dub": null,
+        "url": "https://www.animegg.org/lostorage-incited-wixoss-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/84950",
+        "dub": null,
+        "url": "https://www.animegg.org/lostorage-incited-wixoss-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/85025",
+        "dub": null,
+        "url": "https://www.animegg.org/lostorage-incited-wixoss-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/85133",
+        "dub": null,
+        "url": "https://www.animegg.org/lostorage-incited-wixoss-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/85250",
+        "dub": null,
+        "url": "https://www.animegg.org/lostorage-incited-wixoss-episode-12"
+      }
+    ]
   }
 ]
