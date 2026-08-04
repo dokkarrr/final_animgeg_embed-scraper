@@ -75372,5 +75372,87 @@
         "url": "https://www.animegg.org/kuroshitsuji-book-of-murder-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 2123,
+    "title": "Sunoharasou no Kanrinin-san",
+    "animegg_url": "https://www.animegg.org/series/sunoharasou-no-kanrinin-san",
+    "mal_url": "https://myanimelist.net/anime/36817",
+    "mal_id": 36817,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/91758",
+        "dub": "https://www.animegg.org/embed/91775",
+        "url": "https://www.animegg.org/sunoharasou-no-kanrinin-san-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/91925",
+        "dub": "https://www.animegg.org/embed/91961",
+        "url": "https://www.animegg.org/sunoharasou-no-kanrinin-san-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/92049",
+        "dub": null,
+        "url": "https://www.animegg.org/sunoharasou-no-kanrinin-san-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/92050",
+        "dub": null,
+        "url": "https://www.animegg.org/sunoharasou-no-kanrinin-san-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/92178",
+        "dub": null,
+        "url": "https://www.animegg.org/sunoharasou-no-kanrinin-san-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/92246",
+        "dub": null,
+        "url": "https://www.animegg.org/sunoharasou-no-kanrinin-san-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/92404",
+        "dub": null,
+        "url": "https://www.animegg.org/sunoharasou-no-kanrinin-san-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/92598",
+        "dub": null,
+        "url": "https://www.animegg.org/sunoharasou-no-kanrinin-san-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/92702",
+        "dub": null,
+        "url": "https://www.animegg.org/sunoharasou-no-kanrinin-san-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/92811",
+        "dub": null,
+        "url": "https://www.animegg.org/sunoharasou-no-kanrinin-san-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/92874",
+        "dub": null,
+        "url": "https://www.animegg.org/sunoharasou-no-kanrinin-san-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/92994",
+        "dub": null,
+        "url": "https://www.animegg.org/sunoharasou-no-kanrinin-san-episode-12"
+      }
+    ]
   }
 ]
