@@ -40852,5 +40852,63 @@
         "url": "https://www.animegg.org/one-piece-2000-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 1830,
+    "title": "To Be Heroine",
+    "animegg_url": "https://www.animegg.org/series/to-be-heroine",
+    "mal_url": "https://myanimelist.net/anime/35044",
+    "mal_id": 35044,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/91212",
+        "dub": null,
+        "url": "https://www.animegg.org/to-be-heroine-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/91295",
+        "dub": null,
+        "url": "https://www.animegg.org/to-be-heroine-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/91382",
+        "dub": null,
+        "url": "https://www.animegg.org/to-be-heroine-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/91467",
+        "dub": null,
+        "url": "https://www.animegg.org/to-be-heroine-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/91831",
+        "dub": null,
+        "url": "https://www.animegg.org/to-be-heroine-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/91699",
+        "dub": null,
+        "url": "https://www.animegg.org/to-be-heroine-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/91784",
+        "dub": null,
+        "url": "https://www.animegg.org/to-be-heroine-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/to-be-heroine-episode-8"
+      }
+    ]
   }
 ]
