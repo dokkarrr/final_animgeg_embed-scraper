@@ -126389,5 +126389,87 @@
         "url": "https://www.animegg.org/summer-pockets-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 2597,
+    "title": "Hagane Orchestra",
+    "animegg_url": "https://www.animegg.org/series/hagane-orchestra",
+    "mal_url": "https://myanimelist.net/anime/34013",
+    "mal_id": 34013,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/84521",
+        "dub": null,
+        "url": "https://www.animegg.org/hagane-orchestra-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/84804",
+        "dub": null,
+        "url": "https://www.animegg.org/hagane-orchestra-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/84805",
+        "dub": null,
+        "url": "https://www.animegg.org/hagane-orchestra-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/84806",
+        "dub": null,
+        "url": "https://www.animegg.org/hagane-orchestra-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/84807",
+        "dub": null,
+        "url": "https://www.animegg.org/hagane-orchestra-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/84808",
+        "dub": null,
+        "url": "https://www.animegg.org/hagane-orchestra-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/84809",
+        "dub": null,
+        "url": "https://www.animegg.org/hagane-orchestra-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/84896",
+        "dub": null,
+        "url": "https://www.animegg.org/hagane-orchestra-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/84968",
+        "dub": null,
+        "url": "https://www.animegg.org/hagane-orchestra-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/85082",
+        "dub": null,
+        "url": "https://www.animegg.org/hagane-orchestra-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/85180",
+        "dub": null,
+        "url": "https://www.animegg.org/hagane-orchestra-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/85291",
+        "dub": null,
+        "url": "https://www.animegg.org/hagane-orchestra-episode-12"
+      }
+    ]
   }
 ]
