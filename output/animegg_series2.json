@@ -72204,5 +72204,87 @@
         "url": "https://www.animegg.org/akame-ga-kill-theater-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 924,
+    "title": "Katanagatari",
+    "animegg_url": "https://www.animegg.org/series/katanagatari",
+    "mal_url": "https://myanimelist.net/anime/6594",
+    "mal_id": 6594,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/19679",
+        "dub": null,
+        "url": "https://www.animegg.org/katanagatari-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/19678",
+        "dub": null,
+        "url": "https://www.animegg.org/katanagatari-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/19677",
+        "dub": null,
+        "url": "https://www.animegg.org/katanagatari-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/19680",
+        "dub": null,
+        "url": "https://www.animegg.org/katanagatari-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/19676",
+        "dub": null,
+        "url": "https://www.animegg.org/katanagatari-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/19681",
+        "dub": null,
+        "url": "https://www.animegg.org/katanagatari-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/19683",
+        "dub": null,
+        "url": "https://www.animegg.org/katanagatari-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/19682",
+        "dub": null,
+        "url": "https://www.animegg.org/katanagatari-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/19684",
+        "dub": null,
+        "url": "https://www.animegg.org/katanagatari-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/19685",
+        "dub": null,
+        "url": "https://www.animegg.org/katanagatari-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/19686",
+        "dub": null,
+        "url": "https://www.animegg.org/katanagatari-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/19687",
+        "dub": null,
+        "url": "https://www.animegg.org/katanagatari-episode-12"
+      }
+    ]
   }
 ]
