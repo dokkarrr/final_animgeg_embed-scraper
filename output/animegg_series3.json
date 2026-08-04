@@ -12052,5 +12052,99 @@
         "url": "https://www.animegg.org/majin-tantei-nougami-neuro-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 1638,
+    "title": "Kannagi",
+    "animegg_url": "https://www.animegg.org/series/kannagi",
+    "mal_url": "https://myanimelist.net/anime/3958",
+    "mal_id": 3958,
+    "total_ep": 14,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/55931",
+        "dub": null,
+        "url": "https://www.animegg.org/kannagi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/55932",
+        "dub": null,
+        "url": "https://www.animegg.org/kannagi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/55933",
+        "dub": null,
+        "url": "https://www.animegg.org/kannagi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/55934",
+        "dub": null,
+        "url": "https://www.animegg.org/kannagi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/55935",
+        "dub": null,
+        "url": "https://www.animegg.org/kannagi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/55936",
+        "dub": null,
+        "url": "https://www.animegg.org/kannagi-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/55937",
+        "dub": null,
+        "url": "https://www.animegg.org/kannagi-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/55938",
+        "dub": null,
+        "url": "https://www.animegg.org/kannagi-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/55939",
+        "dub": null,
+        "url": "https://www.animegg.org/kannagi-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/55940",
+        "dub": null,
+        "url": "https://www.animegg.org/kannagi-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/55941",
+        "dub": null,
+        "url": "https://www.animegg.org/kannagi-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/55942",
+        "dub": null,
+        "url": "https://www.animegg.org/kannagi-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/55943",
+        "dub": null,
+        "url": "https://www.animegg.org/kannagi-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/55944",
+        "dub": null,
+        "url": "https://www.animegg.org/kannagi-episode-14"
+      }
+    ]
   }
 ]
