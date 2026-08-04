@@ -67020,5 +67020,87 @@
         "url": "https://www.animegg.org/honey-and-clover-ii-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2045,
+    "title": "Kaiba",
+    "animegg_url": "https://www.animegg.org/series/kaiba",
+    "mal_url": "https://myanimelist.net/anime/3701",
+    "mal_id": 3701,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/18901",
+        "dub": null,
+        "url": "https://www.animegg.org/kaiba-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/18898",
+        "dub": null,
+        "url": "https://www.animegg.org/kaiba-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/18899",
+        "dub": null,
+        "url": "https://www.animegg.org/kaiba-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/18897",
+        "dub": null,
+        "url": "https://www.animegg.org/kaiba-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/18900",
+        "dub": null,
+        "url": "https://www.animegg.org/kaiba-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/18903",
+        "dub": null,
+        "url": "https://www.animegg.org/kaiba-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/18902",
+        "dub": null,
+        "url": "https://www.animegg.org/kaiba-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/18904",
+        "dub": null,
+        "url": "https://www.animegg.org/kaiba-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/18905",
+        "dub": null,
+        "url": "https://www.animegg.org/kaiba-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/18906",
+        "dub": null,
+        "url": "https://www.animegg.org/kaiba-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/18907",
+        "dub": null,
+        "url": "https://www.animegg.org/kaiba-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/18908",
+        "dub": null,
+        "url": "https://www.animegg.org/kaiba-episode-12"
+      }
+    ]
   }
 ]
