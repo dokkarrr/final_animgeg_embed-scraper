@@ -98030,5 +98030,87 @@
         "url": "https://www.animegg.org/wagamama-high-spec-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2311,
+    "title": "To Aru Kagaku no Accelerator",
+    "animegg_url": "https://www.animegg.org/series/to-aru-kagaku-no-accelerator",
+    "mal_url": "https://myanimelist.net/anime/38480",
+    "mal_id": 38480,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/95890",
+        "dub": null,
+        "url": "https://www.animegg.org/to-aru-kagaku-no-accelerator-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/95968",
+        "dub": null,
+        "url": "https://www.animegg.org/to-aru-kagaku-no-accelerator-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/96035",
+        "dub": null,
+        "url": "https://www.animegg.org/to-aru-kagaku-no-accelerator-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/96088",
+        "dub": null,
+        "url": "https://www.animegg.org/to-aru-kagaku-no-accelerator-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/96147",
+        "dub": null,
+        "url": "https://www.animegg.org/to-aru-kagaku-no-accelerator-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/96204",
+        "dub": null,
+        "url": "https://www.animegg.org/to-aru-kagaku-no-accelerator-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/96266",
+        "dub": null,
+        "url": "https://www.animegg.org/to-aru-kagaku-no-accelerator-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/96325",
+        "dub": null,
+        "url": "https://www.animegg.org/to-aru-kagaku-no-accelerator-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/96387",
+        "dub": null,
+        "url": "https://www.animegg.org/to-aru-kagaku-no-accelerator-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/96444",
+        "dub": null,
+        "url": "https://www.animegg.org/to-aru-kagaku-no-accelerator-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/96502",
+        "dub": null,
+        "url": "https://www.animegg.org/to-aru-kagaku-no-accelerator-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/96552",
+        "dub": null,
+        "url": "https://www.animegg.org/to-aru-kagaku-no-accelerator-episode-12"
+      }
+    ]
   }
 ]
