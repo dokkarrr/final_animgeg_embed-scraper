@@ -96196,5 +96196,93 @@
         "url": "https://www.animegg.org/atom-the-beginning-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2292,
+    "title": "Lodoss-tou Senki",
+    "animegg_url": "https://www.animegg.org/series/lodoss-tou-senki",
+    "mal_url": "https://myanimelist.net/anime/207",
+    "mal_id": 207,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/44012",
+        "dub": "https://www.animegg.org/embed/44013",
+        "url": "https://www.animegg.org/lodoss-tou-senki-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/44014",
+        "dub": "https://www.animegg.org/embed/44015",
+        "url": "https://www.animegg.org/lodoss-tou-senki-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/44016",
+        "dub": "https://www.animegg.org/embed/44017",
+        "url": "https://www.animegg.org/lodoss-tou-senki-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/44018",
+        "dub": "https://www.animegg.org/embed/44019",
+        "url": "https://www.animegg.org/lodoss-tou-senki-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/44020",
+        "dub": "https://www.animegg.org/embed/44021",
+        "url": "https://www.animegg.org/lodoss-tou-senki-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/44022",
+        "dub": "https://www.animegg.org/embed/44023",
+        "url": "https://www.animegg.org/lodoss-tou-senki-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/44024",
+        "dub": "https://www.animegg.org/embed/44025",
+        "url": "https://www.animegg.org/lodoss-tou-senki-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/44026",
+        "dub": "https://www.animegg.org/embed/44027",
+        "url": "https://www.animegg.org/lodoss-tou-senki-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/44028",
+        "dub": "https://www.animegg.org/embed/44029",
+        "url": "https://www.animegg.org/lodoss-tou-senki-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/44030",
+        "dub": "https://www.animegg.org/embed/44031",
+        "url": "https://www.animegg.org/lodoss-tou-senki-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/44032",
+        "dub": "https://www.animegg.org/embed/44033",
+        "url": "https://www.animegg.org/lodoss-tou-senki-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/44034",
+        "dub": "https://www.animegg.org/embed/44035",
+        "url": "https://www.animegg.org/lodoss-tou-senki-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/44036",
+        "dub": "https://www.animegg.org/embed/44037",
+        "url": "https://www.animegg.org/lodoss-tou-senki-episode-13"
+      }
+    ]
   }
 ]
