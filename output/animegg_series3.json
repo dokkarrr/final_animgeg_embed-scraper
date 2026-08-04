@@ -118078,5 +118078,45 @@
         "url": "https://www.animegg.org/magical-idol-pastel-yumi-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 2520,
+    "title": "Black Lagoon: Roberta's Blood Trail",
+    "animegg_url": "https://www.animegg.org/series/black-lagoon-robertas-blood-trail",
+    "mal_url": "https://myanimelist.net/anime/4901",
+    "mal_id": 4901,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/3259",
+        "dub": "https://www.animegg.org/embed/3260",
+        "url": "https://www.animegg.org/black-lagoon-robertas-blood-trail-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/3263",
+        "dub": "https://www.animegg.org/embed/3264",
+        "url": "https://www.animegg.org/black-lagoon-robertas-blood-trail-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/3261",
+        "dub": "https://www.animegg.org/embed/3262",
+        "url": "https://www.animegg.org/black-lagoon-robertas-blood-trail-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/3257",
+        "dub": "https://www.animegg.org/embed/3258",
+        "url": "https://www.animegg.org/black-lagoon-robertas-blood-trail-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/3255",
+        "dub": "https://www.animegg.org/embed/3256",
+        "url": "https://www.animegg.org/black-lagoon-robertas-blood-trail-episode-5"
+      }
+    ]
   }
 ]
