@@ -11374,5 +11374,93 @@
         "url": "https://www.animegg.org/gundam-0083-stardust-memory-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 1632,
+    "title": "Bokutachi wa Benkyou ga Dekinai",
+    "animegg_url": "https://www.animegg.org/series/bokutachi-wa-benkyou-ga-dekinai",
+    "mal_url": "https://myanimelist.net/anime/38186",
+    "mal_id": 38186,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/95016",
+        "dub": null,
+        "url": "https://www.animegg.org/bokutachi-wa-benkyou-ga-dekinai-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/95078",
+        "dub": null,
+        "url": "https://www.animegg.org/bokutachi-wa-benkyou-ga-dekinai-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/95140",
+        "dub": null,
+        "url": "https://www.animegg.org/bokutachi-wa-benkyou-ga-dekinai-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/95204",
+        "dub": null,
+        "url": "https://www.animegg.org/bokutachi-wa-benkyou-ga-dekinai-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/95268",
+        "dub": null,
+        "url": "https://www.animegg.org/bokutachi-wa-benkyou-ga-dekinai-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/95325",
+        "dub": null,
+        "url": "https://www.animegg.org/bokutachi-wa-benkyou-ga-dekinai-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/95387",
+        "dub": null,
+        "url": "https://www.animegg.org/bokutachi-wa-benkyou-ga-dekinai-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/95446",
+        "dub": null,
+        "url": "https://www.animegg.org/bokutachi-wa-benkyou-ga-dekinai-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/95500",
+        "dub": null,
+        "url": "https://www.animegg.org/bokutachi-wa-benkyou-ga-dekinai-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/95590",
+        "dub": null,
+        "url": "https://www.animegg.org/bokutachi-wa-benkyou-ga-dekinai-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/95655",
+        "dub": null,
+        "url": "https://www.animegg.org/bokutachi-wa-benkyou-ga-dekinai-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/95715",
+        "dub": null,
+        "url": "https://www.animegg.org/bokutachi-wa-benkyou-ga-dekinai-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/95781",
+        "dub": null,
+        "url": "https://www.animegg.org/bokutachi-wa-benkyou-ga-dekinai-episode-13"
+      }
+    ]
   }
 ]
