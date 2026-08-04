@@ -16164,5 +16164,93 @@
         "url": "https://www.animegg.org/ixion-saga-dt-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 597,
+    "title": "Amagi Brilliant Park",
+    "animegg_url": "https://www.animegg.org/series/amagi-brilliant-park",
+    "mal_url": "https://myanimelist.net/anime/22147",
+    "mal_id": 22147,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66152",
+        "dub": null,
+        "url": "https://www.animegg.org/amagi-brilliant-park-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/66153",
+        "dub": "https://www.animegg.org/embed/66154",
+        "url": "https://www.animegg.org/amagi-brilliant-park-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/66155",
+        "dub": "https://www.animegg.org/embed/66156",
+        "url": "https://www.animegg.org/amagi-brilliant-park-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/66157",
+        "dub": "https://www.animegg.org/embed/66158",
+        "url": "https://www.animegg.org/amagi-brilliant-park-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/66159",
+        "dub": "https://www.animegg.org/embed/66160",
+        "url": "https://www.animegg.org/amagi-brilliant-park-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/66545",
+        "dub": "https://www.animegg.org/embed/66561",
+        "url": "https://www.animegg.org/amagi-brilliant-park-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/66728",
+        "dub": "https://www.animegg.org/embed/66843",
+        "url": "https://www.animegg.org/amagi-brilliant-park-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/67145",
+        "dub": "https://www.animegg.org/embed/67177",
+        "url": "https://www.animegg.org/amagi-brilliant-park-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/67259",
+        "dub": "https://www.animegg.org/embed/67267",
+        "url": "https://www.animegg.org/amagi-brilliant-park-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/67397",
+        "dub": "https://www.animegg.org/embed/67406",
+        "url": "https://www.animegg.org/amagi-brilliant-park-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/67523",
+        "dub": "https://www.animegg.org/embed/67534",
+        "url": "https://www.animegg.org/amagi-brilliant-park-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/67637",
+        "dub": "https://www.animegg.org/embed/67645",
+        "url": "https://www.animegg.org/amagi-brilliant-park-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/67743",
+        "dub": "https://www.animegg.org/embed/67752",
+        "url": "https://www.animegg.org/amagi-brilliant-park-episode-13"
+      }
+    ]
   }
 ]
