@@ -102420,5 +102420,87 @@
         "url": "https://www.animegg.org/rozen-maiden-traumend-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2354,
+    "title": "Military!",
+    "animegg_url": "https://www.animegg.org/series/military",
+    "mal_url": "https://myanimelist.net/anime/26085",
+    "mal_id": 26085,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/68136",
+        "dub": "https://www.animegg.org/embed/68605",
+        "url": "https://www.animegg.org/military-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/72152",
+        "dub": "https://www.animegg.org/embed/72153",
+        "url": "https://www.animegg.org/military-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/73644",
+        "dub": "https://www.animegg.org/embed/73645",
+        "url": "https://www.animegg.org/military-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/74189",
+        "dub": null,
+        "url": "https://www.animegg.org/military-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/74755",
+        "dub": "https://www.animegg.org/embed/74760",
+        "url": "https://www.animegg.org/military-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/74870",
+        "dub": "https://www.animegg.org/embed/74871",
+        "url": "https://www.animegg.org/military-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/74992",
+        "dub": null,
+        "url": "https://www.animegg.org/military-episode"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/75119",
+        "dub": "https://www.animegg.org/embed/75125",
+        "url": "https://www.animegg.org/military-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/75319",
+        "dub": "https://www.animegg.org/embed/75327",
+        "url": "https://www.animegg.org/military-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/75543",
+        "dub": "https://www.animegg.org/embed/75562",
+        "url": "https://www.animegg.org/military-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/75704",
+        "dub": "https://www.animegg.org/embed/121829",
+        "url": "https://www.animegg.org/military-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/75823",
+        "dub": null,
+        "url": "https://www.animegg.org/military-episode-12"
+      }
+    ]
   }
 ]
