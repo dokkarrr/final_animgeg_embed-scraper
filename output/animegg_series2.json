@@ -55658,5 +55658,93 @@
         "url": "https://www.animegg.org/the-world-god-only-knows-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 824,
+    "title": "Witch Craft Works",
+    "animegg_url": "https://www.animegg.org/series/witch-craft-works",
+    "mal_url": "https://myanimelist.net/anime/21085",
+    "mal_id": 21085,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/63715",
+        "dub": null,
+        "url": "https://www.animegg.org/witch-craft-works-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/63716",
+        "dub": null,
+        "url": "https://www.animegg.org/witch-craft-works-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/63717",
+        "dub": null,
+        "url": "https://www.animegg.org/witch-craft-works-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/63718",
+        "dub": null,
+        "url": "https://www.animegg.org/witch-craft-works-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/63719",
+        "dub": null,
+        "url": "https://www.animegg.org/witch-craft-works-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/63720",
+        "dub": null,
+        "url": "https://www.animegg.org/witch-craft-works-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/63721",
+        "dub": null,
+        "url": "https://www.animegg.org/witch-craft-works-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/63722",
+        "dub": null,
+        "url": "https://www.animegg.org/witch-craft-works-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/63723",
+        "dub": null,
+        "url": "https://www.animegg.org/witch-craft-works-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/63724",
+        "dub": null,
+        "url": "https://www.animegg.org/witch-craft-works-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/63725",
+        "dub": null,
+        "url": "https://www.animegg.org/witch-craft-works-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/63726",
+        "dub": null,
+        "url": "https://www.animegg.org/witch-craft-works-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/69684",
+        "dub": null,
+        "url": "https://www.animegg.org/witch-craft-works-episode-13"
+      }
+    ]
   }
 ]
