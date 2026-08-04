@@ -77242,5 +77242,87 @@
         "url": "https://www.animegg.org/nogizaka-haruka-no-himitsu-2-purezza-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 2145,
+    "title": "Sentouin, Hakenshimasu!",
+    "animegg_url": "https://www.animegg.org/series/sentouin-hakenshimasu",
+    "mal_url": "https://myanimelist.net/anime/41456",
+    "mal_id": 41456,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/101350",
+        "dub": null,
+        "url": "https://www.animegg.org/sentouin-hakenshimasu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/101409",
+        "dub": null,
+        "url": "https://www.animegg.org/sentouin-hakenshimasu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/101472",
+        "dub": null,
+        "url": "https://www.animegg.org/sentouin-hakenshimasu-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/101532",
+        "dub": null,
+        "url": "https://www.animegg.org/sentouin-hakenshimasu-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/101598",
+        "dub": null,
+        "url": "https://www.animegg.org/sentouin-hakenshimasu-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/101661",
+        "dub": null,
+        "url": "https://www.animegg.org/sentouin-hakenshimasu-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/101727",
+        "dub": null,
+        "url": "https://www.animegg.org/sentouin-hakenshimasu-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/101801",
+        "dub": null,
+        "url": "https://www.animegg.org/sentouin-hakenshimasu-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/101873",
+        "dub": null,
+        "url": "https://www.animegg.org/sentouin-hakenshimasu-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/101952",
+        "dub": null,
+        "url": "https://www.animegg.org/sentouin-hakenshimasu-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/102017",
+        "dub": null,
+        "url": "https://www.animegg.org/sentouin-hakenshimasu-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/102097",
+        "dub": null,
+        "url": "https://www.animegg.org/sentouin-hakenshimasu-episode-12"
+      }
+    ]
   }
 ]
