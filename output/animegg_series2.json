@@ -89778,5 +89778,81 @@
         "url": "https://www.animegg.org/heidi-girl-of-the-alps-episode-52"
       }
     ]
+  },
+  {
+    "serial_no": 1032,
+    "title": "Inuyashiki",
+    "animegg_url": "https://www.animegg.org/series/inuyashiki",
+    "mal_url": "https://myanimelist.net/anime/34542",
+    "mal_id": 34542,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/88634",
+        "dub": null,
+        "url": "https://www.animegg.org/inuyashiki-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/88717",
+        "dub": null,
+        "url": "https://www.animegg.org/inuyashiki-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/88805",
+        "dub": null,
+        "url": "https://www.animegg.org/inuyashiki-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/88890",
+        "dub": null,
+        "url": "https://www.animegg.org/inuyashiki-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/88977",
+        "dub": null,
+        "url": "https://www.animegg.org/inuyashiki-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/89066",
+        "dub": null,
+        "url": "https://www.animegg.org/inuyashiki-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/89144",
+        "dub": null,
+        "url": "https://www.animegg.org/inuyashiki-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/89221",
+        "dub": null,
+        "url": "https://www.animegg.org/inuyashiki-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/89298",
+        "dub": null,
+        "url": "https://www.animegg.org/inuyashiki-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/89378",
+        "dub": null,
+        "url": "https://www.animegg.org/inuyashiki-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/89449",
+        "dub": null,
+        "url": "https://www.animegg.org/inuyashiki-episode-11"
+      }
+    ]
   }
 ]
