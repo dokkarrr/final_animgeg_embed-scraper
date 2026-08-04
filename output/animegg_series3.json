@@ -102724,5 +102724,87 @@
         "url": "https://www.animegg.org/gin-no-saji-2nd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 2358,
+    "title": "Girlfriend (Kari)",
+    "animegg_url": "https://www.animegg.org/series/girlfriend-kari",
+    "mal_url": "https://myanimelist.net/anime/24855",
+    "mal_id": 24855,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66227",
+        "dub": null,
+        "url": "https://www.animegg.org/girlfriend-kari-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/66228",
+        "dub": null,
+        "url": "https://www.animegg.org/girlfriend-kari-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/66229",
+        "dub": null,
+        "url": "https://www.animegg.org/girlfriend-kari-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/66230",
+        "dub": null,
+        "url": "https://www.animegg.org/girlfriend-kari-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/66618",
+        "dub": null,
+        "url": "https://www.animegg.org/girlfriend-kari-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/66909",
+        "dub": null,
+        "url": "https://www.animegg.org/girlfriend-kari-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/67197",
+        "dub": null,
+        "url": "https://www.animegg.org/girlfriend-kari-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/67340",
+        "dub": null,
+        "url": "https://www.animegg.org/girlfriend-kari-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/67462",
+        "dub": null,
+        "url": "https://www.animegg.org/girlfriend-kari-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/67590",
+        "dub": null,
+        "url": "https://www.animegg.org/girlfriend-kari-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/67701",
+        "dub": null,
+        "url": "https://www.animegg.org/girlfriend-kari-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/67786",
+        "dub": null,
+        "url": "https://www.animegg.org/girlfriend-kari-episode-12"
+      }
+    ]
   }
 ]
