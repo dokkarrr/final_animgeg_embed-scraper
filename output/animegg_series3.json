@@ -1044,5 +1044,63 @@
         "url": "https://www.animegg.org/marie-gali-episode-40"
       }
     ]
+  },
+  {
+    "serial_no": 1547,
+    "title": "Arslan Senki (TV): Fuujin Ranbu",
+    "animegg_url": "https://www.animegg.org/series/arslan-senki-tv-fuujin-ranbu",
+    "mal_url": "https://myanimelist.net/anime/31821",
+    "mal_id": 31821,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/82933",
+        "dub": null,
+        "url": "https://www.animegg.org/arslan-senki-tv-fuujin-ranbu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/83012",
+        "dub": null,
+        "url": "https://www.animegg.org/arslan-senki-tv-fuujin-ranbu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/83119",
+        "dub": null,
+        "url": "https://www.animegg.org/arslan-senki-tv-fuujin-ranbu-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/83228",
+        "dub": null,
+        "url": "https://www.animegg.org/arslan-senki-tv-fuujin-ranbu-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/83314",
+        "dub": null,
+        "url": "https://www.animegg.org/arslan-senki-tv-fuujin-ranbu-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/83403",
+        "dub": null,
+        "url": "https://www.animegg.org/arslan-senki-tv-fuujin-ranbu-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/83493",
+        "dub": null,
+        "url": "https://www.animegg.org/arslan-senki-tv-fuujin-ranbu-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/83575",
+        "dub": null,
+        "url": "https://www.animegg.org/arslan-senki-tv-fuujin-ranbu-episode-8"
+      }
+    ]
   }
 ]
