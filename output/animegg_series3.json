@@ -57438,5 +57438,75 @@
         "url": "https://www.animegg.org/reikenzan-eichi-e-no-shikaku-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1952,
+    "title": "Hitsugi no Chaika: Avenging Battle",
+    "animegg_url": "https://www.animegg.org/series/hitsugi-no-chaika-avenging-battle",
+    "mal_url": "https://myanimelist.net/anime/24231",
+    "mal_id": 24231,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66370",
+        "dub": null,
+        "url": "https://www.animegg.org/hitsugi-no-chaika-avenging-battle-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/66371",
+        "dub": null,
+        "url": "https://www.animegg.org/hitsugi-no-chaika-avenging-battle-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/66372",
+        "dub": null,
+        "url": "https://www.animegg.org/hitsugi-no-chaika-avenging-battle-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/66373",
+        "dub": null,
+        "url": "https://www.animegg.org/hitsugi-no-chaika-avenging-battle-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/66526",
+        "dub": null,
+        "url": "https://www.animegg.org/hitsugi-no-chaika-avenging-battle-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/66676",
+        "dub": null,
+        "url": "https://www.animegg.org/hitsugi-no-chaika-avenging-battle-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/66982",
+        "dub": null,
+        "url": "https://www.animegg.org/hitsugi-no-chaika-avenging-battle-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/67241",
+        "dub": null,
+        "url": "https://www.animegg.org/hitsugi-no-chaika-avenging-battle-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/67382",
+        "dub": null,
+        "url": "https://www.animegg.org/hitsugi-no-chaika-avenging-battle-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/67501",
+        "dub": null,
+        "url": "https://www.animegg.org/hitsugi-no-chaika-avenging-battle-episode-10"
+      }
+    ]
   }
 ]
