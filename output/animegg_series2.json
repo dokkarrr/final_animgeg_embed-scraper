@@ -93312,5 +93312,99 @@
         "url": "https://www.animegg.org/hero-tales-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 1056,
+    "title": "Asobi ni Iku yo!",
+    "animegg_url": "https://www.animegg.org/series/asobi-ni-ikuyo",
+    "mal_url": "https://myanimelist.net/anime/6166",
+    "mal_id": 6166,
+    "total_ep": 14,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/1897",
+        "dub": "https://www.animegg.org/embed/79051",
+        "url": "https://www.animegg.org/asobi-ni-ikuyo-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/1896",
+        "dub": "https://www.animegg.org/embed/79050",
+        "url": "https://www.animegg.org/asobi-ni-ikuyo-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/1894",
+        "dub": "https://www.animegg.org/embed/79049",
+        "url": "https://www.animegg.org/asobi-ni-ikuyo-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/1895",
+        "dub": "https://www.animegg.org/embed/79048",
+        "url": "https://www.animegg.org/asobi-ni-ikuyo-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/1893",
+        "dub": "https://www.animegg.org/embed/79047",
+        "url": "https://www.animegg.org/asobi-ni-ikuyo-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/1898",
+        "dub": "https://www.animegg.org/embed/79046",
+        "url": "https://www.animegg.org/asobi-ni-ikuyo-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/1899",
+        "dub": "https://www.animegg.org/embed/79045",
+        "url": "https://www.animegg.org/asobi-ni-ikuyo-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/1900",
+        "dub": "https://www.animegg.org/embed/79044",
+        "url": "https://www.animegg.org/asobi-ni-ikuyo-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/1902",
+        "dub": null,
+        "url": "https://www.animegg.org/asobi-ni-ikuyo-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/1901",
+        "dub": "https://www.animegg.org/embed/79042",
+        "url": "https://www.animegg.org/asobi-ni-ikuyo-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/1903",
+        "dub": "https://www.animegg.org/embed/79041",
+        "url": "https://www.animegg.org/asobi-ni-ikuyo-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/1904",
+        "dub": "https://www.animegg.org/embed/79040",
+        "url": "https://www.animegg.org/asobi-ni-ikuyo-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/1905",
+        "dub": "https://www.animegg.org/embed/79039",
+        "url": "https://www.animegg.org/asobi-ni-iku-yo-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/1906",
+        "dub": null,
+        "url": "https://www.animegg.org/asobi-ni-iku-yo-episode-14"
+      }
+    ]
   }
 ]
