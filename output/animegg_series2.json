@@ -21642,5 +21642,87 @@
         "url": "https://www.animegg.org/ninku-episode-55"
       }
     ]
+  },
+  {
+    "serial_no": 630,
+    "title": "Princess Lover!",
+    "animegg_url": "https://www.animegg.org/series/princess-lover",
+    "mal_url": "https://myanimelist.net/anime/6201",
+    "mal_id": 6201,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/30999",
+        "dub": null,
+        "url": "https://www.animegg.org/princess-lover-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/30997",
+        "dub": null,
+        "url": "https://www.animegg.org/princess-lover-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/31003",
+        "dub": null,
+        "url": "https://www.animegg.org/princess-lover-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/30998",
+        "dub": null,
+        "url": "https://www.animegg.org/princess-lover-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/31000",
+        "dub": null,
+        "url": "https://www.animegg.org/princess-lover-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/31001",
+        "dub": null,
+        "url": "https://www.animegg.org/princess-lover-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/31008",
+        "dub": null,
+        "url": "https://www.animegg.org/princess-lover-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/31005",
+        "dub": null,
+        "url": "https://www.animegg.org/princess-lover-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/31002",
+        "dub": null,
+        "url": "https://www.animegg.org/princess-lover-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/31004",
+        "dub": null,
+        "url": "https://www.animegg.org/princess-lover-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/31006",
+        "dub": null,
+        "url": "https://www.animegg.org/princess-lover-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/31007",
+        "dub": null,
+        "url": "https://www.animegg.org/princess-lover-episode-12"
+      }
+    ]
   }
 ]
