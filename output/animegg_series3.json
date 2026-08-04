@@ -67488,5 +67488,93 @@
         "url": "https://www.animegg.org/coppelion-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2051,
+    "title": "Night Wizard",
+    "animegg_url": "https://www.animegg.org/series/night-wizard",
+    "mal_url": "https://myanimelist.net/anime/2970",
+    "mal_id": 2970,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/27181",
+        "dub": null,
+        "url": "https://www.animegg.org/night-wizard-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/27184",
+        "dub": null,
+        "url": "https://www.animegg.org/night-wizard-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/27183",
+        "dub": null,
+        "url": "https://www.animegg.org/night-wizard-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/27185",
+        "dub": null,
+        "url": "https://www.animegg.org/night-wizard-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/27182",
+        "dub": null,
+        "url": "https://www.animegg.org/night-wizard-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/27188",
+        "dub": null,
+        "url": "https://www.animegg.org/night-wizard-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/27186",
+        "dub": null,
+        "url": "https://www.animegg.org/night-wizard-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/27187",
+        "dub": null,
+        "url": "https://www.animegg.org/night-wizard-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/27190",
+        "dub": null,
+        "url": "https://www.animegg.org/night-wizard-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/27189",
+        "dub": null,
+        "url": "https://www.animegg.org/night-wizard-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/27193",
+        "dub": null,
+        "url": "https://www.animegg.org/night-wizard-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/27191",
+        "dub": null,
+        "url": "https://www.animegg.org/night-wizard-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/27192",
+        "dub": null,
+        "url": "https://www.animegg.org/night-wizard-episode-13"
+      }
+    ]
   }
 ]
