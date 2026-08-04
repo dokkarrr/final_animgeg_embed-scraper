@@ -125624,5 +125624,75 @@
         "url": "https://www.animegg.org/kanojo-ga-flag-wo-oraretara-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 1244,
+    "title": "Love Stage!!",
+    "animegg_url": "https://www.animegg.org/series/love-stage",
+    "mal_url": "https://myanimelist.net/anime/21105",
+    "mal_id": 21105,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/45817",
+        "dub": "https://www.animegg.org/embed/45818",
+        "url": "https://www.animegg.org/love-stage-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/45819",
+        "dub": null,
+        "url": "https://www.animegg.org/love-stage-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/45820",
+        "dub": null,
+        "url": "https://www.animegg.org/love-stage-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/45821",
+        "dub": null,
+        "url": "https://www.animegg.org/love-stage-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/45822",
+        "dub": null,
+        "url": "https://www.animegg.org/love-stage-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/45823",
+        "dub": null,
+        "url": "https://www.animegg.org/love-stage-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/45824",
+        "dub": null,
+        "url": "https://www.animegg.org/love-stage-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/45825",
+        "dub": null,
+        "url": "https://www.animegg.org/love-stage-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/45826",
+        "dub": null,
+        "url": "https://www.animegg.org/love-stage-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/45827",
+        "dub": null,
+        "url": "https://www.animegg.org/love-stage-episode-10"
+      }
+    ]
   }
 ]
