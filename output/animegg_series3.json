@@ -23214,5 +23214,99 @@
         "url": "https://www.animegg.org/sidonia-no-kishi-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1694,
+    "title": "Wakaba*Girl",
+    "animegg_url": "https://www.animegg.org/series/wakaba-girl",
+    "mal_url": "https://myanimelist.net/anime/30355",
+    "mal_id": 30355,
+    "total_ep": 14,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/79679",
+        "dub": null,
+        "url": "https://www.animegg.org/wakaba-girl-episode-14"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/77672",
+        "dub": "https://www.animegg.org/embed/77681",
+        "url": "https://www.animegg.org/wakaba-girl-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/77814",
+        "dub": "https://www.animegg.org/embed/77817",
+        "url": "https://www.animegg.org/wakaba-girl-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/77992",
+        "dub": null,
+        "url": "https://www.animegg.org/wakaba-girl-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/78140",
+        "dub": null,
+        "url": "https://www.animegg.org/wakaba-girl-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/78279",
+        "dub": null,
+        "url": "https://www.animegg.org/wakaba-girl-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/78415",
+        "dub": null,
+        "url": "https://www.animegg.org/wakaba-girl-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/78518",
+        "dub": null,
+        "url": "https://www.animegg.org/wakaba-girl-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/78627",
+        "dub": null,
+        "url": "https://www.animegg.org/wakaba-girl-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/78742",
+        "dub": null,
+        "url": "https://www.animegg.org/wakaba-girl-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/78865",
+        "dub": null,
+        "url": "https://www.animegg.org/wakaba-girl-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/78977",
+        "dub": null,
+        "url": "https://www.animegg.org/wakaba-girl-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/79086",
+        "dub": null,
+        "url": "https://www.animegg.org/wakaba-girl-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/79182",
+        "dub": null,
+        "url": "https://www.animegg.org/wakaba-girl-episode-13"
+      }
+    ]
   }
 ]
