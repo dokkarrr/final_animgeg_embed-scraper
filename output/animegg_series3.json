@@ -11544,5 +11544,93 @@
         "url": "https://www.animegg.org/shingetsutan-tsukihime-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1634,
+    "title": "Infinite Dendrogram",
+    "animegg_url": "https://www.animegg.org/series/infinite-dendrogram",
+    "mal_url": "https://myanimelist.net/anime/38909",
+    "mal_id": 38909,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/97484",
+        "dub": null,
+        "url": "https://www.animegg.org/infinite-dendrogram-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/97556",
+        "dub": null,
+        "url": "https://www.animegg.org/infinite-dendrogram-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/97621",
+        "dub": null,
+        "url": "https://www.animegg.org/infinite-dendrogram-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/97691",
+        "dub": null,
+        "url": "https://www.animegg.org/infinite-dendrogram-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/97756",
+        "dub": null,
+        "url": "https://www.animegg.org/infinite-dendrogram-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/97820",
+        "dub": null,
+        "url": "https://www.animegg.org/infinite-dendrogram-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/97934",
+        "dub": null,
+        "url": "https://www.animegg.org/infinite-dendrogram-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/97990",
+        "dub": null,
+        "url": "https://www.animegg.org/infinite-dendrogram-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/98055",
+        "dub": null,
+        "url": "https://www.animegg.org/infinite-dendrogram-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/98113",
+        "dub": null,
+        "url": "https://www.animegg.org/infinite-dendrogram-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/98169",
+        "dub": null,
+        "url": "https://www.animegg.org/infinite-dendrogram-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/98219",
+        "dub": null,
+        "url": "https://www.animegg.org/infinite-dendrogram-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/98317",
+        "dub": null,
+        "url": "https://www.animegg.org/infinite-dendrogram-episode-13"
+      }
+    ]
   }
 ]
