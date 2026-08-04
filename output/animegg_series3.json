@@ -22116,5 +22116,87 @@
         "url": "https://www.animegg.org/granblue-fantasy-the-animation-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 1682,
+    "title": "Ikkitousen: Dragon Destiny",
+    "animegg_url": "https://www.animegg.org/series/ikkitousen-dragon-destiny",
+    "mal_url": "https://myanimelist.net/anime/1956",
+    "mal_id": 1956,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/17421",
+        "dub": "https://www.animegg.org/embed/70678",
+        "url": "https://www.animegg.org/ikkitousen-dragon-destiny-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/17420",
+        "dub": "https://www.animegg.org/embed/70676",
+        "url": "https://www.animegg.org/ikkitousen-dragon-destiny-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/17419",
+        "dub": "https://www.animegg.org/embed/70674",
+        "url": "https://www.animegg.org/ikkitousen-dragon-destiny-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/17417",
+        "dub": "https://www.animegg.org/embed/70672",
+        "url": "https://www.animegg.org/ikkitousen-dragon-destiny-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/17418",
+        "dub": "https://www.animegg.org/embed/70671",
+        "url": "https://www.animegg.org/ikkitousen-dragon-destiny-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/17422",
+        "dub": "https://www.animegg.org/embed/70669",
+        "url": "https://www.animegg.org/ikkitousen-dragon-destiny-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/17423",
+        "dub": "https://www.animegg.org/embed/70667",
+        "url": "https://www.animegg.org/ikkitousen-dragon-destiny-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/17424",
+        "dub": "https://www.animegg.org/embed/70665",
+        "url": "https://www.animegg.org/ikkitousen-dragon-destiny-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/17425",
+        "dub": "https://www.animegg.org/embed/70664",
+        "url": "https://www.animegg.org/ikkitousen-dragon-destiny-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/17426",
+        "dub": "https://www.animegg.org/embed/70663",
+        "url": "https://www.animegg.org/ikkitousen-dragon-destiny-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/17427",
+        "dub": "https://www.animegg.org/embed/70662",
+        "url": "https://www.animegg.org/ikkitousen-dragon-destiny-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/17428",
+        "dub": "https://www.animegg.org/embed/70660",
+        "url": "https://www.animegg.org/ikkitousen-dragon-destiny-episode-12"
+      }
+    ]
   }
 ]
