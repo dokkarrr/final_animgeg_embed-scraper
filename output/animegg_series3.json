@@ -92584,5 +92584,87 @@
         "url": "https://www.animegg.org/zettai-bouei-leviathan-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2256,
+    "title": "Doujin Work",
+    "animegg_url": "https://www.animegg.org/series/doujin-work",
+    "mal_url": "https://myanimelist.net/anime/2166",
+    "mal_id": 2166,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/9046",
+        "dub": null,
+        "url": "https://www.animegg.org/doujin-work-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/9045",
+        "dub": null,
+        "url": "https://www.animegg.org/doujin-work-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/9047",
+        "dub": null,
+        "url": "https://www.animegg.org/doujin-work-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/9048",
+        "dub": null,
+        "url": "https://www.animegg.org/doujin-work-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/9049",
+        "dub": null,
+        "url": "https://www.animegg.org/doujin-work-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/9050",
+        "dub": null,
+        "url": "https://www.animegg.org/doujin-work-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/9051",
+        "dub": null,
+        "url": "https://www.animegg.org/doujin-work-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/9052",
+        "dub": null,
+        "url": "https://www.animegg.org/doujin-work-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/9053",
+        "dub": null,
+        "url": "https://www.animegg.org/doujin-work-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/9054",
+        "dub": null,
+        "url": "https://www.animegg.org/doujin-work-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/9056",
+        "dub": null,
+        "url": "https://www.animegg.org/doujin-work-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/9055",
+        "dub": null,
+        "url": "https://www.animegg.org/doujin-work-episode-12"
+      }
+    ]
   }
 ]
