@@ -21762,5 +21762,111 @@
         "url": "https://www.animegg.org/natsume-yuujinchou-go-episode-11"
       }
     ]
+  },
+  {
+    "serial_no": 1679,
+    "title": "Iketeru Futari",
+    "animegg_url": "https://www.animegg.org/series/iketeru-futari",
+    "mal_url": "https://myanimelist.net/anime/637",
+    "mal_id": 637,
+    "total_ep": 16,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/17392",
+        "dub": null,
+        "url": "https://www.animegg.org/iketeru-futari-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/17388",
+        "dub": null,
+        "url": "https://www.animegg.org/iketeru-futari-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/17390",
+        "dub": null,
+        "url": "https://www.animegg.org/iketeru-futari-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/17391",
+        "dub": null,
+        "url": "https://www.animegg.org/iketeru-futari-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/17389",
+        "dub": null,
+        "url": "https://www.animegg.org/iketeru-futari-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/17393",
+        "dub": null,
+        "url": "https://www.animegg.org/iketeru-futari-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/17394",
+        "dub": null,
+        "url": "https://www.animegg.org/iketeru-futari-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/17395",
+        "dub": null,
+        "url": "https://www.animegg.org/iketeru-futari-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/17396",
+        "dub": null,
+        "url": "https://www.animegg.org/iketeru-futari-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/17397",
+        "dub": null,
+        "url": "https://www.animegg.org/iketeru-futari-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/17398",
+        "dub": null,
+        "url": "https://www.animegg.org/iketeru-futari-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/17399",
+        "dub": null,
+        "url": "https://www.animegg.org/iketeru-futari-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/17400",
+        "dub": null,
+        "url": "https://www.animegg.org/iketeru-futari-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/17401",
+        "dub": null,
+        "url": "https://www.animegg.org/iketeru-futari-episode-14"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/17402",
+        "dub": null,
+        "url": "https://www.animegg.org/iketeru-futari-episode-15"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/17403",
+        "dub": null,
+        "url": "https://www.animegg.org/iketeru-futari-episode-16"
+      }
+    ]
   }
 ]
