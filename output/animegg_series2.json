@@ -135124,5 +135124,81 @@
         "url": "https://www.animegg.org/time-bokan-gyakushuu-no-san-akunin-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 1297,
+    "title": "Usagi Drop",
+    "animegg_url": "https://www.animegg.org/series/usagi-drop",
+    "mal_url": "https://myanimelist.net/anime/10162",
+    "mal_id": 10162,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/39753",
+        "dub": null,
+        "url": "https://www.animegg.org/usagi-drop-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/39750",
+        "dub": null,
+        "url": "https://www.animegg.org/usagi-drop-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/39749",
+        "dub": null,
+        "url": "https://www.animegg.org/usagi-drop-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/39752",
+        "dub": null,
+        "url": "https://www.animegg.org/usagi-drop-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/39751",
+        "dub": null,
+        "url": "https://www.animegg.org/usagi-drop-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/39754",
+        "dub": null,
+        "url": "https://www.animegg.org/usagi-drop-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/39756",
+        "dub": null,
+        "url": "https://www.animegg.org/usagi-drop-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/39755",
+        "dub": null,
+        "url": "https://www.animegg.org/usagi-drop-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/39757",
+        "dub": null,
+        "url": "https://www.animegg.org/usagi-drop-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/39758",
+        "dub": null,
+        "url": "https://www.animegg.org/usagi-drop-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/39759",
+        "dub": null,
+        "url": "https://www.animegg.org/usagi-drop-episode-11"
+      }
+    ]
   }
 ]
