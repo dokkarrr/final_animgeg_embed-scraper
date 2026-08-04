@@ -117202,5 +117202,21 @@
         "url": "https://www.animegg.org/wandaba-style-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2508,
+    "title": "Naruto: Shippuuden Movie 3 - Inheritors of Will of Fire",
+    "animegg_url": "https://www.animegg.org/series/naruto-shippuuden-movie-3---inheritors-of-will-of-fire",
+    "mal_url": "https://myanimelist.net/anime/6325",
+    "mal_id": 6325,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/58748",
+        "dub": "https://www.animegg.org/embed/58749",
+        "url": "https://www.animegg.org/naruto-shippuuden-movie-3---inheritors-of-will-of-fire-episode-1"
+      }
+    ]
   }
 ]
