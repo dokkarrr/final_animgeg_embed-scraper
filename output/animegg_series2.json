@@ -21724,5 +21724,87 @@
         "url": "https://www.animegg.org/princess-lover-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 631,
+    "title": "Sakamoto desu ga?",
+    "animegg_url": "https://www.animegg.org/series/sakamoto-desu-ga",
+    "mal_url": "https://myanimelist.net/anime/32542",
+    "mal_id": 32542,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/81854",
+        "dub": "https://www.animegg.org/embed/90069",
+        "url": "https://www.animegg.org/sakamotodesuga-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/82024",
+        "dub": "https://www.animegg.org/embed/82038",
+        "url": "https://www.animegg.org/sakamotodesuga-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/82110",
+        "dub": "https://www.animegg.org/embed/82125",
+        "url": "https://www.animegg.org/sakamotodesuga-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/82202",
+        "dub": "https://www.animegg.org/embed/82220",
+        "url": "https://www.animegg.org/sakamoto-desuga-episode-4-3318"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/82292",
+        "dub": "https://www.animegg.org/embed/82296",
+        "url": "https://www.animegg.org/sakamoto-desuga-episode-5-6740"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/82365",
+        "dub": "https://www.animegg.org/embed/82383",
+        "url": "https://www.animegg.org/sakamotodesuga-episode-6-6832"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/82466",
+        "dub": "https://www.animegg.org/embed/82480",
+        "url": "https://www.animegg.org/sakamotodesuga-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/82543",
+        "dub": "https://www.animegg.org/embed/82577",
+        "url": "https://www.animegg.org/sakamoto-desuga-episode-8-3624"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/82638",
+        "dub": "https://www.animegg.org/embed/91179",
+        "url": "https://www.animegg.org/sakamotodesuga-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/82718",
+        "dub": "https://www.animegg.org/embed/82736",
+        "url": "https://www.animegg.org/sakamoto-desuga-episode-10-5025"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/82794",
+        "dub": "https://www.animegg.org/embed/82803",
+        "url": "https://www.animegg.org/sakamotodesuga-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/82868",
+        "dub": "https://www.animegg.org/embed/82909",
+        "url": "https://www.animegg.org/sakamotodesuga-episode-12"
+      }
+    ]
   }
 ]
