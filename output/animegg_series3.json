@@ -117580,5 +117580,87 @@
         "url": "https://www.animegg.org/ulysses-jeanne-darc-to-renkin-no-kishi-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2514,
+    "title": "Pupa",
+    "animegg_url": "https://www.animegg.org/series/pupa",
+    "mal_url": "https://myanimelist.net/anime/19315",
+    "mal_id": 19315,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/59532",
+        "dub": null,
+        "url": "https://www.animegg.org/pupa-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/59533",
+        "dub": null,
+        "url": "https://www.animegg.org/pupa-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/59534",
+        "dub": null,
+        "url": "https://www.animegg.org/pupa-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/59535",
+        "dub": null,
+        "url": "https://www.animegg.org/pupa-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/59536",
+        "dub": null,
+        "url": "https://www.animegg.org/pupa-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/59537",
+        "dub": null,
+        "url": "https://www.animegg.org/pupa-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/59538",
+        "dub": null,
+        "url": "https://www.animegg.org/pupa-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/59539",
+        "dub": null,
+        "url": "https://www.animegg.org/pupa-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/59540",
+        "dub": null,
+        "url": "https://www.animegg.org/pupa-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/59541",
+        "dub": null,
+        "url": "https://www.animegg.org/pupa-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/59542",
+        "dub": null,
+        "url": "https://www.animegg.org/pupa-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/59543",
+        "dub": null,
+        "url": "https://www.animegg.org/pupa-episode-12"
+      }
+    ]
   }
 ]
