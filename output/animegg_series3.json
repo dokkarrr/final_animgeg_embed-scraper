@@ -93160,5 +93160,87 @@
         "url": "https://www.animegg.org/acca-13-ku-kansatsu-ka-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 2262,
+    "title": "Sansha Sanyou",
+    "animegg_url": "https://www.animegg.org/series/sansha-sanyou",
+    "mal_url": "https://myanimelist.net/anime/31564",
+    "mal_id": 31564,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/81892",
+        "dub": null,
+        "url": "https://www.animegg.org/sansha-sanyou-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/81980",
+        "dub": null,
+        "url": "https://www.animegg.org/sansha-sanyou-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/82061",
+        "dub": null,
+        "url": "https://www.animegg.org/sansha-sanyou-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/82149",
+        "dub": null,
+        "url": "https://www.animegg.org/sansha-sanyou-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/82245",
+        "dub": null,
+        "url": "https://www.animegg.org/sansha-sanyou-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/82321",
+        "dub": null,
+        "url": "https://www.animegg.org/sansha-sanyou-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/82418",
+        "dub": null,
+        "url": "https://www.animegg.org/sansha-sanyou-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/82504",
+        "dub": null,
+        "url": "https://www.animegg.org/sansha-sanyou-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/82600",
+        "dub": null,
+        "url": "https://www.animegg.org/sansha-sanyou-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/82682",
+        "dub": null,
+        "url": "https://www.animegg.org/sansha-sanyou-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/82762",
+        "dub": null,
+        "url": "https://www.animegg.org/sansha-sanyou-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/82835",
+        "dub": null,
+        "url": "https://www.animegg.org/sansha-sanyou-episode-12"
+      }
+    ]
   }
 ]
