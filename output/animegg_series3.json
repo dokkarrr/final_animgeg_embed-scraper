@@ -6686,5 +6686,93 @@
         "url": "https://www.animegg.org/haruchika-haruta-to-chika-wa-seishun-suru-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1585,
+    "title": "Fukigen na Mononokean",
+    "animegg_url": "https://www.animegg.org/series/fukigen-na-mononokean",
+    "mal_url": "https://myanimelist.net/anime/32696",
+    "mal_id": 32696,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/82930",
+        "dub": null,
+        "url": "https://www.animegg.org/fukigen-na-mononokean-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/83017",
+        "dub": null,
+        "url": "https://www.animegg.org/fukigen-na-mononokean-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/83122",
+        "dub": null,
+        "url": "https://www.animegg.org/fukigen-na-mononokean-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/83231",
+        "dub": null,
+        "url": "https://www.animegg.org/fukigen-na-mononokean-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/83319",
+        "dub": null,
+        "url": "https://www.animegg.org/fukigen-na-mononokean-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/83408",
+        "dub": null,
+        "url": "https://www.animegg.org/fukigen-na-mononokean-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/83497",
+        "dub": null,
+        "url": "https://www.animegg.org/fukigen-na-mononokean-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/83579",
+        "dub": null,
+        "url": "https://www.animegg.org/fukigen-na-mononokean-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/83668",
+        "dub": "https://www.animegg.org/embed/83679",
+        "url": "https://www.animegg.org/fukigen-na-mononokean-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/83764",
+        "dub": "https://www.animegg.org/embed/83765",
+        "url": "https://www.animegg.org/fukigen-na-mononokean-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/83843",
+        "dub": null,
+        "url": "https://www.animegg.org/fukigen-na-mononokean-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/83929",
+        "dub": null,
+        "url": "https://www.animegg.org/fukigen-na-mononokean-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/84019",
+        "dub": null,
+        "url": "https://www.animegg.org/fukigen-na-mononokean-episode-13"
+      }
+    ]
   }
 ]
