@@ -70864,5 +70864,93 @@
         "url": "https://www.animegg.org/freezing-vibration-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 913,
+    "title": "Nanbaka",
+    "animegg_url": "https://www.animegg.org/series/nanbaka",
+    "mal_url": "https://myanimelist.net/anime/30016",
+    "mal_id": 30016,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/84110",
+        "dub": null,
+        "url": "https://www.animegg.org/nanbaka-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/84225",
+        "dub": null,
+        "url": "https://www.animegg.org/nanbaka-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/84340",
+        "dub": null,
+        "url": "https://www.animegg.org/nanbaka-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/84433",
+        "dub": null,
+        "url": "https://www.animegg.org/nanbaka-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/84528",
+        "dub": null,
+        "url": "https://www.animegg.org/nanbaka-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/84623",
+        "dub": null,
+        "url": "https://www.animegg.org/nanbaka-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/84717",
+        "dub": null,
+        "url": "https://www.animegg.org/nanbaka-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/84823",
+        "dub": null,
+        "url": "https://www.animegg.org/nanbaka-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/84920",
+        "dub": null,
+        "url": "https://www.animegg.org/nanbaka-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/84988",
+        "dub": null,
+        "url": "https://www.animegg.org/nanbaka-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/85099",
+        "dub": null,
+        "url": "https://www.animegg.org/nanbaka-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/85209",
+        "dub": null,
+        "url": "https://www.animegg.org/nanbaka-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/85302",
+        "dub": null,
+        "url": "https://www.animegg.org/nanbaka-episode-13"
+      }
+    ]
   }
 ]
