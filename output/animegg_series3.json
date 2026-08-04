@@ -106666,5 +106666,93 @@
         "url": "https://www.animegg.org/kuro-no-shoukanshi-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2400,
+    "title": "Ichigo Mashimaro",
+    "animegg_url": "https://www.animegg.org/series/ichigo-mashimaro",
+    "mal_url": "https://myanimelist.net/anime/488",
+    "mal_id": 488,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/17377",
+        "dub": "https://www.animegg.org/embed/73110",
+        "url": "https://www.animegg.org/ichigo-mashimaro-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/17374",
+        "dub": "https://www.animegg.org/embed/73111",
+        "url": "https://www.animegg.org/ichigo-mashimaro-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/17375",
+        "dub": "https://www.animegg.org/embed/73114",
+        "url": "https://www.animegg.org/ichigo-mashimaro-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/17373",
+        "dub": "https://www.animegg.org/embed/73116",
+        "url": "https://www.animegg.org/ichigo-mashimaro-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/17376",
+        "dub": "https://www.animegg.org/embed/73117",
+        "url": "https://www.animegg.org/ichigo-mashimaro-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/17379",
+        "dub": "https://www.animegg.org/embed/73118",
+        "url": "https://www.animegg.org/ichigo-mashimaro-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/17380",
+        "dub": "https://www.animegg.org/embed/73119",
+        "url": "https://www.animegg.org/ichigo-mashimaro-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/17378",
+        "dub": "https://www.animegg.org/embed/73121",
+        "url": "https://www.animegg.org/ichigo-mashimaro-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/17381",
+        "dub": "https://www.animegg.org/embed/73122",
+        "url": "https://www.animegg.org/ichigo-mashimaro-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/17382",
+        "dub": "https://www.animegg.org/embed/73124",
+        "url": "https://www.animegg.org/ichigo-mashimaro-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/17383",
+        "dub": "https://www.animegg.org/embed/73126",
+        "url": "https://www.animegg.org/ichigo-mashimaro-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/17384",
+        "dub": "https://www.animegg.org/embed/73127",
+        "url": "https://www.animegg.org/ichigo-mashimaro-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/17385",
+        "dub": null,
+        "url": "https://www.animegg.org/ichigo-mashimaro-episode-13"
+      }
+    ]
   }
 ]
