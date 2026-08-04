@@ -47676,5 +47676,87 @@
         "url": "https://www.animegg.org/overlord-specials-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 1895,
+    "title": "GJ-bu",
+    "animegg_url": "https://www.animegg.org/series/gj-bu",
+    "mal_url": "https://myanimelist.net/anime/14811",
+    "mal_id": 14811,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/13142",
+        "dub": null,
+        "url": "https://www.animegg.org/gj-bu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/13141",
+        "dub": null,
+        "url": "https://www.animegg.org/gj-bu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/13139",
+        "dub": null,
+        "url": "https://www.animegg.org/gj-bu-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/13138",
+        "dub": null,
+        "url": "https://www.animegg.org/gj-bu-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/13140",
+        "dub": null,
+        "url": "https://www.animegg.org/gj-bu-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/13143",
+        "dub": null,
+        "url": "https://www.animegg.org/gj-bu-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/13144",
+        "dub": null,
+        "url": "https://www.animegg.org/gj-bu-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/13145",
+        "dub": null,
+        "url": "https://www.animegg.org/gj-bu-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/13146",
+        "dub": null,
+        "url": "https://www.animegg.org/gj-bu-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/13147",
+        "dub": null,
+        "url": "https://www.animegg.org/gj-bu-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/13148",
+        "dub": null,
+        "url": "https://www.animegg.org/gj-bu-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/13149",
+        "dub": null,
+        "url": "https://www.animegg.org/gj-bu-episode-12"
+      }
+    ]
   }
 ]
