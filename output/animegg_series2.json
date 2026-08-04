@@ -119214,5 +119214,93 @@
         "url": "https://www.animegg.org/danchigai-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1197,
+    "title": "Ajin 2nd Season",
+    "animegg_url": "https://www.animegg.org/series/ajin-2nd-season",
+    "mal_url": "https://myanimelist.net/anime/33253",
+    "mal_id": 33253,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/85251",
+        "dub": "https://www.animegg.org/embed/85328",
+        "url": "https://www.animegg.org/ajin-2nd-season-episode-13"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/85135",
+        "dub": "https://www.animegg.org/embed/85327",
+        "url": "https://www.animegg.org/ajin-2nd-season-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/85134",
+        "dub": "https://www.animegg.org/embed/85326",
+        "url": "https://www.animegg.org/ajin-2nd-season-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/85027",
+        "dub": "https://www.animegg.org/embed/85325",
+        "url": "https://www.animegg.org/ajin-2nd-season-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/85026",
+        "dub": "https://www.animegg.org/embed/85324",
+        "url": "https://www.animegg.org/ajin-2nd-season-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/84877",
+        "dub": "https://www.animegg.org/embed/85323",
+        "url": "https://www.animegg.org/ajin-2nd-season-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/84756",
+        "dub": "https://www.animegg.org/embed/85322",
+        "url": "https://www.animegg.org/ajin-2nd-season-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/84659",
+        "dub": "https://www.animegg.org/embed/85321",
+        "url": "https://www.animegg.org/ajin-2nd-season-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/84569",
+        "dub": "https://www.animegg.org/embed/84822",
+        "url": "https://www.animegg.org/ajin-2nd-season-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/84471",
+        "dub": "https://www.animegg.org/embed/84692",
+        "url": "https://www.animegg.org/ajin-2nd-season-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/84470",
+        "dub": "https://www.animegg.org/embed/84651",
+        "url": "https://www.animegg.org/ajin-2nd-season-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/84263",
+        "dub": "https://www.animegg.org/embed/84302",
+        "url": "https://www.animegg.org/ajin-2nd-season-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/84160",
+        "dub": null,
+        "url": "https://www.animegg.org/ajin-2nd-season-episode-1"
+      }
+    ]
   }
 ]
