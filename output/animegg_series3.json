@@ -11462,5 +11462,87 @@
         "url": "https://www.animegg.org/bokutachi-wa-benkyou-ga-dekinai-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 1633,
+    "title": "Shingetsutan Tsukihime",
+    "animegg_url": "https://www.animegg.org/series/shingetsutan-tsukihime",
+    "mal_url": "https://myanimelist.net/anime/169",
+    "mal_id": 169,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/34653",
+        "dub": "https://www.animegg.org/embed/34654",
+        "url": "https://www.animegg.org/shingetsutan-tsukihime-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/34647",
+        "dub": "https://www.animegg.org/embed/34648",
+        "url": "https://www.animegg.org/shingetsutan-tsukihime-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/34651",
+        "dub": "https://www.animegg.org/embed/34652",
+        "url": "https://www.animegg.org/shingetsutan-tsukihime-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/34649",
+        "dub": "https://www.animegg.org/embed/34650",
+        "url": "https://www.animegg.org/shingetsutan-tsukihime-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/34645",
+        "dub": "https://www.animegg.org/embed/34646",
+        "url": "https://www.animegg.org/shingetsutan-tsukihime-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/34661",
+        "dub": "https://www.animegg.org/embed/34662",
+        "url": "https://www.animegg.org/shingetsutan-tsukihime-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/34657",
+        "dub": "https://www.animegg.org/embed/34658",
+        "url": "https://www.animegg.org/shingetsutan-tsukihime-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/34655",
+        "dub": "https://www.animegg.org/embed/34656",
+        "url": "https://www.animegg.org/shingetsutan-tsukihime-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/34659",
+        "dub": "https://www.animegg.org/embed/34660",
+        "url": "https://www.animegg.org/shingetsutan-tsukihime-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/34665",
+        "dub": "https://www.animegg.org/embed/34666",
+        "url": "https://www.animegg.org/shingetsutan-tsukihime-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/34663",
+        "dub": "https://www.animegg.org/embed/34664",
+        "url": "https://www.animegg.org/shingetsutan-tsukihime-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/34667",
+        "dub": "https://www.animegg.org/embed/34668",
+        "url": "https://www.animegg.org/shingetsutan-tsukihime-episode-12"
+      }
+    ]
   }
 ]
