@@ -125491,5 +125491,75 @@
         "url": "https://www.animegg.org/nobunaga-concerto-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 2587,
+    "title": "Mushishi Zoku Shou 2nd Season",
+    "animegg_url": "https://www.animegg.org/series/mushishi-zoku-shou-2nd-season",
+    "mal_url": "https://myanimelist.net/anime/24701",
+    "mal_id": 24701,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/67674",
+        "dub": null,
+        "url": "https://www.animegg.org/mushishi-zoku-shou-2nd-season-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/67564",
+        "dub": null,
+        "url": "https://www.animegg.org/mushishi-zoku-shou-2nd-season-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/67434",
+        "dub": null,
+        "url": "https://www.animegg.org/mushishi-zoku-shou-2nd-season-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/67313",
+        "dub": null,
+        "url": "https://www.animegg.org/mushishi-zoku-shou-2nd-season-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/67176",
+        "dub": null,
+        "url": "https://www.animegg.org/mushishi-zoku-shou-2nd-season-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/66875",
+        "dub": "https://www.animegg.org/embed/66878",
+        "url": "https://www.animegg.org/mushishi-zoku-shou-2nd-season-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/66591",
+        "dub": null,
+        "url": "https://www.animegg.org/mushishi-zoku-shou-2nd-season-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/66403",
+        "dub": null,
+        "url": "https://www.animegg.org/mushishi-zoku-shou-2nd-season-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/66402",
+        "dub": null,
+        "url": "https://www.animegg.org/mushishi-zoku-shou-2nd-season-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/66400",
+        "dub": "https://www.animegg.org/embed/66401",
+        "url": "https://www.animegg.org/mushishi-zoku-shou-2nd-season-episode-1"
+      }
+    ]
   }
 ]
