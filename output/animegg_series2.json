@@ -105286,5 +105286,87 @@
         "url": "https://www.animegg.org/fushigiboshi-no-futagohime-episode-51"
       }
     ]
+  },
+  {
+    "serial_no": 1111,
+    "title": "Omamori Himari",
+    "animegg_url": "https://www.animegg.org/series/omamori-himari",
+    "mal_url": "https://myanimelist.net/anime/6324",
+    "mal_id": 6324,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/27603",
+        "dub": null,
+        "url": "https://www.animegg.org/omamori-himari-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/27601",
+        "dub": null,
+        "url": "https://www.animegg.org/omamori-himari-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/27602",
+        "dub": null,
+        "url": "https://www.animegg.org/omamori-himari-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/27599",
+        "dub": null,
+        "url": "https://www.animegg.org/omamori-himari-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/27600",
+        "dub": null,
+        "url": "https://www.animegg.org/omamori-himari-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/27605",
+        "dub": null,
+        "url": "https://www.animegg.org/omamori-himari-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/27604",
+        "dub": null,
+        "url": "https://www.animegg.org/omamori-himari-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/27607",
+        "dub": null,
+        "url": "https://www.animegg.org/omamori-himari-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/27609",
+        "dub": null,
+        "url": "https://www.animegg.org/omamori-himari-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/27606",
+        "dub": null,
+        "url": "https://www.animegg.org/omamori-himari-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/27608",
+        "dub": null,
+        "url": "https://www.animegg.org/omamori-himari-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/27610",
+        "dub": null,
+        "url": "https://www.animegg.org/omamori-himari-episode-12"
+      }
+    ]
   }
 ]
