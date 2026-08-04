@@ -103294,5 +103294,99 @@
         "url": "https://www.animegg.org/yofukashi-no-uta-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2364,
+    "title": "Eikoku Koi Monogatari Emma",
+    "animegg_url": "https://www.animegg.org/series/eikoku-koi-monogatari-emma",
+    "mal_url": "https://myanimelist.net/anime/345",
+    "mal_id": 345,
+    "total_ep": 14,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/9778",
+        "dub": null,
+        "url": "https://www.animegg.org/eikoku-koi-monogatari-emma-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/9776",
+        "dub": null,
+        "url": "https://www.animegg.org/eikoku-koi-monogatari-emma-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/9775",
+        "dub": null,
+        "url": "https://www.animegg.org/eikoku-koi-monogatari-emma-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/9777",
+        "dub": null,
+        "url": "https://www.animegg.org/eikoku-koi-monogatari-emma-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/9774",
+        "dub": null,
+        "url": "https://www.animegg.org/eikoku-koi-monogatari-emma-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/9779",
+        "dub": null,
+        "url": "https://www.animegg.org/eikoku-koi-monogatari-emma-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/9781",
+        "dub": null,
+        "url": "https://www.animegg.org/eikoku-koi-monogatari-emma-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/9780",
+        "dub": null,
+        "url": "https://www.animegg.org/eikoku-koi-monogatari-emma-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/9783",
+        "dub": null,
+        "url": "https://www.animegg.org/eikoku-koi-monogatari-emma-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/9782",
+        "dub": null,
+        "url": "https://www.animegg.org/eikoku-koi-monogatari-emma-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/9784",
+        "dub": null,
+        "url": "https://www.animegg.org/eikoku-koi-monogatari-emma-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/9785",
+        "dub": null,
+        "url": "https://www.animegg.org/eikoku-koi-monogatari-emma-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/9786",
+        "dub": null,
+        "url": "https://www.animegg.org/eikoku-koi-monogatari-emma-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/9787",
+        "dub": null,
+        "url": "https://www.animegg.org/eikoku-koi-monogatari-emma-episode-14"
+      }
+    ]
   }
 ]
