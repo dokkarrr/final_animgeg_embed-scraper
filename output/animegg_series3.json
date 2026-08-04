@@ -99672,5 +99672,93 @@
         "url": "https://www.animegg.org/undead-unluck-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 2327,
+    "title": "White Album",
+    "animegg_url": "https://www.animegg.org/series/white-album",
+    "mal_url": "https://myanimelist.net/anime/4720",
+    "mal_id": 4720,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/40397",
+        "dub": null,
+        "url": "https://www.animegg.org/white-album-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/40394",
+        "dub": null,
+        "url": "https://www.animegg.org/white-album-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/40395",
+        "dub": null,
+        "url": "https://www.animegg.org/white-album-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/40396",
+        "dub": null,
+        "url": "https://www.animegg.org/white-album-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/40393",
+        "dub": null,
+        "url": "https://www.animegg.org/white-album-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/40398",
+        "dub": null,
+        "url": "https://www.animegg.org/white-album-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/40399",
+        "dub": null,
+        "url": "https://www.animegg.org/white-album-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/40400",
+        "dub": null,
+        "url": "https://www.animegg.org/white-album-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/40401",
+        "dub": null,
+        "url": "https://www.animegg.org/white-album-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/40402",
+        "dub": null,
+        "url": "https://www.animegg.org/white-album-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/40403",
+        "dub": null,
+        "url": "https://www.animegg.org/white-album-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/40405",
+        "dub": null,
+        "url": "https://www.animegg.org/white-album-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/40404",
+        "dub": null,
+        "url": "https://www.animegg.org/white-album-episode-13"
+      }
+    ]
   }
 ]
