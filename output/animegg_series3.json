@@ -123789,5 +123789,93 @@
         "url": "https://www.animegg.org/hakaba-kitarou-episode-11"
       }
     ]
+  },
+  {
+    "serial_no": 2571,
+    "title": "Sora no Method",
+    "animegg_url": "https://www.animegg.org/series/sora-no-method",
+    "mal_url": "https://myanimelist.net/anime/23209",
+    "mal_id": 23209,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66409",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-no-method-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/66410",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-no-method-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/66412",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-no-method-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/66411",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-no-method-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/66413",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-no-method-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/66614",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-no-method-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/66904",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-no-method-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/67192",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-no-method-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/67333",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-no-method-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/67457",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-no-method-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/67579",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-no-method-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/67692",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-no-method-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/67781",
+        "dub": "https://www.animegg.org/embed/67783",
+        "url": "https://www.animegg.org/sora-no-method-episode-13"
+      }
+    ]
   }
 ]
