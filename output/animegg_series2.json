@@ -88222,5 +88222,87 @@
         "url": "https://www.animegg.org/slayers-next-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 1021,
+    "title": "Chuunibyou demo Koi ga Shitai! Ren",
+    "animegg_url": "https://www.animegg.org/series/chuunibyou-demo-koi-ga-shitai-ren",
+    "mal_url": "https://myanimelist.net/anime/18671",
+    "mal_id": 18671,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/5957",
+        "dub": null,
+        "url": "https://www.animegg.org/chuunibyou-demo-koi-ga-shitai-ren-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/5954",
+        "dub": null,
+        "url": "https://www.animegg.org/chuunibyou-demo-koi-ga-shitai-ren-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/5956",
+        "dub": null,
+        "url": "https://www.animegg.org/chuunibyou-demo-koi-ga-shitai-ren-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/5955",
+        "dub": null,
+        "url": "https://www.animegg.org/chuunibyou-demo-koi-ga-shitai-ren-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/5953",
+        "dub": "https://www.animegg.org/embed/79459",
+        "url": "https://www.animegg.org/chuunibyou-demo-koi-ga-shitai-ren-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/5959",
+        "dub": "https://www.animegg.org/embed/79460",
+        "url": "https://www.animegg.org/chuunibyou-demo-koi-ga-shitai-ren-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/5960",
+        "dub": "https://www.animegg.org/embed/79461",
+        "url": "https://www.animegg.org/chuunibyou-demo-koi-ga-shitai-ren-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/5958",
+        "dub": "https://www.animegg.org/embed/79462",
+        "url": "https://www.animegg.org/chuunibyou-demo-koi-ga-shitai-ren-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/5961",
+        "dub": "https://www.animegg.org/embed/79463",
+        "url": "https://www.animegg.org/chuunibyou-demo-koi-ga-shitai-ren-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/5962",
+        "dub": "https://www.animegg.org/embed/79464",
+        "url": "https://www.animegg.org/chuunibyou-demo-koi-ga-shitai-ren-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/5963",
+        "dub": "https://www.animegg.org/embed/79465",
+        "url": "https://www.animegg.org/chuunibyou-demo-koi-ga-shitai-ren-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/5964",
+        "dub": "https://www.animegg.org/embed/79466",
+        "url": "https://www.animegg.org/chuunibyou-demo-koi-ga-shitai-ren-episode-12"
+      }
+    ]
   }
 ]
