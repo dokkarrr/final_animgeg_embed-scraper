@@ -113072,5 +113072,87 @@
         "url": "https://www.animegg.org/bar-kiraware-yasai-episode-7"
       }
     ]
+  },
+  {
+    "serial_no": 2464,
+    "title": "Softenni",
+    "animegg_url": "https://www.animegg.org/series/softenni",
+    "mal_url": "https://myanimelist.net/anime/10109",
+    "mal_id": 10109,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/35717",
+        "dub": null,
+        "url": "https://www.animegg.org/softenni-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/35715",
+        "dub": null,
+        "url": "https://www.animegg.org/softenni-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/35714",
+        "dub": null,
+        "url": "https://www.animegg.org/softenni-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/35713",
+        "dub": null,
+        "url": "https://www.animegg.org/softenni-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/35716",
+        "dub": null,
+        "url": "https://www.animegg.org/softenni-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/35719",
+        "dub": null,
+        "url": "https://www.animegg.org/softenni-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/35720",
+        "dub": null,
+        "url": "https://www.animegg.org/softenni-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/35718",
+        "dub": null,
+        "url": "https://www.animegg.org/softenni-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/35721",
+        "dub": null,
+        "url": "https://www.animegg.org/softenni-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/35722",
+        "dub": null,
+        "url": "https://www.animegg.org/softenni-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/35724",
+        "dub": null,
+        "url": "https://www.animegg.org/softenni-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/35723",
+        "dub": null,
+        "url": "https://www.animegg.org/softenni-episode-12"
+      }
+    ]
   }
 ]
