@@ -102888,5 +102888,93 @@
         "url": "https://www.animegg.org/angolmois-genkou-kassenki-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2360,
+    "title": "Toaru Hikuushi e no Koiuta",
+    "animegg_url": "https://www.animegg.org/series/toaru-hikuushi-e-no-koiuta",
+    "mal_url": "https://myanimelist.net/anime/19117",
+    "mal_id": 19117,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/64045",
+        "dub": null,
+        "url": "https://www.animegg.org/toaru-hikuushi-e-no-koiuta-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/64046",
+        "dub": null,
+        "url": "https://www.animegg.org/toaru-hikuushi-e-no-koiuta-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/64047",
+        "dub": null,
+        "url": "https://www.animegg.org/toaru-hikuushi-e-no-koiuta-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/64048",
+        "dub": null,
+        "url": "https://www.animegg.org/toaru-hikuushi-e-no-koiuta-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/64049",
+        "dub": null,
+        "url": "https://www.animegg.org/toaru-hikuushi-e-no-koiuta-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/64050",
+        "dub": null,
+        "url": "https://www.animegg.org/toaru-hikuushi-e-no-koiuta-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/64051",
+        "dub": null,
+        "url": "https://www.animegg.org/toaru-hikuushi-e-no-koiuta-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/64052",
+        "dub": null,
+        "url": "https://www.animegg.org/toaru-hikuushi-e-no-koiuta-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/64053",
+        "dub": null,
+        "url": "https://www.animegg.org/toaru-hikuushi-e-no-koiuta-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/64054",
+        "dub": null,
+        "url": "https://www.animegg.org/toaru-hikuushi-e-no-koiuta-episode-0"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/64055",
+        "dub": null,
+        "url": "https://www.animegg.org/toaru-hikuushi-e-no-koiuta-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/64056",
+        "dub": null,
+        "url": "https://www.animegg.org/toaru-hikuushi-e-no-koiuta-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/64057",
+        "dub": null,
+        "url": "https://www.animegg.org/toaru-hikuushi-e-no-koiuta-episode-13"
+      }
+    ]
   }
 ]
