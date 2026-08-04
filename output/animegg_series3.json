@@ -76580,5 +76580,87 @@
         "url": "https://www.animegg.org/himouto-umaru-chan-r-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2137,
+    "title": "Carnival Phantasm",
+    "animegg_url": "https://www.animegg.org/series/carnival-phantasm",
+    "mal_url": "https://myanimelist.net/anime/10012",
+    "mal_id": 10012,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/5512",
+        "dub": null,
+        "url": "https://www.animegg.org/carnival-phantasm-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/5509",
+        "dub": null,
+        "url": "https://www.animegg.org/carnival-phantasm-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/5508",
+        "dub": null,
+        "url": "https://www.animegg.org/carnival-phantasm-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/5510",
+        "dub": null,
+        "url": "https://www.animegg.org/carnival-phantasm-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/5511",
+        "dub": null,
+        "url": "https://www.animegg.org/carnival-phantasm-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/5513",
+        "dub": null,
+        "url": "https://www.animegg.org/carnival-phantasm-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/5515",
+        "dub": null,
+        "url": "https://www.animegg.org/carnival-phantasm-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/5514",
+        "dub": null,
+        "url": "https://www.animegg.org/carnival-phantasm-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/5517",
+        "dub": null,
+        "url": "https://www.animegg.org/carnival-phantasm-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/5516",
+        "dub": null,
+        "url": "https://www.animegg.org/carnival-phantasm-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/5519",
+        "dub": null,
+        "url": "https://www.animegg.org/carnival-phantasm-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/5518",
+        "dub": null,
+        "url": "https://www.animegg.org/carnival-phantasm-episode-12"
+      }
+    ]
   }
 ]
