@@ -5826,5 +5826,81 @@
         "url": "https://www.animegg.org/asura-cryin-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 1577,
+    "title": "Girls Bravo - First Season",
+    "animegg_url": "https://www.animegg.org/series/girls-bravo---first-season",
+    "mal_url": "https://myanimelist.net/anime/241",
+    "mal_id": 241,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/13070",
+        "dub": "https://www.animegg.org/embed/13071",
+        "url": "https://www.animegg.org/girls-bravo---first-season-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/13066",
+        "dub": "https://www.animegg.org/embed/13067",
+        "url": "https://www.animegg.org/girls-bravo---first-season-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/13062",
+        "dub": "https://www.animegg.org/embed/13063",
+        "url": "https://www.animegg.org/girls-bravo---first-season-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/13064",
+        "dub": "https://www.animegg.org/embed/13065",
+        "url": "https://www.animegg.org/girls-bravo---first-season-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/13060",
+        "dub": "https://www.animegg.org/embed/13061",
+        "url": "https://www.animegg.org/girls-bravo---first-season-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/13072",
+        "dub": "https://www.animegg.org/embed/13073",
+        "url": "https://www.animegg.org/girls-bravo---first-season-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/13074",
+        "dub": "https://www.animegg.org/embed/13075",
+        "url": "https://www.animegg.org/girls-bravo---first-season-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/13068",
+        "dub": "https://www.animegg.org/embed/13069",
+        "url": "https://www.animegg.org/girls-bravo---first-season-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/13076",
+        "dub": "https://www.animegg.org/embed/13077",
+        "url": "https://www.animegg.org/girls-bravo---first-season-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/13078",
+        "dub": "https://www.animegg.org/embed/13079",
+        "url": "https://www.animegg.org/girls-bravo---first-season-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/13080",
+        "dub": "https://www.animegg.org/embed/13081",
+        "url": "https://www.animegg.org/girls-bravo---first-season-episode-11"
+      }
+    ]
   }
 ]
