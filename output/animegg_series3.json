@@ -66416,5 +66416,99 @@
         "url": "https://www.animegg.org/wolverine-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2038,
+    "title": "ChäoS;Child",
+    "animegg_url": "https://www.animegg.org/series/chaos-child",
+    "mal_url": "https://myanimelist.net/anime/30485",
+    "mal_id": 30485,
+    "total_ep": 14,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/85453",
+        "dub": "https://www.animegg.org/embed/85536",
+        "url": "https://www.animegg.org/chaos-child-episode-0"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/85454",
+        "dub": "https://www.animegg.org/embed/85468",
+        "url": "https://www.animegg.org/chaos-child-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/85542",
+        "dub": null,
+        "url": "https://www.animegg.org/chaos-child-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/85637",
+        "dub": null,
+        "url": "https://www.animegg.org/chaos-child-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/85730",
+        "dub": null,
+        "url": "https://www.animegg.org/chaos-child-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/85819",
+        "dub": null,
+        "url": "https://www.animegg.org/chaos-child-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/85899",
+        "dub": null,
+        "url": "https://www.animegg.org/chaos-child-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/85974",
+        "dub": "https://www.animegg.org/embed/85978",
+        "url": "https://www.animegg.org/chaos-child-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/86079",
+        "dub": null,
+        "url": "https://www.animegg.org/chaos-child-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/86155",
+        "dub": null,
+        "url": "https://www.animegg.org/chaos-child-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/86238",
+        "dub": null,
+        "url": "https://www.animegg.org/chaos-child-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/86309",
+        "dub": null,
+        "url": "https://www.animegg.org/chaos-child-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/86382",
+        "dub": null,
+        "url": "https://www.animegg.org/chaos-child-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/chaos-child-episode-13"
+      }
+    ]
   }
 ]
