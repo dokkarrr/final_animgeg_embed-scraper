@@ -134257,5 +134257,69 @@
         "url": "https://www.animegg.org/hayate-no-gotoku-ova-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 2689,
+    "title": "Sora wo Miageru Shoujo no Hitomi ni Utsuru Sekai",
+    "animegg_url": "https://www.animegg.org/series/sora-wo-miageru-shoujo-no-hitomi-ni-utsuru-sekai",
+    "mal_url": "https://myanimelist.net/anime/5702",
+    "mal_id": 5702,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/35879",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-wo-miageru-shoujo-no-hitomi-ni-utsuru-sekai-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/35877",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-wo-miageru-shoujo-no-hitomi-ni-utsuru-sekai-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/35878",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-wo-miageru-shoujo-no-hitomi-ni-utsuru-sekai-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/35881",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-wo-miageru-shoujo-no-hitomi-ni-utsuru-sekai-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/35880",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-wo-miageru-shoujo-no-hitomi-ni-utsuru-sekai-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/35884",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-wo-miageru-shoujo-no-hitomi-ni-utsuru-sekai-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/35882",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-wo-miageru-shoujo-no-hitomi-ni-utsuru-sekai-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/35883",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-wo-miageru-shoujo-no-hitomi-ni-utsuru-sekai-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/35885",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-wo-miageru-shoujo-no-hitomi-ni-utsuru-sekai-episode-9"
+      }
+    ]
   }
 ]
