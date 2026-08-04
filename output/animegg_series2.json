@@ -52856,5 +52856,81 @@
         "url": "https://www.animegg.org/arad-senki-slap-up-party-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 806,
+    "title": "Shingeki no Kyojin 2",
+    "animegg_url": "https://www.animegg.org/series/shingeki-no-kyojin-2",
+    "mal_url": "https://myanimelist.net/anime/16498",
+    "mal_id": 16498,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/87268",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-kyojin-2-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/87175",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-kyojin-2-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/87085",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-kyojin-2-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/87005",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-kyojin-2-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/86925",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-kyojin-2-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/86844",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-kyojin-2-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/86769",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-kyojin-2-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/86688",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-kyojin-2-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/86594",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-kyojin-2-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/86499",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-kyojin-2-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/86497",
+        "dub": "https://www.animegg.org/embed/86498",
+        "url": "https://www.animegg.org/shingeki-no-kyojin-2-episode-1"
+      }
+    ]
   }
 ]
