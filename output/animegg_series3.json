@@ -77494,5 +77494,87 @@
         "url": "https://www.animegg.org/neo-angelique-abyss-second-age-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2148,
+    "title": "Houkago no Pleiades (TV)",
+    "animegg_url": "https://www.animegg.org/series/houkago-no-pleiades-tv",
+    "mal_url": "https://myanimelist.net/anime/17919",
+    "mal_id": 17919,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/76087",
+        "dub": "https://www.animegg.org/embed/76089",
+        "url": "https://www.animegg.org/houkago-no-pleiades-tv-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/76211",
+        "dub": null,
+        "url": "https://www.animegg.org/houkago-no-pleiades-tv-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/76381",
+        "dub": null,
+        "url": "https://www.animegg.org/houkago-no-pleiades-tv-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/76528",
+        "dub": null,
+        "url": "https://www.animegg.org/houkago-no-pleiades-tv-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/76641",
+        "dub": null,
+        "url": "https://www.animegg.org/houkago-no-pleiades-tv-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/76757",
+        "dub": null,
+        "url": "https://www.animegg.org/houkago-no-pleiades-tv-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/76867",
+        "dub": null,
+        "url": "https://www.animegg.org/houkago-no-pleiades-tv-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/76956",
+        "dub": null,
+        "url": "https://www.animegg.org/houkago-no-pleiades-tv-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/77121",
+        "dub": null,
+        "url": "https://www.animegg.org/houkago-no-pleiades-tv-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/77273",
+        "dub": null,
+        "url": "https://www.animegg.org/houkago-no-pleiades-tv-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/77429",
+        "dub": null,
+        "url": "https://www.animegg.org/houkago-no-pleiades-tv-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/77547",
+        "dub": "https://www.animegg.org/embed/77552",
+        "url": "https://www.animegg.org/houkago-no-pleiades-tv-episode-12"
+      }
+    ]
   }
 ]
