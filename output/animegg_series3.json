@@ -113236,5 +113236,39 @@
         "url": "https://www.animegg.org/armor-hunter-mellowlink-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2466,
+    "title": "Ore no Imouto: True Route",
+    "animegg_url": "https://www.animegg.org/series/ore-no-imouto-true-route",
+    "mal_url": "https://myanimelist.net/anime/1510",
+    "mal_id": 1510,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/28775",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-no-imouto-true-route-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/28774",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-no-imouto-true-route-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/28773",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-no-imouto-true-route-episode-14"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/28776",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-no-imouto-true-route-episode-15"
+      }
+    ]
   }
 ]
