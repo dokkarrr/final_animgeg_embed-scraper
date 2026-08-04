@@ -103882,5 +103882,87 @@
         "url": "https://www.animegg.org/mahou-shoujo-lyrical-nanoha-episode-13-3842"
       }
     ]
+  },
+  {
+    "serial_no": 2370,
+    "title": "Urara Meirochou",
+    "animegg_url": "https://www.animegg.org/series/urara-meirochou",
+    "mal_url": "https://myanimelist.net/anime/32924",
+    "mal_id": 32924,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/85360",
+        "dub": "https://www.animegg.org/embed/85378",
+        "url": "https://www.animegg.org/urara-meirochou-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/85473",
+        "dub": null,
+        "url": "https://www.animegg.org/urara-meirochou-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/85559",
+        "dub": null,
+        "url": "https://www.animegg.org/urara-meirochou-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/85653",
+        "dub": null,
+        "url": "https://www.animegg.org/urara-meirochou-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/85745",
+        "dub": null,
+        "url": "https://www.animegg.org/urara-meirochou-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/85836",
+        "dub": null,
+        "url": "https://www.animegg.org/urara-meirochou-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/85911",
+        "dub": null,
+        "url": "https://www.animegg.org/urara-meirochou-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/85997",
+        "dub": null,
+        "url": "https://www.animegg.org/urara-meirochou-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/86090",
+        "dub": null,
+        "url": "https://www.animegg.org/urara-meirochou-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/86179",
+        "dub": null,
+        "url": "https://www.animegg.org/urara-meirochou-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/86251",
+        "dub": null,
+        "url": "https://www.animegg.org/urara-meirochou-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/86323",
+        "dub": null,
+        "url": "https://www.animegg.org/urara-meirochou-episode-12"
+      }
+    ]
   }
 ]
