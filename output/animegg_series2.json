@@ -88304,5 +88304,87 @@
         "url": "https://www.animegg.org/chuunibyou-demo-koi-ga-shitai-ren-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1022,
+    "title": "Isekai Cheat Magician",
+    "animegg_url": "https://www.animegg.org/series/isekai-cheat-magician",
+    "mal_url": "https://myanimelist.net/anime/37744",
+    "mal_id": 37744,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/95873",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-cheat-magician-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/95950",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-cheat-magician-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/96013",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-cheat-magician-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/96070",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-cheat-magician-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/96128",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-cheat-magician-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/96189",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-cheat-magician-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/96248",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-cheat-magician-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/96313",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-cheat-magician-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/96370",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-cheat-magician-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/96428",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-cheat-magician-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/96484",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-cheat-magician-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/96541",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-cheat-magician-episode-12"
+      }
+    ]
   }
 ]
