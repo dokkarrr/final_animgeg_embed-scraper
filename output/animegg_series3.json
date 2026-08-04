@@ -89668,5 +89668,87 @@
         "url": "https://www.animegg.org/seijo-no-maryoku-wa-bannou-desu-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2235,
+    "title": "Code-E",
+    "animegg_url": "https://www.animegg.org/series/code-e",
+    "mal_url": "https://myanimelist.net/anime/2564",
+    "mal_id": 2564,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/6220",
+        "dub": null,
+        "url": "https://www.animegg.org/code-e-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/6217",
+        "dub": null,
+        "url": "https://www.animegg.org/code-e-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/6219",
+        "dub": null,
+        "url": "https://www.animegg.org/code-e-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/6218",
+        "dub": null,
+        "url": "https://www.animegg.org/code-e-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/6216",
+        "dub": null,
+        "url": "https://www.animegg.org/code-e-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/6223",
+        "dub": null,
+        "url": "https://www.animegg.org/code-e-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/6221",
+        "dub": null,
+        "url": "https://www.animegg.org/code-e-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/6222",
+        "dub": null,
+        "url": "https://www.animegg.org/code-e-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/6225",
+        "dub": null,
+        "url": "https://www.animegg.org/code-e-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/6224",
+        "dub": null,
+        "url": "https://www.animegg.org/code-e-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/6226",
+        "dub": null,
+        "url": "https://www.animegg.org/code-e-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/6227",
+        "dub": "https://www.animegg.org/embed/6228",
+        "url": "https://www.animegg.org/code-e-episode-12"
+      }
+    ]
   }
 ]
