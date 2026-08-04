@@ -123219,5 +123219,87 @@
         "url": "https://www.animegg.org/2x2-shinobuden-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 2565,
+    "title": "Yumemiru Danshi wa Genjitsushugisha",
+    "animegg_url": "https://www.animegg.org/series/yumemiru-danshi-wa-genjitsushugisha",
+    "mal_url": "https://myanimelist.net/anime/53632",
+    "mal_id": 53632,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/130052",
+        "dub": "https://www.animegg.org/embed/132493",
+        "url": "https://www.animegg.org/yumemiru-danshi-wa-genjitsushugisha-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/130123",
+        "dub": null,
+        "url": "https://www.animegg.org/yumemiru-danshi-wa-genjitsushugisha-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/130299",
+        "dub": null,
+        "url": "https://www.animegg.org/yumemiru-danshi-wa-genjitsushugisha-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/130547",
+        "dub": null,
+        "url": "https://www.animegg.org/yumemiru-danshi-wa-genjitsushugisha-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/130731",
+        "dub": null,
+        "url": "https://www.animegg.org/yumemiru-danshi-wa-genjitsushugisha-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/130829",
+        "dub": null,
+        "url": "https://www.animegg.org/yumemiru-danshi-wa-genjitsushugisha-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/130917",
+        "dub": null,
+        "url": "https://www.animegg.org/yumemiru-danshi-wa-genjitsushugisha-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/131002",
+        "dub": null,
+        "url": "https://www.animegg.org/yumemiru-danshi-wa-genjitsushugisha-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/131095",
+        "dub": null,
+        "url": "https://www.animegg.org/yumemiru-danshi-wa-genjitsushugisha-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/131186",
+        "dub": null,
+        "url": "https://www.animegg.org/yumemiru-danshi-wa-genjitsushugisha-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/131295",
+        "dub": null,
+        "url": "https://www.animegg.org/yumemiru-danshi-wa-genjitsushugisha-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/131384",
+        "dub": null,
+        "url": "https://www.animegg.org/yumemiru-danshi-wa-genjitsushugisha-episode-12"
+      }
+    ]
   }
 ]
