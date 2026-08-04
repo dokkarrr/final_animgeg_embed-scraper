@@ -65256,5 +65256,129 @@
         "url": "https://www.animegg.org/gokujo-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2027,
+    "title": "Dandadan",
+    "animegg_url": "https://www.animegg.org/series/dandadan",
+    "mal_url": "https://myanimelist.net/anime/57334",
+    "mal_id": 57334,
+    "total_ep": 19,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/137566",
+        "dub": null,
+        "url": "https://www.animegg.org/dandadan-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/137828",
+        "dub": null,
+        "url": "https://www.animegg.org/dandadan-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/138096",
+        "dub": null,
+        "url": "https://www.animegg.org/dandadan-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/138353",
+        "dub": null,
+        "url": "https://www.animegg.org/dandadan-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/138592",
+        "dub": null,
+        "url": "https://www.animegg.org/dandadan-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/138794",
+        "dub": null,
+        "url": "https://www.animegg.org/dandadan-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/138975",
+        "dub": null,
+        "url": "https://www.animegg.org/dandadan-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/139171",
+        "dub": null,
+        "url": "https://www.animegg.org/dandadan-episode-8"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/141544",
+        "dub": null,
+        "url": "https://www.animegg.org/dandadan-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/141649",
+        "dub": null,
+        "url": "https://www.animegg.org/dandadan-episode-14"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/141771",
+        "dub": null,
+        "url": "https://www.animegg.org/dandadan-episode-15"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/141879",
+        "dub": null,
+        "url": "https://www.animegg.org/dandadan-episode-16"
+      },
+      {
+        "ep": 17,
+        "sub": "https://www.animegg.org/embed/141986",
+        "dub": null,
+        "url": "https://www.animegg.org/dandadan-episode-17"
+      },
+      {
+        "ep": 18,
+        "sub": "https://www.animegg.org/embed/142122",
+        "dub": null,
+        "url": "https://www.animegg.org/dandadan-episode-18"
+      },
+      {
+        "ep": 19,
+        "sub": "https://www.animegg.org/embed/142235",
+        "dub": null,
+        "url": "https://www.animegg.org/dandadan-episode-19"
+      },
+      {
+        "ep": 20,
+        "sub": "https://www.animegg.org/embed/142352",
+        "dub": null,
+        "url": "https://www.animegg.org/dandadan-episode-20"
+      },
+      {
+        "ep": 22,
+        "sub": "https://www.animegg.org/embed/142451",
+        "dub": null,
+        "url": "https://www.animegg.org/dandadan-episode-22"
+      },
+      {
+        "ep": 23,
+        "sub": "https://www.animegg.org/embed/142526",
+        "dub": null,
+        "url": "https://www.animegg.org/dandadan-episode-23"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/142618",
+        "dub": null,
+        "url": "https://www.animegg.org/dandadan-episode-24"
+      }
+    ]
   }
 ]
