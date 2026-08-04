@@ -41350,5 +41350,87 @@
         "url": "https://www.animegg.org/ginga-nagareboshi-gin-episode-21"
       }
     ]
+  },
+  {
+    "serial_no": 1836,
+    "title": "Yuri Kuma Arashi",
+    "animegg_url": "https://www.animegg.org/series/yuri-kuma-arashi",
+    "mal_url": "https://myanimelist.net/anime/26165",
+    "mal_id": 26165,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/67875",
+        "dub": "https://www.animegg.org/embed/67880",
+        "url": "https://www.animegg.org/yuri-kuma-arashi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/70369",
+        "dub": "https://www.animegg.org/embed/70370",
+        "url": "https://www.animegg.org/yuri-kuma-arashi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/73622",
+        "dub": "https://www.animegg.org/embed/75957",
+        "url": "https://www.animegg.org/yuri-kuma-arashi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/73737",
+        "dub": "https://www.animegg.org/embed/73740",
+        "url": "https://www.animegg.org/yuri-kuma-arashi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/74711",
+        "dub": "https://www.animegg.org/embed/74715",
+        "url": "https://www.animegg.org/yuri-kuma-arashi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/74856",
+        "dub": "https://www.animegg.org/embed/74858",
+        "url": "https://www.animegg.org/yuri-kuma-arashi-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/74974",
+        "dub": "https://www.animegg.org/embed/74978",
+        "url": "https://www.animegg.org/yuri-kuma-arashi-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/75093",
+        "dub": "https://www.animegg.org/embed/75094",
+        "url": "https://www.animegg.org/yuri-kuma-arashi-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/75489",
+        "dub": "https://www.animegg.org/embed/77087",
+        "url": "https://www.animegg.org/yuri-kuma-arashi-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/75685",
+        "dub": "https://www.animegg.org/embed/75686",
+        "url": "https://www.animegg.org/yuri-kuma-arashi-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/75802",
+        "dub": "https://www.animegg.org/embed/77089",
+        "url": "https://www.animegg.org/yuri-kuma-arashi-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/75943",
+        "dub": "https://www.animegg.org/embed/77172",
+        "url": "https://www.animegg.org/yuri-kuma-arashi-episode-12"
+      }
+    ]
   }
 ]
