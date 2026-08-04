@@ -132237,5 +132237,87 @@
         "url": "https://www.animegg.org/mitsudomoe-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 2664,
+    "title": "Tantei Opera Milky Holmes",
+    "animegg_url": "https://www.animegg.org/series/tantei-opera-milky-holmes",
+    "mal_url": "https://myanimelist.net/anime/7768",
+    "mal_id": 7768,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/37188",
+        "dub": null,
+        "url": "https://www.animegg.org/tantei-opera-milky-holmes-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/37187",
+        "dub": null,
+        "url": "https://www.animegg.org/tantei-opera-milky-holmes-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/37189",
+        "dub": null,
+        "url": "https://www.animegg.org/tantei-opera-milky-holmes-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/37185",
+        "dub": null,
+        "url": "https://www.animegg.org/tantei-opera-milky-holmes-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/37186",
+        "dub": null,
+        "url": "https://www.animegg.org/tantei-opera-milky-holmes-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/37190",
+        "dub": null,
+        "url": "https://www.animegg.org/tantei-opera-milky-holmes-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/37191",
+        "dub": null,
+        "url": "https://www.animegg.org/tantei-opera-milky-holmes-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/37192",
+        "dub": null,
+        "url": "https://www.animegg.org/tantei-opera-milky-holmes-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/37194",
+        "dub": null,
+        "url": "https://www.animegg.org/tantei-opera-milky-holmes-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/37193",
+        "dub": null,
+        "url": "https://www.animegg.org/tantei-opera-milky-holmes-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/37196",
+        "dub": null,
+        "url": "https://www.animegg.org/tantei-opera-milky-holmes-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/37195",
+        "dub": null,
+        "url": "https://www.animegg.org/tantei-opera-milky-holmes-episode-12"
+      }
+    ]
   }
 ]
