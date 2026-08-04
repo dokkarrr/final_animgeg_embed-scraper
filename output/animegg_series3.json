@@ -1184,5 +1184,87 @@
         "url": "https://www.animegg.org/zettai-karen-children-the-unlimited---hyoubu-kyousuke-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1549,
+    "title": "Seitokai no Ichizon",
+    "animegg_url": "https://www.animegg.org/series/seitokai-no-ichizon",
+    "mal_url": "https://myanimelist.net/anime/5909",
+    "mal_id": 5909,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/33743",
+        "dub": null,
+        "url": "https://www.animegg.org/seitokai-no-ichizon-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/33742",
+        "dub": null,
+        "url": "https://www.animegg.org/seitokai-no-ichizon-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/33740",
+        "dub": null,
+        "url": "https://www.animegg.org/seitokai-no-ichizon-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/33741",
+        "dub": null,
+        "url": "https://www.animegg.org/seitokai-no-ichizon-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/33739",
+        "dub": null,
+        "url": "https://www.animegg.org/seitokai-no-ichizon-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/33746",
+        "dub": null,
+        "url": "https://www.animegg.org/seitokai-no-ichizon-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/33745",
+        "dub": null,
+        "url": "https://www.animegg.org/seitokai-no-ichizon-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/33744",
+        "dub": null,
+        "url": "https://www.animegg.org/seitokai-no-ichizon-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/33747",
+        "dub": null,
+        "url": "https://www.animegg.org/seitokai-no-ichizon-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/33748",
+        "dub": null,
+        "url": "https://www.animegg.org/seitokai-no-ichizon-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/33749",
+        "dub": null,
+        "url": "https://www.animegg.org/seitokai-no-ichizon-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/33750",
+        "dub": null,
+        "url": "https://www.animegg.org/seitokai-no-ichizon-episode-12"
+      }
+    ]
   }
 ]
