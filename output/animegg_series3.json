@@ -127423,5 +127423,87 @@
         "url": "https://www.animegg.org/kidou-shinsengumi-moeyo-ken-tv-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2608,
+    "title": "Sekai de Ichiban Tsuyoku Naritai",
+    "animegg_url": "https://www.animegg.org/series/sekai-de-ichiban-tsuyoku-naritai",
+    "mal_url": "https://myanimelist.net/anime/11763",
+    "mal_id": 11763,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/44039",
+        "dub": "https://www.animegg.org/embed/76663",
+        "url": "https://www.animegg.org/sekai-de-ichiban-tsuyoku-naritai-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/44040",
+        "dub": "https://www.animegg.org/embed/76664",
+        "url": "https://www.animegg.org/sekai-de-ichiban-tsuyoku-naritai-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/44041",
+        "dub": null,
+        "url": "https://www.animegg.org/sekai-de-ichiban-tsuyoku-naritai-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/44042",
+        "dub": null,
+        "url": "https://www.animegg.org/sekai-de-ichiban-tsuyoku-naritai-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/44043",
+        "dub": null,
+        "url": "https://www.animegg.org/sekai-de-ichiban-tsuyoku-naritai-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/44044",
+        "dub": null,
+        "url": "https://www.animegg.org/sekai-de-ichiban-tsuyoku-naritai-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/44045",
+        "dub": null,
+        "url": "https://www.animegg.org/sekai-de-ichiban-tsuyoku-naritai-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/44046",
+        "dub": null,
+        "url": "https://www.animegg.org/sekai-de-ichiban-tsuyoku-naritai-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/44047",
+        "dub": null,
+        "url": "https://www.animegg.org/sekai-de-ichiban-tsuyoku-naritai-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/44048",
+        "dub": null,
+        "url": "https://www.animegg.org/sekai-de-ichiban-tsuyoku-naritai-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/44049",
+        "dub": null,
+        "url": "https://www.animegg.org/sekai-de-ichiban-tsuyoku-naritai-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/44050",
+        "dub": null,
+        "url": "https://www.animegg.org/sekai-de-ichiban-tsuyoku-naritai-episode-12"
+      }
+    ]
   }
 ]
