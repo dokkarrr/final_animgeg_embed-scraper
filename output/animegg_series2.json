@@ -56902,5 +56902,93 @@
         "url": "https://www.animegg.org/11eyes-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 832,
+    "title": "Seitokai Yakuindomo",
+    "animegg_url": "https://www.animegg.org/series/seitokai-yakuindomo",
+    "mal_url": "https://myanimelist.net/anime/8675",
+    "mal_id": 8675,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/33766",
+        "dub": null,
+        "url": "https://www.animegg.org/seitokai-yakuindomo-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/33762",
+        "dub": null,
+        "url": "https://www.animegg.org/seitokai-yakuindomo-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/33765",
+        "dub": null,
+        "url": "https://www.animegg.org/seitokai-yakuindomo-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/33763",
+        "dub": null,
+        "url": "https://www.animegg.org/seitokai-yakuindomo-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/33761",
+        "dub": null,
+        "url": "https://www.animegg.org/seitokai-yakuindomo-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/33764",
+        "dub": null,
+        "url": "https://www.animegg.org/seitokai-yakuindomo-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/33769",
+        "dub": null,
+        "url": "https://www.animegg.org/seitokai-yakuindomo-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/33768",
+        "dub": null,
+        "url": "https://www.animegg.org/seitokai-yakuindomo-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/33771",
+        "dub": null,
+        "url": "https://www.animegg.org/seitokai-yakuindomo-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/33767",
+        "dub": null,
+        "url": "https://www.animegg.org/seitokai-yakuindomo-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/33770",
+        "dub": null,
+        "url": "https://www.animegg.org/seitokai-yakuindomo-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/33773",
+        "dub": null,
+        "url": "https://www.animegg.org/seitokai-yakuindomo-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/33772",
+        "dub": null,
+        "url": "https://www.animegg.org/seitokai-yakuindomo-episode-13"
+      }
+    ]
   }
 ]
