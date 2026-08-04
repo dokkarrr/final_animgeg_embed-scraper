@@ -63814,5 +63814,87 @@
         "url": "https://www.animegg.org/fairy-tail-100-years-quest-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 2013,
+    "title": "Monster Musume no Oishasan",
+    "animegg_url": "https://www.animegg.org/series/monster-musume-no-oishasan",
+    "mal_url": "https://myanimelist.net/anime/40708",
+    "mal_id": 40708,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/98858",
+        "dub": null,
+        "url": "https://www.animegg.org/monster-musume-no-oishasan-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/98959",
+        "dub": null,
+        "url": "https://www.animegg.org/monster-musume-no-oishasan-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/98998",
+        "dub": null,
+        "url": "https://www.animegg.org/monster-musume-no-oishasan-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/99043",
+        "dub": null,
+        "url": "https://www.animegg.org/monster-musume-no-oishasan-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/99103",
+        "dub": null,
+        "url": "https://www.animegg.org/monster-musume-no-oishasan-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/99145",
+        "dub": null,
+        "url": "https://www.animegg.org/monster-musume-no-oishasan-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/99186",
+        "dub": null,
+        "url": "https://www.animegg.org/monster-musume-no-oishasan-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/99227",
+        "dub": null,
+        "url": "https://www.animegg.org/monster-musume-no-oishasan-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/99267",
+        "dub": null,
+        "url": "https://www.animegg.org/monster-musume-no-oishasan-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/99306",
+        "dub": null,
+        "url": "https://www.animegg.org/monster-musume-no-oishasan-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/99397",
+        "dub": null,
+        "url": "https://www.animegg.org/monster-musume-no-oishasan-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/99443",
+        "dub": null,
+        "url": "https://www.animegg.org/monster-musume-no-oishasan-episode-12"
+      }
+    ]
   }
 ]
