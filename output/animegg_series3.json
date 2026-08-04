@@ -2706,5 +2706,87 @@
         "url": "https://www.animegg.org/mm-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1565,
+    "title": "Fate/kaleid liner Prisma☆Illya 3rei!!",
+    "animegg_url": "https://www.animegg.org/series/fatekaleid-liner-prisma-illya-3rei",
+    "mal_url": "https://myanimelist.net/anime/31706",
+    "mal_id": 31706,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/83958",
+        "dub": null,
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-illya-3rei-episode-12"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/83873",
+        "dub": "https://www.animegg.org/embed/83879",
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-illya-3rei-episode-11"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/83793",
+        "dub": null,
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-illya-3rei-episode-10"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/83710",
+        "dub": null,
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-illya-3rei-episode-9"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/83609",
+        "dub": null,
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-illya-3rei-episode-8"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/83531",
+        "dub": null,
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-illya-3rei-episode-7"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/83440",
+        "dub": null,
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-illya-3rei-episode-6"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/83349",
+        "dub": null,
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-illya-3rei-episode-5"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/83271",
+        "dub": null,
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-illya-3rei-episode-4"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/83158",
+        "dub": null,
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-illya-3rei-episode-3"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/83054",
+        "dub": null,
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-illya-3rei-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/82964",
+        "dub": null,
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-illya-3rei-episode-1"
+      }
+    ]
   }
 ]
