@@ -9088,5 +9088,93 @@
         "url": "https://www.animegg.org/days-tv-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 553,
+    "title": "Plastic Memories",
+    "animegg_url": "https://www.animegg.org/series/plastic-memories",
+    "mal_url": "https://myanimelist.net/anime/27775",
+    "mal_id": 27775,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/76020",
+        "dub": "https://www.animegg.org/embed/76025",
+        "url": "https://www.animegg.org/plastic-memories-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/76151",
+        "dub": "https://www.animegg.org/embed/76157",
+        "url": "https://www.animegg.org/plastic-memories-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/76325",
+        "dub": null,
+        "url": "https://www.animegg.org/plastic-memories-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/76441",
+        "dub": "https://www.animegg.org/embed/76448",
+        "url": "https://www.animegg.org/plastic-memories-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/76579",
+        "dub": null,
+        "url": "https://www.animegg.org/plastic-memories-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/76695",
+        "dub": "https://www.animegg.org/embed/76700",
+        "url": "https://www.animegg.org/plastic-memories-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/76805",
+        "dub": "https://www.animegg.org/embed/76810",
+        "url": "https://www.animegg.org/plastic-memories-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/76906",
+        "dub": "https://www.animegg.org/embed/76912",
+        "url": "https://www.animegg.org/plastic-memories-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/76995",
+        "dub": "https://www.animegg.org/embed/77000",
+        "url": "https://www.animegg.org/plastic-memories-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/77204",
+        "dub": "https://www.animegg.org/embed/77209",
+        "url": "https://www.animegg.org/plastic-memories-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/77343",
+        "dub": "https://www.animegg.org/embed/77352",
+        "url": "https://www.animegg.org/plastic-memories-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/77480",
+        "dub": "https://www.animegg.org/embed/77488",
+        "url": "https://www.animegg.org/plastic-memories-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/119810",
+        "dub": null,
+        "url": "https://www.animegg.org/plastic-memories-episode-13"
+      }
+    ]
   }
 ]
