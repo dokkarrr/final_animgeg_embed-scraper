@@ -133894,5 +133894,87 @@
         "url": "https://www.animegg.org/boruto-naruto-next-generations-dub-episode-255"
       }
     ]
+  },
+  {
+    "serial_no": 1288,
+    "title": "Sekaiichi Hatsukoi",
+    "animegg_url": "https://www.animegg.org/series/sekaiichi-hatsukoi",
+    "mal_url": "https://myanimelist.net/anime/9926",
+    "mal_id": 9926,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/33803",
+        "dub": null,
+        "url": "https://www.animegg.org/sekaiichi-hatsukoi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/33810",
+        "dub": null,
+        "url": "https://www.animegg.org/sekaiichi-hatsukoi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/33800",
+        "dub": null,
+        "url": "https://www.animegg.org/sekaiichi-hatsukoi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/33801",
+        "dub": null,
+        "url": "https://www.animegg.org/sekaiichi-hatsukoi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/33802",
+        "dub": null,
+        "url": "https://www.animegg.org/sekaiichi-hatsukoi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/33807",
+        "dub": null,
+        "url": "https://www.animegg.org/sekaiichi-hatsukoi-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/33805",
+        "dub": null,
+        "url": "https://www.animegg.org/sekaiichi-hatsukoi-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/33804",
+        "dub": null,
+        "url": "https://www.animegg.org/sekaiichi-hatsukoi-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/33811",
+        "dub": null,
+        "url": "https://www.animegg.org/sekaiichi-hatsukoi-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/33806",
+        "dub": null,
+        "url": "https://www.animegg.org/sekaiichi-hatsukoi-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/33809",
+        "dub": null,
+        "url": "https://www.animegg.org/sekaiichi-hatsukoi-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/33808",
+        "dub": null,
+        "url": "https://www.animegg.org/sekaiichi-hatsukoi-episode-12"
+      }
+    ]
   }
 ]
