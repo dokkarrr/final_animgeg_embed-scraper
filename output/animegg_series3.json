@@ -65792,5 +65792,87 @@
         "url": "https://www.animegg.org/slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 2032,
+    "title": "Princess Princess",
+    "animegg_url": "https://www.animegg.org/series/princess-princess",
+    "mal_url": "https://myanimelist.net/anime/907",
+    "mal_id": 907,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/31038",
+        "dub": null,
+        "url": "https://www.animegg.org/princess-princess-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/31037",
+        "dub": null,
+        "url": "https://www.animegg.org/princess-princess-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/31039",
+        "dub": null,
+        "url": "https://www.animegg.org/princess-princess-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/31035",
+        "dub": null,
+        "url": "https://www.animegg.org/princess-princess-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/31036",
+        "dub": null,
+        "url": "https://www.animegg.org/princess-princess-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/31040",
+        "dub": null,
+        "url": "https://www.animegg.org/princess-princess-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/31043",
+        "dub": null,
+        "url": "https://www.animegg.org/princess-princess-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/31044",
+        "dub": null,
+        "url": "https://www.animegg.org/princess-princess-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/31041",
+        "dub": null,
+        "url": "https://www.animegg.org/princess-princess-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/31042",
+        "dub": null,
+        "url": "https://www.animegg.org/princess-princess-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/31045",
+        "dub": null,
+        "url": "https://www.animegg.org/princess-princess-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/31046",
+        "dub": null,
+        "url": "https://www.animegg.org/princess-princess-episode-12"
+      }
+    ]
   }
 ]
