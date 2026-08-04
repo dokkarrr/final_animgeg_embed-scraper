@@ -13274,5 +13274,87 @@
         "url": "https://www.animegg.org/aishiteru-ze-baby-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 578,
+    "title": "Taboo Tattoo",
+    "animegg_url": "https://www.animegg.org/series/taboo-tattoo",
+    "mal_url": "https://myanimelist.net/anime/29758",
+    "mal_id": 29758,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/82945",
+        "dub": "https://www.animegg.org/embed/82946",
+        "url": "https://www.animegg.org/taboo-tattoo-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/83033",
+        "dub": null,
+        "url": "https://www.animegg.org/taboo-tattoo-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/83137",
+        "dub": null,
+        "url": "https://www.animegg.org/taboo-tattoo-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/83247",
+        "dub": null,
+        "url": "https://www.animegg.org/taboo-tattoo-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/83336",
+        "dub": null,
+        "url": "https://www.animegg.org/taboo-tattoo-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/83427",
+        "dub": null,
+        "url": "https://www.animegg.org/taboo-tattoo-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/83516",
+        "dub": null,
+        "url": "https://www.animegg.org/taboo-tattoo-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/83593",
+        "dub": null,
+        "url": "https://www.animegg.org/taboo-tattoo-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/83694",
+        "dub": null,
+        "url": "https://www.animegg.org/taboo-tattoo-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/83782",
+        "dub": null,
+        "url": "https://www.animegg.org/taboo-tattoo-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/83856",
+        "dub": null,
+        "url": "https://www.animegg.org/taboo-tattoo-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/83944",
+        "dub": null,
+        "url": "https://www.animegg.org/taboo-tattoo-episode-12"
+      }
+    ]
   }
 ]
