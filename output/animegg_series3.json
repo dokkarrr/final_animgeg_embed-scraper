@@ -86354,5 +86354,93 @@
         "url": "https://www.animegg.org/kokkoku-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2203,
+    "title": "Zan Sayonara Zetsubou Sensei",
+    "animegg_url": "https://www.animegg.org/series/zan-sayonara-zetsubou-sensei",
+    "mal_url": "https://myanimelist.net/anime/6377",
+    "mal_id": 6377,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/25140",
+        "dub": null,
+        "url": "https://www.animegg.org/zan-sayonara-zetsubou-sensei-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/25139",
+        "dub": null,
+        "url": "https://www.animegg.org/zan-sayonara-zetsubou-sensei-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/25142",
+        "dub": null,
+        "url": "https://www.animegg.org/zan-sayonara-zetsubou-sensei-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/25141",
+        "dub": null,
+        "url": "https://www.animegg.org/zan-sayonara-zetsubou-sensei-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/25138",
+        "dub": null,
+        "url": "https://www.animegg.org/zan-sayonara-zetsubou-sensei-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/25143",
+        "dub": null,
+        "url": "https://www.animegg.org/zan-sayonara-zetsubou-sensei-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/25144",
+        "dub": null,
+        "url": "https://www.animegg.org/zan-sayonara-zetsubou-sensei-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/25145",
+        "dub": null,
+        "url": "https://www.animegg.org/zan-sayonara-zetsubou-sensei-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/25147",
+        "dub": null,
+        "url": "https://www.animegg.org/zan-sayonara-zetsubou-sensei-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/25146",
+        "dub": null,
+        "url": "https://www.animegg.org/zan-sayonara-zetsubou-sensei-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/25148",
+        "dub": null,
+        "url": "https://www.animegg.org/zan-sayonara-zetsubou-sensei-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/25149",
+        "dub": null,
+        "url": "https://www.animegg.org/zan-sayonara-zetsubou-sensei-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/25150",
+        "dub": null,
+        "url": "https://www.animegg.org/zan-sayonara-zetsubou-sensei-episode-13"
+      }
+    ]
   }
 ]
