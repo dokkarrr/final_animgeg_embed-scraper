@@ -62530,5 +62530,165 @@
         "url": "https://www.animegg.org/asa-made-jugyou-chu-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 2004,
+    "title": "Wind Breaker",
+    "animegg_url": "https://www.animegg.org/series/wind-breaker",
+    "mal_url": "https://myanimelist.net/anime/54900",
+    "mal_id": 54900,
+    "total_ep": 25,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/134010",
+        "dub": "https://www.animegg.org/embed/134315",
+        "url": "https://www.animegg.org/wind-breaker-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/133609",
+        "dub": null,
+        "url": "https://www.animegg.org/wind-breaker-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/133694",
+        "dub": null,
+        "url": "https://www.animegg.org/wind-breaker-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/134316",
+        "dub": null,
+        "url": "https://www.animegg.org/wind-breaker-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/133899",
+        "dub": null,
+        "url": "https://www.animegg.org/wind-breaker-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/134059",
+        "dub": null,
+        "url": "https://www.animegg.org/wind-breaker-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/134206",
+        "dub": null,
+        "url": "https://www.animegg.org/wind-breaker-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/134414",
+        "dub": null,
+        "url": "https://www.animegg.org/wind-breaker-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/134521",
+        "dub": null,
+        "url": "https://www.animegg.org/wind-breaker-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/134729",
+        "dub": null,
+        "url": "https://www.animegg.org/wind-breaker-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/134862",
+        "dub": null,
+        "url": "https://www.animegg.org/wind-breaker-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/135000",
+        "dub": null,
+        "url": "https://www.animegg.org/wind-breaker-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/135169",
+        "dub": null,
+        "url": "https://www.animegg.org/wind-breaker-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/140349",
+        "dub": null,
+        "url": "https://www.animegg.org/wind-breaker-episode-14"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/140436",
+        "dub": null,
+        "url": "https://www.animegg.org/wind-breaker-episode-15"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/140522",
+        "dub": null,
+        "url": "https://www.animegg.org/wind-breaker-episode-16"
+      },
+      {
+        "ep": 17,
+        "sub": "https://www.animegg.org/embed/140608",
+        "dub": null,
+        "url": "https://www.animegg.org/wind-breaker-episode-17"
+      },
+      {
+        "ep": 18,
+        "sub": "https://www.animegg.org/embed/140695",
+        "dub": null,
+        "url": "https://www.animegg.org/wind-breaker-episode-18"
+      },
+      {
+        "ep": 19,
+        "sub": "https://www.animegg.org/embed/140778",
+        "dub": null,
+        "url": "https://www.animegg.org/wind-breaker-episode-19"
+      },
+      {
+        "ep": 20,
+        "sub": "https://www.animegg.org/embed/140860",
+        "dub": null,
+        "url": "https://www.animegg.org/wind-breaker-episode-20"
+      },
+      {
+        "ep": 21,
+        "sub": "https://www.animegg.org/embed/140997",
+        "dub": null,
+        "url": "https://www.animegg.org/wind-breaker-episode-21"
+      },
+      {
+        "ep": 22,
+        "sub": "https://www.animegg.org/embed/141087",
+        "dub": null,
+        "url": "https://www.animegg.org/wind-breaker-episode-22"
+      },
+      {
+        "ep": 23,
+        "sub": "https://www.animegg.org/embed/141202",
+        "dub": null,
+        "url": "https://www.animegg.org/wind-breaker-episode-23"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/141287",
+        "dub": null,
+        "url": "https://www.animegg.org/wind-breaker-episode-24"
+      },
+      {
+        "ep": 25,
+        "sub": "https://www.animegg.org/embed/141391",
+        "dub": null,
+        "url": "https://www.animegg.org/wind-breaker-episode-25"
+      }
+    ]
   }
 ]
