@@ -104686,5 +104686,87 @@
         "url": "https://www.animegg.org/shironeko-project-zero-chronicle-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2379,
+    "title": "Ikkitousen: Great Guardians",
+    "animegg_url": "https://www.animegg.org/series/ikkitousen-great-guardians",
+    "mal_url": "https://myanimelist.net/anime/4196",
+    "mal_id": 4196,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/17437",
+        "dub": "https://www.animegg.org/embed/70742",
+        "url": "https://www.animegg.org/ikkitousen-great-guardians-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/17435",
+        "dub": "https://www.animegg.org/embed/70741",
+        "url": "https://www.animegg.org/ikkitousen-great-guardians-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/17439",
+        "dub": "https://www.animegg.org/embed/70740",
+        "url": "https://www.animegg.org/ikkitousen-great-guardians-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/17436",
+        "dub": "https://www.animegg.org/embed/70739",
+        "url": "https://www.animegg.org/ikkitousen-great-guardians-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/17438",
+        "dub": "https://www.animegg.org/embed/70738",
+        "url": "https://www.animegg.org/ikkitousen-great-guardians-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/17441",
+        "dub": "https://www.animegg.org/embed/70737",
+        "url": "https://www.animegg.org/ikkitousen-great-guardians-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/17440",
+        "dub": "https://www.animegg.org/embed/70736",
+        "url": "https://www.animegg.org/ikkitousen-great-guardians-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/17442",
+        "dub": "https://www.animegg.org/embed/70735",
+        "url": "https://www.animegg.org/ikkitousen-great-guardians-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/17443",
+        "dub": "https://www.animegg.org/embed/70734",
+        "url": "https://www.animegg.org/ikkitousen-great-guardians-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/17444",
+        "dub": "https://www.animegg.org/embed/70733",
+        "url": "https://www.animegg.org/ikkitousen-great-guardians-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/17445",
+        "dub": "https://www.animegg.org/embed/70731",
+        "url": "https://www.animegg.org/ikkitousen-great-guardians-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/17446",
+        "dub": "https://www.animegg.org/embed/70730",
+        "url": "https://www.animegg.org/ikkitousen-great-guardians-episode-12"
+      }
+    ]
   }
 ]
