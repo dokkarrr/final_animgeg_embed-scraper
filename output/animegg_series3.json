@@ -9370,5 +9370,87 @@
         "url": "https://www.animegg.org/kamisama-minarai-himitsu-no-cocotama-episode-14"
       }
     ]
+  },
+  {
+    "serial_no": 1611,
+    "title": "Isekai Shokudou",
+    "animegg_url": "https://www.animegg.org/series/isekai-shokudou",
+    "mal_url": "https://myanimelist.net/anime/34012",
+    "mal_id": 34012,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/88329",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-shokudou-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/88330",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-shokudou-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/88331",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-shokudou-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/88332",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-shokudou-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/88333",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-shokudou-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/88334",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-shokudou-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/88335",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-shokudou-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/88336",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-shokudou-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/88337",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-shokudou-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/88338",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-shokudou-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/88339",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-shokudou-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/88340",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-shokudou-episode-12"
+      }
+    ]
   }
 ]
