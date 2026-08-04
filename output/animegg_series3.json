@@ -27130,5 +27130,87 @@
         "url": "https://www.animegg.org/cheating-craft-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1728,
+    "title": "Fushigi na Somera-chan",
+    "animegg_url": "https://www.animegg.org/series/fushigi-na-somera-chan",
+    "mal_url": "https://myanimelist.net/anime/30746",
+    "mal_id": 30746,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/79329",
+        "dub": "https://www.animegg.org/embed/79355",
+        "url": "https://www.animegg.org/fushigi-na-somera-chan-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/79473",
+        "dub": "https://www.animegg.org/embed/79483",
+        "url": "https://www.animegg.org/fushigi-na-somera-chan-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/79594",
+        "dub": null,
+        "url": "https://www.animegg.org/fushigi-na-somera-chan-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/79694",
+        "dub": null,
+        "url": "https://www.animegg.org/fushigi-na-somera-chan-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/79784",
+        "dub": null,
+        "url": "https://www.animegg.org/fushigi-na-somera-chan-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/79867",
+        "dub": null,
+        "url": "https://www.animegg.org/fushigi-na-somera-chan-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/79949",
+        "dub": "https://www.animegg.org/embed/79960",
+        "url": "https://www.animegg.org/fushigi-na-somera-chan-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/80063",
+        "dub": null,
+        "url": "https://www.animegg.org/fushigi-na-somera-chan-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/80148",
+        "dub": "https://www.animegg.org/embed/80158",
+        "url": "https://www.animegg.org/fushigi-na-somera-chan-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/80269",
+        "dub": "https://www.animegg.org/embed/80282",
+        "url": "https://www.animegg.org/fushigi-na-somera-chan-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/80386",
+        "dub": null,
+        "url": "https://www.animegg.org/fushigi-na-somera-chan-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/80471",
+        "dub": null,
+        "url": "https://www.animegg.org/fushigi-na-somera-chan-episode-12"
+      }
+    ]
   }
 ]
