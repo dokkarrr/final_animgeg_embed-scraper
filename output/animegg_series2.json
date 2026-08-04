@@ -59318,5 +59318,87 @@
         "url": "https://www.animegg.org/pretty-rhythm-dear-my-future-episode-51"
       }
     ]
+  },
+  {
+    "serial_no": 848,
+    "title": "Divine Gate",
+    "animegg_url": "https://www.animegg.org/series/divine-gate",
+    "mal_url": "https://myanimelist.net/anime/31710",
+    "mal_id": 31710,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/80593",
+        "dub": null,
+        "url": "https://www.animegg.org/divine-gate-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/80685",
+        "dub": null,
+        "url": "https://www.animegg.org/divine-gate-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/80790",
+        "dub": null,
+        "url": "https://www.animegg.org/divine-gate-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/80896",
+        "dub": null,
+        "url": "https://www.animegg.org/divine-gate-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/80995",
+        "dub": "https://www.animegg.org/embed/81543",
+        "url": "https://www.animegg.org/divine-gate-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/81089",
+        "dub": "https://www.animegg.org/embed/81649",
+        "url": "https://www.animegg.org/divine-gate-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/81188",
+        "dub": "https://www.animegg.org/embed/81723",
+        "url": "https://www.animegg.org/divine-gate-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/81296",
+        "dub": "https://www.animegg.org/embed/81816",
+        "url": "https://www.animegg.org/divine-gate-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/81398",
+        "dub": "https://www.animegg.org/embed/81900",
+        "url": "https://www.animegg.org/divine-gate-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/81489",
+        "dub": "https://www.animegg.org/embed/82007",
+        "url": "https://www.animegg.org/divine-gate-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/81589",
+        "dub": null,
+        "url": "https://www.animegg.org/divine-gate-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/81676",
+        "dub": null,
+        "url": "https://www.animegg.org/divine-gate-episode-12"
+      }
+    ]
   }
 ]
