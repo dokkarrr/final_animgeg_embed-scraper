@@ -69110,5 +69110,87 @@
         "url": "https://www.animegg.org/ooyasan-wa-shishunki-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2068,
+    "title": "Isekai Quartet",
+    "animegg_url": "https://www.animegg.org/series/isekai-quartet",
+    "mal_url": "https://myanimelist.net/anime/38472",
+    "mal_id": 38472,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/95046",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-quartet-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/95106",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-quartet-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/95170",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-quartet-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/95234",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-quartet-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/95290",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-quartet-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/95355",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-quartet-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/95415",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-quartet-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/95483",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-quartet-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/95545",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-quartet-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/95620",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-quartet-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/95688",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-quartet-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/95747",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-quartet-episode-12"
+      }
+    ]
   }
 ]
