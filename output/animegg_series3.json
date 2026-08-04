@@ -56096,5 +56096,81 @@
         "url": "https://www.animegg.org/pokemon-2019-dub-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 1939,
+    "title": "Ryuugajou Nanana no Maizoukin",
+    "animegg_url": "https://www.animegg.org/series/nananas-buried-treasure",
+    "mal_url": "https://myanimelist.net/anime/21561",
+    "mal_id": 21561,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/43489",
+        "dub": null,
+        "url": "https://www.animegg.org/ryuugajou-nanana-no-maizoukin-tv-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/43490",
+        "dub": null,
+        "url": "https://www.animegg.org/ryuugajou-nanana-no-maizoukin-tv-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/43491",
+        "dub": null,
+        "url": "https://www.animegg.org/ryuugajou-nanana-no-maizoukin-tv-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/43492",
+        "dub": null,
+        "url": "https://www.animegg.org/ryuugajou-nanana-no-maizoukin-tv-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/43493",
+        "dub": null,
+        "url": "https://www.animegg.org/ryuugajou-nanana-no-maizoukin-tv-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/43494",
+        "dub": null,
+        "url": "https://www.animegg.org/nananas-buried-treasure-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/43495",
+        "dub": null,
+        "url": "https://www.animegg.org/nananas-buried-treasure-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/43496",
+        "dub": null,
+        "url": "https://www.animegg.org/ryuugajou-nanana-no-maizoukin-tv-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/43497",
+        "dub": null,
+        "url": "https://www.animegg.org/ryuugajou-nanana-no-maizoukin-tv-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/43498",
+        "dub": null,
+        "url": "https://www.animegg.org/ryuugajou-nanana-no-maizoukin-tv-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/43499",
+        "dub": null,
+        "url": "https://www.animegg.org/ryuugajou-nanana-no-maizoukin-tv-episode-11"
+      }
+    ]
   }
 ]
