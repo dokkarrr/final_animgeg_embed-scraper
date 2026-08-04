@@ -117836,5 +117836,87 @@
         "url": "https://www.animegg.org/tsuritama-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2518,
+    "title": "Ketsuekigata-kun! 4",
+    "animegg_url": "https://www.animegg.org/series/ketsuekigata-kun-4",
+    "mal_url": "https://myanimelist.net/anime/32274",
+    "mal_id": 32274,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/81739",
+        "dub": null,
+        "url": "https://www.animegg.org/ketsuekigata-kun-4-episode-12"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/81643",
+        "dub": null,
+        "url": "https://www.animegg.org/ketsuekigata-kun-4-episode-11"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/81559",
+        "dub": null,
+        "url": "https://www.animegg.org/ketsuekigata-kun-4-episode-10"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/81449",
+        "dub": null,
+        "url": "https://www.animegg.org/ketsuekigata-kun-4-episode-9"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/81362",
+        "dub": null,
+        "url": "https://www.animegg.org/ketsuekigata-kun-4-episode-8"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/81243",
+        "dub": null,
+        "url": "https://www.animegg.org/ketsuekigata-kun-4-episode-7"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/81146",
+        "dub": "https://www.animegg.org/embed/92452",
+        "url": "https://www.animegg.org/ketsuekigata-kun-4-episode-6"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/81145",
+        "dub": "https://www.animegg.org/embed/92451",
+        "url": "https://www.animegg.org/ketsuekigata-kun-4-episode-5"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/80959",
+        "dub": null,
+        "url": "https://www.animegg.org/ketsuekigata-kun-4-episode-4"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/80845",
+        "dub": null,
+        "url": "https://www.animegg.org/ketsuekigata-kun-4-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/80744",
+        "dub": null,
+        "url": "https://www.animegg.org/ketsuekigata-kun-4-episode-2"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/80646",
+        "dub": null,
+        "url": "https://www.animegg.org/ketsuekigata-kun-4-episode-1"
+      }
+    ]
   }
 ]
