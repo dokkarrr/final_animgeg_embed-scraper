@@ -88824,5 +88824,87 @@
         "url": "https://www.animegg.org/gakuen-handsome-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2225,
+    "title": "Sabagebu!",
+    "animegg_url": "https://www.animegg.org/series/sabagebu",
+    "mal_url": "https://myanimelist.net/anime/20709",
+    "mal_id": 20709,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/45959",
+        "dub": "https://www.animegg.org/embed/45960",
+        "url": "https://www.animegg.org/sabagebu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/45961",
+        "dub": null,
+        "url": "https://www.animegg.org/sabagebu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/45962",
+        "dub": null,
+        "url": "https://www.animegg.org/sabagebu-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/45963",
+        "dub": null,
+        "url": "https://www.animegg.org/sabagebu-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/45964",
+        "dub": null,
+        "url": "https://www.animegg.org/sabagebu-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/45965",
+        "dub": null,
+        "url": "https://www.animegg.org/sabagebu-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/45966",
+        "dub": null,
+        "url": "https://www.animegg.org/sabagebu-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/45967",
+        "dub": null,
+        "url": "https://www.animegg.org/sabagebu-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/45968",
+        "dub": "https://www.animegg.org/embed/45969",
+        "url": "https://www.animegg.org/sabagebu-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/45970",
+        "dub": null,
+        "url": "https://www.animegg.org/sabagebu-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/45971",
+        "dub": null,
+        "url": "https://www.animegg.org/sabagebu-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/45972",
+        "dub": null,
+        "url": "https://www.animegg.org/sabagebu-episode-12"
+      }
+    ]
   }
 ]
