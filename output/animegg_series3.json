@@ -127505,5 +127505,87 @@
         "url": "https://www.animegg.org/sekai-de-ichiban-tsuyoku-naritai-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2609,
+    "title": "Shin Koihime Musou",
+    "animegg_url": "https://www.animegg.org/series/shin-koihime-musou",
+    "mal_url": "https://myanimelist.net/anime/6112",
+    "mal_id": 6112,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/34565",
+        "dub": null,
+        "url": "https://www.animegg.org/shin-koihime-musou-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/34561",
+        "dub": null,
+        "url": "https://www.animegg.org/shin-koihime-musou-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/34562",
+        "dub": null,
+        "url": "https://www.animegg.org/shin-koihime-musou-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/34563",
+        "dub": null,
+        "url": "https://www.animegg.org/shin-koihime-musou-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/34564",
+        "dub": null,
+        "url": "https://www.animegg.org/shin-koihime-musou-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/34566",
+        "dub": null,
+        "url": "https://www.animegg.org/shin-koihime-musou-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/34567",
+        "dub": null,
+        "url": "https://www.animegg.org/shin-koihime-musou-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/34568",
+        "dub": null,
+        "url": "https://www.animegg.org/shin-koihime-musou-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/34570",
+        "dub": null,
+        "url": "https://www.animegg.org/shin-koihime-musou-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/34569",
+        "dub": null,
+        "url": "https://www.animegg.org/shin-koihime-musou-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/34572",
+        "dub": null,
+        "url": "https://www.animegg.org/shin-koihime-musou-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/34571",
+        "dub": null,
+        "url": "https://www.animegg.org/shin-koihime-musou-episode-12"
+      }
+    ]
   }
 ]
