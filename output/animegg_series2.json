@@ -104584,5 +104584,87 @@
         "url": "https://www.animegg.org/aura-battler-dunbine-episode-49"
       }
     ]
+  },
+  {
+    "serial_no": 1108,
+    "title": "Sin: Nanatsu no Taizai",
+    "animegg_url": "https://www.animegg.org/series/sin-nanatsu-no-taizai",
+    "mal_url": "https://myanimelist.net/anime/33834",
+    "mal_id": 33834,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/86577",
+        "dub": "https://www.animegg.org/embed/86579",
+        "url": "https://www.animegg.org/sin-nanatsu-no-taizai-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/86661",
+        "dub": "https://www.animegg.org/embed/86665",
+        "url": "https://www.animegg.org/sin-nanatsu-no-taizai-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/86755",
+        "dub": null,
+        "url": "https://www.animegg.org/sin-nanatsu-no-taizai-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/86830",
+        "dub": null,
+        "url": "https://www.animegg.org/sin-nanatsu-no-taizai-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/86909",
+        "dub": null,
+        "url": "https://www.animegg.org/sin-nanatsu-no-taizai-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/86989",
+        "dub": null,
+        "url": "https://www.animegg.org/sin-nanatsu-no-taizai-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/87067",
+        "dub": null,
+        "url": "https://www.animegg.org/sin-nanatsu-no-taizai-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/87234",
+        "dub": null,
+        "url": "https://www.animegg.org/sin-nanatsu-no-taizai-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/87301",
+        "dub": null,
+        "url": "https://www.animegg.org/sin-nanatsu-no-taizai-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/87379",
+        "dub": null,
+        "url": "https://www.animegg.org/sin-nanatsu-no-taizai-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/87528",
+        "dub": null,
+        "url": "https://www.animegg.org/sin-nanatsu-no-taizai-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/87935",
+        "dub": null,
+        "url": "https://www.animegg.org/sin-nanatsu-no-taizai-episode-12"
+      }
+    ]
   }
 ]
