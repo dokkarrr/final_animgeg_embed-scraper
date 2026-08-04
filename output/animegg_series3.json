@@ -48206,5 +48206,93 @@
         "url": "https://www.animegg.org/ishuzoku-reviewers-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1900,
+    "title": "Zombie-Loan",
+    "animegg_url": "https://www.animegg.org/series/zombie-loan",
+    "mal_url": "https://myanimelist.net/anime/2404",
+    "mal_id": 2404,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/25611",
+        "dub": null,
+        "url": "https://www.animegg.org/zombie-loan-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/25612",
+        "dub": null,
+        "url": "https://www.animegg.org/zombie-loan-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/25610",
+        "dub": null,
+        "url": "https://www.animegg.org/zombie-loan-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/25609",
+        "dub": null,
+        "url": "https://www.animegg.org/zombie-loan-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/25608",
+        "dub": null,
+        "url": "https://www.animegg.org/zombie-loan-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/25613",
+        "dub": null,
+        "url": "https://www.animegg.org/zombie-loan-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/25618",
+        "dub": null,
+        "url": "https://www.animegg.org/zombie-loan-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/25614",
+        "dub": null,
+        "url": "https://www.animegg.org/zombie-loan-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/25615",
+        "dub": null,
+        "url": "https://www.animegg.org/zombie-loan-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/25616",
+        "dub": null,
+        "url": "https://www.animegg.org/zombie-loan-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/25617",
+        "dub": null,
+        "url": "https://www.animegg.org/zombie-loan-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/25620",
+        "dub": null,
+        "url": "https://www.animegg.org/zombie-loan-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/25619",
+        "dub": null,
+        "url": "https://www.animegg.org/zombie-loan-episode-13"
+      }
+    ]
   }
 ]
