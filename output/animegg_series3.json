@@ -95084,5 +95084,93 @@
         "url": "https://www.animegg.org/genshiken-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2281,
+    "title": "Gintama': Enchousen",
+    "animegg_url": "https://www.animegg.org/series/gintama-enchousen",
+    "mal_url": "https://myanimelist.net/anime/15417",
+    "mal_id": 15417,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/42798",
+        "dub": null,
+        "url": "https://www.animegg.org/gintama-enchousen-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/42799",
+        "dub": null,
+        "url": "https://www.animegg.org/gintama-enchousen-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/42800",
+        "dub": null,
+        "url": "https://www.animegg.org/gintama-enchousen-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/42801",
+        "dub": null,
+        "url": "https://www.animegg.org/gintama-enchousen-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/42802",
+        "dub": null,
+        "url": "https://www.animegg.org/gintama-enchousen-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/42803",
+        "dub": null,
+        "url": "https://www.animegg.org/gintama-enchousen-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/42804",
+        "dub": null,
+        "url": "https://www.animegg.org/gintama-enchousen-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/42805",
+        "dub": null,
+        "url": "https://www.animegg.org/gintama-enchousen-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/42806",
+        "dub": null,
+        "url": "https://www.animegg.org/gintama-enchousen-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/42807",
+        "dub": null,
+        "url": "https://www.animegg.org/gintama-enchousen-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/42808",
+        "dub": null,
+        "url": "https://www.animegg.org/gintama-enchousen-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/42809",
+        "dub": null,
+        "url": "https://www.animegg.org/gintama-enchousen-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/42810",
+        "dub": null,
+        "url": "https://www.animegg.org/gintama-enchousen-episode-13"
+      }
+    ]
   }
 ]
