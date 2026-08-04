@@ -56814,5 +56814,93 @@
         "url": "https://www.animegg.org/junjou-romantica-3-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 831,
+    "title": "11eyes",
+    "animegg_url": "https://www.animegg.org/series/11eyes",
+    "mal_url": "https://myanimelist.net/anime/6682",
+    "mal_id": 6682,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 11,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/11eyes-episode-13"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/85",
+        "dub": null,
+        "url": "https://www.animegg.org/11eyes-episode-12"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/84",
+        "dub": null,
+        "url": "https://www.animegg.org/11eyes-episode-11"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/83",
+        "dub": null,
+        "url": "https://www.animegg.org/11eyes-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/82",
+        "dub": null,
+        "url": "https://www.animegg.org/11eyes-episode-9"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/81",
+        "dub": null,
+        "url": "https://www.animegg.org/11eyes-episode-8"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/79",
+        "dub": null,
+        "url": "https://www.animegg.org/11eyes-episode-7"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/80",
+        "dub": null,
+        "url": "https://www.animegg.org/11eyes-episode-6"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/74",
+        "dub": null,
+        "url": "https://www.animegg.org/11eyes-episode-5"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/75",
+        "dub": null,
+        "url": "https://www.animegg.org/11eyes-episode-4"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/77",
+        "dub": null,
+        "url": "https://www.animegg.org/11eyes-episode-3"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/76",
+        "dub": null,
+        "url": "https://www.animegg.org/11eyes-episode-2"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/78",
+        "dub": null,
+        "url": "https://www.animegg.org/11eyes-episode-1"
+      }
+    ]
   }
 ]
