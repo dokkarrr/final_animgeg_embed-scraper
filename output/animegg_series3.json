@@ -77978,5 +77978,87 @@
         "url": "https://www.animegg.org/tales-of-zestiria-the-x-2017-episode-1-7706-1388"
       }
     ]
+  },
+  {
+    "serial_no": 2152,
+    "title": "One Room",
+    "animegg_url": "https://www.animegg.org/series/one-room",
+    "mal_url": "https://myanimelist.net/anime/34392",
+    "mal_id": 34392,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/85450",
+        "dub": "https://www.animegg.org/embed/85456",
+        "url": "https://www.animegg.org/one-room-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/85541",
+        "dub": null,
+        "url": "https://www.animegg.org/one-room-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/85635",
+        "dub": null,
+        "url": "https://www.animegg.org/one-room-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/85729",
+        "dub": null,
+        "url": "https://www.animegg.org/one-room-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/85807",
+        "dub": null,
+        "url": "https://www.animegg.org/one-room-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/85895",
+        "dub": null,
+        "url": "https://www.animegg.org/one-room-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/85972",
+        "dub": null,
+        "url": "https://www.animegg.org/one-room-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/86073",
+        "dub": null,
+        "url": "https://www.animegg.org/one-room-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/86153",
+        "dub": null,
+        "url": "https://www.animegg.org/one-room-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/86236",
+        "dub": null,
+        "url": "https://www.animegg.org/one-room-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/86307",
+        "dub": null,
+        "url": "https://www.animegg.org/one-room-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/86380",
+        "dub": null,
+        "url": "https://www.animegg.org/one-room-episode-12"
+      }
+    ]
   }
 ]
