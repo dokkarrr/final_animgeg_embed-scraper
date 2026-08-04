@@ -98340,5 +98340,93 @@
         "url": "https://www.animegg.org/watashi-nouryoku-wa-heikinchi-de-tte-itta-yo-ne-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2315,
+    "title": "Divergence Eve",
+    "animegg_url": "https://www.animegg.org/series/divergence-eve",
+    "mal_url": "https://myanimelist.net/anime/294",
+    "mal_id": 294,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/8897",
+        "dub": null,
+        "url": "https://www.animegg.org/divergence-eve-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/8906",
+        "dub": null,
+        "url": "https://www.animegg.org/divergence-eve-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/8898",
+        "dub": null,
+        "url": "https://www.animegg.org/divergence-eve-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/8899",
+        "dub": null,
+        "url": "https://www.animegg.org/divergence-eve-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/8896",
+        "dub": null,
+        "url": "https://www.animegg.org/divergence-eve-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/8907",
+        "dub": null,
+        "url": "https://www.animegg.org/divergence-eve-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/8900",
+        "dub": null,
+        "url": "https://www.animegg.org/divergence-eve-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/8902",
+        "dub": null,
+        "url": "https://www.animegg.org/divergence-eve-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/8903",
+        "dub": null,
+        "url": "https://www.animegg.org/divergence-eve-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/8901",
+        "dub": null,
+        "url": "https://www.animegg.org/divergence-eve-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/8905",
+        "dub": null,
+        "url": "https://www.animegg.org/divergence-eve-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/8908",
+        "dub": null,
+        "url": "https://www.animegg.org/divergence-eve-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/8904",
+        "dub": "https://www.animegg.org/embed/74153",
+        "url": "https://www.animegg.org/divergence-eve-episode-13"
+      }
+    ]
   }
 ]
