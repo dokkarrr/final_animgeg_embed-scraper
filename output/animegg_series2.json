@@ -18456,5 +18456,87 @@
         "url": "https://www.animegg.org/chuunibyou-demo-koi-ga-shitai-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 609,
+    "title": "Freezing",
+    "animegg_url": "https://www.animegg.org/series/freezing",
+    "mal_url": "https://myanimelist.net/anime/9367",
+    "mal_id": 9367,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/11211",
+        "dub": "https://www.animegg.org/embed/11212",
+        "url": "https://www.animegg.org/freezing-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/11205",
+        "dub": "https://www.animegg.org/embed/11206",
+        "url": "https://www.animegg.org/freezing-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/11203",
+        "dub": "https://www.animegg.org/embed/11204",
+        "url": "https://www.animegg.org/freezing-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/11207",
+        "dub": "https://www.animegg.org/embed/11208",
+        "url": "https://www.animegg.org/freezing-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/11209",
+        "dub": "https://www.animegg.org/embed/11210",
+        "url": "https://www.animegg.org/freezing-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/11219",
+        "dub": "https://www.animegg.org/embed/11220",
+        "url": "https://www.animegg.org/freezing-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/11217",
+        "dub": "https://www.animegg.org/embed/11218",
+        "url": "https://www.animegg.org/freezing-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/11215",
+        "dub": "https://www.animegg.org/embed/11216",
+        "url": "https://www.animegg.org/freezing-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/11221",
+        "dub": "https://www.animegg.org/embed/11222",
+        "url": "https://www.animegg.org/freezing-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/11213",
+        "dub": "https://www.animegg.org/embed/11214",
+        "url": "https://www.animegg.org/freezing-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/11223",
+        "dub": "https://www.animegg.org/embed/11224",
+        "url": "https://www.animegg.org/freezing-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/11225",
+        "dub": "https://www.animegg.org/embed/11226",
+        "url": "https://www.animegg.org/freezing-episode-12"
+      }
+    ]
   }
 ]
