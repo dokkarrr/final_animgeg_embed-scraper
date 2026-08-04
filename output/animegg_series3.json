@@ -60874,5 +60874,87 @@
         "url": "https://www.animegg.org/kagewani-shou-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 1986,
+    "title": "Makura no Danshi",
+    "animegg_url": "https://www.animegg.org/series/makura-no-danshi",
+    "mal_url": "https://myanimelist.net/anime/30705",
+    "mal_id": 30705,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/77890",
+        "dub": null,
+        "url": "https://www.animegg.org/makura-no-danshi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/78061",
+        "dub": null,
+        "url": "https://www.animegg.org/makura-no-danshi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/78232",
+        "dub": null,
+        "url": "https://www.animegg.org/makura-no-danshi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/78350",
+        "dub": null,
+        "url": "https://www.animegg.org/makura-no-danshi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/78466",
+        "dub": null,
+        "url": "https://www.animegg.org/makura-no-danshi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/78584",
+        "dub": null,
+        "url": "https://www.animegg.org/makura-no-danshi-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/78687",
+        "dub": null,
+        "url": "https://www.animegg.org/makura-no-danshi-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/78802",
+        "dub": null,
+        "url": "https://www.animegg.org/makura-no-danshi-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/78919",
+        "dub": null,
+        "url": "https://www.animegg.org/makura-no-danshi-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/79025",
+        "dub": null,
+        "url": "https://www.animegg.org/makura-no-danshi-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/79134",
+        "dub": null,
+        "url": "https://www.animegg.org/makura-no-danshi-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/79224",
+        "dub": null,
+        "url": "https://www.animegg.org/makura-no-danshi-episode-12"
+      }
+    ]
   }
 ]
