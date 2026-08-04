@@ -94792,5 +94792,81 @@
         "url": "https://www.animegg.org/ao-no-orchestra-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 2277,
+    "title": "Natsume Yuujinchou Roku",
+    "animegg_url": "https://www.animegg.org/series/natsume-yuujinchou-roku",
+    "mal_url": "https://myanimelist.net/anime/34591",
+    "mal_id": 34591,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/86553",
+        "dub": null,
+        "url": "https://www.animegg.org/natsume-yuujinchou-roku-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/86640",
+        "dub": null,
+        "url": "https://www.animegg.org/natsume-yuujinchou-roku-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/86724",
+        "dub": null,
+        "url": "https://www.animegg.org/natsume-yuujinchou-roku-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/86802",
+        "dub": null,
+        "url": "https://www.animegg.org/natsume-yuujinchou-roku-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/86883",
+        "dub": null,
+        "url": "https://www.animegg.org/natsume-yuujinchou-roku-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/86959",
+        "dub": null,
+        "url": "https://www.animegg.org/natsume-yuujinchou-roku-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/87043",
+        "dub": null,
+        "url": "https://www.animegg.org/natsume-yuujinchou-roku-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/87123",
+        "dub": null,
+        "url": "https://www.animegg.org/natsume-yuujinchou-roku-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/87212",
+        "dub": null,
+        "url": "https://www.animegg.org/natsume-yuujinchou-roku-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/87279",
+        "dub": null,
+        "url": "https://www.animegg.org/natsume-yuujinchou-roku-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/87349",
+        "dub": null,
+        "url": "https://www.animegg.org/natsume-yuujinchou-roku-episode-11"
+      }
+    ]
   }
 ]
