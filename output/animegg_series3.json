@@ -123395,5 +123395,87 @@
         "url": "https://www.animegg.org/genei-wo-kakeru-taiyou-episode-14"
       }
     ]
+  },
+  {
+    "serial_no": 2567,
+    "title": "Viper's Creed",
+    "animegg_url": "https://www.animegg.org/series/vipers-creed",
+    "mal_url": "https://myanimelist.net/anime/5505",
+    "mal_id": 5505,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/40001",
+        "dub": null,
+        "url": "https://www.animegg.org/vipers-creed-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/39997",
+        "dub": null,
+        "url": "https://www.animegg.org/vipers-creed-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/40000",
+        "dub": null,
+        "url": "https://www.animegg.org/vipers-creed-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/39999",
+        "dub": null,
+        "url": "https://www.animegg.org/vipers-creed-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/39998",
+        "dub": null,
+        "url": "https://www.animegg.org/vipers-creed-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/40003",
+        "dub": null,
+        "url": "https://www.animegg.org/vipers-creed-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/40004",
+        "dub": null,
+        "url": "https://www.animegg.org/vipers-creed-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/40002",
+        "dub": null,
+        "url": "https://www.animegg.org/vipers-creed-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/40006",
+        "dub": null,
+        "url": "https://www.animegg.org/vipers-creed-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/40005",
+        "dub": null,
+        "url": "https://www.animegg.org/vipers-creed-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/40007",
+        "dub": null,
+        "url": "https://www.animegg.org/vipers-creed-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/40008",
+        "dub": null,
+        "url": "https://www.animegg.org/vipers-creed-episode-12"
+      }
+    ]
   }
 ]
