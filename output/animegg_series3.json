@@ -73022,5 +73022,51 @@
         "url": "https://www.animegg.org/kuroko-no-basket-ng-shuu-episode-9"
       }
     ]
+  },
+  {
+    "serial_no": 2098,
+    "title": "Ladies vs. Butlers! Specials",
+    "animegg_url": "https://www.animegg.org/series/ladies-vs-butlers-specials",
+    "mal_url": "https://myanimelist.net/anime/7148",
+    "mal_id": 7148,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/21288",
+        "dub": null,
+        "url": "https://www.animegg.org/ladies-vs-butlers-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/21287",
+        "dub": null,
+        "url": "https://www.animegg.org/ladies-vs-butlers-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/21286",
+        "dub": null,
+        "url": "https://www.animegg.org/ladies-vs-butlers-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/21289",
+        "dub": null,
+        "url": "https://www.animegg.org/ladies-vs-butlers-specials-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/21285",
+        "dub": null,
+        "url": "https://www.animegg.org/ladies-vs-butlers-specials-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/21290",
+        "dub": null,
+        "url": "https://www.animegg.org/ladies-vs-butlers-specials-episode-6"
+      }
+    ]
   }
 ]
