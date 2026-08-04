@@ -68758,5 +68758,87 @@
         "url": "https://www.animegg.org/giant-gorg-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 2064,
+    "title": "Fight Ippatsu! Juuden-Chan!!",
+    "animegg_url": "https://www.animegg.org/series/fight-ippatsu-juuden-chan",
+    "mal_url": "https://myanimelist.net/anime/5973",
+    "mal_id": 5973,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/10872",
+        "dub": null,
+        "url": "https://www.animegg.org/fight-ippatsu-juuden-chan-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/10874",
+        "dub": null,
+        "url": "https://www.animegg.org/fight-ippatsu-juuden-chan-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/10875",
+        "dub": null,
+        "url": "https://www.animegg.org/fight-ippatsu-juuden-chan-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/10871",
+        "dub": null,
+        "url": "https://www.animegg.org/fight-ippatsu-juuden-chan-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/10873",
+        "dub": null,
+        "url": "https://www.animegg.org/fight-ippatsu-juuden-chan-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/10876",
+        "dub": null,
+        "url": "https://www.animegg.org/fight-ippatsu-juuden-chan-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/10879",
+        "dub": null,
+        "url": "https://www.animegg.org/fight-ippatsu-juuden-chan-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/10877",
+        "dub": null,
+        "url": "https://www.animegg.org/fight-ippatsu-juuden-chan-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/10878",
+        "dub": null,
+        "url": "https://www.animegg.org/fight-ippatsu-juuden-chan-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/10880",
+        "dub": null,
+        "url": "https://www.animegg.org/fight-ippatsu-juuden-chan-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/10881",
+        "dub": null,
+        "url": "https://www.animegg.org/fight-ippatsu-juuden-chan-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/10882",
+        "dub": null,
+        "url": "https://www.animegg.org/fight-ippatsu-juuden-chan-episode-12"
+      }
+    ]
   }
 ]
