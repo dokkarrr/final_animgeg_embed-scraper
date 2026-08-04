@@ -74040,5 +74040,93 @@
         "url": "https://www.animegg.org/kaguya-sama-wa-kokurasetai-ultra-romantic-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2108,
+    "title": "Princess Connect! Re:Dive",
+    "animegg_url": "https://www.animegg.org/series/princess-connect-redive",
+    "mal_url": "https://myanimelist.net/anime/39292",
+    "mal_id": 39292,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/98251",
+        "dub": null,
+        "url": "https://www.animegg.org/princess-connect-redive-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/98308",
+        "dub": null,
+        "url": "https://www.animegg.org/princess-connect-redive-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/98359",
+        "dub": null,
+        "url": "https://www.animegg.org/princess-connect-redive-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/98411",
+        "dub": null,
+        "url": "https://www.animegg.org/princess-connect-redive-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/98450",
+        "dub": null,
+        "url": "https://www.animegg.org/princess-connect-redive-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/98491",
+        "dub": null,
+        "url": "https://www.animegg.org/princess-connect-redive-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/98580",
+        "dub": null,
+        "url": "https://www.animegg.org/princess-connect-redive-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/98622",
+        "dub": null,
+        "url": "https://www.animegg.org/princess-connect-redive-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/98674",
+        "dub": null,
+        "url": "https://www.animegg.org/princess-connect-redive-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/98714",
+        "dub": null,
+        "url": "https://www.animegg.org/princess-connect-redive-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/98767",
+        "dub": null,
+        "url": "https://www.animegg.org/princess-connect-redive-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/98808",
+        "dub": null,
+        "url": "https://www.animegg.org/princess-connect-redive-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/98847",
+        "dub": null,
+        "url": "https://www.animegg.org/princess-connect-redive-episode-13"
+      }
+    ]
   }
 ]
