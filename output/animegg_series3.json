@@ -105914,5 +105914,21 @@
         "url": "https://www.animegg.org/yozakura-quartet-hana-no-uta-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2392,
+    "title": "One Piece Movie 13: Film Gold",
+    "animegg_url": "https://www.animegg.org/series/one-piece-movie-13-film-gold",
+    "mal_url": "https://myanimelist.net/anime/31490",
+    "mal_id": 31490,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/85345",
+        "dub": "https://www.animegg.org/embed/85363",
+        "url": "https://www.animegg.org/one-piece-movie-13-film-gold-episode-13"
+      }
+    ]
   }
 ]
