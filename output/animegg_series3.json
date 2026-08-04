@@ -59204,5 +59204,93 @@
         "url": "https://www.animegg.org/one-piece-dead-end-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 1969,
+    "title": "Jigokuraku",
+    "animegg_url": "https://www.animegg.org/series/jigokuraku",
+    "mal_url": "https://myanimelist.net/anime/46569",
+    "mal_id": 46569,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/107625",
+        "dub": "https://www.animegg.org/embed/124643",
+        "url": "https://www.animegg.org/jigokuraku-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/107672",
+        "dub": "https://www.animegg.org/embed/124642",
+        "url": "https://www.animegg.org/jigokuraku-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/107737",
+        "dub": "https://www.animegg.org/embed/124641",
+        "url": "https://www.animegg.org/jigokuraku-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/107995",
+        "dub": "https://www.animegg.org/embed/124640",
+        "url": "https://www.animegg.org/jigokuraku-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/124639",
+        "dub": "https://www.animegg.org/embed/130125",
+        "url": "https://www.animegg.org/jigokuraku-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/124638",
+        "dub": "https://www.animegg.org/embed/130126",
+        "url": "https://www.animegg.org/jigokuraku-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/107996",
+        "dub": "https://www.animegg.org/embed/124637",
+        "url": "https://www.animegg.org/jigokuraku-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/108242",
+        "dub": "https://www.animegg.org/embed/124636",
+        "url": "https://www.animegg.org/jigokuraku-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/108821",
+        "dub": "https://www.animegg.org/embed/129808",
+        "url": "https://www.animegg.org/jigokuraku-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/129926",
+        "dub": null,
+        "url": "https://www.animegg.org/jigokuraku-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/129925",
+        "dub": null,
+        "url": "https://www.animegg.org/jigokuraku-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/130127",
+        "dub": null,
+        "url": "https://www.animegg.org/jigokuraku-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/130027",
+        "dub": null,
+        "url": "https://www.animegg.org/jigokuraku-episode-13"
+      }
+    ]
   }
 ]
