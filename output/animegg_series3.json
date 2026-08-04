@@ -11032,5 +11032,87 @@
         "url": "https://www.animegg.org/air-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 1629,
+    "title": "Magic Kaito",
+    "animegg_url": "https://www.animegg.org/series/magic-kaito",
+    "mal_url": "https://myanimelist.net/anime/8310",
+    "mal_id": 8310,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/22465",
+        "dub": null,
+        "url": "https://www.animegg.org/magic-kaito-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/22467",
+        "dub": null,
+        "url": "https://www.animegg.org/magic-kaito-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/22469",
+        "dub": null,
+        "url": "https://www.animegg.org/magic-kaito-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/22468",
+        "dub": null,
+        "url": "https://www.animegg.org/magic-kaito-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/22466",
+        "dub": null,
+        "url": "https://www.animegg.org/magic-kaito-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/22470",
+        "dub": null,
+        "url": "https://www.animegg.org/magic-kaito-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/22472",
+        "dub": null,
+        "url": "https://www.animegg.org/magic-kaito-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/22471",
+        "dub": null,
+        "url": "https://www.animegg.org/magic-kaito-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/22474",
+        "dub": null,
+        "url": "https://www.animegg.org/magic-kaito-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/22473",
+        "dub": null,
+        "url": "https://www.animegg.org/magic-kaito-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/22475",
+        "dub": null,
+        "url": "https://www.animegg.org/magic-kaito-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/22476",
+        "dub": null,
+        "url": "https://www.animegg.org/magic-kaito-episode-12"
+      }
+    ]
   }
 ]
