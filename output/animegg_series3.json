@@ -130977,5 +130977,87 @@
         "url": "https://www.animegg.org/majo-no-tabitabi-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2649,
+    "title": "Caligula",
+    "animegg_url": "https://www.animegg.org/series/caligula",
+    "mal_url": "https://myanimelist.net/anime/36828",
+    "mal_id": 36828,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/90693",
+        "dub": null,
+        "url": "https://www.animegg.org/caligula-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/90789",
+        "dub": null,
+        "url": "https://www.animegg.org/caligula-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/90866",
+        "dub": null,
+        "url": "https://www.animegg.org/caligula-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/90962",
+        "dub": null,
+        "url": "https://www.animegg.org/caligula-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/91062",
+        "dub": null,
+        "url": "https://www.animegg.org/caligula-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/91144",
+        "dub": null,
+        "url": "https://www.animegg.org/caligula-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/91230",
+        "dub": null,
+        "url": "https://www.animegg.org/caligula-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/91311",
+        "dub": null,
+        "url": "https://www.animegg.org/caligula-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/91396",
+        "dub": null,
+        "url": "https://www.animegg.org/caligula-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/91487",
+        "dub": null,
+        "url": "https://www.animegg.org/caligula-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/91562",
+        "dub": null,
+        "url": "https://www.animegg.org/caligula-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/91645",
+        "dub": null,
+        "url": "https://www.animegg.org/caligula-episode-12"
+      }
+    ]
   }
 ]
