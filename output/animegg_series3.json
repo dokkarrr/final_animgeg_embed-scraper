@@ -68352,5 +68352,93 @@
         "url": "https://www.animegg.org/sakura-wars-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 2060,
+    "title": "Gunslinger Girl",
+    "animegg_url": "https://www.animegg.org/series/gunslinger-girl",
+    "mal_url": "https://myanimelist.net/anime/134",
+    "mal_id": 134,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/14681",
+        "dub": "https://www.animegg.org/embed/14682",
+        "url": "https://www.animegg.org/gunslinger-girl-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/14675",
+        "dub": "https://www.animegg.org/embed/14676",
+        "url": "https://www.animegg.org/gunslinger-girl-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/14673",
+        "dub": "https://www.animegg.org/embed/14674",
+        "url": "https://www.animegg.org/gunslinger-girl-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/14679",
+        "dub": "https://www.animegg.org/embed/14680",
+        "url": "https://www.animegg.org/gunslinger-girl-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/14677",
+        "dub": "https://www.animegg.org/embed/14678",
+        "url": "https://www.animegg.org/gunslinger-girl-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/14683",
+        "dub": "https://www.animegg.org/embed/14684",
+        "url": "https://www.animegg.org/gunslinger-girl-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/14687",
+        "dub": "https://www.animegg.org/embed/14688",
+        "url": "https://www.animegg.org/gunslinger-girl-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/14685",
+        "dub": "https://www.animegg.org/embed/14686",
+        "url": "https://www.animegg.org/gunslinger-girl-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/14689",
+        "dub": "https://www.animegg.org/embed/14690",
+        "url": "https://www.animegg.org/gunslinger-girl-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/14691",
+        "dub": "https://www.animegg.org/embed/14692",
+        "url": "https://www.animegg.org/gunslinger-girl-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/14693",
+        "dub": "https://www.animegg.org/embed/14694",
+        "url": "https://www.animegg.org/gunslinger-girl-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/14697",
+        "dub": "https://www.animegg.org/embed/14698",
+        "url": "https://www.animegg.org/gunslinger-girl-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/14695",
+        "dub": "https://www.animegg.org/embed/14696",
+        "url": "https://www.animegg.org/gunslinger-girl-episode-13"
+      }
+    ]
   }
 ]
