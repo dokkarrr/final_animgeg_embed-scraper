@@ -111950,5 +111950,93 @@
         "url": "https://www.animegg.org/ef---a-tale-of-melodies-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2452,
+    "title": "Nobunagun",
+    "animegg_url": "https://www.animegg.org/series/nobunagun",
+    "mal_url": "https://myanimelist.net/anime/19855",
+    "mal_id": 19855,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/58805",
+        "dub": "https://www.animegg.org/embed/76665",
+        "url": "https://www.animegg.org/nobunagun-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/58806",
+        "dub": "https://www.animegg.org/embed/76666",
+        "url": "https://www.animegg.org/nobunagun-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/58807",
+        "dub": null,
+        "url": "https://www.animegg.org/nobunagun-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/58808",
+        "dub": null,
+        "url": "https://www.animegg.org/nobunagun-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/58809",
+        "dub": null,
+        "url": "https://www.animegg.org/nobunagun-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/58810",
+        "dub": null,
+        "url": "https://www.animegg.org/nobunagun-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/58811",
+        "dub": null,
+        "url": "https://www.animegg.org/nobunagun-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/58812",
+        "dub": null,
+        "url": "https://www.animegg.org/nobunagun-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/58813",
+        "dub": null,
+        "url": "https://www.animegg.org/nobunagun-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/58814",
+        "dub": null,
+        "url": "https://www.animegg.org/nobunagun-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/58815",
+        "dub": null,
+        "url": "https://www.animegg.org/nobunagun-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/58816",
+        "dub": null,
+        "url": "https://www.animegg.org/nobunagun-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/58817",
+        "dub": null,
+        "url": "https://www.animegg.org/nobunagun-episode-13"
+      }
+    ]
   }
 ]
