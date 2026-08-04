@@ -57032,5 +57032,93 @@
         "url": "https://www.animegg.org/seirei-tsukai-no-blade-dance-specials-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 1948,
+    "title": "Servant x Service",
+    "animegg_url": "https://www.animegg.org/series/servant-x-service",
+    "mal_url": "https://myanimelist.net/anime/18119",
+    "mal_id": 18119,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/34063",
+        "dub": null,
+        "url": "https://www.animegg.org/servant-x-service-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/34060",
+        "dub": null,
+        "url": "https://www.animegg.org/servant-x-service-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/34062",
+        "dub": null,
+        "url": "https://www.animegg.org/servant-x-service-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/34059",
+        "dub": null,
+        "url": "https://www.animegg.org/servant-x-service-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/34061",
+        "dub": null,
+        "url": "https://www.animegg.org/servant-x-service-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/34064",
+        "dub": null,
+        "url": "https://www.animegg.org/servant-x-service-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/34066",
+        "dub": null,
+        "url": "https://www.animegg.org/servant-x-service-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/34065",
+        "dub": null,
+        "url": "https://www.animegg.org/servant-x-service-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/34068",
+        "dub": null,
+        "url": "https://www.animegg.org/servant-x-service-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/34067",
+        "dub": null,
+        "url": "https://www.animegg.org/servant-x-service-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/34069",
+        "dub": null,
+        "url": "https://www.animegg.org/servant-x-service-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/34070",
+        "dub": null,
+        "url": "https://www.animegg.org/servant-x-service-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/34071",
+        "dub": null,
+        "url": "https://www.animegg.org/servant-x-service-episode-13"
+      }
+    ]
   }
 ]
