@@ -106584,5 +106584,87 @@
         "url": "https://www.animegg.org/niehime-to-kemono-no-ou-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 2399,
+    "title": "Kuro no Shoukanshi",
+    "animegg_url": "https://www.animegg.org/series/kuro-no-shoukanshi",
+    "mal_url": "https://myanimelist.net/anime/51064",
+    "mal_id": 51064,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/105252",
+        "dub": null,
+        "url": "https://www.animegg.org/kuro-no-shoukanshi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/105307",
+        "dub": null,
+        "url": "https://www.animegg.org/kuro-no-shoukanshi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/105364",
+        "dub": null,
+        "url": "https://www.animegg.org/kuro-no-shoukanshi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/105425",
+        "dub": null,
+        "url": "https://www.animegg.org/kuro-no-shoukanshi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/105498",
+        "dub": null,
+        "url": "https://www.animegg.org/kuro-no-shoukanshi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/105562",
+        "dub": null,
+        "url": "https://www.animegg.org/kuro-no-shoukanshi-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/105626",
+        "dub": null,
+        "url": "https://www.animegg.org/kuro-no-shoukanshi-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/105686",
+        "dub": null,
+        "url": "https://www.animegg.org/kuro-no-shoukanshi-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/105753",
+        "dub": null,
+        "url": "https://www.animegg.org/kuro-no-shoukanshi-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/105816",
+        "dub": null,
+        "url": "https://www.animegg.org/kuro-no-shoukanshi-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/105882",
+        "dub": null,
+        "url": "https://www.animegg.org/kuro-no-shoukanshi-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/105943",
+        "dub": null,
+        "url": "https://www.animegg.org/kuro-no-shoukanshi-episode-12"
+      }
+    ]
   }
 ]
