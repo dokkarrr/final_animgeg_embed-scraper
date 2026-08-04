@@ -91610,5 +91610,87 @@
         "url": "https://www.animegg.org/active-raid-kidou-kyoushuushitsu-dai-hachi-gakari-2nd-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 2245,
+    "title": "Cuticle Tantei Inaba",
+    "animegg_url": "https://www.animegg.org/series/cuticle-tantei-inaba",
+    "mal_url": "https://myanimelist.net/anime/15109",
+    "mal_id": 15109,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/6553",
+        "dub": null,
+        "url": "https://www.animegg.org/cuticle-tantei-inaba-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/6552",
+        "dub": null,
+        "url": "https://www.animegg.org/cuticle-tantei-inaba-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/6550",
+        "dub": null,
+        "url": "https://www.animegg.org/cuticle-tantei-inaba-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/6549",
+        "dub": null,
+        "url": "https://www.animegg.org/cuticle-tantei-inaba-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/6551",
+        "dub": null,
+        "url": "https://www.animegg.org/cuticle-tantei-inaba-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/6555",
+        "dub": null,
+        "url": "https://www.animegg.org/cuticle-tantei-inaba-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/6556",
+        "dub": null,
+        "url": "https://www.animegg.org/cuticle-tantei-inaba-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/6554",
+        "dub": null,
+        "url": "https://www.animegg.org/cuticle-tantei-inaba-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/6557",
+        "dub": null,
+        "url": "https://www.animegg.org/cuticle-tantei-inaba-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/6558",
+        "dub": null,
+        "url": "https://www.animegg.org/cuticle-tantei-inaba-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/6559",
+        "dub": null,
+        "url": "https://www.animegg.org/cuticle-tantei-inaba-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/6560",
+        "dub": null,
+        "url": "https://www.animegg.org/cuticle-tantei-inaba-episode-12"
+      }
+    ]
   }
 ]
