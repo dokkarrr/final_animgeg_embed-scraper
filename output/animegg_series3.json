@@ -107942,5 +107942,87 @@
         "url": "https://www.animegg.org/sparrows-hotel-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2413,
+    "title": "Mahou Shoujo? Naria☆Girls",
+    "animegg_url": "https://www.animegg.org/series/mahou-shoujo-naria-girls",
+    "mal_url": "https://myanimelist.net/anime/33394",
+    "mal_id": 33394,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/83057",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-naria-girls-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/83058",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-naria-girls-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/83160",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-naria-girls-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/83273",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-naria-girls-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/83352",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-naria-girls-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/83442",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-naria-girls-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/83534",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-naria-girls-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/83611",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-naria-girls-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/83712",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-naria-girls-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/83795",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-naria-girls-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/83874",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-naria-girls-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/83960",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-naria-girls-episode-12"
+      }
+    ]
   }
 ]
