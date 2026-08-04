@@ -62786,5 +62786,93 @@
         "url": "https://www.animegg.org/ask-dr-rin-episode-51"
       }
     ]
+  },
+  {
+    "serial_no": 869,
+    "title": "Spice And Wolf",
+    "animegg_url": "https://www.animegg.org/series/spice-and-wolf",
+    "mal_url": "https://myanimelist.net/anime/2966",
+    "mal_id": 2966,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/36185",
+        "dub": "https://www.animegg.org/embed/36186",
+        "url": "https://www.animegg.org/spice-and-wolf-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/36181",
+        "dub": "https://www.animegg.org/embed/36182",
+        "url": "https://www.animegg.org/spice-and-wolf-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/36183",
+        "dub": "https://www.animegg.org/embed/36184",
+        "url": "https://www.animegg.org/spice-and-wolf-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/36177",
+        "dub": "https://www.animegg.org/embed/36178",
+        "url": "https://www.animegg.org/spice-and-wolf-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/36179",
+        "dub": "https://www.animegg.org/embed/36180",
+        "url": "https://www.animegg.org/spice-and-wolf-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/36187",
+        "dub": "https://www.animegg.org/embed/36188",
+        "url": "https://www.animegg.org/spice-and-wolf-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/36189",
+        "dub": "https://www.animegg.org/embed/36190",
+        "url": "https://www.animegg.org/spice-and-wolf-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/36191",
+        "dub": "https://www.animegg.org/embed/36192",
+        "url": "https://www.animegg.org/spice-and-wolf-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/36195",
+        "dub": "https://www.animegg.org/embed/36196",
+        "url": "https://www.animegg.org/spice-and-wolf-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/36193",
+        "dub": "https://www.animegg.org/embed/36194",
+        "url": "https://www.animegg.org/spice-and-wolf-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/36197",
+        "dub": "https://www.animegg.org/embed/36198",
+        "url": "https://www.animegg.org/spice-and-wolf-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/36199",
+        "dub": "https://www.animegg.org/embed/36200",
+        "url": "https://www.animegg.org/spice-and-wolf-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/36201",
+        "dub": "https://www.animegg.org/embed/36202",
+        "url": "https://www.animegg.org/spice-and-wolf-episode-13"
+      }
+    ]
   }
 ]
