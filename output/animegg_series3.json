@@ -44892,5 +44892,51 @@
         "url": "https://www.animegg.org/mangirl-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 1868,
+    "title": "Mobile Suit Gundam: The Origin",
+    "animegg_url": "https://www.animegg.org/series/mobilesuit-gundam-theorigin",
+    "mal_url": "https://myanimelist.net/anime/10937",
+    "mal_id": 10937,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/75206",
+        "dub": null,
+        "url": "https://www.animegg.org/mobilesuit-gundam-theorigin-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/79722",
+        "dub": null,
+        "url": "https://www.animegg.org/mobile-suit-gundam-the-origin-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/82382",
+        "dub": null,
+        "url": "https://www.animegg.org/mobile-suit-gundam-the-origin-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/84762",
+        "dub": null,
+        "url": "https://www.animegg.org/mobile-suit-gundam-the-origin-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/88440",
+        "dub": null,
+        "url": "https://www.animegg.org/mobile-suit-gundam-the-origin-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/91918",
+        "dub": "https://www.animegg.org/embed/91945",
+        "url": "https://www.animegg.org/mobile-suit-gundam-the-origin-episode-6"
+      }
+    ]
   }
 ]
