@@ -61460,5 +61460,87 @@
         "url": "https://www.animegg.org/hiiro-no-kakera-dai-ni-shou-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 1993,
+    "title": "Isshuukan Friends.",
+    "animegg_url": "https://www.animegg.org/series/one-week-friends",
+    "mal_url": "https://myanimelist.net/anime/21327",
+    "mal_id": 21327,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/18419",
+        "dub": null,
+        "url": "https://www.animegg.org/isshuukan-friends-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/18418",
+        "dub": null,
+        "url": "https://www.animegg.org/isshuukan-friends-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/18416",
+        "dub": null,
+        "url": "https://www.animegg.org/isshuukan-friends-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/18414",
+        "dub": null,
+        "url": "https://www.animegg.org/isshuukan-friends-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/18415",
+        "dub": null,
+        "url": "https://www.animegg.org/isshuukan-friends-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/18417",
+        "dub": null,
+        "url": "https://www.animegg.org/isshuukan-friends-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/18420",
+        "dub": null,
+        "url": "https://www.animegg.org/one-week-friends-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/18421",
+        "dub": null,
+        "url": "https://www.animegg.org/one-week-friends-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/18422",
+        "dub": null,
+        "url": "https://www.animegg.org/isshuukan-friends-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/18423",
+        "dub": null,
+        "url": "https://www.animegg.org/isshuukan-friends-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/18424",
+        "dub": null,
+        "url": "https://www.animegg.org/isshuukan-friends-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/18425",
+        "dub": null,
+        "url": "https://www.animegg.org/isshuukan-friends-episode-12"
+      }
+    ]
   }
 ]
