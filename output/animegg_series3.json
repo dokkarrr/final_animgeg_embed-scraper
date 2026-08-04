@@ -38656,5 +38656,81 @@
         "url": "https://www.animegg.org/yuragi-sou-no-yuuna-san-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1809,
+    "title": "Aoi Hana",
+    "animegg_url": "https://www.animegg.org/series/aoi-hana",
+    "mal_url": "https://myanimelist.net/anime/6164",
+    "mal_id": 6164,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/1454",
+        "dub": null,
+        "url": "https://www.animegg.org/aoi-hana-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/1453",
+        "dub": null,
+        "url": "https://www.animegg.org/aoi-hana-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/1455",
+        "dub": null,
+        "url": "https://www.animegg.org/aoi-hana-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/1457",
+        "dub": null,
+        "url": "https://www.animegg.org/aoi-hana-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/1456",
+        "dub": null,
+        "url": "https://www.animegg.org/aoi-hana-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/1459",
+        "dub": null,
+        "url": "https://www.animegg.org/aoi-hana-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/1458",
+        "dub": null,
+        "url": "https://www.animegg.org/aoi-hana-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/1460",
+        "dub": null,
+        "url": "https://www.animegg.org/aoi-hana-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/1462",
+        "dub": null,
+        "url": "https://www.animegg.org/aoi-hana-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/1461",
+        "dub": null,
+        "url": "https://www.animegg.org/aoi-hana-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/1463",
+        "dub": null,
+        "url": "https://www.animegg.org/aoi-hana-episode-11"
+      }
+    ]
   }
 ]
