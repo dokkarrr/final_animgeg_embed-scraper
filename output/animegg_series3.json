@@ -15090,5 +15090,87 @@
         "url": "https://www.animegg.org/uma-musume-pretty-derby-tv-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 1643,
+    "title": ".hack//Legend of the Twilight",
+    "animegg_url": "https://www.animegg.org/series/hacklegend-of-the-twilight",
+    "mal_url": "https://myanimelist.net/anime/298",
+    "mal_id": 298,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/96",
+        "dub": "https://www.animegg.org/embed/97",
+        "url": "https://www.animegg.org/hacklegend-of-the-twilight-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/90",
+        "dub": "https://www.animegg.org/embed/91",
+        "url": "https://www.animegg.org/hacklegend-of-the-twilight-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/88",
+        "dub": "https://www.animegg.org/embed/89",
+        "url": "https://www.animegg.org/hacklegend-of-the-twilight-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/94",
+        "dub": "https://www.animegg.org/embed/95",
+        "url": "https://www.animegg.org/hacklegend-of-the-twilight-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/92",
+        "dub": "https://www.animegg.org/embed/93",
+        "url": "https://www.animegg.org/hacklegend-of-the-twilight-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/98",
+        "dub": "https://www.animegg.org/embed/99",
+        "url": "https://www.animegg.org/hacklegend-of-the-twilight-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/100",
+        "dub": "https://www.animegg.org/embed/101",
+        "url": "https://www.animegg.org/hacklegend-of-the-twilight-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/102",
+        "dub": "https://www.animegg.org/embed/103",
+        "url": "https://www.animegg.org/hacklegend-of-the-twilight-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/104",
+        "dub": "https://www.animegg.org/embed/105",
+        "url": "https://www.animegg.org/hacklegend-of-the-twilight-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/106",
+        "dub": "https://www.animegg.org/embed/107",
+        "url": "https://www.animegg.org/hacklegend-of-the-twilight-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/110",
+        "dub": "https://www.animegg.org/embed/111",
+        "url": "https://www.animegg.org/hacklegend-of-the-twilight-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/108",
+        "dub": "https://www.animegg.org/embed/109",
+        "url": "https://www.animegg.org/hacklegend-of-the-twilight-episode-12"
+      }
+    ]
   }
 ]
