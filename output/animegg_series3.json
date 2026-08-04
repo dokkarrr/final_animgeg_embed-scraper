@@ -122501,5 +122501,93 @@
         "url": "https://www.animegg.org/gunjou-no-magmel-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2558,
+    "title": "Yami Shibai",
+    "animegg_url": "https://www.animegg.org/series/yami-shibai",
+    "mal_url": "https://myanimelist.net/anime/19383",
+    "mal_id": 19383,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/41016",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/41012",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/41013",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/41015",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/41014",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/41018",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/41019",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/41017",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/41020",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/41021",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/41022",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/41023",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/41024",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-episode-13"
+      }
+    ]
   }
 ]
