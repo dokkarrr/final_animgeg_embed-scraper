@@ -43170,5 +43170,87 @@
         "url": "https://www.animegg.org/beet-the-vandel-buster-excellion-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 1853,
+    "title": "Ookami Kakushi",
+    "animegg_url": "https://www.animegg.org/series/ookami-kakushi",
+    "mal_url": "https://myanimelist.net/anime/7079",
+    "mal_id": 7079,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/28706",
+        "dub": null,
+        "url": "https://www.animegg.org/ookami-kakushi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/28699",
+        "dub": null,
+        "url": "https://www.animegg.org/ookami-kakushi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/28697",
+        "dub": null,
+        "url": "https://www.animegg.org/ookami-kakushi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/28695",
+        "dub": null,
+        "url": "https://www.animegg.org/ookami-kakushi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/28696",
+        "dub": null,
+        "url": "https://www.animegg.org/ookami-kakushi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/28700",
+        "dub": null,
+        "url": "https://www.animegg.org/ookami-kakushi-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/28698",
+        "dub": null,
+        "url": "https://www.animegg.org/ookami-kakushi-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/28703",
+        "dub": null,
+        "url": "https://www.animegg.org/ookami-kakushi-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/28701",
+        "dub": null,
+        "url": "https://www.animegg.org/ookami-kakushi-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/28702",
+        "dub": null,
+        "url": "https://www.animegg.org/ookami-kakushi-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/28704",
+        "dub": null,
+        "url": "https://www.animegg.org/ookami-kakushi-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/28705",
+        "dub": null,
+        "url": "https://www.animegg.org/ookami-kakushi-episode-12"
+      }
+    ]
   }
 ]
