@@ -53744,5 +53744,93 @@
         "url": "https://www.animegg.org/25-jigen-no-ririsa-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 1930,
+    "title": "Vandread",
+    "animegg_url": "https://www.animegg.org/series/vandread",
+    "mal_url": "https://myanimelist.net/anime/180",
+    "mal_id": 180,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/64442",
+        "dub": "https://www.animegg.org/embed/64443",
+        "url": "https://www.animegg.org/vandread-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/64444",
+        "dub": "https://www.animegg.org/embed/64445",
+        "url": "https://www.animegg.org/vandread-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/64446",
+        "dub": "https://www.animegg.org/embed/64447",
+        "url": "https://www.animegg.org/vandread-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/64448",
+        "dub": "https://www.animegg.org/embed/64449",
+        "url": "https://www.animegg.org/vandread-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/64450",
+        "dub": "https://www.animegg.org/embed/64451",
+        "url": "https://www.animegg.org/vandread-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/64452",
+        "dub": "https://www.animegg.org/embed/64453",
+        "url": "https://www.animegg.org/vandread-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/64454",
+        "dub": "https://www.animegg.org/embed/64455",
+        "url": "https://www.animegg.org/vandread-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/64456",
+        "dub": "https://www.animegg.org/embed/64457",
+        "url": "https://www.animegg.org/vandread-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/64458",
+        "dub": "https://www.animegg.org/embed/64459",
+        "url": "https://www.animegg.org/vandread-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/64460",
+        "dub": "https://www.animegg.org/embed/64461",
+        "url": "https://www.animegg.org/vandread-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/64462",
+        "dub": "https://www.animegg.org/embed/64463",
+        "url": "https://www.animegg.org/vandread-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/64464",
+        "dub": "https://www.animegg.org/embed/64465",
+        "url": "https://www.animegg.org/vandread-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/64466",
+        "dub": "https://www.animegg.org/embed/64467",
+        "url": "https://www.animegg.org/vandread-episode-13"
+      }
+    ]
   }
 ]
