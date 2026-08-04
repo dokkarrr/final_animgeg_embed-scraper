@@ -129875,5 +129875,87 @@
         "url": "https://www.animegg.org/dual-parallel-trouble-adventures-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2636,
+    "title": "Pilot Candidate",
+    "animegg_url": "https://www.animegg.org/series/pilot-candidate",
+    "mal_url": "https://myanimelist.net/anime/888",
+    "mal_id": 888,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/29508",
+        "dub": "https://www.animegg.org/embed/72668",
+        "url": "https://www.animegg.org/pilot-candidate-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/29507",
+        "dub": "https://www.animegg.org/embed/72670",
+        "url": "https://www.animegg.org/pilot-candidate-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/72671",
+        "dub": null,
+        "url": "https://www.animegg.org/pilot-candidate-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/72672",
+        "dub": null,
+        "url": "https://www.animegg.org/pilot-candidate-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/72673",
+        "dub": null,
+        "url": "https://www.animegg.org/pilot-candidate-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/72675",
+        "dub": null,
+        "url": "https://www.animegg.org/pilot-candidate-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/72676",
+        "dub": null,
+        "url": "https://www.animegg.org/pilot-candidate-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/72677",
+        "dub": null,
+        "url": "https://www.animegg.org/pilot-candidate-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/72678",
+        "dub": null,
+        "url": "https://www.animegg.org/pilot-candidate-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/72679",
+        "dub": null,
+        "url": "https://www.animegg.org/pilot-candidate-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/72681",
+        "dub": null,
+        "url": "https://www.animegg.org/pilot-candidate-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/72682",
+        "dub": null,
+        "url": "https://www.animegg.org/pilot-candidate-episode-12"
+      }
+    ]
   }
 ]
