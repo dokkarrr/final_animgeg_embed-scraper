@@ -124601,5 +124601,87 @@
         "url": "https://www.animegg.org/uchuu-senkan-yamato-3-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 2579,
+    "title": "Kanata no Astra",
+    "animegg_url": "https://www.animegg.org/series/kanata-no-astra",
+    "mal_url": "https://myanimelist.net/anime/39198",
+    "mal_id": 39198,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/95808",
+        "dub": null,
+        "url": "https://www.animegg.org/kanata-no-astra-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/95872",
+        "dub": null,
+        "url": "https://www.animegg.org/kanata-no-astra-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/95949",
+        "dub": null,
+        "url": "https://www.animegg.org/kanata-no-astra-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/96012",
+        "dub": null,
+        "url": "https://www.animegg.org/kanata-no-astra-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/96069",
+        "dub": null,
+        "url": "https://www.animegg.org/kanata-no-astra-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/96129",
+        "dub": null,
+        "url": "https://www.animegg.org/kanata-no-astra-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/96188",
+        "dub": null,
+        "url": "https://www.animegg.org/kanata-no-astra-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/96249",
+        "dub": null,
+        "url": "https://www.animegg.org/kanata-no-astra-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/96311",
+        "dub": null,
+        "url": "https://www.animegg.org/kanata-no-astra-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/96371",
+        "dub": null,
+        "url": "https://www.animegg.org/kanata-no-astra-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/96431",
+        "dub": "https://www.animegg.org/embed/96432",
+        "url": "https://www.animegg.org/kanata-no-astra-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/96483",
+        "dub": "https://www.animegg.org/embed/96487",
+        "url": "https://www.animegg.org/kanata-no-astra-episode-12"
+      }
+    ]
   }
 ]
