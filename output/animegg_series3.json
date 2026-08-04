@@ -101772,5 +101772,93 @@
         "url": "https://www.animegg.org/happiness-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2348,
+    "title": "World Destruction",
+    "animegg_url": "https://www.animegg.org/series/world-destruction",
+    "mal_url": "https://myanimelist.net/anime/4415",
+    "mal_id": 4415,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/40646",
+        "dub": null,
+        "url": "https://www.animegg.org/world-destruction-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/40645",
+        "dub": null,
+        "url": "https://www.animegg.org/world-destruction-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/40647",
+        "dub": null,
+        "url": "https://www.animegg.org/world-destruction-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/40654",
+        "dub": null,
+        "url": "https://www.animegg.org/world-destruction-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/40644",
+        "dub": null,
+        "url": "https://www.animegg.org/world-destruction-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/40648",
+        "dub": null,
+        "url": "https://www.animegg.org/world-destruction-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/40655",
+        "dub": null,
+        "url": "https://www.animegg.org/world-destruction-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/40649",
+        "dub": null,
+        "url": "https://www.animegg.org/world-destruction-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/40650",
+        "dub": null,
+        "url": "https://www.animegg.org/world-destruction-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/40651",
+        "dub": null,
+        "url": "https://www.animegg.org/world-destruction-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/40652",
+        "dub": null,
+        "url": "https://www.animegg.org/world-destruction-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/40656",
+        "dub": null,
+        "url": "https://www.animegg.org/world-destruction-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/40653",
+        "dub": null,
+        "url": "https://www.animegg.org/world-destruction-episode-13"
+      }
+    ]
   }
 ]
