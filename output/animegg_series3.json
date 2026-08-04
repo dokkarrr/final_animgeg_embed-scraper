@@ -62432,5 +62432,87 @@
         "url": "https://www.animegg.org/love-live-sunshine-episode-13-6810"
       }
     ]
+  },
+  {
+    "serial_no": 2002,
+    "title": "Maria Holic",
+    "animegg_url": "https://www.animegg.org/series/maria-holic",
+    "mal_url": "https://myanimelist.net/anime/5030",
+    "mal_id": 5030,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/23230",
+        "dub": "https://www.animegg.org/embed/71826",
+        "url": "https://www.animegg.org/maria-holic-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/23227",
+        "dub": "https://www.animegg.org/embed/71825",
+        "url": "https://www.animegg.org/maria-holic-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/23229",
+        "dub": "https://www.animegg.org/embed/71824",
+        "url": "https://www.animegg.org/maria-holic-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/23226",
+        "dub": "https://www.animegg.org/embed/71822",
+        "url": "https://www.animegg.org/maria-holic-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/23228",
+        "dub": "https://www.animegg.org/embed/71819",
+        "url": "https://www.animegg.org/maria-holic-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/23231",
+        "dub": "https://www.animegg.org/embed/71816",
+        "url": "https://www.animegg.org/maria-holic-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/23233",
+        "dub": "https://www.animegg.org/embed/71813",
+        "url": "https://www.animegg.org/maria-holic-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/23235",
+        "dub": "https://www.animegg.org/embed/71807",
+        "url": "https://www.animegg.org/maria-holic-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/23232",
+        "dub": "https://www.animegg.org/embed/71808",
+        "url": "https://www.animegg.org/maria-holic-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/23234",
+        "dub": "https://www.animegg.org/embed/71801",
+        "url": "https://www.animegg.org/maria-holic-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/23236",
+        "dub": "https://www.animegg.org/embed/71795",
+        "url": "https://www.animegg.org/maria-holic-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/23237",
+        "dub": "https://www.animegg.org/embed/71791",
+        "url": "https://www.animegg.org/maria-holic-episode-12"
+      }
+    ]
   }
 ]
