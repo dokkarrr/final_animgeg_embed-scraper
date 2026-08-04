@@ -96898,5 +96898,45 @@
         "url": "https://www.animegg.org/eden-of-the-east-episode-11"
       }
     ]
+  },
+  {
+    "serial_no": 2298,
+    "title": "Sword Art Online II: Sword Art Offline II",
+    "animegg_url": "https://www.animegg.org/series/sword-art-online-ii-sword-art-offline-ii",
+    "mal_url": "https://myanimelist.net/anime/28063",
+    "mal_id": 28063,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/75265",
+        "dub": null,
+        "url": "https://www.animegg.org/sword-art-online-ii-sword-art-offline-ii-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/75466",
+        "dub": null,
+        "url": "https://www.animegg.org/sword-art-online-ii-sword-art-offline-ii-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/75618",
+        "dub": null,
+        "url": "https://www.animegg.org/sword-art-online-ii-sword-art-offline-ii-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/76072",
+        "dub": null,
+        "url": "https://www.animegg.org/sword-art-online-ii-sword-art-offline-ii-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/77260",
+        "dub": null,
+        "url": "https://www.animegg.org/sword-art-online-ii-sword-art-offline-ii-episode-5"
+      }
+    ]
   }
 ]
