@@ -106920,5 +106920,87 @@
         "url": "https://www.animegg.org/haitai-nanafa-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 2402,
+    "title": "Evil or Live",
+    "animegg_url": "https://www.animegg.org/series/evil-or-live",
+    "mal_url": "https://myanimelist.net/anime/36245",
+    "mal_id": 36245,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/88612",
+        "dub": null,
+        "url": "https://www.animegg.org/evil-or-live-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/88701",
+        "dub": null,
+        "url": "https://www.animegg.org/evil-or-live-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/88776",
+        "dub": null,
+        "url": "https://www.animegg.org/evil-or-live-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/88869",
+        "dub": null,
+        "url": "https://www.animegg.org/evil-or-live-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/88958",
+        "dub": null,
+        "url": "https://www.animegg.org/evil-or-live-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/89056",
+        "dub": null,
+        "url": "https://www.animegg.org/evil-or-live-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/89129",
+        "dub": null,
+        "url": "https://www.animegg.org/evil-or-live-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/89209",
+        "dub": null,
+        "url": "https://www.animegg.org/evil-or-live-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/89284",
+        "dub": null,
+        "url": "https://www.animegg.org/evil-or-live-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/89437",
+        "dub": null,
+        "url": "https://www.animegg.org/evil-or-live-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/89520",
+        "dub": null,
+        "url": "https://www.animegg.org/evil-or-live-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/89543",
+        "dub": null,
+        "url": "https://www.animegg.org/evil-or-live-episode-12"
+      }
+    ]
   }
 ]
