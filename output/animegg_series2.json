@@ -3782,5 +3782,87 @@
         "url": "https://www.animegg.org/ginga-e-kickoff-episode-39"
       }
     ]
+  },
+  {
+    "serial_no": 527,
+    "title": "Another",
+    "animegg_url": "https://www.animegg.org/series/another",
+    "mal_url": "https://myanimelist.net/anime/11111",
+    "mal_id": 11111,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/1267",
+        "dub": "https://www.animegg.org/embed/1268",
+        "url": "https://www.animegg.org/another-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/1265",
+        "dub": "https://www.animegg.org/embed/1266",
+        "url": "https://www.animegg.org/another-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/1273",
+        "dub": "https://www.animegg.org/embed/1274",
+        "url": "https://www.animegg.org/another-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/1271",
+        "dub": "https://www.animegg.org/embed/1272",
+        "url": "https://www.animegg.org/another-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/1269",
+        "dub": "https://www.animegg.org/embed/1270",
+        "url": "https://www.animegg.org/another-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/1279",
+        "dub": "https://www.animegg.org/embed/1280",
+        "url": "https://www.animegg.org/another-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/1275",
+        "dub": "https://www.animegg.org/embed/1276",
+        "url": "https://www.animegg.org/another-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/1277",
+        "dub": "https://www.animegg.org/embed/1278",
+        "url": "https://www.animegg.org/another-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/1281",
+        "dub": "https://www.animegg.org/embed/1282",
+        "url": "https://www.animegg.org/another-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/1283",
+        "dub": "https://www.animegg.org/embed/1284",
+        "url": "https://www.animegg.org/another-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/1285",
+        "dub": "https://www.animegg.org/embed/1286",
+        "url": "https://www.animegg.org/another-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/1287",
+        "dub": "https://www.animegg.org/embed/1288",
+        "url": "https://www.animegg.org/another-episode-12"
+      }
+    ]
   }
 ]
