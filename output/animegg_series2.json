@@ -88708,5 +88708,81 @@
         "url": "https://www.animegg.org/battle-b-daman-episode-52"
       }
     ]
+  },
+  {
+    "serial_no": 1024,
+    "title": "Zankyou no Terror",
+    "animegg_url": "https://www.animegg.org/series/zankyou-no-terror",
+    "mal_url": "https://myanimelist.net/anime/23283",
+    "mal_id": 23283,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/25153",
+        "dub": null,
+        "url": "https://www.animegg.org/zankyou-no-terror-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/25154",
+        "dub": null,
+        "url": "https://www.animegg.org/zankyou-no-terror-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/25155",
+        "dub": null,
+        "url": "https://www.animegg.org/zankyou-no-terror-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/25156",
+        "dub": null,
+        "url": "https://www.animegg.org/zankyou-no-terror-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/25157",
+        "dub": null,
+        "url": "https://www.animegg.org/zankyou-no-terror-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/25158",
+        "dub": null,
+        "url": "https://www.animegg.org/zankyou-no-terror-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/25159",
+        "dub": null,
+        "url": "https://www.animegg.org/zankyou-no-terror-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/25160",
+        "dub": null,
+        "url": "https://www.animegg.org/zankyou-no-terror-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/25161",
+        "dub": null,
+        "url": "https://www.animegg.org/zankyou-no-terror-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/25162",
+        "dub": null,
+        "url": "https://www.animegg.org/zankyou-no-terror-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/25163",
+        "dub": null,
+        "url": "https://www.animegg.org/zankyou-no-terror-episode-11"
+      }
+    ]
   }
 ]
