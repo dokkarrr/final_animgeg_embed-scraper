@@ -89038,5 +89038,93 @@
         "url": "https://www.animegg.org/seisen-cerberus-ryuukoku-no-fatalit-s-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 1027,
+    "title": "Norn9: Norn+Nonet",
+    "animegg_url": "https://www.animegg.org/series/norn9-nornnonet",
+    "mal_url": "https://myanimelist.net/anime/31452",
+    "mal_id": 31452,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/81749",
+        "dub": "https://www.animegg.org/embed/81763",
+        "url": "https://www.animegg.org/norn9-nornnonet-episode-13"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/81668",
+        "dub": "https://www.animegg.org/embed/81673",
+        "url": "https://www.animegg.org/norn9-nornnonet-episode-12"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/81585",
+        "dub": "https://www.animegg.org/embed/81587",
+        "url": "https://www.animegg.org/norn9-nornnonet-episode-11"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/81472",
+        "dub": "https://www.animegg.org/embed/81483",
+        "url": "https://www.animegg.org/norn9-nornnonet-episode-95"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/81386",
+        "dub": "https://www.animegg.org/embed/81395",
+        "url": "https://www.animegg.org/norn9-nornnonet-episode-9"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/81275",
+        "dub": "https://www.animegg.org/embed/81290",
+        "url": "https://www.animegg.org/norn9-nornnonet-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/81174",
+        "dub": "https://www.animegg.org/embed/81184",
+        "url": "https://www.animegg.org/norn9-nornnonet-episode-7"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/81080",
+        "dub": "https://www.animegg.org/embed/81085",
+        "url": "https://www.animegg.org/norn9-nornnonet-episode-6"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/80991",
+        "dub": null,
+        "url": "https://www.animegg.org/norn9-nornnonet-episode-5"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/80885",
+        "dub": "https://www.animegg.org/embed/80894",
+        "url": "https://www.animegg.org/norn9-nornnonet-episode-4"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/80778",
+        "dub": "https://www.animegg.org/embed/80787",
+        "url": "https://www.animegg.org/norn9-nornnonet-episode-3"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/80672",
+        "dub": "https://www.animegg.org/embed/80682",
+        "url": "https://www.animegg.org/norn9-nornnonet-episode-2"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/80579",
+        "dub": null,
+        "url": "https://www.animegg.org/norn9-nornnonet-episode-1"
+      }
+    ]
   }
 ]
