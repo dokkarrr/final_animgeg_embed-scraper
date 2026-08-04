@@ -105794,5 +105794,87 @@
         "url": "https://www.animegg.org/mahouka-koukou-no-rettousei-raihousha-hen-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 1115,
+    "title": "Blood-C",
+    "animegg_url": "https://www.animegg.org/series/blood-c",
+    "mal_url": "https://myanimelist.net/anime/10490",
+    "mal_id": 10490,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/4226",
+        "dub": "https://www.animegg.org/embed/74030",
+        "url": "https://www.animegg.org/blood-c-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/4224",
+        "dub": "https://www.animegg.org/embed/74029",
+        "url": "https://www.animegg.org/blood-c-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/4222",
+        "dub": "https://www.animegg.org/embed/74028",
+        "url": "https://www.animegg.org/blood-c-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/4223",
+        "dub": "https://www.animegg.org/embed/74027",
+        "url": "https://www.animegg.org/blood-c-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/4225",
+        "dub": "https://www.animegg.org/embed/74026",
+        "url": "https://www.animegg.org/blood-c-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/4228",
+        "dub": "https://www.animegg.org/embed/74025",
+        "url": "https://www.animegg.org/blood-c-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/4229",
+        "dub": "https://www.animegg.org/embed/74024",
+        "url": "https://www.animegg.org/blood-c-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/4227",
+        "dub": "https://www.animegg.org/embed/74571",
+        "url": "https://www.animegg.org/blood-c-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/4231",
+        "dub": "https://www.animegg.org/embed/74023",
+        "url": "https://www.animegg.org/blood-c-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/4230",
+        "dub": "https://www.animegg.org/embed/74022",
+        "url": "https://www.animegg.org/blood-c-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/4232",
+        "dub": "https://www.animegg.org/embed/74020",
+        "url": "https://www.animegg.org/blood-c-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/4233",
+        "dub": "https://www.animegg.org/embed/74021",
+        "url": "https://www.animegg.org/blood-c-episode-12"
+      }
+    ]
   }
 ]
