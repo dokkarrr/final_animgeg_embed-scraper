@@ -5902,5 +5902,87 @@
         "url": "https://www.animegg.org/girls-bravo---first-season-episode-11"
       }
     ]
+  },
+  {
+    "serial_no": 1578,
+    "title": "Chaos Head",
+    "animegg_url": "https://www.animegg.org/series/chaos-head",
+    "mal_url": "https://myanimelist.net/anime/4975",
+    "mal_id": 4975,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/5551",
+        "dub": "https://www.animegg.org/embed/69202",
+        "url": "https://www.animegg.org/chaos-head-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/5550",
+        "dub": "https://www.animegg.org/embed/69195",
+        "url": "https://www.animegg.org/chaos-head-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/5547",
+        "dub": "https://www.animegg.org/embed/69197",
+        "url": "https://www.animegg.org/chaos-head-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/5549",
+        "dub": "https://www.animegg.org/embed/69196",
+        "url": "https://www.animegg.org/chaos-head-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/5548",
+        "dub": "https://www.animegg.org/embed/69193",
+        "url": "https://www.animegg.org/chaos-head-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/5554",
+        "dub": "https://www.animegg.org/embed/69192",
+        "url": "https://www.animegg.org/chaos-head-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/5552",
+        "dub": "https://www.animegg.org/embed/69191",
+        "url": "https://www.animegg.org/chaos-head-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/5553",
+        "dub": "https://www.animegg.org/embed/69190",
+        "url": "https://www.animegg.org/chaos-head-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/5555",
+        "dub": "https://www.animegg.org/embed/69189",
+        "url": "https://www.animegg.org/chaos-head-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/5556",
+        "dub": "https://www.animegg.org/embed/69188",
+        "url": "https://www.animegg.org/chaos-head-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/5557",
+        "dub": "https://www.animegg.org/embed/69187",
+        "url": "https://www.animegg.org/chaos-head-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/5558",
+        "dub": "https://www.animegg.org/embed/69186",
+        "url": "https://www.animegg.org/chaos-head-episode-12"
+      }
+    ]
   }
 ]
