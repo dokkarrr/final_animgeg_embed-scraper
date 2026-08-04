@@ -69600,5 +69600,63 @@
         "url": "https://www.animegg.org/edens-bowy-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 2072,
+    "title": "Bleach: Sennen Kessen-hen - Soukoku-tan",
+    "animegg_url": "https://www.animegg.org/series/bleach-sennen-kessen-hen---soukoku-tan",
+    "mal_url": "https://myanimelist.net/anime/56784",
+    "mal_id": 56784,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/137649",
+        "dub": null,
+        "url": "https://www.animegg.org/bleach-sennen-kessen-hen---soukoku-tan-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/137918",
+        "dub": null,
+        "url": "https://www.animegg.org/bleach-sennen-kessen-hen---soukoku-tan-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/138174",
+        "dub": null,
+        "url": "https://www.animegg.org/bleach-sennen-kessen-hen---soukoku-tan-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/138413",
+        "dub": null,
+        "url": "https://www.animegg.org/bleach-sennen-kessen-hen---soukoku-tan-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/138608",
+        "dub": null,
+        "url": "https://www.animegg.org/bleach-sennen-kessen-hen---soukoku-tan-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/138838",
+        "dub": null,
+        "url": "https://www.animegg.org/bleach-sennen-kessen-hen---soukoku-tan-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/139035",
+        "dub": null,
+        "url": "https://www.animegg.org/bleach-sennen-kessen-hen---soukoku-tan-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/139216",
+        "dub": null,
+        "url": "https://www.animegg.org/bleach-sennen-kessen-hen---soukoku-tan-episode-8"
+      }
+    ]
   }
 ]
