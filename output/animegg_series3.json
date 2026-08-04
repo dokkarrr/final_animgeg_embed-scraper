@@ -8064,5 +8064,87 @@
         "url": "https://www.animegg.org/nogizaka-haruka-no-himitsu-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1598,
+    "title": "Rokujouma no Shinryakusha!?",
+    "animegg_url": "https://www.animegg.org/series/rokujouma-no-shinryakusha",
+    "mal_url": "https://myanimelist.net/anime/22865",
+    "mal_id": 22865,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/45943",
+        "dub": "https://www.animegg.org/embed/45944",
+        "url": "https://www.animegg.org/rokujouma-no-shinryakusha-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/45945",
+        "dub": null,
+        "url": "https://www.animegg.org/rokujouma-no-shinryakusha-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/45946",
+        "dub": "https://www.animegg.org/embed/45947",
+        "url": "https://www.animegg.org/rokujouma-no-shinryakusha-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/45948",
+        "dub": null,
+        "url": "https://www.animegg.org/rokujouma-no-shinryakusha-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/45949",
+        "dub": null,
+        "url": "https://www.animegg.org/rokujouma-no-shinryakusha-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/45950",
+        "dub": null,
+        "url": "https://www.animegg.org/rokujouma-no-shinryakusha-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/45951",
+        "dub": null,
+        "url": "https://www.animegg.org/rokujouma-no-shinryakusha-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/45952",
+        "dub": null,
+        "url": "https://www.animegg.org/rokujouma-no-shinryakusha-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/45953",
+        "dub": null,
+        "url": "https://www.animegg.org/rokujouma-no-shinryakusha-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/45954",
+        "dub": null,
+        "url": "https://www.animegg.org/rokujouma-no-shinryakusha-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/45955",
+        "dub": "https://www.animegg.org/embed/45956",
+        "url": "https://www.animegg.org/rokujouma-no-shinryakusha-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/45957",
+        "dub": "https://www.animegg.org/embed/45958",
+        "url": "https://www.animegg.org/rokujouma-no-shinryakusha-episode-12"
+      }
+    ]
   }
 ]
