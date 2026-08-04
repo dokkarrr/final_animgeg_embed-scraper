@@ -75102,5 +75102,93 @@
         "url": "https://www.animegg.org/heavens-lost-property-forte-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2120,
+    "title": "xxxHOLiC: Kei",
+    "animegg_url": "https://www.animegg.org/series/xxxholic-kei",
+    "mal_url": "https://myanimelist.net/anime/3091",
+    "mal_id": 3091,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/40829",
+        "dub": null,
+        "url": "https://www.animegg.org/xxxholic-kei-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/40818",
+        "dub": null,
+        "url": "https://www.animegg.org/xxxholic-kei-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/40820",
+        "dub": null,
+        "url": "https://www.animegg.org/xxxholic-kei-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/40819",
+        "dub": null,
+        "url": "https://www.animegg.org/xxxholic-kei-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/40830",
+        "dub": null,
+        "url": "https://www.animegg.org/xxxholic-kei-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/40822",
+        "dub": null,
+        "url": "https://www.animegg.org/xxxholic-kei-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/40821",
+        "dub": null,
+        "url": "https://www.animegg.org/xxxholic-kei-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/40823",
+        "dub": null,
+        "url": "https://www.animegg.org/xxxholic-kei-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/40824",
+        "dub": null,
+        "url": "https://www.animegg.org/xxxholic-kei-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/40825",
+        "dub": null,
+        "url": "https://www.animegg.org/xxxholic-kei-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/40826",
+        "dub": null,
+        "url": "https://www.animegg.org/xxxholic-kei-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/40827",
+        "dub": null,
+        "url": "https://www.animegg.org/xxxholic-kei-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/40828",
+        "dub": null,
+        "url": "https://www.animegg.org/xxxholic-kei-episode-13"
+      }
+    ]
   }
 ]
