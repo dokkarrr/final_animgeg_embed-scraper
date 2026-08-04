@@ -16096,5 +16096,27 @@
         "url": "https://www.animegg.org/schwarzesmarken-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1650,
+    "title": "Koe de Oshigoto! The Animation",
+    "animegg_url": "https://www.animegg.org/series/koe-de-oshigoto",
+    "mal_url": "https://myanimelist.net/anime/8876",
+    "mal_id": 8876,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/20615",
+        "dub": null,
+        "url": "https://www.animegg.org/koe-de-oshigoto-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/20614",
+        "dub": null,
+        "url": "https://www.animegg.org/koe-de-oshigoto-episode-2"
+      }
+    ]
   }
 ]
