@@ -59018,5 +59018,93 @@
         "url": "https://www.animegg.org/sengoku-basara-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 1966,
+    "title": "Legend of Basara",
+    "animegg_url": "https://www.animegg.org/series/legend-of-basara",
+    "mal_url": "https://myanimelist.net/anime/633",
+    "mal_id": 633,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/55120",
+        "dub": null,
+        "url": "https://www.animegg.org/legend-of-basara-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/55121",
+        "dub": null,
+        "url": "https://www.animegg.org/legend-of-basara-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/55122",
+        "dub": null,
+        "url": "https://www.animegg.org/legend-of-basara-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/55123",
+        "dub": null,
+        "url": "https://www.animegg.org/legend-of-basara-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/55124",
+        "dub": null,
+        "url": "https://www.animegg.org/legend-of-basara-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/55125",
+        "dub": null,
+        "url": "https://www.animegg.org/legend-of-basara-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/55126",
+        "dub": null,
+        "url": "https://www.animegg.org/legend-of-basara-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/55127",
+        "dub": null,
+        "url": "https://www.animegg.org/legend-of-basara-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/55128",
+        "dub": null,
+        "url": "https://www.animegg.org/legend-of-basara-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/55129",
+        "dub": null,
+        "url": "https://www.animegg.org/legend-of-basara-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/55130",
+        "dub": null,
+        "url": "https://www.animegg.org/legend-of-basara-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/55131",
+        "dub": null,
+        "url": "https://www.animegg.org/legend-of-basara-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/55132",
+        "dub": null,
+        "url": "https://www.animegg.org/legend-of-basara-episode-13"
+      }
+    ]
   }
 ]
