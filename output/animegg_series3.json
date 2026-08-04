@@ -115426,5 +115426,87 @@
         "url": "https://www.animegg.org/ishida-to-asakura-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2490,
+    "title": "Yuusha, Yamemasu",
+    "animegg_url": "https://www.animegg.org/series/yuusha-yamemasu",
+    "mal_url": "https://myanimelist.net/anime/50175",
+    "mal_id": 50175,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/104343",
+        "dub": null,
+        "url": "https://www.animegg.org/yuusha-yamemasu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/104404",
+        "dub": null,
+        "url": "https://www.animegg.org/yuusha-yamemasu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/104472",
+        "dub": null,
+        "url": "https://www.animegg.org/yuusha-yamemasu-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/104533",
+        "dub": null,
+        "url": "https://www.animegg.org/yuusha-yamemasu-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/104590",
+        "dub": null,
+        "url": "https://www.animegg.org/yuusha-yamemasu-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/104647",
+        "dub": null,
+        "url": "https://www.animegg.org/yuusha-yamemasu-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/104705",
+        "dub": null,
+        "url": "https://www.animegg.org/yuusha-yamemasu-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/104866",
+        "dub": null,
+        "url": "https://www.animegg.org/yuusha-yamemasu-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/104924",
+        "dub": null,
+        "url": "https://www.animegg.org/yuusha-yamemasu-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/104982",
+        "dub": null,
+        "url": "https://www.animegg.org/yuusha-yamemasu-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/105064",
+        "dub": null,
+        "url": "https://www.animegg.org/yuusha-yamemasu-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/105122",
+        "dub": null,
+        "url": "https://www.animegg.org/yuusha-yamemasu-episode-12"
+      }
+    ]
   }
 ]
