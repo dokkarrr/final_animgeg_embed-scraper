@@ -77432,5 +77432,81 @@
         "url": "https://www.animegg.org/shin-atashinchi-episode-368"
       }
     ]
+  },
+  {
+    "serial_no": 953,
+    "title": "Psycho-Pass 2",
+    "animegg_url": "https://www.animegg.org/series/psycho-pass-2",
+    "mal_url": "https://myanimelist.net/anime/23281",
+    "mal_id": 23281,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/67634",
+        "dub": "https://www.animegg.org/embed/74421",
+        "url": "https://www.animegg.org/psycho-pass-2-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/67521",
+        "dub": "https://www.animegg.org/embed/74420",
+        "url": "https://www.animegg.org/psycho-pass-2-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/67396",
+        "dub": "https://www.animegg.org/embed/74419",
+        "url": "https://www.animegg.org/psycho-pass-2-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/67253",
+        "dub": "https://www.animegg.org/embed/74418",
+        "url": "https://www.animegg.org/psycho-pass-2-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/67142",
+        "dub": "https://www.animegg.org/embed/74417",
+        "url": "https://www.animegg.org/psycho-pass-2-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/66723",
+        "dub": "https://www.animegg.org/embed/74416",
+        "url": "https://www.animegg.org/psycho-pass-2-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/66543",
+        "dub": "https://www.animegg.org/embed/67439",
+        "url": "https://www.animegg.org/psycho-pass-2-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/45906",
+        "dub": "https://www.animegg.org/embed/74414",
+        "url": "https://www.animegg.org/psycho-pass-2-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/45905",
+        "dub": "https://www.animegg.org/embed/74413",
+        "url": "https://www.animegg.org/psycho-pass-2-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/45904",
+        "dub": "https://www.animegg.org/embed/66879",
+        "url": "https://www.animegg.org/psycho-pass-2-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/45903",
+        "dub": "https://www.animegg.org/embed/66596",
+        "url": "https://www.animegg.org/psycho-pass-2-episode-1"
+      }
+    ]
   }
 ]
