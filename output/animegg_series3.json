@@ -62690,5 +62690,81 @@
         "url": "https://www.animegg.org/wind-breaker-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 2005,
+    "title": "Bartender",
+    "animegg_url": "https://www.animegg.org/series/bartender",
+    "mal_url": "https://myanimelist.net/anime/1589",
+    "mal_id": 1589,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/2632",
+        "dub": null,
+        "url": "https://www.animegg.org/bartender-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/2629",
+        "dub": null,
+        "url": "https://www.animegg.org/bartender-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/2633",
+        "dub": null,
+        "url": "https://www.animegg.org/bartender-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/2631",
+        "dub": null,
+        "url": "https://www.animegg.org/bartender-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/2630",
+        "dub": null,
+        "url": "https://www.animegg.org/bartender-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/2634",
+        "dub": null,
+        "url": "https://www.animegg.org/bartender-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/2635",
+        "dub": null,
+        "url": "https://www.animegg.org/bartender-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/2636",
+        "dub": null,
+        "url": "https://www.animegg.org/bartender-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/2638",
+        "dub": null,
+        "url": "https://www.animegg.org/bartender-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/2637",
+        "dub": null,
+        "url": "https://www.animegg.org/bartender-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/2639",
+        "dub": null,
+        "url": "https://www.animegg.org/bartender-episode-11"
+      }
+    ]
   }
 ]
