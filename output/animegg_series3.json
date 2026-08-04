@@ -54072,5 +54072,93 @@
         "url": "https://www.animegg.org/strike-the-blood-iii-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 1934,
+    "title": "Joshiraku",
+    "animegg_url": "https://www.animegg.org/series/joshiraku",
+    "mal_url": "https://myanimelist.net/anime/12679",
+    "mal_id": 12679,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/18701",
+        "dub": null,
+        "url": "https://www.animegg.org/joshiraku-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/18702",
+        "dub": null,
+        "url": "https://www.animegg.org/joshiraku-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/18698",
+        "dub": null,
+        "url": "https://www.animegg.org/joshiraku-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/18700",
+        "dub": null,
+        "url": "https://www.animegg.org/joshiraku-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/18699",
+        "dub": null,
+        "url": "https://www.animegg.org/joshiraku-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/18703",
+        "dub": null,
+        "url": "https://www.animegg.org/joshiraku-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/18704",
+        "dub": null,
+        "url": "https://www.animegg.org/joshiraku-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/18705",
+        "dub": null,
+        "url": "https://www.animegg.org/joshiraku-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/18706",
+        "dub": null,
+        "url": "https://www.animegg.org/joshiraku-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/18707",
+        "dub": null,
+        "url": "https://www.animegg.org/joshiraku-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/18708",
+        "dub": null,
+        "url": "https://www.animegg.org/joshiraku-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/18709",
+        "dub": null,
+        "url": "https://www.animegg.org/joshiraku-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/18710",
+        "dub": null,
+        "url": "https://www.animegg.org/joshiraku-episode-13"
+      }
+    ]
   }
 ]
