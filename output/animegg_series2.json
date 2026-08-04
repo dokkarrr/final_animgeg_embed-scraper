@@ -15756,5 +15756,93 @@
         "url": "https://www.animegg.org/aoharu-x-kikanjuu-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 594,
+    "title": "Rosario to Vampire",
+    "animegg_url": "https://www.animegg.org/series/rosario-to-vampire",
+    "mal_url": "https://myanimelist.net/anime/2993",
+    "mal_id": 2993,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/45544",
+        "dub": "https://www.animegg.org/embed/45545",
+        "url": "https://www.animegg.org/rosario-to-vampire-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/45546",
+        "dub": "https://www.animegg.org/embed/45547",
+        "url": "https://www.animegg.org/rosario-to-vampire-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/45548",
+        "dub": "https://www.animegg.org/embed/45549",
+        "url": "https://www.animegg.org/rosario-to-vampire-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/45550",
+        "dub": "https://www.animegg.org/embed/45551",
+        "url": "https://www.animegg.org/rosario-to-vampire-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/45552",
+        "dub": "https://www.animegg.org/embed/45553",
+        "url": "https://www.animegg.org/rosario-to-vampire-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/45554",
+        "dub": "https://www.animegg.org/embed/45555",
+        "url": "https://www.animegg.org/rosario-to-vampire-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/45556",
+        "dub": "https://www.animegg.org/embed/45557",
+        "url": "https://www.animegg.org/rosario-to-vampire-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/45558",
+        "dub": "https://www.animegg.org/embed/45559",
+        "url": "https://www.animegg.org/rosario-to-vampire-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/45560",
+        "dub": "https://www.animegg.org/embed/45561",
+        "url": "https://www.animegg.org/rosario-to-vampire-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/45562",
+        "dub": "https://www.animegg.org/embed/45563",
+        "url": "https://www.animegg.org/rosario-to-vampire-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/45564",
+        "dub": "https://www.animegg.org/embed/45565",
+        "url": "https://www.animegg.org/rosario-to-vampire-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/45566",
+        "dub": "https://www.animegg.org/embed/45567",
+        "url": "https://www.animegg.org/rosario-to-vampire-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/45568",
+        "dub": "https://www.animegg.org/embed/45569",
+        "url": "https://www.animegg.org/rosario-to-vampire-episode-13"
+      }
+    ]
   }
 ]
