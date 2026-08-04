@@ -107784,5 +107784,81 @@
         "url": "https://www.animegg.org/nanatsuiro-drops-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2411,
+    "title": "Natsuyuki Rendezvous",
+    "animegg_url": "https://www.animegg.org/series/natsuyuki-rendezvous",
+    "mal_url": "https://myanimelist.net/anime/13585",
+    "mal_id": 13585,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/26958",
+        "dub": null,
+        "url": "https://www.animegg.org/natsuyuki-rendezvous-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/26959",
+        "dub": null,
+        "url": "https://www.animegg.org/natsuyuki-rendezvous-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/26955",
+        "dub": null,
+        "url": "https://www.animegg.org/natsuyuki-rendezvous-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/26956",
+        "dub": null,
+        "url": "https://www.animegg.org/natsuyuki-rendezvous-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/26957",
+        "dub": null,
+        "url": "https://www.animegg.org/natsuyuki-rendezvous-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/26961",
+        "dub": null,
+        "url": "https://www.animegg.org/natsuyuki-rendezvous-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/26960",
+        "dub": null,
+        "url": "https://www.animegg.org/natsuyuki-rendezvous-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/26962",
+        "dub": null,
+        "url": "https://www.animegg.org/natsuyuki-rendezvous-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/26963",
+        "dub": null,
+        "url": "https://www.animegg.org/natsuyuki-rendezvous-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/26964",
+        "dub": null,
+        "url": "https://www.animegg.org/natsuyuki-rendezvous-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/26965",
+        "dub": null,
+        "url": "https://www.animegg.org/natsuyuki-rendezvous-episode-11"
+      }
+    ]
   }
 ]
