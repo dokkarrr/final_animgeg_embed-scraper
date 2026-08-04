@@ -29126,5 +29126,93 @@
         "url": "https://www.animegg.org/kyokou-suiri-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1744,
+    "title": "Ojisan to Marshmallow",
+    "animegg_url": "https://www.animegg.org/series/ojisan-to-marshmallow",
+    "mal_url": "https://myanimelist.net/anime/31848",
+    "mal_id": 31848,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/80580",
+        "dub": "https://www.animegg.org/embed/80588",
+        "url": "https://www.animegg.org/ojisan-to-marshmallow-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/80674",
+        "dub": "https://www.animegg.org/embed/80678",
+        "url": "https://www.animegg.org/ojisan-to-marshmallow-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/80784",
+        "dub": null,
+        "url": "https://www.animegg.org/ojisan-to-marshmallow-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/80891",
+        "dub": null,
+        "url": "https://www.animegg.org/ojisan-to-marshmallow-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/80989",
+        "dub": null,
+        "url": "https://www.animegg.org/ojisan-to-marshmallow-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/81083",
+        "dub": null,
+        "url": "https://www.animegg.org/ojisan-to-marshmallow-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/81182",
+        "dub": null,
+        "url": "https://www.animegg.org/ojisan-to-marshmallow-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/81284",
+        "dub": null,
+        "url": "https://www.animegg.org/ojisan-to-marshmallow-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/81393",
+        "dub": null,
+        "url": "https://www.animegg.org/ojisan-to-marshmallow-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/81479",
+        "dub": null,
+        "url": "https://www.animegg.org/ojisan-to-marshmallow-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/81580",
+        "dub": null,
+        "url": "https://www.animegg.org/ojisan-to-marshmallow-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/81672",
+        "dub": null,
+        "url": "https://www.animegg.org/ojisan-to-marshmallow-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ojisan-to-marshmallow-episode-13"
+      }
+    ]
   }
 ]
