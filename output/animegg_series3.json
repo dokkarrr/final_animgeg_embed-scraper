@@ -27466,5 +27466,87 @@
         "url": "https://www.animegg.org/nobunaga-no-shinobi-anegawa-ishiyama-hen-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 1731,
+    "title": "Wakako-zake",
+    "animegg_url": "https://www.animegg.org/series/wakako-zake",
+    "mal_url": "https://myanimelist.net/anime/30437",
+    "mal_id": 30437,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/77740",
+        "dub": null,
+        "url": "https://www.animegg.org/wakako-zake-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/77869",
+        "dub": "https://www.animegg.org/embed/77871",
+        "url": "https://www.animegg.org/wakako-zake-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/78045",
+        "dub": "https://www.animegg.org/embed/78100",
+        "url": "https://www.animegg.org/wakako-zake-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/78236",
+        "dub": null,
+        "url": "https://www.animegg.org/wakako-zake-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/78329",
+        "dub": null,
+        "url": "https://www.animegg.org/wakako-zake-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/78457",
+        "dub": null,
+        "url": "https://www.animegg.org/wakako-zake-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/78573",
+        "dub": null,
+        "url": "https://www.animegg.org/wakako-zake-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/78675",
+        "dub": null,
+        "url": "https://www.animegg.org/wakako-zake-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/78792",
+        "dub": "https://www.animegg.org/embed/79455",
+        "url": "https://www.animegg.org/wakako-zake-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/78909",
+        "dub": null,
+        "url": "https://www.animegg.org/wakako-zake-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/79012",
+        "dub": null,
+        "url": "https://www.animegg.org/wakako-zake-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/79131",
+        "dub": null,
+        "url": "https://www.animegg.org/wakako-zake-episode-12"
+      }
+    ]
   }
 ]
