@@ -100416,5 +100416,93 @@
         "url": "https://www.animegg.org/mushoku-tensei-ii-isekai-ittara-honki-dasu-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1083,
+    "title": "Vampire Knight Guilty",
+    "animegg_url": "https://www.animegg.org/series/vampire-knight-guilty",
+    "mal_url": "https://myanimelist.net/anime/4752",
+    "mal_id": 4752,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/39914",
+        "dub": "https://www.animegg.org/embed/39915",
+        "url": "https://www.animegg.org/vampire-knight-guilty-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/39913",
+        "dub": "https://www.animegg.org/embed/69350",
+        "url": "https://www.animegg.org/vampire-knight-guilty-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/39908",
+        "dub": "https://www.animegg.org/embed/69354",
+        "url": "https://www.animegg.org/vampire-knight-guilty-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/39911",
+        "dub": "https://www.animegg.org/embed/39912",
+        "url": "https://www.animegg.org/vampire-knight-guilty-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/39909",
+        "dub": "https://www.animegg.org/embed/39910",
+        "url": "https://www.animegg.org/vampire-knight-guilty-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/39916",
+        "dub": "https://www.animegg.org/embed/39917",
+        "url": "https://www.animegg.org/vampire-knight-guilty-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/39920",
+        "dub": "https://www.animegg.org/embed/39921",
+        "url": "https://www.animegg.org/vampire-knight-guilty-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/39922",
+        "dub": "https://www.animegg.org/embed/39923",
+        "url": "https://www.animegg.org/vampire-knight-guilty-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/39918",
+        "dub": "https://www.animegg.org/embed/39919",
+        "url": "https://www.animegg.org/vampire-knight-guilty-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/39924",
+        "dub": "https://www.animegg.org/embed/39925",
+        "url": "https://www.animegg.org/vampire-knight-guilty-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/39928",
+        "dub": "https://www.animegg.org/embed/39929",
+        "url": "https://www.animegg.org/vampire-knight-guilty-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/39926",
+        "dub": "https://www.animegg.org/embed/39927",
+        "url": "https://www.animegg.org/vampire-knight-guilty-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/39930",
+        "dub": "https://www.animegg.org/embed/39931",
+        "url": "https://www.animegg.org/vampire-knight-guilty-episode-13"
+      }
+    ]
   }
 ]
