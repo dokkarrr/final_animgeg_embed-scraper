@@ -22534,5 +22534,87 @@
         "url": "https://www.animegg.org/blazblue-alter-memory-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1686,
+    "title": "Tamako Market",
+    "animegg_url": "https://www.animegg.org/series/tamako-market",
+    "mal_url": "https://myanimelist.net/anime/16417",
+    "mal_id": 16417,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/37117",
+        "dub": "https://www.animegg.org/embed/73912",
+        "url": "https://www.animegg.org/tamako-market-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/37116",
+        "dub": "https://www.animegg.org/embed/73913",
+        "url": "https://www.animegg.org/tamako-market-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/37115",
+        "dub": "https://www.animegg.org/embed/73914",
+        "url": "https://www.animegg.org/tamako-market-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/37114",
+        "dub": "https://www.animegg.org/embed/73915",
+        "url": "https://www.animegg.org/tamako-market-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/37113",
+        "dub": "https://www.animegg.org/embed/73916",
+        "url": "https://www.animegg.org/tamako-market-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/37119",
+        "dub": "https://www.animegg.org/embed/73917",
+        "url": "https://www.animegg.org/tamako-market-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/37118",
+        "dub": "https://www.animegg.org/embed/73918",
+        "url": "https://www.animegg.org/tamako-market-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/37120",
+        "dub": "https://www.animegg.org/embed/73919",
+        "url": "https://www.animegg.org/tamako-market-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/37121",
+        "dub": "https://www.animegg.org/embed/73920",
+        "url": "https://www.animegg.org/tamako-market-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/37122",
+        "dub": "https://www.animegg.org/embed/73921",
+        "url": "https://www.animegg.org/tamako-market-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/37123",
+        "dub": "https://www.animegg.org/embed/73922",
+        "url": "https://www.animegg.org/tamako-market-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/37124",
+        "dub": "https://www.animegg.org/embed/73923",
+        "url": "https://www.animegg.org/tamako-market-episode-12"
+      }
+    ]
   }
 ]
