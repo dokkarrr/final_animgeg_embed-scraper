@@ -57356,5 +57356,87 @@
         "url": "https://www.animegg.org/the-third-aoi-hitomi-no-shoujo-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 1951,
+    "title": "Reikenzan: Eichi e no Shikaku",
+    "animegg_url": "https://www.animegg.org/series/reikenzan-eichi-e-no-shikaku",
+    "mal_url": "https://myanimelist.net/anime/33019",
+    "mal_id": 33019,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/85385",
+        "dub": "https://www.animegg.org/embed/85650",
+        "url": "https://www.animegg.org/reikenzan-eichi-e-no-shikaku-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/85507",
+        "dub": "https://www.animegg.org/embed/85651",
+        "url": "https://www.animegg.org/reikenzan-eichi-e-no-shikaku-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/85600",
+        "dub": "https://www.animegg.org/embed/85702",
+        "url": "https://www.animegg.org/reikenzan-eichi-e-no-shikaku-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/85688",
+        "dub": "https://www.animegg.org/embed/85716",
+        "url": "https://www.animegg.org/reikenzan-eichi-e-no-shikaku-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/85788",
+        "dub": null,
+        "url": "https://www.animegg.org/reikenzan-eichi-e-no-shikaku-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/85891",
+        "dub": null,
+        "url": "https://www.animegg.org/reikenzan-eichi-e-no-shikaku-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/85968",
+        "dub": null,
+        "url": "https://www.animegg.org/reikenzan-eichi-e-no-shikaku-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/86194",
+        "dub": null,
+        "url": "https://www.animegg.org/reikenzan-eichi-e-no-shikaku-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/86232",
+        "dub": null,
+        "url": "https://www.animegg.org/reikenzan-eichi-e-no-shikaku-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/88045",
+        "dub": null,
+        "url": "https://www.animegg.org/reikenzan-eichi-e-no-shikaku-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/88047",
+        "dub": null,
+        "url": "https://www.animegg.org/reikenzan-eichi-e-no-shikaku-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/88048",
+        "dub": null,
+        "url": "https://www.animegg.org/reikenzan-eichi-e-no-shikaku-episode-12"
+      }
+    ]
   }
 ]
