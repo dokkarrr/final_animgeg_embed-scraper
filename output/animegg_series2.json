@@ -102744,5 +102744,87 @@
         "url": "https://www.animegg.org/hajimete-no-gal-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 1095,
+    "title": "Fuuka",
+    "animegg_url": "https://www.animegg.org/series/fuuka",
+    "mal_url": "https://myanimelist.net/anime/33743",
+    "mal_id": 33743,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/85370",
+        "dub": null,
+        "url": "https://www.animegg.org/fuuka-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/85371",
+        "dub": null,
+        "url": "https://www.animegg.org/fuuka-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/85475",
+        "dub": null,
+        "url": "https://www.animegg.org/fuuka-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/85562",
+        "dub": null,
+        "url": "https://www.animegg.org/fuuka-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/85656",
+        "dub": null,
+        "url": "https://www.animegg.org/fuuka-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/85748",
+        "dub": null,
+        "url": "https://www.animegg.org/fuuka-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/85841",
+        "dub": null,
+        "url": "https://www.animegg.org/fuuka-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/85913",
+        "dub": null,
+        "url": "https://www.animegg.org/fuuka-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/85999",
+        "dub": null,
+        "url": "https://www.animegg.org/fuuka-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/86178",
+        "dub": null,
+        "url": "https://www.animegg.org/fuuka-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/86252",
+        "dub": null,
+        "url": "https://www.animegg.org/fuuka-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/86324",
+        "dub": null,
+        "url": "https://www.animegg.org/fuuka-episode-12"
+      }
+    ]
   }
 ]
