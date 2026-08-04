@@ -131574,5 +131574,81 @@
         "url": "https://www.animegg.org/katri-girl-of-the-meadows-episode-49"
       }
     ]
+  },
+  {
+    "serial_no": 1281,
+    "title": "Witch Hat Atelier",
+    "animegg_url": "https://www.animegg.org/series/witch-hat-atelier",
+    "mal_url": "https://myanimelist.net/anime/51553",
+    "mal_id": 51553,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/145396",
+        "dub": null,
+        "url": "https://www.animegg.org/witch-hat-atelier-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/145395",
+        "dub": "https://www.animegg.org/embed/145404",
+        "url": "https://www.animegg.org/witch-hat-atelier-episode-2"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/145526",
+        "dub": "https://www.animegg.org/embed/145527",
+        "url": "https://www.animegg.org/witch-hat-atelier-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/145631",
+        "dub": "https://www.animegg.org/embed/145634",
+        "url": "https://www.animegg.org/witch-hat-atelier-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/145707",
+        "dub": "https://www.animegg.org/embed/145718",
+        "url": "https://www.animegg.org/witch-hat-atelier-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/145829",
+        "dub": "https://www.animegg.org/embed/145832",
+        "url": "https://www.animegg.org/witch-hat-atelier-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/145939",
+        "dub": "https://www.animegg.org/embed/145942",
+        "url": "https://www.animegg.org/witch-hat-atelier-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/145989",
+        "dub": null,
+        "url": "https://www.animegg.org/witch-hat-atelier-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/146044",
+        "dub": "https://www.animegg.org/embed/146057",
+        "url": "https://www.animegg.org/witch-hat-atelier-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/146102",
+        "dub": "https://www.animegg.org/embed/146105",
+        "url": "https://www.animegg.org/witch-hat-atelier-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/146194",
+        "dub": "https://www.animegg.org/embed/146204",
+        "url": "https://www.animegg.org/witch-hat-atelier-episode-13"
+      }
+    ]
   }
 ]
