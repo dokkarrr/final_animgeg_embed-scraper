@@ -85762,5 +85762,87 @@
         "url": "https://www.animegg.org/damekko-doubutsu-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 2196,
+    "title": "Mahou Shoujo Ikusei Keikaku",
+    "animegg_url": "https://www.animegg.org/series/mahou-shoujo-ikusei-keikaku",
+    "mal_url": "https://myanimelist.net/anime/33003",
+    "mal_id": 33003,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/84070",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-ikusei-keikaku-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/84169",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-ikusei-keikaku-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/84280",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-ikusei-keikaku-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/84388",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-ikusei-keikaku-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/84478",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-ikusei-keikaku-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/84583",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-ikusei-keikaku-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/84677",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-ikusei-keikaku-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/84770",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-ikusei-keikaku-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/84874",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-ikusei-keikaku-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/85055",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-ikusei-keikaku-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/85056",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-ikusei-keikaku-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/85157",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-ikusei-keikaku-episode-12"
+      }
+    ]
   }
 ]
