@@ -42976,5 +42976,117 @@
         "url": "https://www.animegg.org/chou-denji-robo-combattler-v-episode-54"
       }
     ]
+  },
+  {
+    "serial_no": 748,
+    "title": "Kokoro Connect",
+    "animegg_url": "https://www.animegg.org/series/kokoro-connect",
+    "mal_url": "https://myanimelist.net/anime/11887",
+    "mal_id": 11887,
+    "total_ep": 17,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/20669",
+        "dub": "https://www.animegg.org/embed/20670",
+        "url": "https://www.animegg.org/kokoro-connect-episode-14"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/20647",
+        "dub": "https://www.animegg.org/embed/20648",
+        "url": "https://www.animegg.org/kokoro-connect-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/20667",
+        "dub": "https://www.animegg.org/embed/20668",
+        "url": "https://www.animegg.org/kokoro-connect-episode-15"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/20641",
+        "dub": "https://www.animegg.org/embed/20642",
+        "url": "https://www.animegg.org/kokoro-connect-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/20671",
+        "dub": "https://www.animegg.org/embed/20672",
+        "url": "https://www.animegg.org/kokoro-connect-episode-16"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/20643",
+        "dub": "https://www.animegg.org/embed/20644",
+        "url": "https://www.animegg.org/kokoro-connect-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/20673",
+        "dub": "https://www.animegg.org/embed/20674",
+        "url": "https://www.animegg.org/kokoro-connect-episode-17"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/20649",
+        "dub": "https://www.animegg.org/embed/20650",
+        "url": "https://www.animegg.org/kokoro-connect-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/20645",
+        "dub": "https://www.animegg.org/embed/20646",
+        "url": "https://www.animegg.org/kokoro-connect-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/20655",
+        "dub": "https://www.animegg.org/embed/20656",
+        "url": "https://www.animegg.org/kokoro-connect-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/20651",
+        "dub": "https://www.animegg.org/embed/20652",
+        "url": "https://www.animegg.org/kokoro-connect-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/20653",
+        "dub": "https://www.animegg.org/embed/20654",
+        "url": "https://www.animegg.org/kokoro-connect-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/20657",
+        "dub": "https://www.animegg.org/embed/20658",
+        "url": "https://www.animegg.org/kokoro-connect-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/20659",
+        "dub": "https://www.animegg.org/embed/20660",
+        "url": "https://www.animegg.org/kokoro-connect-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/20661",
+        "dub": "https://www.animegg.org/embed/20662",
+        "url": "https://www.animegg.org/kokoro-connect-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/20663",
+        "dub": "https://www.animegg.org/embed/20664",
+        "url": "https://www.animegg.org/kokoro-connect-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/20665",
+        "dub": "https://www.animegg.org/embed/20666",
+        "url": "https://www.animegg.org/kokoro-connect-episode-13"
+      }
+    ]
   }
 ]
