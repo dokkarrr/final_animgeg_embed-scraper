@@ -109250,5 +109250,87 @@
         "url": "https://www.animegg.org/the-fragrant-flower-blooms-with-dignity-season-1-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2422,
+    "title": "Shuumatsu no Valkyrie",
+    "animegg_url": "https://www.animegg.org/series/shuumatsu-no-valkyrie",
+    "mal_url": "https://myanimelist.net/anime/44942",
+    "mal_id": 44942,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/102050",
+        "dub": null,
+        "url": "https://www.animegg.org/shuumatsu-no-valkyrie-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/102054",
+        "dub": null,
+        "url": "https://www.animegg.org/shuumatsu-no-valkyrie-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/102055",
+        "dub": null,
+        "url": "https://www.animegg.org/shuumatsu-no-valkyrie-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/102056",
+        "dub": null,
+        "url": "https://www.animegg.org/shuumatsu-no-valkyrie-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/102057",
+        "dub": null,
+        "url": "https://www.animegg.org/shuumatsu-no-valkyrie-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/102058",
+        "dub": null,
+        "url": "https://www.animegg.org/shuumatsu-no-valkyrie-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/102059",
+        "dub": null,
+        "url": "https://www.animegg.org/shuumatsu-no-valkyrie-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/102060",
+        "dub": null,
+        "url": "https://www.animegg.org/shuumatsu-no-valkyrie-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/102061",
+        "dub": null,
+        "url": "https://www.animegg.org/shuumatsu-no-valkyrie-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/102051",
+        "dub": null,
+        "url": "https://www.animegg.org/shuumatsu-no-valkyrie-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/102052",
+        "dub": null,
+        "url": "https://www.animegg.org/shuumatsu-no-valkyrie-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/102053",
+        "dub": null,
+        "url": "https://www.animegg.org/shuumatsu-no-valkyrie-episode-12"
+      }
+    ]
   }
 ]
