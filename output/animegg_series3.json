@@ -30970,5 +30970,93 @@
         "url": "https://www.animegg.org/kanamemo-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 1761,
+    "title": "Kamisama Dolls",
+    "animegg_url": "https://www.animegg.org/series/kamisama-dolls",
+    "mal_url": "https://myanimelist.net/anime/10372",
+    "mal_id": 10372,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/19391",
+        "dub": "https://www.animegg.org/embed/71273",
+        "url": "https://www.animegg.org/kamisama-dolls-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/19387",
+        "dub": "https://www.animegg.org/embed/71272",
+        "url": "https://www.animegg.org/kamisama-dolls-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/19388",
+        "dub": "https://www.animegg.org/embed/71271",
+        "url": "https://www.animegg.org/kamisama-dolls-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/19390",
+        "dub": "https://www.animegg.org/embed/71270",
+        "url": "https://www.animegg.org/kamisama-dolls-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/19389",
+        "dub": "https://www.animegg.org/embed/71269",
+        "url": "https://www.animegg.org/kamisama-dolls-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/19392",
+        "dub": "https://www.animegg.org/embed/71268",
+        "url": "https://www.animegg.org/kamisama-dolls-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/19394",
+        "dub": "https://www.animegg.org/embed/71267",
+        "url": "https://www.animegg.org/kamisama-dolls-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/19393",
+        "dub": "https://www.animegg.org/embed/71266",
+        "url": "https://www.animegg.org/kamisama-dolls-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/19395",
+        "dub": "https://www.animegg.org/embed/71265",
+        "url": "https://www.animegg.org/kamisama-dolls-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/19396",
+        "dub": "https://www.animegg.org/embed/71264",
+        "url": "https://www.animegg.org/kamisama-dolls-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/19397",
+        "dub": "https://www.animegg.org/embed/71263",
+        "url": "https://www.animegg.org/kamisama-dolls-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/19398",
+        "dub": "https://www.animegg.org/embed/71262",
+        "url": "https://www.animegg.org/kamisama-dolls-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/19399",
+        "dub": "https://www.animegg.org/embed/71261",
+        "url": "https://www.animegg.org/kamisama-dolls-episode-13"
+      }
+    ]
   }
 ]
