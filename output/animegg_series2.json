@@ -49160,5 +49160,87 @@
         "url": "https://www.animegg.org/zero-no-tsukaima-futatsuki-no-kishi-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 782,
+    "title": "Kyoukai no Kanata",
+    "animegg_url": "https://www.animegg.org/series/kyoukai-no-kanata",
+    "mal_url": "https://myanimelist.net/anime/18153",
+    "mal_id": 18153,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/21164",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoukai-no-kanata-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/21160",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoukai-no-kanata-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/21162",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoukai-no-kanata-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/21163",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoukai-no-kanata-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/21161",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoukai-no-kanata-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/21167",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoukai-no-kanata-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/21165",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoukai-no-kanata-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/21166",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoukai-no-kanata-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/21168",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoukai-no-kanata-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/21169",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoukai-no-kanata-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/21170",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoukai-no-kanata-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/21171",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoukai-no-kanata-episode-12"
+      }
+    ]
   }
 ]
