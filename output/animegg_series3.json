@@ -128413,5 +128413,93 @@
         "url": "https://www.animegg.org/saint-october-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 2620,
+    "title": "Cobra The Animation",
+    "animegg_url": "https://www.animegg.org/series/cobra-the-animation",
+    "mal_url": "https://myanimelist.net/anime/5032",
+    "mal_id": 5032,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/6148",
+        "dub": null,
+        "url": "https://www.animegg.org/cobra-the-animation-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/6151",
+        "dub": null,
+        "url": "https://www.animegg.org/cobra-the-animation-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/6152",
+        "dub": null,
+        "url": "https://www.animegg.org/cobra-the-animation-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/6149",
+        "dub": null,
+        "url": "https://www.animegg.org/cobra-the-animation-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/6150",
+        "dub": null,
+        "url": "https://www.animegg.org/cobra-the-animation-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/6153",
+        "dub": null,
+        "url": "https://www.animegg.org/cobra-the-animation-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/6156",
+        "dub": null,
+        "url": "https://www.animegg.org/cobra-the-animation-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/6154",
+        "dub": null,
+        "url": "https://www.animegg.org/cobra-the-animation-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/6157",
+        "dub": null,
+        "url": "https://www.animegg.org/cobra-the-animation-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/6155",
+        "dub": null,
+        "url": "https://www.animegg.org/cobra-the-animation-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/6158",
+        "dub": null,
+        "url": "https://www.animegg.org/cobra-the-animation-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/6159",
+        "dub": null,
+        "url": "https://www.animegg.org/cobra-the-animation-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/6160",
+        "dub": null,
+        "url": "https://www.animegg.org/cobra-the-animation-episode-13"
+      }
+    ]
   }
 ]
