@@ -110486,5 +110486,21 @@
         "url": "https://www.animegg.org/yondemasu-yo-azazel-san-z-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2437,
+    "title": "One Piece: Strong World",
+    "animegg_url": "https://www.animegg.org/series/one-piece-strong-world",
+    "mal_url": "https://myanimelist.net/anime/4155",
+    "mal_id": 4155,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/45077",
+        "dub": "https://www.animegg.org/embed/45078",
+        "url": "https://www.animegg.org/one-piece-strong-world-episode-1"
+      }
+    ]
   }
 ]
