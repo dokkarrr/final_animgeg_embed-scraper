@@ -110824,5 +110824,75 @@
         "url": "https://www.animegg.org/a-little-snow-fairy-sugar-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 1144,
+    "title": "Big Order (TV)",
+    "animegg_url": "https://www.animegg.org/series/big-order-tv",
+    "mal_url": "https://myanimelist.net/anime/31904",
+    "mal_id": 31904,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/81944",
+        "dub": null,
+        "url": "https://www.animegg.org/big-order-tv-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/82034",
+        "dub": null,
+        "url": "https://www.animegg.org/big-order-tv-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/82119",
+        "dub": null,
+        "url": "https://www.animegg.org/big-order-tv-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/82215",
+        "dub": null,
+        "url": "https://www.animegg.org/big-order-tv-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/82293",
+        "dub": null,
+        "url": "https://www.animegg.org/big-order-tv-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/82380",
+        "dub": null,
+        "url": "https://www.animegg.org/big-order-tv-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/82477",
+        "dub": null,
+        "url": "https://www.animegg.org/big-order-tv-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/82555",
+        "dub": null,
+        "url": "https://www.animegg.org/big-order-tv-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/82650",
+        "dub": null,
+        "url": "https://www.animegg.org/big-order-tv-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/87147",
+        "dub": null,
+        "url": "https://www.animegg.org/big-order-tv-episode-10"
+      }
+    ]
   }
 ]
