@@ -63896,5 +63896,87 @@
         "url": "https://www.animegg.org/monster-musume-no-oishasan-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2014,
+    "title": "Ore, Twintails ni Narimasu.",
+    "animegg_url": "https://www.animegg.org/series/ore-twintails-ni-narimasu",
+    "mal_url": "https://myanimelist.net/anime/24705",
+    "mal_id": 24705,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66206",
+        "dub": "https://www.animegg.org/embed/66207",
+        "url": "https://www.animegg.org/ore-twintails-ni-narimasu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/66208",
+        "dub": "https://www.animegg.org/embed/66209",
+        "url": "https://www.animegg.org/ore-twintails-ni-narimasu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/66210",
+        "dub": "https://www.animegg.org/embed/66211",
+        "url": "https://www.animegg.org/ore-twintails-ni-narimasu-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/66212",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-twintails-ni-narimasu-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/66544",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-twintails-ni-narimasu-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/66730",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-twintails-ni-narimasu-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/67143",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-twintails-ni-narimasu-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/67257",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-twintails-ni-narimasu-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/67399",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-twintails-ni-narimasu-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/67525",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-twintails-ni-narimasu-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/67638",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-twintails-ni-narimasu-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/67744",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-twintails-ni-narimasu-episode-12"
+      }
+    ]
   }
 ]
