@@ -36834,5 +36834,93 @@
         "url": "https://www.animegg.org/keppeki-danshi-aoyama-kun-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1793,
+    "title": "Ichigo 100%",
+    "animegg_url": "https://www.animegg.org/series/ichigo-100",
+    "mal_url": "https://myanimelist.net/anime/248",
+    "mal_id": 248,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 100,
+        "sub": "https://www.animegg.org/embed/17366",
+        "dub": null,
+        "url": "https://www.animegg.org/ichigo-100-episode-13"
+      },
+      {
+        "ep": 100,
+        "sub": "https://www.animegg.org/embed/17365",
+        "dub": null,
+        "url": "https://www.animegg.org/ichigo-100-episode-12"
+      },
+      {
+        "ep": 100,
+        "sub": "https://www.animegg.org/embed/17364",
+        "dub": null,
+        "url": "https://www.animegg.org/ichigo-100-episode-11"
+      },
+      {
+        "ep": 100,
+        "sub": "https://www.animegg.org/embed/17363",
+        "dub": null,
+        "url": "https://www.animegg.org/ichigo-100-episode-10"
+      },
+      {
+        "ep": 100,
+        "sub": "https://www.animegg.org/embed/17362",
+        "dub": null,
+        "url": "https://www.animegg.org/ichigo-100-episode-9"
+      },
+      {
+        "ep": 100,
+        "sub": "https://www.animegg.org/embed/17361",
+        "dub": null,
+        "url": "https://www.animegg.org/ichigo-100-episode-8"
+      },
+      {
+        "ep": 100,
+        "sub": "https://www.animegg.org/embed/17360",
+        "dub": null,
+        "url": "https://www.animegg.org/ichigo-100-episode-7"
+      },
+      {
+        "ep": 100,
+        "sub": "https://www.animegg.org/embed/17359",
+        "dub": null,
+        "url": "https://www.animegg.org/ichigo-100-episode-6"
+      },
+      {
+        "ep": 100,
+        "sub": "https://www.animegg.org/embed/17355",
+        "dub": null,
+        "url": "https://www.animegg.org/ichigo-100-episode-5"
+      },
+      {
+        "ep": 100,
+        "sub": "https://www.animegg.org/embed/17357",
+        "dub": null,
+        "url": "https://www.animegg.org/ichigo-100-episode-4"
+      },
+      {
+        "ep": 100,
+        "sub": "https://www.animegg.org/embed/17354",
+        "dub": null,
+        "url": "https://www.animegg.org/ichigo-100-episode-3"
+      },
+      {
+        "ep": 100,
+        "sub": "https://www.animegg.org/embed/17356",
+        "dub": null,
+        "url": "https://www.animegg.org/ichigo-100-episode-2"
+      },
+      {
+        "ep": 100,
+        "sub": "https://www.animegg.org/embed/17358",
+        "dub": null,
+        "url": "https://www.animegg.org/ichigo-100-episode-1"
+      }
+    ]
   }
 ]
