@@ -91970,5 +91970,93 @@
         "url": "https://www.animegg.org/the-telepathy-girl-ran-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 2248,
+    "title": "Kaitou Joker",
+    "animegg_url": "https://www.animegg.org/series/kaitou-joker",
+    "mal_url": "https://myanimelist.net/anime/24909",
+    "mal_id": 24909,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66250",
+        "dub": null,
+        "url": "https://www.animegg.org/kaitou-joker-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/66251",
+        "dub": null,
+        "url": "https://www.animegg.org/kaitou-joker-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/66252",
+        "dub": null,
+        "url": "https://www.animegg.org/kaitou-joker-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/66560",
+        "dub": null,
+        "url": "https://www.animegg.org/kaitou-joker-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/66636",
+        "dub": null,
+        "url": "https://www.animegg.org/kaitou-joker-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/66947",
+        "dub": null,
+        "url": "https://www.animegg.org/kaitou-joker-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/67211",
+        "dub": null,
+        "url": "https://www.animegg.org/kaitou-joker-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/67359",
+        "dub": null,
+        "url": "https://www.animegg.org/kaitou-joker-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/67479",
+        "dub": null,
+        "url": "https://www.animegg.org/kaitou-joker-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/67605",
+        "dub": null,
+        "url": "https://www.animegg.org/kaitou-joker-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/67712",
+        "dub": null,
+        "url": "https://www.animegg.org/kaitou-joker-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/67797",
+        "dub": null,
+        "url": "https://www.animegg.org/kaitou-joker-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/67877",
+        "dub": null,
+        "url": "https://www.animegg.org/kaitou-joker-episode-13"
+      }
+    ]
   }
 ]
