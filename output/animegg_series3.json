@@ -132489,5 +132489,87 @@
         "url": "https://www.animegg.org/venus-project-climax-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 2667,
+    "title": "Teekyuu 8",
+    "animegg_url": "https://www.animegg.org/series/teekyuu-8",
+    "mal_url": "https://myanimelist.net/anime/33811",
+    "mal_id": 33811,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/86375",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-8-episode-12"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/85108",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-8-episode-11"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/85000",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-8-episode-10"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/84925",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-8-episode-9"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/84829",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-8-episode-8"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/84729",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-8-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/84628",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-8-episode-6"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/84536",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-8-episode-5"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/84442",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-8-episode-4"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/84347",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-8-episode-3"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/84230",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-8-episode-2"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/84116",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-8-episode-1"
+      }
+    ]
   }
 ]
