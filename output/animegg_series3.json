@@ -71922,5 +71922,93 @@
         "url": "https://www.animegg.org/phantasy-star-online-2-episode-oracle-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 2087,
+    "title": "Jinsei",
+    "animegg_url": "https://www.animegg.org/series/jinsei",
+    "mal_url": "https://myanimelist.net/anime/23121",
+    "mal_id": 23121,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/45771",
+        "dub": "https://www.animegg.org/embed/45772",
+        "url": "https://www.animegg.org/jinsei-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/45773",
+        "dub": "https://www.animegg.org/embed/45774",
+        "url": "https://www.animegg.org/jinsei-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/45775",
+        "dub": "https://www.animegg.org/embed/45776",
+        "url": "https://www.animegg.org/jinsei-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/45777",
+        "dub": "https://www.animegg.org/embed/45778",
+        "url": "https://www.animegg.org/jinsei-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/45779",
+        "dub": "https://www.animegg.org/embed/45780",
+        "url": "https://www.animegg.org/jinsei-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/45781",
+        "dub": "https://www.animegg.org/embed/45782",
+        "url": "https://www.animegg.org/jinsei-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/45783",
+        "dub": "https://www.animegg.org/embed/45784",
+        "url": "https://www.animegg.org/jinsei-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/45785",
+        "dub": "https://www.animegg.org/embed/45786",
+        "url": "https://www.animegg.org/jinsei-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/45787",
+        "dub": "https://www.animegg.org/embed/45788",
+        "url": "https://www.animegg.org/jinsei-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/45789",
+        "dub": "https://www.animegg.org/embed/45790",
+        "url": "https://www.animegg.org/jinsei-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/45791",
+        "dub": "https://www.animegg.org/embed/45792",
+        "url": "https://www.animegg.org/jinsei-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/45793",
+        "dub": "https://www.animegg.org/embed/45794",
+        "url": "https://www.animegg.org/jinsei-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/45795",
+        "dub": "https://www.animegg.org/embed/67431",
+        "url": "https://www.animegg.org/jinsei-episode-13"
+      }
+    ]
   }
 ]
