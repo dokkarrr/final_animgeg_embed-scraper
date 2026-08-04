@@ -88146,5 +88146,87 @@
         "url": "https://www.animegg.org/oshi-kajiri-mushi-2-tv-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 2219,
+    "title": "Doamaiger D",
+    "animegg_url": "https://www.animegg.org/series/doamaiger-d",
+    "mal_url": "https://myanimelist.net/anime/27785",
+    "mal_id": 27785,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/79359",
+        "dub": null,
+        "url": "https://www.animegg.org/doamaiger-d-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/79490",
+        "dub": null,
+        "url": "https://www.animegg.org/doamaiger-d-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/79602",
+        "dub": null,
+        "url": "https://www.animegg.org/doamaiger-d-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/79874",
+        "dub": null,
+        "url": "https://www.animegg.org/doamaiger-d-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/79875",
+        "dub": null,
+        "url": "https://www.animegg.org/doamaiger-d-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/79876",
+        "dub": null,
+        "url": "https://www.animegg.org/doamaiger-d-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/80074",
+        "dub": "https://www.animegg.org/embed/80075",
+        "url": "https://www.animegg.org/doamaiger-d-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/80073",
+        "dub": null,
+        "url": "https://www.animegg.org/doamaiger-d-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/80226",
+        "dub": null,
+        "url": "https://www.animegg.org/doamaiger-d-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/80299",
+        "dub": null,
+        "url": "https://www.animegg.org/doamaiger-d-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/80391",
+        "dub": null,
+        "url": "https://www.animegg.org/doamaiger-d-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/80557",
+        "dub": null,
+        "url": "https://www.animegg.org/doamaiger-d-episode-12"
+      }
+    ]
   }
 ]
