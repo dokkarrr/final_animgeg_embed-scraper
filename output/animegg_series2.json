@@ -123196,5 +123196,87 @@
         "url": "https://www.animegg.org/brother-dear-brother-episode-39"
       }
     ]
+  },
+  {
+    "serial_no": 1225,
+    "title": "Tsurezure Children",
+    "animegg_url": "https://www.animegg.org/series/tsurezure-children",
+    "mal_url": "https://myanimelist.net/anime/34902",
+    "mal_id": 34902,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/87479",
+        "dub": null,
+        "url": "https://www.animegg.org/tsurezure-children-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/87563",
+        "dub": null,
+        "url": "https://www.animegg.org/tsurezure-children-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/87634",
+        "dub": null,
+        "url": "https://www.animegg.org/tsurezure-children-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/87702",
+        "dub": null,
+        "url": "https://www.animegg.org/tsurezure-children-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/87795",
+        "dub": null,
+        "url": "https://www.animegg.org/tsurezure-children-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/87868",
+        "dub": null,
+        "url": "https://www.animegg.org/tsurezure-children-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/87941",
+        "dub": null,
+        "url": "https://www.animegg.org/tsurezure-children-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/88028",
+        "dub": null,
+        "url": "https://www.animegg.org/tsurezure-children-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/88105",
+        "dub": null,
+        "url": "https://www.animegg.org/tsurezure-children-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/88185",
+        "dub": null,
+        "url": "https://www.animegg.org/tsurezure-children-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/88260",
+        "dub": null,
+        "url": "https://www.animegg.org/tsurezure-children-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/88350",
+        "dub": null,
+        "url": "https://www.animegg.org/tsurezure-children-episode-12"
+      }
+    ]
   }
 ]
