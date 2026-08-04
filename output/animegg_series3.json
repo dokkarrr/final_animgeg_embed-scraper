@@ -109748,5 +109748,87 @@
         "url": "https://www.animegg.org/queens-blade-rebellion-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2428,
+    "title": "Conception",
+    "animegg_url": "https://www.animegg.org/series/conception",
+    "mal_url": "https://myanimelist.net/anime/37823",
+    "mal_id": 37823,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/93153",
+        "dub": null,
+        "url": "https://www.animegg.org/conception-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/93223",
+        "dub": null,
+        "url": "https://www.animegg.org/conception-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/93291",
+        "dub": null,
+        "url": "https://www.animegg.org/conception-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/93385",
+        "dub": null,
+        "url": "https://www.animegg.org/conception-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/93458",
+        "dub": null,
+        "url": "https://www.animegg.org/conception-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/93545",
+        "dub": null,
+        "url": "https://www.animegg.org/conception-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/93618",
+        "dub": null,
+        "url": "https://www.animegg.org/conception-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/93688",
+        "dub": null,
+        "url": "https://www.animegg.org/conception-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/93753",
+        "dub": null,
+        "url": "https://www.animegg.org/conception-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/93844",
+        "dub": null,
+        "url": "https://www.animegg.org/conception-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/94000",
+        "dub": null,
+        "url": "https://www.animegg.org/conception-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/94071",
+        "dub": null,
+        "url": "https://www.animegg.org/conception-episode-12"
+      }
+    ]
   }
 ]
