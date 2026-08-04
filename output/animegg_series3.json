@@ -62514,5 +62514,21 @@
         "url": "https://www.animegg.org/maria-holic-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2003,
+    "title": "Asa Made Jugyou Chu!",
+    "animegg_url": "https://www.animegg.org/series/asa-made-jugyou-chu",
+    "mal_url": "https://myanimelist.net/anime/12581",
+    "mal_id": 12581,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/65482",
+        "dub": null,
+        "url": "https://www.animegg.org/asa-made-jugyou-chu-episode-1"
+      }
+    ]
   }
 ]
