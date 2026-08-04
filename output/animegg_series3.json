@@ -44938,5 +44938,93 @@
         "url": "https://www.animegg.org/mobile-suit-gundam-the-origin-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 1869,
+    "title": "Buzzer Beater",
+    "animegg_url": "https://www.animegg.org/series/buzzer-beater",
+    "mal_url": "https://myanimelist.net/anime/406",
+    "mal_id": 406,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/4924",
+        "dub": null,
+        "url": "https://www.animegg.org/buzzer-beater-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/4920",
+        "dub": null,
+        "url": "https://www.animegg.org/buzzer-beater-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/4922",
+        "dub": null,
+        "url": "https://www.animegg.org/buzzer-beater-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/4921",
+        "dub": null,
+        "url": "https://www.animegg.org/buzzer-beater-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/4923",
+        "dub": null,
+        "url": "https://www.animegg.org/buzzer-beater-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/4927",
+        "dub": null,
+        "url": "https://www.animegg.org/buzzer-beater-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/4925",
+        "dub": null,
+        "url": "https://www.animegg.org/buzzer-beater-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/4926",
+        "dub": null,
+        "url": "https://www.animegg.org/buzzer-beater-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/4929",
+        "dub": null,
+        "url": "https://www.animegg.org/buzzer-beater-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/4928",
+        "dub": null,
+        "url": "https://www.animegg.org/buzzer-beater-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/4930",
+        "dub": null,
+        "url": "https://www.animegg.org/buzzer-beater-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/4931",
+        "dub": null,
+        "url": "https://www.animegg.org/buzzer-beater-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/4932",
+        "dub": null,
+        "url": "https://www.animegg.org/buzzer-beater-episode-13"
+      }
+    ]
   }
 ]
