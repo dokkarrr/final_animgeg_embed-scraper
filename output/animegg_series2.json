@@ -6708,5 +6708,27 @@
         "url": "https://www.animegg.org/skirt-no-naka-wa-kedamono-deshita-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 540,
+    "title": "Kuro to Kin no Hirakanai Kagi.",
+    "animegg_url": "https://www.animegg.org/series/kuro-to-kin-no-hirakanai-kagi",
+    "mal_url": "https://myanimelist.net/anime/16023",
+    "mal_id": 16023,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/54815",
+        "dub": null,
+        "url": "https://www.animegg.org/kuro-to-kin-no-hirakanai-kagi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/54816",
+        "dub": null,
+        "url": "https://www.animegg.org/kuro-to-kin-no-hirakanai-kagi-episode-2"
+      }
+    ]
   }
 ]
