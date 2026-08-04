@@ -99848,5 +99848,87 @@
         "url": "https://www.animegg.org/banner-of-the-stars-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2329,
+    "title": "Sengoku Musou",
+    "animegg_url": "https://www.animegg.org/series/sengoku-musou",
+    "mal_url": "https://myanimelist.net/anime/28283",
+    "mal_id": 28283,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/70019",
+        "dub": null,
+        "url": "https://www.animegg.org/sengoku-musou-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/73611",
+        "dub": null,
+        "url": "https://www.animegg.org/sengoku-musou-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/73726",
+        "dub": null,
+        "url": "https://www.animegg.org/sengoku-musou-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/74697",
+        "dub": null,
+        "url": "https://www.animegg.org/sengoku-musou-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/74845",
+        "dub": null,
+        "url": "https://www.animegg.org/sengoku-musou-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/74963",
+        "dub": null,
+        "url": "https://www.animegg.org/sengoku-musou-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/75085",
+        "dub": null,
+        "url": "https://www.animegg.org/sengoku-musou-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/75257",
+        "dub": null,
+        "url": "https://www.animegg.org/sengoku-musou-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/75474",
+        "dub": null,
+        "url": "https://www.animegg.org/sengoku-musou-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/75672",
+        "dub": null,
+        "url": "https://www.animegg.org/sengoku-musou-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/75786",
+        "dub": null,
+        "url": "https://www.animegg.org/sengoku-musou-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/75916",
+        "dub": null,
+        "url": "https://www.animegg.org/sengoku-musou-episode-12"
+      }
+    ]
   }
 ]
