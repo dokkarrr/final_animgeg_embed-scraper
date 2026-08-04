@@ -45522,5 +45522,87 @@
         "url": "https://www.animegg.org/yuru-camp-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1874,
+    "title": "Makai Senki Disgaea",
+    "animegg_url": "https://www.animegg.org/series/makai-senki-disgaea",
+    "mal_url": "https://myanimelist.net/anime/860",
+    "mal_id": 860,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/22927",
+        "dub": "https://www.animegg.org/embed/22928",
+        "url": "https://www.animegg.org/makai-senki-disgaea-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/22925",
+        "dub": "https://www.animegg.org/embed/22926",
+        "url": "https://www.animegg.org/makai-senki-disgaea-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/22931",
+        "dub": "https://www.animegg.org/embed/22932",
+        "url": "https://www.animegg.org/makai-senki-disgaea-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/22929",
+        "dub": "https://www.animegg.org/embed/22930",
+        "url": "https://www.animegg.org/makai-senki-disgaea-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/22923",
+        "dub": "https://www.animegg.org/embed/22924",
+        "url": "https://www.animegg.org/makai-senki-disgaea-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/22935",
+        "dub": "https://www.animegg.org/embed/22936",
+        "url": "https://www.animegg.org/makai-senki-disgaea-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/22933",
+        "dub": "https://www.animegg.org/embed/22934",
+        "url": "https://www.animegg.org/makai-senki-disgaea-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/22937",
+        "dub": "https://www.animegg.org/embed/22938",
+        "url": "https://www.animegg.org/makai-senki-disgaea-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/22939",
+        "dub": "https://www.animegg.org/embed/22940",
+        "url": "https://www.animegg.org/makai-senki-disgaea-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/22941",
+        "dub": "https://www.animegg.org/embed/22942",
+        "url": "https://www.animegg.org/makai-senki-disgaea-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/22943",
+        "dub": "https://www.animegg.org/embed/22944",
+        "url": "https://www.animegg.org/makai-senki-disgaea-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/22945",
+        "dub": "https://www.animegg.org/embed/22946",
+        "url": "https://www.animegg.org/makai-senki-disgaea-episode-12"
+      }
+    ]
   }
 ]
