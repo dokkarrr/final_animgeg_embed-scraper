@@ -129648,5 +129648,87 @@
         "url": "https://www.animegg.org/3-gatsu-no-lion-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 1269,
+    "title": "Nyan Koi!",
+    "animegg_url": "https://www.animegg.org/series/nyan-koi",
+    "mal_url": "https://myanimelist.net/anime/6512",
+    "mal_id": 6512,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/27545",
+        "dub": "https://www.animegg.org/embed/71941",
+        "url": "https://www.animegg.org/nyan-koi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/27544",
+        "dub": "https://www.animegg.org/embed/71945",
+        "url": "https://www.animegg.org/nyan-koi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/27548",
+        "dub": "https://www.animegg.org/embed/71947",
+        "url": "https://www.animegg.org/nyan-koi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/27546",
+        "dub": "https://www.animegg.org/embed/71948",
+        "url": "https://www.animegg.org/nyan-koi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/27547",
+        "dub": "https://www.animegg.org/embed/71949",
+        "url": "https://www.animegg.org/nyan-koi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/27550",
+        "dub": "https://www.animegg.org/embed/71950",
+        "url": "https://www.animegg.org/nyan-koi-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/27551",
+        "dub": "https://www.animegg.org/embed/71951",
+        "url": "https://www.animegg.org/nyan-koi-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/27549",
+        "dub": "https://www.animegg.org/embed/71952",
+        "url": "https://www.animegg.org/nyan-koi-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/27555",
+        "dub": "https://www.animegg.org/embed/71953",
+        "url": "https://www.animegg.org/nyan-koi-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/27552",
+        "dub": "https://www.animegg.org/embed/71954",
+        "url": "https://www.animegg.org/nyan-koi-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/27553",
+        "dub": "https://www.animegg.org/embed/71955",
+        "url": "https://www.animegg.org/nyan-koi-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/27554",
+        "dub": "https://www.animegg.org/embed/71956",
+        "url": "https://www.animegg.org/nyan-koi-episode-12"
+      }
+    ]
   }
 ]
