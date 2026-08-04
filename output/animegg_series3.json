@@ -78060,5 +78060,87 @@
         "url": "https://www.animegg.org/one-room-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2153,
+    "title": "Shining Hearts: Shiawase no Pan",
+    "animegg_url": "https://www.animegg.org/series/shining-hearts-shiawase-no-pan",
+    "mal_url": "https://myanimelist.net/anime/12367",
+    "mal_id": 12367,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/34685",
+        "dub": "https://www.animegg.org/embed/131235",
+        "url": "https://www.animegg.org/shining-hearts-shiawase-no-pan-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/34683",
+        "dub": "https://www.animegg.org/embed/131232",
+        "url": "https://www.animegg.org/shining-hearts-shiawase-no-pan-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/34682",
+        "dub": "https://www.animegg.org/embed/131231",
+        "url": "https://www.animegg.org/shining-hearts-shiawase-no-pan-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/34681",
+        "dub": "https://www.animegg.org/embed/131230",
+        "url": "https://www.animegg.org/shining-hearts-shiawase-no-pan-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/34684",
+        "dub": "https://www.animegg.org/embed/131229",
+        "url": "https://www.animegg.org/shining-hearts-shiawase-no-pan-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/34687",
+        "dub": "https://www.animegg.org/embed/131228",
+        "url": "https://www.animegg.org/shining-hearts-shiawase-no-pan-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/34688",
+        "dub": "https://www.animegg.org/embed/131227",
+        "url": "https://www.animegg.org/shining-hearts-shiawase-no-pan-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/34686",
+        "dub": "https://www.animegg.org/embed/131226",
+        "url": "https://www.animegg.org/shining-hearts-shiawase-no-pan-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/34689",
+        "dub": "https://www.animegg.org/embed/131225",
+        "url": "https://www.animegg.org/shining-hearts-shiawase-no-pan-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/34690",
+        "dub": "https://www.animegg.org/embed/131234",
+        "url": "https://www.animegg.org/shining-hearts-shiawase-no-pan-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/34691",
+        "dub": "https://www.animegg.org/embed/131233",
+        "url": "https://www.animegg.org/shining-hearts-shiawase-no-pan-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/34692",
+        "dub": null,
+        "url": "https://www.animegg.org/shining-hearts-shiawase-no-pan-episode-12"
+      }
+    ]
   }
 ]
