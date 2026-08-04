@@ -85710,5 +85710,93 @@
         "url": "https://www.animegg.org/suzuka-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 1005,
+    "title": "Orange",
+    "animegg_url": "https://www.animegg.org/series/orange",
+    "mal_url": "https://myanimelist.net/anime/32729",
+    "mal_id": 32729,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/82923",
+        "dub": null,
+        "url": "https://www.animegg.org/orange-the-anime-episode-1-7451-4960"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/83018",
+        "dub": null,
+        "url": "https://www.animegg.org/orangeanime-episode-2-9185-8277-8865"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/83123",
+        "dub": null,
+        "url": "https://www.animegg.org/orange-the-anime-episode-3-8659-2528-2820"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/83233",
+        "dub": null,
+        "url": "https://www.animegg.org/orange-anime-episode-4-9575-1490"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/83409",
+        "dub": null,
+        "url": "https://www.animegg.org/orange-episode-5-8235"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/83410",
+        "dub": null,
+        "url": "https://www.animegg.org/orange-episode-6-9940"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/83498",
+        "dub": null,
+        "url": "https://www.animegg.org/orange-episode-7-9049"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/83580",
+        "dub": null,
+        "url": "https://www.animegg.org/orange-episode-8-2790"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/83669",
+        "dub": "https://www.animegg.org/embed/83680",
+        "url": "https://www.animegg.org/orange-episode-9-5105"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/83766",
+        "dub": null,
+        "url": "https://www.animegg.org/orange-episode-10-8056"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/83844",
+        "dub": null,
+        "url": "https://www.animegg.org/orange-episode-11-9292"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/83930",
+        "dub": null,
+        "url": "https://www.animegg.org/orange-episode-12-9717-5801"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/84020",
+        "dub": null,
+        "url": "https://www.animegg.org/orange-episode-13-2780"
+      }
+    ]
   }
 ]
