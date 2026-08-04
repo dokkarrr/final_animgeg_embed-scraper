@@ -86102,5 +86102,87 @@
         "url": "https://www.animegg.org/kimi-to-boku-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2200,
+    "title": "Shikkakumon no Saikyou Kenja",
+    "animegg_url": "https://www.animegg.org/series/shikkakumon-no-saikyou-kenja",
+    "mal_url": "https://myanimelist.net/anime/47161",
+    "mal_id": 47161,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/103733",
+        "dub": null,
+        "url": "https://www.animegg.org/shikkakumon-no-saikyou-kenja-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/103780",
+        "dub": null,
+        "url": "https://www.animegg.org/shikkakumon-no-saikyou-kenja-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/103832",
+        "dub": null,
+        "url": "https://www.animegg.org/shikkakumon-no-saikyou-kenja-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/103889",
+        "dub": null,
+        "url": "https://www.animegg.org/shikkakumon-no-saikyou-kenja-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/103939",
+        "dub": null,
+        "url": "https://www.animegg.org/shikkakumon-no-saikyou-kenja-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/103991",
+        "dub": null,
+        "url": "https://www.animegg.org/shikkakumon-no-saikyou-kenja-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/104038",
+        "dub": null,
+        "url": "https://www.animegg.org/shikkakumon-no-saikyou-kenja-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/104086",
+        "dub": null,
+        "url": "https://www.animegg.org/shikkakumon-no-saikyou-kenja-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/104136",
+        "dub": null,
+        "url": "https://www.animegg.org/shikkakumon-no-saikyou-kenja-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/104184",
+        "dub": null,
+        "url": "https://www.animegg.org/shikkakumon-no-saikyou-kenja-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/104230",
+        "dub": null,
+        "url": "https://www.animegg.org/shikkakumon-no-saikyou-kenja-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/104277",
+        "dub": null,
+        "url": "https://www.animegg.org/shikkakumon-no-saikyou-kenja-episode-12"
+      }
+    ]
   }
 ]
