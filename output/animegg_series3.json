@@ -89586,5 +89586,87 @@
         "url": "https://www.animegg.org/zettai-shounen-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 2234,
+    "title": "Seijo no Maryoku wa Bannou Desu",
+    "animegg_url": "https://www.animegg.org/series/seijo-no-maryoku-wa-bannou-desu",
+    "mal_url": "https://myanimelist.net/anime/42826",
+    "mal_id": 42826,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/101362",
+        "dub": null,
+        "url": "https://www.animegg.org/seijo-no-maryoku-wa-bannou-desu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/101424",
+        "dub": null,
+        "url": "https://www.animegg.org/seijo-no-maryoku-wa-bannou-desu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/101489",
+        "dub": null,
+        "url": "https://www.animegg.org/seijo-no-maryoku-wa-bannou-desu-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/101552",
+        "dub": null,
+        "url": "https://www.animegg.org/seijo-no-maryoku-wa-bannou-desu-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/101615",
+        "dub": null,
+        "url": "https://www.animegg.org/seijo-no-maryoku-wa-bannou-desu-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/101678",
+        "dub": null,
+        "url": "https://www.animegg.org/seijo-no-maryoku-wa-bannou-desu-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/101755",
+        "dub": null,
+        "url": "https://www.animegg.org/seijo-no-maryoku-wa-bannou-desu-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/101817",
+        "dub": null,
+        "url": "https://www.animegg.org/seijo-no-maryoku-wa-bannou-desu-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/101897",
+        "dub": null,
+        "url": "https://www.animegg.org/seijo-no-maryoku-wa-bannou-desu-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/101966",
+        "dub": null,
+        "url": "https://www.animegg.org/seijo-no-maryoku-wa-bannou-desu-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/102036",
+        "dub": null,
+        "url": "https://www.animegg.org/seijo-no-maryoku-wa-bannou-desu-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/102118",
+        "dub": null,
+        "url": "https://www.animegg.org/seijo-no-maryoku-wa-bannou-desu-episode-12"
+      }
+    ]
   }
 ]
