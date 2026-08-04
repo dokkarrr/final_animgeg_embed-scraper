@@ -10112,5 +10112,87 @@
         "url": "https://www.animegg.org/trapp-ikka-monogatari-episode-40"
       }
     ]
+  },
+  {
+    "serial_no": 1618,
+    "title": "Antique Bakery",
+    "animegg_url": "https://www.animegg.org/series/antique-bakery",
+    "mal_url": "https://myanimelist.net/anime/4021",
+    "mal_id": 4021,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/1292",
+        "dub": null,
+        "url": "https://www.animegg.org/antique-bakery-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/1294",
+        "dub": null,
+        "url": "https://www.animegg.org/antique-bakery-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/1291",
+        "dub": null,
+        "url": "https://www.animegg.org/antique-bakery-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/1295",
+        "dub": null,
+        "url": "https://www.animegg.org/antique-bakery-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/1293",
+        "dub": null,
+        "url": "https://www.animegg.org/antique-bakery-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/1296",
+        "dub": null,
+        "url": "https://www.animegg.org/antique-bakery-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/1297",
+        "dub": null,
+        "url": "https://www.animegg.org/antique-bakery-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/1298",
+        "dub": null,
+        "url": "https://www.animegg.org/antique-bakery-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/1299",
+        "dub": null,
+        "url": "https://www.animegg.org/antique-bakery-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/1300",
+        "dub": null,
+        "url": "https://www.animegg.org/antique-bakery-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/1302",
+        "dub": null,
+        "url": "https://www.animegg.org/antique-bakery-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/1301",
+        "dub": null,
+        "url": "https://www.animegg.org/antique-bakery-episode-12"
+      }
+    ]
   }
 ]
