@@ -94038,5 +94038,93 @@
         "url": "https://www.animegg.org/le-chevalier-deon-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 2270,
+    "title": "Library War",
+    "animegg_url": "https://www.animegg.org/series/library-war",
+    "mal_url": "https://myanimelist.net/anime/3613",
+    "mal_id": 3613,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/21661",
+        "dub": null,
+        "url": "https://www.animegg.org/library-war-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/21660",
+        "dub": null,
+        "url": "https://www.animegg.org/library-war-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/21659",
+        "dub": null,
+        "url": "https://www.animegg.org/library-war-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/21663",
+        "dub": null,
+        "url": "https://www.animegg.org/library-war-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/21662",
+        "dub": null,
+        "url": "https://www.animegg.org/library-war-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/21665",
+        "dub": null,
+        "url": "https://www.animegg.org/library-war-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/21667",
+        "dub": null,
+        "url": "https://www.animegg.org/library-war-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/21668",
+        "dub": null,
+        "url": "https://www.animegg.org/library-war-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/21664",
+        "dub": null,
+        "url": "https://www.animegg.org/library-war-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/21666",
+        "dub": null,
+        "url": "https://www.animegg.org/library-war-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/21669",
+        "dub": null,
+        "url": "https://www.animegg.org/library-war-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/21671",
+        "dub": null,
+        "url": "https://www.animegg.org/library-war-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/21670",
+        "dub": null,
+        "url": "https://www.animegg.org/library-war-episode-13"
+      }
+    ]
   }
 ]
