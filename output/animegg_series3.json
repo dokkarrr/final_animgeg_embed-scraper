@@ -38886,5 +38886,87 @@
         "url": "https://www.animegg.org/cardfight-vanguard-g-z-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 1811,
+    "title": "Yuru Yuri San☆Hai!",
+    "animegg_url": "https://www.animegg.org/series/yuru-yuri-san-hai",
+    "mal_url": "https://myanimelist.net/anime/30279",
+    "mal_id": 30279,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/79321",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-yuri-san-hai-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/79452",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-yuri-san-hai-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/79558",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-yuri-san-hai-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/79673",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-yuri-san-hai-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/79760",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-yuri-san-hai-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/79844",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-yuri-san-hai-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/79934",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-yuri-san-hai-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/80031",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-yuri-san-hai-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/80133",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-yuri-san-hai-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/80257",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-yuri-san-hai-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/80355",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-yuri-san-hai-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/80446",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-yuri-san-hai-episode-12"
+      }
+    ]
   }
 ]
