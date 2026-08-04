@@ -119265,5 +119265,87 @@
         "url": "https://www.animegg.org/kiniro-mosaic-2nd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 2535,
+    "title": "RWBY Volume 2",
+    "animegg_url": "https://www.animegg.org/series/rwby-volume-2",
+    "mal_url": "https://myanimelist.net/anime/60336",
+    "mal_id": 60336,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/65871",
+        "dub": "https://www.animegg.org/embed/65872",
+        "url": "https://www.animegg.org/rwby-volume-2-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/65870",
+        "dub": null,
+        "url": "https://www.animegg.org/rwby-volume-2-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/65869",
+        "dub": null,
+        "url": "https://www.animegg.org/rwby-volume-2-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/65868",
+        "dub": null,
+        "url": "https://www.animegg.org/rwby-volume-2-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/65867",
+        "dub": null,
+        "url": "https://www.animegg.org/rwby-volume-2-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/65866",
+        "dub": null,
+        "url": "https://www.animegg.org/rwby-volume-2-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/65865",
+        "dub": null,
+        "url": "https://www.animegg.org/rwby-volume-2-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/65864",
+        "dub": null,
+        "url": "https://www.animegg.org/rwby-volume-2-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/65863",
+        "dub": null,
+        "url": "https://www.animegg.org/rwby-volume-2-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/65862",
+        "dub": null,
+        "url": "https://www.animegg.org/rwby-volume-2-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/65861",
+        "dub": null,
+        "url": "https://www.animegg.org/rwby-volume-2-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/65860",
+        "dub": null,
+        "url": "https://www.animegg.org/rwby-volume-2-episode-1"
+      }
+    ]
   }
 ]
