@@ -118140,5 +118140,99 @@
         "url": "https://www.animegg.org/rizelmine-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 1191,
+    "title": "Spice and Wolf II",
+    "animegg_url": "https://www.animegg.org/series/Spice-and-Wolf-ii",
+    "mal_url": "https://myanimelist.net/anime/6007",
+    "mal_id": 6007,
+    "total_ep": 14,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/45209",
+        "dub": null,
+        "url": "https://www.animegg.org/spice-and-wolf-ii-episode-13"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/45185",
+        "dub": "https://www.animegg.org/embed/45186",
+        "url": "https://www.animegg.org/ookami-to-koushinryou-ii-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/45210",
+        "dub": null,
+        "url": "https://www.animegg.org/spice-and-wolf-ii-episode-14"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/45187",
+        "dub": "https://www.animegg.org/embed/45188",
+        "url": "https://www.animegg.org/ookami-to-koushinryou-ii-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/45189",
+        "dub": "https://www.animegg.org/embed/45190",
+        "url": "https://www.animegg.org/ookami-to-koushinryou-ii-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/45191",
+        "dub": "https://www.animegg.org/embed/45192",
+        "url": "https://www.animegg.org/ookami-to-koushinryou-ii-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/45193",
+        "dub": "https://www.animegg.org/embed/45194",
+        "url": "https://www.animegg.org/ookami-to-koushinryou-ii-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/45195",
+        "dub": "https://www.animegg.org/embed/45196",
+        "url": "https://www.animegg.org/ookami-to-koushinryou-ii-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/45197",
+        "dub": "https://www.animegg.org/embed/45198",
+        "url": "https://www.animegg.org/ookami-to-koushinryou-ii-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/45199",
+        "dub": "https://www.animegg.org/embed/45200",
+        "url": "https://www.animegg.org/ookami-to-koushinryou-ii-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/45201",
+        "dub": "https://www.animegg.org/embed/45202",
+        "url": "https://www.animegg.org/ookami-to-koushinryou-ii-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/45203",
+        "dub": "https://www.animegg.org/embed/45204",
+        "url": "https://www.animegg.org/ookami-to-koushinryou-ii-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/45205",
+        "dub": "https://www.animegg.org/embed/45206",
+        "url": "https://www.animegg.org/ookami-to-koushinryou-ii-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/45207",
+        "dub": "https://www.animegg.org/embed/45208",
+        "url": "https://www.animegg.org/ookami-to-koushinryou-ii-episode-12"
+      }
+    ]
   }
 ]
