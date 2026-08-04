@@ -76826,5 +76826,87 @@
         "url": "https://www.animegg.org/chu-bra-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2140,
+    "title": "Gatchaman Crowds Insight (TV)",
+    "animegg_url": "https://www.animegg.org/series/gatchaman-crowds-insight-tv",
+    "mal_url": "https://myanimelist.net/anime/21039",
+    "mal_id": 21039,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/77723",
+        "dub": "https://www.animegg.org/embed/77724",
+        "url": "https://www.animegg.org/gatchaman-crowds-insight-tv-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/77849",
+        "dub": "https://www.animegg.org/embed/77850",
+        "url": "https://www.animegg.org/gatchaman-crowds-insight-tv-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/78029",
+        "dub": "https://www.animegg.org/embed/78031",
+        "url": "https://www.animegg.org/gatchaman-crowds-insight-tv-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/78169",
+        "dub": null,
+        "url": "https://www.animegg.org/gatchaman-crowds-insight-tv-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/78315",
+        "dub": null,
+        "url": "https://www.animegg.org/gatchaman-crowds-insight-tv-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/78443",
+        "dub": null,
+        "url": "https://www.animegg.org/gatchaman-crowds-insight-tv-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/78574",
+        "dub": null,
+        "url": "https://www.animegg.org/gatchaman-crowds-insight-tv-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/78778",
+        "dub": null,
+        "url": "https://www.animegg.org/gatchaman-crowds-insight-tv-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/78885",
+        "dub": null,
+        "url": "https://www.animegg.org/gatchaman-crowds-insight-tv-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/79017",
+        "dub": null,
+        "url": "https://www.animegg.org/gatchaman-crowds-insight-tv-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/79128",
+        "dub": null,
+        "url": "https://www.animegg.org/gatchaman-crowds-insight-tv-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/79204",
+        "dub": null,
+        "url": "https://www.animegg.org/gatchaman-crowds-insight-tv-episode-12"
+      }
+    ]
   }
 ]
