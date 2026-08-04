@@ -46852,5 +46852,87 @@
         "url": "https://www.animegg.org/senyuu-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 1887,
+    "title": "Sakamichi no Apollon",
+    "animegg_url": "https://www.animegg.org/series/sakamichi-no-apollon",
+    "mal_url": "https://myanimelist.net/anime/12531",
+    "mal_id": 12531,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/33074",
+        "dub": "https://www.animegg.org/embed/71576",
+        "url": "https://www.animegg.org/sakamichi-no-apollon-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/33070",
+        "dub": "https://www.animegg.org/embed/71574",
+        "url": "https://www.animegg.org/sakamichi-no-apollon-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/33073",
+        "dub": "https://www.animegg.org/embed/71573",
+        "url": "https://www.animegg.org/sakamichi-no-apollon-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/33072",
+        "dub": "https://www.animegg.org/embed/71572",
+        "url": "https://www.animegg.org/sakamichi-no-apollon-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/33071",
+        "dub": "https://www.animegg.org/embed/71571",
+        "url": "https://www.animegg.org/sakamichi-no-apollon-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/33075",
+        "dub": "https://www.animegg.org/embed/71569",
+        "url": "https://www.animegg.org/sakamichi-no-apollon-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/71568",
+        "dub": "https://www.animegg.org/embed/75113",
+        "url": "https://www.animegg.org/sakamichi-no-apollon-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/33076",
+        "dub": "https://www.animegg.org/embed/71566",
+        "url": "https://www.animegg.org/sakamichi-no-apollon-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/33077",
+        "dub": "https://www.animegg.org/embed/71565",
+        "url": "https://www.animegg.org/sakamichi-no-apollon-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/33079",
+        "dub": "https://www.animegg.org/embed/71562",
+        "url": "https://www.animegg.org/sakamichi-no-apollon-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/33080",
+        "dub": "https://www.animegg.org/embed/71560",
+        "url": "https://www.animegg.org/sakamichi-no-apollon-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/33081",
+        "dub": "https://www.animegg.org/embed/71558",
+        "url": "https://www.animegg.org/sakamichi-no-apollon-episode-12"
+      }
+    ]
   }
 ]
