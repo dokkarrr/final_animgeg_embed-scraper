@@ -37280,5 +37280,93 @@
         "url": "https://www.animegg.org/kimikiss-pure-rouge-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 722,
+    "title": "Free! Eternal Summer",
+    "animegg_url": "https://www.animegg.org/series/free-eternal-summer",
+    "mal_url": "https://myanimelist.net/anime/22265",
+    "mal_id": 22265,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/45693",
+        "dub": "https://www.animegg.org/embed/77902",
+        "url": "https://www.animegg.org/free-eternal-summer-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/45694",
+        "dub": "https://www.animegg.org/embed/77903",
+        "url": "https://www.animegg.org/free-eternal-summer-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/45695",
+        "dub": null,
+        "url": "https://www.animegg.org/free-eternal-summer-episode-3-1"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/45696",
+        "dub": "https://www.animegg.org/embed/78204",
+        "url": "https://www.animegg.org/free-eternal-summer-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/45697",
+        "dub": "https://www.animegg.org/embed/78343",
+        "url": "https://www.animegg.org/free-eternal-summer-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/45698",
+        "dub": "https://www.animegg.org/embed/78344",
+        "url": "https://www.animegg.org/free-eternal-summer-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/45699",
+        "dub": "https://www.animegg.org/embed/78739",
+        "url": "https://www.animegg.org/free-eternal-summer-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/45700",
+        "dub": "https://www.animegg.org/embed/78738",
+        "url": "https://www.animegg.org/free-eternal-summer-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/45701",
+        "dub": "https://www.animegg.org/embed/78737",
+        "url": "https://www.animegg.org/free-eternal-summer-episode-9-1"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/45702",
+        "dub": null,
+        "url": "https://www.animegg.org/free-eternal-summer-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/45703",
+        "dub": null,
+        "url": "https://www.animegg.org/free-eternal-summer-episode-11-1"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/45704",
+        "dub": null,
+        "url": "https://www.animegg.org/free-eternal-summer-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/45705",
+        "dub": null,
+        "url": "https://www.animegg.org/free-eternal-summer-episode-13"
+      }
+    ]
   }
 ]
