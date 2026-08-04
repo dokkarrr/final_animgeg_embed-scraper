@@ -105930,5 +105930,87 @@
         "url": "https://www.animegg.org/one-piece-movie-13-film-gold-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2393,
+    "title": "Ragnastrike Angels",
+    "animegg_url": "https://www.animegg.org/series/ragnastrike-angels",
+    "mal_url": "https://myanimelist.net/anime/33021",
+    "mal_id": 33021,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/81780",
+        "dub": "https://www.animegg.org/embed/81791",
+        "url": "https://www.animegg.org/ragnastrike-angels-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/81878",
+        "dub": null,
+        "url": "https://www.animegg.org/ragnastrike-angels-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/81959",
+        "dub": null,
+        "url": "https://www.animegg.org/ragnastrike-angels-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/82049",
+        "dub": null,
+        "url": "https://www.animegg.org/ragnastrike-angels-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/82142",
+        "dub": null,
+        "url": "https://www.animegg.org/ragnastrike-angels-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/82230",
+        "dub": null,
+        "url": "https://www.animegg.org/ragnastrike-angels-episode-06"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/82305",
+        "dub": null,
+        "url": "https://www.animegg.org/ragnastrike-angels-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/82394",
+        "dub": null,
+        "url": "https://www.animegg.org/ragnastrike-angels-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/82490",
+        "dub": null,
+        "url": "https://www.animegg.org/ragnastrike-angels-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/82588",
+        "dub": null,
+        "url": "https://www.animegg.org/ragnastrike-angels-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/82663",
+        "dub": null,
+        "url": "https://www.animegg.org/ragnastrike-angels-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/82747",
+        "dub": null,
+        "url": "https://www.animegg.org/ragnastrike-angels-episode-12"
+      }
+    ]
   }
 ]
