@@ -60152,5 +60152,93 @@
         "url": "https://www.animegg.org/mahou-sensou-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 854,
+    "title": "Vampire Knight",
+    "animegg_url": "https://www.animegg.org/series/vampire-knight",
+    "mal_url": "https://myanimelist.net/anime/3457",
+    "mal_id": 3457,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/39890",
+        "dub": "https://www.animegg.org/embed/39891",
+        "url": "https://www.animegg.org/vampire-knight-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/39888",
+        "dub": "https://www.animegg.org/embed/39889",
+        "url": "https://www.animegg.org/vampire-knight-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/39882",
+        "dub": "https://www.animegg.org/embed/39883",
+        "url": "https://www.animegg.org/vampire-knight-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/39886",
+        "dub": "https://www.animegg.org/embed/39887",
+        "url": "https://www.animegg.org/vampire-knight-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/39884",
+        "dub": "https://www.animegg.org/embed/39885",
+        "url": "https://www.animegg.org/vampire-knight-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/39892",
+        "dub": "https://www.animegg.org/embed/39893",
+        "url": "https://www.animegg.org/vampire-knight-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/39894",
+        "dub": "https://www.animegg.org/embed/39895",
+        "url": "https://www.animegg.org/vampire-knight-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/39896",
+        "dub": "https://www.animegg.org/embed/39897",
+        "url": "https://www.animegg.org/vampire-knight-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/39898",
+        "dub": "https://www.animegg.org/embed/39899",
+        "url": "https://www.animegg.org/vampire-knight-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/39900",
+        "dub": "https://www.animegg.org/embed/39901",
+        "url": "https://www.animegg.org/vampire-knight-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/39902",
+        "dub": "https://www.animegg.org/embed/39903",
+        "url": "https://www.animegg.org/vampire-knight-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/39904",
+        "dub": "https://www.animegg.org/embed/39905",
+        "url": "https://www.animegg.org/vampire-knight-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/39906",
+        "dub": "https://www.animegg.org/embed/39907",
+        "url": "https://www.animegg.org/vampire-knight-episode-13"
+      }
+    ]
   }
 ]
