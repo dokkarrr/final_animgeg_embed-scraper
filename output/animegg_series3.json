@@ -7454,5 +7454,51 @@
         "url": "https://www.animegg.org/ao-ashi-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 1591,
+    "title": "Mangaka-san to Assistant-san to Specials",
+    "animegg_url": "https://www.animegg.org/series/mangaka-san-assistant-to-specials",
+    "mal_url": "https://myanimelist.net/anime/21863",
+    "mal_id": 21863,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/46541",
+        "dub": "https://www.animegg.org/embed/46542",
+        "url": "https://www.animegg.org/mangaka-san-assistant-to-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/46543",
+        "dub": null,
+        "url": "https://www.animegg.org/mangaka-san-assistant-to-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/46544",
+        "dub": "https://www.animegg.org/embed/46545",
+        "url": "https://www.animegg.org/mangaka-san-to-assistant-san-to-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/46546",
+        "dub": "https://www.animegg.org/embed/46547",
+        "url": "https://www.animegg.org/mangaka-san-to-assistant-san-to-specials-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/46548",
+        "dub": "https://www.animegg.org/embed/46549",
+        "url": "https://www.animegg.org/mangaka-san-to-assistant-san-to-specials-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/67230",
+        "dub": null,
+        "url": "https://www.animegg.org/mangaka-san-to-assistant-san-to-specials-episode-6"
+      }
+    ]
   }
 ]
