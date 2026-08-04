@@ -71200,5 +71200,45 @@
         "url": "https://www.animegg.org/princess-nine-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 916,
+    "title": "Fairy Tail OVA",
+    "animegg_url": "https://www.animegg.org/series/fairy-tail-ova",
+    "mal_url": "https://myanimelist.net/anime/9982",
+    "mal_id": 9982,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/10702",
+        "dub": null,
+        "url": "https://www.animegg.org/fairy-tail-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/10703",
+        "dub": null,
+        "url": "https://www.animegg.org/fairy-tail-ova-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/10701",
+        "dub": null,
+        "url": "https://www.animegg.org/fairy-tail-ova-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/10704",
+        "dub": null,
+        "url": "https://www.animegg.org/fairy-tail-ova-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/10705",
+        "dub": null,
+        "url": "https://www.animegg.org/fairy-tail-ova-episode-5"
+      }
+    ]
   }
 ]
