@@ -131059,5 +131059,75 @@
         "url": "https://www.animegg.org/caligula-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2650,
+    "title": "Moshidora",
+    "animegg_url": "https://www.animegg.org/series/moshidora",
+    "mal_url": "https://myanimelist.net/anime/9693",
+    "mal_id": 9693,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/24679",
+        "dub": null,
+        "url": "https://www.animegg.org/moshidora-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/24675",
+        "dub": null,
+        "url": "https://www.animegg.org/moshidora-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/24678",
+        "dub": null,
+        "url": "https://www.animegg.org/moshidora-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/24677",
+        "dub": null,
+        "url": "https://www.animegg.org/moshidora-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/24676",
+        "dub": null,
+        "url": "https://www.animegg.org/moshidora-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/24680",
+        "dub": null,
+        "url": "https://www.animegg.org/moshidora-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/24681",
+        "dub": null,
+        "url": "https://www.animegg.org/moshidora-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/24683",
+        "dub": null,
+        "url": "https://www.animegg.org/moshidora-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/24682",
+        "dub": null,
+        "url": "https://www.animegg.org/moshidora-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/24684",
+        "dub": null,
+        "url": "https://www.animegg.org/moshidora-episode-10"
+      }
+    ]
   }
 ]
