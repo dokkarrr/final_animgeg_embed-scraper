@@ -85474,5 +85474,75 @@
         "url": "https://www.animegg.org/aka-chan-to-boku-episode-35"
       }
     ]
+  },
+  {
+    "serial_no": 1003,
+    "title": "Kuroshitsuji: Book of Circus",
+    "animegg_url": "https://www.animegg.org/series/kuroshitsuji-book-of-circus",
+    "mal_url": "https://myanimelist.net/anime/22145",
+    "mal_id": 22145,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/45797",
+        "dub": "https://www.animegg.org/embed/45798",
+        "url": "https://www.animegg.org/kuroshitsuji-book-of-circus-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/45799",
+        "dub": "https://www.animegg.org/embed/45800",
+        "url": "https://www.animegg.org/kuroshitsuji-book-of-circus-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/45801",
+        "dub": "https://www.animegg.org/embed/45802",
+        "url": "https://www.animegg.org/kuroshitsuji-book-of-circus-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/45803",
+        "dub": "https://www.animegg.org/embed/45804",
+        "url": "https://www.animegg.org/kuroshitsuji-book-of-circus-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/45805",
+        "dub": "https://www.animegg.org/embed/45806",
+        "url": "https://www.animegg.org/kuroshitsuji-book-of-circus-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/45807",
+        "dub": "https://www.animegg.org/embed/45808",
+        "url": "https://www.animegg.org/kuroshitsuji-book-of-circus-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/45809",
+        "dub": "https://www.animegg.org/embed/45810",
+        "url": "https://www.animegg.org/kuroshitsuji-book-of-circus-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/45811",
+        "dub": "https://www.animegg.org/embed/45812",
+        "url": "https://www.animegg.org/kuroshitsuji-book-of-circus-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/45813",
+        "dub": "https://www.animegg.org/embed/45814",
+        "url": "https://www.animegg.org/kuroshitsuji-book-of-circus-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/45815",
+        "dub": "https://www.animegg.org/embed/45816",
+        "url": "https://www.animegg.org/kuroshitsuji-book-of-circus-episode-10"
+      }
+    ]
   }
 ]
