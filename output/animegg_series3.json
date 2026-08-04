@@ -72442,5 +72442,93 @@
         "url": "https://www.animegg.org/the-fable-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 2091,
+    "title": "Tactical Roar",
+    "animegg_url": "https://www.animegg.org/series/tactical-roar",
+    "mal_url": "https://myanimelist.net/anime/817",
+    "mal_id": 817,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/36975",
+        "dub": null,
+        "url": "https://www.animegg.org/tactical-roar-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/36973",
+        "dub": null,
+        "url": "https://www.animegg.org/tactical-roar-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/36972",
+        "dub": null,
+        "url": "https://www.animegg.org/tactical-roar-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/36974",
+        "dub": null,
+        "url": "https://www.animegg.org/tactical-roar-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/36971",
+        "dub": null,
+        "url": "https://www.animegg.org/tactical-roar-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/36977",
+        "dub": null,
+        "url": "https://www.animegg.org/tactical-roar-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/36976",
+        "dub": null,
+        "url": "https://www.animegg.org/tactical-roar-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/36978",
+        "dub": null,
+        "url": "https://www.animegg.org/tactical-roar-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/36979",
+        "dub": null,
+        "url": "https://www.animegg.org/tactical-roar-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/36981",
+        "dub": null,
+        "url": "https://www.animegg.org/tactical-roar-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/36982",
+        "dub": null,
+        "url": "https://www.animegg.org/tactical-roar-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/36980",
+        "dub": null,
+        "url": "https://www.animegg.org/tactical-roar-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/36983",
+        "dub": null,
+        "url": "https://www.animegg.org/tactical-roar-episode-13"
+      }
+    ]
   }
 ]
