@@ -67764,5 +67764,87 @@
         "url": "https://www.animegg.org/himawari-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2054,
+    "title": "Koufuku Graffiti",
+    "animegg_url": "https://www.animegg.org/series/koufuku-graffiti",
+    "mal_url": "https://myanimelist.net/anime/24629",
+    "mal_id": 24629,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/68613",
+        "dub": "https://www.animegg.org/embed/69672",
+        "url": "https://www.animegg.org/koufuku-graffiti-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/73288",
+        "dub": "https://www.animegg.org/embed/73564",
+        "url": "https://www.animegg.org/koufuku-graffiti-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/73667",
+        "dub": "https://www.animegg.org/embed/73685",
+        "url": "https://www.animegg.org/koufuku-graffiti-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/74252",
+        "dub": "https://www.animegg.org/embed/74686",
+        "url": "https://www.animegg.org/koufuku-graffiti-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/74769",
+        "dub": "https://www.animegg.org/embed/74832",
+        "url": "https://www.animegg.org/koufuku-graffiti-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/74896",
+        "dub": "https://www.animegg.org/embed/74950",
+        "url": "https://www.animegg.org/koufuku-graffiti-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/75008",
+        "dub": "https://www.animegg.org/embed/75070",
+        "url": "https://www.animegg.org/koufuku-graffiti-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/75141",
+        "dub": "https://www.animegg.org/embed/75227",
+        "url": "https://www.animegg.org/koufuku-graffiti-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/75338",
+        "dub": "https://www.animegg.org/embed/75450",
+        "url": "https://www.animegg.org/koufuku-graffiti-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/75571",
+        "dub": "https://www.animegg.org/embed/75655",
+        "url": "https://www.animegg.org/koufuku-graffiti-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/75719",
+        "dub": "https://www.animegg.org/embed/75775",
+        "url": "https://www.animegg.org/koufuku-graffiti-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/75853",
+        "dub": "https://www.animegg.org/embed/75905",
+        "url": "https://www.animegg.org/koufuku-graffiti-episode-12"
+      }
+    ]
   }
 ]
