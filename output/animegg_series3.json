@@ -91198,5 +91198,87 @@
         "url": "https://www.animegg.org/holo-no-graffiti-episode-166"
       }
     ]
+  },
+  {
+    "serial_no": 2241,
+    "title": "Makai Ouji: Devils and Realist",
+    "animegg_url": "https://www.animegg.org/series/makai-ouji-devils-and-realist",
+    "mal_url": "https://myanimelist.net/anime/16890",
+    "mal_id": 16890,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/22915",
+        "dub": null,
+        "url": "https://www.animegg.org/makai-ouji-devils-and-realist-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/22914",
+        "dub": null,
+        "url": "https://www.animegg.org/makai-ouji-devils-and-realist-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/22912",
+        "dub": null,
+        "url": "https://www.animegg.org/makai-ouji-devils-and-realist-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/22911",
+        "dub": null,
+        "url": "https://www.animegg.org/makai-ouji-devils-and-realist-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/22913",
+        "dub": null,
+        "url": "https://www.animegg.org/makai-ouji-devils-and-realist-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/22916",
+        "dub": null,
+        "url": "https://www.animegg.org/makai-ouji-devils-and-realist-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/22918",
+        "dub": null,
+        "url": "https://www.animegg.org/makai-ouji-devils-and-realist-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/22917",
+        "dub": null,
+        "url": "https://www.animegg.org/makai-ouji-devils-and-realist-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/22919",
+        "dub": null,
+        "url": "https://www.animegg.org/makai-ouji-devils-and-realist-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/22920",
+        "dub": null,
+        "url": "https://www.animegg.org/makai-ouji-devils-and-realist-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/22921",
+        "dub": null,
+        "url": "https://www.animegg.org/makai-ouji-devils-and-realist-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/22922",
+        "dub": null,
+        "url": "https://www.animegg.org/makai-ouji-devils-and-realist-episode-12"
+      }
+    ]
   }
 ]
