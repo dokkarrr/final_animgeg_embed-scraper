@@ -122025,5 +122025,93 @@
         "url": "https://www.animegg.org/naruto-dub-episode-220"
       }
     ]
+  },
+  {
+    "serial_no": 2553,
+    "title": "Minami-ke",
+    "animegg_url": "https://www.animegg.org/series/minami-ke",
+    "mal_url": "https://myanimelist.net/anime/2963",
+    "mal_id": 2963,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/24122",
+        "dub": null,
+        "url": "https://www.animegg.org/minami-ke-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/24119",
+        "dub": null,
+        "url": "https://www.animegg.org/minami-ke-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/24121",
+        "dub": null,
+        "url": "https://www.animegg.org/minami-ke-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/24118",
+        "dub": null,
+        "url": "https://www.animegg.org/minami-ke-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/24120",
+        "dub": null,
+        "url": "https://www.animegg.org/minami-ke-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/24123",
+        "dub": null,
+        "url": "https://www.animegg.org/minami-ke-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/24124",
+        "dub": null,
+        "url": "https://www.animegg.org/minami-ke-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/24125",
+        "dub": null,
+        "url": "https://www.animegg.org/minami-ke-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/24126",
+        "dub": null,
+        "url": "https://www.animegg.org/minami-ke-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/24127",
+        "dub": null,
+        "url": "https://www.animegg.org/minami-ke-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/24130",
+        "dub": null,
+        "url": "https://www.animegg.org/minami-ke-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/24128",
+        "dub": null,
+        "url": "https://www.animegg.org/minami-ke-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/24129",
+        "dub": null,
+        "url": "https://www.animegg.org/minami-ke-episode-13"
+      }
+    ]
   }
 ]
