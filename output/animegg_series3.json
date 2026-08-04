@@ -127725,5 +127725,87 @@
         "url": "https://www.animegg.org/occultic-nine-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2613,
+    "title": "Boku no Kokoro no Yabai Yatsu",
+    "animegg_url": "https://www.animegg.org/series/boku-no-kokoro-no-yabai-yatsu",
+    "mal_url": "https://myanimelist.net/anime/52578",
+    "mal_id": 52578,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/107629",
+        "dub": "https://www.animegg.org/embed/131059",
+        "url": "https://www.animegg.org/boku-no-kokoro-no-yabai-yatsu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/107678",
+        "dub": "https://www.animegg.org/embed/131151",
+        "url": "https://www.animegg.org/boku-no-kokoro-no-yabai-yatsu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/107727",
+        "dub": "https://www.animegg.org/embed/131257",
+        "url": "https://www.animegg.org/boku-no-kokoro-no-yabai-yatsu-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/107896",
+        "dub": "https://www.animegg.org/embed/131353",
+        "url": "https://www.animegg.org/boku-no-kokoro-no-yabai-yatsu-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/108003",
+        "dub": "https://www.animegg.org/embed/131461",
+        "url": "https://www.animegg.org/boku-no-kokoro-no-yabai-yatsu-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/131539",
+        "dub": null,
+        "url": "https://www.animegg.org/boku-no-kokoro-no-yabai-yatsu-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/131689",
+        "dub": null,
+        "url": "https://www.animegg.org/boku-no-kokoro-no-yabai-yatsu-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/108245",
+        "dub": "https://www.animegg.org/embed/131785",
+        "url": "https://www.animegg.org/boku-no-kokoro-no-yabai-yatsu-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/108380",
+        "dub": "https://www.animegg.org/embed/131883",
+        "url": "https://www.animegg.org/boku-no-kokoro-no-yabai-yatsu-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/108824",
+        "dub": "https://www.animegg.org/embed/131995",
+        "url": "https://www.animegg.org/boku-no-kokoro-no-yabai-yatsu-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/129824",
+        "dub": null,
+        "url": "https://www.animegg.org/boku-no-kokoro-no-yabai-yatsu-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/129823",
+        "dub": null,
+        "url": "https://www.animegg.org/boku-no-kokoro-no-yabai-yatsu-episode-12"
+      }
+    ]
   }
 ]
