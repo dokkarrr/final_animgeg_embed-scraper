@@ -61990,5 +61990,87 @@
         "url": "https://www.animegg.org/higurashi-no-naku-koro-ni-2020-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 1998,
+    "title": "Imouto sae Ireba Ii.",
+    "animegg_url": "https://www.animegg.org/series/imouto-sae-ireba-ii",
+    "mal_url": "https://myanimelist.net/anime/35413",
+    "mal_id": 35413,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/88592",
+        "dub": null,
+        "url": "https://www.animegg.org/imouto-sae-ireba-ii-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/88681",
+        "dub": null,
+        "url": "https://www.animegg.org/imouto-sae-ireba-ii-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/88756",
+        "dub": null,
+        "url": "https://www.animegg.org/imouto-sae-ireba-ii-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/88847",
+        "dub": null,
+        "url": "https://www.animegg.org/imouto-sae-ireba-ii-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/88934",
+        "dub": null,
+        "url": "https://www.animegg.org/imouto-sae-ireba-ii-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/89027",
+        "dub": null,
+        "url": "https://www.animegg.org/imouto-sae-ireba-ii-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/89111",
+        "dub": null,
+        "url": "https://www.animegg.org/imouto-sae-ireba-ii-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/89190",
+        "dub": null,
+        "url": "https://www.animegg.org/imouto-sae-ireba-ii-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/89261",
+        "dub": null,
+        "url": "https://www.animegg.org/imouto-sae-ireba-ii-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/89343",
+        "dub": null,
+        "url": "https://www.animegg.org/imouto-sae-ireba-ii-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/89418",
+        "dub": null,
+        "url": "https://www.animegg.org/imouto-sae-ireba-ii-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/89490",
+        "dub": null,
+        "url": "https://www.animegg.org/imouto-sae-ireba-ii-episode-12"
+      }
+    ]
   }
 ]
