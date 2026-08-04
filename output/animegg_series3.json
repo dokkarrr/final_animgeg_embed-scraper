@@ -133745,5 +133745,51 @@
         "url": "https://www.animegg.org/night-raid-1931-episode-0"
       }
     ]
+  },
+  {
+    "serial_no": 2681,
+    "title": "Rolling☆Girls: Chibi☆Rolling☆Girls Korokoro Gekijou",
+    "animegg_url": "https://www.animegg.org/series/rolling-girls-chibi-rolling-girls-korokoro-gekijou",
+    "mal_url": "https://myanimelist.net/anime/30499",
+    "mal_id": 30499,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/76581",
+        "dub": null,
+        "url": "https://www.animegg.org/rolling-girls-chibi-rolling-girls-korokoro-gekijou-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/76582",
+        "dub": null,
+        "url": "https://www.animegg.org/rolling-girls-chibi-rolling-girls-korokoro-gekijou-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/78808",
+        "dub": null,
+        "url": "https://www.animegg.org/rolling-girls-chibi-rolling-girls-korokoro-gekijou-episode"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/78825",
+        "dub": null,
+        "url": "https://www.animegg.org/rolling-girls-chibi-rolling-girls-korokoro-gekijou-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/78899",
+        "dub": null,
+        "url": "https://www.animegg.org/rolling-girls-chibi-rolling-girls-korokoro-gekijou-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/78900",
+        "dub": null,
+        "url": "https://www.animegg.org/rolling-girls-chibi-rolling-girls-korokoro-gekijou-episode-6"
+      }
+    ]
   }
 ]
