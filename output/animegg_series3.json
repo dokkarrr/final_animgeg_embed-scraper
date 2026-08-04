@@ -60280,5 +60280,87 @@
         "url": "https://www.animegg.org/wooser-no-sono-higurashi-mugen-hen-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 1980,
+    "title": "Sakura Trick",
+    "animegg_url": "https://www.animegg.org/series/sakura-trick",
+    "mal_url": "https://myanimelist.net/anime/20047",
+    "mal_id": 20047,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/60297",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-trick-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/60298",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-trick-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/60299",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-trick-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/60300",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-trick-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/60301",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-trick-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/60302",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-trick-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/60303",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-trick-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/60304",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-trick-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/60305",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-trick-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/60306",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-trick-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/60307",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-trick-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/60308",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-trick-episode-12"
+      }
+    ]
   }
 ]
