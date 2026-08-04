@@ -117708,5 +117708,51 @@
         "url": "https://www.animegg.org/hagure-yuusha-no-estetica-hajirai-ippai-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 2516,
+    "title": "Queen's Blade: Utsukushiki Toushitachi",
+    "animegg_url": "https://www.animegg.org/series/queens-blade-utsukushiki-toushitachi",
+    "mal_url": "https://myanimelist.net/anime/10924",
+    "mal_id": 10924,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/31419",
+        "dub": "https://www.animegg.org/embed/74363",
+        "url": "https://www.animegg.org/queens-blade-utsukushiki-toushitachi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/31421",
+        "dub": "https://www.animegg.org/embed/74365",
+        "url": "https://www.animegg.org/queens-blade-utsukushiki-toushitachi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/31420",
+        "dub": "https://www.animegg.org/embed/74367",
+        "url": "https://www.animegg.org/queens-blade-utsukushiki-toushitachi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/31418",
+        "dub": "https://www.animegg.org/embed/74368",
+        "url": "https://www.animegg.org/queens-blade-utsukushiki-toushitachi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/31422",
+        "dub": "https://www.animegg.org/embed/74370",
+        "url": "https://www.animegg.org/queens-blade-utsukushiki-toushitachi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/31423",
+        "dub": "https://www.animegg.org/embed/74371",
+        "url": "https://www.animegg.org/queens-blade-utsukushiki-toushitachi-episode-6"
+      }
+    ]
   }
 ]
