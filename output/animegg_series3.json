@@ -131129,5 +131129,87 @@
         "url": "https://www.animegg.org/moshidora-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 2651,
+    "title": "Hanaukyou Maid-tai: La Verite",
+    "animegg_url": "https://www.animegg.org/series/hanaukyou-maid-tai-la-verite",
+    "mal_url": "https://myanimelist.net/anime/649",
+    "mal_id": 649,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/15338",
+        "dub": "https://www.animegg.org/embed/70226",
+        "url": "https://www.animegg.org/hanaukyou-maid-tai-la-verite-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/15337",
+        "dub": "https://www.animegg.org/embed/70225",
+        "url": "https://www.animegg.org/hanaukyou-maid-tai-la-verite-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/15335",
+        "dub": "https://www.animegg.org/embed/70224",
+        "url": "https://www.animegg.org/hanaukyou-maid-tai-la-verite-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/15336",
+        "dub": "https://www.animegg.org/embed/70223",
+        "url": "https://www.animegg.org/hanaukyou-maid-tai-la-verite-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/15334",
+        "dub": "https://www.animegg.org/embed/70222",
+        "url": "https://www.animegg.org/hanaukyou-maid-tai-la-verite-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/15340",
+        "dub": "https://www.animegg.org/embed/70221",
+        "url": "https://www.animegg.org/hanaukyou-maid-tai-la-verite-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/15339",
+        "dub": "https://www.animegg.org/embed/70220",
+        "url": "https://www.animegg.org/hanaukyou-maid-tai-la-verite-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/15342",
+        "dub": "https://www.animegg.org/embed/70219",
+        "url": "https://www.animegg.org/hanaukyou-maid-tai-la-verite-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/15341",
+        "dub": "https://www.animegg.org/embed/70218",
+        "url": "https://www.animegg.org/hanaukyou-maid-tai-la-verite-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/15343",
+        "dub": "https://www.animegg.org/embed/70217",
+        "url": "https://www.animegg.org/hanaukyou-maid-tai-la-verite-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/15344",
+        "dub": "https://www.animegg.org/embed/70216",
+        "url": "https://www.animegg.org/hanaukyou-maid-tai-la-verite-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/15345",
+        "dub": "https://www.animegg.org/embed/70215",
+        "url": "https://www.animegg.org/hanaukyou-maid-tai-la-verite-episode-12"
+      }
+    ]
   }
 ]
