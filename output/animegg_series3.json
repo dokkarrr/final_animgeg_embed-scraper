@@ -89880,5 +89880,87 @@
         "url": "https://www.animegg.org/dragon-ball-daima-episode-20"
       }
     ]
+  },
+  {
+    "serial_no": 2237,
+    "title": "Denki-gai no Honya-san",
+    "animegg_url": "https://www.animegg.org/series/denki-gai-no-honya-san",
+    "mal_url": "https://myanimelist.net/anime/24031",
+    "mal_id": 24031,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66231",
+        "dub": null,
+        "url": "https://www.animegg.org/denki-gai-no-honya-san-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/66232",
+        "dub": null,
+        "url": "https://www.animegg.org/denki-gai-no-honya-san-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/66233",
+        "dub": null,
+        "url": "https://www.animegg.org/denki-gai-no-honya-san-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/66234",
+        "dub": null,
+        "url": "https://www.animegg.org/denki-gai-no-honya-san-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/66235",
+        "dub": null,
+        "url": "https://www.animegg.org/denki-gai-no-honya-san-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/66540",
+        "dub": null,
+        "url": "https://www.animegg.org/denki-gai-no-honya-san-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/66721",
+        "dub": null,
+        "url": "https://www.animegg.org/denki-gai-no-honya-san-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/67138",
+        "dub": null,
+        "url": "https://www.animegg.org/denki-gai-no-honya-san-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/67249",
+        "dub": null,
+        "url": "https://www.animegg.org/denki-gai-no-honya-san-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/67394",
+        "dub": null,
+        "url": "https://www.animegg.org/denki-gai-no-honya-san-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/67518",
+        "dub": null,
+        "url": "https://www.animegg.org/denki-gai-no-honya-san-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/67629",
+        "dub": null,
+        "url": "https://www.animegg.org/denki-gai-no-honya-san-episode-12"
+      }
+    ]
   }
 ]
