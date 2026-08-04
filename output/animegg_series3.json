@@ -99372,5 +99372,87 @@
         "url": "https://www.animegg.org/araiguma-rascal-episode-52"
       }
     ]
+  },
+  {
+    "serial_no": 2324,
+    "title": "Shichisei no Subaru",
+    "animegg_url": "https://www.animegg.org/series/shichisei-no-subaru",
+    "mal_url": "https://myanimelist.net/anime/36316",
+    "mal_id": 36316,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/91760",
+        "dub": null,
+        "url": "https://www.animegg.org/shichisei-no-subaru-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/91908",
+        "dub": null,
+        "url": "https://www.animegg.org/shichisei-no-subaru-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/91909",
+        "dub": null,
+        "url": "https://www.animegg.org/shichisei-no-subaru-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/92033",
+        "dub": null,
+        "url": "https://www.animegg.org/shichisei-no-subaru-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/92149",
+        "dub": null,
+        "url": "https://www.animegg.org/shichisei-no-subaru-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/92228",
+        "dub": null,
+        "url": "https://www.animegg.org/shichisei-no-subaru-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/92310",
+        "dub": null,
+        "url": "https://www.animegg.org/shichisei-no-subaru-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/92501",
+        "dub": null,
+        "url": "https://www.animegg.org/shichisei-no-subaru-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/92675",
+        "dub": null,
+        "url": "https://www.animegg.org/shichisei-no-subaru-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/92808",
+        "dub": null,
+        "url": "https://www.animegg.org/shichisei-no-subaru-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/92841",
+        "dub": null,
+        "url": "https://www.animegg.org/shichisei-no-subaru-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/92916",
+        "dub": null,
+        "url": "https://www.animegg.org/shichisei-no-subaru-episode-12"
+      }
+    ]
   }
 ]
