@@ -127587,5 +127587,39 @@
         "url": "https://www.animegg.org/shin-koihime-musou-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2610,
+    "title": "Corpse Party: Tortured Souls - Bougyakusareta Tamashii no Jukyou",
+    "animegg_url": "https://www.animegg.org/series/corpse-party-tortured-souls---bougyakusareta-tamashii-no-jukyou",
+    "mal_url": "https://myanimelist.net/anime/15037",
+    "mal_id": 15037,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/6334",
+        "dub": null,
+        "url": "https://www.animegg.org/corpse-party-tortured-souls---bougyakusareta-tamashii-no-jukyou-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/6331",
+        "dub": null,
+        "url": "https://www.animegg.org/corpse-party-tortured-souls---bougyakusareta-tamashii-no-jukyou-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/6332",
+        "dub": null,
+        "url": "https://www.animegg.org/corpse-party-tortured-souls---bougyakusareta-tamashii-no-jukyou-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/6333",
+        "dub": null,
+        "url": "https://www.animegg.org/corpse-party-tortured-souls---bougyakusareta-tamashii-no-jukyou-episode-4"
+      }
+    ]
   }
 ]
