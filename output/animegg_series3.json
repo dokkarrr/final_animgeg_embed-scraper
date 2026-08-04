@@ -107002,5 +107002,99 @@
         "url": "https://www.animegg.org/evil-or-live-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2403,
+    "title": "Onee-chan ga Kita",
+    "animegg_url": "https://www.animegg.org/series/onee-chan-ga-kita",
+    "mal_url": "https://myanimelist.net/anime/23427",
+    "mal_id": 23427,
+    "total_ep": 14,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/58991",
+        "dub": null,
+        "url": "https://www.animegg.org/onee-chan-ga-kita-episode-1"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/59003",
+        "dub": null,
+        "url": "https://www.animegg.org/onee-chan-ga-kita-episode-0"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/58992",
+        "dub": null,
+        "url": "https://www.animegg.org/onee-chan-ga-kita-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/58993",
+        "dub": null,
+        "url": "https://www.animegg.org/onee-chan-ga-kita-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/58994",
+        "dub": null,
+        "url": "https://www.animegg.org/onee-chan-ga-kita-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/58995",
+        "dub": null,
+        "url": "https://www.animegg.org/onee-chan-ga-kita-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/58996",
+        "dub": null,
+        "url": "https://www.animegg.org/onee-chan-ga-kita-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/58997",
+        "dub": null,
+        "url": "https://www.animegg.org/onee-chan-ga-kita-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/58998",
+        "dub": null,
+        "url": "https://www.animegg.org/onee-chan-ga-kita-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/58999",
+        "dub": null,
+        "url": "https://www.animegg.org/onee-chan-ga-kita-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/59000",
+        "dub": null,
+        "url": "https://www.animegg.org/onee-chan-ga-kita-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/59001",
+        "dub": null,
+        "url": "https://www.animegg.org/onee-chan-ga-kita-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/59002",
+        "dub": null,
+        "url": "https://www.animegg.org/onee-chan-ga-kita-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/onee-chan-ga-kita-episode-13"
+      }
+    ]
   }
 ]
