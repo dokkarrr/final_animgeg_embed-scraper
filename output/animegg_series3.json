@@ -124361,5 +124361,21 @@
         "url": "https://www.animegg.org/nazotokine-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2576,
+    "title": "One Piece: Episode of Merry - Mou Hitori no Nakama no Monogatari",
+    "animegg_url": "https://www.animegg.org/series/one-piece-episode-of-merry---mou-hitori-no-nakama-no-monogatari",
+    "mal_url": "https://myanimelist.net/anime/19123",
+    "mal_id": 19123,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/27638",
+        "dub": null,
+        "url": "https://www.animegg.org/one-piece-episode-of-merry---mou-hitori-no-nakama-no-monogatari-episode-1"
+      }
+    ]
   }
 ]
