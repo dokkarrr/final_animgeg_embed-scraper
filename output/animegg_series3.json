@@ -29832,5 +29832,87 @@
         "url": "https://www.animegg.org/flying-witch-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1751,
+    "title": "Green Green",
+    "animegg_url": "https://www.animegg.org/series/green-green",
+    "mal_url": "https://myanimelist.net/anime/133",
+    "mal_id": 133,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/13499",
+        "dub": "https://www.animegg.org/embed/70938",
+        "url": "https://www.animegg.org/green-green-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/13497",
+        "dub": "https://www.animegg.org/embed/70939",
+        "url": "https://www.animegg.org/green-green-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/13498",
+        "dub": "https://www.animegg.org/embed/70940",
+        "url": "https://www.animegg.org/green-green-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/13495",
+        "dub": "https://www.animegg.org/embed/70941",
+        "url": "https://www.animegg.org/green-green-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/13496",
+        "dub": "https://www.animegg.org/embed/70942",
+        "url": "https://www.animegg.org/green-green-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/13500",
+        "dub": "https://www.animegg.org/embed/70943",
+        "url": "https://www.animegg.org/green-green-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/13502",
+        "dub": "https://www.animegg.org/embed/70944",
+        "url": "https://www.animegg.org/green-green-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/13501",
+        "dub": "https://www.animegg.org/embed/70945",
+        "url": "https://www.animegg.org/green-green-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/13503",
+        "dub": "https://www.animegg.org/embed/70946",
+        "url": "https://www.animegg.org/green-green-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/13504",
+        "dub": "https://www.animegg.org/embed/70947",
+        "url": "https://www.animegg.org/green-green-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/13505",
+        "dub": "https://www.animegg.org/embed/70948",
+        "url": "https://www.animegg.org/green-green-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/13506",
+        "dub": "https://www.animegg.org/embed/70949",
+        "url": "https://www.animegg.org/green-green-episode-12"
+      }
+    ]
   }
 ]
