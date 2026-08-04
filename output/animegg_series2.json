@@ -7222,5 +7222,21 @@
         "url": "https://www.animegg.org/arc-the-lad-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 544,
+    "title": "Aki-Sora",
+    "animegg_url": "https://www.animegg.org/series/aki-sora",
+    "mal_url": "https://myanimelist.net/anime/6987",
+    "mal_id": 6987,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/46706",
+        "dub": null,
+        "url": "https://www.animegg.org/aki-sora-episode-1"
+      }
+    ]
   }
 ]
