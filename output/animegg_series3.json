@@ -98112,5 +98112,93 @@
         "url": "https://www.animegg.org/to-aru-kagaku-no-accelerator-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2312,
+    "title": "Slayers Evolution-R",
+    "animegg_url": "https://www.animegg.org/series/slayers-evolution-r",
+    "mal_url": "https://myanimelist.net/anime/5233",
+    "mal_id": 5233,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/35552",
+        "dub": "https://www.animegg.org/embed/35553",
+        "url": "https://www.animegg.org/slayers-evolution-r-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/35560",
+        "dub": "https://www.animegg.org/embed/35561",
+        "url": "https://www.animegg.org/slayers-evolution-r-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/35556",
+        "dub": "https://www.animegg.org/embed/35557",
+        "url": "https://www.animegg.org/slayers-evolution-r-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/35554",
+        "dub": "https://www.animegg.org/embed/35555",
+        "url": "https://www.animegg.org/slayers-evolution-r-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/35558",
+        "dub": "https://www.animegg.org/embed/35559",
+        "url": "https://www.animegg.org/slayers-evolution-r-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/35562",
+        "dub": "https://www.animegg.org/embed/35563",
+        "url": "https://www.animegg.org/slayers-evolution-r-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/35566",
+        "dub": "https://www.animegg.org/embed/35567",
+        "url": "https://www.animegg.org/slayers-evolution-r-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/35568",
+        "dub": "https://www.animegg.org/embed/35569",
+        "url": "https://www.animegg.org/slayers-evolution-r-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/35564",
+        "dub": "https://www.animegg.org/embed/35565",
+        "url": "https://www.animegg.org/slayers-evolution-r-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/35570",
+        "dub": "https://www.animegg.org/embed/35571",
+        "url": "https://www.animegg.org/slayers-evolution-r-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/35574",
+        "dub": "https://www.animegg.org/embed/35575",
+        "url": "https://www.animegg.org/slayers-evolution-r-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/35572",
+        "dub": "https://www.animegg.org/embed/35573",
+        "url": "https://www.animegg.org/slayers-evolution-r-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/35576",
+        "dub": "https://www.animegg.org/embed/35577",
+        "url": "https://www.animegg.org/slayers-evolution-r-episode-13"
+      }
+    ]
   }
 ]
