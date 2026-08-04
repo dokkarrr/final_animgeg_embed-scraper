@@ -126144,5 +126144,81 @@
         "url": "https://www.animegg.org/handa-kun-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1248,
+    "title": "Nisemonogatari",
+    "animegg_url": "https://www.animegg.org/series/nisemonogatari",
+    "mal_url": "https://myanimelist.net/anime/11597",
+    "mal_id": 11597,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/27222",
+        "dub": null,
+        "url": "https://www.animegg.org/nisemonogatari-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/27220",
+        "dub": null,
+        "url": "https://www.animegg.org/nisemonogatari-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/27219",
+        "dub": null,
+        "url": "https://www.animegg.org/nisemonogatari-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/27221",
+        "dub": null,
+        "url": "https://www.animegg.org/nisemonogatari-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/27218",
+        "dub": null,
+        "url": "https://www.animegg.org/nisemonogatari-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/27223",
+        "dub": null,
+        "url": "https://www.animegg.org/nisemonogatari-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/27224",
+        "dub": null,
+        "url": "https://www.animegg.org/nisemonogatari-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/27227",
+        "dub": null,
+        "url": "https://www.animegg.org/nisemonogatari-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/27225",
+        "dub": null,
+        "url": "https://www.animegg.org/nisemonogatari-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/27226",
+        "dub": null,
+        "url": "https://www.animegg.org/nisemonogatari-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/27228",
+        "dub": null,
+        "url": "https://www.animegg.org/nisemonogatari-episode-11"
+      }
+    ]
   }
 ]
