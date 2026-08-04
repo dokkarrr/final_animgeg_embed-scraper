@@ -76744,5 +76744,87 @@
         "url": "https://www.animegg.org/hayate-no-gotoku-cant-take-my-eyes-off-you-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2139,
+    "title": "Chu-Bra!!",
+    "animegg_url": "https://www.animegg.org/series/chu-bra",
+    "mal_url": "https://myanimelist.net/anime/6645",
+    "mal_id": 6645,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/5925",
+        "dub": null,
+        "url": "https://www.animegg.org/chu-bra-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/5923",
+        "dub": null,
+        "url": "https://www.animegg.org/chu-bra-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/5924",
+        "dub": "https://www.animegg.org/embed/143973",
+        "url": "https://www.animegg.org/chu-bra-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/5922",
+        "dub": "https://www.animegg.org/embed/143983",
+        "url": "https://www.animegg.org/chu-bra-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/5921",
+        "dub": "https://www.animegg.org/embed/144048",
+        "url": "https://www.animegg.org/chu-bra-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/5926",
+        "dub": "https://www.animegg.org/embed/144215",
+        "url": "https://www.animegg.org/chu-bra-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/5928",
+        "dub": null,
+        "url": "https://www.animegg.org/chu-bra-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/5927",
+        "dub": null,
+        "url": "https://www.animegg.org/chu-bra-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/5930",
+        "dub": null,
+        "url": "https://www.animegg.org/chu-bra-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/5929",
+        "dub": null,
+        "url": "https://www.animegg.org/chu-bra-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/5931",
+        "dub": "https://www.animegg.org/embed/144656",
+        "url": "https://www.animegg.org/chu-bra-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/5932",
+        "dub": "https://www.animegg.org/embed/144758",
+        "url": "https://www.animegg.org/chu-bra-episode-12"
+      }
+    ]
   }
 ]
