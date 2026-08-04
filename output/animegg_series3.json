@@ -60110,5 +60110,87 @@
         "url": "https://www.animegg.org/i-my-me-strawberry-eggs-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 1978,
+    "title": "Hand Shakers",
+    "animegg_url": "https://www.animegg.org/series/hand-shakers",
+    "mal_url": "https://myanimelist.net/anime/32981",
+    "mal_id": 32981,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/85439",
+        "dub": "https://www.animegg.org/embed/85441",
+        "url": "https://www.animegg.org/hand-shakers-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/85533",
+        "dub": null,
+        "url": "https://www.animegg.org/hand-shakers-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/85624",
+        "dub": null,
+        "url": "https://www.animegg.org/hand-shakers-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/85721",
+        "dub": null,
+        "url": "https://www.animegg.org/hand-shakers-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/85800",
+        "dub": null,
+        "url": "https://www.animegg.org/hand-shakers-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/85887",
+        "dub": null,
+        "url": "https://www.animegg.org/hand-shakers-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/85962",
+        "dub": null,
+        "url": "https://www.animegg.org/hand-shakers-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/86064",
+        "dub": null,
+        "url": "https://www.animegg.org/hand-shakers-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/86142",
+        "dub": null,
+        "url": "https://www.animegg.org/hand-shakers-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/86228",
+        "dub": null,
+        "url": "https://www.animegg.org/hand-shakers-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/86299",
+        "dub": null,
+        "url": "https://www.animegg.org/hand-shakers-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/86372",
+        "dub": null,
+        "url": "https://www.animegg.org/hand-shakers-episode-12"
+      }
+    ]
   }
 ]
