@@ -104768,5 +104768,99 @@
         "url": "https://www.animegg.org/ikkitousen-great-guardians-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2380,
+    "title": "Hyakko",
+    "animegg_url": "https://www.animegg.org/series/hyakko",
+    "mal_url": "https://myanimelist.net/anime/4550",
+    "mal_id": 4550,
+    "total_ep": 14,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/17241",
+        "dub": null,
+        "url": "https://www.animegg.org/hyakko-episode"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/17231",
+        "dub": null,
+        "url": "https://www.animegg.org/hyakko-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/17229",
+        "dub": null,
+        "url": "https://www.animegg.org/hyakko-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/17232",
+        "dub": null,
+        "url": "https://www.animegg.org/hyakko-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/17228",
+        "dub": null,
+        "url": "https://www.animegg.org/hyakko-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/17230",
+        "dub": null,
+        "url": "https://www.animegg.org/hyakko-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/17233",
+        "dub": null,
+        "url": "https://www.animegg.org/hyakko-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/17235",
+        "dub": null,
+        "url": "https://www.animegg.org/hyakko-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/17234",
+        "dub": null,
+        "url": "https://www.animegg.org/hyakko-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/17237",
+        "dub": null,
+        "url": "https://www.animegg.org/hyakko-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/17236",
+        "dub": null,
+        "url": "https://www.animegg.org/hyakko-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/17238",
+        "dub": null,
+        "url": "https://www.animegg.org/hyakko-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/17239",
+        "dub": null,
+        "url": "https://www.animegg.org/hyakko-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/17240",
+        "dub": null,
+        "url": "https://www.animegg.org/hyakko-episode-13"
+      }
+    ]
   }
 ]
