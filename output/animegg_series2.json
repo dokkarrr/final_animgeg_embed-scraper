@@ -109354,5 +109354,75 @@
         "url": "https://www.animegg.org/ghost-slayers-ayashi-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 1135,
+    "title": "Super Lovers",
+    "animegg_url": "https://www.animegg.org/series/super-lovers",
+    "mal_url": "https://myanimelist.net/anime/31680",
+    "mal_id": 31680,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/81828",
+        "dub": null,
+        "url": "https://www.animegg.org/super-lovers-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/81923",
+        "dub": null,
+        "url": "https://www.animegg.org/super-lovers-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/82016",
+        "dub": null,
+        "url": "https://www.animegg.org/super-lovers-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/82088",
+        "dub": null,
+        "url": "https://www.animegg.org/super-lovers-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/82190",
+        "dub": null,
+        "url": "https://www.animegg.org/super-lovers-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/82268",
+        "dub": null,
+        "url": "https://www.animegg.org/super-lovers-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/82354",
+        "dub": null,
+        "url": "https://www.animegg.org/super-lovers-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/82451",
+        "dub": null,
+        "url": "https://www.animegg.org/super-lovers-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/82533",
+        "dub": null,
+        "url": "https://www.animegg.org/super-lovers-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/82627",
+        "dub": null,
+        "url": "https://www.animegg.org/super-lovers-episode-10"
+      }
+    ]
   }
 ]
