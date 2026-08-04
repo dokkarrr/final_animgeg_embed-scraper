@@ -93542,5 +93542,93 @@
         "url": "https://www.animegg.org/mega-man-star-force-tribe-episode-21"
       }
     ]
+  },
+  {
+    "serial_no": 2266,
+    "title": "Seikaisuru Kado",
+    "animegg_url": "https://www.animegg.org/series/seikaisuru-kado",
+    "mal_url": "https://myanimelist.net/anime/32032",
+    "mal_id": 32032,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/86468",
+        "dub": null,
+        "url": "https://www.animegg.org/seikaisuru-kado-episode-0"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/86469",
+        "dub": null,
+        "url": "https://www.animegg.org/seikaisuru-kado-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/86572",
+        "dub": null,
+        "url": "https://www.animegg.org/seikaisuru-kado-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/86658",
+        "dub": null,
+        "url": "https://www.animegg.org/seikaisuru-kado-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/86748",
+        "dub": null,
+        "url": "https://www.animegg.org/seikaisuru-kado-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/86826",
+        "dub": null,
+        "url": "https://www.animegg.org/seikaisuru-kado-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/86904",
+        "dub": null,
+        "url": "https://www.animegg.org/seikaisuru-kado-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/86985",
+        "dub": null,
+        "url": "https://www.animegg.org/seikaisuru-kado-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/87063",
+        "dub": null,
+        "url": "https://www.animegg.org/seikaisuru-kado-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/87232",
+        "dub": null,
+        "url": "https://www.animegg.org/seikaisuru-kado-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/87300",
+        "dub": null,
+        "url": "https://www.animegg.org/seikaisuru-kado-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/87375",
+        "dub": null,
+        "url": "https://www.animegg.org/seikaisuru-kado-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/87434",
+        "dub": null,
+        "url": "https://www.animegg.org/seikaisuru-kado-episode-12"
+      }
+    ]
   }
 ]
