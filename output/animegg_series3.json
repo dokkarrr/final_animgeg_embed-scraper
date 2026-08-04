@@ -68440,5 +68440,87 @@
         "url": "https://www.animegg.org/gunslinger-girl-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2061,
+    "title": "Kakumeiki Valvrave 2",
+    "animegg_url": "https://www.animegg.org/series/kakumeiki-valvrave-2",
+    "mal_url": "https://myanimelist.net/anime/18295",
+    "mal_id": 18295,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/19133",
+        "dub": null,
+        "url": "https://www.animegg.org/kakumeiki-valvrave-2-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/19131",
+        "dub": null,
+        "url": "https://www.animegg.org/kakumeiki-valvrave-2-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/19130",
+        "dub": null,
+        "url": "https://www.animegg.org/kakumeiki-valvrave-2-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/19132",
+        "dub": null,
+        "url": "https://www.animegg.org/kakumeiki-valvrave-2-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/19129",
+        "dub": null,
+        "url": "https://www.animegg.org/kakumeiki-valvrave-2-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/19128",
+        "dub": null,
+        "url": "https://www.animegg.org/kakumeiki-valvrave-2-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/19127",
+        "dub": null,
+        "url": "https://www.animegg.org/kakumeiki-valvrave-2-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/19122",
+        "dub": null,
+        "url": "https://www.animegg.org/kakumeiki-valvrave-2-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/19123",
+        "dub": null,
+        "url": "https://www.animegg.org/kakumeiki-valvrave-2-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/19125",
+        "dub": null,
+        "url": "https://www.animegg.org/kakumeiki-valvrave-2-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/19124",
+        "dub": null,
+        "url": "https://www.animegg.org/kakumeiki-valvrave-2-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/19126",
+        "dub": null,
+        "url": "https://www.animegg.org/kakumeiki-valvrave-2-episode-1"
+      }
+    ]
   }
 ]
