@@ -38082,5 +38082,93 @@
         "url": "https://www.animegg.org/amaenaideyo-katsu-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1805,
+    "title": "Himegoto",
+    "animegg_url": "https://www.animegg.org/series/himegoto",
+    "mal_url": "https://myanimelist.net/anime/22835",
+    "mal_id": 22835,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/51608",
+        "dub": "https://www.animegg.org/embed/51609",
+        "url": "https://www.animegg.org/himegoto-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/51610",
+        "dub": "https://www.animegg.org/embed/51611",
+        "url": "https://www.animegg.org/himegoto-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/51612",
+        "dub": "https://www.animegg.org/embed/51613",
+        "url": "https://www.animegg.org/himegoto-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/51614",
+        "dub": "https://www.animegg.org/embed/51615",
+        "url": "https://www.animegg.org/himegoto-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/51616",
+        "dub": "https://www.animegg.org/embed/51617",
+        "url": "https://www.animegg.org/himegoto-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/51618",
+        "dub": null,
+        "url": "https://www.animegg.org/himegoto-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/51619",
+        "dub": "https://www.animegg.org/embed/51620",
+        "url": "https://www.animegg.org/himegoto-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/51621",
+        "dub": "https://www.animegg.org/embed/51622",
+        "url": "https://www.animegg.org/himegoto-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/51623",
+        "dub": null,
+        "url": "https://www.animegg.org/himegoto-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/51624",
+        "dub": null,
+        "url": "https://www.animegg.org/himegoto-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/51625",
+        "dub": null,
+        "url": "https://www.animegg.org/himegoto-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/51626",
+        "dub": "https://www.animegg.org/embed/51627",
+        "url": "https://www.animegg.org/himegoto-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/51628",
+        "dub": null,
+        "url": "https://www.animegg.org/himegoto-episode-13"
+      }
+    ]
   }
 ]
