@@ -114610,5 +114610,87 @@
         "url": "https://www.animegg.org/akkun-to-kanojo-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 1168,
+    "title": "Acchi Kocchi",
+    "animegg_url": "https://www.animegg.org/series/acchi-kocchi",
+    "mal_url": "https://myanimelist.net/anime/12291",
+    "mal_id": 12291,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/399",
+        "dub": null,
+        "url": "https://www.animegg.org/acchi-kocchi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/396",
+        "dub": null,
+        "url": "https://www.animegg.org/acchi-kocchi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/398",
+        "dub": null,
+        "url": "https://www.animegg.org/acchi-kocchi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/397",
+        "dub": null,
+        "url": "https://www.animegg.org/acchi-kocchi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/395",
+        "dub": null,
+        "url": "https://www.animegg.org/acchi-kocchi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/400",
+        "dub": null,
+        "url": "https://www.animegg.org/acchi-kocchi-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/402",
+        "dub": null,
+        "url": "https://www.animegg.org/acchi-kocchi-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/401",
+        "dub": null,
+        "url": "https://www.animegg.org/acchi-kocchi-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/403",
+        "dub": null,
+        "url": "https://www.animegg.org/acchi-kocchi-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/404",
+        "dub": null,
+        "url": "https://www.animegg.org/acchi-kocchi-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/405",
+        "dub": null,
+        "url": "https://www.animegg.org/acchi-kocchi-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/406",
+        "dub": null,
+        "url": "https://www.animegg.org/acchi-kocchi-episode-12"
+      }
+    ]
   }
 ]
