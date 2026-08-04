@@ -372,5 +372,93 @@
         "url": "https://www.animegg.org/pokemon-best-wishes-season-2-dekorora-adventure-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 1544,
+    "title": "Amatsuki",
+    "animegg_url": "https://www.animegg.org/series/amatsuki",
+    "mal_url": "https://myanimelist.net/anime/3359",
+    "mal_id": 3359,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/1066",
+        "dub": null,
+        "url": "https://www.animegg.org/amatsuki-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/1064",
+        "dub": null,
+        "url": "https://www.animegg.org/amatsuki-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/1067",
+        "dub": null,
+        "url": "https://www.animegg.org/amatsuki-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/1063",
+        "dub": null,
+        "url": "https://www.animegg.org/amatsuki-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/1065",
+        "dub": null,
+        "url": "https://www.animegg.org/amatsuki-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/1070",
+        "dub": null,
+        "url": "https://www.animegg.org/amatsuki-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/1068",
+        "dub": null,
+        "url": "https://www.animegg.org/amatsuki-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/1069",
+        "dub": null,
+        "url": "https://www.animegg.org/amatsuki-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/1071",
+        "dub": null,
+        "url": "https://www.animegg.org/amatsuki-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/1072",
+        "dub": null,
+        "url": "https://www.animegg.org/amatsuki-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/1073",
+        "dub": null,
+        "url": "https://www.animegg.org/amatsuki-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/1074",
+        "dub": null,
+        "url": "https://www.animegg.org/amatsuki-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/1075",
+        "dub": null,
+        "url": "https://www.animegg.org/amatsuki-episode-13"
+      }
+    ]
   }
 ]
