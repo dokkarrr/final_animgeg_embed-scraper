@@ -2076,5 +2076,93 @@
         "url": "https://www.animegg.org/medaka-box-abnormal-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1559,
+    "title": "Blade & Soul",
+    "animegg_url": "https://www.animegg.org/series/blade-soul",
+    "mal_url": "https://myanimelist.net/anime/22547",
+    "mal_id": 22547,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/3290",
+        "dub": null,
+        "url": "https://www.animegg.org/blade-soul-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/3289",
+        "dub": null,
+        "url": "https://www.animegg.org/blade-soul-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/3288",
+        "dub": null,
+        "url": "https://www.animegg.org/blade-soul-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/3286",
+        "dub": null,
+        "url": "https://www.animegg.org/blade-soul-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/3287",
+        "dub": null,
+        "url": "https://www.animegg.org/blade-soul-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/3291",
+        "dub": null,
+        "url": "https://www.animegg.org/blade-soul-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/3292",
+        "dub": null,
+        "url": "https://www.animegg.org/blade-soul-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/3293",
+        "dub": null,
+        "url": "https://www.animegg.org/blade-soul-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/3294",
+        "dub": "https://www.animegg.org/embed/3295",
+        "url": "https://www.animegg.org/blade-soul-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/3296",
+        "dub": null,
+        "url": "https://www.animegg.org/blade-soul-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/3297",
+        "dub": "https://www.animegg.org/embed/3298",
+        "url": "https://www.animegg.org/blade-soul-episode"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/3299",
+        "dub": "https://www.animegg.org/embed/3300",
+        "url": "https://www.animegg.org/blade-soul-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/3301",
+        "dub": null,
+        "url": "https://www.animegg.org/blade-soul-episode-13"
+      }
+    ]
   }
 ]
