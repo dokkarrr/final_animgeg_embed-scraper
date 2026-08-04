@@ -56986,5 +56986,51 @@
         "url": "https://www.animegg.org/space-dandy-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 1947,
+    "title": "Seirei Tsukai no Blade Dance Specials",
+    "animegg_url": "https://www.animegg.org/series/seirei-tsukai-no-blade-dance-specials",
+    "mal_url": "https://myanimelist.net/anime/22877",
+    "mal_id": 22877,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66501",
+        "dub": null,
+        "url": "https://www.animegg.org/seirei-tsukai-no-blade-dance-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/66502",
+        "dub": "https://www.animegg.org/embed/66520",
+        "url": "https://www.animegg.org/seirei-tsukai-no-blade-dance-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/67488",
+        "dub": "https://www.animegg.org/embed/67495",
+        "url": "https://www.animegg.org/seirei-tsukai-no-blade-dance-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/73990",
+        "dub": null,
+        "url": "https://www.animegg.org/seirei-tsukai-no-blade-dance-specials-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/74993",
+        "dub": null,
+        "url": "https://www.animegg.org/seirei-tsukai-no-blade-dance-specials-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/76273",
+        "dub": null,
+        "url": "https://www.animegg.org/seirei-tsukai-no-blade-dance-specials-episode-6"
+      }
+    ]
   }
 ]
