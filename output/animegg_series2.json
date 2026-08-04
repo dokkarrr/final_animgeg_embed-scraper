@@ -55576,5 +55576,87 @@
         "url": "https://www.animegg.org/tatakau-shisho---the-book-of-bantorra-episode-27"
       }
     ]
+  },
+  {
+    "serial_no": 823,
+    "title": "Kami nomi zo Shiru Sekai",
+    "animegg_url": "https://www.animegg.org/series/the-world-god-only-knows",
+    "mal_url": "https://myanimelist.net/anime/8525",
+    "mal_id": 8525,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/38022",
+        "dub": "https://www.animegg.org/embed/38023",
+        "url": "https://www.animegg.org/the-world-god-only-knows-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/38016",
+        "dub": "https://www.animegg.org/embed/38017",
+        "url": "https://www.animegg.org/the-world-god-only-knows-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/38014",
+        "dub": "https://www.animegg.org/embed/38015",
+        "url": "https://www.animegg.org/the-world-god-only-knows-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/38018",
+        "dub": "https://www.animegg.org/embed/38019",
+        "url": "https://www.animegg.org/the-world-god-only-knows-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/38020",
+        "dub": "https://www.animegg.org/embed/38021",
+        "url": "https://www.animegg.org/the-world-god-only-knows-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/38024",
+        "dub": "https://www.animegg.org/embed/38025",
+        "url": "https://www.animegg.org/the-world-god-only-knows-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/38030",
+        "dub": "https://www.animegg.org/embed/38031",
+        "url": "https://www.animegg.org/the-world-god-only-knows-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/38026",
+        "dub": "https://www.animegg.org/embed/38027",
+        "url": "https://www.animegg.org/the-world-god-only-knows-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/38028",
+        "dub": "https://www.animegg.org/embed/38029",
+        "url": "https://www.animegg.org/the-world-god-only-knows-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/38032",
+        "dub": "https://www.animegg.org/embed/38033",
+        "url": "https://www.animegg.org/the-world-god-only-knows-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/38034",
+        "dub": "https://www.animegg.org/embed/38035",
+        "url": "https://www.animegg.org/the-world-god-only-knows-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/38036",
+        "dub": "https://www.animegg.org/embed/76649",
+        "url": "https://www.animegg.org/the-world-god-only-knows-episode-12"
+      }
+    ]
   }
 ]
