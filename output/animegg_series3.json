@@ -75994,5 +75994,87 @@
         "url": "https://www.animegg.org/sora-no-otoshimono-forte-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2130,
+    "title": "Dumbbell Nan Kilo Moteru?",
+    "animegg_url": "https://www.animegg.org/series/dumbbell-nan-kilo-moteru",
+    "mal_url": "https://myanimelist.net/anime/39026",
+    "mal_id": 39026,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/95809",
+        "dub": null,
+        "url": "https://www.animegg.org/dumbbell-nan-kilo-moteru-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/95874",
+        "dub": null,
+        "url": "https://www.animegg.org/dumbbell-nan-kilo-moteru-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/95951",
+        "dub": null,
+        "url": "https://www.animegg.org/dumbbell-nan-kilo-moteru-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/96014",
+        "dub": null,
+        "url": "https://www.animegg.org/dumbbell-nan-kilo-moteru-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/96071",
+        "dub": null,
+        "url": "https://www.animegg.org/dumbbell-nan-kilo-moteru-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/96130",
+        "dub": null,
+        "url": "https://www.animegg.org/dumbbell-nan-kilo-moteru-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/96190",
+        "dub": null,
+        "url": "https://www.animegg.org/dumbbell-nan-kilo-moteru-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/96251",
+        "dub": null,
+        "url": "https://www.animegg.org/dumbbell-nan-kilo-moteru-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/96312",
+        "dub": null,
+        "url": "https://www.animegg.org/dumbbell-nan-kilo-moteru-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/96369",
+        "dub": null,
+        "url": "https://www.animegg.org/dumbbell-nan-kilo-moteru-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/96429",
+        "dub": null,
+        "url": "https://www.animegg.org/dumbbell-nan-kilo-moteru-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/96485",
+        "dub": null,
+        "url": "https://www.animegg.org/dumbbell-nan-kilo-moteru-episode-12"
+      }
+    ]
   }
 ]
