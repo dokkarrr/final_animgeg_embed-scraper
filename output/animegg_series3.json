@@ -59534,5 +59534,93 @@
         "url": "https://www.animegg.org/fighting-beauty-wulong-rebirth-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 1972,
+    "title": "Kamisama Kazoku",
+    "animegg_url": "https://www.animegg.org/series/kamisama-kazoku",
+    "mal_url": "https://myanimelist.net/anime/990",
+    "mal_id": 990,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/19410",
+        "dub": null,
+        "url": "https://www.animegg.org/kamisama-kazoku-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/19407",
+        "dub": null,
+        "url": "https://www.animegg.org/kamisama-kazoku-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/19408",
+        "dub": null,
+        "url": "https://www.animegg.org/kamisama-kazoku-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/19411",
+        "dub": null,
+        "url": "https://www.animegg.org/kamisama-kazoku-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/19409",
+        "dub": null,
+        "url": "https://www.animegg.org/kamisama-kazoku-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/19414",
+        "dub": null,
+        "url": "https://www.animegg.org/kamisama-kazoku-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/19412",
+        "dub": null,
+        "url": "https://www.animegg.org/kamisama-kazoku-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/19413",
+        "dub": null,
+        "url": "https://www.animegg.org/kamisama-kazoku-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/19416",
+        "dub": null,
+        "url": "https://www.animegg.org/kamisama-kazoku-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/19415",
+        "dub": null,
+        "url": "https://www.animegg.org/kamisama-kazoku-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/19417",
+        "dub": null,
+        "url": "https://www.animegg.org/kamisama-kazoku-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/19418",
+        "dub": null,
+        "url": "https://www.animegg.org/kamisama-kazoku-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/19419",
+        "dub": null,
+        "url": "https://www.animegg.org/kamisama-kazoku-episode-13"
+      }
+    ]
   }
 ]
