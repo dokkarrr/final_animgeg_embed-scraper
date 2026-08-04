@@ -105418,5 +105418,93 @@
         "url": "https://www.animegg.org/himitsu-no-aipri-episode-49"
       }
     ]
+  },
+  {
+    "serial_no": 2385,
+    "title": "WWW.Working!!",
+    "animegg_url": "https://www.animegg.org/series/wwwworking",
+    "mal_url": "https://myanimelist.net/anime/33094",
+    "mal_id": 33094,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/84069",
+        "dub": null,
+        "url": "https://www.animegg.org/wwwworking-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/84168",
+        "dub": null,
+        "url": "https://www.animegg.org/wwwworking-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/84279",
+        "dub": null,
+        "url": "https://www.animegg.org/wwwworking-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/84387",
+        "dub": null,
+        "url": "https://www.animegg.org/wwwworking-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/84477",
+        "dub": null,
+        "url": "https://www.animegg.org/wwwworking-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/84582",
+        "dub": null,
+        "url": "https://www.animegg.org/wwwworking-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/84673",
+        "dub": null,
+        "url": "https://www.animegg.org/wwwworking-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/84767",
+        "dub": null,
+        "url": "https://www.animegg.org/wwwworking-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/84869",
+        "dub": null,
+        "url": "https://www.animegg.org/wwwworking-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/85048",
+        "dub": null,
+        "url": "https://www.animegg.org/wwwworking-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/85049",
+        "dub": null,
+        "url": "https://www.animegg.org/wwwworking-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/85153",
+        "dub": null,
+        "url": "https://www.animegg.org/wwwworking-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/85269",
+        "dub": null,
+        "url": "https://www.animegg.org/wwwworking-episode-13"
+      }
+    ]
   }
 ]
