@@ -89222,5 +89222,87 @@
         "url": "https://www.animegg.org/zombieland-saga-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2230,
+    "title": "Amanchu!",
+    "animegg_url": "https://www.animegg.org/series/amanchu",
+    "mal_url": "https://myanimelist.net/anime/31771",
+    "mal_id": 31771,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/82986",
+        "dub": null,
+        "url": "https://www.animegg.org/amanchu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/83083",
+        "dub": null,
+        "url": "https://www.animegg.org/amanchu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/83182",
+        "dub": null,
+        "url": "https://www.animegg.org/amanchu-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/83289",
+        "dub": null,
+        "url": "https://www.animegg.org/amanchu-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/83372",
+        "dub": null,
+        "url": "https://www.animegg.org/amanchu-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/83462",
+        "dub": null,
+        "url": "https://www.animegg.org/amanchu-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/83548",
+        "dub": null,
+        "url": "https://www.animegg.org/amanchu-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/83633",
+        "dub": null,
+        "url": "https://www.animegg.org/amanchu-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/83727",
+        "dub": null,
+        "url": "https://www.animegg.org/amanchu-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/83812",
+        "dub": null,
+        "url": "https://www.animegg.org/amanchu-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/83897",
+        "dub": null,
+        "url": "https://www.animegg.org/amanchu-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/83982",
+        "dub": null,
+        "url": "https://www.animegg.org/amanchu-episode-12"
+      }
+    ]
   }
 ]
