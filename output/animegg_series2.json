@@ -120182,5 +120182,99 @@
         "url": "https://www.animegg.org/ragnarok-the-animation-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 1205,
+    "title": "Working!!!",
+    "animegg_url": "https://www.animegg.org/series/working",
+    "mal_url": "https://myanimelist.net/anime/25879",
+    "mal_id": 25879,
+    "total_ep": 14,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/40634",
+        "dub": null,
+        "url": "https://www.animegg.org/working-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/40633",
+        "dub": null,
+        "url": "https://www.animegg.org/working-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/40632",
+        "dub": null,
+        "url": "https://www.animegg.org/working-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/40635",
+        "dub": null,
+        "url": "https://www.animegg.org/working-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/40631",
+        "dub": null,
+        "url": "https://www.animegg.org/working-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/40636",
+        "dub": null,
+        "url": "https://www.animegg.org/working-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/40637",
+        "dub": null,
+        "url": "https://www.animegg.org/working-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/40639",
+        "dub": null,
+        "url": "https://www.animegg.org/working-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/40638",
+        "dub": null,
+        "url": "https://www.animegg.org/working-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/40640",
+        "dub": null,
+        "url": "https://www.animegg.org/working-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/40642",
+        "dub": null,
+        "url": "https://www.animegg.org/working-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/40641",
+        "dub": null,
+        "url": "https://www.animegg.org/working-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/40643",
+        "dub": null,
+        "url": "https://www.animegg.org/working-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/working-episode-14"
+      }
+    ]
   }
 ]
