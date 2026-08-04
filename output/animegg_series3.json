@@ -42792,5 +42792,87 @@
         "url": "https://www.animegg.org/net-juu-no-susume-episode-11"
       }
     ]
+  },
+  {
+    "serial_no": 1850,
+    "title": "Ro-Kyu-Bu!",
+    "animegg_url": "https://www.animegg.org/series/ro-kyu-bu",
+    "mal_url": "https://myanimelist.net/anime/10572",
+    "mal_id": 10572,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/31933",
+        "dub": null,
+        "url": "https://www.animegg.org/ro-kyu-bu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/31930",
+        "dub": null,
+        "url": "https://www.animegg.org/ro-kyu-bu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/31932",
+        "dub": null,
+        "url": "https://www.animegg.org/ro-kyu-bu-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/31929",
+        "dub": null,
+        "url": "https://www.animegg.org/ro-kyu-bu-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/31931",
+        "dub": null,
+        "url": "https://www.animegg.org/ro-kyu-bu-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/31936",
+        "dub": null,
+        "url": "https://www.animegg.org/ro-kyu-bu-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/31934",
+        "dub": null,
+        "url": "https://www.animegg.org/ro-kyu-bu-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/31935",
+        "dub": null,
+        "url": "https://www.animegg.org/ro-kyu-bu-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/31937",
+        "dub": null,
+        "url": "https://www.animegg.org/ro-kyu-bu-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/31938",
+        "dub": null,
+        "url": "https://www.animegg.org/ro-kyu-bu-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/31939",
+        "dub": null,
+        "url": "https://www.animegg.org/ro-kyu-bu-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/31940",
+        "dub": null,
+        "url": "https://www.animegg.org/ro-kyu-bu-episode-12"
+      }
+    ]
   }
 ]
