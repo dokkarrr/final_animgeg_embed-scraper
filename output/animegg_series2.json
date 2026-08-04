@@ -61652,5 +61652,93 @@
         "url": "https://www.animegg.org/soul-eater-late-night-show-episode-51"
       }
     ]
+  },
+  {
+    "serial_no": 863,
+    "title": "Sankarea",
+    "animegg_url": "https://www.animegg.org/series/sankarea",
+    "mal_url": "https://myanimelist.net/anime/11499",
+    "mal_id": 11499,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/33373",
+        "dub": null,
+        "url": "https://www.animegg.org/sankarea-episode-13"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/33363",
+        "dub": null,
+        "url": "https://www.animegg.org/sankarea-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/33365",
+        "dub": null,
+        "url": "https://www.animegg.org/sankarea-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/33361",
+        "dub": null,
+        "url": "https://www.animegg.org/sankarea-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/33362",
+        "dub": null,
+        "url": "https://www.animegg.org/sankarea-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/33364",
+        "dub": null,
+        "url": "https://www.animegg.org/sankarea-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/33366",
+        "dub": "https://www.animegg.org/embed/92541",
+        "url": "https://www.animegg.org/sankarea-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/33370",
+        "dub": null,
+        "url": "https://www.animegg.org/sankarea-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/33368",
+        "dub": null,
+        "url": "https://www.animegg.org/sankarea-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/33367",
+        "dub": null,
+        "url": "https://www.animegg.org/sankarea-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/33369",
+        "dub": null,
+        "url": "https://www.animegg.org/sankarea-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/33371",
+        "dub": null,
+        "url": "https://www.animegg.org/sankarea-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/33372",
+        "dub": null,
+        "url": "https://www.animegg.org/sankarea-episode-12"
+      }
+    ]
   }
 ]
