@@ -60022,5 +60022,93 @@
         "url": "https://www.animegg.org/togainu-no-chi-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1977,
+    "title": "I My Me! Strawberry Eggs",
+    "animegg_url": "https://www.animegg.org/series/i-my-me-strawberry-eggs",
+    "mal_url": "https://myanimelist.net/anime/509",
+    "mal_id": 509,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/17312",
+        "dub": "https://www.animegg.org/embed/17313",
+        "url": "https://www.animegg.org/i-my-me-strawberry-eggs-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/17310",
+        "dub": "https://www.animegg.org/embed/17311",
+        "url": "https://www.animegg.org/i-my-me-strawberry-eggs-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/17304",
+        "dub": "https://www.animegg.org/embed/17305",
+        "url": "https://www.animegg.org/i-my-me-strawberry-eggs-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/17308",
+        "dub": "https://www.animegg.org/embed/17309",
+        "url": "https://www.animegg.org/i-my-me-strawberry-eggs-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/17306",
+        "dub": "https://www.animegg.org/embed/17307",
+        "url": "https://www.animegg.org/i-my-me-strawberry-eggs-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/17320",
+        "dub": "https://www.animegg.org/embed/17321",
+        "url": "https://www.animegg.org/i-my-me-strawberry-eggs-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/17314",
+        "dub": "https://www.animegg.org/embed/17315",
+        "url": "https://www.animegg.org/i-my-me-strawberry-eggs-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/17318",
+        "dub": "https://www.animegg.org/embed/17319",
+        "url": "https://www.animegg.org/i-my-me-strawberry-eggs-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/17316",
+        "dub": "https://www.animegg.org/embed/17317",
+        "url": "https://www.animegg.org/i-my-me-strawberry-eggs-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/17322",
+        "dub": "https://www.animegg.org/embed/17323",
+        "url": "https://www.animegg.org/i-my-me-strawberry-eggs-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/17328",
+        "dub": "https://www.animegg.org/embed/17329",
+        "url": "https://www.animegg.org/i-my-me-strawberry-eggs-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/17324",
+        "dub": "https://www.animegg.org/embed/17325",
+        "url": "https://www.animegg.org/i-my-me-strawberry-eggs-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/17326",
+        "dub": "https://www.animegg.org/embed/17327",
+        "url": "https://www.animegg.org/i-my-me-strawberry-eggs-episode-13"
+      }
+    ]
   }
 ]
