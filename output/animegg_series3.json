@@ -105110,5 +105110,93 @@
         "url": "https://www.animegg.org/genshiken-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 2383,
+    "title": "Tales Of Eternia",
+    "animegg_url": "https://www.animegg.org/series/tales-of-eternia",
+    "mal_url": "https://myanimelist.net/anime/445",
+    "mal_id": 445,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/37049",
+        "dub": null,
+        "url": "https://www.animegg.org/tales-of-eternia-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/37050",
+        "dub": null,
+        "url": "https://www.animegg.org/tales-of-eternia-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/37051",
+        "dub": null,
+        "url": "https://www.animegg.org/tales-of-eternia-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/37048",
+        "dub": null,
+        "url": "https://www.animegg.org/tales-of-eternia-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/37047",
+        "dub": null,
+        "url": "https://www.animegg.org/tales-of-eternia-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/37053",
+        "dub": null,
+        "url": "https://www.animegg.org/tales-of-eternia-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/37052",
+        "dub": null,
+        "url": "https://www.animegg.org/tales-of-eternia-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/37054",
+        "dub": null,
+        "url": "https://www.animegg.org/tales-of-eternia-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/37055",
+        "dub": null,
+        "url": "https://www.animegg.org/tales-of-eternia-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/37056",
+        "dub": null,
+        "url": "https://www.animegg.org/tales-of-eternia-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/37057",
+        "dub": null,
+        "url": "https://www.animegg.org/tales-of-eternia-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/37058",
+        "dub": null,
+        "url": "https://www.animegg.org/tales-of-eternia-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/37059",
+        "dub": null,
+        "url": "https://www.animegg.org/tales-of-eternia-episode-13"
+      }
+    ]
   }
 ]
