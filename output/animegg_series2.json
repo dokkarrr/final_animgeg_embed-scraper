@@ -13516,5 +13516,87 @@
         "url": "https://www.animegg.org/chihayafuru-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 580,
+    "title": "Akagami no Shirayuki-hime 2nd Season",
+    "animegg_url": "https://www.animegg.org/series/akagami-no-shirayuki-hime-2nd-season",
+    "mal_url": "https://myanimelist.net/anime/31173",
+    "mal_id": 31173,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/81729",
+        "dub": null,
+        "url": "https://www.animegg.org/akagami-no-shirayuki-hime-2nd-season-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/81641",
+        "dub": null,
+        "url": "https://www.animegg.org/akagami-no-shirayuki-hime-2nd-season-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/81550",
+        "dub": null,
+        "url": "https://www.animegg.org/akagami-no-shirayuki-hime-2nd-season-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/81448",
+        "dub": "https://www.animegg.org/embed/81821",
+        "url": "https://www.animegg.org/akagami-no-shirayuki-hime-2nd-season-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/81360",
+        "dub": "https://www.animegg.org/embed/81754",
+        "url": "https://www.animegg.org/akagami-no-shirayuki-hime-2nd-season-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/81237",
+        "dub": "https://www.animegg.org/embed/81755",
+        "url": "https://www.animegg.org/akagami-no-shirayuki-hime-2nd-season-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/81137",
+        "dub": null,
+        "url": "https://www.animegg.org/akagami-no-shirayuki-hime-2nd-season-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/81048",
+        "dub": null,
+        "url": "https://www.animegg.org/akagami-no-shirayuki-hime-2nd-season-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/80952",
+        "dub": null,
+        "url": "https://www.animegg.org/akagami-no-shirayuki-hime-2nd-season-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/80844",
+        "dub": null,
+        "url": "https://www.animegg.org/akagami-no-shirayuki-hime-2nd-season-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/80737",
+        "dub": null,
+        "url": "https://www.animegg.org/akagami-no-shirayuki-hime-2nd-season-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/80644",
+        "dub": null,
+        "url": "https://www.animegg.org/akagami-no-shirayuki-hime-2nd-season-episode-1"
+      }
+    ]
   }
 ]
