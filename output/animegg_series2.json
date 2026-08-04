@@ -11692,5 +11692,111 @@
         "url": "https://www.animegg.org/sukitte-ii-na-yo-episode-23"
       }
     ]
+  },
+  {
+    "serial_no": 568,
+    "title": "Baccano!",
+    "animegg_url": "https://www.animegg.org/series/baccano",
+    "mal_url": "https://myanimelist.net/anime/2251",
+    "mal_id": 2251,
+    "total_ep": 16,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/2249",
+        "dub": "https://www.animegg.org/embed/2250",
+        "url": "https://www.animegg.org/baccano-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/2245",
+        "dub": "https://www.animegg.org/embed/2246",
+        "url": "https://www.animegg.org/baccano-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/2243",
+        "dub": "https://www.animegg.org/embed/2244",
+        "url": "https://www.animegg.org/baccano-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/2241",
+        "dub": "https://www.animegg.org/embed/2242",
+        "url": "https://www.animegg.org/baccano-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/2247",
+        "dub": "https://www.animegg.org/embed/2248",
+        "url": "https://www.animegg.org/baccano-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/2253",
+        "dub": "https://www.animegg.org/embed/2254",
+        "url": "https://www.animegg.org/baccano-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/2255",
+        "dub": "https://www.animegg.org/embed/2256",
+        "url": "https://www.animegg.org/baccano-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/2251",
+        "dub": "https://www.animegg.org/embed/2252",
+        "url": "https://www.animegg.org/baccano-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/2257",
+        "dub": "https://www.animegg.org/embed/2258",
+        "url": "https://www.animegg.org/baccano-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/2259",
+        "dub": "https://www.animegg.org/embed/2260",
+        "url": "https://www.animegg.org/baccano-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/2263",
+        "dub": "https://www.animegg.org/embed/2264",
+        "url": "https://www.animegg.org/baccano-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/2265",
+        "dub": "https://www.animegg.org/embed/2266",
+        "url": "https://www.animegg.org/baccano-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/2261",
+        "dub": "https://www.animegg.org/embed/2262",
+        "url": "https://www.animegg.org/baccano-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/2267",
+        "dub": "https://www.animegg.org/embed/2268",
+        "url": "https://www.animegg.org/baccano-episode-14"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/2269",
+        "dub": "https://www.animegg.org/embed/2270",
+        "url": "https://www.animegg.org/baccano-episode-15"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/2271",
+        "dub": "https://www.animegg.org/embed/2272",
+        "url": "https://www.animegg.org/baccano-episode-16"
+      }
+    ]
   }
 ]
