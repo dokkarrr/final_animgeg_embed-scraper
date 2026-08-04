@@ -102826,5 +102826,93 @@
         "url": "https://www.animegg.org/fuuka-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1096,
+    "title": "Gintama. (2017) 2",
+    "animegg_url": "https://www.animegg.org/series/gintama-2017-2",
+    "mal_url": "https://myanimelist.net/anime/7472",
+    "mal_id": 7472,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 2017,
+        "sub": "https://www.animegg.org/embed/89492",
+        "dub": null,
+        "url": "https://www.animegg.org/gintama-2017-2-episode-13"
+      },
+      {
+        "ep": 2017,
+        "sub": "https://www.animegg.org/embed/89421",
+        "dub": null,
+        "url": "https://www.animegg.org/gintama-2017-2-episode-12"
+      },
+      {
+        "ep": 2017,
+        "sub": "https://www.animegg.org/embed/89345",
+        "dub": null,
+        "url": "https://www.animegg.org/gintama-2017-2-episode-11"
+      },
+      {
+        "ep": 2017,
+        "sub": "https://www.animegg.org/embed/89263",
+        "dub": null,
+        "url": "https://www.animegg.org/gintama-2017-2-episode-10"
+      },
+      {
+        "ep": 2017,
+        "sub": "https://www.animegg.org/embed/89194",
+        "dub": null,
+        "url": "https://www.animegg.org/gintama-2017-2-episode-9"
+      },
+      {
+        "ep": 2017,
+        "sub": "https://www.animegg.org/embed/89115",
+        "dub": null,
+        "url": "https://www.animegg.org/gintama-2017-2-episode-8"
+      },
+      {
+        "ep": 2017,
+        "sub": "https://www.animegg.org/embed/89029",
+        "dub": null,
+        "url": "https://www.animegg.org/gintama-2017-2-episode-7"
+      },
+      {
+        "ep": 2017,
+        "sub": "https://www.animegg.org/embed/88936",
+        "dub": null,
+        "url": "https://www.animegg.org/gintama-2017-2-episode-6"
+      },
+      {
+        "ep": 2017,
+        "sub": "https://www.animegg.org/embed/88849",
+        "dub": null,
+        "url": "https://www.animegg.org/gintama-2017-2-episode-5"
+      },
+      {
+        "ep": 2017,
+        "sub": "https://www.animegg.org/embed/88758",
+        "dub": null,
+        "url": "https://www.animegg.org/gintama-2017-2-episode-4"
+      },
+      {
+        "ep": 2017,
+        "sub": "https://www.animegg.org/embed/88684",
+        "dub": null,
+        "url": "https://www.animegg.org/gintama-2017-2-episode-3"
+      },
+      {
+        "ep": 2017,
+        "sub": "https://www.animegg.org/embed/88595",
+        "dub": null,
+        "url": "https://www.animegg.org/gintama-2017-2-episode-2"
+      },
+      {
+        "ep": 2017,
+        "sub": "https://www.animegg.org/embed/88475",
+        "dub": null,
+        "url": "https://www.animegg.org/gintama-2017-2-episode-1"
+      }
+    ]
   }
 ]
