@@ -110036,5 +110036,87 @@
         "url": "https://www.animegg.org/yuusha-raideen-episode-50"
       }
     ]
+  },
+  {
+    "serial_no": 1139,
+    "title": "Barakamon",
+    "animegg_url": "https://www.animegg.org/series/barakamon",
+    "mal_url": "https://myanimelist.net/anime/22789",
+    "mal_id": 22789,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/45648",
+        "dub": "https://www.animegg.org/embed/45649",
+        "url": "https://www.animegg.org/barakamon-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/45650",
+        "dub": null,
+        "url": "https://www.animegg.org/barakamon-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/45651",
+        "dub": null,
+        "url": "https://www.animegg.org/barakamon-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/45652",
+        "dub": null,
+        "url": "https://www.animegg.org/barakamon-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/45653",
+        "dub": null,
+        "url": "https://www.animegg.org/barakamon-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/45654",
+        "dub": null,
+        "url": "https://www.animegg.org/barakamon-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/45655",
+        "dub": null,
+        "url": "https://www.animegg.org/barakamon-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/45656",
+        "dub": null,
+        "url": "https://www.animegg.org/barakamon-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/45657",
+        "dub": null,
+        "url": "https://www.animegg.org/barakamon-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/45658",
+        "dub": null,
+        "url": "https://www.animegg.org/barakamon-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/45659",
+        "dub": null,
+        "url": "https://www.animegg.org/barakamon-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/45660",
+        "dub": null,
+        "url": "https://www.animegg.org/barakamon-episode-12"
+      }
+    ]
   }
 ]
