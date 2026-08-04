@@ -29914,5 +29914,93 @@
         "url": "https://www.animegg.org/green-green-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1752,
+    "title": "Onsen Yousei Hakone-chan",
+    "animegg_url": "https://www.animegg.org/series/onsen-yousei-hakone-chan",
+    "mal_url": "https://myanimelist.net/anime/31143",
+    "mal_id": 31143,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/79298",
+        "dub": "https://www.animegg.org/embed/79304",
+        "url": "https://www.animegg.org/onsen-yousei-hakone-chan-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/79431",
+        "dub": "https://www.animegg.org/embed/79438",
+        "url": "https://www.animegg.org/onsen-yousei-hakone-chan-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/79546",
+        "dub": null,
+        "url": "https://www.animegg.org/onsen-yousei-hakone-chan-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/79656",
+        "dub": null,
+        "url": "https://www.animegg.org/onsen-yousei-hakone-chan-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/79745",
+        "dub": null,
+        "url": "https://www.animegg.org/onsen-yousei-hakone-chan-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/79835",
+        "dub": null,
+        "url": "https://www.animegg.org/onsen-yousei-hakone-chan-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/79922",
+        "dub": null,
+        "url": "https://www.animegg.org/onsen-yousei-hakone-chan-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/80020",
+        "dub": null,
+        "url": "https://www.animegg.org/onsen-yousei-hakone-chan-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/80121",
+        "dub": null,
+        "url": "https://www.animegg.org/onsen-yousei-hakone-chan-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/80341",
+        "dub": null,
+        "url": "https://www.animegg.org/onsen-yousei-hakone-chan-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/80342",
+        "dub": null,
+        "url": "https://www.animegg.org/onsen-yousei-hakone-chan-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/80433",
+        "dub": null,
+        "url": "https://www.animegg.org/onsen-yousei-hakone-chan-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/80513",
+        "dub": null,
+        "url": "https://www.animegg.org/onsen-yousei-hakone-chan-episode-13"
+      }
+    ]
   }
 ]
