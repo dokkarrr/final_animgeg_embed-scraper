@@ -92496,5 +92496,93 @@
         "url": "https://www.animegg.org/dragon-ball-z-movie-15-fukkatsu-no-f-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 2255,
+    "title": "Zettai Bouei Leviathan",
+    "animegg_url": "https://www.animegg.org/series/zettai-bouei-leviathan",
+    "mal_url": "https://myanimelist.net/anime/17681",
+    "mal_id": 17681,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/25322",
+        "dub": "https://www.animegg.org/embed/75385",
+        "url": "https://www.animegg.org/zettai-bouei-leviathan-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/25313",
+        "dub": "https://www.animegg.org/embed/75384",
+        "url": "https://www.animegg.org/zettai-bouei-leviathan-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/25311",
+        "dub": "https://www.animegg.org/embed/75383",
+        "url": "https://www.animegg.org/zettai-bouei-leviathan-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/25312",
+        "dub": "https://www.animegg.org/embed/75382",
+        "url": "https://www.animegg.org/zettai-bouei-leviathan-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/25310",
+        "dub": "https://www.animegg.org/embed/75381",
+        "url": "https://www.animegg.org/zettai-bouei-leviathan-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/25316",
+        "dub": "https://www.animegg.org/embed/75380",
+        "url": "https://www.animegg.org/zettai-bouei-leviathan-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/25314",
+        "dub": "https://www.animegg.org/embed/75379",
+        "url": "https://www.animegg.org/zettai-bouei-leviathan-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/25315",
+        "dub": "https://www.animegg.org/embed/75378",
+        "url": "https://www.animegg.org/zettai-bouei-leviathan-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/25320",
+        "dub": "https://www.animegg.org/embed/75377",
+        "url": "https://www.animegg.org/zettai-bouei-leviathan-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/25317",
+        "dub": "https://www.animegg.org/embed/75376",
+        "url": "https://www.animegg.org/zettai-bouei-leviathan-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/25318",
+        "dub": "https://www.animegg.org/embed/75375",
+        "url": "https://www.animegg.org/zettai-bouei-leviathan-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/25319",
+        "dub": "https://www.animegg.org/embed/75374",
+        "url": "https://www.animegg.org/zettai-bouei-leviathan-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/25321",
+        "dub": "https://www.animegg.org/embed/75373",
+        "url": "https://www.animegg.org/zettai-bouei-leviathan-episode-13"
+      }
+    ]
   }
 ]
