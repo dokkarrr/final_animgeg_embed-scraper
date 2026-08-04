@@ -124796,5 +124796,87 @@
         "url": "https://www.animegg.org/watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1238,
+    "title": "Comet Lucifer",
+    "animegg_url": "https://www.animegg.org/series/comet-lucifer",
+    "mal_url": "https://myanimelist.net/anime/31318",
+    "mal_id": 31318,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/79301",
+        "dub": null,
+        "url": "https://www.animegg.org/comet-lucifer-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/79432",
+        "dub": null,
+        "url": "https://www.animegg.org/comet-lucifer-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/79536",
+        "dub": null,
+        "url": "https://www.animegg.org/comet-lucifer-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/79650",
+        "dub": null,
+        "url": "https://www.animegg.org/comet-lucifer-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/79740",
+        "dub": null,
+        "url": "https://www.animegg.org/comet-lucifer-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/79829",
+        "dub": null,
+        "url": "https://www.animegg.org/comet-lucifer-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/79917",
+        "dub": null,
+        "url": "https://www.animegg.org/comet-lucifer-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/80014",
+        "dub": null,
+        "url": "https://www.animegg.org/comet-lucifer-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/80115",
+        "dub": null,
+        "url": "https://www.animegg.org/comet-lucifer-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/80241",
+        "dub": null,
+        "url": "https://www.animegg.org/comet-lucifer-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/80334",
+        "dub": null,
+        "url": "https://www.animegg.org/comet-lucifer-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/80428",
+        "dub": null,
+        "url": "https://www.animegg.org/comet-lucifer-episode-12"
+      }
+    ]
   }
 ]
