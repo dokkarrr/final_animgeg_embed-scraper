@@ -103486,5 +103486,87 @@
         "url": "https://www.animegg.org/yakusoku-no-neverland-2nd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 1102,
+    "title": "D-Frag!",
+    "animegg_url": "https://www.animegg.org/series/d-frag",
+    "mal_url": "https://myanimelist.net/anime/20031",
+    "mal_id": 20031,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/6661",
+        "dub": "https://www.animegg.org/embed/75987",
+        "url": "https://www.animegg.org/d-frag-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/6658",
+        "dub": "https://www.animegg.org/embed/75986",
+        "url": "https://www.animegg.org/d-frag-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/6660",
+        "dub": "https://www.animegg.org/embed/76297",
+        "url": "https://www.animegg.org/d-frag-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/6659",
+        "dub": "https://www.animegg.org/embed/76298",
+        "url": "https://www.animegg.org/d-frag-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/6657",
+        "dub": "https://www.animegg.org/embed/76299",
+        "url": "https://www.animegg.org/d-frag-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/6662",
+        "dub": "https://www.animegg.org/embed/76300",
+        "url": "https://www.animegg.org/d-frag-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/6663",
+        "dub": "https://www.animegg.org/embed/76301",
+        "url": "https://www.animegg.org/d-frag-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/6664",
+        "dub": "https://www.animegg.org/embed/76302",
+        "url": "https://www.animegg.org/d-frag-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/6665",
+        "dub": "https://www.animegg.org/embed/76303",
+        "url": "https://www.animegg.org/d-frag-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/6666",
+        "dub": "https://www.animegg.org/embed/76304",
+        "url": "https://www.animegg.org/d-frag-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/6667",
+        "dub": "https://www.animegg.org/embed/76305",
+        "url": "https://www.animegg.org/d-frag-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/6668",
+        "dub": "https://www.animegg.org/embed/76306",
+        "url": "https://www.animegg.org/d-frag-episode-12"
+      }
+    ]
   }
 ]
