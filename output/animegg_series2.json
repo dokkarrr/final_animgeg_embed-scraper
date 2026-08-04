@@ -120442,5 +120442,93 @@
         "url": "https://www.animegg.org/chitose-get-you-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 1207,
+    "title": "Demi-chan wa Kataritai",
+    "animegg_url": "https://www.animegg.org/series/demi-chan-wa-kataritai",
+    "mal_url": "https://myanimelist.net/anime/33988",
+    "mal_id": 33988,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/85390",
+        "dub": null,
+        "url": "https://www.animegg.org/demi-chan-wa-kataritai-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/85493",
+        "dub": null,
+        "url": "https://www.animegg.org/demi-chan-wa-kataritai-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/85591",
+        "dub": null,
+        "url": "https://www.animegg.org/demi-chan-wa-kataritai-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/85678",
+        "dub": null,
+        "url": "https://www.animegg.org/demi-chan-wa-kataritai-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/85766",
+        "dub": null,
+        "url": "https://www.animegg.org/demi-chan-wa-kataritai-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/85858",
+        "dub": null,
+        "url": "https://www.animegg.org/demi-chan-wa-kataritai-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/85929",
+        "dub": null,
+        "url": "https://www.animegg.org/demi-chan-wa-kataritai-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/86028",
+        "dub": null,
+        "url": "https://www.animegg.org/demi-chan-wa-kataritai-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/86107",
+        "dub": null,
+        "url": "https://www.animegg.org/demi-chan-wa-kataritai-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/86196",
+        "dub": null,
+        "url": "https://www.animegg.org/demi-chan-wa-kataritai-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/86267",
+        "dub": null,
+        "url": "https://www.animegg.org/demi-chan-wa-kataritai-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/86339",
+        "dub": null,
+        "url": "https://www.animegg.org/demi-chan-wa-kataritai-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/87432",
+        "dub": null,
+        "url": "https://www.animegg.org/demi-chan-wa-kataritai-episode-13"
+      }
+    ]
   }
 ]
