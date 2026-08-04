@@ -102338,5 +102338,87 @@
         "url": "https://www.animegg.org/hunter-x-hunter-greed-island-ova-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 2353,
+    "title": "Rozen Maiden: Traumend",
+    "animegg_url": "https://www.animegg.org/series/rozen-maiden-traumend",
+    "mal_url": "https://myanimelist.net/anime/18041",
+    "mal_id": 18041,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/32151",
+        "dub": "https://www.animegg.org/embed/73253",
+        "url": "https://www.animegg.org/rozen-maiden-traumend-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/32155",
+        "dub": "https://www.animegg.org/embed/73254",
+        "url": "https://www.animegg.org/rozen-maiden-traumend-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/32154",
+        "dub": "https://www.animegg.org/embed/73252",
+        "url": "https://www.animegg.org/rozen-maiden-traumend-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/32152",
+        "dub": "https://www.animegg.org/embed/73251",
+        "url": "https://www.animegg.org/rozen-maiden-traumend-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/32153",
+        "dub": "https://www.animegg.org/embed/73250",
+        "url": "https://www.animegg.org/rozen-maiden-traumend-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/32160",
+        "dub": "https://www.animegg.org/embed/73249",
+        "url": "https://www.animegg.org/rozen-maiden-traumend-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/32157",
+        "dub": "https://www.animegg.org/embed/73246",
+        "url": "https://www.animegg.org/rozen-maiden-traumend-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/32156",
+        "dub": "https://www.animegg.org/embed/73245",
+        "url": "https://www.animegg.org/rozen-maiden-traumend-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/32158",
+        "dub": "https://www.animegg.org/embed/73244",
+        "url": "https://www.animegg.org/rozen-maiden-traumend-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/32159",
+        "dub": "https://www.animegg.org/embed/73243",
+        "url": "https://www.animegg.org/rozen-maiden-traumend-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/32162",
+        "dub": "https://www.animegg.org/embed/73242",
+        "url": "https://www.animegg.org/rozen-maiden-traumend-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/32161",
+        "dub": "https://www.animegg.org/embed/73239",
+        "url": "https://www.animegg.org/rozen-maiden-traumend-episode-12"
+      }
+    ]
   }
 ]
