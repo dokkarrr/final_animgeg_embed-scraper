@@ -37174,5 +37174,87 @@
         "url": "https://www.animegg.org/asobi-asobase-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1797,
+    "title": "Ameiro Cocoa",
+    "animegg_url": "https://www.animegg.org/series/ameiro-cocoa",
+    "mal_url": "https://myanimelist.net/anime/28981",
+    "mal_id": 28981,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/76054",
+        "dub": "https://www.animegg.org/embed/76081",
+        "url": "https://www.animegg.org/ameiro-cocoa-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/76180",
+        "dub": null,
+        "url": "https://www.animegg.org/ameiro-cocoa-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/76346",
+        "dub": null,
+        "url": "https://www.animegg.org/ameiro-cocoa-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/76468",
+        "dub": null,
+        "url": "https://www.animegg.org/ameiro-cocoa-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/76605",
+        "dub": null,
+        "url": "https://www.animegg.org/ameiro-cocoa-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/76721",
+        "dub": null,
+        "url": "https://www.animegg.org/ameiro-cocoa-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/76834",
+        "dub": null,
+        "url": "https://www.animegg.org/ameiro-cocoa-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/76930",
+        "dub": null,
+        "url": "https://www.animegg.org/ameiro-cocoa-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/77027",
+        "dub": null,
+        "url": "https://www.animegg.org/ameiro-cocoa-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/77227",
+        "dub": null,
+        "url": "https://www.animegg.org/ameiro-cocoa-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/77367",
+        "dub": null,
+        "url": "https://www.animegg.org/ameiro-cocoa-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/77515",
+        "dub": null,
+        "url": "https://www.animegg.org/ameiro-cocoa-episode-12"
+      }
+    ]
   }
 ]
