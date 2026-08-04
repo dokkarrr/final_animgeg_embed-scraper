@@ -116450,5 +116450,87 @@
         "url": "https://www.animegg.org/meitantei-rascal-episode-9"
       }
     ]
+  },
+  {
+    "serial_no": 2500,
+    "title": "Shukufuku no Campanella",
+    "animegg_url": "https://www.animegg.org/series/shukufuku-no-campanella",
+    "mal_url": "https://myanimelist.net/anime/6979",
+    "mal_id": 6979,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/35127",
+        "dub": null,
+        "url": "https://www.animegg.org/shukufuku-no-campanella-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/35130",
+        "dub": null,
+        "url": "https://www.animegg.org/shukufuku-no-campanella-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/35128",
+        "dub": null,
+        "url": "https://www.animegg.org/shukufuku-no-campanella-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/35129",
+        "dub": null,
+        "url": "https://www.animegg.org/shukufuku-no-campanella-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/35136",
+        "dub": null,
+        "url": "https://www.animegg.org/shukufuku-no-campanella-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/35133",
+        "dub": null,
+        "url": "https://www.animegg.org/shukufuku-no-campanella-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/35137",
+        "dub": null,
+        "url": "https://www.animegg.org/shukufuku-no-campanella-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/35131",
+        "dub": null,
+        "url": "https://www.animegg.org/shukufuku-no-campanella-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/35132",
+        "dub": null,
+        "url": "https://www.animegg.org/shukufuku-no-campanella-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/35138",
+        "dub": null,
+        "url": "https://www.animegg.org/shukufuku-no-campanella-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/35134",
+        "dub": null,
+        "url": "https://www.animegg.org/shukufuku-no-campanella-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/35135",
+        "dub": null,
+        "url": "https://www.animegg.org/shukufuku-no-campanella-episode-12"
+      }
+    ]
   }
 ]
