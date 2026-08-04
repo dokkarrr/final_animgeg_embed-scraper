@@ -98822,5 +98822,87 @@
         "url": "https://www.animegg.org/el-hazard-the-alternative-world-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2320,
+    "title": "Hanaukyou Maid-tai",
+    "animegg_url": "https://www.animegg.org/series/hanaukyou-maid-tai",
+    "mal_url": "https://myanimelist.net/anime/403",
+    "mal_id": 403,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/15322",
+        "dub": "https://www.animegg.org/embed/70184",
+        "url": "https://www.animegg.org/hanaukyou-maid-tai-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/15320",
+        "dub": "https://www.animegg.org/embed/70183",
+        "url": "https://www.animegg.org/hanaukyou-maid-tai-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/15323",
+        "dub": "https://www.animegg.org/embed/70181",
+        "url": "https://www.animegg.org/hanaukyou-maid-tai-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/15321",
+        "dub": "https://www.animegg.org/embed/70178",
+        "url": "https://www.animegg.org/hanaukyou-maid-tai-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/15319",
+        "dub": "https://www.animegg.org/embed/70176",
+        "url": "https://www.animegg.org/hanaukyou-maid-tai-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/15324",
+        "dub": "https://www.animegg.org/embed/70174",
+        "url": "https://www.animegg.org/hanaukyou-maid-tai-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/15328",
+        "dub": "https://www.animegg.org/embed/70170",
+        "url": "https://www.animegg.org/hanaukyou-maid-tai-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/15325",
+        "dub": "https://www.animegg.org/embed/70168",
+        "url": "https://www.animegg.org/hanaukyou-maid-tai-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/15326",
+        "dub": "https://www.animegg.org/embed/70167",
+        "url": "https://www.animegg.org/hanaukyou-maid-tai-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/15327",
+        "dub": "https://www.animegg.org/embed/70164",
+        "url": "https://www.animegg.org/hanaukyou-maid-tai-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/15329",
+        "dub": "https://www.animegg.org/embed/70162",
+        "url": "https://www.animegg.org/hanaukyou-maid-tai-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/15330",
+        "dub": "https://www.animegg.org/embed/70159",
+        "url": "https://www.animegg.org/hanaukyou-maid-tai-episode-12"
+      }
+    ]
   }
 ]
