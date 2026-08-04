@@ -56674,5 +56674,81 @@
         "url": "https://www.animegg.org/miss-monochrome-the-animation-3-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 1944,
+    "title": "Baki",
+    "animegg_url": "https://www.animegg.org/series/baki",
+    "mal_url": "https://myanimelist.net/anime/34443",
+    "mal_id": 34443,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/86125",
+        "dub": null,
+        "url": "https://www.animegg.org/baki-episode-1"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/93406",
+        "dub": null,
+        "url": "https://www.animegg.org/baki-episode-15"
+      },
+      {
+        "ep": 17,
+        "sub": "https://www.animegg.org/embed/93407",
+        "dub": null,
+        "url": "https://www.animegg.org/baki-episode-17"
+      },
+      {
+        "ep": 19,
+        "sub": "https://www.animegg.org/embed/93396",
+        "dub": null,
+        "url": "https://www.animegg.org/baki-episode-19"
+      },
+      {
+        "ep": 20,
+        "sub": "https://www.animegg.org/embed/93463",
+        "dub": null,
+        "url": "https://www.animegg.org/baki-episode-20"
+      },
+      {
+        "ep": 21,
+        "sub": "https://www.animegg.org/embed/93526",
+        "dub": null,
+        "url": "https://www.animegg.org/baki-episode-21"
+      },
+      {
+        "ep": 22,
+        "sub": "https://www.animegg.org/embed/93611",
+        "dub": null,
+        "url": "https://www.animegg.org/baki-episode-22"
+      },
+      {
+        "ep": 23,
+        "sub": "https://www.animegg.org/embed/93670",
+        "dub": null,
+        "url": "https://www.animegg.org/baki-episode-23"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/93737",
+        "dub": null,
+        "url": "https://www.animegg.org/baki-episode-24"
+      },
+      {
+        "ep": 25,
+        "sub": "https://www.animegg.org/embed/93817",
+        "dub": null,
+        "url": "https://www.animegg.org/baki-episode-25"
+      },
+      {
+        "ep": 26,
+        "sub": "https://www.animegg.org/embed/93976",
+        "dub": null,
+        "url": "https://www.animegg.org/baki-episode-26"
+      }
+    ]
   }
 ]
