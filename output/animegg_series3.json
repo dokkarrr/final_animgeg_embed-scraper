@@ -22028,5 +22028,93 @@
         "url": "https://www.animegg.org/kiniro-no-corda-primo-passo-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 1681,
+    "title": "Granblue Fantasy The Animation",
+    "animegg_url": "https://www.animegg.org/series/granblue-fantasy-the-animation",
+    "mal_url": "https://myanimelist.net/anime/31629",
+    "mal_id": 31629,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/86596",
+        "dub": null,
+        "url": "https://www.animegg.org/granblue-fantasy-the-animation-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/86597",
+        "dub": null,
+        "url": "https://www.animegg.org/granblue-fantasy-the-animation-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/86598",
+        "dub": null,
+        "url": "https://www.animegg.org/granblue-fantasy-the-animation-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/86689",
+        "dub": null,
+        "url": "https://www.animegg.org/granblue-fantasy-the-animation-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/86773",
+        "dub": null,
+        "url": "https://www.animegg.org/granblue-fantasy-the-animation-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/86848",
+        "dub": null,
+        "url": "https://www.animegg.org/granblue-fantasy-the-animation-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/86928",
+        "dub": null,
+        "url": "https://www.animegg.org/granblue-fantasy-the-animation-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/87008",
+        "dub": null,
+        "url": "https://www.animegg.org/granblue-fantasy-the-animation-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/87089",
+        "dub": null,
+        "url": "https://www.animegg.org/granblue-fantasy-the-animation-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/87196",
+        "dub": null,
+        "url": "https://www.animegg.org/granblue-fantasy-the-animation-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/87362",
+        "dub": null,
+        "url": "https://www.animegg.org/granblue-fantasy-the-animation-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/87359",
+        "dub": null,
+        "url": "https://www.animegg.org/granblue-fantasy-the-animation-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/87394",
+        "dub": null,
+        "url": "https://www.animegg.org/granblue-fantasy-the-animation-episode-13"
+      }
+    ]
   }
 ]
