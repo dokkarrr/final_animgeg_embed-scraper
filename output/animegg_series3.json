@@ -78620,5 +78620,87 @@
         "url": "https://www.animegg.org/seitokai-yakuindomo-second-season-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2158,
+    "title": "Akudama Drive",
+    "animegg_url": "https://www.animegg.org/series/akudama-drive",
+    "mal_url": "https://myanimelist.net/anime/41433",
+    "mal_id": 41433,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/99542",
+        "dub": null,
+        "url": "https://www.animegg.org/akudama-drive-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/99621",
+        "dub": null,
+        "url": "https://www.animegg.org/akudama-drive-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/99711",
+        "dub": null,
+        "url": "https://www.animegg.org/akudama-drive-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/99776",
+        "dub": null,
+        "url": "https://www.animegg.org/akudama-drive-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/99847",
+        "dub": null,
+        "url": "https://www.animegg.org/akudama-drive-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/99918",
+        "dub": null,
+        "url": "https://www.animegg.org/akudama-drive-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/99980",
+        "dub": null,
+        "url": "https://www.animegg.org/akudama-drive-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/100047",
+        "dub": null,
+        "url": "https://www.animegg.org/akudama-drive-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/100115",
+        "dub": null,
+        "url": "https://www.animegg.org/akudama-drive-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/100207",
+        "dub": null,
+        "url": "https://www.animegg.org/akudama-drive-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/100273",
+        "dub": null,
+        "url": "https://www.animegg.org/akudama-drive-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/100334",
+        "dub": null,
+        "url": "https://www.animegg.org/akudama-drive-episode-12"
+      }
+    ]
   }
 ]
