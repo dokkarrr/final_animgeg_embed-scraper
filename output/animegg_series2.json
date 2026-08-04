@@ -32310,5 +32310,87 @@
         "url": "https://www.animegg.org/gungrave-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 690,
+    "title": "Phantasy Star Online 2 The Animation",
+    "animegg_url": "https://www.animegg.org/series/phantasy-star-online-2-the-animation",
+    "mal_url": "https://myanimelist.net/anime/31223",
+    "mal_id": 31223,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/81751",
+        "dub": "https://www.animegg.org/embed/81775",
+        "url": "https://www.animegg.org/phantasy-star-online-2-the-animation-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/81700",
+        "dub": null,
+        "url": "https://www.animegg.org/phantasy-star-online-2-the-animation-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/81584",
+        "dub": "https://www.animegg.org/embed/81605",
+        "url": "https://www.animegg.org/phantasy-star-online-2-the-animation-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/81477",
+        "dub": "https://www.animegg.org/embed/81509",
+        "url": "https://www.animegg.org/phantasy-star-online-2-the-animation-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/81392",
+        "dub": "https://www.animegg.org/embed/81413",
+        "url": "https://www.animegg.org/phantasy-star-online-2-the-animation-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/81281",
+        "dub": "https://www.animegg.org/embed/81314",
+        "url": "https://www.animegg.org/phantasy-star-online-2-the-animation-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/81179",
+        "dub": "https://www.animegg.org/embed/81203",
+        "url": "https://www.animegg.org/phantasy-star-online-2-the-animation-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/80986",
+        "dub": "https://www.animegg.org/embed/81293",
+        "url": "https://www.animegg.org/phantasy-star-online-2-the-animation-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/80887",
+        "dub": "https://www.animegg.org/embed/80914",
+        "url": "https://www.animegg.org/phantasy-star-online-2-the-animation-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/80781",
+        "dub": "https://www.animegg.org/embed/80809",
+        "url": "https://www.animegg.org/phantasy-star-online-2-the-animation-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/80677",
+        "dub": "https://www.animegg.org/embed/80704",
+        "url": "https://www.animegg.org/phantasy-star-online-2-the-animation-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/80582",
+        "dub": "https://www.animegg.org/embed/80612",
+        "url": "https://www.animegg.org/phantasy-star-online-2-the-animation-episode-1"
+      }
+    ]
   }
 ]
