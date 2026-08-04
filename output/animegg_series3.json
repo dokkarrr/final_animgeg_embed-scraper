@@ -125813,5 +125813,93 @@
         "url": "https://www.animegg.org/nyanko-days-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2591,
+    "title": "Hanebado!",
+    "animegg_url": "https://www.animegg.org/series/hanebado",
+    "mal_url": "https://myanimelist.net/anime/37259",
+    "mal_id": 37259,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/91712",
+        "dub": null,
+        "url": "https://www.animegg.org/hanebado-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/91795",
+        "dub": null,
+        "url": "https://www.animegg.org/hanebado-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/91863",
+        "dub": null,
+        "url": "https://www.animegg.org/hanebado-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/91989",
+        "dub": null,
+        "url": "https://www.animegg.org/hanebado-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/92078",
+        "dub": null,
+        "url": "https://www.animegg.org/hanebado-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/92190",
+        "dub": null,
+        "url": "https://www.animegg.org/hanebado-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/92267",
+        "dub": null,
+        "url": "https://www.animegg.org/hanebado-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/92424",
+        "dub": null,
+        "url": "https://www.animegg.org/hanebado-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/92608",
+        "dub": null,
+        "url": "https://www.animegg.org/hanebado-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/92732",
+        "dub": null,
+        "url": "https://www.animegg.org/hanebado-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/92881",
+        "dub": null,
+        "url": "https://www.animegg.org/hanebado-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/92986",
+        "dub": null,
+        "url": "https://www.animegg.org/hanebado-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/93044",
+        "dub": null,
+        "url": "https://www.animegg.org/hanebado-episode-13"
+      }
+    ]
   }
 ]
