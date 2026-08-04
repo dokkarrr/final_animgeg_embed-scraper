@@ -118118,5 +118118,93 @@
         "url": "https://www.animegg.org/black-lagoon-robertas-blood-trail-episode-5"
       }
     ]
+  },
+  {
+    "serial_no": 2521,
+    "title": "ID:Invaded",
+    "animegg_url": "https://www.animegg.org/series/idinvaded",
+    "mal_url": "https://myanimelist.net/anime/40046",
+    "mal_id": 40046,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/97454",
+        "dub": null,
+        "url": "https://www.animegg.org/idinvaded-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/97455",
+        "dub": null,
+        "url": "https://www.animegg.org/idinvaded-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/97521",
+        "dub": null,
+        "url": "https://www.animegg.org/idinvaded-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/97588",
+        "dub": null,
+        "url": "https://www.animegg.org/idinvaded-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/97657",
+        "dub": null,
+        "url": "https://www.animegg.org/idinvaded-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/97724",
+        "dub": null,
+        "url": "https://www.animegg.org/idinvaded-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/97794",
+        "dub": null,
+        "url": "https://www.animegg.org/idinvaded-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/97849",
+        "dub": null,
+        "url": "https://www.animegg.org/idinvaded-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/97902",
+        "dub": null,
+        "url": "https://www.animegg.org/idinvaded-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/97960",
+        "dub": null,
+        "url": "https://www.animegg.org/idinvaded-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/98024",
+        "dub": null,
+        "url": "https://www.animegg.org/idinvaded-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/98088",
+        "dub": null,
+        "url": "https://www.animegg.org/idinvaded-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/98143",
+        "dub": null,
+        "url": "https://www.animegg.org/idinvaded-episode-13"
+      }
+    ]
   }
 ]
