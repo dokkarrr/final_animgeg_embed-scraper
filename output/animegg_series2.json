@@ -28662,5 +28662,99 @@
         "url": "https://www.animegg.org/betterman-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 669,
+    "title": "Violet Evergarden",
+    "animegg_url": "https://www.animegg.org/series/violet-evergarden",
+    "mal_url": "https://myanimelist.net/anime/33352",
+    "mal_id": 33352,
+    "total_ep": 14,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/89619",
+        "dub": null,
+        "url": "https://www.animegg.org/violet-evergarden-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/89789",
+        "dub": null,
+        "url": "https://www.animegg.org/violet-evergarden-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/89863",
+        "dub": null,
+        "url": "https://www.animegg.org/violet-evergarden-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/89937",
+        "dub": null,
+        "url": "https://www.animegg.org/violet-evergarden-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/90028",
+        "dub": null,
+        "url": "https://www.animegg.org/violet-evergarden-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/90104",
+        "dub": null,
+        "url": "https://www.animegg.org/violet-evergarden-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/90179",
+        "dub": null,
+        "url": "https://www.animegg.org/violet-evergarden-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/90246",
+        "dub": null,
+        "url": "https://www.animegg.org/violet-evergarden-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/90324",
+        "dub": null,
+        "url": "https://www.animegg.org/violet-evergarden-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/90398",
+        "dub": null,
+        "url": "https://www.animegg.org/violet-evergarden-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/90483",
+        "dub": null,
+        "url": "https://www.animegg.org/violet-evergarden-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/90568",
+        "dub": null,
+        "url": "https://www.animegg.org/violet-evergarden-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/90633",
+        "dub": null,
+        "url": "https://www.animegg.org/violet-evergarden-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/115693",
+        "dub": null,
+        "url": "https://www.animegg.org/violet-evergarden-episode-14"
+      }
+    ]
   }
 ]
