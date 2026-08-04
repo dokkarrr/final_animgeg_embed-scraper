@@ -86014,5 +86014,93 @@
         "url": "https://www.animegg.org/senki-zesshou-symphogear-g-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2199,
+    "title": "Kimi to Boku",
+    "animegg_url": "https://www.animegg.org/series/kimi-to-boku",
+    "mal_url": "https://myanimelist.net/anime/20505",
+    "mal_id": 20505,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/20333",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-to-boku-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/20332",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-to-boku-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/20330",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-to-boku-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/20331",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-to-boku-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/20329",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-to-boku-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/20334",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-to-boku-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/20335",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-to-boku-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/20336",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-to-boku-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/20337",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-to-boku-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/20338",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-to-boku-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/20339",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-to-boku-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/20341",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-to-boku-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/20340",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-to-boku-episode-13"
+      }
+    ]
   }
 ]
