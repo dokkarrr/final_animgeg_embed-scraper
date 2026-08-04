@@ -131469,5 +131469,87 @@
         "url": "https://www.animegg.org/shuffle-memories-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2655,
+    "title": "Selector Infected Wixoss",
+    "animegg_url": "https://www.animegg.org/series/selector-infected-wixoss",
+    "mal_url": "https://myanimelist.net/anime/22273",
+    "mal_id": 22273,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/43530",
+        "dub": "https://www.animegg.org/embed/78740",
+        "url": "https://www.animegg.org/selector-infected-wixoss-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/43531",
+        "dub": "https://www.animegg.org/embed/78721",
+        "url": "https://www.animegg.org/selector-infected-wixoss-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/43532",
+        "dub": null,
+        "url": "https://www.animegg.org/selector-infected-wixoss-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/43533",
+        "dub": null,
+        "url": "https://www.animegg.org/selector-infected-wixoss-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/43534",
+        "dub": null,
+        "url": "https://www.animegg.org/selector-infected-wixoss-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/43535",
+        "dub": null,
+        "url": "https://www.animegg.org/selector-infected-wixoss-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/43536",
+        "dub": null,
+        "url": "https://www.animegg.org/selector-infected-wixoss-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/43537",
+        "dub": null,
+        "url": "https://www.animegg.org/selector-infected-wixoss-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/43538",
+        "dub": null,
+        "url": "https://www.animegg.org/selector-infected-wixoss-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/43539",
+        "dub": null,
+        "url": "https://www.animegg.org/selector-infected-wixoss-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/43540",
+        "dub": null,
+        "url": "https://www.animegg.org/selector-infected-wixoss-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/43541",
+        "dub": null,
+        "url": "https://www.animegg.org/selector-infected-wixoss-episode-12"
+      }
+    ]
   }
 ]
