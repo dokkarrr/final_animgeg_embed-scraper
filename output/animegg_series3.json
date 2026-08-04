@@ -115344,5 +115344,87 @@
         "url": "https://www.animegg.org/busou-shinki-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2489,
+    "title": "Ishida to Asakura",
+    "animegg_url": "https://www.animegg.org/series/ishida-to-asakura",
+    "mal_url": "https://myanimelist.net/anime/16317",
+    "mal_id": 16317,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/18404",
+        "dub": null,
+        "url": "https://www.animegg.org/ishida-to-asakura-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/18402",
+        "dub": null,
+        "url": "https://www.animegg.org/ishida-to-asakura-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/18405",
+        "dub": null,
+        "url": "https://www.animegg.org/ishida-to-asakura-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/18403",
+        "dub": null,
+        "url": "https://www.animegg.org/ishida-to-asakura-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/18401",
+        "dub": null,
+        "url": "https://www.animegg.org/ishida-to-asakura-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/18406",
+        "dub": null,
+        "url": "https://www.animegg.org/ishida-to-asakura-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/18407",
+        "dub": null,
+        "url": "https://www.animegg.org/ishida-to-asakura-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/18408",
+        "dub": null,
+        "url": "https://www.animegg.org/ishida-to-asakura-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/18412",
+        "dub": null,
+        "url": "https://www.animegg.org/ishida-to-asakura-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/18409",
+        "dub": null,
+        "url": "https://www.animegg.org/ishida-to-asakura-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/18411",
+        "dub": null,
+        "url": "https://www.animegg.org/ishida-to-asakura-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/18410",
+        "dub": null,
+        "url": "https://www.animegg.org/ishida-to-asakura-episode-12"
+      }
+    ]
   }
 ]
