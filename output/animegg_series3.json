@@ -114584,5 +114584,51 @@
         "url": "https://www.animegg.org/kakyuusei-1999-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 2482,
+    "title": "Brotherhood: Final Fantasy XV",
+    "animegg_url": "https://www.animegg.org/series/brotherhood-final-fantasy-xv",
+    "mal_url": "https://myanimelist.net/anime/33080",
+    "mal_id": 33080,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/brotherhood-final-fantasy-xv-episode"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/81747",
+        "dub": null,
+        "url": "https://www.animegg.org/brotherhood-final-fantasy-xv-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/82702",
+        "dub": null,
+        "url": "https://www.animegg.org/brotherhood-final-fantasy-xv-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/82980",
+        "dub": null,
+        "url": "https://www.animegg.org/brotherhood-final-fantasy-xv-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/83535",
+        "dub": null,
+        "url": "https://www.animegg.org/brotherhood-final-fantasy-xv-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/83924",
+        "dub": null,
+        "url": "https://www.animegg.org/brotherhood-final-fantasy-xv-episode-5"
+      }
+    ]
   }
 ]
