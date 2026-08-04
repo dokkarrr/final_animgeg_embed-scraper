@@ -55140,5 +55140,87 @@
         "url": "https://www.animegg.org/yuru-yuri-season-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 1937,
+    "title": "Miira no Kaikata",
+    "animegg_url": "https://www.animegg.org/series/miira-no-kaikata",
+    "mal_url": "https://myanimelist.net/anime/35828",
+    "mal_id": 35828,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/89626",
+        "dub": null,
+        "url": "https://www.animegg.org/miira-no-kaikata-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/89797",
+        "dub": null,
+        "url": "https://www.animegg.org/miira-no-kaikata-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/89872",
+        "dub": null,
+        "url": "https://www.animegg.org/miira-no-kaikata-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/89956",
+        "dub": null,
+        "url": "https://www.animegg.org/miira-no-kaikata-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/90036",
+        "dub": null,
+        "url": "https://www.animegg.org/miira-no-kaikata-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/90112",
+        "dub": null,
+        "url": "https://www.animegg.org/miira-no-kaikata-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/90185",
+        "dub": null,
+        "url": "https://www.animegg.org/miira-no-kaikata-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/90255",
+        "dub": null,
+        "url": "https://www.animegg.org/miira-no-kaikata-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/90331",
+        "dub": null,
+        "url": "https://www.animegg.org/miira-no-kaikata-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/90403",
+        "dub": null,
+        "url": "https://www.animegg.org/miira-no-kaikata-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/90487",
+        "dub": null,
+        "url": "https://www.animegg.org/miira-no-kaikata-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/90573",
+        "dub": null,
+        "url": "https://www.animegg.org/miira-no-kaikata-episode-12"
+      }
+    ]
   }
 ]
