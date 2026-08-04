@@ -7054,5 +7054,87 @@
         "url": "https://www.animegg.org/cardfight-vanguard-zoku-koukousei-hen-episode-45"
       }
     ]
+  },
+  {
+    "serial_no": 1587,
+    "title": "MekakuCity Actors",
+    "animegg_url": "https://www.animegg.org/series/mekakucity-actors",
+    "mal_url": "https://myanimelist.net/anime/21603",
+    "mal_id": 21603,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/23975",
+        "dub": null,
+        "url": "https://www.animegg.org/mekakucity-actors-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/23974",
+        "dub": null,
+        "url": "https://www.animegg.org/mekakucity-actors-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/23973",
+        "dub": null,
+        "url": "https://www.animegg.org/mekakucity-actors-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/23972",
+        "dub": null,
+        "url": "https://www.animegg.org/mekakucity-actors-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/23976",
+        "dub": null,
+        "url": "https://www.animegg.org/mekakucity-actors-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/23977",
+        "dub": "https://www.animegg.org/embed/23978",
+        "url": "https://www.animegg.org/mekakucity-actors-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/23979",
+        "dub": null,
+        "url": "https://www.animegg.org/mekakucity-actors-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/23980",
+        "dub": "https://www.animegg.org/embed/23981",
+        "url": "https://www.animegg.org/mekakucity-actors-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/23982",
+        "dub": "https://www.animegg.org/embed/23983",
+        "url": "https://www.animegg.org/mekakucity-actors-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/23984",
+        "dub": "https://www.animegg.org/embed/23985",
+        "url": "https://www.animegg.org/mekakucity-actors-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/23986",
+        "dub": "https://www.animegg.org/embed/23987",
+        "url": "https://www.animegg.org/mekakucity-actors-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/23988",
+        "dub": "https://www.animegg.org/embed/23989",
+        "url": "https://www.animegg.org/mekakucity-actors-episode-12"
+      }
+    ]
   }
 ]
