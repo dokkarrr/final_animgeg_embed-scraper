@@ -76334,5 +76334,87 @@
         "url": "https://www.animegg.org/suzakinishi-the-animation-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2134,
+    "title": "Koi wa Ameagari no You ni",
+    "animegg_url": "https://www.animegg.org/series/koi-wa-ameagari-no-you-ni",
+    "mal_url": "https://myanimelist.net/anime/34984",
+    "mal_id": 34984,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/89621",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-wa-ameagari-no-you-ni-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/89796",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-wa-ameagari-no-you-ni-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/89871",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-wa-ameagari-no-you-ni-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/89955",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-wa-ameagari-no-you-ni-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/90035",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-wa-ameagari-no-you-ni-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/90113",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-wa-ameagari-no-you-ni-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/90184",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-wa-ameagari-no-you-ni-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/90254",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-wa-ameagari-no-you-ni-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/90328",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-wa-ameagari-no-you-ni-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/90402",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-wa-ameagari-no-you-ni-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/90486",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-wa-ameagari-no-you-ni-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/90572",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-wa-ameagari-no-you-ni-episode-12"
+      }
+    ]
   }
 ]
