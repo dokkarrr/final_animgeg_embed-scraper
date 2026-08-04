@@ -102502,5 +102502,69 @@
         "url": "https://www.animegg.org/military-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2355,
+    "title": "Sword Art Online Specials",
+    "animegg_url": "https://www.animegg.org/series/sword-art-online-specials",
+    "mal_url": "https://myanimelist.net/anime/21881",
+    "mal_id": 21881,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/36969",
+        "dub": null,
+        "url": "https://www.animegg.org/sword-art-online-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/36968",
+        "dub": null,
+        "url": "https://www.animegg.org/sword-art-online-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/36966",
+        "dub": null,
+        "url": "https://www.animegg.org/sword-art-online-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/36965",
+        "dub": null,
+        "url": "https://www.animegg.org/sword-art-online-specials-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/36967",
+        "dub": null,
+        "url": "https://www.animegg.org/sword-art-online-specials-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/sword-art-online-specials-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/sword-art-online-specials-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/sword-art-online-specials-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/sword-art-online-specials-episode-9"
+      }
+    ]
   }
 ]
