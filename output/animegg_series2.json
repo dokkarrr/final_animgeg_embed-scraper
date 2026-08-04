@@ -129082,5 +129082,87 @@
         "url": "https://www.animegg.org/gigantor-episode-52"
       }
     ]
+  },
+  {
+    "serial_no": 1264,
+    "title": "Bokura wa Minna Kawaisou",
+    "animegg_url": "https://www.animegg.org/series/bokura-wa-minna-kawaisou",
+    "mal_url": "https://myanimelist.net/anime/24913",
+    "mal_id": 24913,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/4575",
+        "dub": null,
+        "url": "https://www.animegg.org/bokura-wa-minna-kawaisou-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/4574",
+        "dub": null,
+        "url": "https://www.animegg.org/bokura-wa-minna-kawaisou-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/4573",
+        "dub": null,
+        "url": "https://www.animegg.org/bokura-wa-minna-kawaisou-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/4572",
+        "dub": null,
+        "url": "https://www.animegg.org/bokura-wa-minna-kawaisou-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/4571",
+        "dub": null,
+        "url": "https://www.animegg.org/bokura-wa-minna-kawaisou-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/4576",
+        "dub": null,
+        "url": "https://www.animegg.org/bokura-wa-minna-kawaisou-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/4577",
+        "dub": "https://www.animegg.org/embed/4578",
+        "url": "https://www.animegg.org/bokura-wa-minna-kawaisou-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/4579",
+        "dub": "https://www.animegg.org/embed/4580",
+        "url": "https://www.animegg.org/bokura-wa-minna-kawaisou-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/4581",
+        "dub": "https://www.animegg.org/embed/4582",
+        "url": "https://www.animegg.org/bokura-wa-minna-kawaisou-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/4583",
+        "dub": "https://www.animegg.org/embed/4584",
+        "url": "https://www.animegg.org/bokura-wa-minna-kawaisou-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/4585",
+        "dub": "https://www.animegg.org/embed/4586",
+        "url": "https://www.animegg.org/bokura-wa-minna-kawaisou-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/4587",
+        "dub": "https://www.animegg.org/embed/4588",
+        "url": "https://www.animegg.org/bokura-wa-minna-kawaisou-episode-12"
+      }
+    ]
   }
 ]
