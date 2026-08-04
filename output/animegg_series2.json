@@ -113762,5 +113762,87 @@
         "url": "https://www.animegg.org/bakugan-gundalian-invaders-episode-39"
       }
     ]
+  },
+  {
+    "serial_no": 1163,
+    "title": "Sacred Seven",
+    "animegg_url": "https://www.animegg.org/series/sacred-seven",
+    "mal_url": "https://myanimelist.net/anime/10156",
+    "mal_id": 10156,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/32425",
+        "dub": null,
+        "url": "https://www.animegg.org/sacred-seven-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/32422",
+        "dub": null,
+        "url": "https://www.animegg.org/sacred-seven-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/32421",
+        "dub": null,
+        "url": "https://www.animegg.org/sacred-seven-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/32423",
+        "dub": null,
+        "url": "https://www.animegg.org/sacred-seven-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/32424",
+        "dub": null,
+        "url": "https://www.animegg.org/sacred-seven-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/32426",
+        "dub": null,
+        "url": "https://www.animegg.org/sacred-seven-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/32428",
+        "dub": null,
+        "url": "https://www.animegg.org/sacred-seven-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/32429",
+        "dub": null,
+        "url": "https://www.animegg.org/sacred-seven-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/32427",
+        "dub": null,
+        "url": "https://www.animegg.org/sacred-seven-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/32431",
+        "dub": null,
+        "url": "https://www.animegg.org/sacred-seven-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/32430",
+        "dub": null,
+        "url": "https://www.animegg.org/sacred-seven-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/32432",
+        "dub": null,
+        "url": "https://www.animegg.org/sacred-seven-episode-12"
+      }
+    ]
   }
 ]
