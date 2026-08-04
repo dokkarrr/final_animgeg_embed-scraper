@@ -89140,5 +89140,87 @@
         "url": "https://www.animegg.org/nekogami-yaoyorozu-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2229,
+    "title": "Zombieland Saga",
+    "animegg_url": "https://www.animegg.org/series/zombieland-saga",
+    "mal_url": "https://myanimelist.net/anime/37976",
+    "mal_id": 37976,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/93078",
+        "dub": null,
+        "url": "https://www.animegg.org/zombieland-saga-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/93158",
+        "dub": null,
+        "url": "https://www.animegg.org/zombieland-saga-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/93236",
+        "dub": null,
+        "url": "https://www.animegg.org/zombieland-saga-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/93316",
+        "dub": null,
+        "url": "https://www.animegg.org/zombieland-saga-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/93403",
+        "dub": null,
+        "url": "https://www.animegg.org/zombieland-saga-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/93481",
+        "dub": null,
+        "url": "https://www.animegg.org/zombieland-saga-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/93558",
+        "dub": null,
+        "url": "https://www.animegg.org/zombieland-saga-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/93632",
+        "dub": null,
+        "url": "https://www.animegg.org/zombieland-saga-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/93701",
+        "dub": null,
+        "url": "https://www.animegg.org/zombieland-saga-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/93769",
+        "dub": null,
+        "url": "https://www.animegg.org/zombieland-saga-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/93907",
+        "dub": null,
+        "url": "https://www.animegg.org/zombieland-saga-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/94011",
+        "dub": null,
+        "url": "https://www.animegg.org/zombieland-saga-episode-12"
+      }
+    ]
   }
 ]
