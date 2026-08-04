@@ -79332,5 +79332,87 @@
         "url": "https://www.animegg.org/nagato-yuki-chan-no-shoushitsu-episode-16"
       }
     ]
+  },
+  {
+    "serial_no": 966,
+    "title": "Ben-To",
+    "animegg_url": "https://www.animegg.org/series/ben-to",
+    "mal_url": "https://myanimelist.net/anime/10396",
+    "mal_id": 10396,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/2929",
+        "dub": "https://www.animegg.org/embed/74721",
+        "url": "https://www.animegg.org/ben-to-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/2928",
+        "dub": "https://www.animegg.org/embed/74723",
+        "url": "https://www.animegg.org/ben-to-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/2927",
+        "dub": "https://www.animegg.org/embed/74724",
+        "url": "https://www.animegg.org/ben-to-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/2926",
+        "dub": "https://www.animegg.org/embed/74727",
+        "url": "https://www.animegg.org/ben-to-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/2925",
+        "dub": "https://www.animegg.org/embed/74730",
+        "url": "https://www.animegg.org/ben-to-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/2930",
+        "dub": "https://www.animegg.org/embed/74731",
+        "url": "https://www.animegg.org/ben-to-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/2932",
+        "dub": "https://www.animegg.org/embed/74734",
+        "url": "https://www.animegg.org/ben-to-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/2931",
+        "dub": "https://www.animegg.org/embed/74736",
+        "url": "https://www.animegg.org/ben-to-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/2933",
+        "dub": "https://www.animegg.org/embed/74739",
+        "url": "https://www.animegg.org/ben-to-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/2934",
+        "dub": "https://www.animegg.org/embed/74741",
+        "url": "https://www.animegg.org/ben-to-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/2935",
+        "dub": "https://www.animegg.org/embed/74742",
+        "url": "https://www.animegg.org/ben-to-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/2936",
+        "dub": "https://www.animegg.org/embed/74743",
+        "url": "https://www.animegg.org/ben-to-episode-12"
+      }
+    ]
   }
 ]
