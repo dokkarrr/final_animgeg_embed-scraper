@@ -94708,5 +94708,75 @@
         "url": "https://www.animegg.org/boukyaku-no-senritsu-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 1063,
+    "title": "Triage X",
+    "animegg_url": "https://www.animegg.org/series/triage-x",
+    "mal_url": "https://myanimelist.net/anime/26443",
+    "mal_id": 26443,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/76083",
+        "dub": null,
+        "url": "https://www.animegg.org/triage-x-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/76208",
+        "dub": null,
+        "url": "https://www.animegg.org/triage-x-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/76378",
+        "dub": null,
+        "url": "https://www.animegg.org/triage-x-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/76523",
+        "dub": null,
+        "url": "https://www.animegg.org/triage-x-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/76636",
+        "dub": null,
+        "url": "https://www.animegg.org/triage-x-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/76754",
+        "dub": null,
+        "url": "https://www.animegg.org/triage-x-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/76865",
+        "dub": null,
+        "url": "https://www.animegg.org/triage-x-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/76954",
+        "dub": null,
+        "url": "https://www.animegg.org/triage-x-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/77119",
+        "dub": null,
+        "url": "https://www.animegg.org/triage-x-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/77270",
+        "dub": null,
+        "url": "https://www.animegg.org/triage-x-episode-10"
+      }
+    ]
   }
 ]
