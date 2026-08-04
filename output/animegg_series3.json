@@ -113154,5 +113154,87 @@
         "url": "https://www.animegg.org/softenni-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2465,
+    "title": "Mellow",
+    "animegg_url": "https://www.animegg.org/series/armor-hunter-mellowlink",
+    "mal_url": "https://myanimelist.net/anime/27559",
+    "mal_id": 27559,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/1742",
+        "dub": null,
+        "url": "https://www.animegg.org/armor-hunter-mellowlink-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/1743",
+        "dub": null,
+        "url": "https://www.animegg.org/armor-hunter-mellowlink-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/1741",
+        "dub": null,
+        "url": "https://www.animegg.org/armor-hunter-mellowlink-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/1744",
+        "dub": null,
+        "url": "https://www.animegg.org/armor-hunter-mellowlink-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/1740",
+        "dub": null,
+        "url": "https://www.animegg.org/armor-hunter-mellowlink-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/1746",
+        "dub": null,
+        "url": "https://www.animegg.org/armor-hunter-mellowlink-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/1745",
+        "dub": null,
+        "url": "https://www.animegg.org/armor-hunter-mellowlink-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/1747",
+        "dub": null,
+        "url": "https://www.animegg.org/armor-hunter-mellowlink-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/1748",
+        "dub": null,
+        "url": "https://www.animegg.org/armor-hunter-mellowlink-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/1749",
+        "dub": null,
+        "url": "https://www.animegg.org/armor-hunter-mellowlink-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/1750",
+        "dub": null,
+        "url": "https://www.animegg.org/armor-hunter-mellowlink-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/1751",
+        "dub": null,
+        "url": "https://www.animegg.org/armor-hunter-mellowlink-episode-12"
+      }
+    ]
   }
 ]
