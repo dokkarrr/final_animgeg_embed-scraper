@@ -70152,5 +70152,93 @@
         "url": "https://www.animegg.org/to-be-hero-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2078,
+    "title": "Kemonozume",
+    "animegg_url": "https://www.animegg.org/series/kemonozume",
+    "mal_url": "https://myanimelist.net/anime/1454",
+    "mal_id": 1454,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/19936",
+        "dub": null,
+        "url": "https://www.animegg.org/kemonozume-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/19939",
+        "dub": null,
+        "url": "https://www.animegg.org/kemonozume-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/19937",
+        "dub": null,
+        "url": "https://www.animegg.org/kemonozume-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/19938",
+        "dub": null,
+        "url": "https://www.animegg.org/kemonozume-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/19935",
+        "dub": null,
+        "url": "https://www.animegg.org/kemonozume-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/19940",
+        "dub": null,
+        "url": "https://www.animegg.org/kemonozume-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/19942",
+        "dub": null,
+        "url": "https://www.animegg.org/kemonozume-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/19941",
+        "dub": null,
+        "url": "https://www.animegg.org/kemonozume-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/19943",
+        "dub": null,
+        "url": "https://www.animegg.org/kemonozume-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/19944",
+        "dub": null,
+        "url": "https://www.animegg.org/kemonozume-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/19946",
+        "dub": null,
+        "url": "https://www.animegg.org/kemonozume-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/19945",
+        "dub": null,
+        "url": "https://www.animegg.org/kemonozume-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/19947",
+        "dub": null,
+        "url": "https://www.animegg.org/kemonozume-episode-13"
+      }
+    ]
   }
 ]
