@@ -35862,5 +35862,63 @@
         "url": "https://www.animegg.org/choujigen-game-neptune-the-animation-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 1784,
+    "title": "Gundam: Unicorn",
+    "animegg_url": "https://www.animegg.org/series/gundam-unicorn",
+    "mal_url": "https://myanimelist.net/anime/6336",
+    "mal_id": 6336,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/14509",
+        "dub": "https://www.animegg.org/embed/14510",
+        "url": "https://www.animegg.org/gundam-unicorn-episode-8"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/14497",
+        "dub": "https://www.animegg.org/embed/14498",
+        "url": "https://www.animegg.org/gundam-unicorn-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/14501",
+        "dub": "https://www.animegg.org/embed/14502",
+        "url": "https://www.animegg.org/gundam-unicorn-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/14495",
+        "dub": "https://www.animegg.org/embed/14496",
+        "url": "https://www.animegg.org/gundam-unicorn-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/14499",
+        "dub": "https://www.animegg.org/embed/14500",
+        "url": "https://www.animegg.org/gundam-unicorn-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/14503",
+        "dub": "https://www.animegg.org/embed/14504",
+        "url": "https://www.animegg.org/gundam-unicorn-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/14505",
+        "dub": "https://www.animegg.org/embed/14506",
+        "url": "https://www.animegg.org/gundam-unicorn-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/14507",
+        "dub": "https://www.animegg.org/embed/14508",
+        "url": "https://www.animegg.org/gundam-unicorn-episode-7"
+      }
+    ]
   }
 ]
