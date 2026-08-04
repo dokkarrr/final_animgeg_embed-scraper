@@ -105666,5 +105666,45 @@
         "url": "https://www.animegg.org/fushigi-mahou-fun-fun-pharmacy-episode-48"
       }
     ]
+  },
+  {
+    "serial_no": 1113,
+    "title": "Magi: Sinbad no Bouken",
+    "animegg_url": "https://www.animegg.org/series/magi-sinbad-no-bouken",
+    "mal_url": "https://myanimelist.net/anime/22097",
+    "mal_id": 22097,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/44006",
+        "dub": "https://www.animegg.org/embed/44007",
+        "url": "https://www.animegg.org/magi-sinbad-no-bouken-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/44008",
+        "dub": "https://www.animegg.org/embed/44009",
+        "url": "https://www.animegg.org/magi-sinbad-no-bouken-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/67678",
+        "dub": "https://www.animegg.org/embed/67876",
+        "url": "https://www.animegg.org/magi-sinbad-no-bouken-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/77425",
+        "dub": "https://www.animegg.org/embed/78797",
+        "url": "https://www.animegg.org/magi-sinbad-no-bouken-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/79240",
+        "dub": null,
+        "url": "https://www.animegg.org/magi-sinbad-no-bouken-episode-5"
+      }
+    ]
   }
 ]
