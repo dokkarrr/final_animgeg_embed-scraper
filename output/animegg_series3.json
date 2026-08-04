@@ -127105,5 +127105,93 @@
         "url": "https://www.animegg.org/ookami-to-koushinryou-merchant-meets-the-wise-wolf-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 2605,
+    "title": "Genshiken Nidaime",
+    "animegg_url": "https://www.animegg.org/series/genshiken-nidaime",
+    "mal_url": "https://myanimelist.net/anime/18465",
+    "mal_id": 18465,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/12227",
+        "dub": null,
+        "url": "https://www.animegg.org/genshiken-nidaime-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/12226",
+        "dub": null,
+        "url": "https://www.animegg.org/genshiken-nidaime-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/12225",
+        "dub": null,
+        "url": "https://www.animegg.org/genshiken-nidaime-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/12224",
+        "dub": null,
+        "url": "https://www.animegg.org/genshiken-nidaime-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/12223",
+        "dub": null,
+        "url": "https://www.animegg.org/genshiken-nidaime-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/12229",
+        "dub": null,
+        "url": "https://www.animegg.org/genshiken-nidaime-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/12228",
+        "dub": null,
+        "url": "https://www.animegg.org/genshiken-nidaime-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/12230",
+        "dub": null,
+        "url": "https://www.animegg.org/genshiken-nidaime-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/12231",
+        "dub": null,
+        "url": "https://www.animegg.org/genshiken-nidaime-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/12232",
+        "dub": null,
+        "url": "https://www.animegg.org/genshiken-nidaime-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/12233",
+        "dub": null,
+        "url": "https://www.animegg.org/genshiken-nidaime-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/12234",
+        "dub": null,
+        "url": "https://www.animegg.org/genshiken-nidaime-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/12235",
+        "dub": null,
+        "url": "https://www.animegg.org/genshiken-nidaime-episode-13"
+      }
+    ]
   }
 ]
