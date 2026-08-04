@@ -52254,5 +52254,87 @@
         "url": "https://www.animegg.org/kage-kara-mamoru-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1916,
+    "title": "SSSS.Gridman",
+    "animegg_url": "https://www.animegg.org/series/ssssgridman",
+    "mal_url": "https://myanimelist.net/anime/35847",
+    "mal_id": 35847,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/93104",
+        "dub": "https://www.animegg.org/embed/93476",
+        "url": "https://www.animegg.org/ssssgridman-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/93184",
+        "dub": "https://www.animegg.org/embed/93477",
+        "url": "https://www.animegg.org/ssssgridman-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/93261",
+        "dub": "https://www.animegg.org/embed/93478",
+        "url": "https://www.animegg.org/ssssgridman-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/93346",
+        "dub": "https://www.animegg.org/embed/93397",
+        "url": "https://www.animegg.org/ssssgridman-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/93428",
+        "dub": "https://www.animegg.org/embed/93464",
+        "url": "https://www.animegg.org/ssssgridman-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/93505",
+        "dub": null,
+        "url": "https://www.animegg.org/ssssgridman-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/93586",
+        "dub": null,
+        "url": "https://www.animegg.org/ssssgridman-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/93655",
+        "dub": null,
+        "url": "https://www.animegg.org/ssssgridman-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/93725",
+        "dub": null,
+        "url": "https://www.animegg.org/ssssgridman-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/93799",
+        "dub": null,
+        "url": "https://www.animegg.org/ssssgridman-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/93956",
+        "dub": null,
+        "url": "https://www.animegg.org/ssssgridman-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/94039",
+        "dub": null,
+        "url": "https://www.animegg.org/ssssgridman-episode-12"
+      }
+    ]
   }
 ]
