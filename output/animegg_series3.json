@@ -83450,5 +83450,63 @@
         "url": "https://www.animegg.org/kemono-jihen-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2176,
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+    "animegg_url": "https://www.animegg.org/series/rezero-kara-hajimeru-isekai-seikatsu-3rd-season",
+    "mal_url": "https://myanimelist.net/anime/54857",
+    "mal_id": 54857,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/139153",
+        "dub": null,
+        "url": "https://www.animegg.org/rezero-kara-hajimeru-isekai-seikatsu-3rd-season-episode-8"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/138944",
+        "dub": null,
+        "url": "https://www.animegg.org/rezero-kara-hajimeru-isekai-seikatsu-3rd-season-episode-7"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/138745",
+        "dub": null,
+        "url": "https://www.animegg.org/rezero-kara-hajimeru-isekai-seikatsu-3rd-season-episode-6"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/138508",
+        "dub": null,
+        "url": "https://www.animegg.org/rezero-kara-hajimeru-isekai-seikatsu-3rd-season-episode-5"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/138289",
+        "dub": null,
+        "url": "https://www.animegg.org/rezero-kara-hajimeru-isekai-seikatsu-3rd-season-episode-4"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/138041",
+        "dub": null,
+        "url": "https://www.animegg.org/rezero-kara-hajimeru-isekai-seikatsu-3rd-season-episode-3"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/137789",
+        "dub": null,
+        "url": "https://www.animegg.org/rezero-kara-hajimeru-isekai-seikatsu-3rd-season-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/137537",
+        "dub": null,
+        "url": "https://www.animegg.org/rezero-kara-hajimeru-isekai-seikatsu-3rd-season-episode-1"
+      }
+    ]
   }
 ]
