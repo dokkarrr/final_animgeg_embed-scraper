@@ -36416,5 +36416,93 @@
         "url": "https://www.animegg.org/requiem-from-the-darkness-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 1789,
+    "title": "Onigiri",
+    "animegg_url": "https://www.animegg.org/series/onigiri",
+    "mal_url": "https://myanimelist.net/anime/32606",
+    "mal_id": 32606,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/81826",
+        "dub": null,
+        "url": "https://www.animegg.org/onigiri-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/81922",
+        "dub": "https://www.animegg.org/embed/81924",
+        "url": "https://www.animegg.org/onigiri-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/82014",
+        "dub": null,
+        "url": "https://www.animegg.org/onigiri-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/82086",
+        "dub": null,
+        "url": "https://www.animegg.org/onigiri-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/82188",
+        "dub": null,
+        "url": "https://www.animegg.org/onigiri-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/82270",
+        "dub": "https://www.animegg.org/embed/82271",
+        "url": "https://www.animegg.org/onigiri-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/82351",
+        "dub": null,
+        "url": "https://www.animegg.org/onigiri-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/82452",
+        "dub": null,
+        "url": "https://www.animegg.org/onigiri-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/82530",
+        "dub": null,
+        "url": "https://www.animegg.org/onigiri-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/82625",
+        "dub": null,
+        "url": "https://www.animegg.org/onigiri-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/82707",
+        "dub": null,
+        "url": "https://www.animegg.org/onigiri-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/82784",
+        "dub": null,
+        "url": "https://www.animegg.org/onigiri-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/82853",
+        "dub": null,
+        "url": "https://www.animegg.org/onigiri-episode-13"
+      }
+    ]
   }
 ]
