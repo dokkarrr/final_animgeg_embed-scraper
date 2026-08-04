@@ -105698,5 +105698,51 @@
         "url": "https://www.animegg.org/death-note-rewrite-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 2389,
+    "title": "To LOVE-Ru OVA",
+    "animegg_url": "https://www.animegg.org/series/to-love-ru-ova",
+    "mal_url": "https://myanimelist.net/anime/5667",
+    "mal_id": 5667,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/38303",
+        "dub": null,
+        "url": "https://www.animegg.org/to-love-ru-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/38302",
+        "dub": null,
+        "url": "https://www.animegg.org/to-love-ru-ova-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/38306",
+        "dub": null,
+        "url": "https://www.animegg.org/to-love-ru-ova-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/38304",
+        "dub": null,
+        "url": "https://www.animegg.org/to-love-ru-ova-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/38305",
+        "dub": null,
+        "url": "https://www.animegg.org/to-love-ru-ova-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/38307",
+        "dub": null,
+        "url": "https://www.animegg.org/to-love-ru-ova-episode-6"
+      }
+    ]
   }
 ]
