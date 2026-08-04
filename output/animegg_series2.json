@@ -126378,5 +126378,87 @@
         "url": "https://www.animegg.org/lance-n-masques-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1251,
+    "title": "Girls und Panzer",
+    "animegg_url": "https://www.animegg.org/series/girls-und-panzer",
+    "mal_url": "https://myanimelist.net/anime/14131",
+    "mal_id": 14131,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/13118",
+        "dub": "https://www.animegg.org/embed/13119",
+        "url": "https://www.animegg.org/girls-und-panzer-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/13114",
+        "dub": "https://www.animegg.org/embed/13115",
+        "url": "https://www.animegg.org/girls-und-panzer-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/13110",
+        "dub": "https://www.animegg.org/embed/13111",
+        "url": "https://www.animegg.org/girls-und-panzer-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/13112",
+        "dub": "https://www.animegg.org/embed/13113",
+        "url": "https://www.animegg.org/girls-und-panzer-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/13108",
+        "dub": "https://www.animegg.org/embed/13109",
+        "url": "https://www.animegg.org/girls-und-panzer-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/13116",
+        "dub": "https://www.animegg.org/embed/13117",
+        "url": "https://www.animegg.org/girls-und-panzer-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/13120",
+        "dub": "https://www.animegg.org/embed/13121",
+        "url": "https://www.animegg.org/girls-und-panzer-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/13122",
+        "dub": "https://www.animegg.org/embed/13123",
+        "url": "https://www.animegg.org/girls-und-panzer-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/13124",
+        "dub": "https://www.animegg.org/embed/13125",
+        "url": "https://www.animegg.org/girls-und-panzer-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/13126",
+        "dub": "https://www.animegg.org/embed/13127",
+        "url": "https://www.animegg.org/girls-und-panzer-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/13128",
+        "dub": "https://www.animegg.org/embed/13129",
+        "url": "https://www.animegg.org/girls-und-panzer-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/13130",
+        "dub": "https://www.animegg.org/embed/13131",
+        "url": "https://www.animegg.org/girls-und-panzer-episode-12"
+      }
+    ]
   }
 ]
