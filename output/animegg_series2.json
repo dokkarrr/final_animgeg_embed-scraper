@@ -44238,5 +44238,87 @@
         "url": "https://www.animegg.org/spider-riders-episode-52"
       }
     ]
+  },
+  {
+    "serial_no": 756,
+    "title": "Gakkou Gurashi!",
+    "animegg_url": "https://www.animegg.org/series/gakkou-gurashi",
+    "mal_url": "https://myanimelist.net/anime/24765",
+    "mal_id": 24765,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/77804",
+        "dub": null,
+        "url": "https://www.animegg.org/gakkou-gurashi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/77975",
+        "dub": null,
+        "url": "https://www.animegg.org/gakkou-gurashi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/78173",
+        "dub": null,
+        "url": "https://www.animegg.org/gakkou-gurashi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/78263",
+        "dub": null,
+        "url": "https://www.animegg.org/gakkou-gurashi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/78394",
+        "dub": null,
+        "url": "https://www.animegg.org/gakkou-gurashi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/78501",
+        "dub": null,
+        "url": "https://www.animegg.org/gakkou-gurashi-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/78612",
+        "dub": null,
+        "url": "https://www.animegg.org/gakkou-gurashi-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/78726",
+        "dub": null,
+        "url": "https://www.animegg.org/gakkou-gurashi-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/78855",
+        "dub": null,
+        "url": "https://www.animegg.org/gakkou-gurashi-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/78949",
+        "dub": null,
+        "url": "https://www.animegg.org/gakkou-gurashi-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/79071",
+        "dub": null,
+        "url": "https://www.animegg.org/gakkou-gurashi-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/79166",
+        "dub": "https://www.animegg.org/embed/79174",
+        "url": "https://www.animegg.org/gakkou-gurashi-episode-12"
+      }
+    ]
   }
 ]
