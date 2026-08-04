@@ -12202,5 +12202,87 @@
         "url": "https://www.animegg.org/bakugan-episode-51"
       }
     ]
+  },
+  {
+    "serial_no": 571,
+    "title": "Maken-Ki!",
+    "animegg_url": "https://www.animegg.org/series/maken-ki",
+    "mal_url": "https://myanimelist.net/anime/9936",
+    "mal_id": 9936,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/22955",
+        "dub": "https://www.animegg.org/embed/22956",
+        "url": "https://www.animegg.org/maken-ki-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/22953",
+        "dub": "https://www.animegg.org/embed/22954",
+        "url": "https://www.animegg.org/maken-ki-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/22951",
+        "dub": "https://www.animegg.org/embed/22952",
+        "url": "https://www.animegg.org/maken-ki-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/22949",
+        "dub": "https://www.animegg.org/embed/22950",
+        "url": "https://www.animegg.org/maken-ki-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/22947",
+        "dub": "https://www.animegg.org/embed/22948",
+        "url": "https://www.animegg.org/maken-ki-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/22959",
+        "dub": "https://www.animegg.org/embed/22960",
+        "url": "https://www.animegg.org/maken-ki-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/22957",
+        "dub": "https://www.animegg.org/embed/22958",
+        "url": "https://www.animegg.org/maken-ki-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/22965",
+        "dub": "https://www.animegg.org/embed/22966",
+        "url": "https://www.animegg.org/maken-ki-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/22961",
+        "dub": "https://www.animegg.org/embed/22962",
+        "url": "https://www.animegg.org/maken-ki-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/22963",
+        "dub": "https://www.animegg.org/embed/22964",
+        "url": "https://www.animegg.org/maken-ki-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/22967",
+        "dub": "https://www.animegg.org/embed/22968",
+        "url": "https://www.animegg.org/maken-ki-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/22969",
+        "dub": "https://www.animegg.org/embed/22970",
+        "url": "https://www.animegg.org/maken-ki-episode-12"
+      }
+    ]
   }
 ]
