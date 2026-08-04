@@ -98200,5 +98200,63 @@
         "url": "https://www.animegg.org/slayers-evolution-r-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2313,
+    "title": "Hunter X Hunter OVA",
+    "animegg_url": "https://www.animegg.org/series/hunter-x-hunter-spider-ova",
+    "mal_url": "https://myanimelist.net/anime/11061",
+    "mal_id": 11061,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/17182",
+        "dub": null,
+        "url": "https://www.animegg.org/hunter-x-hunter-spider-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/17181",
+        "dub": null,
+        "url": "https://www.animegg.org/hunter-x-hunter-spider-ova-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/17178",
+        "dub": null,
+        "url": "https://www.animegg.org/hunter-x-hunter-spider-ova-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/17180",
+        "dub": null,
+        "url": "https://www.animegg.org/hunter-x-hunter-spider-ova-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/17179",
+        "dub": null,
+        "url": "https://www.animegg.org/hunter-x-hunter-spider-ova-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/17183",
+        "dub": null,
+        "url": "https://www.animegg.org/hunter-x-hunter-spider-ova-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/17185",
+        "dub": null,
+        "url": "https://www.animegg.org/hunter-x-hunter-spider-ova-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/17184",
+        "dub": null,
+        "url": "https://www.animegg.org/hunter-x-hunter-spider-ova-episode-8"
+      }
+    ]
   }
 ]
