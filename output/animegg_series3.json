@@ -39782,5 +39782,39 @@
         "url": "https://www.animegg.org/million-doll-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1819,
+    "title": "Pokemon XY: Mega Evolution",
+    "animegg_url": "https://www.animegg.org/series/pokemon-xy-mega-evolution",
+    "mal_url": "https://myanimelist.net/anime/23301",
+    "mal_id": 23301,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/46370",
+        "dub": "https://www.animegg.org/embed/46371",
+        "url": "https://www.animegg.org/pokemon-xy-mega-evolution-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/66538",
+        "dub": "https://www.animegg.org/embed/66842",
+        "url": "https://www.animegg.org/pokemon-xy-mega-evolution-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/75712",
+        "dub": "https://www.animegg.org/embed/75968",
+        "url": "https://www.animegg.org/pokemon-xy-mega-evolution-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/79689",
+        "dub": "https://www.animegg.org/embed/79769",
+        "url": "https://www.animegg.org/pokemon-xy-mega-evolution-episode-4"
+      }
+    ]
   }
 ]
