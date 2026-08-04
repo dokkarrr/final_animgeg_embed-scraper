@@ -132923,5 +132923,87 @@
         "url": "https://www.animegg.org/world-trigger-3rd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 2672,
+    "title": "Alice to Zouroku",
+    "animegg_url": "https://www.animegg.org/series/alice-to-zouroku",
+    "mal_url": "https://myanimelist.net/anime/34350",
+    "mal_id": 34350,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/86429",
+        "dub": null,
+        "url": "https://www.animegg.org/alice-to-zouroku-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/86529",
+        "dub": null,
+        "url": "https://www.animegg.org/alice-to-zouroku-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/86613",
+        "dub": null,
+        "url": "https://www.animegg.org/alice-to-zouroku-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/86701",
+        "dub": null,
+        "url": "https://www.animegg.org/alice-to-zouroku-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/86786",
+        "dub": null,
+        "url": "https://www.animegg.org/alice-to-zouroku-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/86940",
+        "dub": null,
+        "url": "https://www.animegg.org/alice-to-zouroku-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/87019",
+        "dub": null,
+        "url": "https://www.animegg.org/alice-to-zouroku-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/87100",
+        "dub": null,
+        "url": "https://www.animegg.org/alice-to-zouroku-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/87186",
+        "dub": null,
+        "url": "https://www.animegg.org/alice-to-zouroku-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/87259",
+        "dub": null,
+        "url": "https://www.animegg.org/alice-to-zouroku-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/87329",
+        "dub": null,
+        "url": "https://www.animegg.org/alice-to-zouroku-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/87405",
+        "dub": null,
+        "url": "https://www.animegg.org/alice-to-zouroku-episode-12"
+      }
+    ]
   }
 ]
