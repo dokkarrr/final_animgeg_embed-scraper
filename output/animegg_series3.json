@@ -86938,5 +86938,93 @@
         "url": "https://www.animegg.org/real-drive-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 2208,
+    "title": "Uchouten Kazoku",
+    "animegg_url": "https://www.animegg.org/series/uchouten-kazoku",
+    "mal_url": "https://myanimelist.net/anime/17909",
+    "mal_id": 17909,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/39150",
+        "dub": null,
+        "url": "https://www.animegg.org/uchouten-kazoku-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/39149",
+        "dub": null,
+        "url": "https://www.animegg.org/uchouten-kazoku-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/39148",
+        "dub": null,
+        "url": "https://www.animegg.org/uchouten-kazoku-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/39147",
+        "dub": null,
+        "url": "https://www.animegg.org/uchouten-kazoku-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/39146",
+        "dub": null,
+        "url": "https://www.animegg.org/uchouten-kazoku-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/39153",
+        "dub": null,
+        "url": "https://www.animegg.org/uchouten-kazoku-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/39151",
+        "dub": null,
+        "url": "https://www.animegg.org/uchouten-kazoku-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/39152",
+        "dub": null,
+        "url": "https://www.animegg.org/uchouten-kazoku-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/39154",
+        "dub": null,
+        "url": "https://www.animegg.org/uchouten-kazoku-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/39155",
+        "dub": null,
+        "url": "https://www.animegg.org/uchouten-kazoku-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/39156",
+        "dub": null,
+        "url": "https://www.animegg.org/uchouten-kazoku-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/39157",
+        "dub": null,
+        "url": "https://www.animegg.org/uchouten-kazoku-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/39158",
+        "dub": null,
+        "url": "https://www.animegg.org/uchouten-kazoku-episode-13"
+      }
+    ]
   }
 ]
