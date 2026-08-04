@@ -95950,5 +95950,93 @@
         "url": "https://www.animegg.org/megas-xlr-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 2289,
+    "title": "Katsugeki/Touken Ranbu",
+    "animegg_url": "https://www.animegg.org/series/katsugekitouken-ranbu",
+    "mal_url": "https://myanimelist.net/anime/33018",
+    "mal_id": 33018,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/87448",
+        "dub": null,
+        "url": "https://www.animegg.org/katsugekitouken-ranbu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/87536",
+        "dub": null,
+        "url": "https://www.animegg.org/katsugekitouken-ranbu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/87608",
+        "dub": null,
+        "url": "https://www.animegg.org/katsugekitouken-ranbu-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/87673",
+        "dub": null,
+        "url": "https://www.animegg.org/katsugekitouken-ranbu-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/87746",
+        "dub": null,
+        "url": "https://www.animegg.org/katsugekitouken-ranbu-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/87837",
+        "dub": null,
+        "url": "https://www.animegg.org/katsugekitouken-ranbu-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/87912",
+        "dub": null,
+        "url": "https://www.animegg.org/katsugekitouken-ranbu-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/88013",
+        "dub": null,
+        "url": "https://www.animegg.org/katsugekitouken-ranbu-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/88071",
+        "dub": null,
+        "url": "https://www.animegg.org/katsugekitouken-ranbu-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/88150",
+        "dub": null,
+        "url": "https://www.animegg.org/katsugekitouken-ranbu-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/88231",
+        "dub": null,
+        "url": "https://www.animegg.org/katsugekitouken-ranbu-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/88310",
+        "dub": null,
+        "url": "https://www.animegg.org/katsugekitouken-ranbu-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/88432",
+        "dub": null,
+        "url": "https://www.animegg.org/katsugekitouken-ranbu-episode-13"
+      }
+    ]
   }
 ]
