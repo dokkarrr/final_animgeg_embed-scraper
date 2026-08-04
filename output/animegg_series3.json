@@ -130279,5 +130279,33 @@
         "url": "https://www.animegg.org/binbou-shimai-monogatari-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 2641,
+    "title": "New Prince of Tennis Specials",
+    "animegg_url": "https://www.animegg.org/series/new-prince-of-tennis-specials",
+    "mal_url": "https://myanimelist.net/anime/13245",
+    "mal_id": 13245,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/27151",
+        "dub": null,
+        "url": "https://www.animegg.org/new-prince-of-tennis-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/27150",
+        "dub": null,
+        "url": "https://www.animegg.org/new-prince-of-tennis-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/new-prince-of-tennis-specials-episode-3"
+      }
+    ]
   }
 ]
