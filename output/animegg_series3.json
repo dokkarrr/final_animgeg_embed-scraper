@@ -16448,5 +16448,93 @@
         "url": "https://www.animegg.org/love-live-school-idol-project-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 1654,
+    "title": "Yami No Matsuei",
+    "animegg_url": "https://www.animegg.org/series/yami-no-matsuei",
+    "mal_url": "https://myanimelist.net/anime/553",
+    "mal_id": 553,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/40986",
+        "dub": "https://www.animegg.org/embed/40987",
+        "url": "https://www.animegg.org/yami-no-matsuei-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/40988",
+        "dub": "https://www.animegg.org/embed/40989",
+        "url": "https://www.animegg.org/yami-no-matsuei-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/40994",
+        "dub": "https://www.animegg.org/embed/40995",
+        "url": "https://www.animegg.org/yami-no-matsuei-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/40990",
+        "dub": "https://www.animegg.org/embed/40991",
+        "url": "https://www.animegg.org/yami-no-matsuei-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/40992",
+        "dub": "https://www.animegg.org/embed/40993",
+        "url": "https://www.animegg.org/yami-no-matsuei-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/40996",
+        "dub": "https://www.animegg.org/embed/40997",
+        "url": "https://www.animegg.org/yami-no-matsuei-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/41000",
+        "dub": "https://www.animegg.org/embed/41001",
+        "url": "https://www.animegg.org/yami-no-matsuei-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/40998",
+        "dub": "https://www.animegg.org/embed/40999",
+        "url": "https://www.animegg.org/yami-no-matsuei-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/41002",
+        "dub": "https://www.animegg.org/embed/41003",
+        "url": "https://www.animegg.org/yami-no-matsuei-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/41004",
+        "dub": "https://www.animegg.org/embed/41005",
+        "url": "https://www.animegg.org/yami-no-matsuei-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/41008",
+        "dub": "https://www.animegg.org/embed/41009",
+        "url": "https://www.animegg.org/yami-no-matsuei-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/41006",
+        "dub": "https://www.animegg.org/embed/41007",
+        "url": "https://www.animegg.org/yami-no-matsuei-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/41010",
+        "dub": "https://www.animegg.org/embed/41011",
+        "url": "https://www.animegg.org/yami-no-matsuei-episode-13"
+      }
+    ]
   }
 ]
