@@ -97020,5 +97020,87 @@
         "url": "https://www.animegg.org/sengoku-night-blood-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2300,
+    "title": "Gift: Eternal Rainbow",
+    "animegg_url": "https://www.animegg.org/series/gift-eternal-rainbow",
+    "mal_url": "https://myanimelist.net/anime/1581",
+    "mal_id": 1581,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/12579",
+        "dub": null,
+        "url": "https://www.animegg.org/gift-eternal-rainbow-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/12581",
+        "dub": null,
+        "url": "https://www.animegg.org/gift-eternal-rainbow-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/12577",
+        "dub": null,
+        "url": "https://www.animegg.org/gift-eternal-rainbow-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/12580",
+        "dub": null,
+        "url": "https://www.animegg.org/gift-eternal-rainbow-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/12578",
+        "dub": null,
+        "url": "https://www.animegg.org/gift-eternal-rainbow-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/12582",
+        "dub": null,
+        "url": "https://www.animegg.org/gift-eternal-rainbow-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/12583",
+        "dub": null,
+        "url": "https://www.animegg.org/gift-eternal-rainbow-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/12584",
+        "dub": null,
+        "url": "https://www.animegg.org/gift-eternal-rainbow-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/12585",
+        "dub": null,
+        "url": "https://www.animegg.org/gift-eternal-rainbow-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/12586",
+        "dub": null,
+        "url": "https://www.animegg.org/gift-eternal-rainbow-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/12587",
+        "dub": null,
+        "url": "https://www.animegg.org/gift-eternal-rainbow-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/12588",
+        "dub": null,
+        "url": "https://www.animegg.org/gift-eternal-rainbow-episode-12"
+      }
+    ]
   }
 ]
