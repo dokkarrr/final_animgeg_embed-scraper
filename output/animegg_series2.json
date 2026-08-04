@@ -125536,5 +125536,93 @@
         "url": "https://www.animegg.org/junjou-romantica-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 1243,
+    "title": "Kanojo ga Flag wo Oraretara",
+    "animegg_url": "https://www.animegg.org/series/kanojo-ga-flag-wo-oraretara",
+    "mal_url": "https://myanimelist.net/anime/19685",
+    "mal_id": 19685,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/19513",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-ga-flag-wo-oraretara-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/19512",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-ga-flag-wo-oraretara-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/19511",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-ga-flag-wo-oraretara-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/19510",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-ga-flag-wo-oraretara-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/19509",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-ga-flag-wo-oraretara-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/19514",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-ga-flag-wo-oraretara-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/19515",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-ga-flag-wo-oraretara-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/19516",
+        "dub": "https://www.animegg.org/embed/19517",
+        "url": "https://www.animegg.org/kanojo-ga-flag-wo-oraretara-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/19518",
+        "dub": "https://www.animegg.org/embed/19519",
+        "url": "https://www.animegg.org/kanojo-ga-flag-wo-oraretara-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/19520",
+        "dub": "https://www.animegg.org/embed/19521",
+        "url": "https://www.animegg.org/kanojo-ga-flag-wo-oraretara-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/19522",
+        "dub": "https://www.animegg.org/embed/19523",
+        "url": "https://www.animegg.org/kanojo-ga-flag-wo-oraretara-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/19524",
+        "dub": "https://www.animegg.org/embed/19525",
+        "url": "https://www.animegg.org/kanojo-ga-flag-wo-oraretara-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/19526",
+        "dub": "https://www.animegg.org/embed/19527",
+        "url": "https://www.animegg.org/kanojo-ga-flag-wo-oraretara-episode-13"
+      }
+    ]
   }
 ]
