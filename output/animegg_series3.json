@@ -17042,5 +17042,57 @@
         "url": "https://www.animegg.org/ijiranaide-nagatoro-san-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1660,
+    "title": "To LOVE-Ru Darkness OVA",
+    "animegg_url": "https://www.animegg.org/series/to-love-ru-darkness-ova",
+    "mal_url": "https://myanimelist.net/anime/13851",
+    "mal_id": 13851,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/38301",
+        "dub": null,
+        "url": "https://www.animegg.org/to-love-ru-darkness-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/38300",
+        "dub": null,
+        "url": "https://www.animegg.org/to-love-ru-darkness-ova-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/38298",
+        "dub": null,
+        "url": "https://www.animegg.org/to-love-ru-darkness-ova-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/38299",
+        "dub": null,
+        "url": "https://www.animegg.org/to-love-ru-darkness-ova-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/67380",
+        "dub": "https://www.animegg.org/embed/67412",
+        "url": "https://www.animegg.org/to-love-ru-darkness-ova-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/75974",
+        "dub": "https://www.animegg.org/embed/75989",
+        "url": "https://www.animegg.org/to-love-ru-darkness-ova-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/80573",
+        "dub": null,
+        "url": "https://www.animegg.org/to-love-ru-darkness-ova-episode-7"
+      }
+    ]
   }
 ]
