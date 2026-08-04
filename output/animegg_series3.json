@@ -109830,5 +109830,21 @@
         "url": "https://www.animegg.org/conception-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2429,
+    "title": "Naruto the Movie: Ninja Clash in the Land of Snow",
+    "animegg_url": "https://www.animegg.org/series/naruto-the-movie-ninja-clash-in-the-land-of-snow",
+    "mal_url": "https://myanimelist.net/anime/442",
+    "mal_id": 442,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/58741",
+        "dub": "https://www.animegg.org/embed/67303",
+        "url": "https://www.animegg.org/naruto-the-movie-ninja-clash-in-the-land-of-snow-episode-1"
+      }
+    ]
   }
 ]
