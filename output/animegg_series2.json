@@ -124084,5 +124084,75 @@
         "url": "https://www.animegg.org/amagami-ss-plus-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 1231,
+    "title": "Isuca",
+    "animegg_url": "https://www.animegg.org/series/isuca",
+    "mal_url": "https://myanimelist.net/anime/25429",
+    "mal_id": 25429,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/73679",
+        "dub": "https://www.animegg.org/embed/73683",
+        "url": "https://www.animegg.org/isuca-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/74653",
+        "dub": null,
+        "url": "https://www.animegg.org/isuca-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/74797",
+        "dub": null,
+        "url": "https://www.animegg.org/isuca-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/74914",
+        "dub": null,
+        "url": "https://www.animegg.org/isuca-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/75033",
+        "dub": null,
+        "url": "https://www.animegg.org/isuca-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/75200",
+        "dub": null,
+        "url": "https://www.animegg.org/isuca-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/75394",
+        "dub": null,
+        "url": "https://www.animegg.org/isuca-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/75598",
+        "dub": null,
+        "url": "https://www.animegg.org/isuca-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/75731",
+        "dub": null,
+        "url": "https://www.animegg.org/isuca-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/75867",
+        "dub": null,
+        "url": "https://www.animegg.org/isuca-episode-10"
+      }
+    ]
   }
 ]
