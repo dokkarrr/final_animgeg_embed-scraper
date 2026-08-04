@@ -39816,5 +39816,51 @@
         "url": "https://www.animegg.org/pokemon-xy-mega-evolution-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 1820,
+    "title": "Golden Boy",
+    "animegg_url": "https://www.animegg.org/series/golden-boy",
+    "mal_url": "https://myanimelist.net/anime/268",
+    "mal_id": 268,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/13367",
+        "dub": "https://www.animegg.org/embed/13368",
+        "url": "https://www.animegg.org/golden-boy-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/13365",
+        "dub": "https://www.animegg.org/embed/13366",
+        "url": "https://www.animegg.org/golden-boy-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/13361",
+        "dub": "https://www.animegg.org/embed/13362",
+        "url": "https://www.animegg.org/golden-boy-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/13359",
+        "dub": "https://www.animegg.org/embed/13360",
+        "url": "https://www.animegg.org/golden-boy-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/13363",
+        "dub": "https://www.animegg.org/embed/13364",
+        "url": "https://www.animegg.org/golden-boy-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/13369",
+        "dub": "https://www.animegg.org/embed/13370",
+        "url": "https://www.animegg.org/golden-boy-episode-6"
+      }
+    ]
   }
 ]
