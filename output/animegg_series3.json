@@ -23960,5 +23960,21 @@
         "url": "https://www.animegg.org/mugen-no-juunin-immortal-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 1702,
+    "title": "One Piece 3D2Y",
+    "animegg_url": "https://www.animegg.org/series/one-piece-3d2y",
+    "mal_url": "https://myanimelist.net/anime/25161",
+    "mal_id": 25161,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/66071",
+        "dub": "https://www.animegg.org/embed/66072",
+        "url": "https://www.animegg.org/one-piece-3d2y-episode-1"
+      }
+    ]
   }
 ]
