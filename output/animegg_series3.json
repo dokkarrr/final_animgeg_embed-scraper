@@ -72612,5 +72612,93 @@
         "url": "https://www.animegg.org/rolling-girls-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2093,
+    "title": "W Wish",
+    "animegg_url": "https://www.animegg.org/series/w-wish",
+    "mal_url": "https://myanimelist.net/anime/9967",
+    "mal_id": 9967,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/40098",
+        "dub": null,
+        "url": "https://www.animegg.org/w-wish-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/40088",
+        "dub": null,
+        "url": "https://www.animegg.org/w-wish-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/40087",
+        "dub": null,
+        "url": "https://www.animegg.org/w-wish-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/40099",
+        "dub": null,
+        "url": "https://www.animegg.org/w-wish-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/40089",
+        "dub": null,
+        "url": "https://www.animegg.org/w-wish-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/40091",
+        "dub": null,
+        "url": "https://www.animegg.org/w-wish-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/40090",
+        "dub": null,
+        "url": "https://www.animegg.org/w-wish-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/40094",
+        "dub": null,
+        "url": "https://www.animegg.org/w-wish-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/40092",
+        "dub": null,
+        "url": "https://www.animegg.org/w-wish-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/40093",
+        "dub": null,
+        "url": "https://www.animegg.org/w-wish-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/40095",
+        "dub": null,
+        "url": "https://www.animegg.org/w-wish-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/40096",
+        "dub": null,
+        "url": "https://www.animegg.org/w-wish-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/40097",
+        "dub": null,
+        "url": "https://www.animegg.org/w-wish-episode-13"
+      }
+    ]
   }
 ]
