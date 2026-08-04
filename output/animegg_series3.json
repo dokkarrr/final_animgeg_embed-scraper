@@ -26570,5 +26570,87 @@
         "url": "https://www.animegg.org/genjitsu-shugi-yuusha-no-oukoku-saikenki-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 1723,
+    "title": "SK∞",
+    "animegg_url": "https://www.animegg.org/series/sk",
+    "mal_url": null,
+    "mal_id": null,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/100451",
+        "dub": null,
+        "url": "https://www.animegg.org/sk-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/100550",
+        "dub": null,
+        "url": "https://www.animegg.org/sk-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/100624",
+        "dub": null,
+        "url": "https://www.animegg.org/sk-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/100698",
+        "dub": null,
+        "url": "https://www.animegg.org/sk-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/100768",
+        "dub": null,
+        "url": "https://www.animegg.org/sk-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/100839",
+        "dub": null,
+        "url": "https://www.animegg.org/sk-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/100915",
+        "dub": null,
+        "url": "https://www.animegg.org/sk-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/100990",
+        "dub": null,
+        "url": "https://www.animegg.org/sk-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/101063",
+        "dub": null,
+        "url": "https://www.animegg.org/sk-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/101205",
+        "dub": null,
+        "url": "https://www.animegg.org/sk-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/101276",
+        "dub": null,
+        "url": "https://www.animegg.org/sk-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/101341",
+        "dub": null,
+        "url": "https://www.animegg.org/sk-episode-12"
+      }
+    ]
   }
 ]
