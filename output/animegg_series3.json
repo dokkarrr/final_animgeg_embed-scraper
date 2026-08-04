@@ -39536,5 +39536,87 @@
         "url": "https://www.animegg.org/tenkuu-senki-shurato-episode-38"
       }
     ]
+  },
+  {
+    "serial_no": 1816,
+    "title": "Kannazuki No Miko",
+    "animegg_url": "https://www.animegg.org/series/kannazuki-no-miko",
+    "mal_url": "https://myanimelist.net/anime/143",
+    "mal_id": 143,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/19493",
+        "dub": "https://www.animegg.org/embed/19494",
+        "url": "https://www.animegg.org/kannazuki-no-miko-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/19485",
+        "dub": "https://www.animegg.org/embed/19486",
+        "url": "https://www.animegg.org/kannazuki-no-miko-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/19491",
+        "dub": null,
+        "url": "https://www.animegg.org/kannazuki-no-miko-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/19487",
+        "dub": "https://www.animegg.org/embed/19488",
+        "url": "https://www.animegg.org/kannazuki-no-miko-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/19489",
+        "dub": "https://www.animegg.org/embed/19490",
+        "url": "https://www.animegg.org/kannazuki-no-miko-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/19497",
+        "dub": "https://www.animegg.org/embed/19498",
+        "url": "https://www.animegg.org/kannazuki-no-miko-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/19495",
+        "dub": "https://www.animegg.org/embed/19496",
+        "url": "https://www.animegg.org/kannazuki-no-miko-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/19499",
+        "dub": "https://www.animegg.org/embed/19500",
+        "url": "https://www.animegg.org/kannazuki-no-miko-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/19503",
+        "dub": "https://www.animegg.org/embed/19504",
+        "url": "https://www.animegg.org/kannazuki-no-miko-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/19501",
+        "dub": "https://www.animegg.org/embed/19502",
+        "url": "https://www.animegg.org/kannazuki-no-miko-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/19505",
+        "dub": "https://www.animegg.org/embed/19506",
+        "url": "https://www.animegg.org/kannazuki-no-miko-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/19507",
+        "dub": "https://www.animegg.org/embed/19508",
+        "url": "https://www.animegg.org/kannazuki-no-miko-episode-12"
+      }
+    ]
   }
 ]
