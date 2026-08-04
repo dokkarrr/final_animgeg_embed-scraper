@@ -15172,5 +15172,87 @@
         "url": "https://www.animegg.org/hacklegend-of-the-twilight-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1644,
+    "title": "Senran Kagura",
+    "animegg_url": "https://www.animegg.org/series/senran-kagura",
+    "mal_url": "https://myanimelist.net/anime/15119",
+    "mal_id": 15119,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/33982",
+        "dub": "https://www.animegg.org/embed/74101",
+        "url": "https://www.animegg.org/senran-kagura-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/33981",
+        "dub": "https://www.animegg.org/embed/74102",
+        "url": "https://www.animegg.org/senran-kagura-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/33979",
+        "dub": "https://www.animegg.org/embed/74104",
+        "url": "https://www.animegg.org/senran-kagura-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/33978",
+        "dub": "https://www.animegg.org/embed/74105",
+        "url": "https://www.animegg.org/senran-kagura-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/33980",
+        "dub": "https://www.animegg.org/embed/74106",
+        "url": "https://www.animegg.org/senran-kagura-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/33984",
+        "dub": "https://www.animegg.org/embed/74107",
+        "url": "https://www.animegg.org/senran-kagura-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/33983",
+        "dub": "https://www.animegg.org/embed/74108",
+        "url": "https://www.animegg.org/senran-kagura-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/33985",
+        "dub": "https://www.animegg.org/embed/74109",
+        "url": "https://www.animegg.org/senran-kagura-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/33986",
+        "dub": "https://www.animegg.org/embed/74110",
+        "url": "https://www.animegg.org/senran-kagura-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/33988",
+        "dub": "https://www.animegg.org/embed/74111",
+        "url": "https://www.animegg.org/senran-kagura-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/33989",
+        "dub": "https://www.animegg.org/embed/74112",
+        "url": "https://www.animegg.org/senran-kagura-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/33987",
+        "dub": "https://www.animegg.org/embed/74113",
+        "url": "https://www.animegg.org/senran-kagura-episode-12"
+      }
+    ]
   }
 ]
