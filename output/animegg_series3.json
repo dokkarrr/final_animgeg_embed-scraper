@@ -29656,5 +29656,99 @@
         "url": "https://www.animegg.org/beyblade-shogun-steel-episode-22"
       }
     ]
+  },
+  {
+    "serial_no": 1749,
+    "title": "Tokyo Majin",
+    "animegg_url": "https://www.animegg.org/series/tokyo-majin",
+    "mal_url": "https://myanimelist.net/anime/1860",
+    "mal_id": 1860,
+    "total_ep": 14,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/38448",
+        "dub": "https://www.animegg.org/embed/38449",
+        "url": "https://www.animegg.org/tokyo-majin-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/38454",
+        "dub": "https://www.animegg.org/embed/38455",
+        "url": "https://www.animegg.org/tokyo-majin-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/38450",
+        "dub": "https://www.animegg.org/embed/38451",
+        "url": "https://www.animegg.org/tokyo-majin-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/38452",
+        "dub": "https://www.animegg.org/embed/38453",
+        "url": "https://www.animegg.org/tokyo-majin-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/38456",
+        "dub": "https://www.animegg.org/embed/38457",
+        "url": "https://www.animegg.org/tokyo-majin-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/38460",
+        "dub": "https://www.animegg.org/embed/38461",
+        "url": "https://www.animegg.org/tokyo-majin-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/38462",
+        "dub": "https://www.animegg.org/embed/38463",
+        "url": "https://www.animegg.org/tokyo-majin-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/38458",
+        "dub": "https://www.animegg.org/embed/38459",
+        "url": "https://www.animegg.org/tokyo-majin-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/38464",
+        "dub": "https://www.animegg.org/embed/38465",
+        "url": "https://www.animegg.org/tokyo-majin-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/38466",
+        "dub": "https://www.animegg.org/embed/38467",
+        "url": "https://www.animegg.org/tokyo-majin-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/38468",
+        "dub": "https://www.animegg.org/embed/38469",
+        "url": "https://www.animegg.org/tokyo-majin-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/38472",
+        "dub": "https://www.animegg.org/embed/38473",
+        "url": "https://www.animegg.org/tokyo-majin-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/38470",
+        "dub": "https://www.animegg.org/embed/38471",
+        "url": "https://www.animegg.org/tokyo-majin-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/38474",
+        "dub": "https://www.animegg.org/embed/38475",
+        "url": "https://www.animegg.org/tokyo-majin-episode-14"
+      }
+    ]
   }
 ]
