@@ -44546,5 +44546,87 @@
         "url": "https://www.animegg.org/kemeko-deluxe-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1864,
+    "title": "Show by Rock!!",
+    "animegg_url": "https://www.animegg.org/series/show-by-rock",
+    "mal_url": "https://myanimelist.net/anime/27441",
+    "mal_id": 27441,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/76049",
+        "dub": "https://www.animegg.org/embed/77285",
+        "url": "https://www.animegg.org/show-by-rock-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/76181",
+        "dub": "https://www.animegg.org/embed/77450",
+        "url": "https://www.animegg.org/show-by-rock-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/76342",
+        "dub": "https://www.animegg.org/embed/86160",
+        "url": "https://www.animegg.org/show-by-rock-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/76465",
+        "dub": "https://www.animegg.org/embed/78094",
+        "url": "https://www.animegg.org/show-by-rock-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/76602",
+        "dub": "https://www.animegg.org/embed/78095",
+        "url": "https://www.animegg.org/show-by-rock-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/76718",
+        "dub": "https://www.animegg.org/embed/78096",
+        "url": "https://www.animegg.org/show-by-rock-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/76832",
+        "dub": "https://www.animegg.org/embed/78775",
+        "url": "https://www.animegg.org/show-by-rock-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/76928",
+        "dub": "https://www.animegg.org/embed/78774",
+        "url": "https://www.animegg.org/show-by-rock-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/77018",
+        "dub": "https://www.animegg.org/embed/78773",
+        "url": "https://www.animegg.org/show-by-rock-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/77225",
+        "dub": "https://www.animegg.org/embed/78772",
+        "url": "https://www.animegg.org/show-by-rock-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/77364",
+        "dub": "https://www.animegg.org/embed/78771",
+        "url": "https://www.animegg.org/show-by-rock-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/77511",
+        "dub": "https://www.animegg.org/embed/78770",
+        "url": "https://www.animegg.org/show-by-rock-episode-12"
+      }
+    ]
   }
 ]
