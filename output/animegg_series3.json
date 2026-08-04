@@ -64480,5 +64480,87 @@
         "url": "https://www.animegg.org/domo-tv-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 2019,
+    "title": "Full Metal Panic! Invisible Victory",
+    "animegg_url": "https://www.animegg.org/series/full-metal-panic-invisible-victory",
+    "mal_url": "https://myanimelist.net/anime/31931",
+    "mal_id": 31931,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/90753",
+        "dub": "https://www.animegg.org/embed/90758",
+        "url": "https://www.animegg.org/full-metal-panic-invisible-victory-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/90833",
+        "dub": null,
+        "url": "https://www.animegg.org/full-metal-panic-invisible-victory-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/90927",
+        "dub": null,
+        "url": "https://www.animegg.org/full-metal-panic-invisible-victory-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/91024",
+        "dub": null,
+        "url": "https://www.animegg.org/full-metal-panic-invisible-victory-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/91357",
+        "dub": null,
+        "url": "https://www.animegg.org/full-metal-panic-invisible-victory-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/91289",
+        "dub": null,
+        "url": "https://www.animegg.org/full-metal-panic-invisible-victory-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/91363",
+        "dub": null,
+        "url": "https://www.animegg.org/full-metal-panic-invisible-victory-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/91462",
+        "dub": null,
+        "url": "https://www.animegg.org/full-metal-panic-invisible-victory-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/91623",
+        "dub": null,
+        "url": "https://www.animegg.org/full-metal-panic-invisible-victory-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/91687",
+        "dub": null,
+        "url": "https://www.animegg.org/full-metal-panic-invisible-victory-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/91916",
+        "dub": "https://www.animegg.org/embed/91926",
+        "url": "https://www.animegg.org/full-metal-panic-invisible-victory-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/91915",
+        "dub": "https://www.animegg.org/embed/91927",
+        "url": "https://www.animegg.org/full-metal-panic-invisible-victory-episode-12"
+      }
+    ]
   }
 ]
