@@ -119347,5 +119347,93 @@
         "url": "https://www.animegg.org/rwby-volume-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 2536,
+    "title": "Vandread: The Second Stage",
+    "animegg_url": "https://www.animegg.org/series/vandread-the-second-stage",
+    "mal_url": "https://myanimelist.net/anime/181",
+    "mal_id": 181,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/64416",
+        "dub": "https://www.animegg.org/embed/64417",
+        "url": "https://www.animegg.org/vandread-the-second-stage-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/64418",
+        "dub": "https://www.animegg.org/embed/64419",
+        "url": "https://www.animegg.org/vandread-the-second-stage-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/64420",
+        "dub": "https://www.animegg.org/embed/64421",
+        "url": "https://www.animegg.org/vandread-the-second-stage-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/64422",
+        "dub": "https://www.animegg.org/embed/64423",
+        "url": "https://www.animegg.org/vandread-the-second-stage-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/64424",
+        "dub": "https://www.animegg.org/embed/64425",
+        "url": "https://www.animegg.org/vandread-the-second-stage-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/64426",
+        "dub": "https://www.animegg.org/embed/64427",
+        "url": "https://www.animegg.org/vandread-the-second-stage-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/64428",
+        "dub": "https://www.animegg.org/embed/64429",
+        "url": "https://www.animegg.org/vandread-the-second-stage-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/64430",
+        "dub": "https://www.animegg.org/embed/64431",
+        "url": "https://www.animegg.org/vandread-the-second-stage-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/64432",
+        "dub": "https://www.animegg.org/embed/64433",
+        "url": "https://www.animegg.org/vandread-the-second-stage-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/64434",
+        "dub": "https://www.animegg.org/embed/64435",
+        "url": "https://www.animegg.org/vandread-the-second-stage-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/64436",
+        "dub": "https://www.animegg.org/embed/64437",
+        "url": "https://www.animegg.org/vandread-the-second-stage-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/64438",
+        "dub": "https://www.animegg.org/embed/64439",
+        "url": "https://www.animegg.org/vandread-the-second-stage-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/64440",
+        "dub": "https://www.animegg.org/embed/64441",
+        "url": "https://www.animegg.org/vandread-the-second-stage-episode-13"
+      }
+    ]
   }
 ]
