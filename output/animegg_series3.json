@@ -96822,5 +96822,81 @@
         "url": "https://www.animegg.org/my-wife-is-a-high-school-girl-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2297,
+    "title": "Eden of the East",
+    "animegg_url": "https://www.animegg.org/series/eden-of-the-east",
+    "mal_url": "https://myanimelist.net/anime/5630",
+    "mal_id": 5630,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/9734",
+        "dub": "https://www.animegg.org/embed/9735",
+        "url": "https://www.animegg.org/eden-of-the-east-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/9733",
+        "dub": null,
+        "url": "https://www.animegg.org/eden-of-the-east-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/9737",
+        "dub": null,
+        "url": "https://www.animegg.org/eden-of-the-east-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/9738",
+        "dub": null,
+        "url": "https://www.animegg.org/eden-of-the-east-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/9736",
+        "dub": null,
+        "url": "https://www.animegg.org/eden-of-the-east-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/9739",
+        "dub": null,
+        "url": "https://www.animegg.org/eden-of-the-east-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/9741",
+        "dub": null,
+        "url": "https://www.animegg.org/eden-of-the-east-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/9740",
+        "dub": null,
+        "url": "https://www.animegg.org/eden-of-the-east-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/9742",
+        "dub": null,
+        "url": "https://www.animegg.org/eden-of-the-east-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/9743",
+        "dub": null,
+        "url": "https://www.animegg.org/eden-of-the-east-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/9744",
+        "dub": null,
+        "url": "https://www.animegg.org/eden-of-the-east-episode-11"
+      }
+    ]
   }
 ]
