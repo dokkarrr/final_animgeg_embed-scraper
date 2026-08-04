@@ -72876,5 +72876,87 @@
         "url": "https://www.animegg.org/onihei-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2096,
+    "title": "Gatchaman Crowds",
+    "animegg_url": "https://www.animegg.org/series/gatchaman-crowds",
+    "mal_url": "https://myanimelist.net/anime/18229",
+    "mal_id": 18229,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/12095",
+        "dub": "https://www.animegg.org/embed/74244",
+        "url": "https://www.animegg.org/gatchaman-crowds-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/12091",
+        "dub": "https://www.animegg.org/embed/74243",
+        "url": "https://www.animegg.org/gatchaman-crowds-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/12090",
+        "dub": "https://www.animegg.org/embed/74242",
+        "url": "https://www.animegg.org/gatchaman-crowds-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/12089",
+        "dub": "https://www.animegg.org/embed/74241",
+        "url": "https://www.animegg.org/gatchaman-crowds-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/12088",
+        "dub": "https://www.animegg.org/embed/74240",
+        "url": "https://www.animegg.org/gatchaman-crowds-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/12092",
+        "dub": "https://www.animegg.org/embed/74239",
+        "url": "https://www.animegg.org/gatchaman-crowds-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/12094",
+        "dub": "https://www.animegg.org/embed/74238",
+        "url": "https://www.animegg.org/gatchaman-crowds-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/12093",
+        "dub": "https://www.animegg.org/embed/74237",
+        "url": "https://www.animegg.org/gatchaman-crowds-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/12096",
+        "dub": "https://www.animegg.org/embed/74236",
+        "url": "https://www.animegg.org/gatchaman-crowds-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/12097",
+        "dub": "https://www.animegg.org/embed/74235",
+        "url": "https://www.animegg.org/gatchaman-crowds-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/12098",
+        "dub": "https://www.animegg.org/embed/74234",
+        "url": "https://www.animegg.org/gatchaman-crowds-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/12099",
+        "dub": "https://www.animegg.org/embed/74233",
+        "url": "https://www.animegg.org/gatchaman-crowds-episode-12"
+      }
+    ]
   }
 ]
