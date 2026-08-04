@@ -126723,5 +126723,75 @@
         "url": "https://www.animegg.org/gingitsune-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2601,
+    "title": "Nanatsu no Bitoku",
+    "animegg_url": "https://www.animegg.org/series/nanatsu-no-bitoku",
+    "mal_url": "https://myanimelist.net/anime/36847",
+    "mal_id": 36847,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/89890",
+        "dub": null,
+        "url": "https://www.animegg.org/nanatsu-no-bitoku-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/89975",
+        "dub": null,
+        "url": "https://www.animegg.org/nanatsu-no-bitoku-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/90051",
+        "dub": null,
+        "url": "https://www.animegg.org/nanatsu-no-bitoku-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/90147",
+        "dub": null,
+        "url": "https://www.animegg.org/nanatsu-no-bitoku-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/90245",
+        "dub": null,
+        "url": "https://www.animegg.org/nanatsu-no-bitoku-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/90270",
+        "dub": null,
+        "url": "https://www.animegg.org/nanatsu-no-bitoku-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/90346",
+        "dub": null,
+        "url": "https://www.animegg.org/nanatsu-no-bitoku-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/90430",
+        "dub": null,
+        "url": "https://www.animegg.org/nanatsu-no-bitoku-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/90514",
+        "dub": null,
+        "url": "https://www.animegg.org/nanatsu-no-bitoku-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/90597",
+        "dub": null,
+        "url": "https://www.animegg.org/nanatsu-no-bitoku-episode-10"
+      }
+    ]
   }
 ]
