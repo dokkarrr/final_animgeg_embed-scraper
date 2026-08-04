@@ -3088,5 +3088,165 @@
         "url": "https://www.animegg.org/juuni-taisen-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1569,
+    "title": "Sakura Quest",
+    "animegg_url": "https://www.animegg.org/series/sakura-quest",
+    "mal_url": "https://myanimelist.net/anime/34494",
+    "mal_id": 34494,
+    "total_ep": 25,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/86460",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-quest-episode-1-7491"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/86561",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-quest-episode-2-3602"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/86646",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-quest-episode-3-1528"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/86732",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-quest-episode-4-6710"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/86813",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-quest-episode-5-1009"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/86893",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-quest-episode-6-4989"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/86968",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-quest-episode-7-5464"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/87050",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-quest-episode-8-2065"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/87140",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-quest-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/87220",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-quest-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/87287",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-quest-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/87356",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-quest-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/87426",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-quest-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/87500",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-quest-episode-14"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/87578",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-quest-episode-15"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/87645",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-quest-episode-16"
+      },
+      {
+        "ep": 17,
+        "sub": "https://www.animegg.org/embed/87717",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-quest-episode-17"
+      },
+      {
+        "ep": 18,
+        "sub": "https://www.animegg.org/embed/87811",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-quest-episode-18"
+      },
+      {
+        "ep": 19,
+        "sub": "https://www.animegg.org/embed/87884",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-quest-episode-19"
+      },
+      {
+        "ep": 20,
+        "sub": "https://www.animegg.org/embed/87957",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-quest-episode-20"
+      },
+      {
+        "ep": 21,
+        "sub": "https://www.animegg.org/embed/88043",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-quest-episode-21"
+      },
+      {
+        "ep": 22,
+        "sub": "https://www.animegg.org/embed/88119",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-quest-episode-22"
+      },
+      {
+        "ep": 23,
+        "sub": "https://www.animegg.org/embed/88202",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-quest-episode-23"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/88277",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-quest-episode-24"
+      },
+      {
+        "ep": 25,
+        "sub": "https://www.animegg.org/embed/88371",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-quest-episode-25"
+      }
+    ]
   }
 ]
