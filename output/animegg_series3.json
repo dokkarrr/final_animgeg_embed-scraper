@@ -98904,5 +98904,87 @@
         "url": "https://www.animegg.org/hanaukyou-maid-tai-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2321,
+    "title": "Ginban Kaleidoscope",
+    "animegg_url": "https://www.animegg.org/series/ginban-kaleidoscope",
+    "mal_url": "https://myanimelist.net/anime/476",
+    "mal_id": 476,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/12688",
+        "dub": null,
+        "url": "https://www.animegg.org/ginban-kaleidoscope-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/12689",
+        "dub": null,
+        "url": "https://www.animegg.org/ginban-kaleidoscope-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/12690",
+        "dub": null,
+        "url": "https://www.animegg.org/ginban-kaleidoscope-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/12692",
+        "dub": null,
+        "url": "https://www.animegg.org/ginban-kaleidoscope-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/12691",
+        "dub": null,
+        "url": "https://www.animegg.org/ginban-kaleidoscope-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/12693",
+        "dub": null,
+        "url": "https://www.animegg.org/ginban-kaleidoscope-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/12695",
+        "dub": null,
+        "url": "https://www.animegg.org/ginban-kaleidoscope-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/12694",
+        "dub": null,
+        "url": "https://www.animegg.org/ginban-kaleidoscope-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/12696",
+        "dub": null,
+        "url": "https://www.animegg.org/ginban-kaleidoscope-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/12697",
+        "dub": null,
+        "url": "https://www.animegg.org/ginban-kaleidoscope-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/12698",
+        "dub": null,
+        "url": "https://www.animegg.org/ginban-kaleidoscope-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/12699",
+        "dub": null,
+        "url": "https://www.animegg.org/ginban-kaleidoscope-episode-12"
+      }
+    ]
   }
 ]
