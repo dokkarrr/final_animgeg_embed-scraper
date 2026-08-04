@@ -90290,5 +90290,93 @@
         "url": "https://www.animegg.org/ao-no-kanata-no-four-rhythm-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1037,
+    "title": "Hibike! Euphonium",
+    "animegg_url": "https://www.animegg.org/series/hibike-euphonium",
+    "mal_url": "https://myanimelist.net/anime/27989",
+    "mal_id": 27989,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/76074",
+        "dub": null,
+        "url": "https://www.animegg.org/hibike-euphonium-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/76202",
+        "dub": null,
+        "url": "https://www.animegg.org/hibike-euphonium-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/76368",
+        "dub": null,
+        "url": "https://www.animegg.org/hibike-euphonium-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/76493",
+        "dub": null,
+        "url": "https://www.animegg.org/hibike-euphonium-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/76630",
+        "dub": null,
+        "url": "https://www.animegg.org/hibike-euphonium-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/76745",
+        "dub": null,
+        "url": "https://www.animegg.org/hibike-euphonium-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/76852",
+        "dub": null,
+        "url": "https://www.animegg.org/hibike-euphonium-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/76947",
+        "dub": null,
+        "url": "https://www.animegg.org/hibike-euphonium-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/77045",
+        "dub": null,
+        "url": "https://www.animegg.org/hibike-euphonium-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/77262",
+        "dub": null,
+        "url": "https://www.animegg.org/hibike-euphonium-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/77417",
+        "dub": null,
+        "url": "https://www.animegg.org/hibike-euphonium-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/77534",
+        "dub": null,
+        "url": "https://www.animegg.org/hibike-euphonium-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/77634",
+        "dub": null,
+        "url": "https://www.animegg.org/hibike-euphonium-episode-13"
+      }
+    ]
   }
 ]
