@@ -48124,5 +48124,87 @@
         "url": "https://www.animegg.org/chuukan-kanriroku-tonegawa-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 1899,
+    "title": "Ishuzoku Reviewers",
+    "animegg_url": "https://www.animegg.org/series/ishuzoku-reviewers",
+    "mal_url": "https://myanimelist.net/anime/40010",
+    "mal_id": 40010,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/97510",
+        "dub": null,
+        "url": "https://www.animegg.org/ishuzoku-reviewers-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/97578",
+        "dub": null,
+        "url": "https://www.animegg.org/ishuzoku-reviewers-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/97643",
+        "dub": null,
+        "url": "https://www.animegg.org/ishuzoku-reviewers-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/97712",
+        "dub": "https://www.animegg.org/embed/97716",
+        "url": "https://www.animegg.org/ishuzoku-reviewers-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/97789",
+        "dub": null,
+        "url": "https://www.animegg.org/ishuzoku-reviewers-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/97842",
+        "dub": null,
+        "url": "https://www.animegg.org/ishuzoku-reviewers-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/97890",
+        "dub": null,
+        "url": "https://www.animegg.org/ishuzoku-reviewers-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/97954",
+        "dub": null,
+        "url": "https://www.animegg.org/ishuzoku-reviewers-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/98016",
+        "dub": null,
+        "url": "https://www.animegg.org/ishuzoku-reviewers-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/98076",
+        "dub": null,
+        "url": "https://www.animegg.org/ishuzoku-reviewers-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/98132",
+        "dub": null,
+        "url": "https://www.animegg.org/ishuzoku-reviewers-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/98196",
+        "dub": null,
+        "url": "https://www.animegg.org/ishuzoku-reviewers-episode-12"
+      }
+    ]
   }
 ]
