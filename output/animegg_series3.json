@@ -23976,5 +23976,87 @@
         "url": "https://www.animegg.org/one-piece-3d2y-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 1703,
+    "title": "Seirei Gensouki",
+    "animegg_url": "https://www.animegg.org/series/seirei-gensouki",
+    "mal_url": "https://myanimelist.net/anime/44203",
+    "mal_id": 44203,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/102210",
+        "dub": null,
+        "url": "https://www.animegg.org/seirei-gensouki-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/102262",
+        "dub": null,
+        "url": "https://www.animegg.org/seirei-gensouki-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/102316",
+        "dub": null,
+        "url": "https://www.animegg.org/seirei-gensouki-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/102371",
+        "dub": null,
+        "url": "https://www.animegg.org/seirei-gensouki-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/102426",
+        "dub": null,
+        "url": "https://www.animegg.org/seirei-gensouki-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/102474",
+        "dub": null,
+        "url": "https://www.animegg.org/seirei-gensouki-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/102533",
+        "dub": null,
+        "url": "https://www.animegg.org/seirei-gensouki-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/102586",
+        "dub": null,
+        "url": "https://www.animegg.org/seirei-gensouki-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/102647",
+        "dub": null,
+        "url": "https://www.animegg.org/seirei-gensouki-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/102698",
+        "dub": null,
+        "url": "https://www.animegg.org/seirei-gensouki-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/102756",
+        "dub": null,
+        "url": "https://www.animegg.org/seirei-gensouki-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/102808",
+        "dub": null,
+        "url": "https://www.animegg.org/seirei-gensouki-episode-12"
+      }
+    ]
   }
 ]
