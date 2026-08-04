@@ -103206,5 +103206,93 @@
         "url": "https://www.animegg.org/shinkyoku-soukai-polyphonica-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2363,
+    "title": "Yofukashi no Uta",
+    "animegg_url": "https://www.animegg.org/series/yofukashi-no-uta",
+    "mal_url": "https://myanimelist.net/anime/50346",
+    "mal_id": 50346,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/105231",
+        "dub": null,
+        "url": "https://www.animegg.org/yofukashi-no-uta-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/105292",
+        "dub": null,
+        "url": "https://www.animegg.org/yofukashi-no-uta-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/105349",
+        "dub": null,
+        "url": "https://www.animegg.org/yofukashi-no-uta-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/105407",
+        "dub": null,
+        "url": "https://www.animegg.org/yofukashi-no-uta-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/105479",
+        "dub": null,
+        "url": "https://www.animegg.org/yofukashi-no-uta-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/105542",
+        "dub": null,
+        "url": "https://www.animegg.org/yofukashi-no-uta-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/105608",
+        "dub": null,
+        "url": "https://www.animegg.org/yofukashi-no-uta-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/105672",
+        "dub": null,
+        "url": "https://www.animegg.org/yofukashi-no-uta-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/105734",
+        "dub": null,
+        "url": "https://www.animegg.org/yofukashi-no-uta-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/105796",
+        "dub": null,
+        "url": "https://www.animegg.org/yofukashi-no-uta-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/105866",
+        "dub": null,
+        "url": "https://www.animegg.org/yofukashi-no-uta-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/105927",
+        "dub": null,
+        "url": "https://www.animegg.org/yofukashi-no-uta-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/105980",
+        "dub": null,
+        "url": "https://www.animegg.org/yofukashi-no-uta-episode-13"
+      }
+    ]
   }
 ]
