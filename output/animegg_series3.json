@@ -133545,5 +133545,87 @@
         "url": "https://www.animegg.org/koro-sensei-quest-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2679,
+    "title": "Zoku Touken Ranbu: Hanamaru",
+    "animegg_url": "https://www.animegg.org/series/zoku-touken-ranbu-hanamaru",
+    "mal_url": "https://myanimelist.net/anime/34863",
+    "mal_id": 34863,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/89590",
+        "dub": null,
+        "url": "https://www.animegg.org/zoku-touken-ranbu-hanamaru-episode-1-6860"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/89756",
+        "dub": null,
+        "url": "https://www.animegg.org/zoku-touken-ranbu-hanamaru-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/89837",
+        "dub": null,
+        "url": "https://www.animegg.org/zoku-touken-ranbu-hanamaru-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/89913",
+        "dub": null,
+        "url": "https://www.animegg.org/zoku-touken-ranbu-hanamaru-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/90005",
+        "dub": null,
+        "url": "https://www.animegg.org/zoku-touken-ranbu-hanamaru-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/90079",
+        "dub": null,
+        "url": "https://www.animegg.org/zoku-touken-ranbu-hanamaru-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/90153",
+        "dub": null,
+        "url": "https://www.animegg.org/zoku-touken-ranbu-hanamaru-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/90227",
+        "dub": null,
+        "url": "https://www.animegg.org/zoku-touken-ranbu-hanamaru-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/90301",
+        "dub": null,
+        "url": "https://www.animegg.org/zoku-touken-ranbu-hanamaru-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/90374",
+        "dub": null,
+        "url": "https://www.animegg.org/zoku-touken-ranbu-hanamaru-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/90448",
+        "dub": null,
+        "url": "https://www.animegg.org/zoku-touken-ranbu-hanamaru-episode-11-8304"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/90544",
+        "dub": null,
+        "url": "https://www.animegg.org/zoku-touken-ranbu-hanamaru-episode-12-6549"
+      }
+    ]
   }
 ]
