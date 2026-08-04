@@ -102806,5 +102806,87 @@
         "url": "https://www.animegg.org/girlfriend-kari-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2359,
+    "title": "Angolmois: Genkou Kassenki",
+    "animegg_url": "https://www.animegg.org/series/angolmois-genkou-kassenki",
+    "mal_url": "https://myanimelist.net/anime/35834",
+    "mal_id": 35834,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/91829",
+        "dub": null,
+        "url": "https://www.animegg.org/angolmois-genkou-kassenki-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/91886",
+        "dub": null,
+        "url": "https://www.animegg.org/angolmois-genkou-kassenki-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/92016",
+        "dub": null,
+        "url": "https://www.animegg.org/angolmois-genkou-kassenki-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/92114",
+        "dub": null,
+        "url": "https://www.animegg.org/angolmois-genkou-kassenki-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/92211",
+        "dub": null,
+        "url": "https://www.animegg.org/angolmois-genkou-kassenki-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/92290",
+        "dub": null,
+        "url": "https://www.animegg.org/angolmois-genkou-kassenki-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/92445",
+        "dub": null,
+        "url": "https://www.animegg.org/angolmois-genkou-kassenki-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/92630",
+        "dub": null,
+        "url": "https://www.animegg.org/angolmois-genkou-kassenki-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/92758",
+        "dub": null,
+        "url": "https://www.animegg.org/angolmois-genkou-kassenki-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/92828",
+        "dub": null,
+        "url": "https://www.animegg.org/angolmois-genkou-kassenki-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/92911",
+        "dub": null,
+        "url": "https://www.animegg.org/angolmois-genkou-kassenki-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/93005",
+        "dub": null,
+        "url": "https://www.animegg.org/angolmois-genkou-kassenki-episode-12"
+      }
+    ]
   }
 ]
