@@ -64226,5 +64226,87 @@
         "url": "https://www.animegg.org/ginga-densetsu-weed-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 2017,
+    "title": "Houseki no Kuni",
+    "animegg_url": "https://www.animegg.org/series/houseki-no-kuni",
+    "mal_url": "https://myanimelist.net/anime/35557",
+    "mal_id": 35557,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/88567",
+        "dub": "https://www.animegg.org/embed/88574",
+        "url": "https://www.animegg.org/houseki-no-kuni-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/88672",
+        "dub": null,
+        "url": "https://www.animegg.org/houseki-no-kuni-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/88747",
+        "dub": null,
+        "url": "https://www.animegg.org/houseki-no-kuni-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/88834",
+        "dub": null,
+        "url": "https://www.animegg.org/houseki-no-kuni-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/88925",
+        "dub": null,
+        "url": "https://www.animegg.org/houseki-no-kuni-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/89016",
+        "dub": null,
+        "url": "https://www.animegg.org/houseki-no-kuni-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/89100",
+        "dub": null,
+        "url": "https://www.animegg.org/houseki-no-kuni-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/89182",
+        "dub": null,
+        "url": "https://www.animegg.org/houseki-no-kuni-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/89254",
+        "dub": null,
+        "url": "https://www.animegg.org/houseki-no-kuni-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/89335",
+        "dub": null,
+        "url": "https://www.animegg.org/houseki-no-kuni-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/89412",
+        "dub": null,
+        "url": "https://www.animegg.org/houseki-no-kuni-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/89482",
+        "dub": null,
+        "url": "https://www.animegg.org/houseki-no-kuni-episode-12"
+      }
+    ]
   }
 ]
