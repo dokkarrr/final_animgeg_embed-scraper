@@ -2196,5 +2196,93 @@
         "url": "https://www.animegg.org/busou-renkin-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 519,
+    "title": "Musaigen no Phantom World",
+    "animegg_url": "https://www.animegg.org/series/musaigen-no-phantom-world",
+    "mal_url": "https://myanimelist.net/anime/31442",
+    "mal_id": 31442,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/80571",
+        "dub": null,
+        "url": "https://www.animegg.org/musaigen-no-phantom-world-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/80662",
+        "dub": null,
+        "url": "https://www.animegg.org/musaigen-no-phantom-world-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/80769",
+        "dub": null,
+        "url": "https://www.animegg.org/musaigen-no-phantom-world-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/80862",
+        "dub": null,
+        "url": "https://www.animegg.org/musaigen-no-phantom-world-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/80967",
+        "dub": null,
+        "url": "https://www.animegg.org/musaigen-no-phantom-world-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/81069",
+        "dub": null,
+        "url": "https://www.animegg.org/musaigen-no-phantom-world-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/81165",
+        "dub": null,
+        "url": "https://www.animegg.org/musaigen-no-phantom-world-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/81256",
+        "dub": null,
+        "url": "https://www.animegg.org/musaigen-no-phantom-world-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/81376",
+        "dub": null,
+        "url": "https://www.animegg.org/musaigen-no-phantom-world-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/81463",
+        "dub": null,
+        "url": "https://www.animegg.org/musaigen-no-phantom-world-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/81566",
+        "dub": null,
+        "url": "https://www.animegg.org/musaigen-no-phantom-world-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/81660",
+        "dub": null,
+        "url": "https://www.animegg.org/musaigen-no-phantom-world-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/81742",
+        "dub": null,
+        "url": "https://www.animegg.org/musaigen-no-phantom-world-episode-13"
+      }
+    ]
   }
 ]
