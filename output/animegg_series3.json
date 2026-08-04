@@ -134041,5 +134041,21 @@
         "url": "https://www.animegg.org/naruto-honoo-no-chuunin-shiken-naruto-vs-konohamaru-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 2686,
+    "title": "High School of The Dead OVA",
+    "animegg_url": "https://www.animegg.org/series/high-school-of-the-dead-ova",
+    "mal_url": "https://myanimelist.net/anime/8074",
+    "mal_id": 8074,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/16127",
+        "dub": "https://www.animegg.org/embed/77378",
+        "url": "https://www.animegg.org/high-school-of-the-dead-ova-episode-1"
+      }
+    ]
   }
 ]
