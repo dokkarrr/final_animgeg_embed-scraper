@@ -73848,5 +73848,27 @@
         "url": "https://www.animegg.org/kuma-miko-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2105,
+    "title": "Shokugeki no Souma OVA",
+    "animegg_url": "https://www.animegg.org/series/shokugeki-no-souma-ova",
+    "mal_url": "https://myanimelist.net/anime/31327",
+    "mal_id": 31327,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/82155",
+        "dub": "https://www.animegg.org/embed/83577",
+        "url": "https://www.animegg.org/shokugeki-no-souma-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/87154",
+        "dub": null,
+        "url": "https://www.animegg.org/shokugeki-no-souma-ova-episode-2"
+      }
+    ]
   }
 ]
