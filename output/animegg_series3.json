@@ -127643,5 +127643,87 @@
         "url": "https://www.animegg.org/kuttsukiboshi-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 2612,
+    "title": "Occultic;Nine",
+    "animegg_url": "https://www.animegg.org/series/occultic-nine",
+    "mal_url": "https://myanimelist.net/anime/32962",
+    "mal_id": 32962,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/84170",
+        "dub": null,
+        "url": "https://www.animegg.org/occultic-nine-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/84281",
+        "dub": null,
+        "url": "https://www.animegg.org/occultic-nine-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/84391",
+        "dub": null,
+        "url": "https://www.animegg.org/occultic-nine-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/84479",
+        "dub": null,
+        "url": "https://www.animegg.org/occultic-nine-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/84584",
+        "dub": null,
+        "url": "https://www.animegg.org/occultic-nine-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/84674",
+        "dub": null,
+        "url": "https://www.animegg.org/occultic-nine-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/84768",
+        "dub": null,
+        "url": "https://www.animegg.org/occultic-nine-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/84871",
+        "dub": null,
+        "url": "https://www.animegg.org/occultic-nine-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/85050",
+        "dub": null,
+        "url": "https://www.animegg.org/occultic-nine-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/85154",
+        "dub": null,
+        "url": "https://www.animegg.org/occultic-nine-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/85279",
+        "dub": null,
+        "url": "https://www.animegg.org/occultic-nine-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/85270",
+        "dub": null,
+        "url": "https://www.animegg.org/occultic-nine-episode-12"
+      }
+    ]
   }
 ]
