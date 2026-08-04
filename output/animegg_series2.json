@@ -123432,5 +123432,87 @@
         "url": "https://www.animegg.org/needless-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 1227,
+    "title": "Kuroshitsuji II",
+    "animegg_url": "https://www.animegg.org/series/kuroshitsuji-ii",
+    "mal_url": "https://myanimelist.net/anime/6707",
+    "mal_id": 6707,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/46228",
+        "dub": "https://www.animegg.org/embed/46229",
+        "url": "https://www.animegg.org/kuroshitsuji-ii-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/46230",
+        "dub": "https://www.animegg.org/embed/46231",
+        "url": "https://www.animegg.org/kuroshitsuji-ii-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/46232",
+        "dub": "https://www.animegg.org/embed/46233",
+        "url": "https://www.animegg.org/kuroshitsuji-ii-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/46234",
+        "dub": "https://www.animegg.org/embed/46235",
+        "url": "https://www.animegg.org/kuroshitsuji-ii-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/46237",
+        "dub": null,
+        "url": "https://www.animegg.org/kuroshitsuji-ii-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/46238",
+        "dub": "https://www.animegg.org/embed/46239",
+        "url": "https://www.animegg.org/kuroshitsuji-ii-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/46240",
+        "dub": "https://www.animegg.org/embed/46241",
+        "url": "https://www.animegg.org/kuroshitsuji-ii-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/46242",
+        "dub": "https://www.animegg.org/embed/46243",
+        "url": "https://www.animegg.org/kuroshitsuji-ii-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/46244",
+        "dub": "https://www.animegg.org/embed/46245",
+        "url": "https://www.animegg.org/kuroshitsuji-ii-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/46246",
+        "dub": "https://www.animegg.org/embed/46247",
+        "url": "https://www.animegg.org/kuroshitsuji-ii-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/46248",
+        "dub": "https://www.animegg.org/embed/46249",
+        "url": "https://www.animegg.org/kuroshitsuji-ii-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/46250",
+        "dub": "https://www.animegg.org/embed/46251",
+        "url": "https://www.animegg.org/kuroshitsuji-ii-episode-12"
+      }
+    ]
   }
 ]
