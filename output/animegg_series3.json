@@ -130307,5 +130307,87 @@
         "url": "https://www.animegg.org/new-prince-of-tennis-specials-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 2642,
+    "title": "Birdy the Mighty Decode 2",
+    "animegg_url": "https://www.animegg.org/series/birdy-the-mighty-decode-2",
+    "mal_url": "https://myanimelist.net/anime/3974",
+    "mal_id": 3974,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/3086",
+        "dub": null,
+        "url": "https://www.animegg.org/birdy-the-mighty-decode-2-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/3087",
+        "dub": null,
+        "url": "https://www.animegg.org/birdy-the-mighty-decode-2-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/3084",
+        "dub": null,
+        "url": "https://www.animegg.org/birdy-the-mighty-decode-2-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/3085",
+        "dub": null,
+        "url": "https://www.animegg.org/birdy-the-mighty-decode-2-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/3081",
+        "dub": null,
+        "url": "https://www.animegg.org/birdy-the-mighty-decode-2-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/3083",
+        "dub": null,
+        "url": "https://www.animegg.org/birdy-the-mighty-decode-2-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/3082",
+        "dub": null,
+        "url": "https://www.animegg.org/birdy-the-mighty-decode-2-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/3076",
+        "dub": null,
+        "url": "https://www.animegg.org/birdy-the-mighty-decode-2-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/3078",
+        "dub": null,
+        "url": "https://www.animegg.org/birdy-the-mighty-decode-2-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/3079",
+        "dub": null,
+        "url": "https://www.animegg.org/birdy-the-mighty-decode-2-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/3077",
+        "dub": null,
+        "url": "https://www.animegg.org/birdy-the-mighty-decode-2-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/3080",
+        "dub": "https://www.animegg.org/embed/77129",
+        "url": "https://www.animegg.org/birdy-the-mighty-decode-2-episode-1"
+      }
+    ]
   }
 ]
