@@ -130755,5 +130755,63 @@
         "url": "https://www.animegg.org/shin-shirayuki-hime-densetsu-pretear-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2646,
+    "title": "Seitokai Yakuindomo OVA",
+    "animegg_url": "https://www.animegg.org/series/seitokai-yakuindomo-ova",
+    "mal_url": "https://myanimelist.net/anime/10119",
+    "mal_id": 10119,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/33776",
+        "dub": null,
+        "url": "https://www.animegg.org/seitokai-yakuindomo-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/33774",
+        "dub": null,
+        "url": "https://www.animegg.org/seitokai-yakuindomo-ova-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/33779",
+        "dub": null,
+        "url": "https://www.animegg.org/seitokai-yakuindomo-ova-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/80541",
+        "dub": null,
+        "url": "https://www.animegg.org/seitokai-yakuindomo-ova-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/33775",
+        "dub": null,
+        "url": "https://www.animegg.org/seitokai-yakuindomo-ova-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/33777",
+        "dub": null,
+        "url": "https://www.animegg.org/seitokai-yakuindomo-ova-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/33780",
+        "dub": null,
+        "url": "https://www.animegg.org/seitokai-yakuindomo-ova-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/33778",
+        "dub": null,
+        "url": "https://www.animegg.org/seitokai-yakuindomo-ova-episode-8"
+      }
+    ]
   }
 ]
