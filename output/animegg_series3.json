@@ -94914,5 +94914,93 @@
         "url": "https://www.animegg.org/hori-san-to-miyamura-kun-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 2279,
+    "title": "Futakoi",
+    "animegg_url": "https://www.animegg.org/series/futakoi",
+    "mal_url": "https://myanimelist.net/anime/125",
+    "mal_id": 125,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/11815",
+        "dub": null,
+        "url": "https://www.animegg.org/futakoi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/11813",
+        "dub": null,
+        "url": "https://www.animegg.org/futakoi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/11811",
+        "dub": null,
+        "url": "https://www.animegg.org/futakoi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/11812",
+        "dub": null,
+        "url": "https://www.animegg.org/futakoi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/11814",
+        "dub": null,
+        "url": "https://www.animegg.org/futakoi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/11817",
+        "dub": null,
+        "url": "https://www.animegg.org/futakoi-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/11818",
+        "dub": null,
+        "url": "https://www.animegg.org/futakoi-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/11816",
+        "dub": null,
+        "url": "https://www.animegg.org/futakoi-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/11819",
+        "dub": null,
+        "url": "https://www.animegg.org/futakoi-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/11820",
+        "dub": null,
+        "url": "https://www.animegg.org/futakoi-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/11821",
+        "dub": null,
+        "url": "https://www.animegg.org/futakoi-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/11822",
+        "dub": null,
+        "url": "https://www.animegg.org/futakoi-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/11823",
+        "dub": null,
+        "url": "https://www.animegg.org/futakoi-episode-13"
+      }
+    ]
   }
 ]
