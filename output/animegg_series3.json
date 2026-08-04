@@ -126071,5 +126071,87 @@
         "url": "https://www.animegg.org/crest-of-the-stars-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2594,
+    "title": "Area 88 (TV)",
+    "animegg_url": "https://www.animegg.org/series/area-88-tv",
+    "mal_url": "https://myanimelist.net/anime/284",
+    "mal_id": 284,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 88,
+        "sub": "https://www.animegg.org/embed/1669",
+        "dub": "https://www.animegg.org/embed/68682",
+        "url": "https://www.animegg.org/area-88-episode-12"
+      },
+      {
+        "ep": 88,
+        "sub": "https://www.animegg.org/embed/1665",
+        "dub": "https://www.animegg.org/embed/1666",
+        "url": "https://www.animegg.org/area-88-episode-11"
+      },
+      {
+        "ep": 88,
+        "sub": "https://www.animegg.org/embed/1663",
+        "dub": "https://www.animegg.org/embed/1664",
+        "url": "https://www.animegg.org/area-88-episode-10"
+      },
+      {
+        "ep": 88,
+        "sub": "https://www.animegg.org/embed/1667",
+        "dub": "https://www.animegg.org/embed/1668",
+        "url": "https://www.animegg.org/area-88-episode-9"
+      },
+      {
+        "ep": 88,
+        "sub": "https://www.animegg.org/embed/1661",
+        "dub": "https://www.animegg.org/embed/1662",
+        "url": "https://www.animegg.org/area-88-episode-8"
+      },
+      {
+        "ep": 88,
+        "sub": "https://www.animegg.org/embed/1658",
+        "dub": "https://www.animegg.org/embed/66554",
+        "url": "https://www.animegg.org/area-88-episode-7"
+      },
+      {
+        "ep": 88,
+        "sub": "https://www.animegg.org/embed/1659",
+        "dub": "https://www.animegg.org/embed/1660",
+        "url": "https://www.animegg.org/area-88-episode-6"
+      },
+      {
+        "ep": 88,
+        "sub": "https://www.animegg.org/embed/1654",
+        "dub": "https://www.animegg.org/embed/1655",
+        "url": "https://www.animegg.org/area-88-episode-5"
+      },
+      {
+        "ep": 88,
+        "sub": "https://www.animegg.org/embed/1650",
+        "dub": "https://www.animegg.org/embed/1651",
+        "url": "https://www.animegg.org/area-88-episode-4"
+      },
+      {
+        "ep": 88,
+        "sub": "https://www.animegg.org/embed/1652",
+        "dub": "https://www.animegg.org/embed/1653",
+        "url": "https://www.animegg.org/area-88-episode-3"
+      },
+      {
+        "ep": 88,
+        "sub": "https://www.animegg.org/embed/1648",
+        "dub": "https://www.animegg.org/embed/1649",
+        "url": "https://www.animegg.org/area-88-episode-2"
+      },
+      {
+        "ep": 88,
+        "sub": "https://www.animegg.org/embed/1656",
+        "dub": "https://www.animegg.org/embed/1657",
+        "url": "https://www.animegg.org/area-88-episode-1"
+      }
+    ]
   }
 ]
