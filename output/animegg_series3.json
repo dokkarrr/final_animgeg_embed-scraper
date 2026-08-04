@@ -18044,5 +18044,93 @@
         "url": "https://www.animegg.org/ayakashi-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1669,
+    "title": "Buddy Complex",
+    "animegg_url": "https://www.animegg.org/series/buddy-complex",
+    "mal_url": "https://myanimelist.net/anime/21437",
+    "mal_id": 21437,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/4812",
+        "dub": null,
+        "url": "https://www.animegg.org/buddy-complex-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/4811",
+        "dub": null,
+        "url": "https://www.animegg.org/buddy-complex-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/4809",
+        "dub": null,
+        "url": "https://www.animegg.org/buddy-complex-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/4810",
+        "dub": null,
+        "url": "https://www.animegg.org/buddy-complex-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/4808",
+        "dub": null,
+        "url": "https://www.animegg.org/buddy-complex-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/4813",
+        "dub": null,
+        "url": "https://www.animegg.org/buddy-complex-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/4816",
+        "dub": null,
+        "url": "https://www.animegg.org/buddy-complex-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/4815",
+        "dub": null,
+        "url": "https://www.animegg.org/buddy-complex-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/4814",
+        "dub": null,
+        "url": "https://www.animegg.org/buddy-complex-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/4817",
+        "dub": null,
+        "url": "https://www.animegg.org/buddy-complex-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/4818",
+        "dub": null,
+        "url": "https://www.animegg.org/buddy-complex-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/4819",
+        "dub": null,
+        "url": "https://www.animegg.org/buddy-complex-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/4820",
+        "dub": null,
+        "url": "https://www.animegg.org/buddy-complex-episode-13"
+      }
+    ]
   }
 ]
