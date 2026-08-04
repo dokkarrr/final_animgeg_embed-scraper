@@ -130924,5 +130924,93 @@
         "url": "https://www.animegg.org/mars-daybreak-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 1276,
+    "title": "Working!! 3rd Season",
+    "animegg_url": "https://www.animegg.org/series/working-3rd-season",
+    "mal_url": "https://myanimelist.net/anime/25879",
+    "mal_id": 25879,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/79202",
+        "dub": null,
+        "url": "https://www.animegg.org/working-3rd-season-episode-13"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/79109",
+        "dub": null,
+        "url": "https://www.animegg.org/working-3rd-season-episode-12"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/78998",
+        "dub": null,
+        "url": "https://www.animegg.org/working-3rd-season-episode-11"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/78882",
+        "dub": null,
+        "url": "https://www.animegg.org/working-3rd-season-episode-10"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/78768",
+        "dub": null,
+        "url": "https://www.animegg.org/working-3rd-season-episode-9"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/78656",
+        "dub": null,
+        "url": "https://www.animegg.org/working-3rd-season-episode-8"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/78539",
+        "dub": null,
+        "url": "https://www.animegg.org/working-3rd-season-episode-7"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/78436",
+        "dub": "https://www.animegg.org/embed/78439",
+        "url": "https://www.animegg.org/working-3rd-season-episode-6"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/78308",
+        "dub": "https://www.animegg.org/embed/78485",
+        "url": "https://www.animegg.org/working-3rd-season-episode-5"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/78164",
+        "dub": "https://www.animegg.org/embed/78167",
+        "url": "https://www.animegg.org/working-3rd-season-episode-4"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/78023",
+        "dub": "https://www.animegg.org/embed/78027",
+        "url": "https://www.animegg.org/working-3rd-season-episode-3"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/77843",
+        "dub": "https://www.animegg.org/embed/77847",
+        "url": "https://www.animegg.org/working-3rd-season-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/77719",
+        "dub": "https://www.animegg.org/embed/77721",
+        "url": "https://www.animegg.org/working-3rd-season-episode-1"
+      }
+    ]
   }
 ]
