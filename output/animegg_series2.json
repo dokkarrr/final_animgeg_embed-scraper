@@ -124154,5 +124154,87 @@
         "url": "https://www.animegg.org/isuca-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 1232,
+    "title": "Mikagura Gakuen Kumikyoku",
+    "animegg_url": "https://www.animegg.org/series/mikagura-gakuen-kumikyoku",
+    "mal_url": "https://myanimelist.net/anime/30924",
+    "mal_id": 30924,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/76064",
+        "dub": "https://www.animegg.org/embed/76091",
+        "url": "https://www.animegg.org/mikagura-gakuen-kumikyoku-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/76201",
+        "dub": "https://www.animegg.org/embed/76203",
+        "url": "https://www.animegg.org/mikagura-gakuen-kumikyoku-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/76366",
+        "dub": "https://www.animegg.org/embed/76369",
+        "url": "https://www.animegg.org/mikagura-gakuen-kumikyoku-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/76494",
+        "dub": "https://www.animegg.org/embed/76497",
+        "url": "https://www.animegg.org/mikagura-gakuen-kumikyoku-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/76628",
+        "dub": "https://www.animegg.org/embed/76633",
+        "url": "https://www.animegg.org/mikagura-gakuen-kumikyoku-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/76743",
+        "dub": "https://www.animegg.org/embed/76748",
+        "url": "https://www.animegg.org/mikagura-gakuen-kumikyoku-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/76854",
+        "dub": "https://www.animegg.org/embed/76856",
+        "url": "https://www.animegg.org/mikagura-gakuen-kumikyoku-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/76945",
+        "dub": "https://www.animegg.org/embed/76949",
+        "url": "https://www.animegg.org/mikagura-gakuen-kumikyoku-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/77043",
+        "dub": "https://www.animegg.org/embed/77046",
+        "url": "https://www.animegg.org/mikagura-gakuen-kumikyoku-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/77244",
+        "dub": "https://www.animegg.org/embed/77264",
+        "url": "https://www.animegg.org/mikagura-gakuen-kumikyoku-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/77415",
+        "dub": "https://www.animegg.org/embed/77420",
+        "url": "https://www.animegg.org/mikagura-gakuen-kumikyoku-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/77533",
+        "dub": "https://www.animegg.org/embed/77537",
+        "url": "https://www.animegg.org/mikagura-gakuen-kumikyoku-episode-12"
+      }
+    ]
   }
 ]
