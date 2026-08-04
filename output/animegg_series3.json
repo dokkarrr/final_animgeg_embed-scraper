@@ -133463,5 +133463,87 @@
         "url": "https://www.animegg.org/murenase-seton-gakuen-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2678,
+    "title": "Koro-sensei Quest!",
+    "animegg_url": "https://www.animegg.org/series/koro-sensei-quest",
+    "mal_url": "https://myanimelist.net/anime/34389",
+    "mal_id": 34389,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/85241",
+        "dub": null,
+        "url": "https://www.animegg.org/koro-sensei-quest-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/85329",
+        "dub": null,
+        "url": "https://www.animegg.org/koro-sensei-quest-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/85358",
+        "dub": null,
+        "url": "https://www.animegg.org/koro-sensei-quest-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/85469",
+        "dub": null,
+        "url": "https://www.animegg.org/koro-sensei-quest-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/85554",
+        "dub": null,
+        "url": "https://www.animegg.org/koro-sensei-quest-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/85646",
+        "dub": null,
+        "url": "https://www.animegg.org/koro-sensei-quest-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/85741",
+        "dub": null,
+        "url": "https://www.animegg.org/koro-sensei-quest-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/85827",
+        "dub": null,
+        "url": "https://www.animegg.org/koro-sensei-quest-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/85906",
+        "dub": null,
+        "url": "https://www.animegg.org/koro-sensei-quest-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/85985",
+        "dub": null,
+        "url": "https://www.animegg.org/koro-sensei-quest-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/86084",
+        "dub": null,
+        "url": "https://www.animegg.org/koro-sensei-quest-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/86170",
+        "dub": null,
+        "url": "https://www.animegg.org/koro-sensei-quest-episode-12"
+      }
+    ]
   }
 ]
