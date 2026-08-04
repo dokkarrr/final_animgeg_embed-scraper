@@ -35774,5 +35774,93 @@
         "url": "https://www.animegg.org/kaze-no-shoujo-emily-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 1783,
+    "title": "Choujigen Game Neptune: The Animation",
+    "animegg_url": "https://www.animegg.org/series/choujigen-game-neptune-the-animation",
+    "mal_url": "https://myanimelist.net/anime/39638",
+    "mal_id": 39638,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/5796",
+        "dub": "https://www.animegg.org/embed/77090",
+        "url": "https://www.animegg.org/choujigen-game-neptune-the-animation-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/5793",
+        "dub": "https://www.animegg.org/embed/77091",
+        "url": "https://www.animegg.org/choujigen-game-neptune-the-animation-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/5792",
+        "dub": "https://www.animegg.org/embed/77092",
+        "url": "https://www.animegg.org/choujigen-game-neptune-the-animation-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/5791",
+        "dub": "https://www.animegg.org/embed/77093",
+        "url": "https://www.animegg.org/choujigen-game-neptune-the-animation-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/5794",
+        "dub": "https://www.animegg.org/embed/77094",
+        "url": "https://www.animegg.org/choujigen-game-neptune-the-animation-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/5795",
+        "dub": "https://www.animegg.org/embed/77095",
+        "url": "https://www.animegg.org/choujigen-game-neptune-the-animation-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/5797",
+        "dub": "https://www.animegg.org/embed/77096",
+        "url": "https://www.animegg.org/choujigen-game-neptune-the-animation-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/5799",
+        "dub": "https://www.animegg.org/embed/77097",
+        "url": "https://www.animegg.org/choujigen-game-neptune-the-animation-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/5798",
+        "dub": "https://www.animegg.org/embed/77098",
+        "url": "https://www.animegg.org/choujigen-game-neptune-the-animation-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/5800",
+        "dub": "https://www.animegg.org/embed/77099",
+        "url": "https://www.animegg.org/choujigen-game-neptune-the-animation-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/5801",
+        "dub": "https://www.animegg.org/embed/77100",
+        "url": "https://www.animegg.org/choujigen-game-neptune-the-animation-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/5802",
+        "dub": "https://www.animegg.org/embed/77101",
+        "url": "https://www.animegg.org/choujigen-game-neptune-the-animation-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/5803",
+        "dub": null,
+        "url": "https://www.animegg.org/choujigen-game-neptune-the-animation-episode-13"
+      }
+    ]
   }
 ]
