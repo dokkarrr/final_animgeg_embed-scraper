@@ -72286,5 +72286,87 @@
         "url": "https://www.animegg.org/katanagatari-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 925,
+    "title": "Diabolik Lovers",
+    "animegg_url": "https://www.animegg.org/series/diabolik-lovers",
+    "mal_url": "https://myanimelist.net/anime/17513",
+    "mal_id": 17513,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/8554",
+        "dub": null,
+        "url": "https://www.animegg.org/diabolik-lovers-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/8553",
+        "dub": null,
+        "url": "https://www.animegg.org/diabolik-lovers-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/8551",
+        "dub": null,
+        "url": "https://www.animegg.org/diabolik-lovers-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/8552",
+        "dub": null,
+        "url": "https://www.animegg.org/diabolik-lovers-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/8550",
+        "dub": null,
+        "url": "https://www.animegg.org/diabolik-lovers-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/8556",
+        "dub": null,
+        "url": "https://www.animegg.org/diabolik-lovers-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/8558",
+        "dub": null,
+        "url": "https://www.animegg.org/diabolik-lovers-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/8555",
+        "dub": null,
+        "url": "https://www.animegg.org/diabolik-lovers-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/8557",
+        "dub": null,
+        "url": "https://www.animegg.org/diabolik-lovers-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/8559",
+        "dub": null,
+        "url": "https://www.animegg.org/diabolik-lovers-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/8560",
+        "dub": null,
+        "url": "https://www.animegg.org/diabolik-lovers-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/8561",
+        "dub": null,
+        "url": "https://www.animegg.org/diabolik-lovers-episode-12"
+      }
+    ]
   }
 ]
