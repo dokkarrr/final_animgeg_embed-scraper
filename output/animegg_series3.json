@@ -22616,5 +22616,87 @@
         "url": "https://www.animegg.org/tamako-market-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1687,
+    "title": "Jujutsu Kaisen 3rd Season",
+    "animegg_url": "https://www.animegg.org/series/jujutsu-kaisen-season-3",
+    "mal_url": "https://myanimelist.net/anime/57658",
+    "mal_id": 57658,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/145249",
+        "dub": null,
+        "url": "https://www.animegg.org/jujutsu-kaisen-season-3-episode-12"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/145166",
+        "dub": "https://www.animegg.org/embed/145352",
+        "url": "https://www.animegg.org/jujutsu-kaisen-season-3-episode-11"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/145055",
+        "dub": "https://www.animegg.org/embed/145252",
+        "url": "https://www.animegg.org/jujutsu-kaisen-season-3-episode-10"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/144941",
+        "dub": "https://www.animegg.org/embed/145175",
+        "url": "https://www.animegg.org/jujutsu-kaisen-season-3-episode-9"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/144819",
+        "dub": "https://www.animegg.org/embed/145052",
+        "url": "https://www.animegg.org/jujutsu-kaisen-season-3-episode-8"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/144607",
+        "dub": "https://www.animegg.org/embed/144833",
+        "url": "https://www.animegg.org/jujutsu-kaisen-season-3-episode-7"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/144521",
+        "dub": "https://www.animegg.org/embed/144717",
+        "url": "https://www.animegg.org/jujutsu-kaisen-season-3-episode-6"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/144429",
+        "dub": "https://www.animegg.org/embed/144616",
+        "url": "https://www.animegg.org/jujutsu-kaisen-season-3-episode-5"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/144309",
+        "dub": "https://www.animegg.org/embed/144529",
+        "url": "https://www.animegg.org/jujutsu-kaisen-season-3-episode-4"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/144210",
+        "dub": "https://www.animegg.org/embed/144426",
+        "url": "https://www.animegg.org/jujutsu-kaisen-season-3-episode-3"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/144103",
+        "dub": "https://www.animegg.org/embed/144316",
+        "url": "https://www.animegg.org/jujutsu-kaisen-season-3-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/144114",
+        "dub": "https://www.animegg.org/embed/144313",
+        "url": "https://www.animegg.org/jujutsu-kaisen-season-3-episode-1"
+      }
+    ]
   }
 ]
