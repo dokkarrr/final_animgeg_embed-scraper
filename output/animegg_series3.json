@@ -75350,5 +75350,27 @@
         "url": "https://www.animegg.org/tanoshii-moomin-ikka-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 2122,
+    "title": "Kuroshitsuji: Book of Murder",
+    "animegg_url": "https://www.animegg.org/series/kuroshitsuji-book-of-murder",
+    "mal_url": "https://myanimelist.net/anime/23317",
+    "mal_id": 23317,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/75340",
+        "dub": "https://www.animegg.org/embed/75669",
+        "url": "https://www.animegg.org/kuroshitsuji-book-of-murder-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/75341",
+        "dub": "https://www.animegg.org/embed/75670",
+        "url": "https://www.animegg.org/kuroshitsuji-book-of-murder-episode-2"
+      }
+    ]
   }
 ]
