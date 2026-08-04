@@ -21278,5 +21278,93 @@
         "url": "https://www.animegg.org/shadowverse-flame-episode-50"
       }
     ]
+  },
+  {
+    "serial_no": 1675,
+    "title": "AKB0048 Next Stage",
+    "animegg_url": "https://www.animegg.org/series/akb0048-next-stage",
+    "mal_url": "https://myanimelist.net/anime/14941",
+    "mal_id": 14941,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 48,
+        "sub": "https://www.animegg.org/embed/872",
+        "dub": "https://www.animegg.org/embed/73864",
+        "url": "https://www.animegg.org/akb0048-next-stage-episode-13"
+      },
+      {
+        "ep": 48,
+        "sub": "https://www.animegg.org/embed/871",
+        "dub": "https://www.animegg.org/embed/73865",
+        "url": "https://www.animegg.org/akb0048-next-stage-episode-12"
+      },
+      {
+        "ep": 48,
+        "sub": "https://www.animegg.org/embed/870",
+        "dub": "https://www.animegg.org/embed/73866",
+        "url": "https://www.animegg.org/akb0048-next-stage-episode-11"
+      },
+      {
+        "ep": 48,
+        "sub": "https://www.animegg.org/embed/868",
+        "dub": "https://www.animegg.org/embed/73867",
+        "url": "https://www.animegg.org/akb0048-next-stage-episode-10"
+      },
+      {
+        "ep": 48,
+        "sub": "https://www.animegg.org/embed/869",
+        "dub": "https://www.animegg.org/embed/73868",
+        "url": "https://www.animegg.org/akb0048-next-stage-episode-9"
+      },
+      {
+        "ep": 48,
+        "sub": "https://www.animegg.org/embed/867",
+        "dub": "https://www.animegg.org/embed/73869",
+        "url": "https://www.animegg.org/akb0048-next-stage-episode-8"
+      },
+      {
+        "ep": 48,
+        "sub": "https://www.animegg.org/embed/866",
+        "dub": "https://www.animegg.org/embed/73870",
+        "url": "https://www.animegg.org/akb0048-next-stage-episode-7"
+      },
+      {
+        "ep": 48,
+        "sub": "https://www.animegg.org/embed/865",
+        "dub": "https://www.animegg.org/embed/73871",
+        "url": "https://www.animegg.org/akb0048-next-stage-episode-6"
+      },
+      {
+        "ep": 48,
+        "sub": "https://www.animegg.org/embed/861",
+        "dub": "https://www.animegg.org/embed/73872",
+        "url": "https://www.animegg.org/akb0048-next-stage-episode-5"
+      },
+      {
+        "ep": 48,
+        "sub": "https://www.animegg.org/embed/863",
+        "dub": "https://www.animegg.org/embed/73873",
+        "url": "https://www.animegg.org/akb0048-next-stage-episode-4"
+      },
+      {
+        "ep": 48,
+        "sub": "https://www.animegg.org/embed/862",
+        "dub": "https://www.animegg.org/embed/73875",
+        "url": "https://www.animegg.org/akb0048-next-stage-episode-3"
+      },
+      {
+        "ep": 48,
+        "sub": "https://www.animegg.org/embed/860",
+        "dub": "https://www.animegg.org/embed/73876",
+        "url": "https://www.animegg.org/akb0048-next-stage-episode-2"
+      },
+      {
+        "ep": 48,
+        "sub": "https://www.animegg.org/embed/864",
+        "dub": "https://www.animegg.org/embed/73877",
+        "url": "https://www.animegg.org/akb0048-next-stage-episode-1"
+      }
+    ]
   }
 ]
