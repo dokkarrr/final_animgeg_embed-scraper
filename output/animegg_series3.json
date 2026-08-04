@@ -58152,5 +58152,87 @@
         "url": "https://www.animegg.org/lemon-angel-project-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 1958,
+    "title": "Haiyore! Nyaruko-san W",
+    "animegg_url": "https://www.animegg.org/series/haiyore-nyaruko-san-w",
+    "mal_url": "https://myanimelist.net/anime/15699",
+    "mal_id": 15699,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/14914",
+        "dub": null,
+        "url": "https://www.animegg.org/haiyore-nyaruko-san-w-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/14911",
+        "dub": null,
+        "url": "https://www.animegg.org/haiyore-nyaruko-san-w-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/14912",
+        "dub": null,
+        "url": "https://www.animegg.org/haiyore-nyaruko-san-w-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/14910",
+        "dub": null,
+        "url": "https://www.animegg.org/haiyore-nyaruko-san-w-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/14913",
+        "dub": null,
+        "url": "https://www.animegg.org/haiyore-nyaruko-san-w-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/14917",
+        "dub": null,
+        "url": "https://www.animegg.org/haiyore-nyaruko-san-w-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/14915",
+        "dub": null,
+        "url": "https://www.animegg.org/haiyore-nyaruko-san-w-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/14916",
+        "dub": null,
+        "url": "https://www.animegg.org/haiyore-nyaruko-san-w-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/14918",
+        "dub": null,
+        "url": "https://www.animegg.org/haiyore-nyaruko-san-w-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/14919",
+        "dub": null,
+        "url": "https://www.animegg.org/haiyore-nyaruko-san-w-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/14920",
+        "dub": null,
+        "url": "https://www.animegg.org/haiyore-nyaruko-san-w-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/14921",
+        "dub": null,
+        "url": "https://www.animegg.org/haiyore-nyaruko-san-w-episode-12"
+      }
+    ]
   }
 ]
