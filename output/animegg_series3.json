@@ -97338,5 +97338,93 @@
         "url": "https://www.animegg.org/back-arrow-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 2303,
+    "title": "Dansai Bunri no Crime Edge",
+    "animegg_url": "https://www.animegg.org/series/dansai-bunri-no-crime-edge",
+    "mal_url": "https://myanimelist.net/anime/16355",
+    "mal_id": 16355,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/7227",
+        "dub": null,
+        "url": "https://www.animegg.org/dansai-bunri-no-crime-edge-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/7226",
+        "dub": null,
+        "url": "https://www.animegg.org/dansai-bunri-no-crime-edge-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/7225",
+        "dub": null,
+        "url": "https://www.animegg.org/dansai-bunri-no-crime-edge-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/7224",
+        "dub": null,
+        "url": "https://www.animegg.org/dansai-bunri-no-crime-edge-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/7223",
+        "dub": null,
+        "url": "https://www.animegg.org/dansai-bunri-no-crime-edge-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/7229",
+        "dub": null,
+        "url": "https://www.animegg.org/dansai-bunri-no-crime-edge-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/7228",
+        "dub": null,
+        "url": "https://www.animegg.org/dansai-bunri-no-crime-edge-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/7230",
+        "dub": null,
+        "url": "https://www.animegg.org/dansai-bunri-no-crime-edge-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/7232",
+        "dub": null,
+        "url": "https://www.animegg.org/dansai-bunri-no-crime-edge-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/7231",
+        "dub": null,
+        "url": "https://www.animegg.org/dansai-bunri-no-crime-edge-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/7233",
+        "dub": null,
+        "url": "https://www.animegg.org/dansai-bunri-no-crime-edge-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/7234",
+        "dub": null,
+        "url": "https://www.animegg.org/dansai-bunri-no-crime-edge-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/7235",
+        "dub": null,
+        "url": "https://www.animegg.org/dansai-bunri-no-crime-edge-episode-13"
+      }
+    ]
   }
 ]
