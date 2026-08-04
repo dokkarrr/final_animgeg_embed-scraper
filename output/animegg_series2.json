@@ -18374,5 +18374,87 @@
         "url": "https://www.animegg.org/cardfight-vanguard-asia-circuit-hen-episode-39"
       }
     ]
+  },
+  {
+    "serial_no": 608,
+    "title": "Chuunibyou demo Koi ga Shitai!",
+    "animegg_url": "https://www.animegg.org/series/chuunibyou-demo-koi-ga-shitai",
+    "mal_url": "https://myanimelist.net/anime/14741",
+    "mal_id": 14741,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/5937",
+        "dub": "https://www.animegg.org/embed/74777",
+        "url": "https://www.animegg.org/chuunibyou-demo-koi-ga-shitai-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/5936",
+        "dub": "https://www.animegg.org/embed/74778",
+        "url": "https://www.animegg.org/chuunibyou-demo-koi-ga-shitai-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/5934",
+        "dub": "https://www.animegg.org/embed/74779",
+        "url": "https://www.animegg.org/chuunibyou-demo-koi-ga-shitai-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/5935",
+        "dub": "https://www.animegg.org/embed/74780",
+        "url": "https://www.animegg.org/chuunibyou-demo-koi-ga-shitai-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/5933",
+        "dub": "https://www.animegg.org/embed/74781",
+        "url": "https://www.animegg.org/chuunibyou-demo-koi-ga-shitai-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/5940",
+        "dub": "https://www.animegg.org/embed/74782",
+        "url": "https://www.animegg.org/chuunibyou-demo-koi-ga-shitai-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/5939",
+        "dub": "https://www.animegg.org/embed/74783",
+        "url": "https://www.animegg.org/chuunibyou-demo-koi-ga-shitai-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/5938",
+        "dub": "https://www.animegg.org/embed/74784",
+        "url": "https://www.animegg.org/chuunibyou-demo-koi-ga-shitai-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/5941",
+        "dub": "https://www.animegg.org/embed/74785",
+        "url": "https://www.animegg.org/chuunibyou-demo-koi-ga-shitai-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/5942",
+        "dub": "https://www.animegg.org/embed/74786",
+        "url": "https://www.animegg.org/chuunibyou-demo-koi-ga-shitai-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/5944",
+        "dub": "https://www.animegg.org/embed/74787",
+        "url": "https://www.animegg.org/chuunibyou-demo-koi-ga-shitai-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/5945",
+        "dub": null,
+        "url": "https://www.animegg.org/chuunibyou-demo-koi-ga-shitai-episode-12"
+      }
+    ]
   }
 ]
