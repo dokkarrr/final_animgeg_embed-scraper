@@ -101240,5 +101240,21 @@
         "url": "https://www.animegg.org/igano-kabamaru-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 2341,
+    "title": "Sen to Chihiro no Kamikakushi",
+    "animegg_url": "https://www.animegg.org/series/spirited-away",
+    "mal_url": "https://myanimelist.net/anime/199",
+    "mal_id": 199,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/42872",
+        "dub": null,
+        "url": "https://www.animegg.org/spirited-away-episode-1"
+      }
+    ]
   }
 ]
