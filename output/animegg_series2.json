@@ -9984,5 +9984,93 @@
         "url": "https://www.animegg.org/beck-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 558,
+    "title": "Black Bullet",
+    "animegg_url": "https://www.animegg.org/series/black-bullet",
+    "mal_url": "https://myanimelist.net/anime/20787",
+    "mal_id": 20787,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/3104",
+        "dub": null,
+        "url": "https://www.animegg.org/black-bullet-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/3103",
+        "dub": null,
+        "url": "https://www.animegg.org/black-bullet-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/3102",
+        "dub": null,
+        "url": "https://www.animegg.org/black-bullet-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/3101",
+        "dub": null,
+        "url": "https://www.animegg.org/black-bullet-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/3105",
+        "dub": null,
+        "url": "https://www.animegg.org/black-bullet-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/3106",
+        "dub": null,
+        "url": "https://www.animegg.org/black-bullet-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/3107",
+        "dub": null,
+        "url": "https://www.animegg.org/black-bullet-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/3108",
+        "dub": null,
+        "url": "https://www.animegg.org/black-bullet-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/3109",
+        "dub": "https://www.animegg.org/embed/3110",
+        "url": "https://www.animegg.org/black-bullet-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/3111",
+        "dub": "https://www.animegg.org/embed/3112",
+        "url": "https://www.animegg.org/black-bullet-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/3113",
+        "dub": "https://www.animegg.org/embed/3114",
+        "url": "https://www.animegg.org/black-bullet-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/3115",
+        "dub": "https://www.animegg.org/embed/3116",
+        "url": "https://www.animegg.org/black-bullet-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/3117",
+        "dub": "https://www.animegg.org/embed/3118",
+        "url": "https://www.animegg.org/black-bullet-episode-13"
+      }
+    ]
   }
 ]
