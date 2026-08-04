@@ -129330,5 +129330,93 @@
         "url": "https://www.animegg.org/excel-saga-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 1266,
+    "title": "Senki Zesshou Symphogear GX",
+    "animegg_url": "https://www.animegg.org/series/senki-zesshou-symphogear-gx",
+    "mal_url": "https://myanimelist.net/anime/21573",
+    "mal_id": 21573,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/77687",
+        "dub": "https://www.animegg.org/embed/77711",
+        "url": "https://www.animegg.org/senki-zesshou-symphogear-gx-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/77826",
+        "dub": "https://www.animegg.org/embed/77846",
+        "url": "https://www.animegg.org/senki-zesshou-symphogear-gx-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/78003",
+        "dub": "https://www.animegg.org/embed/78024",
+        "url": "https://www.animegg.org/senki-zesshou-symphogear-gx-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/78149",
+        "dub": null,
+        "url": "https://www.animegg.org/senki-zesshou-symphogear-gx-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/78288",
+        "dub": null,
+        "url": "https://www.animegg.org/senki-zesshou-symphogear-gx-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/78423",
+        "dub": null,
+        "url": "https://www.animegg.org/senki-zesshou-symphogear-gx-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/78544",
+        "dub": null,
+        "url": "https://www.animegg.org/senki-zesshou-symphogear-gx-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/78635",
+        "dub": "https://www.animegg.org/embed/78638",
+        "url": "https://www.animegg.org/senki-zesshou-symphogear-gx-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/78752",
+        "dub": null,
+        "url": "https://www.animegg.org/senki-zesshou-symphogear-gx-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/78891",
+        "dub": null,
+        "url": "https://www.animegg.org/senki-zesshou-symphogear-gx-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/78986",
+        "dub": null,
+        "url": "https://www.animegg.org/senki-zesshou-symphogear-gx-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/79196",
+        "dub": null,
+        "url": "https://www.animegg.org/senki-zesshou-symphogear-gx-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/79195",
+        "dub": null,
+        "url": "https://www.animegg.org/senki-zesshou-symphogear-gx-episode-13"
+      }
+    ]
   }
 ]
