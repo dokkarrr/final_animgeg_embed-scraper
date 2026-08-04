@@ -36080,5 +36080,93 @@
         "url": "https://www.animegg.org/saber-marionette-j-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 1786,
+    "title": "Yuru Yuri,",
+    "animegg_url": "https://www.animegg.org/series/yuru-yuri",
+    "mal_url": "https://myanimelist.net/anime/37773",
+    "mal_id": 37773,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/42238",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-yuri-episode-13"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/42229",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-yuri-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/42227",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-yuri-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/42228",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-yuri-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/42226",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-yuri-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/42230",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-yuri-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/42231",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-yuri-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/42232",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-yuri-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/42233",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-yuri-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/42235",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-yuri-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/42234",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-yuri-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/42236",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-yuri-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/42237",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-yuri-episode-12"
+      }
+    ]
   }
 ]
