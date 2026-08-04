@@ -101256,5 +101256,87 @@
         "url": "https://www.animegg.org/spirited-away-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 2342,
+    "title": "Shakunetsu no Takkyuu Musume",
+    "animegg_url": "https://www.animegg.org/series/shakunetsu-no-takkyuu-musume",
+    "mal_url": "https://myanimelist.net/anime/33031",
+    "mal_id": 33031,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/84097",
+        "dub": null,
+        "url": "https://www.animegg.org/shakunetsu-no-takkyuu-musume-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/84218",
+        "dub": null,
+        "url": "https://www.animegg.org/shakunetsu-no-takkyuu-musume-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/84319",
+        "dub": null,
+        "url": "https://www.animegg.org/shakunetsu-no-takkyuu-musume-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/84421",
+        "dub": null,
+        "url": "https://www.animegg.org/shakunetsu-no-takkyuu-musume-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/84512",
+        "dub": null,
+        "url": "https://www.animegg.org/shakunetsu-no-takkyuu-musume-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/84612",
+        "dub": null,
+        "url": "https://www.animegg.org/shakunetsu-no-takkyuu-musume-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/84707",
+        "dub": null,
+        "url": "https://www.animegg.org/shakunetsu-no-takkyuu-musume-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/84814",
+        "dub": null,
+        "url": "https://www.animegg.org/shakunetsu-no-takkyuu-musume-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/84912",
+        "dub": null,
+        "url": "https://www.animegg.org/shakunetsu-no-takkyuu-musume-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/84979",
+        "dub": null,
+        "url": "https://www.animegg.org/shakunetsu-no-takkyuu-musume-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/85091",
+        "dub": null,
+        "url": "https://www.animegg.org/shakunetsu-no-takkyuu-musume-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/85200",
+        "dub": null,
+        "url": "https://www.animegg.org/shakunetsu-no-takkyuu-musume-episode-12"
+      }
+    ]
   }
 ]
