@@ -84848,5 +84848,87 @@
         "url": "https://www.animegg.org/kyou-no-asuka-show-episode-20"
       }
     ]
+  },
+  {
+    "serial_no": 2188,
+    "title": "Detroit Metal City",
+    "animegg_url": "https://www.animegg.org/series/detroit-metal-city",
+    "mal_url": "https://myanimelist.net/anime/3702",
+    "mal_id": 3702,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/44869",
+        "dub": null,
+        "url": "https://www.animegg.org/detroit-metal-city-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/44870",
+        "dub": null,
+        "url": "https://www.animegg.org/detroit-metal-city-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/44874",
+        "dub": null,
+        "url": "https://www.animegg.org/detroit-metal-city-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/44871",
+        "dub": null,
+        "url": "https://www.animegg.org/detroit-metal-city-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/44872",
+        "dub": null,
+        "url": "https://www.animegg.org/detroit-metal-city-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/44873",
+        "dub": null,
+        "url": "https://www.animegg.org/detroit-metal-city-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/44875",
+        "dub": null,
+        "url": "https://www.animegg.org/detroit-metal-city-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/44876",
+        "dub": null,
+        "url": "https://www.animegg.org/detroit-metal-city-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/44877",
+        "dub": null,
+        "url": "https://www.animegg.org/detroit-metal-city-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/44878",
+        "dub": null,
+        "url": "https://www.animegg.org/detroit-metal-city-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/44879",
+        "dub": null,
+        "url": "https://www.animegg.org/detroit-metal-city-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/44880",
+        "dub": null,
+        "url": "https://www.animegg.org/detroit-metal-city-episode-12"
+      }
+    ]
   }
 ]
