@@ -48454,5 +48454,81 @@
         "url": "https://www.animegg.org/magic-kaito-1412-episode"
       }
     ]
+  },
+  {
+    "serial_no": 778,
+    "title": "Wotaku ni Koi wa Muzukashii",
+    "animegg_url": "https://www.animegg.org/series/wotaku-ni-koi-wa-muzukashii",
+    "mal_url": "https://myanimelist.net/anime/35968",
+    "mal_id": 35968,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/90745",
+        "dub": null,
+        "url": "https://www.animegg.org/wotaku-ni-koi-wa-muzukashii-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/90829",
+        "dub": null,
+        "url": "https://www.animegg.org/wotaku-ni-koi-wa-muzukashii-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/90920",
+        "dub": null,
+        "url": "https://www.animegg.org/wotaku-ni-koi-wa-muzukashii-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/91034",
+        "dub": null,
+        "url": "https://www.animegg.org/wotaku-ni-koi-wa-muzukashii-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/91104",
+        "dub": null,
+        "url": "https://www.animegg.org/wotaku-ni-koi-wa-muzukashii-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/91184",
+        "dub": null,
+        "url": "https://www.animegg.org/wotaku-ni-koi-wa-muzukashii-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/91269",
+        "dub": null,
+        "url": "https://www.animegg.org/wotaku-ni-koi-wa-muzukashii-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/91362",
+        "dub": null,
+        "url": "https://www.animegg.org/wotaku-ni-koi-wa-muzukashii-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/91442",
+        "dub": null,
+        "url": "https://www.animegg.org/wotaku-ni-koi-wa-muzukashii-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/91528",
+        "dub": null,
+        "url": "https://www.animegg.org/wotaku-ni-koi-wa-muzukashii-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/91605",
+        "dub": null,
+        "url": "https://www.animegg.org/wotaku-ni-koi-wa-muzukashii-episode-11"
+      }
+    ]
   }
 ]
