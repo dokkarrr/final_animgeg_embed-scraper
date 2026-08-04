@@ -133885,5 +133885,57 @@
         "url": "https://www.animegg.org/saint-seiya-the-hades-chapter---sanctuary-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2683,
+    "title": "X Maiden",
+    "animegg_url": "https://www.animegg.org/series/x-maiden",
+    "mal_url": "https://myanimelist.net/anime/22757",
+    "mal_id": 22757,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/43611",
+        "dub": null,
+        "url": "https://www.animegg.org/x-maiden-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/43612",
+        "dub": null,
+        "url": "https://www.animegg.org/x-maiden-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/43613",
+        "dub": null,
+        "url": "https://www.animegg.org/x-maiden-episode-3"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/43614",
+        "dub": null,
+        "url": "https://www.animegg.org/x-maiden-episode-4"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/43615",
+        "dub": null,
+        "url": "https://www.animegg.org/x-maiden-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/43617",
+        "dub": null,
+        "url": "https://www.animegg.org/x-maiden-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/43616",
+        "dub": null,
+        "url": "https://www.animegg.org/x-maiden-episode-7"
+      }
+    ]
   }
 ]
