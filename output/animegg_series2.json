@@ -68572,5 +68572,87 @@
         "url": "https://www.animegg.org/shingeki-kyojin-chuugakkou-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 898,
+    "title": "Kaifuku Jutsushi no Yarinaoshi",
+    "animegg_url": "https://www.animegg.org/series/kaifuku-jutsushi-no-yarinaoshi",
+    "mal_url": "https://myanimelist.net/anime/40750",
+    "mal_id": 40750,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/100489",
+        "dub": null,
+        "url": "https://www.animegg.org/kaifuku-jutsushi-no-yarinaoshi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/100586",
+        "dub": null,
+        "url": "https://www.animegg.org/kaifuku-jutsushi-no-yarinaoshi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/100664",
+        "dub": null,
+        "url": "https://www.animegg.org/kaifuku-jutsushi-no-yarinaoshi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/100735",
+        "dub": null,
+        "url": "https://www.animegg.org/kaifuku-jutsushi-no-yarinaoshi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/100803",
+        "dub": null,
+        "url": "https://www.animegg.org/kaifuku-jutsushi-no-yarinaoshi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/100879",
+        "dub": "https://www.animegg.org/embed/100891",
+        "url": "https://www.animegg.org/kaifuku-jutsushi-no-yarinaoshi-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/100948",
+        "dub": null,
+        "url": "https://www.animegg.org/kaifuku-jutsushi-no-yarinaoshi-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/101029",
+        "dub": null,
+        "url": "https://www.animegg.org/kaifuku-jutsushi-no-yarinaoshi-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/101097",
+        "dub": null,
+        "url": "https://www.animegg.org/kaifuku-jutsushi-no-yarinaoshi-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/101171",
+        "dub": null,
+        "url": "https://www.animegg.org/kaifuku-jutsushi-no-yarinaoshi-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/101244",
+        "dub": null,
+        "url": "https://www.animegg.org/kaifuku-jutsushi-no-yarinaoshi-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/101319",
+        "dub": null,
+        "url": "https://www.animegg.org/kaifuku-jutsushi-no-yarinaoshi-episode-12"
+      }
+    ]
   }
 ]
