@@ -58516,5 +58516,93 @@
         "url": "https://www.animegg.org/hakushaku-to-yousei-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1962,
+    "title": "Shouwa Genroku Rakugo Shinjuu",
+    "animegg_url": "https://www.animegg.org/series/shouwa-genroku-rakugo-shinjuu",
+    "mal_url": "https://myanimelist.net/anime/28735",
+    "mal_id": 28735,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/80803",
+        "dub": null,
+        "url": "https://www.animegg.org/shouwa-genroku-rakugo-shinjuu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/80804",
+        "dub": null,
+        "url": "https://www.animegg.org/shouwa-genroku-rakugo-shinjuu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/80805",
+        "dub": null,
+        "url": "https://www.animegg.org/shouwa-genroku-rakugo-shinjuu-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/80909",
+        "dub": null,
+        "url": "https://www.animegg.org/shouwa-genroku-rakugo-shinjuu-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/81008",
+        "dub": null,
+        "url": "https://www.animegg.org/shouwa-genroku-rakugo-shinjuu-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/81099",
+        "dub": null,
+        "url": "https://www.animegg.org/shouwa-genroku-rakugo-shinjuu-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/81199",
+        "dub": null,
+        "url": "https://www.animegg.org/shouwa-genroku-rakugo-shinjuu-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/81310",
+        "dub": null,
+        "url": "https://www.animegg.org/shouwa-genroku-rakugo-shinjuu-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/81409",
+        "dub": null,
+        "url": "https://www.animegg.org/shouwa-genroku-rakugo-shinjuu-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/81504",
+        "dub": null,
+        "url": "https://www.animegg.org/shouwa-genroku-rakugo-shinjuu-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/81601",
+        "dub": null,
+        "url": "https://www.animegg.org/shouwa-genroku-rakugo-shinjuu-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/81770",
+        "dub": null,
+        "url": "https://www.animegg.org/shouwa-genroku-rakugo-shinjuu-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/81771",
+        "dub": null,
+        "url": "https://www.animegg.org/shouwa-genroku-rakugo-shinjuu-episode-13"
+      }
+    ]
   }
 ]
