@@ -60362,5 +60362,87 @@
         "url": "https://www.animegg.org/sakura-trick-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1981,
+    "title": "Sekkou Boys",
+    "animegg_url": "https://www.animegg.org/series/sekkou-boys",
+    "mal_url": "https://myanimelist.net/anime/31540",
+    "mal_id": 31540,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/80596",
+        "dub": "https://www.animegg.org/embed/80602",
+        "url": "https://www.animegg.org/sekkou-boys-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/80689",
+        "dub": null,
+        "url": "https://www.animegg.org/sekkou-boys-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/80794",
+        "dub": null,
+        "url": "https://www.animegg.org/sekkou-boys-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/80901",
+        "dub": null,
+        "url": "https://www.animegg.org/sekkou-boys-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/81001",
+        "dub": null,
+        "url": "https://www.animegg.org/sekkou-boys-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/81094",
+        "dub": null,
+        "url": "https://www.animegg.org/sekkou-boys-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/81191",
+        "dub": null,
+        "url": "https://www.animegg.org/sekkou-boys-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/81299",
+        "dub": null,
+        "url": "https://www.animegg.org/sekkou-boys-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/81403",
+        "dub": null,
+        "url": "https://www.animegg.org/sekkou-boys-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/81496",
+        "dub": null,
+        "url": "https://www.animegg.org/sekkou-boys-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/81592",
+        "dub": null,
+        "url": "https://www.animegg.org/sekkou-boys-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/81678",
+        "dub": null,
+        "url": "https://www.animegg.org/sekkou-boys-episode-12"
+      }
+    ]
   }
 ]
