@@ -100312,5 +100312,27 @@
         "url": "https://www.animegg.org/zoids-fuzors-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 1081,
+    "title": "Highschool DxD OVA",
+    "animegg_url": "https://www.animegg.org/series/highschool-dxd-ova",
+    "mal_url": "https://myanimelist.net/anime/11617",
+    "mal_id": 11617,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/16162",
+        "dub": null,
+        "url": "https://www.animegg.org/highschool-dxd-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/16161",
+        "dub": null,
+        "url": "https://www.animegg.org/highschool-dxd-ova-episode-2"
+      }
+    ]
   }
 ]
