@@ -131387,5 +131387,87 @@
         "url": "https://www.animegg.org/boku-no-imouto-wa-osaka-okan-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2654,
+    "title": "Shuffle! Memories",
+    "animegg_url": "https://www.animegg.org/series/shuffle-memories",
+    "mal_url": "https://myanimelist.net/anime/1836",
+    "mal_id": 1836,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/34993",
+        "dub": null,
+        "url": "https://www.animegg.org/shuffle-memories-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/34991",
+        "dub": null,
+        "url": "https://www.animegg.org/shuffle-memories-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/34989",
+        "dub": null,
+        "url": "https://www.animegg.org/shuffle-memories-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/34990",
+        "dub": null,
+        "url": "https://www.animegg.org/shuffle-memories-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/34992",
+        "dub": null,
+        "url": "https://www.animegg.org/shuffle-memories-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/34995",
+        "dub": null,
+        "url": "https://www.animegg.org/shuffle-memories-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/34996",
+        "dub": null,
+        "url": "https://www.animegg.org/shuffle-memories-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/34994",
+        "dub": null,
+        "url": "https://www.animegg.org/shuffle-memories-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/34997",
+        "dub": null,
+        "url": "https://www.animegg.org/shuffle-memories-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/34998",
+        "dub": null,
+        "url": "https://www.animegg.org/shuffle-memories-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/34999",
+        "dub": null,
+        "url": "https://www.animegg.org/shuffle-memories-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/35000",
+        "dub": null,
+        "url": "https://www.animegg.org/shuffle-memories-episode-12"
+      }
+    ]
   }
 ]
