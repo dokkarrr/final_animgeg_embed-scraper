@@ -60070,5 +60070,87 @@
         "url": "https://www.animegg.org/kanokon-specials-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 853,
+    "title": "Mahou Sensou",
+    "animegg_url": "https://www.animegg.org/series/mahou-sensou",
+    "mal_url": "https://myanimelist.net/anime/19769",
+    "mal_id": 19769,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/22663",
+        "dub": "https://www.animegg.org/embed/77246",
+        "url": "https://www.animegg.org/mahou-sensou-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/22662",
+        "dub": "https://www.animegg.org/embed/77247",
+        "url": "https://www.animegg.org/mahou-sensou-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/22661",
+        "dub": "https://www.animegg.org/embed/77248",
+        "url": "https://www.animegg.org/mahou-sensou-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/22664",
+        "dub": "https://www.animegg.org/embed/77249",
+        "url": "https://www.animegg.org/mahou-sensou-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/22665",
+        "dub": "https://www.animegg.org/embed/77250",
+        "url": "https://www.animegg.org/mahou-sensou-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/22666",
+        "dub": "https://www.animegg.org/embed/77251",
+        "url": "https://www.animegg.org/mahou-sensou-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/22667",
+        "dub": "https://www.animegg.org/embed/77252",
+        "url": "https://www.animegg.org/mahou-sensou-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/22668",
+        "dub": "https://www.animegg.org/embed/77253",
+        "url": "https://www.animegg.org/mahou-sensou-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/22671",
+        "dub": "https://www.animegg.org/embed/77254",
+        "url": "https://www.animegg.org/mahou-sensou-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/22669",
+        "dub": "https://www.animegg.org/embed/77255",
+        "url": "https://www.animegg.org/mahou-sensou-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/22670",
+        "dub": "https://www.animegg.org/embed/77256",
+        "url": "https://www.animegg.org/mahou-sensou-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/22672",
+        "dub": "https://www.animegg.org/embed/77257",
+        "url": "https://www.animegg.org/mahou-sensou-episode-12"
+      }
+    ]
   }
 ]
