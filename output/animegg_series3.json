@@ -131551,5 +131551,57 @@
         "url": "https://www.animegg.org/selector-infected-wixoss-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2656,
+    "title": "Tenchi Muyo! Ryo-Ohki",
+    "animegg_url": "https://www.animegg.org/series/tenchi-muyo-ryo-ohki",
+    "mal_url": "https://myanimelist.net/anime/539",
+    "mal_id": 539,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/63161",
+        "dub": null,
+        "url": "https://www.animegg.org/tenchi-muyo-ryo-ohki-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/63162",
+        "dub": null,
+        "url": "https://www.animegg.org/tenchi-muyo-ryo-ohki-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/63163",
+        "dub": null,
+        "url": "https://www.animegg.org/tenchi-muyo-ryo-ohki-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/63164",
+        "dub": null,
+        "url": "https://www.animegg.org/tenchi-muyo-ryo-ohki-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/63165",
+        "dub": null,
+        "url": "https://www.animegg.org/tenchi-muyo-ryo-ohki-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/63166",
+        "dub": null,
+        "url": "https://www.animegg.org/tenchi-muyo-ryo-ohki-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/63167",
+        "dub": null,
+        "url": "https://www.animegg.org/tenchi-muyo-ryo-ohki-episode-7"
+      }
+    ]
   }
 ]
