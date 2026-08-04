@@ -37092,5 +37092,87 @@
         "url": "https://www.animegg.org/date-a-live-iii-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1796,
+    "title": "Asobi Asobase",
+    "animegg_url": "https://www.animegg.org/series/asobi-asobase",
+    "mal_url": "https://myanimelist.net/anime/37171",
+    "mal_id": 37171,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/91793",
+        "dub": null,
+        "url": "https://www.animegg.org/asobi-asobase-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/91860",
+        "dub": null,
+        "url": "https://www.animegg.org/asobi-asobase-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/91986",
+        "dub": null,
+        "url": "https://www.animegg.org/asobi-asobase-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/92075",
+        "dub": null,
+        "url": "https://www.animegg.org/asobi-asobase-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/92187",
+        "dub": null,
+        "url": "https://www.animegg.org/asobi-asobase-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/92263",
+        "dub": null,
+        "url": "https://www.animegg.org/asobi-asobase-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/92421",
+        "dub": null,
+        "url": "https://www.animegg.org/asobi-asobase-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/92605",
+        "dub": null,
+        "url": "https://www.animegg.org/asobi-asobase-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/92729",
+        "dub": null,
+        "url": "https://www.animegg.org/asobi-asobase-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/92802",
+        "dub": null,
+        "url": "https://www.animegg.org/asobi-asobase-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/92878",
+        "dub": null,
+        "url": "https://www.animegg.org/asobi-asobase-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/92984",
+        "dub": null,
+        "url": "https://www.animegg.org/asobi-asobase-episode-12"
+      }
+    ]
   }
 ]
