@@ -84222,5 +84222,93 @@
         "url": "https://www.animegg.org/zillion-episode-31"
       }
     ]
+  },
+  {
+    "serial_no": 2183,
+    "title": "Yumekui Merry",
+    "animegg_url": "https://www.animegg.org/series/yumekui-merry",
+    "mal_url": "https://myanimelist.net/anime/9331",
+    "mal_id": 9331,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/42155",
+        "dub": "https://www.animegg.org/embed/42156",
+        "url": "https://www.animegg.org/yumekui-merry-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/42153",
+        "dub": "https://www.animegg.org/embed/42154",
+        "url": "https://www.animegg.org/yumekui-merry-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/42151",
+        "dub": "https://www.animegg.org/embed/42152",
+        "url": "https://www.animegg.org/yumekui-merry-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/42147",
+        "dub": "https://www.animegg.org/embed/42148",
+        "url": "https://www.animegg.org/yumekui-merry-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/42149",
+        "dub": "https://www.animegg.org/embed/42150",
+        "url": "https://www.animegg.org/yumekui-merry-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/42161",
+        "dub": "https://www.animegg.org/embed/42162",
+        "url": "https://www.animegg.org/yumekui-merry-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/42157",
+        "dub": "https://www.animegg.org/embed/42158",
+        "url": "https://www.animegg.org/yumekui-merry-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/42159",
+        "dub": "https://www.animegg.org/embed/42160",
+        "url": "https://www.animegg.org/yumekui-merry-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/42165",
+        "dub": "https://www.animegg.org/embed/42166",
+        "url": "https://www.animegg.org/yumekui-merry-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/42163",
+        "dub": "https://www.animegg.org/embed/42164",
+        "url": "https://www.animegg.org/yumekui-merry-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/42167",
+        "dub": "https://www.animegg.org/embed/42168",
+        "url": "https://www.animegg.org/yumekui-merry-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/42169",
+        "dub": "https://www.animegg.org/embed/42170",
+        "url": "https://www.animegg.org/yumekui-merry-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/42171",
+        "dub": "https://www.animegg.org/embed/42172",
+        "url": "https://www.animegg.org/yumekui-merry-episode-13"
+      }
+    ]
   }
 ]
