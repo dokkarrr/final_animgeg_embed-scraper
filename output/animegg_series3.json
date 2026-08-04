@@ -74598,5 +74598,87 @@
         "url": "https://www.animegg.org/kamisama-hajimemashita-kako-hen-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 2114,
+    "title": "Teekyuu 4",
+    "animegg_url": "https://www.animegg.org/series/teekyuu-4",
+    "mal_url": "https://myanimelist.net/anime/26395",
+    "mal_id": 26395,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/77526",
+        "dub": "https://www.animegg.org/embed/77527",
+        "url": "https://www.animegg.org/teekyuu-4-episode-12"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/77412",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-4-episode-11"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/77241",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-4-episode-10"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/77038",
+        "dub": "https://www.animegg.org/embed/77040",
+        "url": "https://www.animegg.org/teekyuu-4-episode-9"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/76941",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-4-episode-8"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/76847",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-4-episode-7"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/76737",
+        "dub": "https://www.animegg.org/embed/76739",
+        "url": "https://www.animegg.org/teekyuu-4-episode-6"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/76625",
+        "dub": "https://www.animegg.org/embed/76626",
+        "url": "https://www.animegg.org/teekyuu-4-episode-5"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/76488",
+        "dub": "https://www.animegg.org/embed/76490",
+        "url": "https://www.animegg.org/teekyuu-4-episode-4"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/76358",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-4-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/76194",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-4-episode-2"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/76058",
+        "dub": "https://www.animegg.org/embed/76062",
+        "url": "https://www.animegg.org/teekyuu-4-episode-1"
+      }
+    ]
   }
 ]
