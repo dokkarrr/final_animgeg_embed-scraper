@@ -44464,5 +44464,87 @@
         "url": "https://www.animegg.org/non-non-biyori-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1863,
+    "title": "Kemeko Deluxe!",
+    "animegg_url": "https://www.animegg.org/series/kemeko-deluxe",
+    "mal_url": "https://myanimelist.net/anime/3464",
+    "mal_id": 3464,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/56256",
+        "dub": null,
+        "url": "https://www.animegg.org/kemeko-deluxe-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/56257",
+        "dub": null,
+        "url": "https://www.animegg.org/kemeko-deluxe-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/56258",
+        "dub": null,
+        "url": "https://www.animegg.org/kemeko-deluxe-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/56259",
+        "dub": null,
+        "url": "https://www.animegg.org/kemeko-deluxe-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/56260",
+        "dub": null,
+        "url": "https://www.animegg.org/kemeko-deluxe-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/56261",
+        "dub": null,
+        "url": "https://www.animegg.org/kemeko-deluxe-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/56262",
+        "dub": null,
+        "url": "https://www.animegg.org/kemeko-deluxe-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/56263",
+        "dub": null,
+        "url": "https://www.animegg.org/kemeko-deluxe-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/56264",
+        "dub": null,
+        "url": "https://www.animegg.org/kemeko-deluxe-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/56265",
+        "dub": null,
+        "url": "https://www.animegg.org/kemeko-deluxe-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/56266",
+        "dub": null,
+        "url": "https://www.animegg.org/kemeko-deluxe-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/56267",
+        "dub": null,
+        "url": "https://www.animegg.org/kemeko-deluxe-episode-12"
+      }
+    ]
   }
 ]
