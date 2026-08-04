@@ -103410,5 +103410,81 @@
         "url": "https://www.animegg.org/mikakunin-de-shinkoukei-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1101,
+    "title": "Yakusoku no Neverland 2nd Season",
+    "animegg_url": "https://www.animegg.org/series/yakusoku-no-neverland-2nd-season",
+    "mal_url": "https://myanimelist.net/anime/39617",
+    "mal_id": 39617,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/101256",
+        "dub": null,
+        "url": "https://www.animegg.org/yakusoku-no-neverland-2nd-season-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/101186",
+        "dub": null,
+        "url": "https://www.animegg.org/yakusoku-no-neverland-2nd-season-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/101108",
+        "dub": null,
+        "url": "https://www.animegg.org/yakusoku-no-neverland-2nd-season-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/101041",
+        "dub": null,
+        "url": "https://www.animegg.org/yakusoku-no-neverland-2nd-season-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/100968",
+        "dub": null,
+        "url": "https://www.animegg.org/yakusoku-no-neverland-2nd-season-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/100890",
+        "dub": null,
+        "url": "https://www.animegg.org/yakusoku-no-neverland-2nd-season-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/100749",
+        "dub": null,
+        "url": "https://www.animegg.org/yakusoku-no-neverland-2nd-season-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/100675",
+        "dub": null,
+        "url": "https://www.animegg.org/yakusoku-no-neverland-2nd-season-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/100602",
+        "dub": null,
+        "url": "https://www.animegg.org/yakusoku-no-neverland-2nd-season-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/100514",
+        "dub": null,
+        "url": "https://www.animegg.org/yakusoku-no-neverland-2nd-season-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/100419",
+        "dub": null,
+        "url": "https://www.animegg.org/yakusoku-no-neverland-2nd-season-episode-1"
+      }
+    ]
   }
 ]
