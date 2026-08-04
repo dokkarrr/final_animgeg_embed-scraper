@@ -98652,5 +98652,87 @@
         "url": "https://www.animegg.org/natsu-no-arashi-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 2318,
+    "title": "Ketsuekigata-kun! 3",
+    "animegg_url": "https://www.animegg.org/series/ketsuekigata-kun-3",
+    "mal_url": "https://myanimelist.net/anime/31566",
+    "mal_id": 31566,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/80523",
+        "dub": "https://www.animegg.org/embed/123585",
+        "url": "https://www.animegg.org/ketsuekigata-kun-3-episode-12"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/80438",
+        "dub": "https://www.animegg.org/embed/123586",
+        "url": "https://www.animegg.org/ketsuekigata-kun-3-episode-11"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/80350",
+        "dub": "https://www.animegg.org/embed/123587",
+        "url": "https://www.animegg.org/ketsuekigata-kun-3-episode-10"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/80259",
+        "dub": "https://www.animegg.org/embed/123577",
+        "url": "https://www.animegg.org/ketsuekigata-kun-3-episode-9"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/80134",
+        "dub": "https://www.animegg.org/embed/123578",
+        "url": "https://www.animegg.org/ketsuekigata-kun-3-episode-8"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/80038",
+        "dub": "https://www.animegg.org/embed/123579",
+        "url": "https://www.animegg.org/ketsuekigata-kun-3-episode-7"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/80037",
+        "dub": "https://www.animegg.org/embed/123580",
+        "url": "https://www.animegg.org/ketsuekigata-kun-3-episode-6"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/80036",
+        "dub": "https://www.animegg.org/embed/123581",
+        "url": "https://www.animegg.org/ketsuekigata-kun-3-episode-5"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/80035",
+        "dub": "https://www.animegg.org/embed/123583",
+        "url": "https://www.animegg.org/ketsuekigata-kun-3-episode-4"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/80034",
+        "dub": "https://www.animegg.org/embed/123582",
+        "url": "https://www.animegg.org/ketsuekigata-kun-3-episode-3"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/80033",
+        "dub": "https://www.animegg.org/embed/123584",
+        "url": "https://www.animegg.org/ketsuekigata-kun-3-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/80032",
+        "dub": "https://www.animegg.org/embed/123588",
+        "url": "https://www.animegg.org/ketsuekigata-kun-3-episode-1"
+      }
+    ]
   }
 ]
