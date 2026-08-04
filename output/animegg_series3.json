@@ -7982,5 +7982,87 @@
         "url": "https://www.animegg.org/ryuuou-no-oshigoto-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1597,
+    "title": "Nogizaka Haruka No Himitsu",
+    "animegg_url": "https://www.animegg.org/series/nogizaka-haruka-no-himitsu",
+    "mal_url": "https://myanimelist.net/anime/3467",
+    "mal_id": 3467,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/27324",
+        "dub": null,
+        "url": "https://www.animegg.org/nogizaka-haruka-no-himitsu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/27328",
+        "dub": null,
+        "url": "https://www.animegg.org/nogizaka-haruka-no-himitsu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/27325",
+        "dub": null,
+        "url": "https://www.animegg.org/nogizaka-haruka-no-himitsu-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/27326",
+        "dub": null,
+        "url": "https://www.animegg.org/nogizaka-haruka-no-himitsu-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/27327",
+        "dub": null,
+        "url": "https://www.animegg.org/nogizaka-haruka-no-himitsu-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/27330",
+        "dub": null,
+        "url": "https://www.animegg.org/nogizaka-haruka-no-himitsu-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/27331",
+        "dub": null,
+        "url": "https://www.animegg.org/nogizaka-haruka-no-himitsu-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/27329",
+        "dub": null,
+        "url": "https://www.animegg.org/nogizaka-haruka-no-himitsu-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/27332",
+        "dub": null,
+        "url": "https://www.animegg.org/nogizaka-haruka-no-himitsu-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/27333",
+        "dub": null,
+        "url": "https://www.animegg.org/nogizaka-haruka-no-himitsu-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/27334",
+        "dub": null,
+        "url": "https://www.animegg.org/nogizaka-haruka-no-himitsu-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/27335",
+        "dub": null,
+        "url": "https://www.animegg.org/nogizaka-haruka-no-himitsu-episode-12"
+      }
+    ]
   }
 ]
