@@ -123477,5 +123477,81 @@
         "url": "https://www.animegg.org/vipers-creed-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2568,
+    "title": "Dr. Stone: New World",
+    "animegg_url": "https://www.animegg.org/series/dr-stone-new-world",
+    "mal_url": "https://myanimelist.net/anime/48549",
+    "mal_id": 48549,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/107657",
+        "dub": "https://www.animegg.org/embed/107861",
+        "url": "https://www.animegg.org/dr-stone-new-world-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/107729",
+        "dub": "https://www.animegg.org/embed/107862",
+        "url": "https://www.animegg.org/dr-stone-new-world-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/107835",
+        "dub": null,
+        "url": "https://www.animegg.org/dr-stone-new-world-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/107860",
+        "dub": null,
+        "url": "https://www.animegg.org/dr-stone-new-world-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/107913",
+        "dub": null,
+        "url": "https://www.animegg.org/dr-stone-new-world-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/107914",
+        "dub": null,
+        "url": "https://www.animegg.org/dr-stone-new-world-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/108118",
+        "dub": null,
+        "url": "https://www.animegg.org/dr-stone-new-world-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/108318",
+        "dub": null,
+        "url": "https://www.animegg.org/dr-stone-new-world-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/108800",
+        "dub": null,
+        "url": "https://www.animegg.org/dr-stone-new-world-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/129946",
+        "dub": null,
+        "url": "https://www.animegg.org/dr-stone-new-world-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/129945",
+        "dub": null,
+        "url": "https://www.animegg.org/dr-stone-new-world-episode-11"
+      }
+    ]
   }
 ]
