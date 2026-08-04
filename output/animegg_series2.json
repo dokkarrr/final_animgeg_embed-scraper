@@ -23184,5 +23184,93 @@
         "url": "https://www.animegg.org/shinsekai-yori-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 642,
+    "title": "Jitsu wa Watashi wa",
+    "animegg_url": "https://www.animegg.org/series/jitsu-wa-watashi-wa",
+    "mal_url": "https://myanimelist.net/anime/29785",
+    "mal_id": 29785,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/77756",
+        "dub": "https://www.animegg.org/embed/77758",
+        "url": "https://www.animegg.org/jitsu-wa-watashi-wa-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/77886",
+        "dub": "https://www.animegg.org/embed/77887",
+        "url": "https://www.animegg.org/jitsu-wa-watashi-wa-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/78063",
+        "dub": "https://www.animegg.org/embed/78065",
+        "url": "https://www.animegg.org/jitsu-wa-watashi-wa-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/78234",
+        "dub": null,
+        "url": "https://www.animegg.org/jitsu-wa-watashi-wa-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/78353",
+        "dub": null,
+        "url": "https://www.animegg.org/jitsu-wa-watashi-wa-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/78468",
+        "dub": null,
+        "url": "https://www.animegg.org/jitsu-wa-watashi-wa-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/78586",
+        "dub": null,
+        "url": "https://www.animegg.org/jitsu-wa-watashi-wa-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/78690",
+        "dub": null,
+        "url": "https://www.animegg.org/jitsu-wa-watashi-wa-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/78804",
+        "dub": null,
+        "url": "https://www.animegg.org/jitsu-wa-watashi-wa-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/78921",
+        "dub": null,
+        "url": "https://www.animegg.org/jitsu-wa-watashi-wa-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/79030",
+        "dub": null,
+        "url": "https://www.animegg.org/jitsu-wa-watashi-wa-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/79137",
+        "dub": null,
+        "url": "https://www.animegg.org/jitsu-wa-watashi-wa-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/79225",
+        "dub": null,
+        "url": "https://www.animegg.org/jitsu-wa-watashi-wa-episode-13"
+      }
+    ]
   }
 ]
