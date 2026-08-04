@@ -8288,5 +8288,93 @@
         "url": "https://www.animegg.org/digimon-ghost-game-episode-67"
       }
     ]
+  },
+  {
+    "serial_no": 548,
+    "title": "Mayo Chiki!",
+    "animegg_url": "https://www.animegg.org/series/mayo-chiki",
+    "mal_url": "https://myanimelist.net/anime/10110",
+    "mal_id": 10110,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/23686",
+        "dub": "https://www.animegg.org/embed/74607",
+        "url": "https://www.animegg.org/mayo-chiki-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/23685",
+        "dub": "https://www.animegg.org/embed/74605",
+        "url": "https://www.animegg.org/mayo-chiki-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/23682",
+        "dub": "https://www.animegg.org/embed/74603",
+        "url": "https://www.animegg.org/mayo-chiki-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/23684",
+        "dub": "https://www.animegg.org/embed/74601",
+        "url": "https://www.animegg.org/mayo-chiki-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/23683",
+        "dub": "https://www.animegg.org/embed/74600",
+        "url": "https://www.animegg.org/mayo-chiki-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/23687",
+        "dub": "https://www.animegg.org/embed/74599",
+        "url": "https://www.animegg.org/mayo-chiki-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/23688",
+        "dub": "https://www.animegg.org/embed/74598",
+        "url": "https://www.animegg.org/mayo-chiki-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/23689",
+        "dub": "https://www.animegg.org/embed/74609",
+        "url": "https://www.animegg.org/mayo-chiki-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/23690",
+        "dub": "https://www.animegg.org/embed/74597",
+        "url": "https://www.animegg.org/mayo-chiki-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/23691",
+        "dub": "https://www.animegg.org/embed/74596",
+        "url": "https://www.animegg.org/mayo-chiki-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/23692",
+        "dub": "https://www.animegg.org/embed/74595",
+        "url": "https://www.animegg.org/mayo-chiki-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/23693",
+        "dub": "https://www.animegg.org/embed/74594",
+        "url": "https://www.animegg.org/mayo-chiki-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/23694",
+        "dub": "https://www.animegg.org/embed/74593",
+        "url": "https://www.animegg.org/mayo-chiki-episode-13"
+      }
+    ]
   }
 ]
