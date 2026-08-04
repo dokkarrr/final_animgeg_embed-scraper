@@ -108100,5 +108100,87 @@
         "url": "https://www.animegg.org/moyashimon-returns-episode-11"
       }
     ]
+  },
+  {
+    "serial_no": 2415,
+    "title": "Paradise Kiss",
+    "animegg_url": "https://www.animegg.org/series/paradise-kiss",
+    "mal_url": "https://myanimelist.net/anime/322",
+    "mal_id": 322,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/59888",
+        "dub": "https://www.animegg.org/embed/59889",
+        "url": "https://www.animegg.org/paradise-kiss-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/59890",
+        "dub": "https://www.animegg.org/embed/59891",
+        "url": "https://www.animegg.org/paradise-kiss-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/59892",
+        "dub": "https://www.animegg.org/embed/59893",
+        "url": "https://www.animegg.org/paradise-kiss-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/59894",
+        "dub": "https://www.animegg.org/embed/59895",
+        "url": "https://www.animegg.org/paradise-kiss-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/59896",
+        "dub": "https://www.animegg.org/embed/59897",
+        "url": "https://www.animegg.org/paradise-kiss-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/59898",
+        "dub": "https://www.animegg.org/embed/59899",
+        "url": "https://www.animegg.org/paradise-kiss-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/59900",
+        "dub": "https://www.animegg.org/embed/59901",
+        "url": "https://www.animegg.org/paradise-kiss-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/59902",
+        "dub": "https://www.animegg.org/embed/59903",
+        "url": "https://www.animegg.org/paradise-kiss-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/59904",
+        "dub": "https://www.animegg.org/embed/59905",
+        "url": "https://www.animegg.org/paradise-kiss-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/59906",
+        "dub": "https://www.animegg.org/embed/59907",
+        "url": "https://www.animegg.org/paradise-kiss-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/59908",
+        "dub": "https://www.animegg.org/embed/59909",
+        "url": "https://www.animegg.org/paradise-kiss-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/59910",
+        "dub": "https://www.animegg.org/embed/59911",
+        "url": "https://www.animegg.org/paradise-kiss-episode-12"
+      }
+    ]
   }
 ]
