@@ -26240,5 +26240,87 @@
         "url": "https://www.animegg.org/tanken-driland-1000-nen-no-mahou-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 1720,
+    "title": "Detective Conan OVAs",
+    "animegg_url": "https://www.animegg.org/series/detective-conan-ovas",
+    "mal_url": "https://myanimelist.net/anime/1369",
+    "mal_id": 1369,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/8505",
+        "dub": null,
+        "url": "https://www.animegg.org/detective-conan-ovas-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/8503",
+        "dub": null,
+        "url": "https://www.animegg.org/detective-conan-ovas-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/8502",
+        "dub": null,
+        "url": "https://www.animegg.org/detective-conan-ovas-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/8501",
+        "dub": null,
+        "url": "https://www.animegg.org/detective-conan-ovas-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/8504",
+        "dub": null,
+        "url": "https://www.animegg.org/detective-conan-ovas-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/8508",
+        "dub": null,
+        "url": "https://www.animegg.org/detective-conan-ovas-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/8507",
+        "dub": null,
+        "url": "https://www.animegg.org/detective-conan-ovas-episode-7-2352"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/8506",
+        "dub": null,
+        "url": "https://www.animegg.org/detectiveconan-ovas-episode-8-4675"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/8512",
+        "dub": null,
+        "url": "https://www.animegg.org/detective-conan-ovas-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/8509",
+        "dub": null,
+        "url": "https://www.animegg.org/detective-conan-ovas-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/8510",
+        "dub": null,
+        "url": "https://www.animegg.org/detective-conan-ovas-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/8511",
+        "dub": null,
+        "url": "https://www.animegg.org/detective-conan-ovas-episode-12"
+      }
+    ]
   }
 ]
