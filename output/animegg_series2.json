@@ -79144,5 +79144,87 @@
         "url": "https://www.animegg.org/cardfight-vanguard-legion-mate-hen-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 964,
+    "title": "Oda Nobuna no Yabou",
+    "animegg_url": "https://www.animegg.org/series/oda-nobuna-no-yabou",
+    "mal_url": "https://myanimelist.net/anime/11933",
+    "mal_id": 11933,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/27591",
+        "dub": null,
+        "url": "https://www.animegg.org/oda-nobuna-no-yabou-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/27588",
+        "dub": "https://www.animegg.org/embed/73934",
+        "url": "https://www.animegg.org/oda-nobuna-no-yabou-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/27587",
+        "dub": null,
+        "url": "https://www.animegg.org/oda-nobuna-no-yabou-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/27589",
+        "dub": "https://www.animegg.org/embed/73936",
+        "url": "https://www.animegg.org/oda-nobuna-no-yabou-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/27590",
+        "dub": "https://www.animegg.org/embed/73937",
+        "url": "https://www.animegg.org/oda-nobuna-no-yabou-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/27594",
+        "dub": "https://www.animegg.org/embed/73938",
+        "url": "https://www.animegg.org/oda-nobuna-no-yabou-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/27596",
+        "dub": "https://www.animegg.org/embed/73939",
+        "url": "https://www.animegg.org/oda-nobuna-no-yabou-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/27592",
+        "dub": "https://www.animegg.org/embed/73940",
+        "url": "https://www.animegg.org/oda-nobuna-no-yabou-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/27593",
+        "dub": "https://www.animegg.org/embed/73941",
+        "url": "https://www.animegg.org/oda-nobuna-no-yabou-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/27595",
+        "dub": "https://www.animegg.org/embed/73942",
+        "url": "https://www.animegg.org/oda-nobuna-no-yabou-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/27597",
+        "dub": "https://www.animegg.org/embed/73944",
+        "url": "https://www.animegg.org/oda-nobuna-no-yabou-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/27598",
+        "dub": "https://www.animegg.org/embed/73945",
+        "url": "https://www.animegg.org/oda-nobuna-no-yabou-episode-12"
+      }
+    ]
   }
 ]
