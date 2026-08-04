@@ -21686,5 +21686,81 @@
         "url": "https://www.animegg.org/inazuma-eleven-ares-no-tenbin-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 1678,
+    "title": "Natsume Yuujinchou Go",
+    "animegg_url": "https://www.animegg.org/series/natsume-yuujinchou-go",
+    "mal_url": "https://myanimelist.net/anime/32983",
+    "mal_id": 32983,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/84107",
+        "dub": "https://www.animegg.org/embed/84109",
+        "url": "https://www.animegg.org/natsume-yuujinchou-go-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/86158",
+        "dub": null,
+        "url": "https://www.animegg.org/natsume-yuujinchou-go-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/84339",
+        "dub": null,
+        "url": "https://www.animegg.org/natsume-yuujinchou-go-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/84432",
+        "dub": null,
+        "url": "https://www.animegg.org/natsume-yuujinchou-go-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/84527",
+        "dub": null,
+        "url": "https://www.animegg.org/natsume-yuujinchou-go-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/84622",
+        "dub": null,
+        "url": "https://www.animegg.org/natsume-yuujinchou-go-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/84821",
+        "dub": null,
+        "url": "https://www.animegg.org/natsume-yuujinchou-go-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/84919",
+        "dub": null,
+        "url": "https://www.animegg.org/natsume-yuujinchou-go-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/84987",
+        "dub": null,
+        "url": "https://www.animegg.org/natsume-yuujinchou-go-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/85207",
+        "dub": null,
+        "url": "https://www.animegg.org/natsume-yuujinchou-go-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/85208",
+        "dub": null,
+        "url": "https://www.animegg.org/natsume-yuujinchou-go-episode-11"
+      }
+    ]
   }
 ]
