@@ -61372,5 +61372,93 @@
         "url": "https://www.animegg.org/just-because-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 1992,
+    "title": "Hiiro no Kakera Dai Ni Shou",
+    "animegg_url": "https://www.animegg.org/series/hiiro-no-kakera-dai-ni-shou",
+    "mal_url": "https://myanimelist.net/anime/14645",
+    "mal_id": 14645,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/16296",
+        "dub": null,
+        "url": "https://www.animegg.org/hiiro-no-kakera-dai-ni-shou-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/16292",
+        "dub": null,
+        "url": "https://www.animegg.org/hiiro-no-kakera-dai-ni-shou-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/16295",
+        "dub": null,
+        "url": "https://www.animegg.org/hiiro-no-kakera-dai-ni-shou-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/16293",
+        "dub": null,
+        "url": "https://www.animegg.org/hiiro-no-kakera-dai-ni-shou-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/16294",
+        "dub": null,
+        "url": "https://www.animegg.org/hiiro-no-kakera-dai-ni-shou-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/16297",
+        "dub": null,
+        "url": "https://www.animegg.org/hiiro-no-kakera-dai-ni-shou-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/16299",
+        "dub": null,
+        "url": "https://www.animegg.org/hiiro-no-kakera-dai-ni-shou-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/16298",
+        "dub": null,
+        "url": "https://www.animegg.org/hiiro-no-kakera-dai-ni-shou-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/16300",
+        "dub": null,
+        "url": "https://www.animegg.org/hiiro-no-kakera-dai-ni-shou-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/16301",
+        "dub": null,
+        "url": "https://www.animegg.org/hiiro-no-kakera-dai-ni-shou-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/16303",
+        "dub": null,
+        "url": "https://www.animegg.org/hiiro-no-kakera-dai-ni-shou-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/16302",
+        "dub": null,
+        "url": "https://www.animegg.org/hiiro-no-kakera-dai-ni-shou-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/16304",
+        "dub": null,
+        "url": "https://www.animegg.org/hiiro-no-kakera-dai-ni-shou-episode-13"
+      }
+    ]
   }
 ]
