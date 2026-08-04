@@ -113770,5 +113770,87 @@
         "url": "https://www.animegg.org/youre-under-arrest-second-season-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 2472,
+    "title": "Shuumatsu no Izetta",
+    "animegg_url": "https://www.animegg.org/series/shuumatsu-no-izetta",
+    "mal_url": "https://myanimelist.net/anime/33433",
+    "mal_id": 33433,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/84068",
+        "dub": null,
+        "url": "https://www.animegg.org/shuumatsu-no-izetta-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/84167",
+        "dub": null,
+        "url": "https://www.animegg.org/shuumatsu-no-izetta-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/84278",
+        "dub": null,
+        "url": "https://www.animegg.org/shuumatsu-no-izetta-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/84386",
+        "dub": null,
+        "url": "https://www.animegg.org/shuumatsu-no-izetta-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/84476",
+        "dub": null,
+        "url": "https://www.animegg.org/shuumatsu-no-izetta-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/84581",
+        "dub": null,
+        "url": "https://www.animegg.org/shuumatsu-no-izetta-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/84675",
+        "dub": null,
+        "url": "https://www.animegg.org/shuumatsu-no-izetta-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/84771",
+        "dub": null,
+        "url": "https://www.animegg.org/shuumatsu-no-izetta-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/84872",
+        "dub": null,
+        "url": "https://www.animegg.org/shuumatsu-no-izetta-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/85051",
+        "dub": null,
+        "url": "https://www.animegg.org/shuumatsu-no-izetta-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/85052",
+        "dub": null,
+        "url": "https://www.animegg.org/shuumatsu-no-izetta-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/85155",
+        "dub": null,
+        "url": "https://www.animegg.org/shuumatsu-no-izetta-episode-12"
+      }
+    ]
   }
 ]
