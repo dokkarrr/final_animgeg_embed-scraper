@@ -82370,5 +82370,87 @@
         "url": "https://www.animegg.org/noein---mou-hitori-no-kimi-e-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 986,
+    "title": "Mahou Shoujo Madoka Magica",
+    "animegg_url": "https://www.animegg.org/series/mahou-shoujo-madoka-magica",
+    "mal_url": "https://myanimelist.net/anime/38256",
+    "mal_id": 38256,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/22679",
+        "dub": "https://www.animegg.org/embed/22680",
+        "url": "https://www.animegg.org/mahou-shoujo-madoka-magica-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/22677",
+        "dub": "https://www.animegg.org/embed/22678",
+        "url": "https://www.animegg.org/mahou-shoujo-madoka-magica-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/22681",
+        "dub": "https://www.animegg.org/embed/22682",
+        "url": "https://www.animegg.org/mahou-shoujo-madoka-magica-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/22673",
+        "dub": "https://www.animegg.org/embed/22674",
+        "url": "https://www.animegg.org/mahou-shoujo-madoka-magica-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/22675",
+        "dub": "https://www.animegg.org/embed/22676",
+        "url": "https://www.animegg.org/mahou-shoujo-madoka-magica-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/22691",
+        "dub": "https://www.animegg.org/embed/22692",
+        "url": "https://www.animegg.org/mahou-shoujo-madoka-magica-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/22687",
+        "dub": "https://www.animegg.org/embed/22688",
+        "url": "https://www.animegg.org/mahou-shoujo-madoka-magica-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/22683",
+        "dub": "https://www.animegg.org/embed/22684",
+        "url": "https://www.animegg.org/mahou-shoujo-madoka-magica-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/22689",
+        "dub": "https://www.animegg.org/embed/22690",
+        "url": "https://www.animegg.org/mahou-shoujo-madoka-magica-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/22685",
+        "dub": "https://www.animegg.org/embed/22686",
+        "url": "https://www.animegg.org/mahou-shoujo-madoka-magica-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/22693",
+        "dub": "https://www.animegg.org/embed/22694",
+        "url": "https://www.animegg.org/mahou-shoujo-madoka-magica-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/22695",
+        "dub": "https://www.animegg.org/embed/22696",
+        "url": "https://www.animegg.org/mahou-shoujo-madoka-magica-episode-12"
+      }
+    ]
   }
 ]
