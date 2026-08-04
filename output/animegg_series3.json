@@ -118288,5 +118288,87 @@
         "url": "https://www.animegg.org/sewayaki-kitsune-no-senko-san-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2523,
+    "title": "Bocchi the Rock!",
+    "animegg_url": "https://www.animegg.org/series/bocchi-the-rock",
+    "mal_url": "https://myanimelist.net/anime/47917",
+    "mal_id": 47917,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/106062",
+        "dub": null,
+        "url": "https://www.animegg.org/bocchi-the-rock-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/106127",
+        "dub": null,
+        "url": "https://www.animegg.org/bocchi-the-rock-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/106183",
+        "dub": null,
+        "url": "https://www.animegg.org/bocchi-the-rock-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/106248",
+        "dub": null,
+        "url": "https://www.animegg.org/bocchi-the-rock-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/106310",
+        "dub": null,
+        "url": "https://www.animegg.org/bocchi-the-rock-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/106371",
+        "dub": null,
+        "url": "https://www.animegg.org/bocchi-the-rock-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/135506",
+        "dub": null,
+        "url": "https://www.animegg.org/bocchi-the-rock-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/106492",
+        "dub": null,
+        "url": "https://www.animegg.org/bocchi-the-rock-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/106547",
+        "dub": null,
+        "url": "https://www.animegg.org/bocchi-the-rock-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/106597",
+        "dub": null,
+        "url": "https://www.animegg.org/bocchi-the-rock-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/106655",
+        "dub": null,
+        "url": "https://www.animegg.org/bocchi-the-rock-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/106716",
+        "dub": null,
+        "url": "https://www.animegg.org/bocchi-the-rock-episode-12"
+      }
+    ]
   }
 ]
