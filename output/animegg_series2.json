@@ -76570,5 +76570,87 @@
         "url": "https://www.animegg.org/ginga-sengoku-yuuden-rai-episode-52"
       }
     ]
+  },
+  {
+    "serial_no": 949,
+    "title": "The Black Lagoon",
+    "animegg_url": "https://www.animegg.org/series/the-black-lagoon",
+    "mal_url": "https://myanimelist.net/anime/4901",
+    "mal_id": 4901,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/44915",
+        "dub": "https://www.animegg.org/embed/44916",
+        "url": "https://www.animegg.org/the-black-lagoon-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/44917",
+        "dub": "https://www.animegg.org/embed/44918",
+        "url": "https://www.animegg.org/the-black-lagoon-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/44919",
+        "dub": "https://www.animegg.org/embed/44920",
+        "url": "https://www.animegg.org/the-black-lagoon-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/44921",
+        "dub": "https://www.animegg.org/embed/44922",
+        "url": "https://www.animegg.org/the-black-lagoon-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/44923",
+        "dub": "https://www.animegg.org/embed/44924",
+        "url": "https://www.animegg.org/the-black-lagoon-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/44925",
+        "dub": "https://www.animegg.org/embed/44926",
+        "url": "https://www.animegg.org/the-black-lagoon-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/44927",
+        "dub": "https://www.animegg.org/embed/44928",
+        "url": "https://www.animegg.org/the-black-lagoon-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/44929",
+        "dub": "https://www.animegg.org/embed/44930",
+        "url": "https://www.animegg.org/the-black-lagoon-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/44931",
+        "dub": "https://www.animegg.org/embed/44932",
+        "url": "https://www.animegg.org/the-black-lagoon-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/44933",
+        "dub": "https://www.animegg.org/embed/44934",
+        "url": "https://www.animegg.org/the-black-lagoon-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/44935",
+        "dub": "https://www.animegg.org/embed/44936",
+        "url": "https://www.animegg.org/the-black-lagoon-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/44937",
+        "dub": "https://www.animegg.org/embed/44938",
+        "url": "https://www.animegg.org/the-black-lagoon-episode-12"
+      }
+    ]
   }
 ]
