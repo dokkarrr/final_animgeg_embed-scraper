@@ -100338,5 +100338,21 @@
         "url": "https://www.animegg.org/goblin-slayer-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 6743,
+    "title": "Nanbaka Special",
+    "animegg_url": "https://www.animegg.org/series/nanbaka-special",
+    "mal_url": "https://myanimelist.net/anime/34533",
+    "mal_id": 34533,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/88443",
+        "dub": null,
+        "url": "https://www.animegg.org/nanbaka-special-episode-1"
+      }
+    ]
   }
 ]
