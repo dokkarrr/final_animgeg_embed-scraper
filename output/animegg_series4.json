@@ -19532,5 +19532,87 @@
         "url": "https://www.animegg.org/lv2-kara-cheat-datta-motoyuusha-kouho-no-mattari-isekai-life-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3303,
+    "title": "Kitsune no Koe",
+    "animegg_url": "https://www.animegg.org/series/kitsune-no-koe",
+    "mal_url": "https://myanimelist.net/anime/37106",
+    "mal_id": 37106,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/93215",
+        "dub": null,
+        "url": "https://www.animegg.org/kitsune-no-koe-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/93297",
+        "dub": null,
+        "url": "https://www.animegg.org/kitsune-no-koe-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/93374",
+        "dub": null,
+        "url": "https://www.animegg.org/kitsune-no-koe-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/93452",
+        "dub": null,
+        "url": "https://www.animegg.org/kitsune-no-koe-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/93529",
+        "dub": null,
+        "url": "https://www.animegg.org/kitsune-no-koe-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/93608",
+        "dub": null,
+        "url": "https://www.animegg.org/kitsune-no-koe-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/93678",
+        "dub": null,
+        "url": "https://www.animegg.org/kitsune-no-koe-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/93743",
+        "dub": null,
+        "url": "https://www.animegg.org/kitsune-no-koe-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/93835",
+        "dub": null,
+        "url": "https://www.animegg.org/kitsune-no-koe-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/93987",
+        "dub": null,
+        "url": "https://www.animegg.org/kitsune-no-koe-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/94063",
+        "dub": null,
+        "url": "https://www.animegg.org/kitsune-no-koe-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/94103",
+        "dub": null,
+        "url": "https://www.animegg.org/kitsune-no-koe-episode-12"
+      }
+    ]
   }
 ]
