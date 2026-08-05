@@ -33770,5 +33770,87 @@
         "url": "https://www.animegg.org/fushigi-yuugi-dai-ni-bu-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3453,
+    "title": "Teekyuu 2",
+    "animegg_url": "https://www.animegg.org/series/teekyuu-2",
+    "mal_url": "https://myanimelist.net/anime/18121",
+    "mal_id": 18121,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/37348",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-2-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/37347",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-2-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/37345",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-2-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/37346",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-2-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/37342",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-2-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/37343",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-2-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/37344",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-2-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/37338",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-2-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/37340",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-2-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/37337",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-2-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/37341",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-2-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/37339",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-2-episode-1"
+      }
+    ]
   }
 ]
