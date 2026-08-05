@@ -28108,5 +28108,51 @@
         "url": "https://www.animegg.org/yakushiji-ryouko-no-kaiki-jikenbo-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3401,
+    "title": "Kenzen Robo Daimidaler Specials",
+    "animegg_url": "https://www.animegg.org/series/kenzen-robo-daimidaler-specials",
+    "mal_url": "https://myanimelist.net/anime/23735",
+    "mal_id": 23735,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/65854",
+        "dub": "https://www.animegg.org/embed/65855",
+        "url": "https://www.animegg.org/kenzen-robo-daimidaler-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/65856",
+        "dub": "https://www.animegg.org/embed/65857",
+        "url": "https://www.animegg.org/kenzen-robo-daimidaler-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/65858",
+        "dub": "https://www.animegg.org/embed/67733",
+        "url": "https://www.animegg.org/kenzen-robo-daimidaler-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/65859",
+        "dub": "https://www.animegg.org/embed/67749",
+        "url": "https://www.animegg.org/kenzen-robo-daimidaler-specials-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/67767",
+        "dub": null,
+        "url": "https://www.animegg.org/kenzen-robo-daimidaler-specials-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/69450",
+        "dub": null,
+        "url": "https://www.animegg.org/kenzen-robo-daimidaler-specials-episode-6"
+      }
+    ]
   }
 ]
