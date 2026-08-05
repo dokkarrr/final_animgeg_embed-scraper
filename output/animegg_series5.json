@@ -89021,5 +89021,21 @@
     "mal_id": 40028,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 6657,
+    "title": "Girls und Panzer: Taiyaki War!",
+    "animegg_url": "https://www.animegg.org/series/girls-und-panzer-taiyaki-war",
+    "mal_url": "https://myanimelist.net/anime/14131",
+    "mal_id": 14131,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/99656",
+        "dub": null,
+        "url": "https://www.animegg.org/girls-und-panzer-taiyaki-war-episode-1"
+      }
+    ]
   }
 ]
