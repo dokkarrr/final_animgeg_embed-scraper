@@ -93088,5 +93088,39 @@
         "url": "https://www.animegg.org/uglymug-epicfighter-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4301,
+    "title": "Final Fantasy",
+    "animegg_url": "https://www.animegg.org/series/final-fantasy",
+    "mal_url": "https://myanimelist.net/anime/426",
+    "mal_id": 426,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/51553",
+        "dub": null,
+        "url": "https://www.animegg.org/final-fantasy-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/51554",
+        "dub": null,
+        "url": "https://www.animegg.org/final-fantasy-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/51555",
+        "dub": null,
+        "url": "https://www.animegg.org/final-fantasy-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/51556",
+        "dub": null,
+        "url": "https://www.animegg.org/final-fantasy-episode-4"
+      }
+    ]
   }
 ]
