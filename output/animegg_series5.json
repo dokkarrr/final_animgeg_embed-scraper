@@ -82620,5 +82620,21 @@
         "url": "https://www.animegg.org/ao-no-exorcist-yosuga-hen-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 6597,
+    "title": "Wake Up, Girls! Shichinin no Idol",
+    "animegg_url": "https://www.animegg.org/series/wake-up-girls-shichinin-no-idol",
+    "mal_url": "https://myanimelist.net/anime/21189",
+    "mal_id": 21189,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/64026",
+        "dub": null,
+        "url": "https://www.animegg.org/wake-up-girls-shichinin-no-idol-episode-1"
+      }
+    ]
   }
 ]
