@@ -118506,5 +118506,21 @@
         "url": "https://www.animegg.org/di-gi-charat-natsuyasumi-special-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 4720,
+    "title": "Clannad Movie",
+    "animegg_url": "https://www.animegg.org/series/clannad-movie",
+    "mal_url": "https://myanimelist.net/anime/1723",
+    "mal_id": 1723,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/47187",
+        "dub": "https://www.animegg.org/embed/47188",
+        "url": "https://www.animegg.org/clannad-movie-episode-1"
+      }
+    ]
   }
 ]
