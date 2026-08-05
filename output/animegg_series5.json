@@ -7661,5 +7661,21 @@
         "url": "https://www.animegg.org/shoujo-tachi-wa-kouya-wo-mezasu-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5734,
+    "title": "Omoide no Marnie",
+    "animegg_url": "https://www.animegg.org/series/omoide-no-marnie",
+    "mal_url": "https://myanimelist.net/anime/21557",
+    "mal_id": 21557,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/75765",
+        "dub": null,
+        "url": "https://www.animegg.org/omoide-no-marnie-moive"
+      }
+    ]
   }
 ]
