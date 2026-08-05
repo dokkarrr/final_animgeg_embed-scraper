@@ -15850,5 +15850,21 @@
         "url": "https://www.animegg.org/seitokai-yakuindomo-movie-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5887,
+    "title": "Saenai Heroine no Sodatekata Fine",
+    "animegg_url": "https://www.animegg.org/series/saenai-heroine-no-sodatekata-fine",
+    "mal_url": "https://myanimelist.net/anime/36885",
+    "mal_id": 36885,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/99544",
+        "dub": null,
+        "url": "https://www.animegg.org/saenai-heroine-no-sodatekata-fine-episode-1"
+      }
+    ]
   }
 ]
