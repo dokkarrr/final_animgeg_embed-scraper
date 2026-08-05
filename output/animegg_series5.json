@@ -69764,5 +69764,27 @@
         "url": "https://www.animegg.org/wake-up-girls-beyond-the-bottom-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6495,
+    "title": "The Frontier Lord Begins with Zero Subjects",
+    "animegg_url": "https://www.animegg.org/series/the-frontier-lord-begins-with-zero-subjects",
+    "mal_url": "https://myanimelist.net/anime/62078",
+    "mal_id": 62078,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/146290",
+        "dub": null,
+        "url": "https://www.animegg.org/the-frontier-lord-begins-with-zero-subjects-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/146371",
+        "dub": null,
+        "url": "https://www.animegg.org/the-frontier-lord-begins-with-zero-subjects-episode-2"
+      }
+    ]
   }
 ]
