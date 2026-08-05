@@ -94738,5 +94738,33 @@
         "url": "https://www.animegg.org/hentai-ouji-to-warawanai-neko-specials-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4331,
+    "title": "Code:Breaker OVA",
+    "animegg_url": "https://www.animegg.org/series/codebreaker-ova",
+    "mal_url": "https://myanimelist.net/anime/15633",
+    "mal_id": 15633,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/6256",
+        "dub": null,
+        "url": "https://www.animegg.org/codebreaker-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/6255",
+        "dub": null,
+        "url": "https://www.animegg.org/codebreaker-ova-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/codebreaker-ova-episode-3"
+      }
+    ]
   }
 ]
