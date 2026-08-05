@@ -65436,5 +65436,87 @@
         "url": "https://www.animegg.org/kunon-the-sorcerer-can-see-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3886,
+    "title": "Temple",
+    "animegg_url": "https://www.animegg.org/series/temple",
+    "mal_url": "https://myanimelist.net/anime/54275",
+    "mal_id": 54275,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/130325",
+        "dub": "https://www.animegg.org/embed/130516",
+        "url": "https://www.animegg.org/temple-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/130324",
+        "dub": "https://www.animegg.org/embed/130687",
+        "url": "https://www.animegg.org/temple-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/130505",
+        "dub": "https://www.animegg.org/embed/130803",
+        "url": "https://www.animegg.org/temple-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/130673",
+        "dub": "https://www.animegg.org/embed/130896",
+        "url": "https://www.animegg.org/temple-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/130795",
+        "dub": "https://www.animegg.org/embed/130978",
+        "url": "https://www.animegg.org/temple-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/130890",
+        "dub": "https://www.animegg.org/embed/131068",
+        "url": "https://www.animegg.org/temple-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/130966",
+        "dub": "https://www.animegg.org/embed/131166",
+        "url": "https://www.animegg.org/temple-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/131058",
+        "dub": "https://www.animegg.org/embed/131268",
+        "url": "https://www.animegg.org/temple-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/131150",
+        "dub": "https://www.animegg.org/embed/131363",
+        "url": "https://www.animegg.org/temple-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/131255",
+        "dub": "https://www.animegg.org/embed/131471",
+        "url": "https://www.animegg.org/temple-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/131352",
+        "dub": "https://www.animegg.org/embed/131549",
+        "url": "https://www.animegg.org/temple-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/131460",
+        "dub": "https://www.animegg.org/embed/131671",
+        "url": "https://www.animegg.org/temple-episode-12"
+      }
+    ]
   }
 ]
