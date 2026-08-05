@@ -28888,5 +28888,21 @@
         "url": "https://www.animegg.org/patlabor-3-the-movie-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6088,
+    "title": "Hamtaro Movie 4",
+    "animegg_url": "https://www.animegg.org/series/hamtaro-movie-4",
+    "mal_url": "https://myanimelist.net/anime/508",
+    "mal_id": 508,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/52521",
+        "dub": null,
+        "url": "https://www.animegg.org/hamtaro-movie-4-episode-1"
+      }
+    ]
   }
 ]
