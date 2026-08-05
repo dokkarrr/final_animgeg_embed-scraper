@@ -670,5 +670,21 @@
         "url": "https://www.animegg.org/resident-evil-degeneration-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5618,
+    "title": "Fresh Precure! Movie: Omocha no Kuni wa Himitsu ga Ippai!?",
+    "animegg_url": "https://www.animegg.org/series/fresh-precure-movie-omocha-no-kuni-wa-himitsu-ga-ippai",
+    "mal_url": "https://myanimelist.net/anime/6527",
+    "mal_id": 6527,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/51149",
+        "dub": null,
+        "url": "https://www.animegg.org/fresh-precure-movie-omocha-no-kuni-wa-himitsu-ga-ippai-episode-1"
+      }
+    ]
   }
 ]
