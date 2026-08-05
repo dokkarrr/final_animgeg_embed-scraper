@@ -112354,5 +112354,87 @@
         "url": "https://www.animegg.org/tengen-toppa-gurren-lagann-movie-gurren-hen-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4616,
+    "title": "Zatsu Tabi: That's Journey",
+    "animegg_url": "https://www.animegg.org/series/zatsu-tabi-that-s-journey",
+    "mal_url": "https://myanimelist.net/anime/55514",
+    "mal_id": 55514,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/140403",
+        "dub": null,
+        "url": "https://www.animegg.org/zatsu-tabi-that-s-journey-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/140490",
+        "dub": null,
+        "url": "https://www.animegg.org/zatsu-tabi-that-s-journey-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/140580",
+        "dub": null,
+        "url": "https://www.animegg.org/zatsu-tabi-that-s-journey-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/140664",
+        "dub": null,
+        "url": "https://www.animegg.org/zatsu-tabi-that-s-journey-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/140749",
+        "dub": null,
+        "url": "https://www.animegg.org/zatsu-tabi-that-s-journey-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/140850",
+        "dub": null,
+        "url": "https://www.animegg.org/zatsu-tabi-that-s-journey-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/140962",
+        "dub": null,
+        "url": "https://www.animegg.org/zatsu-tabi-that-s-journey-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/141021",
+        "dub": null,
+        "url": "https://www.animegg.org/zatsu-tabi-that-s-journey-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/141173",
+        "dub": null,
+        "url": "https://www.animegg.org/zatsu-tabi-that-s-journey-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/141238",
+        "dub": null,
+        "url": "https://www.animegg.org/zatsu-tabi-that-s-journey-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/141361",
+        "dub": null,
+        "url": "https://www.animegg.org/zatsu-tabi-that-s-journey-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/141440",
+        "dub": null,
+        "url": "https://www.animegg.org/zatsu-tabi-that-s-journey-episode-12"
+      }
+    ]
   }
 ]
