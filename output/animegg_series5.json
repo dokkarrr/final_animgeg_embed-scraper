@@ -35750,5 +35750,21 @@
         "url": "https://www.animegg.org/hana-yori-dango-dub-episode-51"
       }
     ]
+  },
+  {
+    "serial_no": 6182,
+    "title": "Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai",
+    "animegg_url": "https://www.animegg.org/series/fatekaleid-liner-prisma-illya-movie-sekka-no-chikai",
+    "mal_url": "https://myanimelist.net/anime/34100",
+    "mal_id": 34100,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/94222",
+        "dub": null,
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-illya-movie-sekka-no-chikai-episode-1"
+      }
+    ]
   }
 ]
