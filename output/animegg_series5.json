@@ -11399,5 +11399,21 @@
         "url": "https://www.animegg.org/uchi-no-shishou-wa-shippo-ga-nai-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 5785,
+    "title": "Bakumatsu Rock OVA",
+    "animegg_url": "https://www.animegg.org/series/bakumatsu-rock-mystery-onsen-kaijiken-ze-yo",
+    "mal_url": "https://myanimelist.net/anime/25077",
+    "mal_id": 25077,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/75241",
+        "dub": null,
+        "url": "https://www.animegg.org/bakumatsu-rock-mystery-onsen-kaijiken-ze-yo-episode-1"
+      }
+    ]
   }
 ]
