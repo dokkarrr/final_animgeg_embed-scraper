@@ -108226,5 +108226,21 @@
         "url": "https://www.animegg.org/pingu-in-the-city-episode-7"
       }
     ]
+  },
+  {
+    "serial_no": 4544,
+    "title": "Yu-Gi-Oh! 5D's: Evolving Duel! Stardust vs. Red Daemon's",
+    "animegg_url": "https://www.animegg.org/series/yu-gi-oh-5ds-evolving-duel-stardust-vs-red-daemons",
+    "mal_url": "https://myanimelist.net/anime/5298",
+    "mal_id": 5298,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/63010",
+        "dub": null,
+        "url": "https://www.animegg.org/yu-gi-oh-5ds-evolving-duel-stardust-vs-red-daemons-episode-1"
+      }
+    ]
   }
 ]
