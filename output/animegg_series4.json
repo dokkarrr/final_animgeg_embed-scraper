@@ -112626,5 +112626,21 @@
         "url": "https://www.animegg.org/okusama-ga-seitokaichou-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4621,
+    "title": "Blood Lad OVA",
+    "animegg_url": "https://www.animegg.org/series/blood-lad-ova",
+    "mal_url": "https://myanimelist.net/anime/18441",
+    "mal_id": 18441,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/4121",
+        "dub": null,
+        "url": "https://www.animegg.org/blood-lad-ova-episode-1"
+      }
+    ]
   }
 ]
