@@ -120418,5 +120418,87 @@
         "url": "https://www.animegg.org/precure-all-stars-movie-dx3-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4736,
+    "title": "Fuuto Tantei",
+    "animegg_url": "https://www.animegg.org/series/fuuto-tantei",
+    "mal_url": "https://myanimelist.net/anime/48649",
+    "mal_id": 48649,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/105468",
+        "dub": null,
+        "url": "https://www.animegg.org/fuuto-tantei-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/105517",
+        "dub": null,
+        "url": "https://www.animegg.org/fuuto-tantei-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/105583",
+        "dub": null,
+        "url": "https://www.animegg.org/fuuto-tantei-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/105648",
+        "dub": null,
+        "url": "https://www.animegg.org/fuuto-tantei-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/105710",
+        "dub": null,
+        "url": "https://www.animegg.org/fuuto-tantei-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/105776",
+        "dub": null,
+        "url": "https://www.animegg.org/fuuto-tantei-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/105839",
+        "dub": null,
+        "url": "https://www.animegg.org/fuuto-tantei-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/105904",
+        "dub": null,
+        "url": "https://www.animegg.org/fuuto-tantei-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/105965",
+        "dub": null,
+        "url": "https://www.animegg.org/fuuto-tantei-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/106011",
+        "dub": null,
+        "url": "https://www.animegg.org/fuuto-tantei-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/106078",
+        "dub": null,
+        "url": "https://www.animegg.org/fuuto-tantei-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/106139",
+        "dub": null,
+        "url": "https://www.animegg.org/fuuto-tantei-episode-12"
+      }
+    ]
   }
 ]
