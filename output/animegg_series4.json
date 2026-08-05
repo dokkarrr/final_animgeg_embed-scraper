@@ -41742,5 +41742,21 @@
         "url": "https://www.animegg.org/wind--a-breath-of-heart--2004-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3565,
+    "title": "Kotonoha no Niwa",
+    "animegg_url": "https://www.animegg.org/series/kotonoha-no-niwa",
+    "mal_url": "https://myanimelist.net/anime/16782",
+    "mal_id": 16782,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/44913",
+        "dub": "https://www.animegg.org/embed/44914",
+        "url": "https://www.animegg.org/kotonoha-no-niwa-episode-1"
+      }
+    ]
   }
 ]
