@@ -65198,5 +65198,21 @@
         "url": "https://www.animegg.org/hachigatsu-no-cinderella-nine-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3882,
+    "title": "009-1 Special",
+    "animegg_url": "https://www.animegg.org/series/009-1-special",
+    "mal_url": "https://myanimelist.net/anime/37596",
+    "mal_id": 37596,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/24",
+        "dub": null,
+        "url": "https://www.animegg.org/009-1-special-episode-1"
+      }
+    ]
   }
 ]
