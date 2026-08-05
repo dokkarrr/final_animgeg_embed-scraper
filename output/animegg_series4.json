@@ -132382,5 +132382,87 @@
         "url": "https://www.animegg.org/saiki-kusuo-no-nan-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 4913,
+    "title": "Mono",
+    "animegg_url": "https://www.animegg.org/series/mono",
+    "mal_url": "https://myanimelist.net/anime/58492",
+    "mal_id": 58492,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/140895",
+        "dub": "https://www.animegg.org/embed/140901",
+        "url": "https://www.animegg.org/mono-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/140899",
+        "dub": "https://www.animegg.org/embed/140900",
+        "url": "https://www.animegg.org/mono-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/140898",
+        "dub": "https://www.animegg.org/embed/140937",
+        "url": "https://www.animegg.org/mono-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/140897",
+        "dub": "https://www.animegg.org/embed/141017",
+        "url": "https://www.animegg.org/mono-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/140896",
+        "dub": "https://www.animegg.org/embed/141140",
+        "url": "https://www.animegg.org/mono-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/140917",
+        "dub": "https://www.animegg.org/embed/141236",
+        "url": "https://www.animegg.org/mono-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/141330",
+        "dub": null,
+        "url": "https://www.animegg.org/mono-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/141132",
+        "dub": "https://www.animegg.org/embed/141423",
+        "url": "https://www.animegg.org/mono-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/141224",
+        "dub": "https://www.animegg.org/embed/141499",
+        "url": "https://www.animegg.org/mono-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/141332",
+        "dub": "https://www.animegg.org/embed/141584",
+        "url": "https://www.animegg.org/mono-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/141421",
+        "dub": "https://www.animegg.org/embed/141697",
+        "url": "https://www.animegg.org/mono-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/141488",
+        "dub": "https://www.animegg.org/embed/141796",
+        "url": "https://www.animegg.org/mono-episode-12"
+      }
+    ]
   }
 ]
