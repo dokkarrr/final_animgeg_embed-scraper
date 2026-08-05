@@ -88390,5 +88390,87 @@
         "url": "https://www.animegg.org/heya-camp-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4241,
+    "title": "Kono Healer, Mendokusai",
+    "animegg_url": "https://www.animegg.org/series/kono-healer-mendokusai",
+    "mal_url": "https://myanimelist.net/anime/48742",
+    "mal_id": 48742,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/104394",
+        "dub": null,
+        "url": "https://www.animegg.org/kono-healer-mendokusai-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/104464",
+        "dub": null,
+        "url": "https://www.animegg.org/kono-healer-mendokusai-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/104525",
+        "dub": null,
+        "url": "https://www.animegg.org/kono-healer-mendokusai-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/104580",
+        "dub": null,
+        "url": "https://www.animegg.org/kono-healer-mendokusai-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/104638",
+        "dub": null,
+        "url": "https://www.animegg.org/kono-healer-mendokusai-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/104699",
+        "dub": null,
+        "url": "https://www.animegg.org/kono-healer-mendokusai-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/104855",
+        "dub": null,
+        "url": "https://www.animegg.org/kono-healer-mendokusai-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/104915",
+        "dub": null,
+        "url": "https://www.animegg.org/kono-healer-mendokusai-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/104973",
+        "dub": null,
+        "url": "https://www.animegg.org/kono-healer-mendokusai-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/105052",
+        "dub": null,
+        "url": "https://www.animegg.org/kono-healer-mendokusai-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/105109",
+        "dub": null,
+        "url": "https://www.animegg.org/kono-healer-mendokusai-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/105163",
+        "dub": null,
+        "url": "https://www.animegg.org/kono-healer-mendokusai-episode-12"
+      }
+    ]
   }
 ]
