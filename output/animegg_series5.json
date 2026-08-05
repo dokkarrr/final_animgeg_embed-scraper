@@ -14670,5 +14670,21 @@
         "url": "https://www.animegg.org/yumekuri-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5859,
+    "title": "Tiger & Bunny Movie 2",
+    "animegg_url": "https://www.animegg.org/series/tiger-bunny-movie-2",
+    "mal_url": "https://myanimelist.net/anime/12017",
+    "mal_id": 12017,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/51567",
+        "dub": "https://www.animegg.org/embed/51568",
+        "url": "https://www.animegg.org/tiger-bunny-movie-2-episode-1"
+      }
+    ]
   }
 ]
