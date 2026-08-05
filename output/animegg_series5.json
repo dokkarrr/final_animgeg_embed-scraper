@@ -3440,5 +3440,27 @@
         "url": "https://www.animegg.org/aria-the-ova-arietta-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5661,
+    "title": "Rozen Maiden: Ouverture",
+    "animegg_url": "https://www.animegg.org/series/rozen-maiden-ouverture",
+    "mal_url": "https://myanimelist.net/anime/1719",
+    "mal_id": 1719,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/61573",
+        "dub": "https://www.animegg.org/embed/61574",
+        "url": "https://www.animegg.org/rozen-maiden-ouverture-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/61575",
+        "dub": "https://www.animegg.org/embed/61576",
+        "url": "https://www.animegg.org/rozen-maiden-ouverture-episode-2"
+      }
+    ]
   }
 ]
