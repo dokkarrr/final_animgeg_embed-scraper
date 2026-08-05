@@ -129382,5 +129382,51 @@
         "url": "https://www.animegg.org/shoot-goal-to-the-future-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 4868,
+    "title": "Yuyushiki: Nyanyashiki",
+    "animegg_url": "https://www.animegg.org/series/yuyushiki-nyanyashiki",
+    "mal_url": "https://myanimelist.net/anime/19029",
+    "mal_id": 19029,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/62762",
+        "dub": null,
+        "url": "https://www.animegg.org/yuyushiki-nyanyashiki-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/62763",
+        "dub": null,
+        "url": "https://www.animegg.org/yuyushiki-nyanyashiki-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/62764",
+        "dub": null,
+        "url": "https://www.animegg.org/yuyushiki-nyanyashiki-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/62765",
+        "dub": null,
+        "url": "https://www.animegg.org/yuyushiki-nyanyashiki-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/62766",
+        "dub": null,
+        "url": "https://www.animegg.org/yuyushiki-nyanyashiki-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/62767",
+        "dub": null,
+        "url": "https://www.animegg.org/yuyushiki-nyanyashiki-episode-6"
+      }
+    ]
   }
 ]
