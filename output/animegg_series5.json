@@ -42827,5 +42827,27 @@
         "url": "https://www.animegg.org/tonari-no-seki-kun-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6246,
+    "title": "Sola Specials",
+    "animegg_url": "https://www.animegg.org/series/sola-specials",
+    "mal_url": "https://myanimelist.net/anime/3174",
+    "mal_id": 3174,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66073",
+        "dub": null,
+        "url": "https://www.animegg.org/sola-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/66074",
+        "dub": null,
+        "url": "https://www.animegg.org/sola-specials-episode-2"
+      }
+    ]
   }
 ]
