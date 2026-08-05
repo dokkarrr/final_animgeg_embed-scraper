@@ -77214,5 +77214,27 @@
         "url": "https://www.animegg.org/diamond-no-ace-ova-episode-5"
       }
     ]
+  },
+  {
+    "serial_no": 4072,
+    "title": "Queen's Blade: Grimoire",
+    "animegg_url": "https://www.animegg.org/series/queens-blade-grimoire",
+    "mal_url": "https://myanimelist.net/anime/30679",
+    "mal_id": 30679,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/81534",
+        "dub": null,
+        "url": "https://www.animegg.org/queens-blade-grimoire-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/84193",
+        "dub": "https://www.animegg.org/embed/84346",
+        "url": "https://www.animegg.org/queens-blade-grimoire-episode-2"
+      }
+    ]
   }
 ]
