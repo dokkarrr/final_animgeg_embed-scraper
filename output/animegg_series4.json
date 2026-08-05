@@ -120608,5 +120608,87 @@
         "url": "https://www.animegg.org/black-clover-jump-festa-2018-special-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4740,
+    "title": "Show By Rock!! Mashumairesh!!",
+    "animegg_url": "https://www.animegg.org/series/show-by-rock-mashumairesh",
+    "mal_url": "https://myanimelist.net/anime/40763",
+    "mal_id": 40763,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/97483",
+        "dub": null,
+        "url": "https://www.animegg.org/show-by-rock-mashumairesh-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/97555",
+        "dub": null,
+        "url": "https://www.animegg.org/show-by-rock-mashumairesh-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/97620",
+        "dub": null,
+        "url": "https://www.animegg.org/show-by-rock-mashumairesh-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/97690",
+        "dub": null,
+        "url": "https://www.animegg.org/show-by-rock-mashumairesh-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/97755",
+        "dub": null,
+        "url": "https://www.animegg.org/show-by-rock-mashumairesh-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/97821",
+        "dub": null,
+        "url": "https://www.animegg.org/show-by-rock-mashumairesh-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/97871",
+        "dub": null,
+        "url": "https://www.animegg.org/show-by-rock-mashumairesh-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/97933",
+        "dub": null,
+        "url": "https://www.animegg.org/show-by-rock-mashumairesh-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/97992",
+        "dub": null,
+        "url": "https://www.animegg.org/show-by-rock-mashumairesh-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/98060",
+        "dub": null,
+        "url": "https://www.animegg.org/show-by-rock-mashumairesh-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/98112",
+        "dub": null,
+        "url": "https://www.animegg.org/show-by-rock-mashumairesh-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/98168",
+        "dub": null,
+        "url": "https://www.animegg.org/show-by-rock-mashumairesh-episode-12"
+      }
+    ]
   }
 ]
