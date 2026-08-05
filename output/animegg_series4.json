@@ -8268,5 +8268,87 @@
         "url": "https://www.animegg.org/senpai-ga-uzai-kouhai-no-hanashi-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3178,
+    "title": "Lamune",
+    "animegg_url": "https://www.animegg.org/series/lamune",
+    "mal_url": "https://myanimelist.net/anime/670",
+    "mal_id": 670,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/21294",
+        "dub": null,
+        "url": "https://www.animegg.org/lamune-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/21295",
+        "dub": null,
+        "url": "https://www.animegg.org/lamune-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/21293",
+        "dub": null,
+        "url": "https://www.animegg.org/lamune-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/21291",
+        "dub": null,
+        "url": "https://www.animegg.org/lamune-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/21292",
+        "dub": null,
+        "url": "https://www.animegg.org/lamune-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/21297",
+        "dub": null,
+        "url": "https://www.animegg.org/lamune-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/21298",
+        "dub": null,
+        "url": "https://www.animegg.org/lamune-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/21296",
+        "dub": null,
+        "url": "https://www.animegg.org/lamune-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/21299",
+        "dub": null,
+        "url": "https://www.animegg.org/lamune-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/21300",
+        "dub": null,
+        "url": "https://www.animegg.org/lamune-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/21301",
+        "dub": null,
+        "url": "https://www.animegg.org/lamune-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/21302",
+        "dub": null,
+        "url": "https://www.animegg.org/lamune-episode-12"
+      }
+    ]
   }
 ]
