@@ -96784,5 +96784,93 @@
         "url": "https://www.animegg.org/usagi-drop-specials-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 4364,
+    "title": "Tsukiuta. The Animation 2",
+    "animegg_url": "https://www.animegg.org/series/tsukiuta-the-animation-2",
+    "mal_url": "https://myanimelist.net/anime/38669",
+    "mal_id": 38669,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/100378",
+        "dub": null,
+        "url": "https://www.animegg.org/tsukiuta-the-animation-2-episode-13"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/100331",
+        "dub": null,
+        "url": "https://www.animegg.org/tsukiuta-the-animation-2-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/100269",
+        "dub": null,
+        "url": "https://www.animegg.org/tsukiuta-the-animation-2-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/100204",
+        "dub": null,
+        "url": "https://www.animegg.org/tsukiuta-the-animation-2-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/100111",
+        "dub": null,
+        "url": "https://www.animegg.org/tsukiuta-the-animation-2-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/100043",
+        "dub": null,
+        "url": "https://www.animegg.org/tsukiuta-the-animation-2-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/99977",
+        "dub": null,
+        "url": "https://www.animegg.org/tsukiuta-the-animation-2-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/99913",
+        "dub": null,
+        "url": "https://www.animegg.org/tsukiuta-the-animation-2-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/99841",
+        "dub": null,
+        "url": "https://www.animegg.org/tsukiuta-the-animation-2-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/99772",
+        "dub": null,
+        "url": "https://www.animegg.org/tsukiuta-the-animation-2-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/99708",
+        "dub": null,
+        "url": "https://www.animegg.org/tsukiuta-the-animation-2-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/99617",
+        "dub": null,
+        "url": "https://www.animegg.org/tsukiuta-the-animation-2-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/99540",
+        "dub": null,
+        "url": "https://www.animegg.org/tsukiuta-the-animation-2-episode-1"
+      }
+    ]
   }
 ]
