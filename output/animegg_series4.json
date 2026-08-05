@@ -59754,5 +59754,39 @@
         "url": "https://www.animegg.org/nige-jouzu-no-wakagimi-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3814,
+    "title": "Birdy The Mighty",
+    "animegg_url": "https://www.animegg.org/series/birdy-the-mighty",
+    "mal_url": "https://myanimelist.net/anime/566",
+    "mal_id": 566,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/3055",
+        "dub": "https://www.animegg.org/embed/3056",
+        "url": "https://www.animegg.org/birdy-the-mighty-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/3059",
+        "dub": "https://www.animegg.org/embed/3060",
+        "url": "https://www.animegg.org/birdy-the-mighty-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/3061",
+        "dub": "https://www.animegg.org/embed/3062",
+        "url": "https://www.animegg.org/birdy-the-mighty-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/3057",
+        "dub": "https://www.animegg.org/embed/3058",
+        "url": "https://www.animegg.org/birdy-the-mighty-episode-4"
+      }
+    ]
   }
 ]
