@@ -112642,5 +112642,39 @@
         "url": "https://www.animegg.org/blood-lad-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4622,
+    "title": "Arcade Gamer Fubuki",
+    "animegg_url": "https://www.animegg.org/series/arcade-gamer-fubuki",
+    "mal_url": "https://myanimelist.net/anime/1596",
+    "mal_id": 1596,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/68672",
+        "dub": null,
+        "url": "https://www.animegg.org/arcade-gamer-fubuki-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/68677",
+        "dub": null,
+        "url": "https://www.animegg.org/arcade-gamer-fubuki-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/68678",
+        "dub": null,
+        "url": "https://www.animegg.org/arcade-gamer-fubuki-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/68679",
+        "dub": null,
+        "url": "https://www.animegg.org/arcade-gamer-fubuki-episode-4"
+      }
+    ]
   }
 ]
