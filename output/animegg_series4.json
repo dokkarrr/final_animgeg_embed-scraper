@@ -16126,5 +16126,87 @@
         "url": "https://www.animegg.org/uchi-no-maid-ga-uzasugiru-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3260,
+    "title": "Z/X: Ignition",
+    "animegg_url": "https://www.animegg.org/series/zx-ignition",
+    "mal_url": "https://myanimelist.net/anime/20533",
+    "mal_id": 20533,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/25126",
+        "dub": null,
+        "url": "https://www.animegg.org/zx-ignition-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/25127",
+        "dub": null,
+        "url": "https://www.animegg.org/zx-ignition-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/25128",
+        "dub": null,
+        "url": "https://www.animegg.org/zx-ignition-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/25129",
+        "dub": null,
+        "url": "https://www.animegg.org/zx-ignition-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/25130",
+        "dub": null,
+        "url": "https://www.animegg.org/zx-ignition-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/25131",
+        "dub": null,
+        "url": "https://www.animegg.org/zx-ignition-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/25132",
+        "dub": null,
+        "url": "https://www.animegg.org/zx-ignition-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/25133",
+        "dub": null,
+        "url": "https://www.animegg.org/zx-ignition-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/25134",
+        "dub": null,
+        "url": "https://www.animegg.org/zx-ignition-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/25135",
+        "dub": null,
+        "url": "https://www.animegg.org/zx-ignition-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/25136",
+        "dub": null,
+        "url": "https://www.animegg.org/zx-ignition-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/25137",
+        "dub": null,
+        "url": "https://www.animegg.org/zx-ignition-episode-12"
+      }
+    ]
   }
 ]
