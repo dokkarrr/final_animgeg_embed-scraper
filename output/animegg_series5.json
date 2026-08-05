@@ -77153,5 +77153,75 @@
         "url": "https://www.animegg.org/the-life-of-budori-gusuko-2012-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6544,
+    "title": "Nihon e Youkoso Elf-san.",
+    "animegg_url": "https://www.animegg.org/series/nihon-e-youkoso-elf-san",
+    "mal_url": "https://myanimelist.net/anime/57648",
+    "mal_id": 57648,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/139425",
+        "dub": null,
+        "url": "https://www.animegg.org/nihon-e-youkoso-elf-san-episode-2"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/139555",
+        "dub": null,
+        "url": "https://www.animegg.org/nihon-e-youkoso-elf-san-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/139663",
+        "dub": null,
+        "url": "https://www.animegg.org/nihon-e-youkoso-elf-san-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/139758",
+        "dub": null,
+        "url": "https://www.animegg.org/nihon-e-youkoso-elf-san-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/139851",
+        "dub": null,
+        "url": "https://www.animegg.org/nihon-e-youkoso-elf-san-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/139945",
+        "dub": null,
+        "url": "https://www.animegg.org/nihon-e-youkoso-elf-san-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/140045",
+        "dub": null,
+        "url": "https://www.animegg.org/nihon-e-youkoso-elf-san-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/140133",
+        "dub": null,
+        "url": "https://www.animegg.org/nihon-e-youkoso-elf-san-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/140215",
+        "dub": null,
+        "url": "https://www.animegg.org/nihon-e-youkoso-elf-san-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/140297",
+        "dub": null,
+        "url": "https://www.animegg.org/nihon-e-youkoso-elf-san-episode-12"
+      }
+    ]
   }
 ]
