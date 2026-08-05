@@ -36620,5 +36620,87 @@
         "url": "https://www.animegg.org/himiko-den-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3495,
+    "title": "Saishuu Shiken Kujira",
+    "animegg_url": "https://www.animegg.org/series/saishuu-shiken-kujira",
+    "mal_url": "https://myanimelist.net/anime/2967",
+    "mal_id": 2967,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/60503",
+        "dub": null,
+        "url": "https://www.animegg.org/saishuu-shiken-kujira-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/60504",
+        "dub": null,
+        "url": "https://www.animegg.org/saishuu-shiken-kujira-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/60505",
+        "dub": null,
+        "url": "https://www.animegg.org/saishuu-shiken-kujira-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/60506",
+        "dub": null,
+        "url": "https://www.animegg.org/saishuu-shiken-kujira-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/60507",
+        "dub": null,
+        "url": "https://www.animegg.org/saishuu-shiken-kujira-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/60508",
+        "dub": null,
+        "url": "https://www.animegg.org/saishuu-shiken-kujira-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/60509",
+        "dub": null,
+        "url": "https://www.animegg.org/saishuu-shiken-kujira-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/60510",
+        "dub": null,
+        "url": "https://www.animegg.org/saishuu-shiken-kujira-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/60511",
+        "dub": null,
+        "url": "https://www.animegg.org/saishuu-shiken-kujira-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/60512",
+        "dub": null,
+        "url": "https://www.animegg.org/saishuu-shiken-kujira-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/60513",
+        "dub": null,
+        "url": "https://www.animegg.org/saishuu-shiken-kujira-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/60514",
+        "dub": null,
+        "url": "https://www.animegg.org/saishuu-shiken-kujira-episode-12"
+      }
+    ]
   }
 ]
