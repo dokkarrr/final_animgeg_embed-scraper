@@ -106720,5 +106720,21 @@
         "url": "https://www.animegg.org/bakugan-mechtanium-surge-dub-episode-46"
       }
     ]
+  },
+  {
+    "serial_no": 6789,
+    "title": "Uchi no Maid ga Uzasugiru! OVA",
+    "animegg_url": "https://www.animegg.org/series/uchi-no-maid-ga-uzasugiru-ova",
+    "mal_url": "https://myanimelist.net/anime/39606",
+    "mal_id": 39606,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/95175",
+        "dub": null,
+        "url": "https://www.animegg.org/uchi-no-maid-ga-uzasugiru-ova-episode-1"
+      }
+    ]
   }
 ]
