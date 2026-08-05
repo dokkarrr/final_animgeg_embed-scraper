@@ -51238,5 +51238,21 @@
         "url": "https://www.animegg.org/jack-of-all-trades-party-of-none-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3695,
+    "title": "Evangelion: 3.0 You Can (Not) Redo",
+    "animegg_url": "https://www.animegg.org/series/evangelion-30-you-can-not-redo",
+    "mal_url": "https://myanimelist.net/anime/3785",
+    "mal_id": 3785,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/51118",
+        "dub": null,
+        "url": "https://www.animegg.org/evangelion-30-you-can-not-redo-episode-1"
+      }
+    ]
   }
 ]
