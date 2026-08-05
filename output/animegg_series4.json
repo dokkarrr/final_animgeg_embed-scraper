@@ -73646,5 +73646,93 @@
         "url": "https://www.animegg.org/is-infinite-stratos-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4014,
+    "title": "Kyoukai Senki",
+    "animegg_url": "https://www.animegg.org/series/kyoukai-senki",
+    "mal_url": "https://myanimelist.net/anime/48466",
+    "mal_id": 48466,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/102953",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoukai-senki-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/103024",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoukai-senki-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/103086",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoukai-senki-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/103149",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoukai-senki-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/103209",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoukai-senki-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/103270",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoukai-senki-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/103333",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoukai-senki-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/103391",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoukai-senki-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/103452",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoukai-senki-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/103527",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoukai-senki-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/103584",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoukai-senki-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/103641",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoukai-senki-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/103683",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoukai-senki-episode-13"
+      }
+    ]
   }
 ]
