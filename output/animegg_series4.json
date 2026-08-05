@@ -79852,5 +79852,21 @@
         "url": "https://www.animegg.org/ani-ni-tsukeru-kusuri-wa-nai-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4118,
+    "title": "Hibike! Euphonium: Kakedasu Monaka",
+    "animegg_url": "https://www.animegg.org/series/hibike-euphonium-kakedasu-monaka",
+    "mal_url": "https://myanimelist.net/anime/31665",
+    "mal_id": 31665,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/80506",
+        "dub": null,
+        "url": "https://www.animegg.org/hibike-euphonium-kakedasu-monaka-episode-1"
+      }
+    ]
   }
 ]
