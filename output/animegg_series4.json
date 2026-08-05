@@ -30422,5 +30422,69 @@
         "url": "https://www.animegg.org/when-marnie-was-there-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3432,
+    "title": "Kono Subarashii Sekai ni Bakuen wo! (Dub)",
+    "animegg_url": "https://www.animegg.org/series/kono-subarashii-sekai-ni-bakuen-wo-dub",
+    "mal_url": "https://myanimelist.net/anime/30831",
+    "mal_id": 30831,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kono-subarashii-sekai-ni-bakuen-wo-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kono-subarashii-sekai-ni-bakuen-wo-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kono-subarashii-sekai-ni-bakuen-wo-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kono-subarashii-sekai-ni-bakuen-wo-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kono-subarashii-sekai-ni-bakuen-wo-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kono-subarashii-sekai-ni-bakuen-wo-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kono-subarashii-sekai-ni-bakuen-wo-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kono-subarashii-sekai-ni-bakuen-wo-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kono-subarashii-sekai-ni-bakuen-wo-dub-episode-9"
+      }
+    ]
   }
 ]
