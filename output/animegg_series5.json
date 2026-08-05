@@ -29860,5 +29860,39 @@
         "url": "https://www.animegg.org/di-gi-charat-christmas-special-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6115,
+    "title": "Tonikaku Kawaii: Joshikou-hen",
+    "animegg_url": "https://www.animegg.org/series/tonikaku-kawaii-joshikou-hen",
+    "mal_url": "https://myanimelist.net/anime/55651",
+    "mal_id": 55651,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/130605",
+        "dub": null,
+        "url": "https://www.animegg.org/tonikaku-kawaii-joshikou-hen-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/130604",
+        "dub": null,
+        "url": "https://www.animegg.org/tonikaku-kawaii-joshikou-hen-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/130836",
+        "dub": null,
+        "url": "https://www.animegg.org/tonikaku-kawaii-joshikou-hen-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/131009",
+        "dub": null,
+        "url": "https://www.animegg.org/tonikaku-kawaii-joshikou-hen-episode-4"
+      }
+    ]
   }
 ]
