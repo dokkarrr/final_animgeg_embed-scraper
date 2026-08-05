@@ -112906,5 +112906,21 @@
         "url": "https://www.animegg.org/gregory-horror-show-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 6848,
+    "title": "Infini-T Force Movie: Gatchaman - Saraba Tomo yo",
+    "animegg_url": "https://www.animegg.org/series/infini-t-force-movie-gatchaman---saraba-tomo-yo",
+    "mal_url": "https://myanimelist.net/anime/36197",
+    "mal_id": 36197,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/94223",
+        "dub": null,
+        "url": "https://www.animegg.org/infini-t-force-movie-gatchaman---saraba-tomo-yo-episode-1"
+      }
+    ]
   }
 ]
