@@ -9802,5 +9802,21 @@
         "url": "https://www.animegg.org/omae-wa-mada-gunma-wo-shiranai-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3197,
+    "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. OVA",
+    "animegg_url": "https://www.animegg.org/series/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-ova",
+    "mal_url": "https://myanimelist.net/anime/18753",
+    "mal_id": 18753,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/40846",
+        "dub": null,
+        "url": "https://www.animegg.org/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-ova-episode-1"
+      }
+    ]
   }
 ]
