@@ -65518,5 +65518,45 @@
         "url": "https://www.animegg.org/temple-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3887,
+    "title": "Genocyber",
+    "animegg_url": "https://www.animegg.org/series/genocyber",
+    "mal_url": "https://myanimelist.net/anime/2775",
+    "mal_id": 2775,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/52192",
+        "dub": "https://www.animegg.org/embed/52193",
+        "url": "https://www.animegg.org/genocyber-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/52194",
+        "dub": "https://www.animegg.org/embed/52195",
+        "url": "https://www.animegg.org/genocyber-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/52196",
+        "dub": "https://www.animegg.org/embed/52197",
+        "url": "https://www.animegg.org/genocyber-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/52198",
+        "dub": "https://www.animegg.org/embed/52199",
+        "url": "https://www.animegg.org/genocyber-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/52200",
+        "dub": "https://www.animegg.org/embed/52201",
+        "url": "https://www.animegg.org/genocyber-episode-5"
+      }
+    ]
   }
 ]
