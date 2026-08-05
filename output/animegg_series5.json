@@ -3314,5 +3314,27 @@
         "url": "https://www.animegg.org/mind-game-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5655,
+    "title": "Submarine 707R",
+    "animegg_url": "https://www.animegg.org/series/submarine-707r",
+    "mal_url": "https://myanimelist.net/anime/1582",
+    "mal_id": 1582,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 707,
+        "sub": "https://www.animegg.org/embed/73192",
+        "dub": null,
+        "url": "https://www.animegg.org/submarine-707r-episode-2"
+      },
+      {
+        "ep": 707,
+        "sub": "https://www.animegg.org/embed/73190",
+        "dub": null,
+        "url": "https://www.animegg.org/submarine-707r-episode-1"
+      }
+    ]
   }
 ]
