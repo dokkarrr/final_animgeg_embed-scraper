@@ -19746,5 +19746,21 @@
         "url": "https://www.animegg.org/harukanaru-toki-no-naka-de-3-kurenai-no-tsuki-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5961,
+    "title": "Choujuu Kishin Dancougar  OVA",
+    "animegg_url": "https://www.animegg.org/series/choujuu-kishin-dancougar-ova",
+    "mal_url": "https://myanimelist.net/anime/17002",
+    "mal_id": 17002,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/47496",
+        "dub": null,
+        "url": "https://www.animegg.org/choujuu-kishin-dancougar-ova-episode-1"
+      }
+    ]
   }
 ]
