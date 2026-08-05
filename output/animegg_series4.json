@@ -74252,5 +74252,33 @@
         "url": "https://www.animegg.org/kotoura-san-haruka-no-heya-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 4023,
+    "title": "New Fist of the North Star",
+    "animegg_url": "https://www.animegg.org/series/new-fist-of-the-north-star",
+    "mal_url": "https://myanimelist.net/anime/1357",
+    "mal_id": 1357,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/59178",
+        "dub": "https://www.animegg.org/embed/59179",
+        "url": "https://www.animegg.org/new-fist-of-the-north-star-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/59180",
+        "dub": "https://www.animegg.org/embed/59181",
+        "url": "https://www.animegg.org/new-fist-of-the-north-star-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/59182",
+        "dub": "https://www.animegg.org/embed/59183",
+        "url": "https://www.animegg.org/new-fist-of-the-north-star-episode-3"
+      }
+    ]
   }
 ]
