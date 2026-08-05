@@ -26770,5 +26770,87 @@
         "url": "https://www.animegg.org/rascal-does-not-dream-of-santa-claus-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3386,
+    "title": "Tsuyokiss - CoolxSweet",
+    "animegg_url": "https://www.animegg.org/series/tsuyokiss---coolxsweet",
+    "mal_url": "https://myanimelist.net/anime/1198",
+    "mal_id": 1198,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/39105",
+        "dub": null,
+        "url": "https://www.animegg.org/tsuyokiss---coolxsweet-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/39104",
+        "dub": null,
+        "url": "https://www.animegg.org/tsuyokiss---coolxsweet-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/39102",
+        "dub": null,
+        "url": "https://www.animegg.org/tsuyokiss---coolxsweet-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/39103",
+        "dub": null,
+        "url": "https://www.animegg.org/tsuyokiss---coolxsweet-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/39101",
+        "dub": null,
+        "url": "https://www.animegg.org/tsuyokiss---coolxsweet-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/39108",
+        "dub": null,
+        "url": "https://www.animegg.org/tsuyokiss---coolxsweet-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/39107",
+        "dub": null,
+        "url": "https://www.animegg.org/tsuyokiss---coolxsweet-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/39106",
+        "dub": null,
+        "url": "https://www.animegg.org/tsuyokiss---coolxsweet-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/39109",
+        "dub": null,
+        "url": "https://www.animegg.org/tsuyokiss---coolxsweet-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/39110",
+        "dub": null,
+        "url": "https://www.animegg.org/tsuyokiss---coolxsweet-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/39111",
+        "dub": null,
+        "url": "https://www.animegg.org/tsuyokiss---coolxsweet-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/39112",
+        "dub": null,
+        "url": "https://www.animegg.org/tsuyokiss---coolxsweet-episode-12"
+      }
+    ]
   }
 ]
