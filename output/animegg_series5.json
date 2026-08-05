@@ -30380,5 +30380,63 @@
         "url": "https://www.animegg.org/ro-kyu-bu-tomoka-no-ichigo-sundae-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6122,
+    "title": "Castlevania: Nocturne",
+    "animegg_url": "https://www.animegg.org/series/castlevania-nocturne",
+    "mal_url": "https://myanimelist.net/anime/513",
+    "mal_id": 513,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/131581",
+        "dub": null,
+        "url": "https://www.animegg.org/castlevania-nocturne-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/131580",
+        "dub": null,
+        "url": "https://www.animegg.org/castlevania-nocturne-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/131579",
+        "dub": null,
+        "url": "https://www.animegg.org/castlevania-nocturne-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/131578",
+        "dub": null,
+        "url": "https://www.animegg.org/castlevania-nocturne-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/131577",
+        "dub": null,
+        "url": "https://www.animegg.org/castlevania-nocturne-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/131576",
+        "dub": null,
+        "url": "https://www.animegg.org/castlevania-nocturne-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/131575",
+        "dub": null,
+        "url": "https://www.animegg.org/castlevania-nocturne-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/131574",
+        "dub": null,
+        "url": "https://www.animegg.org/castlevania-nocturne-episode-8"
+      }
+    ]
   }
 ]
