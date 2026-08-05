@@ -82088,5 +82088,21 @@
         "url": "https://www.animegg.org/kimetsu-no-yaiba-kyoudai-no-kizuna-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6590,
+    "title": "Suzume no Tojimari",
+    "animegg_url": "https://www.animegg.org/series/suzume-no-tojimari",
+    "mal_url": "https://myanimelist.net/anime/50594",
+    "mal_id": 50594,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/suzume-no-tojimari-episode-1"
+      }
+    ]
   }
 ]
