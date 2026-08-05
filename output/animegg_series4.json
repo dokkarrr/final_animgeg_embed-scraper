@@ -58420,5 +58420,51 @@
         "url": "https://www.animegg.org/digimon-adventure-tri-4-soushitsu-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3788,
+    "title": "Hanbun no Tsuki ga Noboru Sora",
+    "animegg_url": "https://www.animegg.org/series/hanbun-no-tsuki-ga-noboru-sora",
+    "mal_url": "https://myanimelist.net/anime/587",
+    "mal_id": 587,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/15352",
+        "dub": null,
+        "url": "https://www.animegg.org/hanbun-no-tsuki-ga-noboru-sora-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/15349",
+        "dub": null,
+        "url": "https://www.animegg.org/hanbun-no-tsuki-ga-noboru-sora-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/15350",
+        "dub": null,
+        "url": "https://www.animegg.org/hanbun-no-tsuki-ga-noboru-sora-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/15351",
+        "dub": null,
+        "url": "https://www.animegg.org/hanbun-no-tsuki-ga-noboru-sora-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/15348",
+        "dub": null,
+        "url": "https://www.animegg.org/hanbun-no-tsuki-ga-noboru-sora-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/15353",
+        "dub": null,
+        "url": "https://www.animegg.org/hanbun-no-tsuki-ga-noboru-sora-episode-6"
+      }
+    ]
   }
 ]
