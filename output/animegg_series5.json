@@ -77611,5 +77611,21 @@
         "url": "https://www.animegg.org/babel-nisei-ova-episode-39"
       }
     ]
+  },
+  {
+    "serial_no": 6549,
+    "title": "The Death Lullaby",
+    "animegg_url": "https://www.animegg.org/series/the-death-lullaby",
+    "mal_url": "https://myanimelist.net/anime/7273",
+    "mal_id": 7273,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/63256",
+        "dub": null,
+        "url": "https://www.animegg.org/the-death-lullaby-episode-1"
+      }
+    ]
   }
 ]
