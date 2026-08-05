@@ -27966,5 +27966,69 @@
         "url": "https://www.animegg.org/peeping-life-specials-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 6066,
+    "title": "Babanbabanban Vampire",
+    "animegg_url": "https://www.animegg.org/series/babanbabanban-vampire",
+    "mal_url": "https://myanimelist.net/anime/58265",
+    "mal_id": 58265,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/139355",
+        "dub": null,
+        "url": "https://www.animegg.org/babanbabanban-vampire-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/139448",
+        "dub": null,
+        "url": "https://www.animegg.org/babanbabanban-vampire-episode-2"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/139577",
+        "dub": null,
+        "url": "https://www.animegg.org/babanbabanban-vampire-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/139678",
+        "dub": null,
+        "url": "https://www.animegg.org/babanbabanban-vampire-episode-5"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/139871",
+        "dub": null,
+        "url": "https://www.animegg.org/babanbabanban-vampire-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/139963",
+        "dub": null,
+        "url": "https://www.animegg.org/babanbabanban-vampire-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/140062",
+        "dub": null,
+        "url": "https://www.animegg.org/babanbabanban-vampire-episode-9"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/140225",
+        "dub": null,
+        "url": "https://www.animegg.org/babanbabanban-vampire-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/140312",
+        "dub": null,
+        "url": "https://www.animegg.org/babanbabanban-vampire-episode-12"
+      }
+    ]
   }
 ]
