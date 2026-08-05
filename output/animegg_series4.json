@@ -2680,5 +2680,87 @@
         "url": "https://www.animegg.org/mobile-suit-gundam-0083-the-fading-light-of-zeon-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3107,
+    "title": "Takunomi.",
+    "animegg_url": "https://www.animegg.org/series/takunomi",
+    "mal_url": "https://myanimelist.net/anime/36108",
+    "mal_id": 36108,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/89735",
+        "dub": null,
+        "url": "https://www.animegg.org/takunomi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/89817",
+        "dub": null,
+        "url": "https://www.animegg.org/takunomi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/89894",
+        "dub": null,
+        "url": "https://www.animegg.org/takunomi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/89979",
+        "dub": null,
+        "url": "https://www.animegg.org/takunomi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/90056",
+        "dub": null,
+        "url": "https://www.animegg.org/takunomi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/90131",
+        "dub": null,
+        "url": "https://www.animegg.org/takunomi-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/90225",
+        "dub": null,
+        "url": "https://www.animegg.org/takunomi-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/90278",
+        "dub": null,
+        "url": "https://www.animegg.org/takunomi-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/90354",
+        "dub": null,
+        "url": "https://www.animegg.org/takunomi-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/90427",
+        "dub": null,
+        "url": "https://www.animegg.org/takunomi-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/90522",
+        "dub": null,
+        "url": "https://www.animegg.org/takunomi-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/90587",
+        "dub": null,
+        "url": "https://www.animegg.org/takunomi-episode-12"
+      }
+    ]
   }
 ]
