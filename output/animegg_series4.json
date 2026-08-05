@@ -89292,5 +89292,33 @@
         "url": "https://www.animegg.org/r-e-c-episode-9"
       }
     ]
+  },
+  {
+    "serial_no": 4255,
+    "title": "Ajin OVA",
+    "animegg_url": "https://www.animegg.org/series/ajin-ova",
+    "mal_url": "https://myanimelist.net/anime/32015",
+    "mal_id": 32015,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/82521",
+        "dub": null,
+        "url": "https://www.animegg.org/ajin-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/85163",
+        "dub": null,
+        "url": "https://www.animegg.org/ajin-ova-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/86707",
+        "dub": null,
+        "url": "https://www.animegg.org/ajin-ova-episode-3"
+      }
+    ]
   }
 ]
