@@ -11191,5 +11191,21 @@
         "url": "https://www.animegg.org/street-fighter-ii-the-movie-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5781,
+    "title": "Domain of Murder",
+    "animegg_url": "https://www.animegg.org/series/domain-of-murder",
+    "mal_url": "https://myanimelist.net/anime/4756",
+    "mal_id": 4756,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/50187",
+        "dub": "https://www.animegg.org/embed/50188",
+        "url": "https://www.animegg.org/domain-of-murder-episode-1"
+      }
+    ]
   }
 ]
