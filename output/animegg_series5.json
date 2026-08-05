@@ -13125,5 +13125,21 @@
         "url": "https://www.animegg.org/daimajuu-gekitou-hagane-no-oni-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5816,
+    "title": "Hinata no Aoshigure",
+    "animegg_url": "https://www.animegg.org/series/hinata-no-aoshigure",
+    "mal_url": "https://myanimelist.net/anime/20673",
+    "mal_id": 20673,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/77198",
+        "dub": null,
+        "url": "https://www.animegg.org/hinata-no-aoshigure-episode-1"
+      }
+    ]
   }
 ]
