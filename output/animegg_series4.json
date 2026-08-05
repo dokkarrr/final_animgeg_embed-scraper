@@ -41168,5 +41168,87 @@
         "url": "https://www.animegg.org/ikemen-sengoku-toki-wo-kakeru-ga-koi-wa-hajimaranai-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3558,
+    "title": "The Reflection",
+    "animegg_url": "https://www.animegg.org/series/the-reflection",
+    "mal_url": "https://myanimelist.net/anime/34449",
+    "mal_id": 34449,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/87675",
+        "dub": null,
+        "url": "https://www.animegg.org/the-reflection-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/87747",
+        "dub": null,
+        "url": "https://www.animegg.org/the-reflection-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/87841",
+        "dub": null,
+        "url": "https://www.animegg.org/the-reflection-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/87913",
+        "dub": null,
+        "url": "https://www.animegg.org/the-reflection-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/88027",
+        "dub": null,
+        "url": "https://www.animegg.org/the-reflection-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/88072",
+        "dub": null,
+        "url": "https://www.animegg.org/the-reflection-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/88151",
+        "dub": null,
+        "url": "https://www.animegg.org/the-reflection-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/88232",
+        "dub": null,
+        "url": "https://www.animegg.org/the-reflection-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/88311",
+        "dub": null,
+        "url": "https://www.animegg.org/the-reflection-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/88456",
+        "dub": null,
+        "url": "https://www.animegg.org/the-reflection-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/88471",
+        "dub": null,
+        "url": "https://www.animegg.org/the-reflection-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/88570",
+        "dub": null,
+        "url": "https://www.animegg.org/the-reflection-episode-12"
+      }
+    ]
   }
 ]
