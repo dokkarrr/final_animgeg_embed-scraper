@@ -78008,5 +78008,57 @@
         "url": "https://www.animegg.org/hibike-euphonium-specials-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 4086,
+    "title": "Mobile Police Patlabor: Early Days",
+    "animegg_url": "https://www.animegg.org/series/mobile-police-patlabor-early-days",
+    "mal_url": "https://myanimelist.net/anime/324",
+    "mal_id": 324,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/57971",
+        "dub": null,
+        "url": "https://www.animegg.org/mobile-police-patlabor-early-days-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/57972",
+        "dub": null,
+        "url": "https://www.animegg.org/mobile-police-patlabor-early-days-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/57973",
+        "dub": null,
+        "url": "https://www.animegg.org/mobile-police-patlabor-early-days-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/57974",
+        "dub": null,
+        "url": "https://www.animegg.org/mobile-police-patlabor-early-days-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/57975",
+        "dub": null,
+        "url": "https://www.animegg.org/mobile-police-patlabor-early-days-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/57976",
+        "dub": null,
+        "url": "https://www.animegg.org/mobile-police-patlabor-early-days-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/57977",
+        "dub": null,
+        "url": "https://www.animegg.org/mobile-police-patlabor-early-days-episode-7"
+      }
+    ]
   }
 ]
