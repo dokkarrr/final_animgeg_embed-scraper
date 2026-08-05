@@ -12980,5 +12980,69 @@
         "url": "https://www.animegg.org/samurai-gun-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3237,
+    "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
+    "animegg_url": "https://www.animegg.org/series/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo",
+    "mal_url": "https://myanimelist.net/anime/54714",
+    "mal_id": 54714,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 100,
+        "sub": "https://www.animegg.org/embed/139362",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-episode-13"
+      },
+      {
+        "ep": 100,
+        "sub": "https://www.animegg.org/embed/132550",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-episode-12"
+      },
+      {
+        "ep": 100,
+        "sub": "https://www.animegg.org/embed/132304",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-episode-7"
+      },
+      {
+        "ep": 100,
+        "sub": "https://www.animegg.org/embed/132191",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-episode-6"
+      },
+      {
+        "ep": 100,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-episode-5"
+      },
+      {
+        "ep": 100,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-episode-4"
+      },
+      {
+        "ep": 100,
+        "sub": "https://www.animegg.org/embed/131904",
+        "dub": "https://www.animegg.org/embed/132196",
+        "url": "https://www.animegg.org/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-episode-3"
+      },
+      {
+        "ep": 100,
+        "sub": "https://www.animegg.org/embed/131795",
+        "dub": "https://www.animegg.org/embed/132110",
+        "url": "https://www.animegg.org/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-episode-2"
+      },
+      {
+        "ep": 100,
+        "sub": "https://www.animegg.org/embed/131681",
+        "dub": "https://www.animegg.org/embed/132031",
+        "url": "https://www.animegg.org/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-episode-1"
+      }
+    ]
   }
 ]
