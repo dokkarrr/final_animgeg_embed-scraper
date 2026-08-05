@@ -18966,5 +18966,21 @@
         "url": "https://www.animegg.org/violet-evergarden-movie-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5946,
+    "title": "Boku no Imouto wa Osaka Okan Special",
+    "animegg_url": "https://www.animegg.org/series/boku-no-imouto-wa-osaka-okan-special",
+    "mal_url": "https://myanimelist.net/anime/18419",
+    "mal_id": 18419,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/48902",
+        "dub": null,
+        "url": "https://www.animegg.org/boku-no-imouto-wa-osaka-okan-special-episode-1"
+      }
+    ]
   }
 ]
