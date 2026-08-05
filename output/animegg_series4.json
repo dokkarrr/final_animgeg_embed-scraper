@@ -128522,5 +128522,51 @@
         "url": "https://www.animegg.org/fairy-tail-2014-dub-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4851,
+    "title": "World Fool News",
+    "animegg_url": "https://www.animegg.org/series/qw",
+    "mal_url": "https://myanimelist.net/anime/24437",
+    "mal_id": 24437,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/63600",
+        "dub": null,
+        "url": "https://www.animegg.org/world-fool-news-episode-13"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/63601",
+        "dub": null,
+        "url": "https://www.animegg.org/world-fool-news-episode-14"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/63602",
+        "dub": null,
+        "url": "https://www.animegg.org/world-fool-news-episode-15"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/63603",
+        "dub": null,
+        "url": "https://www.animegg.org/world-fool-news-episode-16"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/63604",
+        "dub": null,
+        "url": "https://www.animegg.org/world-fool-news-episode-17"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/63605",
+        "dub": null,
+        "url": "https://www.animegg.org/world-fool-news-episode-18"
+      }
+    ]
   }
 ]
