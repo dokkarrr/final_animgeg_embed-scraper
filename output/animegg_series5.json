@@ -19730,5 +19730,21 @@
         "url": "https://www.animegg.org/upotte-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5960,
+    "title": "Harukanaru Toki no Naka de 3: Kurenai no Tsuki",
+    "animegg_url": "https://www.animegg.org/series/harukanaru-toki-no-naka-de-3-kurenai-no-tsuki",
+    "mal_url": "https://myanimelist.net/anime/3227",
+    "mal_id": 3227,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/53144",
+        "dub": null,
+        "url": "https://www.animegg.org/harukanaru-toki-no-naka-de-3-kurenai-no-tsuki-episode-1"
+      }
+    ]
   }
 ]
