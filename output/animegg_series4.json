@@ -108408,5 +108408,21 @@
         "url": "https://www.animegg.org/visual-prison-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4549,
+    "title": "Ace of the Diamond OVA",
+    "animegg_url": "https://www.animegg.org/series/ace-of-diamond-ova",
+    "mal_url": "https://myanimelist.net/anime/25341",
+    "mal_id": 25341,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/67820",
+        "dub": null,
+        "url": "https://www.animegg.org/ace-of-diamond-ova-episode-1"
+      }
+    ]
   }
 ]
