@@ -121628,5 +121628,21 @@
         "url": "https://www.animegg.org/rurouni-kenshin-movie-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4755,
+    "title": "Kuroshitsuji Special",
+    "animegg_url": "https://www.animegg.org/series/kuroshitsuji-special",
+    "mal_url": "https://myanimelist.net/anime/6793",
+    "mal_id": 6793,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/54602",
+        "dub": null,
+        "url": "https://www.animegg.org/kuroshitsuji-special-episode-1"
+      }
+    ]
   }
 ]
