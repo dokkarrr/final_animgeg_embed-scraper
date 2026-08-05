@@ -83254,5 +83254,45 @@
         "url": "https://www.animegg.org/granbelm-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 4154,
+    "title": "Nurse Witch Komugi (OVA)",
+    "animegg_url": "https://www.animegg.org/series/nurse-witch-komugi-ova",
+    "mal_url": "https://myanimelist.net/anime/31890",
+    "mal_id": 31890,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/27534",
+        "dub": "https://www.animegg.org/embed/27535",
+        "url": "https://www.animegg.org/nurse-witch-komugi-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/27538",
+        "dub": "https://www.animegg.org/embed/27539",
+        "url": "https://www.animegg.org/nurse-witch-komugi-ova-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/27536",
+        "dub": "https://www.animegg.org/embed/27537",
+        "url": "https://www.animegg.org/nurse-witch-komugi-ova-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/27542",
+        "dub": "https://www.animegg.org/embed/27543",
+        "url": "https://www.animegg.org/nurse-witch-komugi-ova-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/27540",
+        "dub": "https://www.animegg.org/embed/27541",
+        "url": "https://www.animegg.org/nurse-witch-komugi-ova-episode-5"
+      }
+    ]
   }
 ]
