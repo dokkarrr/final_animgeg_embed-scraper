@@ -40915,5 +40915,21 @@
         "url": "https://www.animegg.org/sengoku-basara-the-last-party-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6224,
+    "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III OVA",
+    "animegg_url": "https://www.animegg.org/series/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iii-ova",
+    "mal_url": "https://myanimelist.net/anime/44983",
+    "mal_id": 44983,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/101568",
+        "dub": null,
+        "url": "https://www.animegg.org/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iii-ova-episode-1"
+      }
+    ]
   }
 ]
