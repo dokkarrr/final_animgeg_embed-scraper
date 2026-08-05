@@ -60651,5 +60651,27 @@
         "url": "https://www.animegg.org/zone-of-the-enders-idolo-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6408,
+    "title": "Record of Ragnarok III",
+    "animegg_url": "https://www.animegg.org/series/record-of-ragnarok-season-3",
+    "mal_url": "https://myanimelist.net/anime/61200",
+    "mal_id": 61200,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/143759",
+        "dub": "https://www.animegg.org/embed/143760",
+        "url": "https://www.animegg.org/record-of-ragnarok-season-3-episode-1"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/143757",
+        "dub": "https://www.animegg.org/embed/143763",
+        "url": "https://www.animegg.org/record-of-ragnarok-season-3-episode-15"
+      }
+    ]
   }
 ]
