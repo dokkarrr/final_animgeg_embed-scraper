@@ -49922,5 +49922,33 @@
         "url": "https://www.animegg.org/aoi-sekai-no-chuushin-de-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 3675,
+    "title": "Area 88",
+    "animegg_url": "https://www.animegg.org/series/area-88",
+    "mal_url": "https://myanimelist.net/anime/1488",
+    "mal_id": 1488,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 88,
+        "sub": "https://www.animegg.org/embed/64737",
+        "dub": null,
+        "url": "https://www.animegg.org/area-88-episode-14"
+      },
+      {
+        "ep": 88,
+        "sub": "https://www.animegg.org/embed/64736",
+        "dub": null,
+        "url": "https://www.animegg.org/area-88-episode-13"
+      },
+      {
+        "ep": 88,
+        "sub": "https://www.animegg.org/embed/64735",
+        "dub": null,
+        "url": "https://www.animegg.org/area-88-episode"
+      }
+    ]
   }
 ]
