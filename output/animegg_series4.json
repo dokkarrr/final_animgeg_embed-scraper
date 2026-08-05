@@ -109000,5 +109000,75 @@
         "url": "https://www.animegg.org/campfire-cooking-in-another-world-with-my-absurd-skill-season-2-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 4559,
+    "title": "Kami Kuzu☆Idol",
+    "animegg_url": "https://www.animegg.org/series/kami-kuzu-idol",
+    "mal_url": "https://myanimelist.net/anime/50470",
+    "mal_id": 50470,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/105186",
+        "dub": "https://www.animegg.org/embed/132480",
+        "url": "https://www.animegg.org/kami-kuzu-idol-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/105238",
+        "dub": null,
+        "url": "https://www.animegg.org/kami-kuzu-idol-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/105300",
+        "dub": null,
+        "url": "https://www.animegg.org/kami-kuzu-idol-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/105356",
+        "dub": null,
+        "url": "https://www.animegg.org/kami-kuzu-idol-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/105414",
+        "dub": null,
+        "url": "https://www.animegg.org/kami-kuzu-idol-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/105487",
+        "dub": null,
+        "url": "https://www.animegg.org/kami-kuzu-idol-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/105555",
+        "dub": null,
+        "url": "https://www.animegg.org/kami-kuzu-idol-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/105616",
+        "dub": null,
+        "url": "https://www.animegg.org/kami-kuzu-idol-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/105678",
+        "dub": null,
+        "url": "https://www.animegg.org/kami-kuzu-idol-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/105740",
+        "dub": null,
+        "url": "https://www.animegg.org/kami-kuzu-idol-episode-10"
+      }
+    ]
   }
 ]
