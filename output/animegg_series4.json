@@ -52734,5 +52734,63 @@
         "url": "https://www.animegg.org/etotama-specials-episode-7"
       }
     ]
+  },
+  {
+    "serial_no": 3718,
+    "title": "Raise wa Tanin ga Ii",
+    "animegg_url": "https://www.animegg.org/series/raise-wa-tanin-ga-ii",
+    "mal_url": "https://myanimelist.net/anime/56964",
+    "mal_id": 56964,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/137722",
+        "dub": "https://www.animegg.org/embed/140517",
+        "url": "https://www.animegg.org/raise-wa-tanin-ga-ii-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/137981",
+        "dub": null,
+        "url": "https://www.animegg.org/raise-wa-tanin-ga-ii-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/138199",
+        "dub": null,
+        "url": "https://www.animegg.org/raise-wa-tanin-ga-ii-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/138436",
+        "dub": null,
+        "url": "https://www.animegg.org/raise-wa-tanin-ga-ii-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/138660",
+        "dub": null,
+        "url": "https://www.animegg.org/raise-wa-tanin-ga-ii-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/138883",
+        "dub": null,
+        "url": "https://www.animegg.org/raise-wa-tanin-ga-ii-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/139086",
+        "dub": null,
+        "url": "https://www.animegg.org/raise-wa-tanin-ga-ii-episode-7"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/140516",
+        "dub": null,
+        "url": "https://www.animegg.org/raise-wa-tanin-ga-ii-episode-12"
+      }
+    ]
   }
 ]
