@@ -49088,5 +49088,57 @@
         "url": "https://www.animegg.org/piano-episode-14"
       }
     ]
+  },
+  {
+    "serial_no": 3663,
+    "title": "801 T.T.S. Airbats",
+    "animegg_url": "https://www.animegg.org/series/801-tts-airbats",
+    "mal_url": "https://myanimelist.net/anime/1233",
+    "mal_id": 1233,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 801,
+        "sub": "https://www.animegg.org/embed/68101",
+        "dub": null,
+        "url": "https://www.animegg.org/801-tts-airbats-episode-7"
+      },
+      {
+        "ep": 801,
+        "sub": "https://www.animegg.org/embed/68100",
+        "dub": null,
+        "url": "https://www.animegg.org/801-tts-airbats-episode-6"
+      },
+      {
+        "ep": 801,
+        "sub": "https://www.animegg.org/embed/68099",
+        "dub": null,
+        "url": "https://www.animegg.org/801-tts-airbats-episode-5"
+      },
+      {
+        "ep": 801,
+        "sub": "https://www.animegg.org/embed/68097",
+        "dub": null,
+        "url": "https://www.animegg.org/801-tts-airbats-episode-4"
+      },
+      {
+        "ep": 801,
+        "sub": "https://www.animegg.org/embed/68096",
+        "dub": null,
+        "url": "https://www.animegg.org/801-tts-airbats-episode-3"
+      },
+      {
+        "ep": 801,
+        "sub": "https://www.animegg.org/embed/68095",
+        "dub": null,
+        "url": "https://www.animegg.org/801-tts-airbats-episode-2"
+      },
+      {
+        "ep": 801,
+        "sub": "https://www.animegg.org/embed/68094",
+        "dub": null,
+        "url": "https://www.animegg.org/801-tts-airbats-episode-1"
+      }
+    ]
   }
 ]
