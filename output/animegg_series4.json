@@ -108856,5 +108856,63 @@
         "url": "https://www.animegg.org/burn-up-w-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 4556,
+    "title": "Seijo no Maryoku wa Bannou Desu 2nd Season",
+    "animegg_url": "https://www.animegg.org/series/seijo-no-maryoku-wa-bannou-desu-2nd-season",
+    "mal_url": "https://myanimelist.net/anime/51215",
+    "mal_id": 51215,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/132458",
+        "dub": null,
+        "url": "https://www.animegg.org/seijo-no-maryoku-wa-bannou-desu-2nd-season-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/132216",
+        "dub": null,
+        "url": "https://www.animegg.org/seijo-no-maryoku-wa-bannou-desu-2nd-season-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/132123",
+        "dub": "https://www.animegg.org/embed/132462",
+        "url": "https://www.animegg.org/seijo-no-maryoku-wa-bannou-desu-2nd-season-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/132035",
+        "dub": "https://www.animegg.org/embed/132219",
+        "url": "https://www.animegg.org/seijo-no-maryoku-wa-bannou-desu-2nd-season-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/131933",
+        "dub": "https://www.animegg.org/embed/132126",
+        "url": "https://www.animegg.org/seijo-no-maryoku-wa-bannou-desu-2nd-season-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/131819",
+        "dub": "https://www.animegg.org/embed/132043",
+        "url": "https://www.animegg.org/seijo-no-maryoku-wa-bannou-desu-2nd-season-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/131704",
+        "dub": "https://www.animegg.org/embed/131936",
+        "url": "https://www.animegg.org/seijo-no-maryoku-wa-bannou-desu-2nd-season-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/131598",
+        "dub": "https://www.animegg.org/embed/131824",
+        "url": "https://www.animegg.org/seijo-no-maryoku-wa-bannou-desu-2nd-season-episode-1"
+      }
+    ]
   }
 ]
