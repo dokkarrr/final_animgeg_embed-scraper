@@ -123777,5 +123777,51 @@
         "url": "https://www.animegg.org/gasshin-sentai-mechander-robo-dub-episode-29"
       }
     ]
+  },
+  {
+    "serial_no": 6947,
+    "title": "Meitantei Conan: Zero no Tea Time",
+    "animegg_url": "https://www.animegg.org/series/detective-conan-zero-no-tea-time",
+    "mal_url": "https://myanimelist.net/anime/50012",
+    "mal_id": 50012,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/104353",
+        "dub": null,
+        "url": "https://www.animegg.org/detective-conan-zero-no-tea-time-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/104425",
+        "dub": null,
+        "url": "https://www.animegg.org/detective-conan-zero-no-tea-time-episode-2-1"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/104513",
+        "dub": null,
+        "url": "https://www.animegg.org/detective-conan-zero-no-tea-time-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/104611",
+        "dub": null,
+        "url": "https://www.animegg.org/detective-conan-zero-no-tea-time-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/105018",
+        "dub": null,
+        "url": "https://www.animegg.org/detective-conan-zero-no-tea-time-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/105019",
+        "dub": null,
+        "url": "https://www.animegg.org/detective-conan-zero-no-tea-time-episode-6"
+      }
+    ]
   }
 ]
