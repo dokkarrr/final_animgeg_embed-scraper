@@ -39787,5 +39787,87 @@
         "url": "https://www.animegg.org/samurai-shodown-the-motion-picture-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6215,
+    "title": "Nijiyon Animation",
+    "animegg_url": "https://www.animegg.org/series/nijiyon-animation",
+    "mal_url": "https://myanimelist.net/anime/53077",
+    "mal_id": 53077,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/106779",
+        "dub": null,
+        "url": "https://www.animegg.org/nijiyon-animation-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/106849",
+        "dub": null,
+        "url": "https://www.animegg.org/nijiyon-animation-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/106924",
+        "dub": null,
+        "url": "https://www.animegg.org/nijiyon-animation-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/106995",
+        "dub": null,
+        "url": "https://www.animegg.org/nijiyon-animation-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/107067",
+        "dub": null,
+        "url": "https://www.animegg.org/nijiyon-animation-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/107137",
+        "dub": null,
+        "url": "https://www.animegg.org/nijiyon-animation-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/107245",
+        "dub": null,
+        "url": "https://www.animegg.org/nijiyon-animation-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/107307",
+        "dub": null,
+        "url": "https://www.animegg.org/nijiyon-animation-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/107376",
+        "dub": null,
+        "url": "https://www.animegg.org/nijiyon-animation-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/107444",
+        "dub": null,
+        "url": "https://www.animegg.org/nijiyon-animation-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/107506",
+        "dub": null,
+        "url": "https://www.animegg.org/nijiyon-animation-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/107568",
+        "dub": null,
+        "url": "https://www.animegg.org/nijiyon-animation-episode-12"
+      }
+    ]
   }
 ]
