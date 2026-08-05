@@ -108158,5 +108158,21 @@
         "url": "https://www.animegg.org/steins-gate-kyoukaimenjou-no-missing-link-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4542,
+    "title": "One Piece 3D: Mugiwara Chase",
+    "animegg_url": "https://www.animegg.org/series/one-piece-3d-mugiwara-chase",
+    "mal_url": "https://myanimelist.net/anime/9999",
+    "mal_id": 9999,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/59232",
+        "dub": null,
+        "url": "https://www.animegg.org/one-piece-3d-mugiwara-chase-episode-1"
+      }
+    ]
   }
 ]
