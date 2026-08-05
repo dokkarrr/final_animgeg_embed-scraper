@@ -14844,5 +14844,21 @@
         "url": "https://www.animegg.org/yami-shibai-8th-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5865,
+    "title": "Tekken",
+    "animegg_url": "https://www.animegg.org/series/tekken",
+    "mal_url": "https://myanimelist.net/anime/537",
+    "mal_id": 537,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/63084",
+        "dub": null,
+        "url": "https://www.animegg.org/tekken-episode-1"
+      }
+    ]
   }
 ]
