@@ -26400,5 +26400,21 @@
         "url": "https://www.animegg.org/jojo-no-kimyou-na-bouken-diamond-wa-kudakenai-dub-episode-39"
       }
     ]
+  },
+  {
+    "serial_no": 6039,
+    "title": "Kimikiss Pure Rouge Special",
+    "animegg_url": "https://www.animegg.org/series/kimikiss-pure-rouge-special",
+    "mal_url": "https://myanimelist.net/anime/4205",
+    "mal_id": 4205,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/56481",
+        "dub": null,
+        "url": "https://www.animegg.org/kimikiss-pure-rouge-special-episode-1"
+      }
+    ]
   }
 ]
