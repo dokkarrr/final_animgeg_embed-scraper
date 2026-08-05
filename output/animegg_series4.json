@@ -137331,5 +137331,87 @@
         "url": "https://www.animegg.org/initial-d-battle-stage-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4988,
+    "title": "Bucchigire!",
+    "animegg_url": "https://www.animegg.org/series/bucchigire",
+    "mal_url": "https://myanimelist.net/anime/51371",
+    "mal_id": 51371,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/105245",
+        "dub": null,
+        "url": "https://www.animegg.org/bucchigire-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/105295",
+        "dub": null,
+        "url": "https://www.animegg.org/bucchigire-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/105352",
+        "dub": null,
+        "url": "https://www.animegg.org/bucchigire-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/105409",
+        "dub": null,
+        "url": "https://www.animegg.org/bucchigire-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/105482",
+        "dub": null,
+        "url": "https://www.animegg.org/bucchigire-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/105548",
+        "dub": null,
+        "url": "https://www.animegg.org/bucchigire-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/105610",
+        "dub": null,
+        "url": "https://www.animegg.org/bucchigire-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/105673",
+        "dub": null,
+        "url": "https://www.animegg.org/bucchigire-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/105735",
+        "dub": null,
+        "url": "https://www.animegg.org/bucchigire-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/105802",
+        "dub": null,
+        "url": "https://www.animegg.org/bucchigire-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/105869",
+        "dub": null,
+        "url": "https://www.animegg.org/bucchigire-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/105929",
+        "dub": null,
+        "url": "https://www.animegg.org/bucchigire-episode-12"
+      }
+    ]
   }
 ]
