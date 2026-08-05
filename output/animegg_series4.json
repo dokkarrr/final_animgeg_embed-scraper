@@ -49894,5 +49894,33 @@
         "url": "https://www.animegg.org/higurashi-no-naku-koro-ni-rei-episode-5"
       }
     ]
+  },
+  {
+    "serial_no": 3674,
+    "title": "Aoi Sekai no Chuushin de",
+    "animegg_url": "https://www.animegg.org/series/aoi-sekai-no-chuushin-de",
+    "mal_url": "https://myanimelist.net/anime/15133",
+    "mal_id": 15133,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/1466",
+        "dub": null,
+        "url": "https://www.animegg.org/aoi-sekai-no-chuushin-de-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/1465",
+        "dub": null,
+        "url": "https://www.animegg.org/aoi-sekai-no-chuushin-de-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/1464",
+        "dub": null,
+        "url": "https://www.animegg.org/aoi-sekai-no-chuushin-de-episode-3"
+      }
+    ]
   }
 ]
