@@ -756,5 +756,69 @@
         "url": "https://www.animegg.org/ai-mai-mi-surgical-friends-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3082,
+    "title": "Rockman.EXE Beast+",
+    "animegg_url": "https://www.animegg.org/series/rockmanexe-beast",
+    "mal_url": "https://myanimelist.net/anime/2713",
+    "mal_id": 2713,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 26,
+        "sub": "https://www.animegg.org/embed/61692",
+        "dub": null,
+        "url": "https://www.animegg.org/rockmanexe-beast-episode-1"
+      },
+      {
+        "ep": 27,
+        "sub": "https://www.animegg.org/embed/61693",
+        "dub": null,
+        "url": "https://www.animegg.org/rockmanexe-beast-episode-2"
+      },
+      {
+        "ep": 28,
+        "sub": "https://www.animegg.org/embed/61694",
+        "dub": null,
+        "url": "https://www.animegg.org/rockmanexe-beast-episode-3"
+      },
+      {
+        "ep": 29,
+        "sub": "https://www.animegg.org/embed/61695",
+        "dub": null,
+        "url": "https://www.animegg.org/rockmanexe-beast-episode-4"
+      },
+      {
+        "ep": 30,
+        "sub": "https://www.animegg.org/embed/61696",
+        "dub": null,
+        "url": "https://www.animegg.org/rockmanexe-beast-episode-5"
+      },
+      {
+        "ep": 31,
+        "sub": "https://www.animegg.org/embed/61697",
+        "dub": null,
+        "url": "https://www.animegg.org/rockmanexe-beast-episode-6"
+      },
+      {
+        "ep": 32,
+        "sub": "https://www.animegg.org/embed/61698",
+        "dub": null,
+        "url": "https://www.animegg.org/rockmanexe-beast-episode-7"
+      },
+      {
+        "ep": 33,
+        "sub": "https://www.animegg.org/embed/61699",
+        "dub": null,
+        "url": "https://www.animegg.org/rockmanexe-beast-episode-8"
+      },
+      {
+        "ep": 34,
+        "sub": "https://www.animegg.org/embed/61700",
+        "dub": null,
+        "url": "https://www.animegg.org/rockmanexe-beast-episode-9"
+      }
+    ]
   }
 ]
