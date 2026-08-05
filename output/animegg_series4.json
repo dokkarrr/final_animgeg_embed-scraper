@@ -94408,5 +94408,21 @@
         "url": "https://www.animegg.org/my-ribdiculous-reincarnation-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4325,
+    "title": "Steins;Gate: Fuka Ryouiki no Déjà vu",
+    "animegg_url": "https://www.animegg.org/series/steins-gate-fuka-ryouiki-no-d-j-vu",
+    "mal_url": "https://myanimelist.net/anime/11577",
+    "mal_id": 11577,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/45076",
+        "dub": null,
+        "url": "https://www.animegg.org/steins-gate-fuka-ryouiki-no-d-j-vu-episode-1"
+      }
+    ]
   }
 ]
