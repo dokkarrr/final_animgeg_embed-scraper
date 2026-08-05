@@ -102810,5 +102810,87 @@
         "url": "https://www.animegg.org/trinity-seven-movie-eternity-library-to-alchemic-girl-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4447,
+    "title": "Ryman's Club",
+    "animegg_url": "https://www.animegg.org/series/ryman-s-club",
+    "mal_url": "https://myanimelist.net/anime/50185",
+    "mal_id": 50185,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/103891",
+        "dub": null,
+        "url": "https://www.animegg.org/ryman-s-club-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/103945",
+        "dub": null,
+        "url": "https://www.animegg.org/ryman-s-club-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/103997",
+        "dub": null,
+        "url": "https://www.animegg.org/ryman-s-club-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/104043",
+        "dub": null,
+        "url": "https://www.animegg.org/ryman-s-club-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/104092",
+        "dub": null,
+        "url": "https://www.animegg.org/ryman-s-club-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/104142",
+        "dub": null,
+        "url": "https://www.animegg.org/ryman-s-club-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/104191",
+        "dub": null,
+        "url": "https://www.animegg.org/ryman-s-club-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/104237",
+        "dub": null,
+        "url": "https://www.animegg.org/ryman-s-club-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/104283",
+        "dub": null,
+        "url": "https://www.animegg.org/ryman-s-club-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/104328",
+        "dub": null,
+        "url": "https://www.animegg.org/ryman-s-club-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/104389",
+        "dub": null,
+        "url": "https://www.animegg.org/ryman-s-club-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/104456",
+        "dub": null,
+        "url": "https://www.animegg.org/ryman-s-club-episode-12"
+      }
+    ]
   }
 ]
