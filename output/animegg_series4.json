@@ -2334,5 +2334,87 @@
         "url": "https://www.animegg.org/ao-haru-ride-unwritten-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 3103,
+    "title": "Sasami-san@Ganbaranai",
+    "animegg_url": "https://www.animegg.org/series/sasami-san-ganbaranai",
+    "mal_url": "https://myanimelist.net/anime/14515",
+    "mal_id": 14515,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/33400",
+        "dub": null,
+        "url": "https://www.animegg.org/sasami-san-ganbaranai-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/33391",
+        "dub": null,
+        "url": "https://www.animegg.org/sasami-san-ganbaranai-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/33392",
+        "dub": null,
+        "url": "https://www.animegg.org/sasami-san-ganbaranai-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/33390",
+        "dub": null,
+        "url": "https://www.animegg.org/sasami-san-ganbaranai-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/33389",
+        "dub": null,
+        "url": "https://www.animegg.org/sasami-san-ganbaranai-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/33393",
+        "dub": null,
+        "url": "https://www.animegg.org/sasami-san-ganbaranai-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/33394",
+        "dub": null,
+        "url": "https://www.animegg.org/sasami-san-ganbaranai-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/33396",
+        "dub": null,
+        "url": "https://www.animegg.org/sasami-san-ganbaranai-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/33395",
+        "dub": null,
+        "url": "https://www.animegg.org/sasami-san-ganbaranai-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/33397",
+        "dub": null,
+        "url": "https://www.animegg.org/sasami-san-ganbaranai-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/33399",
+        "dub": null,
+        "url": "https://www.animegg.org/sasami-san-ganbaranai-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/33398",
+        "dub": null,
+        "url": "https://www.animegg.org/sasami-san-ganbaranai-episode-12"
+      }
+    ]
   }
 ]
