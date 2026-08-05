@@ -108071,5 +108071,27 @@
         "url": "https://www.animegg.org/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 6803,
+    "title": "Mayonaka no Occult Koumuin: Hitoribocchi no Kyuuketsuki",
+    "animegg_url": "https://www.animegg.org/series/mayonaka-no-occult-koumuin-hitoribocchi-no-kyuuketsuki",
+    "mal_url": "https://myanimelist.net/anime/39972",
+    "mal_id": 39972,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/96546",
+        "dub": null,
+        "url": "https://www.animegg.org/mayonaka-no-occult-koumuin-hitoribocchi-no-kyuuketsuki-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/96547",
+        "dub": null,
+        "url": "https://www.animegg.org/mayonaka-no-occult-koumuin-hitoribocchi-no-kyuuketsuki-episode-2"
+      }
+    ]
   }
 ]
