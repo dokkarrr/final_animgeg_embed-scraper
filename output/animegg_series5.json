@@ -85182,5 +85182,21 @@
         "url": "https://www.animegg.org/enen-no-shouboutai-season-3-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6624,
+    "title": "Devils Line: Anytime Anywhere",
+    "animegg_url": "https://www.animegg.org/series/devils-line-anytime-anywhere",
+    "mal_url": "https://myanimelist.net/anime/37997",
+    "mal_id": 37997,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/96568",
+        "dub": null,
+        "url": "https://www.animegg.org/devils-line-anytime-anywhere-episode-1"
+      }
+    ]
   }
 ]
