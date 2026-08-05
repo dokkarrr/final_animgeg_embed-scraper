@@ -73816,5 +73816,51 @@
         "url": "https://www.animegg.org/ongaku-shoujo-tv-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4016,
+    "title": "Iriya no Sora, UFO no Natsu",
+    "animegg_url": "https://www.animegg.org/series/iriya-no-sora-ufo-no-natsu",
+    "mal_url": "https://myanimelist.net/anime/358",
+    "mal_id": 358,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/18323",
+        "dub": null,
+        "url": "https://www.animegg.org/iriya-no-sora-ufo-no-natsu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/18319",
+        "dub": null,
+        "url": "https://www.animegg.org/iriya-no-sora-ufo-no-natsu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/18320",
+        "dub": null,
+        "url": "https://www.animegg.org/iriya-no-sora-ufo-no-natsu-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/18322",
+        "dub": null,
+        "url": "https://www.animegg.org/iriya-no-sora-ufo-no-natsu-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/18321",
+        "dub": null,
+        "url": "https://www.animegg.org/iriya-no-sora-ufo-no-natsu-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/18324",
+        "dub": null,
+        "url": "https://www.animegg.org/iriya-no-sora-ufo-no-natsu-episode-6"
+      }
+    ]
   }
 ]
