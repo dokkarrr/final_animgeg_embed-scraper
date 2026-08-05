@@ -89357,5 +89357,63 @@
         "url": "https://www.animegg.org/zoids-wild-dub-episode-50"
       }
     ]
+  },
+  {
+    "serial_no": 6660,
+    "title": "Pluto",
+    "animegg_url": "https://www.animegg.org/series/pluto",
+    "mal_url": "https://myanimelist.net/anime/35737",
+    "mal_id": 35737,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/pluto-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/pluto-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/pluto-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/pluto-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/pluto-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/pluto-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/pluto-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/pluto-episode-8"
+      }
+    ]
   }
 ]
