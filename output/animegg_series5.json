@@ -35012,5 +35012,21 @@
         "url": "https://www.animegg.org/morita-san-wa-mukuchi-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6167,
+    "title": "Professor Layton and the Eternal Diva",
+    "animegg_url": "https://www.animegg.org/series/professor-layton-and-the-eternal-diva",
+    "mal_url": "https://myanimelist.net/anime/6172",
+    "mal_id": 6172,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/61378",
+        "dub": "https://www.animegg.org/embed/61379",
+        "url": "https://www.animegg.org/professor-layton-and-the-eternal-diva-episode-1"
+      }
+    ]
   }
 ]
