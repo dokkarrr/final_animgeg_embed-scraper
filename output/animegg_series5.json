@@ -33598,5 +33598,21 @@
         "url": "https://www.animegg.org/jojo-s-bizarre-adventure-2012-dub-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6151,
+    "title": "Voices of a Distant Star",
+    "animegg_url": "https://www.animegg.org/series/voices-of-a-distant-star",
+    "mal_url": "https://myanimelist.net/anime/256",
+    "mal_id": 256,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/64333",
+        "dub": null,
+        "url": "https://www.animegg.org/voices-of-a-distant-star-episode-1"
+      }
+    ]
   }
 ]
