@@ -42963,5 +42963,21 @@
         "url": "https://www.animegg.org/godzilla-3-hoshi-wo-kuu-mono-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6250,
+    "title": "Strike the Blood: Kieta Seisou-hen",
+    "animegg_url": "https://www.animegg.org/series/strike-the-blood-kieta-seisou-hen",
+    "mal_url": "https://myanimelist.net/anime/40486",
+    "mal_id": 40486,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/97687",
+        "dub": null,
+        "url": "https://www.animegg.org/strike-the-blood-kieta-seisou-hen-episode-1"
+      }
+    ]
   }
 ]
