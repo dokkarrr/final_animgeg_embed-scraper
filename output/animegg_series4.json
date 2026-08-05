@@ -67160,5 +67160,21 @@
         "url": "https://www.animegg.org/kuroko-no-basket-tip-off-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3912,
+    "title": "Shingeki no Kyojin: Chronicle",
+    "animegg_url": "https://www.animegg.org/series/shingeki-no-kyojin-chronicle",
+    "mal_url": "https://myanimelist.net/anime/42091",
+    "mal_id": 42091,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/100046",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-kyojin-chronicle-episode-1"
+      }
+    ]
   }
 ]
