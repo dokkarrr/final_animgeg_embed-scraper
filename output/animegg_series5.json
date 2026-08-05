@@ -996,5 +996,21 @@
         "url": "https://www.animegg.org/kouchuu-ouja-mushiking-mori-no-tami-no-densetsu-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 5629,
+    "title": "Musaigen no Phantom World Special",
+    "animegg_url": "https://www.animegg.org/series/musaigen-no-phantom-world-special",
+    "mal_url": "https://myanimelist.net/anime/31442",
+    "mal_id": 31442,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/84254",
+        "dub": null,
+        "url": "https://www.animegg.org/musaigen-no-phantom-world-special-episode-1"
+      }
+    ]
   }
 ]
