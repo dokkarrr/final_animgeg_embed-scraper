@@ -60984,5 +60984,39 @@
         "url": "https://www.animegg.org/maou-sama-retry-r-episode-9"
       }
     ]
+  },
+  {
+    "serial_no": 3835,
+    "title": "Mobile Suit Gundam Thunderbolt 2nd Season",
+    "animegg_url": "https://www.animegg.org/series/mobile-suit-gundam-thunderbolt-2nd-season",
+    "mal_url": "https://myanimelist.net/anime/34391",
+    "mal_id": 34391,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/87585",
+        "dub": null,
+        "url": "https://www.animegg.org/mobile-suit-gundam-thunderbolt-2nd-season-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/87137",
+        "dub": null,
+        "url": "https://www.animegg.org/mobile-suit-gundam-thunderbolt-2nd-season-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/86746",
+        "dub": null,
+        "url": "https://www.animegg.org/mobile-suit-gundam-thunderbolt-2nd-season-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/86321",
+        "dub": null,
+        "url": "https://www.animegg.org/mobile-suit-gundam-thunderbolt-2nd-season-episode-1"
+      }
+    ]
   }
 ]
