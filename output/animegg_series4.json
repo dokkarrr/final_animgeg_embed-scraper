@@ -1100,5 +1100,87 @@
         "url": "https://www.animegg.org/dragon-ball-kai-special-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3087,
+    "title": "Miru Tights",
+    "animegg_url": "https://www.animegg.org/series/miru-tights",
+    "mal_url": "https://myanimelist.net/anime/38935",
+    "mal_id": 38935,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/95320",
+        "dub": null,
+        "url": "https://www.animegg.org/miru-tights-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/95511",
+        "dub": null,
+        "url": "https://www.animegg.org/miru-tights-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/95512",
+        "dub": null,
+        "url": "https://www.animegg.org/miru-tights-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/95513",
+        "dub": null,
+        "url": "https://www.animegg.org/miru-tights-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/95658",
+        "dub": null,
+        "url": "https://www.animegg.org/miru-tights-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/95659",
+        "dub": null,
+        "url": "https://www.animegg.org/miru-tights-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/95716",
+        "dub": null,
+        "url": "https://www.animegg.org/miru-tights-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/95777",
+        "dub": null,
+        "url": "https://www.animegg.org/miru-tights-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/95825",
+        "dub": null,
+        "url": "https://www.animegg.org/miru-tights-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/95896",
+        "dub": null,
+        "url": "https://www.animegg.org/miru-tights-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/95977",
+        "dub": null,
+        "url": "https://www.animegg.org/miru-tights-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/96038",
+        "dub": null,
+        "url": "https://www.animegg.org/miru-tights-episode-12"
+      }
+    ]
   }
 ]
