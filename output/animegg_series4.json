@@ -19702,5 +19702,63 @@
         "url": "https://www.animegg.org/yuru-camp-season-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3305,
+    "title": "Haiyoru! Nyaruani",
+    "animegg_url": "https://www.animegg.org/series/haiyoru-nyaruani",
+    "mal_url": "https://myanimelist.net/anime/7596",
+    "mal_id": 7596,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/14924",
+        "dub": null,
+        "url": "https://www.animegg.org/haiyoru-nyaruani-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/14925",
+        "dub": null,
+        "url": "https://www.animegg.org/haiyoru-nyaruani-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/14922",
+        "dub": null,
+        "url": "https://www.animegg.org/haiyoru-nyaruani-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/14923",
+        "dub": null,
+        "url": "https://www.animegg.org/haiyoru-nyaruani-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/14926",
+        "dub": null,
+        "url": "https://www.animegg.org/haiyoru-nyaruani-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/14927",
+        "dub": null,
+        "url": "https://www.animegg.org/haiyoru-nyaruani-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/14928",
+        "dub": null,
+        "url": "https://www.animegg.org/haiyoru-nyaruani-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/14929",
+        "dub": null,
+        "url": "https://www.animegg.org/haiyoru-nyaruani-episode-8"
+      }
+    ]
   }
 ]
