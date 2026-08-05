@@ -22100,5 +22100,63 @@
         "url": "https://www.animegg.org/the-unaware-atelier-meister-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3336,
+    "title": "Psycho-Pass 3",
+    "animegg_url": "https://www.animegg.org/series/psycho-pass-3",
+    "mal_url": "https://myanimelist.net/anime/39491",
+    "mal_id": 39491,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/97268",
+        "dub": "https://www.animegg.org/embed/141468",
+        "url": "https://www.animegg.org/psycho-pass-3-episode-8"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/97202",
+        "dub": null,
+        "url": "https://www.animegg.org/psycho-pass-3-episode-7"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/97135",
+        "dub": null,
+        "url": "https://www.animegg.org/psycho-pass-3-episode-6"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/97069",
+        "dub": null,
+        "url": "https://www.animegg.org/psycho-pass-3-episode-5"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/97003",
+        "dub": null,
+        "url": "https://www.animegg.org/psycho-pass-3-episode-4"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/96942",
+        "dub": null,
+        "url": "https://www.animegg.org/psycho-pass-3-episode-3"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/96884",
+        "dub": null,
+        "url": "https://www.animegg.org/psycho-pass-3-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/96819",
+        "dub": "https://www.animegg.org/embed/141471",
+        "url": "https://www.animegg.org/psycho-pass-3-episode-1"
+      }
+    ]
   }
 ]
