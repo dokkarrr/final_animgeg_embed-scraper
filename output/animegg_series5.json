@@ -18116,5 +18116,21 @@
         "url": "https://www.animegg.org/aikatsu-on-parade-ona-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 5924,
+    "title": "Loups=Garous",
+    "animegg_url": "https://www.animegg.org/series/loups-garous",
+    "mal_url": "https://myanimelist.net/anime/7598",
+    "mal_id": 7598,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/55945",
+        "dub": "https://www.animegg.org/embed/55946",
+        "url": "https://www.animegg.org/loups-garous-episode-1"
+      }
+    ]
   }
 ]
