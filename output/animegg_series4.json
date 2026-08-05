@@ -95802,5 +95802,39 @@
         "url": "https://www.animegg.org/ao-no-exorcist-ova-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 4351,
+    "title": "Anime Mirai 2011",
+    "animegg_url": "https://www.animegg.org/series/young-animator-training-project-2011",
+    "mal_url": "https://myanimelist.net/anime/13171",
+    "mal_id": 13171,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 2011,
+        "sub": "https://www.animegg.org/embed/41150",
+        "dub": null,
+        "url": "https://www.animegg.org/young-animator-training-project-2011-episode-4"
+      },
+      {
+        "ep": 2011,
+        "sub": "https://www.animegg.org/embed/41149",
+        "dub": null,
+        "url": "https://www.animegg.org/young-animator-training-project-2011-episode-3"
+      },
+      {
+        "ep": 2011,
+        "sub": "https://www.animegg.org/embed/41151",
+        "dub": null,
+        "url": "https://www.animegg.org/young-animator-training-project-2011-episode-2"
+      },
+      {
+        "ep": 2011,
+        "sub": "https://www.animegg.org/embed/41152",
+        "dub": null,
+        "url": "https://www.animegg.org/young-animator-training-project-2011-episode-1"
+      }
+    ]
   }
 ]
