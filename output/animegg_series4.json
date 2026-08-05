@@ -116902,5 +116902,87 @@
         "url": "https://www.animegg.org/ai-mai-mi-mousou-catastrophe-special-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4694,
+    "title": "Jantama Pong☆",
+    "animegg_url": "https://www.animegg.org/series/jantama-pong",
+    "mal_url": "https://myanimelist.net/anime/50789",
+    "mal_id": 50789,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/104317",
+        "dub": null,
+        "url": "https://www.animegg.org/jantama-pong-episode-00"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/104373",
+        "dub": null,
+        "url": "https://www.animegg.org/jantama-pong-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/104437",
+        "dub": null,
+        "url": "https://www.animegg.org/jantama-pong-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/104499",
+        "dub": null,
+        "url": "https://www.animegg.org/jantama-pong-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/104558",
+        "dub": null,
+        "url": "https://www.animegg.org/jantama-pong-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/104613",
+        "dub": null,
+        "url": "https://www.animegg.org/jantama-pong-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/104672",
+        "dub": null,
+        "url": "https://www.animegg.org/jantama-pong-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/104829",
+        "dub": null,
+        "url": "https://www.animegg.org/jantama-pong-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/104891",
+        "dub": null,
+        "url": "https://www.animegg.org/jantama-pong-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/104947",
+        "dub": null,
+        "url": "https://www.animegg.org/jantama-pong-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/105026",
+        "dub": null,
+        "url": "https://www.animegg.org/jantama-pong-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/105086",
+        "dub": null,
+        "url": "https://www.animegg.org/jantama-pong-episode-11"
+      }
+    ]
   }
 ]
