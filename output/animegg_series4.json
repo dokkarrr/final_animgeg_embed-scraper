@@ -42420,5 +42420,21 @@
         "url": "https://www.animegg.org/assault-lily-bouquet-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3577,
+    "title": "Dragon Ball Z Movie 10: Broly - Second Coming",
+    "animegg_url": "https://www.animegg.org/series/dragon-ball-z-movie-10-broly---second-coming",
+    "mal_url": "https://myanimelist.net/anime/903",
+    "mal_id": 903,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/49771",
+        "dub": null,
+        "url": "https://www.animegg.org/dragon-ball-z-movie-10-broly---second-coming-episode-1"
+      }
+    ]
   }
 ]
