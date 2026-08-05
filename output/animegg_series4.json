@@ -84112,5 +84112,39 @@
         "url": "https://www.animegg.org/yuuki-yuuna-wa-yuusha-de-aru-washio-sumi-no-shou-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 4169,
+    "title": "Doomed Megalopolis",
+    "animegg_url": "https://www.animegg.org/series/doomed-megalopolis",
+    "mal_url": "https://myanimelist.net/anime/1148",
+    "mal_id": 1148,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/50017",
+        "dub": "https://www.animegg.org/embed/50018",
+        "url": "https://www.animegg.org/doomed-megalopolis-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/50019",
+        "dub": "https://www.animegg.org/embed/50020",
+        "url": "https://www.animegg.org/doomed-megalopolis-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/50021",
+        "dub": "https://www.animegg.org/embed/50022",
+        "url": "https://www.animegg.org/doomed-megalopolis-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/50023",
+        "dub": "https://www.animegg.org/embed/50024",
+        "url": "https://www.animegg.org/doomed-megalopolis-episode-4"
+      }
+    ]
   }
 ]
