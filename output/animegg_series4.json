@@ -96872,5 +96872,39 @@
         "url": "https://www.animegg.org/tsukiuta-the-animation-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4365,
+    "title": "Mai Otome Zwei",
+    "animegg_url": "https://www.animegg.org/series/mai-otome-zwei",
+    "mal_url": "https://myanimelist.net/anime/1609",
+    "mal_id": 1609,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/22819",
+        "dub": null,
+        "url": "https://www.animegg.org/mai-otome-zwei-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/22820",
+        "dub": null,
+        "url": "https://www.animegg.org/mai-otome-zwei-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/22817",
+        "dub": null,
+        "url": "https://www.animegg.org/mai-otome-zwei-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/22818",
+        "dub": null,
+        "url": "https://www.animegg.org/mai-otome-zwei-episode-4"
+      }
+    ]
   }
 ]
