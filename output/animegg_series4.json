@@ -3978,5 +3978,33 @@
         "url": "https://www.animegg.org/lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note---hakamori-to-neko-to-majutsushi-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3124,
+    "title": "Akatsuki no Yona: Sono Se niwa",
+    "animegg_url": "https://www.animegg.org/series/akatsuki-no-yona-sono-se-niwa",
+    "mal_url": "https://myanimelist.net/anime/30370",
+    "mal_id": 30370,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/79206",
+        "dub": null,
+        "url": "https://www.animegg.org/akatsuki-no-yona-sono-se-niwa-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/85433",
+        "dub": null,
+        "url": "https://www.animegg.org/akatsuki-no-yona-sono-se-niwa-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/85434",
+        "dub": null,
+        "url": "https://www.animegg.org/akatsuki-no-yona-sono-se-niwa-episode-3"
+      }
+    ]
   }
 ]
