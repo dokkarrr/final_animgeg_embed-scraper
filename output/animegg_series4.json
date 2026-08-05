@@ -1,0 +1,90 @@
+[
+  {
+    "serial_no": 3071,
+    "title": "Lazarus",
+    "animegg_url": "https://www.animegg.org/series/lazarus",
+    "mal_url": "https://myanimelist.net/anime/56038",
+    "mal_id": 56038,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/140387",
+        "dub": "https://www.animegg.org/embed/140388",
+        "url": "https://www.animegg.org/lazarus-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/140470",
+        "dub": "https://www.animegg.org/embed/140507",
+        "url": "https://www.animegg.org/lazarus-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/140563",
+        "dub": "https://www.animegg.org/embed/140599",
+        "url": "https://www.animegg.org/lazarus-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/140646",
+        "dub": null,
+        "url": "https://www.animegg.org/lazarus-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/140727",
+        "dub": "https://www.animegg.org/embed/140775",
+        "url": "https://www.animegg.org/lazarus-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/140831",
+        "dub": "https://www.animegg.org/embed/140843",
+        "url": "https://www.animegg.org/lazarus-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/140938",
+        "dub": "https://www.animegg.org/embed/140951",
+        "url": "https://www.animegg.org/lazarus-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/141028",
+        "dub": null,
+        "url": "https://www.animegg.org/lazarus-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/141149",
+        "dub": "https://www.animegg.org/embed/141151",
+        "url": "https://www.animegg.org/lazarus-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/141249",
+        "dub": "https://www.animegg.org/embed/141250",
+        "url": "https://www.animegg.org/lazarus-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/141334",
+        "dub": "https://www.animegg.org/embed/141348",
+        "url": "https://www.animegg.org/lazarus-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/141429",
+        "dub": "https://www.animegg.org/embed/141438",
+        "url": "https://www.animegg.org/lazarus-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/141507",
+        "dub": "https://www.animegg.org/embed/141520",
+        "url": "https://www.animegg.org/lazarus-episode-13"
+      }
+    ]
+  }
+]
