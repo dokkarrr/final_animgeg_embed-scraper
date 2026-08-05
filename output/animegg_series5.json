@@ -3352,5 +3352,21 @@
         "url": "https://www.animegg.org/birdy-the-mighty-decode-the-cipher-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5657,
+    "title": "Liz to Aoi Tori",
+    "animegg_url": "https://www.animegg.org/series/liz-to-aoi-tori",
+    "mal_url": "https://myanimelist.net/anime/35677",
+    "mal_id": 35677,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/93765",
+        "dub": null,
+        "url": "https://www.animegg.org/liz-to-aoi-tori-episode-1"
+      }
+    ]
   }
 ]
