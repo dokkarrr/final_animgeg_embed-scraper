@@ -9406,5 +9406,87 @@
         "url": "https://www.animegg.org/high-score-girl-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3191,
+    "title": "Delico's Nursery",
+    "animegg_url": "https://www.animegg.org/series/delico-s-nursery",
+    "mal_url": "https://myanimelist.net/anime/56179",
+    "mal_id": 56179,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/136125",
+        "dub": null,
+        "url": "https://www.animegg.org/delico-s-nursery-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/136276",
+        "dub": null,
+        "url": "https://www.animegg.org/delico-s-nursery-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/136417",
+        "dub": null,
+        "url": "https://www.animegg.org/delico-s-nursery-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/136616",
+        "dub": null,
+        "url": "https://www.animegg.org/delico-s-nursery-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/136801",
+        "dub": null,
+        "url": "https://www.animegg.org/delico-s-nursery-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/136971",
+        "dub": null,
+        "url": "https://www.animegg.org/delico-s-nursery-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/138063",
+        "dub": null,
+        "url": "https://www.animegg.org/delico-s-nursery-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/138318",
+        "dub": null,
+        "url": "https://www.animegg.org/delico-s-nursery-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/138512",
+        "dub": null,
+        "url": "https://www.animegg.org/delico-s-nursery-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/138749",
+        "dub": null,
+        "url": "https://www.animegg.org/delico-s-nursery-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/138947",
+        "dub": null,
+        "url": "https://www.animegg.org/delico-s-nursery-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/139158",
+        "dub": null,
+        "url": "https://www.animegg.org/delico-s-nursery-episode-12"
+      }
+    ]
   }
 ]
