@@ -93582,5 +93582,87 @@
         "url": "https://www.animegg.org/chitose-is-in-the-ramune-bottle-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 4312,
+    "title": "Tadaima, Okaeri",
+    "animegg_url": "https://www.animegg.org/series/tadaima-okaeri",
+    "mal_url": "https://myanimelist.net/anime/56768",
+    "mal_id": 56768,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/133583",
+        "dub": null,
+        "url": "https://www.animegg.org/tadaima-okaeri-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/133662",
+        "dub": null,
+        "url": "https://www.animegg.org/tadaima-okaeri-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/tadaima-okaeri-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/tadaima-okaeri-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/134005",
+        "dub": null,
+        "url": "https://www.animegg.org/tadaima-okaeri-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/134123",
+        "dub": null,
+        "url": "https://www.animegg.org/tadaima-okaeri-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/134290",
+        "dub": null,
+        "url": "https://www.animegg.org/tadaima-okaeri-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/134470",
+        "dub": null,
+        "url": "https://www.animegg.org/tadaima-okaeri-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/134656",
+        "dub": null,
+        "url": "https://www.animegg.org/tadaima-okaeri-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/134801",
+        "dub": null,
+        "url": "https://www.animegg.org/tadaima-okaeri-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/134968",
+        "dub": null,
+        "url": "https://www.animegg.org/tadaima-okaeri-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/135118",
+        "dub": null,
+        "url": "https://www.animegg.org/tadaima-okaeri-episode-12"
+      }
+    ]
   }
 ]
