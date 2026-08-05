@@ -2172,5 +2172,87 @@
         "url": "https://www.animegg.org/higurashi-no-naku-koro-ni-special-nekogoroshi-hen-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5641,
+    "title": "Seiken Densetsu: Legend of Mana - The Teardrop Crystal",
+    "animegg_url": "https://www.animegg.org/series/seiken-densetsu-legend-of-mana---the-teardrop-crystal",
+    "mal_url": "https://myanimelist.net/anime/49304",
+    "mal_id": 49304,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/106048",
+        "dub": null,
+        "url": "https://www.animegg.org/seiken-densetsu-legend-of-mana---the-teardrop-crystal-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/106112",
+        "dub": null,
+        "url": "https://www.animegg.org/seiken-densetsu-legend-of-mana---the-teardrop-crystal-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/106170",
+        "dub": null,
+        "url": "https://www.animegg.org/seiken-densetsu-legend-of-mana---the-teardrop-crystal-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/106237",
+        "dub": null,
+        "url": "https://www.animegg.org/seiken-densetsu-legend-of-mana---the-teardrop-crystal-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/106297",
+        "dub": null,
+        "url": "https://www.animegg.org/seiken-densetsu-legend-of-mana---the-teardrop-crystal-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/106358",
+        "dub": null,
+        "url": "https://www.animegg.org/seiken-densetsu-legend-of-mana---the-teardrop-crystal-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/106415",
+        "dub": null,
+        "url": "https://www.animegg.org/seiken-densetsu-legend-of-mana---the-teardrop-crystal-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/106478",
+        "dub": null,
+        "url": "https://www.animegg.org/seiken-densetsu-legend-of-mana---the-teardrop-crystal-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/106532",
+        "dub": null,
+        "url": "https://www.animegg.org/seiken-densetsu-legend-of-mana---the-teardrop-crystal-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/106586",
+        "dub": null,
+        "url": "https://www.animegg.org/seiken-densetsu-legend-of-mana---the-teardrop-crystal-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/106643",
+        "dub": null,
+        "url": "https://www.animegg.org/seiken-densetsu-legend-of-mana---the-teardrop-crystal-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/106702",
+        "dub": null,
+        "url": "https://www.animegg.org/seiken-densetsu-legend-of-mana---the-teardrop-crystal-episode-12"
+      }
+    ]
   }
 ]
