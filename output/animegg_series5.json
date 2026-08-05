@@ -51593,5 +51593,27 @@
         "url": "https://www.animegg.org/start-reborn-a-thousand-time-2th-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6323,
+    "title": "Clevatess season 2",
+    "animegg_url": "https://www.animegg.org/series/clevatess-season-2",
+    "mal_url": "https://myanimelist.net/anime/62513",
+    "mal_id": 62513,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/146537",
+        "dub": null,
+        "url": "https://www.animegg.org/clevatess-season-2-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/146364",
+        "dub": null,
+        "url": "https://www.animegg.org/clevatess-season-2-episode-1"
+      }
+    ]
   }
 ]
