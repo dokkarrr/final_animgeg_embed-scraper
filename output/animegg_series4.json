@@ -72222,5 +72222,51 @@
         "url": "https://www.animegg.org/urasekai-picnic-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3988,
+    "title": "Angel Cop",
+    "animegg_url": "https://www.animegg.org/series/angel-cop",
+    "mal_url": "https://myanimelist.net/anime/1351",
+    "mal_id": 1351,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/68446",
+        "dub": null,
+        "url": "https://www.animegg.org/angel-cop-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/68448",
+        "dub": null,
+        "url": "https://www.animegg.org/angel-cop-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/68450",
+        "dub": null,
+        "url": "https://www.animegg.org/angel-cop-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/68454",
+        "dub": null,
+        "url": "https://www.animegg.org/angel-cop-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/68455",
+        "dub": null,
+        "url": "https://www.animegg.org/angel-cop-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/68458",
+        "dub": null,
+        "url": "https://www.animegg.org/angel-cop-episode-6"
+      }
+    ]
   }
 ]
