@@ -70470,5 +70470,21 @@
         "url": "https://www.animegg.org/musekinin-galaxy-tylor-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3958,
+    "title": "Tsubasa to Hotaru",
+    "animegg_url": "https://www.animegg.org/series/tsubasa-to-hotaru",
+    "mal_url": "https://myanimelist.net/anime/21781",
+    "mal_id": 21781,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/64615",
+        "dub": null,
+        "url": "https://www.animegg.org/tsubasa-to-hotaru-episode-1"
+      }
+    ]
   }
 ]
