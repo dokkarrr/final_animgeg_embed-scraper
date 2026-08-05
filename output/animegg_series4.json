@@ -44332,5 +44332,87 @@
         "url": "https://www.animegg.org/ikkitousen-dragon-destiny-ova-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 3599,
+    "title": "Ride Back",
+    "animegg_url": "https://www.animegg.org/series/ride-back",
+    "mal_url": "https://myanimelist.net/anime/4618",
+    "mal_id": 4618,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/31852",
+        "dub": null,
+        "url": "https://www.animegg.org/ride-back-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/31849",
+        "dub": null,
+        "url": "https://www.animegg.org/ride-back-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/31850",
+        "dub": null,
+        "url": "https://www.animegg.org/ride-back-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/31851",
+        "dub": null,
+        "url": "https://www.animegg.org/ride-back-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/31848",
+        "dub": null,
+        "url": "https://www.animegg.org/ride-back-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/31853",
+        "dub": null,
+        "url": "https://www.animegg.org/ride-back-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/31856",
+        "dub": null,
+        "url": "https://www.animegg.org/ride-back-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/31855",
+        "dub": null,
+        "url": "https://www.animegg.org/ride-back-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/31854",
+        "dub": null,
+        "url": "https://www.animegg.org/ride-back-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/31857",
+        "dub": null,
+        "url": "https://www.animegg.org/ride-back-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/31858",
+        "dub": null,
+        "url": "https://www.animegg.org/ride-back-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/31859",
+        "dub": null,
+        "url": "https://www.animegg.org/ride-back-episode-12"
+      }
+    ]
   }
 ]
