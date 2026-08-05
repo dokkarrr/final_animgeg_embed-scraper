@@ -70932,5 +70932,51 @@
         "url": "https://www.animegg.org/usavich-ii-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3967,
+    "title": "Bikini Warriors OVA",
+    "animegg_url": "https://www.animegg.org/series/bikini-warriors-ova",
+    "mal_url": "https://myanimelist.net/anime/33712",
+    "mal_id": 33712,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/85123",
+        "dub": null,
+        "url": "https://www.animegg.org/bikini-warriors-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/85676",
+        "dub": null,
+        "url": "https://www.animegg.org/bikini-warriors-ova-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/132184",
+        "dub": null,
+        "url": "https://www.animegg.org/bikini-warriors-ova-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/132183",
+        "dub": null,
+        "url": "https://www.animegg.org/bikini-warriors-ova-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/132182",
+        "dub": null,
+        "url": "https://www.animegg.org/bikini-warriors-ova-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/132181",
+        "dub": null,
+        "url": "https://www.animegg.org/bikini-warriors-ova-episode-6"
+      }
+    ]
   }
 ]
