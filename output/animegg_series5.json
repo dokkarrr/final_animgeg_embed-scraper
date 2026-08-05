@@ -53879,5 +53879,21 @@
         "url": "https://www.animegg.org/idol-tenshi-youkoso-youko-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 6344,
+    "title": "Yama no Susume: Omoide Present",
+    "animegg_url": "https://www.animegg.org/series/yama-no-susume-omoide-present",
+    "mal_url": "https://myanimelist.net/anime/35673",
+    "mal_id": 35673,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/89508",
+        "dub": null,
+        "url": "https://www.animegg.org/yama-no-susume-omoide-present-episode-1"
+      }
+    ]
   }
 ]
