@@ -52340,5 +52340,21 @@
         "url": "https://www.animegg.org/fatekaleid-liner-prisma-9734-illya-specials-episode-5"
       }
     ]
+  },
+  {
+    "serial_no": 3711,
+    "title": "Kuroko no Basket: Saikou no Present Desu",
+    "animegg_url": "https://www.animegg.org/series/kuroko-no-basket-saikou-no-present-desu",
+    "mal_url": "https://myanimelist.net/anime/31051",
+    "mal_id": 31051,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/80512",
+        "dub": null,
+        "url": "https://www.animegg.org/kuroko-no-basket-saikou-no-present-desu-episode-1"
+      }
+    ]
   }
 ]
