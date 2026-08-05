@@ -19936,5 +19936,21 @@
         "url": "https://www.animegg.org/mary-to-majo-no-hana-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5968,
+    "title": "Eureka Seven: Hi-Evolution 1",
+    "animegg_url": "https://www.animegg.org/series/eureka-seven-hi-evolution-1",
+    "mal_url": "https://myanimelist.net/anime/35134",
+    "mal_id": 35134,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/92303",
+        "dub": "https://www.animegg.org/embed/92304",
+        "url": "https://www.animegg.org/eureka-seven-hi-evolution-1-episode-1"
+      }
+    ]
   }
 ]
