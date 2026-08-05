@@ -90508,5 +90508,81 @@
         "url": "https://www.animegg.org/stand-my-heroes-piece-of-truth-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4274,
+    "title": "Heike Monogatari",
+    "animegg_url": "https://www.animegg.org/series/heike-monogatari",
+    "mal_url": "https://myanimelist.net/anime/49738",
+    "mal_id": 49738,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/102773",
+        "dub": null,
+        "url": "https://www.animegg.org/heike-monogatari-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/102818",
+        "dub": null,
+        "url": "https://www.animegg.org/heike-monogatari-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/102878",
+        "dub": null,
+        "url": "https://www.animegg.org/heike-monogatari-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/102959",
+        "dub": null,
+        "url": "https://www.animegg.org/heike-monogatari-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/103032",
+        "dub": null,
+        "url": "https://www.animegg.org/heike-monogatari-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/103092",
+        "dub": null,
+        "url": "https://www.animegg.org/heike-monogatari-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/103159",
+        "dub": null,
+        "url": "https://www.animegg.org/heike-monogatari-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/103217",
+        "dub": null,
+        "url": "https://www.animegg.org/heike-monogatari-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/103278",
+        "dub": null,
+        "url": "https://www.animegg.org/heike-monogatari-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/103340",
+        "dub": null,
+        "url": "https://www.animegg.org/heike-monogatari-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/103399",
+        "dub": null,
+        "url": "https://www.animegg.org/heike-monogatari-episode-11"
+      }
+    ]
   }
 ]
