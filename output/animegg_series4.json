@@ -54844,5 +54844,21 @@
         "url": "https://www.animegg.org/ghost-in-the-shell-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3743,
+    "title": "Kantai Collection",
+    "animegg_url": "https://www.animegg.org/series/kantai-collection",
+    "mal_url": "https://myanimelist.net/anime/21511",
+    "mal_id": 21511,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/45796",
+        "dub": null,
+        "url": "https://www.animegg.org/kantai-collection-episode-1"
+      }
+    ]
   }
 ]
