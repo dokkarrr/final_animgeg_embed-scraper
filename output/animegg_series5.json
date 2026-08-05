@@ -8409,5 +8409,21 @@
         "url": "https://www.animegg.org/spice-and-wolf-ii-the-wolf-and-the-amber-melancholy-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5756,
+    "title": "Gundam: The 08th MS Team - Miller's Report",
+    "animegg_url": "https://www.animegg.org/series/gundam-the-08th-ms-team---millers-report",
+    "mal_url": "https://myanimelist.net/anime/83",
+    "mal_id": 83,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/53371",
+        "dub": "https://www.animegg.org/embed/53372",
+        "url": "https://www.animegg.org/gundam-the-08th-ms-team---millers-report-episode-1"
+      }
+    ]
   }
 ]
