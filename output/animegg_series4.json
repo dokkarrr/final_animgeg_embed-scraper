@@ -127814,5 +127814,75 @@
         "url": "https://www.animegg.org/queens-blade-rebellion-vs-hagure-yuusha-no-estetica-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4848,
+    "title": "Idol Land PriPara",
+    "animegg_url": "https://www.animegg.org/series/idol-land-pripara",
+    "mal_url": "https://myanimelist.net/anime/44376",
+    "mal_id": 44376,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/107889",
+        "dub": "https://www.animegg.org/embed/107890",
+        "url": "https://www.animegg.org/idol-land-pripara-episode-0"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/107891",
+        "dub": null,
+        "url": "https://www.animegg.org/idol-land-pripara-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/107892",
+        "dub": null,
+        "url": "https://www.animegg.org/idol-land-pripara-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/idol-land-pripara-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/idol-land-pripara-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/132724",
+        "dub": null,
+        "url": "https://www.animegg.org/idol-land-pripara-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/133216",
+        "dub": null,
+        "url": "https://www.animegg.org/idol-land-pripara-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/133688",
+        "dub": null,
+        "url": "https://www.animegg.org/idol-land-pripara-episode-7"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/136418",
+        "dub": null,
+        "url": "https://www.animegg.org/idol-land-pripara-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/138990",
+        "dub": null,
+        "url": "https://www.animegg.org/idol-land-pripara-episode-10"
+      }
+    ]
   }
 ]
