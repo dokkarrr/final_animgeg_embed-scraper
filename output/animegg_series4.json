@@ -41542,5 +41542,93 @@
         "url": "https://www.animegg.org/narihero-www-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3563,
+    "title": "Ninja Kamui",
+    "animegg_url": "https://www.animegg.org/series/ninja-kamui",
+    "mal_url": "https://myanimelist.net/anime/56285",
+    "mal_id": 56285,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/132934",
+        "dub": null,
+        "url": "https://www.animegg.org/ninja-kamui-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/133014",
+        "dub": null,
+        "url": "https://www.animegg.org/ninja-kamui-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/133097",
+        "dub": null,
+        "url": "https://www.animegg.org/ninja-kamui-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/133173",
+        "dub": null,
+        "url": "https://www.animegg.org/ninja-kamui-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/133257",
+        "dub": null,
+        "url": "https://www.animegg.org/ninja-kamui-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/133342",
+        "dub": null,
+        "url": "https://www.animegg.org/ninja-kamui-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/133439",
+        "dub": null,
+        "url": "https://www.animegg.org/ninja-kamui-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/133509",
+        "dub": null,
+        "url": "https://www.animegg.org/ninja-kamui-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/133556",
+        "dub": null,
+        "url": "https://www.animegg.org/ninja-kamui-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/133646",
+        "dub": null,
+        "url": "https://www.animegg.org/ninja-kamui-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/133736",
+        "dub": null,
+        "url": "https://www.animegg.org/ninja-kamui-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/133827",
+        "dub": null,
+        "url": "https://www.animegg.org/ninja-kamui-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/133967",
+        "dub": null,
+        "url": "https://www.animegg.org/ninja-kamui-episode-13"
+      }
+    ]
   }
 ]
