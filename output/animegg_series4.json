@@ -112796,5 +112796,75 @@
         "url": "https://www.animegg.org/lupin-the-iiird-jigen-daisuke-no-bohyou-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 4626,
+    "title": "Fight Da!! Pyuta",
+    "animegg_url": "https://www.animegg.org/series/fight-da-pyuta",
+    "mal_url": "https://myanimelist.net/anime/19997",
+    "mal_id": 19997,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/130308",
+        "dub": null,
+        "url": "https://www.animegg.org/fight-da-pyuta-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/130936",
+        "dub": null,
+        "url": "https://www.animegg.org/fight-da-pyuta-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/131385",
+        "dub": null,
+        "url": "https://www.animegg.org/fight-da-pyuta-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/131854",
+        "dub": null,
+        "url": "https://www.animegg.org/fight-da-pyuta-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/132247",
+        "dub": null,
+        "url": "https://www.animegg.org/fight-da-pyuta-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/132805",
+        "dub": null,
+        "url": "https://www.animegg.org/fight-da-pyuta-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/133131",
+        "dub": null,
+        "url": "https://www.animegg.org/fight-da-pyuta-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/136419",
+        "dub": null,
+        "url": "https://www.animegg.org/fight-da-pyuta-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/137453",
+        "dub": null,
+        "url": "https://www.animegg.org/fight-da-pyuta-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/138419",
+        "dub": null,
+        "url": "https://www.animegg.org/fight-da-pyuta-episode-10"
+      }
+    ]
   }
 ]
