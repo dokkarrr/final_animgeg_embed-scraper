@@ -13414,5 +13414,93 @@
         "url": "https://www.animegg.org/niea-under-7-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3242,
+    "title": "Fuujin Monogatari",
+    "animegg_url": "https://www.animegg.org/series/fuujin-monogatari",
+    "mal_url": "https://myanimelist.net/anime/1524",
+    "mal_id": 1524,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/49510",
+        "dub": null,
+        "url": "https://www.animegg.org/fuujin-monogatari-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/49511",
+        "dub": null,
+        "url": "https://www.animegg.org/fuujin-monogatari-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/49512",
+        "dub": null,
+        "url": "https://www.animegg.org/fuujin-monogatari-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/49513",
+        "dub": null,
+        "url": "https://www.animegg.org/fuujin-monogatari-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/49514",
+        "dub": null,
+        "url": "https://www.animegg.org/fuujin-monogatari-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/49515",
+        "dub": null,
+        "url": "https://www.animegg.org/fuujin-monogatari-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/49516",
+        "dub": null,
+        "url": "https://www.animegg.org/fuujin-monogatari-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/49517",
+        "dub": null,
+        "url": "https://www.animegg.org/fuujin-monogatari-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/49518",
+        "dub": null,
+        "url": "https://www.animegg.org/fuujin-monogatari-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/49519",
+        "dub": null,
+        "url": "https://www.animegg.org/fuujin-monogatari-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/49520",
+        "dub": null,
+        "url": "https://www.animegg.org/fuujin-monogatari-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/49521",
+        "dub": null,
+        "url": "https://www.animegg.org/fuujin-monogatari-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/49522",
+        "dub": null,
+        "url": "https://www.animegg.org/fuujin-monogatari-episode-13"
+      }
+    ]
   }
 ]
