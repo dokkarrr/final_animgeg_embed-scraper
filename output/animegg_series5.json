@@ -3656,5 +3656,21 @@
         "url": "https://www.animegg.org/city-hunter---death-of-evil-ryo-saeba-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5670,
+    "title": "Amefuri Kozou",
+    "animegg_url": "https://www.animegg.org/series/amefuri-kozou",
+    "mal_url": "https://myanimelist.net/anime/6462",
+    "mal_id": 6462,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/65801",
+        "dub": "https://www.animegg.org/embed/65802",
+        "url": "https://www.animegg.org/amefuri-kozou-episode-1"
+      }
+    ]
   }
 ]
