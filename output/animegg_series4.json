@@ -27616,5 +27616,93 @@
         "url": "https://www.animegg.org/hoshi-no-samidare-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 3395,
+    "title": "Sketchbook: Full Color's",
+    "animegg_url": "https://www.animegg.org/series/sketchbook-full-colors",
+    "mal_url": "https://myanimelist.net/anime/2942",
+    "mal_id": 2942,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/61679",
+        "dub": null,
+        "url": "https://www.animegg.org/sketchbook-full-colors-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/61680",
+        "dub": null,
+        "url": "https://www.animegg.org/sketchbook-full-colors-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/61681",
+        "dub": null,
+        "url": "https://www.animegg.org/sketchbook-full-colors-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/61682",
+        "dub": null,
+        "url": "https://www.animegg.org/sketchbook-full-colors-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/61683",
+        "dub": null,
+        "url": "https://www.animegg.org/sketchbook-full-colors-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/61684",
+        "dub": null,
+        "url": "https://www.animegg.org/sketchbook-full-colors-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/61685",
+        "dub": null,
+        "url": "https://www.animegg.org/sketchbook-full-colors-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/61686",
+        "dub": null,
+        "url": "https://www.animegg.org/sketchbook-full-colors-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/61687",
+        "dub": null,
+        "url": "https://www.animegg.org/sketchbook-full-colors-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/61688",
+        "dub": null,
+        "url": "https://www.animegg.org/sketchbook-full-colors-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/61689",
+        "dub": null,
+        "url": "https://www.animegg.org/sketchbook-full-colors-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/61690",
+        "dub": null,
+        "url": "https://www.animegg.org/sketchbook-full-colors-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/61691",
+        "dub": null,
+        "url": "https://www.animegg.org/sketchbook-full-colors-episode-13"
+      }
+    ]
   }
 ]
