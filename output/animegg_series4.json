@@ -121612,5 +121612,21 @@
         "url": "https://www.animegg.org/chuubyou-gekihatsu-boy-episode-11"
       }
     ]
+  },
+  {
+    "serial_no": 4754,
+    "title": "Rurouni Kenshin Movie",
+    "animegg_url": "https://www.animegg.org/series/rurouni-kenshin-movie",
+    "mal_url": "https://myanimelist.net/anime/46",
+    "mal_id": 46,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/61494",
+        "dub": null,
+        "url": "https://www.animegg.org/rurouni-kenshin-movie-episode-1"
+      }
+    ]
   }
 ]
