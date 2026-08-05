@@ -24638,5 +24638,21 @@
         "url": "https://www.animegg.org/boku-no-imouto-wa-osaka-okan-episode-15-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6023,
+    "title": "Natsuiro Kiseki OVA",
+    "animegg_url": "https://www.animegg.org/series/natsuiro-kiseki-ova",
+    "mal_url": "https://myanimelist.net/anime/15431",
+    "mal_id": 15431,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/26915",
+        "dub": null,
+        "url": "https://www.animegg.org/natsuiro-kiseki-ova-episode-1"
+      }
+    ]
   }
 ]
