@@ -112338,5 +112338,21 @@
         "url": "https://www.animegg.org/spy-kyoushitsu-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4615,
+    "title": "Tengen Toppa Gurren Lagann Movie: Gurren-hen",
+    "animegg_url": "https://www.animegg.org/series/tengen-toppa-gurren-lagann-movie-gurren-hen",
+    "mal_url": "https://myanimelist.net/anime/2001",
+    "mal_id": 2001,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/51699",
+        "dub": null,
+        "url": "https://www.animegg.org/tengen-toppa-gurren-lagann-movie-gurren-hen-episode-1"
+      }
+    ]
   }
 ]
