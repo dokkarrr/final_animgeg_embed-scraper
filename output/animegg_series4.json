@@ -115396,5 +115396,21 @@
         "url": "https://www.animegg.org/baldr-force-exe-resolution-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 4664,
+    "title": "Tales of Zestiria: Doushi no Yoake",
+    "animegg_url": "https://www.animegg.org/series/tales-of-zestiria-doushi-no-yoake",
+    "mal_url": "https://myanimelist.net/anime/24459",
+    "mal_id": 24459,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/67805",
+        "dub": "https://www.animegg.org/embed/67819",
+        "url": "https://www.animegg.org/tales-of-zestiria-doushi-no-yoake-episode-1"
+      }
+    ]
   }
 ]
