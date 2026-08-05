@@ -28856,5 +28856,21 @@
         "url": "https://www.animegg.org/bang-dream-garupa-pico-fever-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 6086,
+    "title": "Shoujo Kakumei Utena: Adolescence Mokushiroku",
+    "animegg_url": "https://www.animegg.org/series/shoujo-kakumei-utena-adolescence-mokushiroku",
+    "mal_url": "https://myanimelist.net/anime/441",
+    "mal_id": 441,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/61381",
+        "dub": "https://www.animegg.org/embed/61382",
+        "url": "https://www.animegg.org/shoujo-kakumei-utena-adolescence-mokushiroku-episode-1"
+      }
+    ]
   }
 ]
