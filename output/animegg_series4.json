@@ -133210,5 +133210,27 @@
         "url": "https://www.animegg.org/king-of-prism-shiny-seven-stars-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4931,
+    "title": "Saiki Kusuo no Ψ-nan: Kanketsu-hen",
+    "animegg_url": "https://www.animegg.org/series/saiki-kusuo-no--nan-kanketsu-hen",
+    "mal_url": "https://myanimelist.net/anime/38249",
+    "mal_id": 38249,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/94210",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-kanketsu-hen-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/94211",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-kanketsu-hen-episode-2"
+      }
+    ]
   }
 ]
