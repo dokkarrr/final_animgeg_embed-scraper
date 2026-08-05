@@ -70844,5 +70844,93 @@
         "url": "https://www.animegg.org/majo-to-yajuu-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3966,
+    "title": "Usavich II",
+    "animegg_url": "https://www.animegg.org/series/usavich-ii",
+    "mal_url": "https://myanimelist.net/anime/3738",
+    "mal_id": 3738,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/65088",
+        "dub": null,
+        "url": "https://www.animegg.org/usavich-ii-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/65089",
+        "dub": null,
+        "url": "https://www.animegg.org/usavich-ii-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/65090",
+        "dub": null,
+        "url": "https://www.animegg.org/usavich-ii-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/65091",
+        "dub": null,
+        "url": "https://www.animegg.org/usavich-ii-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/65092",
+        "dub": null,
+        "url": "https://www.animegg.org/usavich-ii-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/65093",
+        "dub": null,
+        "url": "https://www.animegg.org/usavich-ii-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/65094",
+        "dub": null,
+        "url": "https://www.animegg.org/usavich-ii-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/65095",
+        "dub": null,
+        "url": "https://www.animegg.org/usavich-ii-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/65096",
+        "dub": null,
+        "url": "https://www.animegg.org/usavich-ii-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/65097",
+        "dub": null,
+        "url": "https://www.animegg.org/usavich-ii-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/65098",
+        "dub": null,
+        "url": "https://www.animegg.org/usavich-ii-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/65099",
+        "dub": null,
+        "url": "https://www.animegg.org/usavich-ii-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/65100",
+        "dub": null,
+        "url": "https://www.animegg.org/usavich-ii-episode-13"
+      }
+    ]
   }
 ]
