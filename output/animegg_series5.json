@@ -105152,5 +105152,21 @@
         "url": "https://www.animegg.org/jojo-s-bizarre-adventure-dub-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 6775,
+    "title": "Precure Super Stars! Movie",
+    "animegg_url": "https://www.animegg.org/series/precure-super-stars-movie",
+    "mal_url": "https://myanimelist.net/anime/36995",
+    "mal_id": 36995,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/94152",
+        "dub": null,
+        "url": "https://www.animegg.org/precure-super-stars-movie-episode-1"
+      }
+    ]
   }
 ]
