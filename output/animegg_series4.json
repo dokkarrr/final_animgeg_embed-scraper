@@ -110100,5 +110100,21 @@
         "url": "https://www.animegg.org/tonari-no-youkai-san-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 4570,
+    "title": "Bungou Stray Dogs: Dead Apple",
+    "animegg_url": "https://www.animegg.org/series/bungou-stray-dogs-dead-apple",
+    "mal_url": "https://myanimelist.net/anime/34944",
+    "mal_id": 34944,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/92721",
+        "dub": null,
+        "url": "https://www.animegg.org/bungou-stray-dogs-dead-apple-episode-1"
+      }
+    ]
   }
 ]
