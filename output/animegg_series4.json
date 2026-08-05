@@ -62390,5 +62390,51 @@
         "url": "https://www.animegg.org/oroka-na-tenshi-wa-akuma-to-odoru-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3843,
+    "title": "Eve no Jikan",
+    "animegg_url": "https://www.animegg.org/series/time-of-eve",
+    "mal_url": "https://myanimelist.net/anime/3167",
+    "mal_id": 3167,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/38135",
+        "dub": null,
+        "url": "https://www.animegg.org/time-of-eve-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/38136",
+        "dub": null,
+        "url": "https://www.animegg.org/time-of-eve-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/38137",
+        "dub": null,
+        "url": "https://www.animegg.org/time-of-eve-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/38133",
+        "dub": null,
+        "url": "https://www.animegg.org/time-of-eve-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/38134",
+        "dub": null,
+        "url": "https://www.animegg.org/time-of-eve-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/38138",
+        "dub": null,
+        "url": "https://www.animegg.org/time-of-eve-episode-6"
+      }
+    ]
   }
 ]
