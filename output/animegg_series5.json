@@ -58189,5 +58189,75 @@
         "url": "https://www.animegg.org/bakugan-new-vestroia-dub-episode-52"
       }
     ]
+  },
+  {
+    "serial_no": 6385,
+    "title": "Grisaia: Phantom Trigger",
+    "animegg_url": "https://www.animegg.org/series/grisaia-phantom-trigger",
+    "mal_url": "https://myanimelist.net/anime/51119",
+    "mal_id": 51119,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/139401",
+        "dub": null,
+        "url": "https://www.animegg.org/grisaia-phantom-trigger-episode-3"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/139536",
+        "dub": null,
+        "url": "https://www.animegg.org/grisaia-phantom-trigger-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/139637",
+        "dub": null,
+        "url": "https://www.animegg.org/grisaia-phantom-trigger-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/139734",
+        "dub": null,
+        "url": "https://www.animegg.org/grisaia-phantom-trigger-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/139814",
+        "dub": null,
+        "url": "https://www.animegg.org/grisaia-phantom-trigger-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/139919",
+        "dub": null,
+        "url": "https://www.animegg.org/grisaia-phantom-trigger-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/140011",
+        "dub": null,
+        "url": "https://www.animegg.org/grisaia-phantom-trigger-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/140101",
+        "dub": null,
+        "url": "https://www.animegg.org/grisaia-phantom-trigger-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/140192",
+        "dub": null,
+        "url": "https://www.animegg.org/grisaia-phantom-trigger-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/140271",
+        "dub": null,
+        "url": "https://www.animegg.org/grisaia-phantom-trigger-episode-13"
+      }
+    ]
   }
 ]
