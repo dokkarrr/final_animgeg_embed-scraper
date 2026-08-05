@@ -95530,5 +95530,21 @@
         "url": "https://www.animegg.org/the-exiled-heavy-knight-knows-how-to-game-the-system-episode-5"
       }
     ]
+  },
+  {
+    "serial_no": 4346,
+    "title": "Paprika",
+    "animegg_url": "https://www.animegg.org/series/paprika",
+    "mal_url": "https://myanimelist.net/anime/1943",
+    "mal_id": 1943,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66049",
+        "dub": null,
+        "url": "https://www.animegg.org/paprika-episode-1"
+      }
+    ]
   }
 ]
