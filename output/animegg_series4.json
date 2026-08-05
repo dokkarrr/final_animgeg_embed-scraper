@@ -36954,5 +36954,93 @@
         "url": "https://www.animegg.org/sword-gai-the-animation-part-ii-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3499,
+    "title": "Watashitachi, Luck Logic-bu!",
+    "animegg_url": "https://www.animegg.org/series/watashitachi-luck-logic-bu",
+    "mal_url": "https://myanimelist.net/anime/32084",
+    "mal_id": 32084,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/81318",
+        "dub": null,
+        "url": "https://www.animegg.org/watashitachi-luck-logic-bu-episode"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/114259",
+        "dub": null,
+        "url": "https://www.animegg.org/watashitachi-luck-logic-bu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/81319",
+        "dub": "https://www.animegg.org/embed/114255",
+        "url": "https://www.animegg.org/watashitachi-luck-logic-bu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/81320",
+        "dub": "https://www.animegg.org/embed/114254",
+        "url": "https://www.animegg.org/watashitachi-luck-logic-bu-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/81321",
+        "dub": "https://www.animegg.org/embed/114253",
+        "url": "https://www.animegg.org/watashitachi-luck-logic-bu-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/81322",
+        "dub": "https://www.animegg.org/embed/114252",
+        "url": "https://www.animegg.org/watashitachi-luck-logic-bu-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/81323",
+        "dub": "https://www.animegg.org/embed/114251",
+        "url": "https://www.animegg.org/watashitachi-luck-logic-bu-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/81324",
+        "dub": "https://www.animegg.org/embed/114250",
+        "url": "https://www.animegg.org/watashitachi-luck-logic-bu-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/81325",
+        "dub": "https://www.animegg.org/embed/114249",
+        "url": "https://www.animegg.org/watashitachi-luck-logic-bu-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/81420",
+        "dub": "https://www.animegg.org/embed/114248",
+        "url": "https://www.animegg.org/watashitachi-luck-logic-bu-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/114258",
+        "dub": null,
+        "url": "https://www.animegg.org/watashitachi-luck-logic-bu-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/114257",
+        "dub": null,
+        "url": "https://www.animegg.org/watashitachi-luck-logic-bu-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/114256",
+        "dub": null,
+        "url": "https://www.animegg.org/watashitachi-luck-logic-bu-episode-12"
+      }
+    ]
   }
 ]
