@@ -135125,5 +135125,69 @@
         "url": "https://www.animegg.org/arp-backstage-pass-episode-11"
       }
     ]
+  },
+  {
+    "serial_no": 4960,
+    "title": "Dekoboko Majo no Oyako Jijou",
+    "animegg_url": "https://www.animegg.org/series/dekoboko-majo-no-oyako-jijou",
+    "mal_url": "https://myanimelist.net/anime/52985",
+    "mal_id": 52985,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/131554",
+        "dub": null,
+        "url": "https://www.animegg.org/dekoboko-majo-no-oyako-jijou-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/131558",
+        "dub": null,
+        "url": "https://www.animegg.org/dekoboko-majo-no-oyako-jijou-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/131678",
+        "dub": null,
+        "url": "https://www.animegg.org/dekoboko-majo-no-oyako-jijou-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/131796",
+        "dub": null,
+        "url": "https://www.animegg.org/dekoboko-majo-no-oyako-jijou-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/131905",
+        "dub": null,
+        "url": "https://www.animegg.org/dekoboko-majo-no-oyako-jijou-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/dekoboko-majo-no-oyako-jijou-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/dekoboko-majo-no-oyako-jijou-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/132192",
+        "dub": null,
+        "url": "https://www.animegg.org/dekoboko-majo-no-oyako-jijou-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/132305",
+        "dub": null,
+        "url": "https://www.animegg.org/dekoboko-majo-no-oyako-jijou-episode-9"
+      }
+    ]
   }
 ]
