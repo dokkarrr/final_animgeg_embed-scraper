@@ -108982,5 +108982,45 @@
         "url": "https://www.animegg.org/ling-tian-divine-emperor-episode-40"
       }
     ]
+  },
+  {
+    "serial_no": 6812,
+    "title": "Sparks of Tomorrow",
+    "animegg_url": "https://www.animegg.org/series/sparks-of-tomorrow",
+    "mal_url": "https://myanimelist.net/anime/62856",
+    "mal_id": 62856,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/146339",
+        "dub": null,
+        "url": "https://www.animegg.org/sparks-of-tomorrow-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/146404",
+        "dub": "https://www.animegg.org/embed/146415",
+        "url": "https://www.animegg.org/sparks-of-tomorrow-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/146496",
+        "dub": "https://www.animegg.org/embed/146504",
+        "url": "https://www.animegg.org/sparks-of-tomorrow-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/146563",
+        "dub": null,
+        "url": "https://www.animegg.org/sparks-of-tomorrow-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/146639",
+        "dub": null,
+        "url": "https://www.animegg.org/sparks-of-tomorrow-episode-5"
+      }
+    ]
   }
 ]
