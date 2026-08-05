@@ -68882,5 +68882,27 @@
         "url": "https://www.animegg.org/akuyaku-reijou-nanode-last-boss-wo-kattemimashita-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3927,
+    "title": "Yamada-kun to 7-nin no Majo (OVA)",
+    "animegg_url": "https://www.animegg.org/series/yamada-kun-to-7-nin-no-majo-ova",
+    "mal_url": "https://myanimelist.net/anime/28677",
+    "mal_id": 28677,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/76801",
+        "dub": "https://www.animegg.org/embed/76944",
+        "url": "https://www.animegg.org/yamada-kun-to-7-nin-no-majo-ova-episode-2"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/67738",
+        "dub": null,
+        "url": "https://www.animegg.org/yamada-kun-to-7-nin-no-majo-ova-episode-1"
+      }
+    ]
   }
 ]
