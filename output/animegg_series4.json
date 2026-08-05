@@ -111624,5 +111624,87 @@
         "url": "https://www.animegg.org/guilty-crown-kiseki-reassortment-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4603,
+    "title": "Hana-Kimi",
+    "animegg_url": "https://www.animegg.org/series/hana-kimi",
+    "mal_url": "https://myanimelist.net/anime/58861",
+    "mal_id": 58861,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/144051",
+        "dub": "https://www.animegg.org/embed/144053",
+        "url": "https://www.animegg.org/hana-kimi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/144054",
+        "dub": "https://www.animegg.org/embed/144055",
+        "url": "https://www.animegg.org/hana-kimi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/144151",
+        "dub": "https://www.animegg.org/embed/144157",
+        "url": "https://www.animegg.org/hana-kimi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/144252",
+        "dub": "https://www.animegg.org/embed/144254",
+        "url": "https://www.animegg.org/hana-kimi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/144368",
+        "dub": "https://www.animegg.org/embed/144378",
+        "url": "https://www.animegg.org/hana-kimi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/144470",
+        "dub": "https://www.animegg.org/embed/144479",
+        "url": "https://www.animegg.org/hana-kimi-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/144572",
+        "dub": "https://www.animegg.org/embed/144580",
+        "url": "https://www.animegg.org/hana-kimi-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/144662",
+        "dub": "https://www.animegg.org/embed/144675",
+        "url": "https://www.animegg.org/hana-kimi-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/144762",
+        "dub": "https://www.animegg.org/embed/144780",
+        "url": "https://www.animegg.org/hana-kimi-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/144878",
+        "dub": "https://www.animegg.org/embed/144893",
+        "url": "https://www.animegg.org/hana-kimi-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/144988",
+        "dub": "https://www.animegg.org/embed/145000",
+        "url": "https://www.animegg.org/hana-kimi-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/145092",
+        "dub": "https://www.animegg.org/embed/145106",
+        "url": "https://www.animegg.org/hana-kimi-episode-12"
+      }
+    ]
   }
 ]
