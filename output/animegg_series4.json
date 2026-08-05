@@ -79626,5 +79626,39 @@
         "url": "https://www.animegg.org/watashi-no-yuri-wa-oshigoto-desu-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4114,
+    "title": "3x3 Eyes",
+    "animegg_url": "https://www.animegg.org/series/3x3-eyes",
+    "mal_url": "https://myanimelist.net/anime/300",
+    "mal_id": 300,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/25121",
+        "dub": null,
+        "url": "https://www.animegg.org/3x3-eyes-episode-4"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/25120",
+        "dub": null,
+        "url": "https://www.animegg.org/3x3-eyes-episode-3"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/25119",
+        "dub": null,
+        "url": "https://www.animegg.org/3x3-eyes-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/25118",
+        "dub": null,
+        "url": "https://www.animegg.org/3x3-eyes-episode-1"
+      }
+    ]
   }
 ]
