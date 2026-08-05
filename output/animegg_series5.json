@@ -54833,5 +54833,21 @@
         "url": "https://www.animegg.org/voltron-vehicle-force-episode-52"
       }
     ]
+  },
+  {
+    "serial_no": 6350,
+    "title": "Made in Abyss Movie 2: Hourou Suru Tasogare",
+    "animegg_url": "https://www.animegg.org/series/made-in-abyss-movie-2-hourou-suru-tasogare",
+    "mal_url": "https://myanimelist.net/anime/37515",
+    "mal_id": 37515,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/97641",
+        "dub": null,
+        "url": "https://www.animegg.org/made-in-abyss-movie-2-hourou-suru-tasogare-episode-1"
+      }
+    ]
   }
 ]
