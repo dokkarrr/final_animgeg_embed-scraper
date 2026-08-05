@@ -136757,5 +136757,45 @@
         "url": "https://www.animegg.org/code-geass-nunnally-in-wonderland-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4975,
+    "title": "Tenpou Ibun Ayakashi Ayashi Inferno OVA",
+    "animegg_url": "https://www.animegg.org/series/tenpou-ibun-ayakashi-ayashi-inferno-ova",
+    "mal_url": "https://myanimelist.net/anime/1587",
+    "mal_id": 1587,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/63356",
+        "dub": "https://www.animegg.org/embed/63357",
+        "url": "https://www.animegg.org/tenpou-ibun-ayakashi-ayashi-inferno-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/63358",
+        "dub": "https://www.animegg.org/embed/63359",
+        "url": "https://www.animegg.org/tenpou-ibun-ayakashi-ayashi-inferno-ova-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/63360",
+        "dub": "https://www.animegg.org/embed/63361",
+        "url": "https://www.animegg.org/tenpou-ibun-ayakashi-ayashi-inferno-ova-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/63362",
+        "dub": "https://www.animegg.org/embed/63363",
+        "url": "https://www.animegg.org/tenpou-ibun-ayakashi-ayashi-inferno-ova-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/63364",
+        "dub": "https://www.animegg.org/embed/63365",
+        "url": "https://www.animegg.org/tenpou-ibun-ayakashi-ayashi-inferno-ova-episode-5"
+      }
+    ]
   }
 ]
