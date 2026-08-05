@@ -73222,5 +73222,33 @@
         "url": "https://www.animegg.org/ryza-no-atelier-tokoyami-no-joou-to-himitsu-no-kakurega-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4004,
+    "title": "Owarimonogatari 2nd Season",
+    "animegg_url": "https://www.animegg.org/series/owarimonogatari-2nd-season",
+    "mal_url": "https://myanimelist.net/anime/35247",
+    "mal_id": 35247,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/88008",
+        "dub": null,
+        "url": "https://www.animegg.org/owarimonogatari-2nd-season-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/87936",
+        "dub": null,
+        "url": "https://www.animegg.org/owarimonogatari-2nd-season-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/87904",
+        "dub": null,
+        "url": "https://www.animegg.org/owarimonogatari-2nd-season-episode-1"
+      }
+    ]
   }
 ]
