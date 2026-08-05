@@ -2230,5 +2230,87 @@
         "url": "https://www.animegg.org/sanrio-danshi-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3101,
+    "title": "The Water Magician",
+    "animegg_url": "https://www.animegg.org/series/the-water-magician",
+    "mal_url": "https://myanimelist.net/anime/60732",
+    "mal_id": 60732,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/141550",
+        "dub": "https://www.animegg.org/embed/141778",
+        "url": "https://www.animegg.org/the-water-magician-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/141656",
+        "dub": "https://www.animegg.org/embed/141884",
+        "url": "https://www.animegg.org/the-water-magician-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/141773",
+        "dub": "https://www.animegg.org/embed/142001",
+        "url": "https://www.animegg.org/the-water-magician-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/141885",
+        "dub": "https://www.animegg.org/embed/142123",
+        "url": "https://www.animegg.org/the-water-magician-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/141999",
+        "dub": "https://www.animegg.org/embed/142360",
+        "url": "https://www.animegg.org/the-water-magician-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/142240",
+        "dub": null,
+        "url": "https://www.animegg.org/the-water-magician-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/142359",
+        "dub": "https://www.animegg.org/embed/142465",
+        "url": "https://www.animegg.org/the-water-magician-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/142497",
+        "dub": null,
+        "url": "https://www.animegg.org/the-water-magician-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/142462",
+        "dub": "https://www.animegg.org/embed/142617",
+        "url": "https://www.animegg.org/the-water-magician-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/142486",
+        "dub": "https://www.animegg.org/embed/142700",
+        "url": "https://www.animegg.org/the-water-magician-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/142613",
+        "dub": "https://www.animegg.org/embed/142788",
+        "url": "https://www.animegg.org/the-water-magician-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/142701",
+        "dub": "https://www.animegg.org/embed/142842",
+        "url": "https://www.animegg.org/the-water-magician-episode-12"
+      }
+    ]
   }
 ]
