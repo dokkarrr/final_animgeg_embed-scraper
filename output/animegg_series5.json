@@ -13661,5 +13661,21 @@
         "url": "https://www.animegg.org/asagao-to-kase-san-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5833,
+    "title": "Kekkai Sensen: Ousama no Restaurant no Ousama",
+    "animegg_url": "https://www.animegg.org/series/kekkai-sensen-ousama-no-restaurant-no-ousama",
+    "mal_url": "https://myanimelist.net/anime/32574",
+    "mal_id": 32574,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/85210",
+        "dub": null,
+        "url": "https://www.animegg.org/kekkai-sensen-ousama-no-restaurant-no-ousama-episode-1"
+      }
+    ]
   }
 ]
