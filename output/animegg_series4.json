@@ -20374,5 +20374,93 @@
         "url": "https://www.animegg.org/urusei-yatsura-2022-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3314,
+    "title": "Yama no Susume: Third Season",
+    "animegg_url": "https://www.animegg.org/series/yama-no-susume-third-season",
+    "mal_url": "https://myanimelist.net/anime/35672",
+    "mal_id": 35672,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/91727",
+        "dub": null,
+        "url": "https://www.animegg.org/yama-no-susume-third-season-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/91814",
+        "dub": null,
+        "url": "https://www.animegg.org/yama-no-susume-third-season-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/91876",
+        "dub": null,
+        "url": "https://www.animegg.org/yama-no-susume-third-season-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/92007",
+        "dub": null,
+        "url": "https://www.animegg.org/yama-no-susume-third-season-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/92105",
+        "dub": null,
+        "url": "https://www.animegg.org/yama-no-susume-third-season-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/92204",
+        "dub": null,
+        "url": "https://www.animegg.org/yama-no-susume-third-season-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/92281",
+        "dub": null,
+        "url": "https://www.animegg.org/yama-no-susume-third-season-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/92434",
+        "dub": null,
+        "url": "https://www.animegg.org/yama-no-susume-third-season-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/92622",
+        "dub": null,
+        "url": "https://www.animegg.org/yama-no-susume-third-season-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/92748",
+        "dub": null,
+        "url": "https://www.animegg.org/yama-no-susume-third-season-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/92819",
+        "dub": null,
+        "url": "https://www.animegg.org/yama-no-susume-third-season-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/92898",
+        "dub": null,
+        "url": "https://www.animegg.org/yama-no-susume-third-season-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/93000",
+        "dub": null,
+        "url": "https://www.animegg.org/yama-no-susume-third-season-episode-13"
+      }
+    ]
   }
 ]
