@@ -64485,5 +64485,51 @@
         "url": "https://www.animegg.org/urusei-yatsura-movie-2-beautiful-dreamer-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6441,
+    "title": "Bastard!! Ankoku no Hakaishin (ONA)",
+    "animegg_url": "https://www.animegg.org/series/bastard-ankoku-no-hakaishin-ona",
+    "mal_url": "https://myanimelist.net/anime/50953",
+    "mal_id": 50953,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/105179",
+        "dub": null,
+        "url": "https://www.animegg.org/bastard-ankoku-no-hakaishin-ona-episode-1"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/105176",
+        "dub": null,
+        "url": "https://www.animegg.org/bastard-ankoku-no-hakaishin-ona-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/105177",
+        "dub": null,
+        "url": "https://www.animegg.org/bastard-ankoku-no-hakaishin-ona-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/105178",
+        "dub": null,
+        "url": "https://www.animegg.org/bastard-ankoku-no-hakaishin-ona-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/105859",
+        "dub": null,
+        "url": "https://www.animegg.org/bastard-ankoku-no-hakaishin-ona-episode-14"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/105860",
+        "dub": null,
+        "url": "https://www.animegg.org/bastard-ankoku-no-hakaishin-ona-episode-24"
+      }
+    ]
   }
 ]
