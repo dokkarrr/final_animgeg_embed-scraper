@@ -24362,5 +24362,93 @@
         "url": "https://www.animegg.org/the-klutzy-class-monitor-and-the-girl-with-the-short-skirt-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3354,
+    "title": "Run=Dim",
+    "animegg_url": "https://www.animegg.org/series/run-dim",
+    "mal_url": "https://myanimelist.net/anime/2362",
+    "mal_id": 2362,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/61560",
+        "dub": null,
+        "url": "https://www.animegg.org/run-dim-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/61561",
+        "dub": null,
+        "url": "https://www.animegg.org/run-dim-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/61562",
+        "dub": null,
+        "url": "https://www.animegg.org/run-dim-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/61563",
+        "dub": null,
+        "url": "https://www.animegg.org/run-dim-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/61564",
+        "dub": null,
+        "url": "https://www.animegg.org/run-dim-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/61565",
+        "dub": null,
+        "url": "https://www.animegg.org/run-dim-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/61566",
+        "dub": null,
+        "url": "https://www.animegg.org/run-dim-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/61567",
+        "dub": null,
+        "url": "https://www.animegg.org/run-dim-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/61568",
+        "dub": null,
+        "url": "https://www.animegg.org/run-dim-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/61569",
+        "dub": null,
+        "url": "https://www.animegg.org/run-dim-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/61570",
+        "dub": null,
+        "url": "https://www.animegg.org/run-dim-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/61571",
+        "dub": null,
+        "url": "https://www.animegg.org/run-dim-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/61572",
+        "dub": null,
+        "url": "https://www.animegg.org/run-dim-episode-13"
+      }
+    ]
   }
 ]
