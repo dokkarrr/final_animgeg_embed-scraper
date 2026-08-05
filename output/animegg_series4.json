@@ -137605,5 +137605,69 @@
         "url": "https://www.animegg.org/kusoge-tte-iuna-animation-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4992,
+    "title": "Detectives These Days Are Crazy!",
+    "animegg_url": "https://www.animegg.org/series/detectives-these-days-are-crazy",
+    "mal_url": "https://myanimelist.net/anime/59632",
+    "mal_id": 59632,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/141526",
+        "dub": null,
+        "url": "https://www.animegg.org/detectives-these-days-are-crazy-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/141620",
+        "dub": null,
+        "url": "https://www.animegg.org/detectives-these-days-are-crazy-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/141740",
+        "dub": null,
+        "url": "https://www.animegg.org/detectives-these-days-are-crazy-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/141841",
+        "dub": null,
+        "url": "https://www.animegg.org/detectives-these-days-are-crazy-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/141958",
+        "dub": null,
+        "url": "https://www.animegg.org/detectives-these-days-are-crazy-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/142082",
+        "dub": null,
+        "url": "https://www.animegg.org/detectives-these-days-are-crazy-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/142203",
+        "dub": null,
+        "url": "https://www.animegg.org/detectives-these-days-are-crazy-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/142320",
+        "dub": null,
+        "url": "https://www.animegg.org/detectives-these-days-are-crazy-episode-8"
+      },
+      {
+        "ep": 10,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/detectives-these-days-are-crazy-episode-10"
+      }
+    ]
   }
 ]
