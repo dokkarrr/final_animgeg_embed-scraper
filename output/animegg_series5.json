@@ -53209,5 +53209,21 @@
         "url": "https://www.animegg.org/lie-huo-jiao-chou-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 6334,
+    "title": "Tsubasa Reservoir Chronicle the Movie: The Princess in the Birdcage Kingdom",
+    "animegg_url": "https://www.animegg.org/series/tsubasa-reservoir-chronicle-the-movie-the-princess-in-the-birdcage-kingdom",
+    "mal_url": "https://myanimelist.net/anime/807",
+    "mal_id": 807,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/64614",
+        "dub": "https://www.animegg.org/embed/71077",
+        "url": "https://www.animegg.org/tsubasa-reservoir-chronicle-the-movie-the-princess-in-the-birdcage-kingdom-episode-1"
+      }
+    ]
   }
 ]
