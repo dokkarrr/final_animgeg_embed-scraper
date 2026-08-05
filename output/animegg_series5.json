@@ -63993,5 +63993,21 @@
         "url": "https://www.animegg.org/the-poem-of-wind-and-trees-episode"
       }
     ]
+  },
+  {
+    "serial_no": 6432,
+    "title": "Final Fantasy XV: Episode Ardyn - Prologue",
+    "animegg_url": "https://www.animegg.org/series/final-fantasy-xv-episode-ardyn---prologue",
+    "mal_url": "https://myanimelist.net/anime/38664",
+    "mal_id": 38664,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/94534",
+        "dub": null,
+        "url": "https://www.animegg.org/final-fantasy-xv-episode-ardyn---prologue-episode-1"
+      }
+    ]
   }
 ]
