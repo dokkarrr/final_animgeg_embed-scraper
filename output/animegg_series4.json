@@ -95934,5 +95934,51 @@
         "url": "https://www.animegg.org/pokemon-the-first-movie---mewtwo-strikes-back-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4354,
+    "title": "Mahou Shoujo Tai Arusu the Adventure",
+    "animegg_url": "https://www.animegg.org/series/mahou-shoujo-tai-arusu-the-adventure",
+    "mal_url": "https://myanimelist.net/anime/3991",
+    "mal_id": 3991,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/71078",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-tai-arusu-the-adventure-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/71079",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-tai-arusu-the-adventure-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/71080",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-tai-arusu-the-adventure-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/71081",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-tai-arusu-the-adventure-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/71082",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-tai-arusu-the-adventure-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/71083",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-tai-arusu-the-adventure-episode-6"
+      }
+    ]
   }
 ]
