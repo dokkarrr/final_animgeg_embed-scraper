@@ -58259,5 +58259,63 @@
         "url": "https://www.animegg.org/grisaia-phantom-trigger-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 6386,
+    "title": "Beyond Twilight",
+    "animegg_url": "https://www.animegg.org/series/beyond-twilight",
+    "mal_url": "https://myanimelist.net/anime/63469",
+    "mal_id": 63469,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/145392",
+        "dub": null,
+        "url": "https://www.animegg.org/beyond-twilight-episode-1"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/145566",
+        "dub": null,
+        "url": "https://www.animegg.org/beyond-twilight-episode-4"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/145777",
+        "dub": null,
+        "url": "https://www.animegg.org/beyond-twilight-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/145862",
+        "dub": null,
+        "url": "https://www.animegg.org/beyond-twilight-episode-7"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/146006",
+        "dub": null,
+        "url": "https://www.animegg.org/beyond-twilight-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/146072",
+        "dub": null,
+        "url": "https://www.animegg.org/beyond-twilight-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/146163",
+        "dub": null,
+        "url": "https://www.animegg.org/beyond-twilight-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/146237",
+        "dub": null,
+        "url": "https://www.animegg.org/beyond-twilight-episode-12"
+      }
+    ]
   }
 ]
