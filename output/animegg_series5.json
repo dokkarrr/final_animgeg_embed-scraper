@@ -71605,5 +71605,21 @@
         "url": "https://www.animegg.org/wan-jie-xian-zong-2nd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6507,
+    "title": "Urusei Yatsura Movie 5: Final",
+    "animegg_url": "https://www.animegg.org/series/urusei-yatsura-movie-5-final",
+    "mal_url": "https://myanimelist.net/anime/1924",
+    "mal_id": 1924,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/64959",
+        "dub": null,
+        "url": "https://www.animegg.org/urusei-yatsura-movie-5-final-episode-1"
+      }
+    ]
   }
 ]
