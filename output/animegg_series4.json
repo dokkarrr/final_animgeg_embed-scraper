@@ -111140,5 +111140,21 @@
         "url": "https://www.animegg.org/danganronpa-3-the-end-of-kibougamine-gakuen---kibou-hen-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4590,
+    "title": "From Up on Poppy Hill",
+    "animegg_url": "https://www.animegg.org/series/from-up-on-poppy-hill",
+    "mal_url": "https://myanimelist.net/anime/10029",
+    "mal_id": 10029,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/51145",
+        "dub": "https://www.animegg.org/embed/51146",
+        "url": "https://www.animegg.org/from-up-on-poppy-hill-episode-1"
+      }
+    ]
   }
 ]
