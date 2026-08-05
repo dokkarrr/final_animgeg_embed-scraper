@@ -24622,5 +24622,21 @@
         "url": "https://www.animegg.org/binchou-tan-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6022,
+    "title": "Boku no Imouto wa Osaka Okan Episode 1.5",
+    "animegg_url": "https://www.animegg.org/series/boku-no-imouto-wa-osaka-okan-episode-15",
+    "mal_url": "https://myanimelist.net/anime/16936",
+    "mal_id": 16936,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/48903",
+        "dub": null,
+        "url": "https://www.animegg.org/boku-no-imouto-wa-osaka-okan-episode-15-episode-1"
+      }
+    ]
   }
 ]
