@@ -18568,5 +18568,21 @@
         "url": "https://www.animegg.org/sorcerer-on-the-rocks-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 5929,
+    "title": "Kaiketsu Zorori Movie",
+    "animegg_url": "https://www.animegg.org/series/kaiketsu-zorori-movie",
+    "mal_url": "https://myanimelist.net/anime/35074",
+    "mal_id": 35074,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/54975",
+        "dub": null,
+        "url": "https://www.animegg.org/kaiketsu-zorori-movie-episode-1"
+      }
+    ]
   }
 ]
