@@ -112256,5 +112256,87 @@
         "url": "https://www.animegg.org/dolls--frontline-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4614,
+    "title": "Spy Kyoushitsu",
+    "animegg_url": "https://www.animegg.org/series/spy-kyoushitsu",
+    "mal_url": "https://myanimelist.net/anime/51252",
+    "mal_id": 51252,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/106771",
+        "dub": null,
+        "url": "https://www.animegg.org/spy-kyoushitsu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/106841",
+        "dub": null,
+        "url": "https://www.animegg.org/spy-kyoushitsu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/106914",
+        "dub": null,
+        "url": "https://www.animegg.org/spy-kyoushitsu-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/106990",
+        "dub": null,
+        "url": "https://www.animegg.org/spy-kyoushitsu-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/107059",
+        "dub": null,
+        "url": "https://www.animegg.org/spy-kyoushitsu-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/107124",
+        "dub": null,
+        "url": "https://www.animegg.org/spy-kyoushitsu-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/107238",
+        "dub": null,
+        "url": "https://www.animegg.org/spy-kyoushitsu-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/107369",
+        "dub": null,
+        "url": "https://www.animegg.org/spy-kyoushitsu-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/107436",
+        "dub": null,
+        "url": "https://www.animegg.org/spy-kyoushitsu-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/107499",
+        "dub": null,
+        "url": "https://www.animegg.org/spy-kyoushitsu-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/107558",
+        "dub": null,
+        "url": "https://www.animegg.org/spy-kyoushitsu-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/107615",
+        "dub": null,
+        "url": "https://www.animegg.org/spy-kyoushitsu-episode-12"
+      }
+    ]
   }
 ]
