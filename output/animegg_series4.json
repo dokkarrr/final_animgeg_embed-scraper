@@ -126598,5 +126598,27 @@
         "url": "https://www.animegg.org/zutto-mae-kara-suki-deshita-kokuhaku-jikkou-iinkai-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4823,
+    "title": "InuYasha The Movie 2: The Castle Beyond the Looking Glass",
+    "animegg_url": "https://www.animegg.org/series/inuyasha-the-movie-2-the-castle-beyond-the-looking-glass",
+    "mal_url": "https://myanimelist.net/anime/450",
+    "mal_id": 450,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/54057",
+        "dub": null,
+        "url": "https://www.animegg.org/inuyasha-the-movie-2-the-castle-beyond-the-looking-glass-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/54056",
+        "dub": null,
+        "url": "https://www.animegg.org/inuyasha-the-movie-2-the-castle-beyond-the-looking-glass-episode-1"
+      }
+    ]
   }
 ]
