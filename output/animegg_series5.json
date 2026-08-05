@@ -20878,5 +20878,27 @@
         "url": "https://www.animegg.org/girl-meets-girl-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5986,
+    "title": "To Heart 2 AD Plus",
+    "animegg_url": "https://www.animegg.org/series/to-heart-2-ad-plus",
+    "mal_url": "https://myanimelist.net/anime/4804",
+    "mal_id": 4804,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/38217",
+        "dub": null,
+        "url": "https://www.animegg.org/to-heart-2-ad-plus-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/38218",
+        "dub": null,
+        "url": "https://www.animegg.org/to-heart-2-ad-plus-episode-1"
+      }
+    ]
   }
 ]
