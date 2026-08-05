@@ -13502,5 +13502,51 @@
         "url": "https://www.animegg.org/fuujin-monogatari-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3243,
+    "title": "Fight Ippatsu! Juuden-Chan!! Specials",
+    "animegg_url": "https://www.animegg.org/series/fight-ippatsu-juuden-chan-ova",
+    "mal_url": "https://myanimelist.net/anime/7744",
+    "mal_id": 7744,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/10883",
+        "dub": null,
+        "url": "https://www.animegg.org/fight-ippatsu-juuden-chan-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/10885",
+        "dub": null,
+        "url": "https://www.animegg.org/fight-ippatsu-juuden-chan-ova-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/10888",
+        "dub": null,
+        "url": "https://www.animegg.org/fight-ippatsu-juuden-chan-ova-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/10884",
+        "dub": null,
+        "url": "https://www.animegg.org/fight-ippatsu-juuden-chan-ova-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/10887",
+        "dub": null,
+        "url": "https://www.animegg.org/fight-ippatsu-juuden-chan-ova-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/10886",
+        "dub": null,
+        "url": "https://www.animegg.org/fight-ippatsu-juuden-chan-ova-episode-6"
+      }
+    ]
   }
 ]
