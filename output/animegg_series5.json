@@ -79051,5 +79051,27 @@
         "url": "https://www.animegg.org/kaitou-tenshi-twin-angel-kyun-kyun-tokimeki-paradise-ova-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 6564,
+    "title": "Si Ge Yongzhe",
+    "animegg_url": "https://www.animegg.org/series/si-ge-yongzhe",
+    "mal_url": "https://myanimelist.net/anime/55578",
+    "mal_id": 55578,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/140410",
+        "dub": null,
+        "url": "https://www.animegg.org/si-ge-yongzhe-episode-1"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/140412",
+        "dub": null,
+        "url": "https://www.animegg.org/si-ge-yongzhe-episode-10"
+      }
+    ]
   }
 ]
