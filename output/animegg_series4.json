@@ -112866,5 +112866,21 @@
         "url": "https://www.animegg.org/fight-da-pyuta-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 4627,
+    "title": "Steins;Gate: Oukoubakko no Poriomania",
+    "animegg_url": "https://www.animegg.org/series/steins-gate-oukoubakko-no-poriomania",
+    "mal_url": "https://myanimelist.net/anime/10863",
+    "mal_id": 10863,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/45113",
+        "dub": "https://www.animegg.org/embed/45114",
+        "url": "https://www.animegg.org/steins-gate-oukoubakko-no-poriomania-episode-1"
+      }
+    ]
   }
 ]
