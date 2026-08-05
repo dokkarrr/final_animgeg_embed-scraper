@@ -122246,5 +122246,87 @@
         "url": "https://www.animegg.org/go-go-575-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4767,
+    "title": "A Star Brighter Than the Sun",
+    "animegg_url": "https://www.animegg.org/series/a-star-brighter-than-the-sun",
+    "mal_url": "https://myanimelist.net/anime/60969",
+    "mal_id": 60969,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/142781",
+        "dub": "https://www.animegg.org/embed/142787",
+        "url": "https://www.animegg.org/a-star-brighter-than-the-sun-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/142832",
+        "dub": "https://www.animegg.org/embed/142837",
+        "url": "https://www.animegg.org/a-star-brighter-than-the-sun-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/142947",
+        "dub": "https://www.animegg.org/embed/142948",
+        "url": "https://www.animegg.org/a-star-brighter-than-the-sun-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/143036",
+        "dub": "https://www.animegg.org/embed/143038",
+        "url": "https://www.animegg.org/a-star-brighter-than-the-sun-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/143135",
+        "dub": "https://www.animegg.org/embed/143137",
+        "url": "https://www.animegg.org/a-star-brighter-than-the-sun-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/143246",
+        "dub": "https://www.animegg.org/embed/143248",
+        "url": "https://www.animegg.org/a-star-brighter-than-the-sun-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/143356",
+        "dub": "https://www.animegg.org/embed/143358",
+        "url": "https://www.animegg.org/a-star-brighter-than-the-sun-season-1-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/143470",
+        "dub": "https://www.animegg.org/embed/143473",
+        "url": "https://www.animegg.org/a-star-brighter-than-the-sun-season-1-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/143553",
+        "dub": "https://www.animegg.org/embed/143554",
+        "url": "https://www.animegg.org/a-star-brighter-than-the-sun-season-1-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/143660",
+        "dub": "https://www.animegg.org/embed/143663",
+        "url": "https://www.animegg.org/a-star-brighter-than-the-sun-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/143774",
+        "dub": "https://www.animegg.org/embed/143783",
+        "url": "https://www.animegg.org/a-star-brighter-than-the-sun-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/143897",
+        "dub": "https://www.animegg.org/embed/143898",
+        "url": "https://www.animegg.org/a-star-brighter-than-the-sun-episode-12"
+      }
+    ]
   }
 ]
