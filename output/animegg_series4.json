@@ -69594,5 +69594,27 @@
         "url": "https://www.animegg.org/kono-subarashii-sekai-ni-shukufuku-wo-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3943,
+    "title": "Kill la Kill Special",
+    "animegg_url": "https://www.animegg.org/series/kill-la-kill-special",
+    "mal_url": "https://myanimelist.net/anime/21659",
+    "mal_id": 21659,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/56543",
+        "dub": "https://www.animegg.org/embed/56544",
+        "url": "https://www.animegg.org/kill-la-kill-special-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kill-la-kill-special-episode-2"
+      }
+    ]
   }
 ]
