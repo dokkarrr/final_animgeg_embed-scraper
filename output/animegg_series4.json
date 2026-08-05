@@ -108822,5 +108822,39 @@
         "url": "https://www.animegg.org/shin-chuuka-ichiban-2nd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4555,
+    "title": "Burn Up! W",
+    "animegg_url": "https://www.animegg.org/series/burn-up-w",
+    "mal_url": "https://myanimelist.net/anime/769",
+    "mal_id": 769,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/48590",
+        "dub": "https://www.animegg.org/embed/48591",
+        "url": "https://www.animegg.org/burn-up-w-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/48592",
+        "dub": "https://www.animegg.org/embed/48593",
+        "url": "https://www.animegg.org/burn-up-w-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/48594",
+        "dub": "https://www.animegg.org/embed/48595",
+        "url": "https://www.animegg.org/burn-up-w-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/48596",
+        "dub": "https://www.animegg.org/embed/48597",
+        "url": "https://www.animegg.org/burn-up-w-episode-4"
+      }
+    ]
   }
 ]
