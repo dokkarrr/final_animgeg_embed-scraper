@@ -19170,5 +19170,21 @@
         "url": "https://www.animegg.org/ai-wa-kat-tun-episode-5"
       }
     ]
+  },
+  {
+    "serial_no": 3298,
+    "title": "Bleach: Memories of Nobody",
+    "animegg_url": "https://www.animegg.org/series/bleach-memories-of-nobody",
+    "mal_url": "https://myanimelist.net/anime/1686",
+    "mal_id": 1686,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/49073",
+        "dub": "https://www.animegg.org/embed/49074",
+        "url": "https://www.animegg.org/bleach-memories-of-nobody-episode-1"
+      }
+    ]
   }
 ]
