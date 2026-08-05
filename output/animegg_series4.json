@@ -123748,5 +123748,93 @@
         "url": "https://www.animegg.org/rooster-fighter-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4793,
+    "title": "Gekidol",
+    "animegg_url": "https://www.animegg.org/series/gekidol",
+    "mal_url": "https://myanimelist.net/anime/32455",
+    "mal_id": 32455,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/100404",
+        "dub": null,
+        "url": "https://www.animegg.org/gekidol-episode-00"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/100413",
+        "dub": null,
+        "url": "https://www.animegg.org/gekidol-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/100481",
+        "dub": null,
+        "url": "https://www.animegg.org/gekidol-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/100578",
+        "dub": null,
+        "url": "https://www.animegg.org/gekidol-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/100653",
+        "dub": null,
+        "url": "https://www.animegg.org/gekidol-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/100726",
+        "dub": null,
+        "url": "https://www.animegg.org/gekidol-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/100795",
+        "dub": null,
+        "url": "https://www.animegg.org/gekidol-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/100867",
+        "dub": null,
+        "url": "https://www.animegg.org/gekidol-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/100941",
+        "dub": null,
+        "url": "https://www.animegg.org/gekidol-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/101019",
+        "dub": null,
+        "url": "https://www.animegg.org/gekidol-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/101089",
+        "dub": null,
+        "url": "https://www.animegg.org/gekidol-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/101162",
+        "dub": null,
+        "url": "https://www.animegg.org/gekidol-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/101234",
+        "dub": null,
+        "url": "https://www.animegg.org/gekidol-episode-12"
+      }
+    ]
   }
 ]
