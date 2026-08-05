@@ -64238,5 +64238,21 @@
         "url": "https://www.animegg.org/koi-to-producer-evol-love-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3867,
+    "title": ".Hack//G.U. Returner",
+    "animegg_url": "https://www.animegg.org/series/hackgu-returner",
+    "mal_url": "https://myanimelist.net/anime/2928",
+    "mal_id": 2928,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/87",
+        "dub": null,
+        "url": "https://www.animegg.org/hackgu-returner-episode-1"
+      }
+    ]
   }
 ]
