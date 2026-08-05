@@ -50992,5 +50992,87 @@
         "url": "https://www.animegg.org/kuroko-no-basket-415q-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3692,
+    "title": "Uta Kata",
+    "animegg_url": "https://www.animegg.org/series/uta-kata",
+    "mal_url": "https://myanimelist.net/anime/60360",
+    "mal_id": 60360,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/39766",
+        "dub": null,
+        "url": "https://www.animegg.org/uta-kata-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/39764",
+        "dub": null,
+        "url": "https://www.animegg.org/uta-kata-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/39767",
+        "dub": null,
+        "url": "https://www.animegg.org/uta-kata-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/39765",
+        "dub": null,
+        "url": "https://www.animegg.org/uta-kata-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/39768",
+        "dub": null,
+        "url": "https://www.animegg.org/uta-kata-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/39769",
+        "dub": null,
+        "url": "https://www.animegg.org/uta-kata-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/39771",
+        "dub": null,
+        "url": "https://www.animegg.org/uta-kata-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/39772",
+        "dub": null,
+        "url": "https://www.animegg.org/uta-kata-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/39770",
+        "dub": null,
+        "url": "https://www.animegg.org/uta-kata-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/39773",
+        "dub": null,
+        "url": "https://www.animegg.org/uta-kata-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/39775",
+        "dub": null,
+        "url": "https://www.animegg.org/uta-kata-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/39774",
+        "dub": null,
+        "url": "https://www.animegg.org/uta-kata-episode-12"
+      }
+    ]
   }
 ]
