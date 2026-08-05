@@ -26448,5 +26448,21 @@
         "url": "https://www.animegg.org/namiuchigiwa-no-muromi-san-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6042,
+    "title": "Busou Shinki OVA",
+    "animegg_url": "https://www.animegg.org/series/busou-shinki-ova",
+    "mal_url": "https://myanimelist.net/anime/16614",
+    "mal_id": 16614,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/48587",
+        "dub": null,
+        "url": "https://www.animegg.org/busou-shinki-ova-episode-1"
+      }
+    ]
   }
 ]
