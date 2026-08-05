@@ -129602,5 +129602,21 @@
         "url": "https://www.animegg.org/kuusen-madoushi-kouhosei-no-kyoukan-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4875,
+    "title": "Digimon Adventure The Movie",
+    "animegg_url": "https://www.animegg.org/series/digimon-adventure-the-movie",
+    "mal_url": "https://myanimelist.net/anime/2962",
+    "mal_id": 2962,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/74853",
+        "dub": null,
+        "url": "https://www.animegg.org/digimon-adventure-the-movie-episode-1"
+      }
+    ]
   }
 ]
