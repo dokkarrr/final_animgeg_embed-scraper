@@ -40179,5 +40179,21 @@
         "url": "https://www.animegg.org/ahiru-no-sora-dub-episode-50"
       }
     ]
+  },
+  {
+    "serial_no": 6217,
+    "title": "Shin Koihime Musou OVA",
+    "animegg_url": "https://www.animegg.org/series/shin-koihime-musou-ova",
+    "mal_url": "https://myanimelist.net/anime/15095",
+    "mal_id": 15095,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66429",
+        "dub": null,
+        "url": "https://www.animegg.org/shin-koihime-musou-ova-episode-1"
+      }
+    ]
   }
 ]
