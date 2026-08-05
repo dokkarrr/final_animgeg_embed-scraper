@@ -38404,5 +38404,87 @@
         "url": "https://www.animegg.org/honey-x-honey-drops-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 3524,
+    "title": "Kanojo mo Kanojo",
+    "animegg_url": "https://www.animegg.org/series/kanojo-mo-kanojo",
+    "mal_url": "https://myanimelist.net/anime/43969",
+    "mal_id": 43969,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/102185",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-mo-kanojo-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/102233",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-mo-kanojo-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/102283",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-mo-kanojo-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/102333",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-mo-kanojo-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/102391",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-mo-kanojo-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/102448",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-mo-kanojo-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/102499",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-mo-kanojo-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/102558",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-mo-kanojo-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/102611",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-mo-kanojo-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/102666",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-mo-kanojo-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/102722",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-mo-kanojo-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/102780",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-mo-kanojo-episode-12"
+      }
+    ]
   }
 ]
