@@ -44414,5 +44414,21 @@
         "url": "https://www.animegg.org/ride-back-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3600,
+    "title": "Dragon Ball Z Movie 13: Wrath of the Dragon",
+    "animegg_url": "https://www.animegg.org/series/dragon-ball-z-movie-13-wrath-of-the-dragon",
+    "mal_url": "https://myanimelist.net/anime/6033",
+    "mal_id": 6033,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/49774",
+        "dub": null,
+        "url": "https://www.animegg.org/dragon-ball-z-movie-13-wrath-of-the-dragon-episode-1"
+      }
+    ]
   }
 ]
