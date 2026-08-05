@@ -11479,5 +11479,21 @@
         "url": "https://www.animegg.org/arve-rezzle-kikaijikake-no-yoseitachi-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5790,
+    "title": "Kiniro no Corda: Primo Passo - Hitonatsu no Encore",
+    "animegg_url": "https://www.animegg.org/series/kiniro-no-corda-primo-passo---hitonatsu-no-encore",
+    "mal_url": "https://myanimelist.net/anime/3392",
+    "mal_id": 3392,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/44004",
+        "dub": null,
+        "url": "https://www.animegg.org/kiniro-no-corda-primo-passo---hitonatsu-no-encore-episode-1"
+      }
+    ]
   }
 ]
