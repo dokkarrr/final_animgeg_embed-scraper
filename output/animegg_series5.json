@@ -20416,5 +20416,21 @@
         "url": "https://www.animegg.org/xian-mu-episode-59"
       }
     ]
+  },
+  {
+    "serial_no": 5974,
+    "title": "Precure All Stars Movie: Minna de Utau♪ Kiseki no Mahou",
+    "animegg_url": "https://www.animegg.org/series/precure-all-stars-movie-minna-de-utau-kiseki-no-mahou",
+    "mal_url": "https://myanimelist.net/anime/32160",
+    "mal_id": 32160,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/83335",
+        "dub": null,
+        "url": "https://www.animegg.org/precure-all-stars-movie-minna-de-utau-kiseki-no-mahou-episode-1"
+      }
+    ]
   }
 ]
