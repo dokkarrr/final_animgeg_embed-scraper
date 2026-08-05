@@ -21546,5 +21546,93 @@
         "url": "https://www.animegg.org/mobile-suit-gundam-thunderbolt-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 3328,
+    "title": "New Getter Robo",
+    "animegg_url": "https://www.animegg.org/series/new-getter-robo",
+    "mal_url": "https://myanimelist.net/anime/2978",
+    "mal_id": 2978,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/59186",
+        "dub": null,
+        "url": "https://www.animegg.org/new-getter-robo-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/59187",
+        "dub": null,
+        "url": "https://www.animegg.org/new-getter-robo-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/59188",
+        "dub": null,
+        "url": "https://www.animegg.org/new-getter-robo-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/59189",
+        "dub": null,
+        "url": "https://www.animegg.org/new-getter-robo-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/59190",
+        "dub": null,
+        "url": "https://www.animegg.org/new-getter-robo-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/59191",
+        "dub": null,
+        "url": "https://www.animegg.org/new-getter-robo-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/59192",
+        "dub": null,
+        "url": "https://www.animegg.org/new-getter-robo-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/59193",
+        "dub": null,
+        "url": "https://www.animegg.org/new-getter-robo-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/59194",
+        "dub": null,
+        "url": "https://www.animegg.org/new-getter-robo-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/59195",
+        "dub": null,
+        "url": "https://www.animegg.org/new-getter-robo-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/59196",
+        "dub": null,
+        "url": "https://www.animegg.org/new-getter-robo-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/59197",
+        "dub": null,
+        "url": "https://www.animegg.org/new-getter-robo-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/59198",
+        "dub": null,
+        "url": "https://www.animegg.org/new-getter-robo-episode-13"
+      }
+    ]
   }
 ]
