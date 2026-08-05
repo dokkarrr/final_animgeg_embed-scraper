@@ -101140,5 +101140,51 @@
         "url": "https://www.animegg.org/robomasters-the-animated-series-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 4418,
+    "title": "Harlock Saga",
+    "animegg_url": "https://www.animegg.org/series/harlock-saga",
+    "mal_url": "https://myanimelist.net/anime/1645",
+    "mal_id": 1645,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/53100",
+        "dub": null,
+        "url": "https://www.animegg.org/harlock-saga-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/53101",
+        "dub": null,
+        "url": "https://www.animegg.org/harlock-saga-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/53102",
+        "dub": null,
+        "url": "https://www.animegg.org/harlock-saga-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/53103",
+        "dub": null,
+        "url": "https://www.animegg.org/harlock-saga-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/53104",
+        "dub": null,
+        "url": "https://www.animegg.org/harlock-saga-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/53105",
+        "dub": null,
+        "url": "https://www.animegg.org/harlock-saga-episode-6"
+      }
+    ]
   }
 ]
