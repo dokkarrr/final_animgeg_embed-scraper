@@ -18148,5 +18148,33 @@
         "url": "https://www.animegg.org/magical-9734-star-kanon-100-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5926,
+    "title": "Pikotarou no Lullaby Lullaby (Web)",
+    "animegg_url": "https://www.animegg.org/series/pikotarou-no-lullaby-lullaby-web",
+    "mal_url": "https://myanimelist.net/anime/36520",
+    "mal_id": 36520,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/88541",
+        "dub": null,
+        "url": "https://www.animegg.org/pikotarou-no-lullaby-lullaby-web-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/88621",
+        "dub": null,
+        "url": "https://www.animegg.org/pikotarou-no-lullaby-lullaby-web-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/88710",
+        "dub": null,
+        "url": "https://www.animegg.org/pikotarou-no-lullaby-lullaby-web-episode-3"
+      }
+    ]
   }
 ]
