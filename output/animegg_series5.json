@@ -4780,5 +4780,21 @@
         "url": "https://www.animegg.org/from-i-s-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 5687,
+    "title": "Captain Tsubasa Movie 4 World Battle - The Junior World Cup",
+    "animegg_url": "https://www.animegg.org/series/captain-tsubasa-movie-4-world-battle---the-junior-world-cup",
+    "mal_url": "https://myanimelist.net/anime/1614",
+    "mal_id": 1614,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/48081",
+        "dub": null,
+        "url": "https://www.animegg.org/captain-tsubasa-movie-4-world-battle---the-junior-world-cup-episode-1"
+      }
+    ]
   }
 ]
