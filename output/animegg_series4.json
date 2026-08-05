@@ -63032,5 +63032,63 @@
         "url": "https://www.animegg.org/koneko-no-chii-ponponra-dairyokou-episode-20"
       }
     ]
+  },
+  {
+    "serial_no": 3852,
+    "title": "GaoGaiGar Final",
+    "animegg_url": "https://www.animegg.org/series/gaogaigar-final",
+    "mal_url": "https://myanimelist.net/anime/1382",
+    "mal_id": 1382,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/52370",
+        "dub": null,
+        "url": "https://www.animegg.org/gaogaigar-final-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/52371",
+        "dub": null,
+        "url": "https://www.animegg.org/gaogaigar-final-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/52372",
+        "dub": null,
+        "url": "https://www.animegg.org/gaogaigar-final-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/52373",
+        "dub": null,
+        "url": "https://www.animegg.org/gaogaigar-final-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/52374",
+        "dub": null,
+        "url": "https://www.animegg.org/gaogaigar-final-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/52375",
+        "dub": null,
+        "url": "https://www.animegg.org/gaogaigar-final-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/52376",
+        "dub": null,
+        "url": "https://www.animegg.org/gaogaigar-final-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/52377",
+        "dub": null,
+        "url": "https://www.animegg.org/gaogaigar-final-episode-8"
+      }
+    ]
   }
 ]
