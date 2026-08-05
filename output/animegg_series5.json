@@ -4758,5 +4758,27 @@
         "url": "https://www.animegg.org/witch-craft-works-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5686,
+    "title": "From I’s",
+    "animegg_url": "https://www.animegg.org/series/from-i-s",
+    "mal_url": "https://myanimelist.net/anime/1084",
+    "mal_id": 1084,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/69846",
+        "dub": null,
+        "url": "https://www.animegg.org/from-i-s-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/69847",
+        "dub": null,
+        "url": "https://www.animegg.org/from-i-s-episode-2"
+      }
+    ]
   }
 ]
