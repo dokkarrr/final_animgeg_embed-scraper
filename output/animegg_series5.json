@@ -57425,5 +57425,87 @@
         "url": "https://www.animegg.org/smile-precure-movie-ehon-no-naka-wa-minna-chiguhagu-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6377,
+    "title": "Roll over and die",
+    "animegg_url": "https://www.animegg.org/series/roll-over-and-die",
+    "mal_url": "https://myanimelist.net/anime/61587",
+    "mal_id": 61587,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/144108",
+        "dub": "https://www.animegg.org/embed/144318",
+        "url": "https://www.animegg.org/roll-over-and-die-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/144206",
+        "dub": "https://www.animegg.org/embed/144541",
+        "url": "https://www.animegg.org/roll-over-and-die-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/144302",
+        "dub": "https://www.animegg.org/embed/144625",
+        "url": "https://www.animegg.org/roll-over-and-die-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/144430",
+        "dub": "https://www.animegg.org/embed/144624",
+        "url": "https://www.animegg.org/roll-over-and-die-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/144523",
+        "dub": "https://www.animegg.org/embed/144730",
+        "url": "https://www.animegg.org/roll-over-and-die-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/144623",
+        "dub": "https://www.animegg.org/embed/144832",
+        "url": "https://www.animegg.org/roll-over-and-die-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/144722",
+        "dub": "https://www.animegg.org/embed/144944",
+        "url": "https://www.animegg.org/roll-over-and-die-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/144821",
+        "dub": "https://www.animegg.org/embed/145033",
+        "url": "https://www.animegg.org/roll-over-and-die-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/144943",
+        "dub": "https://www.animegg.org/embed/145158",
+        "url": "https://www.animegg.org/roll-over-and-die-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/145038",
+        "dub": "https://www.animegg.org/embed/145254",
+        "url": "https://www.animegg.org/roll-over-and-die-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/145149",
+        "dub": "https://www.animegg.org/embed/145340",
+        "url": "https://www.animegg.org/roll-over-and-die-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/145251",
+        "dub": null,
+        "url": "https://www.animegg.org/roll-over-and-die-episode-12"
+      }
+    ]
   }
 ]
