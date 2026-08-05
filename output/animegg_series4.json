@@ -98180,5 +98180,81 @@
         "url": "https://www.animegg.org/kuroshitsuji-movie-book-of-the-atlantic-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4380,
+    "title": "Apocalypse Hotel",
+    "animegg_url": "https://www.animegg.org/series/apocalypse-hotel",
+    "mal_url": "https://myanimelist.net/anime/59675",
+    "mal_id": 59675,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/140423",
+        "dub": null,
+        "url": "https://www.animegg.org/apocalypse-hotel-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/140502",
+        "dub": null,
+        "url": "https://www.animegg.org/apocalypse-hotel-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/140593",
+        "dub": null,
+        "url": "https://www.animegg.org/apocalypse-hotel-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/140677",
+        "dub": null,
+        "url": "https://www.animegg.org/apocalypse-hotel-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/140758",
+        "dub": null,
+        "url": "https://www.animegg.org/apocalypse-hotel-episode-5"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/140977",
+        "dub": null,
+        "url": "https://www.animegg.org/apocalypse-hotel-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/141075",
+        "dub": null,
+        "url": "https://www.animegg.org/apocalypse-hotel-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/141179",
+        "dub": null,
+        "url": "https://www.animegg.org/apocalypse-hotel-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/141272",
+        "dub": null,
+        "url": "https://www.animegg.org/apocalypse-hotel-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/141373",
+        "dub": null,
+        "url": "https://www.animegg.org/apocalypse-hotel-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/141454",
+        "dub": null,
+        "url": "https://www.animegg.org/apocalypse-hotel-episode-12"
+      }
+    ]
   }
 ]
