@@ -126050,5 +126050,33 @@
         "url": "https://www.animegg.org/parasite-dolls-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 4818,
+    "title": "Gundam Build Fighters: Battlogue",
+    "animegg_url": "https://www.animegg.org/series/gundam-build-fighters-battlogue",
+    "mal_url": "https://myanimelist.net/anime/35567",
+    "mal_id": 35567,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/91872",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-build-fighters-battlogue-episode"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/88253",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-build-fighters-battlogue-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/88551",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-build-fighters-battlogue-episode-3"
+      }
+    ]
   }
 ]
