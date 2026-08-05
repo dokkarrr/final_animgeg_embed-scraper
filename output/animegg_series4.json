@@ -36302,5 +36302,21 @@
         "url": "https://www.animegg.org/planet-with-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3489,
+    "title": "Dragon Ball Z Movie 12: Fusion Reborn",
+    "animegg_url": "https://www.animegg.org/series/dragon-ball-z-movie-12-fusion-reborn",
+    "mal_url": "https://myanimelist.net/anime/905",
+    "mal_id": 905,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/49773",
+        "dub": null,
+        "url": "https://www.animegg.org/dragon-ball-z-movie-12-fusion-reborn-episode-1"
+      }
+    ]
   }
 ]
