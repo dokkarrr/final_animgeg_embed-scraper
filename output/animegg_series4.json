@@ -80238,5 +80238,93 @@
         "url": "https://www.animegg.org/toki-wo-kakeru-shoujo-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4126,
+    "title": "Dusk Beyond the End of the World",
+    "animegg_url": "https://www.animegg.org/series/dusk-beyond-the-end-of-the-world",
+    "mal_url": "https://myanimelist.net/anime/61917",
+    "mal_id": 61917,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/142691",
+        "dub": null,
+        "url": "https://www.animegg.org/dusk-beyond-the-end-of-the-world-episode-0"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/142777",
+        "dub": "https://www.animegg.org/embed/143977",
+        "url": "https://www.animegg.org/dusk-beyond-the-end-of-the-world-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/142839",
+        "dub": "https://www.animegg.org/embed/144034",
+        "url": "https://www.animegg.org/dusk-beyond-the-end-of-the-world-season-1-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/142943",
+        "dub": "https://www.animegg.org/embed/144092",
+        "url": "https://www.animegg.org/dusk-beyond-the-end-of-the-world-season-1-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/143058",
+        "dub": "https://www.animegg.org/embed/144199",
+        "url": "https://www.animegg.org/dusk-beyond-the-end-of-the-world-season-1-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/143138",
+        "dub": "https://www.animegg.org/embed/144297",
+        "url": "https://www.animegg.org/dusk-beyond-the-end-of-the-world-season-1-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/143253",
+        "dub": "https://www.animegg.org/embed/144415",
+        "url": "https://www.animegg.org/dusk-beyond-the-end-of-the-world-season-1-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/143353",
+        "dub": "https://www.animegg.org/embed/144518",
+        "url": "https://www.animegg.org/dusk-beyond-the-end-of-the-world-season-1-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/143464",
+        "dub": "https://www.animegg.org/embed/144621",
+        "url": "https://www.animegg.org/dusk-beyond-the-end-of-the-world-season-1-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/143560",
+        "dub": "https://www.animegg.org/embed/144723",
+        "url": "https://www.animegg.org/dusk-beyond-the-end-of-the-world-season-1-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/143657",
+        "dub": "https://www.animegg.org/embed/144814",
+        "url": "https://www.animegg.org/dusk-beyond-the-end-of-the-world-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/143777",
+        "dub": "https://www.animegg.org/embed/144927",
+        "url": "https://www.animegg.org/dusk-beyond-the-end-of-the-world-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/143886",
+        "dub": "https://www.animegg.org/embed/145042",
+        "url": "https://www.animegg.org/dusk-beyond-the-end-of-the-world-episode-12"
+      }
+    ]
   }
 ]
