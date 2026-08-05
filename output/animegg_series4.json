@@ -980,5 +980,27 @@
         "url": "https://www.animegg.org/yaiba-samurai-legend-season-1-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 3084,
+    "title": "Shirobako Specials",
+    "animegg_url": "https://www.animegg.org/series/shirobako-specials",
+    "mal_url": "https://myanimelist.net/anime/28105",
+    "mal_id": 28105,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/75136",
+        "dub": "https://www.animegg.org/embed/75477",
+        "url": "https://www.animegg.org/shirobako-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/78270",
+        "dub": "https://www.animegg.org/embed/80440",
+        "url": "https://www.animegg.org/shirobako-specials-episode-2"
+      }
+    ]
   }
 ]
