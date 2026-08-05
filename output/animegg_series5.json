@@ -54865,5 +54865,21 @@
         "url": "https://www.animegg.org/yowamushi-pedal-spare-bike-episode-1-4779"
       }
     ]
+  },
+  {
+    "serial_no": 6352,
+    "title": "Hataraku Saibou: Kaze Shoukougun",
+    "animegg_url": "https://www.animegg.org/series/hataraku-saibou-kaze-shoukougun",
+    "mal_url": "https://myanimelist.net/anime/38733",
+    "mal_id": 38733,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/94074",
+        "dub": null,
+        "url": "https://www.animegg.org/hataraku-saibou-kaze-shoukougun-episode-1"
+      }
+    ]
   }
 ]
