@@ -13485,5 +13485,63 @@
         "url": "https://www.animegg.org/legend-of-crystania-the-motion-picture-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5828,
+    "title": "Touken Ranbu Kai: Kyoden Moyuru Honnouji",
+    "animegg_url": "https://www.animegg.org/series/touken-ranbu-kai-kyoden-moyuru-honnouji",
+    "mal_url": "https://myanimelist.net/anime/51859",
+    "mal_id": 51859,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/133524",
+        "dub": null,
+        "url": "https://www.animegg.org/touken-ranbu-kai-kyoden-moyuru-honnouji-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/133677",
+        "dub": null,
+        "url": "https://www.animegg.org/touken-ranbu-kai-kyoden-moyuru-honnouji-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/133676",
+        "dub": null,
+        "url": "https://www.animegg.org/touken-ranbu-kai-kyoden-moyuru-honnouji-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/133761",
+        "dub": null,
+        "url": "https://www.animegg.org/touken-ranbu-kai-kyoden-moyuru-honnouji-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/134319",
+        "dub": null,
+        "url": "https://www.animegg.org/touken-ranbu-kai-kyoden-moyuru-honnouji-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/134321",
+        "dub": null,
+        "url": "https://www.animegg.org/touken-ranbu-kai-kyoden-moyuru-honnouji-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/134161",
+        "dub": null,
+        "url": "https://www.animegg.org/touken-ranbu-kai-kyoden-moyuru-honnouji-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/134310",
+        "dub": null,
+        "url": "https://www.animegg.org/touken-ranbu-kai-kyoden-moyuru-honnouji-episode-8"
+      }
+    ]
   }
 ]
