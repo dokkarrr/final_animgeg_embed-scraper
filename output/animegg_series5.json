@@ -15894,5 +15894,21 @@
         "url": "https://www.animegg.org/voogie-s-angel-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 5889,
+    "title": "Little Busters!: Sekai no Saitou wa Ore ga Mamoru!",
+    "animegg_url": "https://www.animegg.org/series/little-busters-sekai-no-saitou-wa-ore-ga-mamoru",
+    "mal_url": "https://myanimelist.net/anime/17643",
+    "mal_id": 17643,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/44010",
+        "dub": null,
+        "url": "https://www.animegg.org/little-busters-sekai-no-saitou-wa-ore-ga-mamoru-episode-1"
+      }
+    ]
   }
 ]
