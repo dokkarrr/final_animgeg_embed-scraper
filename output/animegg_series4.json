@@ -80222,5 +80222,21 @@
         "url": "https://www.animegg.org/kitsutsuki-tanteidokoro-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4125,
+    "title": "The Girl Who Leapt Through Time",
+    "animegg_url": "https://www.animegg.org/series/toki-wo-kakeru-shoujo",
+    "mal_url": "https://myanimelist.net/anime/2236",
+    "mal_id": 2236,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/45109",
+        "dub": "https://www.animegg.org/embed/45110",
+        "url": "https://www.animegg.org/toki-wo-kakeru-shoujo-episode-1"
+      }
+    ]
   }
 ]
