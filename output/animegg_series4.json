@@ -36318,5 +36318,75 @@
         "url": "https://www.animegg.org/dragon-ball-z-movie-12-fusion-reborn-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3490,
+    "title": "Nandaka Velonica",
+    "animegg_url": "https://www.animegg.org/series/nandaka-velonica",
+    "mal_url": "https://myanimelist.net/anime/22381",
+    "mal_id": 22381,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/43157",
+        "dub": null,
+        "url": "https://www.animegg.org/nandaka-velonica-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/43158",
+        "dub": null,
+        "url": "https://www.animegg.org/nandaka-velonica-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/43159",
+        "dub": null,
+        "url": "https://www.animegg.org/nandaka-velonica-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/43160",
+        "dub": null,
+        "url": "https://www.animegg.org/nandaka-velonica-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/43161",
+        "dub": null,
+        "url": "https://www.animegg.org/nandaka-velonica-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/43162",
+        "dub": null,
+        "url": "https://www.animegg.org/nandaka-velonica-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/43163",
+        "dub": null,
+        "url": "https://www.animegg.org/nandaka-velonica-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/43164",
+        "dub": null,
+        "url": "https://www.animegg.org/nandaka-velonica-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/43165",
+        "dub": null,
+        "url": "https://www.animegg.org/nandaka-velonica-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/43166",
+        "dub": null,
+        "url": "https://www.animegg.org/nandaka-velonica-episode-10"
+      }
+    ]
   }
 ]
