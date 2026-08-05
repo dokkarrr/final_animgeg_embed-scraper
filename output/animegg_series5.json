@@ -32836,5 +32836,63 @@
         "url": "https://www.animegg.org/zinba-dub-episode-52"
       }
     ]
+  },
+  {
+    "serial_no": 6142,
+    "title": "Guilty Gear Strive: Dual Rulers",
+    "animegg_url": "https://www.animegg.org/series/guilty-gear-strive-dual-rulers",
+    "mal_url": "https://myanimelist.net/anime/59070",
+    "mal_id": 59070,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/140365",
+        "dub": null,
+        "url": "https://www.animegg.org/guilty-gear-strive-dual-rulers-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/140457",
+        "dub": null,
+        "url": "https://www.animegg.org/guilty-gear-strive-dual-rulers-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/140542",
+        "dub": null,
+        "url": "https://www.animegg.org/guilty-gear-strive-dual-rulers-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/140688",
+        "dub": null,
+        "url": "https://www.animegg.org/guilty-gear-strive-dual-rulers-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/140709",
+        "dub": null,
+        "url": "https://www.animegg.org/guilty-gear-strive-dual-rulers-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/140810",
+        "dub": null,
+        "url": "https://www.animegg.org/guilty-gear-strive-dual-rulers-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/140909",
+        "dub": null,
+        "url": "https://www.animegg.org/guilty-gear-strive-dual-rulers-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/141013",
+        "dub": null,
+        "url": "https://www.animegg.org/guilty-gear-strive-dual-rulers-episode-8"
+      }
+    ]
   }
 ]
