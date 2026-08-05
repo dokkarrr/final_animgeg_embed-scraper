@@ -7976,5 +7976,51 @@
         "url": "https://www.animegg.org/moonlight-mile-2nd-season-touch-down-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3174,
+    "title": "Chuunibyou demo Koi ga Shitai! Lite",
+    "animegg_url": "https://www.animegg.org/series/chuunibyou-demo-koi-ga-shitai-lite",
+    "mal_url": "https://myanimelist.net/anime/15687",
+    "mal_id": 15687,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/5947",
+        "dub": null,
+        "url": "https://www.animegg.org/chuunibyou-demo-koi-ga-shitai-lite-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/5949",
+        "dub": null,
+        "url": "https://www.animegg.org/chuunibyou-demo-koi-ga-shitai-lite-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/5950",
+        "dub": null,
+        "url": "https://www.animegg.org/chuunibyou-demo-koi-ga-shitai-lite-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/5948",
+        "dub": null,
+        "url": "https://www.animegg.org/chuunibyou-demo-koi-ga-shitai-lite-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/5946",
+        "dub": null,
+        "url": "https://www.animegg.org/chuunibyou-demo-koi-ga-shitai-lite-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/5951",
+        "dub": null,
+        "url": "https://www.animegg.org/chuunibyou-demo-koi-ga-shitai-lite-episode-6"
+      }
+    ]
   }
 ]
