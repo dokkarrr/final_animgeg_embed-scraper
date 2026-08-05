@@ -78200,5 +78200,87 @@
         "url": "https://www.animegg.org/kobato-specials-hajimete-no-kobato-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 4089,
+    "title": "Mahou Shoujo Magical Destroyers",
+    "animegg_url": "https://www.animegg.org/series/mahou-shoujo-magical-destroyers",
+    "mal_url": "https://myanimelist.net/anime/48981",
+    "mal_id": 48981,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/107667",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-magical-destroyers-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/107743",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-magical-destroyers-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/107845",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-magical-destroyers-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-magical-destroyers-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-magical-destroyers-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/107985",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-magical-destroyers-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/108130",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-magical-destroyers-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/108333",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-magical-destroyers-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/108808",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-magical-destroyers-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/129884",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-magical-destroyers-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/129883",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-magical-destroyers-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/129978",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-magical-destroyers-episode-12"
+      }
+    ]
   }
 ]
