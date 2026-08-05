@@ -90535,5 +90535,21 @@
         "url": "https://www.animegg.org/yi-shijie-zhongyao-pu-episode-41"
       }
     ]
+  },
+  {
+    "serial_no": 6668,
+    "title": "Brave Witches: Petersburg Daisenryaku",
+    "animegg_url": "https://www.animegg.org/series/brave-witches-petersburg-daisenryaku",
+    "mal_url": "https://myanimelist.net/anime/34644",
+    "mal_id": 34644,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/88204",
+        "dub": null,
+        "url": "https://www.animegg.org/brave-witches-petersburg-daisenryaku-episode-1"
+      }
+    ]
   }
 ]
