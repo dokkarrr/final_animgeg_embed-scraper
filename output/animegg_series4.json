@@ -69516,5 +69516,21 @@
         "url": "https://www.animegg.org/queens-blade-ova-specials-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 3940,
+    "title": "Detective Conan Movie 18: The Sniper from Another Dimension",
+    "animegg_url": "https://www.animegg.org/series/detective-conan-movie-18-the-sniper-from-another-dimension",
+    "mal_url": "https://myanimelist.net/anime/21419",
+    "mal_id": 21419,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 18,
+        "sub": "https://www.animegg.org/embed/66462",
+        "dub": "https://www.animegg.org/embed/66463",
+        "url": "https://www.animegg.org/detective-conan-movie-18-the-sniper-from-another-dimension-episode-18"
+      }
+    ]
   }
 ]
