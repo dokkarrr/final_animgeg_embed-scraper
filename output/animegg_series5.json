@@ -3640,5 +3640,21 @@
         "url": "https://www.animegg.org/hanabi-chan-wa-okuregachi-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 5669,
+    "title": "City Hunter - Death of Evil Ryo Saeba",
+    "animegg_url": "https://www.animegg.org/series/city-hunter---death-of-evil-ryo-saeba",
+    "mal_url": "https://myanimelist.net/anime/1479",
+    "mal_id": 1479,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/47386",
+        "dub": null,
+        "url": "https://www.animegg.org/city-hunter---death-of-evil-ryo-saeba-episode-1"
+      }
+    ]
   }
 ]
