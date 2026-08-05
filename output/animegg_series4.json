@@ -98272,5 +98272,93 @@
         "url": "https://www.animegg.org/rescue-me-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4382,
+    "title": "Mou Ippon!",
+    "animegg_url": "https://www.animegg.org/series/mou-ippon",
+    "mal_url": "https://myanimelist.net/anime/49376",
+    "mal_id": 49376,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/106813",
+        "dub": null,
+        "url": "https://www.animegg.org/mou-ippon-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/106885",
+        "dub": null,
+        "url": "https://www.animegg.org/mou-ippon-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/106958",
+        "dub": null,
+        "url": "https://www.animegg.org/mou-ippon-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/107028",
+        "dub": null,
+        "url": "https://www.animegg.org/mou-ippon-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/107102",
+        "dub": null,
+        "url": "https://www.animegg.org/mou-ippon-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/107171",
+        "dub": null,
+        "url": "https://www.animegg.org/mou-ippon-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/107281",
+        "dub": null,
+        "url": "https://www.animegg.org/mou-ippon-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/107346",
+        "dub": null,
+        "url": "https://www.animegg.org/mou-ippon-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/107410",
+        "dub": null,
+        "url": "https://www.animegg.org/mou-ippon-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/107473",
+        "dub": null,
+        "url": "https://www.animegg.org/mou-ippon-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/107537",
+        "dub": null,
+        "url": "https://www.animegg.org/mou-ippon-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/107598",
+        "dub": null,
+        "url": "https://www.animegg.org/mou-ippon-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/107638",
+        "dub": null,
+        "url": "https://www.animegg.org/mou-ippon-episode-13"
+      }
+    ]
   }
 ]
