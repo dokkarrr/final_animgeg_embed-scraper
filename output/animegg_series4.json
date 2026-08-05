@@ -58942,5 +58942,33 @@
         "url": "https://www.animegg.org/owari-no-seraph-nagoya-kessen-hen---owaranai-seraph---nagoya-kessen-hen-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 3800,
+    "title": "AIKa R-16: Virgin Mission",
+    "animegg_url": "https://www.animegg.org/series/aika-r-16-virgin-mission",
+    "mal_url": "https://myanimelist.net/anime/2163",
+    "mal_id": 2163,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/65198",
+        "dub": "https://www.animegg.org/embed/68226",
+        "url": "https://www.animegg.org/aika-r-16-virgin-mission-episode-3"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/65197",
+        "dub": "https://www.animegg.org/embed/68223",
+        "url": "https://www.animegg.org/aika-r-16-virgin-mission-episode-2"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/65196",
+        "dub": "https://www.animegg.org/embed/68222",
+        "url": "https://www.animegg.org/aika-r-16-virgin-mission-episode-1"
+      }
+    ]
   }
 ]
