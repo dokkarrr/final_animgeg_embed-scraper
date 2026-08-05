@@ -104662,5 +104662,45 @@
         "url": "https://www.animegg.org/mirai-nikki-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4490,
+    "title": "Maria-sama ga Miteru 3rd",
+    "animegg_url": "https://www.animegg.org/series/maria-sama-ga-miteru-3rd",
+    "mal_url": "https://myanimelist.net/anime/1729",
+    "mal_id": 1729,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/57403",
+        "dub": null,
+        "url": "https://www.animegg.org/maria-sama-ga-miteru-3rd-episode-5"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/57402",
+        "dub": null,
+        "url": "https://www.animegg.org/maria-sama-ga-miteru-3rd-episode-4"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/57401",
+        "dub": null,
+        "url": "https://www.animegg.org/maria-sama-ga-miteru-3rd-episode-3"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/57400",
+        "dub": null,
+        "url": "https://www.animegg.org/maria-sama-ga-miteru-3rd-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/57399",
+        "dub": null,
+        "url": "https://www.animegg.org/maria-sama-ga-miteru-3rd-episode-1"
+      }
+    ]
   }
 ]
