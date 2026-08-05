@@ -48994,5 +48994,99 @@
         "url": "https://www.animegg.org/kaitou-reinya-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3662,
+    "title": "Piano",
+    "animegg_url": "https://www.animegg.org/series/piano",
+    "mal_url": "https://myanimelist.net/anime/328",
+    "mal_id": 328,
+    "total_ep": 14,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/72567",
+        "dub": "https://www.animegg.org/embed/119842",
+        "url": "https://www.animegg.org/piano-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/72568",
+        "dub": "https://www.animegg.org/embed/119836",
+        "url": "https://www.animegg.org/piano-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/72571",
+        "dub": "https://www.animegg.org/embed/119835",
+        "url": "https://www.animegg.org/piano-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/72579",
+        "dub": "https://www.animegg.org/embed/119834",
+        "url": "https://www.animegg.org/piano-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/72581",
+        "dub": "https://www.animegg.org/embed/119833",
+        "url": "https://www.animegg.org/piano-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/72585",
+        "dub": "https://www.animegg.org/embed/119832",
+        "url": "https://www.animegg.org/piano-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/72587",
+        "dub": "https://www.animegg.org/embed/119831",
+        "url": "https://www.animegg.org/piano-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/72648",
+        "dub": "https://www.animegg.org/embed/119830",
+        "url": "https://www.animegg.org/piano-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/72652",
+        "dub": "https://www.animegg.org/embed/119829",
+        "url": "https://www.animegg.org/piano-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/72655",
+        "dub": "https://www.animegg.org/embed/119841",
+        "url": "https://www.animegg.org/piano-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/119840",
+        "dub": null,
+        "url": "https://www.animegg.org/piano-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/119839",
+        "dub": null,
+        "url": "https://www.animegg.org/piano-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/119838",
+        "dub": null,
+        "url": "https://www.animegg.org/piano-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/119837",
+        "dub": null,
+        "url": "https://www.animegg.org/piano-episode-14"
+      }
+    ]
   }
 ]
