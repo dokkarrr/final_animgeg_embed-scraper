@@ -57792,5 +57792,21 @@
         "url": "https://www.animegg.org/uramichi-oniisan-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3778,
+    "title": "Issho ni Training: Training with Hinako",
+    "animegg_url": "https://www.animegg.org/series/issho-ni-training-training-with-hinako",
+    "mal_url": "https://myanimelist.net/anime/6392",
+    "mal_id": 6392,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/53948",
+        "dub": null,
+        "url": "https://www.animegg.org/issho-ni-training-training-with-hinako-episode-1"
+      }
+    ]
   }
 ]
