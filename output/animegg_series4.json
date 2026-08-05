@@ -29184,5 +29184,21 @@
         "url": "https://www.animegg.org/akanesasu-shoujo-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3415,
+    "title": "Dragon Ball: Episode of Bardock",
+    "animegg_url": "https://www.animegg.org/series/dragon-ball-episode-of-bardock",
+    "mal_url": "https://myanimelist.net/anime/12231",
+    "mal_id": 12231,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/9416",
+        "dub": null,
+        "url": "https://www.animegg.org/dragon-ball-episode-of-bardock-episode-1"
+      }
+    ]
   }
 ]
