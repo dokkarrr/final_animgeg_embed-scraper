@@ -52584,5 +52584,87 @@
         "url": "https://www.animegg.org/future-gpx-cyber-formula-zero-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 3715,
+    "title": "Houkago Teibou Nisshi",
+    "animegg_url": "https://www.animegg.org/series/houkago-teibou-nisshi",
+    "mal_url": "https://myanimelist.net/anime/39730",
+    "mal_id": 39730,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/98259",
+        "dub": null,
+        "url": "https://www.animegg.org/houkago-teibou-nisshi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/98312",
+        "dub": null,
+        "url": "https://www.animegg.org/houkago-teibou-nisshi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/98363",
+        "dub": null,
+        "url": "https://www.animegg.org/houkago-teibou-nisshi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/99012",
+        "dub": null,
+        "url": "https://www.animegg.org/houkago-teibou-nisshi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/99057",
+        "dub": null,
+        "url": "https://www.animegg.org/houkago-teibou-nisshi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/99113",
+        "dub": null,
+        "url": "https://www.animegg.org/houkago-teibou-nisshi-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/99156",
+        "dub": null,
+        "url": "https://www.animegg.org/houkago-teibou-nisshi-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/99197",
+        "dub": null,
+        "url": "https://www.animegg.org/houkago-teibou-nisshi-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/99237",
+        "dub": null,
+        "url": "https://www.animegg.org/houkago-teibou-nisshi-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/99277",
+        "dub": null,
+        "url": "https://www.animegg.org/houkago-teibou-nisshi-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/99358",
+        "dub": null,
+        "url": "https://www.animegg.org/houkago-teibou-nisshi-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/99411",
+        "dub": null,
+        "url": "https://www.animegg.org/houkago-teibou-nisshi-episode-12"
+      }
+    ]
   }
 ]
