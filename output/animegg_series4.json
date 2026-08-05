@@ -91632,5 +91632,45 @@
         "url": "https://www.animegg.org/subarashiki-kono-sekai-the-animation-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4288,
+    "title": "Shounan Jun'ai-gumi!",
+    "animegg_url": "https://www.animegg.org/series/shounan-junai-gumi",
+    "mal_url": "https://myanimelist.net/anime/1913",
+    "mal_id": 1913,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/34898",
+        "dub": null,
+        "url": "https://www.animegg.org/shounan-junai-gumi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/34897",
+        "dub": null,
+        "url": "https://www.animegg.org/shounan-junai-gumi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/34894",
+        "dub": null,
+        "url": "https://www.animegg.org/shounan-junai-gumi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/34895",
+        "dub": null,
+        "url": "https://www.animegg.org/shounan-junai-gumi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/34896",
+        "dub": null,
+        "url": "https://www.animegg.org/shounan-junai-gumi-episode-5"
+      }
+    ]
   }
 ]
