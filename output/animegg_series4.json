@@ -100870,5 +100870,39 @@
         "url": "https://www.animegg.org/sakugan-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4412,
+    "title": "Ajimu: Beach Story",
+    "animegg_url": "https://www.animegg.org/series/ajimu-beach-story",
+    "mal_url": "https://myanimelist.net/anime/1734",
+    "mal_id": 1734,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/65375",
+        "dub": null,
+        "url": "https://www.animegg.org/ajimu-beach-story-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/65376",
+        "dub": null,
+        "url": "https://www.animegg.org/ajimu-beach-story-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/65377",
+        "dub": null,
+        "url": "https://www.animegg.org/ajimu-beach-story-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/65378",
+        "dub": null,
+        "url": "https://www.animegg.org/ajimu-beach-story-episode-4"
+      }
+    ]
   }
 ]
