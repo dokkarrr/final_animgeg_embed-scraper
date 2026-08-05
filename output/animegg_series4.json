@@ -96556,5 +96556,39 @@
         "url": "https://www.animegg.org/shinshaku-sanada-juuyuushi-the-animation-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 4361,
+    "title": "Mad★Bull 34",
+    "animegg_url": "https://www.animegg.org/series/mad-bull-34",
+    "mal_url": "https://myanimelist.net/anime/3448",
+    "mal_id": 3448,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 34,
+        "sub": "https://www.animegg.org/embed/54877",
+        "dub": "https://www.animegg.org/embed/54878",
+        "url": "https://www.animegg.org/mad-bull-34-episode-4"
+      },
+      {
+        "ep": 34,
+        "sub": "https://www.animegg.org/embed/54875",
+        "dub": "https://www.animegg.org/embed/54876",
+        "url": "https://www.animegg.org/mad-bull-34-episode-3"
+      },
+      {
+        "ep": 34,
+        "sub": "https://www.animegg.org/embed/54873",
+        "dub": "https://www.animegg.org/embed/54874",
+        "url": "https://www.animegg.org/mad-bull-34-episode-2"
+      },
+      {
+        "ep": 34,
+        "sub": "https://www.animegg.org/embed/54871",
+        "dub": "https://www.animegg.org/embed/54872",
+        "url": "https://www.animegg.org/mad-bull-34-episode-1"
+      }
+    ]
   }
 ]
