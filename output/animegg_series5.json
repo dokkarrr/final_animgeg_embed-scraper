@@ -43521,5 +43521,39 @@
         "url": "https://www.animegg.org/seitokai-no-ichizon-lv2-watasu-seitokai-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6256,
+    "title": "Kaiju Girl Caramelise",
+    "animegg_url": "https://www.animegg.org/series/kaiju-girl-caramelise",
+    "mal_url": "https://myanimelist.net/anime/63150",
+    "mal_id": 63150,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/146302",
+        "dub": null,
+        "url": "https://www.animegg.org/kaiju-girl-caramelise-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/146376",
+        "dub": "https://www.animegg.org/embed/146544",
+        "url": "https://www.animegg.org/kaiju-girl-caramelise-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/146462",
+        "dub": null,
+        "url": "https://www.animegg.org/kaiju-girl-caramelise-episode-3"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/146600",
+        "dub": null,
+        "url": "https://www.animegg.org/kaiju-girl-caramelise-episode-5"
+      }
+    ]
   }
 ]
