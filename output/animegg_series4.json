@@ -50294,5 +50294,93 @@
         "url": "https://www.animegg.org/yugo-the-negotiator-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3681,
+    "title": "Shadows House",
+    "animegg_url": "https://www.animegg.org/series/shadows-house",
+    "mal_url": "https://myanimelist.net/anime/43439",
+    "mal_id": 43439,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/101395",
+        "dub": null,
+        "url": "https://www.animegg.org/shadows-house-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/101466",
+        "dub": null,
+        "url": "https://www.animegg.org/shadows-house-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/101524",
+        "dub": null,
+        "url": "https://www.animegg.org/shadows-house-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/101590",
+        "dub": null,
+        "url": "https://www.animegg.org/shadows-house-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/101653",
+        "dub": null,
+        "url": "https://www.animegg.org/shadows-house-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/101720",
+        "dub": null,
+        "url": "https://www.animegg.org/shadows-house-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/101793",
+        "dub": null,
+        "url": "https://www.animegg.org/shadows-house-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/101865",
+        "dub": null,
+        "url": "https://www.animegg.org/shadows-house-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/101940",
+        "dub": null,
+        "url": "https://www.animegg.org/shadows-house-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/102007",
+        "dub": null,
+        "url": "https://www.animegg.org/shadows-house-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/102088",
+        "dub": null,
+        "url": "https://www.animegg.org/shadows-house-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/102145",
+        "dub": null,
+        "url": "https://www.animegg.org/shadows-house-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/102194",
+        "dub": null,
+        "url": "https://www.animegg.org/shadows-house-episode-13"
+      }
+    ]
   }
 ]
