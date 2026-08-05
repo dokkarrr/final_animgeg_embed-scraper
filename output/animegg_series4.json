@@ -75946,5 +75946,87 @@
         "url": "https://www.animegg.org/tribe-nine-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4052,
+    "title": "Himote House",
+    "animegg_url": "https://www.animegg.org/series/himote-house",
+    "mal_url": "https://myanimelist.net/anime/36945",
+    "mal_id": 36945,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/93119",
+        "dub": null,
+        "url": "https://www.animegg.org/himote-house-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/93197",
+        "dub": null,
+        "url": "https://www.animegg.org/himote-house-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/93273",
+        "dub": null,
+        "url": "https://www.animegg.org/himote-house-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/93362",
+        "dub": null,
+        "url": "https://www.animegg.org/himote-house-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/93439",
+        "dub": null,
+        "url": "https://www.animegg.org/himote-house-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/93518",
+        "dub": null,
+        "url": "https://www.animegg.org/himote-house-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/93596",
+        "dub": null,
+        "url": "https://www.animegg.org/himote-house-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/93666",
+        "dub": null,
+        "url": "https://www.animegg.org/himote-house-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/93731",
+        "dub": null,
+        "url": "https://www.animegg.org/himote-house-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/93815",
+        "dub": null,
+        "url": "https://www.animegg.org/himote-house-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/93971",
+        "dub": null,
+        "url": "https://www.animegg.org/himote-house-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/94053",
+        "dub": null,
+        "url": "https://www.animegg.org/himote-house-episode-12"
+      }
+    ]
   }
 ]
