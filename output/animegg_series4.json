@@ -108142,5 +108142,21 @@
         "url": "https://www.animegg.org/saiki-kusuo-no-nan-tv-dub-episode-120"
       }
     ]
+  },
+  {
+    "serial_no": 4541,
+    "title": "Steins;Gate: Kyoukaimenjou no Missing Link",
+    "animegg_url": "https://www.animegg.org/series/steins-gate-kyoukaimenjou-no-missing-link",
+    "mal_url": "https://myanimelist.net/anime/32188",
+    "mal_id": 32188,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/80161",
+        "dub": null,
+        "url": "https://www.animegg.org/steins-gate-kyoukaimenjou-no-missing-link-episode-1"
+      }
+    ]
   }
 ]
