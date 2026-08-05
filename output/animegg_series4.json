@@ -93426,5 +93426,63 @@
         "url": "https://www.animegg.org/mf-ghost-episode-11"
       }
     ]
+  },
+  {
+    "serial_no": 4309,
+    "title": "Mahoutsukai ni Narenakatta Onnanoko no Hanashi.",
+    "animegg_url": "https://www.animegg.org/series/mahoutsukai-ni-narenakatta-onnanoko-no-hanashi",
+    "mal_url": "https://myanimelist.net/anime/58173",
+    "mal_id": 58173,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/137622",
+        "dub": null,
+        "url": "https://www.animegg.org/mahoutsukai-ni-narenakatta-onnanoko-no-hanashi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/137886",
+        "dub": null,
+        "url": "https://www.animegg.org/mahoutsukai-ni-narenakatta-onnanoko-no-hanashi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/138142",
+        "dub": null,
+        "url": "https://www.animegg.org/mahoutsukai-ni-narenakatta-onnanoko-no-hanashi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/138406",
+        "dub": null,
+        "url": "https://www.animegg.org/mahoutsukai-ni-narenakatta-onnanoko-no-hanashi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/138573",
+        "dub": null,
+        "url": "https://www.animegg.org/mahoutsukai-ni-narenakatta-onnanoko-no-hanashi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/138827",
+        "dub": null,
+        "url": "https://www.animegg.org/mahoutsukai-ni-narenakatta-onnanoko-no-hanashi-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/139003",
+        "dub": null,
+        "url": "https://www.animegg.org/mahoutsukai-ni-narenakatta-onnanoko-no-hanashi-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/139209",
+        "dub": null,
+        "url": "https://www.animegg.org/mahoutsukai-ni-narenakatta-onnanoko-no-hanashi-episode-8"
+      }
+    ]
   }
 ]
