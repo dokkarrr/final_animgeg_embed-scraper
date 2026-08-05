@@ -48912,5 +48912,87 @@
         "url": "https://www.animegg.org/boku-no-tonari-ni-ankoku-hakaishin-ga-imasu-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3661,
+    "title": "Kaitou Reinya",
+    "animegg_url": "https://www.animegg.org/series/kaitou-reinya",
+    "mal_url": "https://myanimelist.net/anime/7561",
+    "mal_id": 7561,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/54976",
+        "dub": null,
+        "url": "https://www.animegg.org/kaitou-reinya-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/54977",
+        "dub": null,
+        "url": "https://www.animegg.org/kaitou-reinya-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/54978",
+        "dub": null,
+        "url": "https://www.animegg.org/kaitou-reinya-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/54979",
+        "dub": null,
+        "url": "https://www.animegg.org/kaitou-reinya-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/54980",
+        "dub": null,
+        "url": "https://www.animegg.org/kaitou-reinya-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/54981",
+        "dub": null,
+        "url": "https://www.animegg.org/kaitou-reinya-episode-6-5613"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/54982",
+        "dub": null,
+        "url": "https://www.animegg.org/kaitou-reinya-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/54983",
+        "dub": null,
+        "url": "https://www.animegg.org/kaitou-reinya-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/54984",
+        "dub": null,
+        "url": "https://www.animegg.org/kaitou-reinya-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/54985",
+        "dub": null,
+        "url": "https://www.animegg.org/kaitou-reinya-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/54986",
+        "dub": null,
+        "url": "https://www.animegg.org/kaitou-reinya-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/54987",
+        "dub": null,
+        "url": "https://www.animegg.org/kaitou-reinya-episode-12"
+      }
+    ]
   }
 ]
