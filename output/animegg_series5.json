@@ -110694,5 +110694,51 @@
         "url": "https://www.animegg.org/wan-wan-celepoo-soreyuke-tetsunoshin-episode-30"
       }
     ]
+  },
+  {
+    "serial_no": 6829,
+    "title": "The Missing 8",
+    "animegg_url": "https://www.animegg.org/series/the-missing-8",
+    "mal_url": "https://myanimelist.net/anime/50689",
+    "mal_id": 50689,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/106338",
+        "dub": null,
+        "url": "https://www.animegg.org/the-missing-8-episode-8"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/106218",
+        "dub": null,
+        "url": "https://www.animegg.org/the-missing-8-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/106212",
+        "dub": null,
+        "url": "https://www.animegg.org/the-missing-8-episode-6"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/106204",
+        "dub": null,
+        "url": "https://www.animegg.org/the-missing-8-episode-5"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/105215",
+        "dub": null,
+        "url": "https://www.animegg.org/the-missing-8-episode-4"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/105214",
+        "dub": null,
+        "url": "https://www.animegg.org/the-missing-8-episode-1"
+      }
+    ]
   }
 ]
