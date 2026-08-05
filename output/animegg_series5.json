@@ -58333,5 +58333,21 @@
         "url": "https://www.animegg.org/evangelion-3010-thrice-upon-a-time-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6388,
+    "title": "Yakusoku no Nanaya Matsuri",
+    "animegg_url": "https://www.animegg.org/series/yakusoku-no-nanaya-matsuri",
+    "mal_url": "https://myanimelist.net/anime/37970",
+    "mal_id": 37970,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/92160",
+        "dub": null,
+        "url": "https://www.animegg.org/yakusoku-no-nanaya-matsuri-episode-1"
+      }
+    ]
   }
 ]
