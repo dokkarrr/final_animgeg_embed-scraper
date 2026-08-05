@@ -10538,5 +10538,93 @@
         "url": "https://www.animegg.org/mushi-uta-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3207,
+    "title": "Skull Man",
+    "animegg_url": "https://www.animegg.org/series/skull-man",
+    "mal_url": "https://myanimelist.net/anime/2161",
+    "mal_id": 2161,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/35362",
+        "dub": null,
+        "url": "https://www.animegg.org/skull-man-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/35360",
+        "dub": null,
+        "url": "https://www.animegg.org/skull-man-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/35364",
+        "dub": null,
+        "url": "https://www.animegg.org/skull-man-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/35363",
+        "dub": null,
+        "url": "https://www.animegg.org/skull-man-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/35361",
+        "dub": null,
+        "url": "https://www.animegg.org/skull-man-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/35366",
+        "dub": null,
+        "url": "https://www.animegg.org/skull-man-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/35365",
+        "dub": null,
+        "url": "https://www.animegg.org/skull-man-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/35367",
+        "dub": null,
+        "url": "https://www.animegg.org/skull-man-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/35368",
+        "dub": null,
+        "url": "https://www.animegg.org/skull-man-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/35369",
+        "dub": null,
+        "url": "https://www.animegg.org/skull-man-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/35370",
+        "dub": null,
+        "url": "https://www.animegg.org/skull-man-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/35371",
+        "dub": null,
+        "url": "https://www.animegg.org/skull-man-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/35372",
+        "dub": null,
+        "url": "https://www.animegg.org/skull-man-episode-13"
+      }
+    ]
   }
 ]
