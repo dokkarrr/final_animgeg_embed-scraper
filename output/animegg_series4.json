@@ -131074,5 +131074,21 @@
         "url": "https://www.animegg.org/cardfight-vanguard-overdress-season-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4898,
+    "title": "Acchi Kocchi OVA",
+    "animegg_url": "https://www.animegg.org/series/acchi-kocchi-ova",
+    "mal_url": "https://myanimelist.net/anime/310",
+    "mal_id": 310,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/407",
+        "dub": null,
+        "url": "https://www.animegg.org/acchi-kocchi-ova-episode-1"
+      }
+    ]
   }
 ]
