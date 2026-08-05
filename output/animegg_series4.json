@@ -105324,5 +105324,21 @@
         "url": "https://www.animegg.org/gintama-shinyaku-benizakura-hen-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4501,
+    "title": "One Piece: Episode of Sorajima",
+    "animegg_url": "https://www.animegg.org/series/one-piece-episode-of-sorajima",
+    "mal_url": "https://myanimelist.net/anime/37902",
+    "mal_id": 37902,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/92602",
+        "dub": "https://www.animegg.org/embed/92604",
+        "url": "https://www.animegg.org/one-piece-episode-of-sorajima-episode-1"
+      }
+    ]
   }
 ]
