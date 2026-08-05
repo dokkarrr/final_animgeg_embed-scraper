@@ -19714,5 +19714,21 @@
         "url": "https://www.animegg.org/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5959,
+    "title": "Upotte!! OVA",
+    "animegg_url": "https://www.animegg.org/series/upotte-ova",
+    "mal_url": "https://myanimelist.net/anime/14173",
+    "mal_id": 14173,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/39529",
+        "dub": null,
+        "url": "https://www.animegg.org/upotte-ova-episode-1"
+      }
+    ]
   }
 ]
