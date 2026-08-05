@@ -72961,5 +72961,21 @@
         "url": "https://www.animegg.org/nanatsu-no-taizai-imashime-no-fukkatsu-dub-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 6519,
+    "title": "Kyoukai Senjou no Horizon XXI-PV",
+    "animegg_url": "https://www.animegg.org/series/kyoukai-senjou-no-horizon-xxi-pv",
+    "mal_url": "https://myanimelist.net/anime/38046",
+    "mal_id": 38046,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/94070",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoukai-senjou-no-horizon-xxi-pv-episode-1"
+      }
+    ]
   }
 ]
