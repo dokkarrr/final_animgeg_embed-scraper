@@ -20542,5 +20542,21 @@
         "url": "https://www.animegg.org/the-regression-of-great-sage-riddle-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 5980,
+    "title": "Granblue Fantasy The Animation Special",
+    "animegg_url": "https://www.animegg.org/series/granblue-fantasy-the-animation-special",
+    "mal_url": "https://myanimelist.net/anime/31629",
+    "mal_id": 31629,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/89867",
+        "dub": null,
+        "url": "https://www.animegg.org/granblue-fantasy-the-animation-special-episode-1"
+      }
+    ]
   }
 ]
