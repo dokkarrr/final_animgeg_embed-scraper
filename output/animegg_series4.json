@@ -35106,5 +35106,27 @@
         "url": "https://www.animegg.org/mars-red-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3472,
+    "title": "Angel Beats! Special",
+    "animegg_url": "https://www.animegg.org/series/angel-beats-special",
+    "mal_url": "https://myanimelist.net/anime/9062",
+    "mal_id": 9062,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/1127",
+        "dub": "https://www.animegg.org/embed/68402",
+        "url": "https://www.animegg.org/angel-beats-special-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/77545",
+        "dub": "https://www.animegg.org/embed/77551",
+        "url": "https://www.animegg.org/angel-beats-special-episode-2"
+      }
+    ]
   }
 ]
