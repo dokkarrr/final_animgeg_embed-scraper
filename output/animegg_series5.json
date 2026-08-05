@@ -65097,5 +65097,21 @@
         "url": "https://www.animegg.org/uchuu-senkan-yamato-aratanaru-tabidachi-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6450,
+    "title": "Tamayura: More Aggressive OVA",
+    "animegg_url": "https://www.animegg.org/series/tamayura-more-aggressive-ova",
+    "mal_url": "https://myanimelist.net/anime/21737",
+    "mal_id": 21737,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/46226",
+        "dub": "https://www.animegg.org/embed/46227",
+        "url": "https://www.animegg.org/tamayura-more-aggressive-ova-episode-1"
+      }
+    ]
   }
 ]
