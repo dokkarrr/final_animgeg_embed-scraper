@@ -91881,5 +91881,27 @@
         "url": "https://www.animegg.org/grancrest-senki-dub-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 6682,
+    "title": "Granblue Fantasy The Animation Season 2: Djeeta-hen",
+    "animegg_url": "https://www.animegg.org/series/granblue-fantasy-the-animation-season-2-djeeta-hen",
+    "mal_url": "https://myanimelist.net/anime/40873",
+    "mal_id": 40873,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/99217",
+        "dub": null,
+        "url": "https://www.animegg.org/granblue-fantasy-the-animation-season-2-djeeta-hen-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/98178",
+        "dub": null,
+        "url": "https://www.animegg.org/granblue-fantasy-the-animation-season-2-djeeta-hen-episode-1"
+      }
+    ]
   }
 ]
