@@ -44925,5 +44925,21 @@
         "url": "https://www.animegg.org/pripara-movie-mi-nna-atsumare-prism-tours-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6265,
+    "title": "Chiryokumaru",
+    "animegg_url": "https://www.animegg.org/series/chiryokumaru",
+    "mal_url": "https://myanimelist.net/anime/34324",
+    "mal_id": 34324,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/84669",
+        "dub": null,
+        "url": "https://www.animegg.org/chiryokumaru-episode-1"
+      }
+    ]
   }
 ]
