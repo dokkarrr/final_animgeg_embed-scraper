@@ -59592,5 +59592,51 @@
         "url": "https://www.animegg.org/jijou-wo-shiranai-tenkousei-ga-guigui-kuru-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3811,
+    "title": "Shinigami No Ballad",
+    "animegg_url": "https://www.animegg.org/series/shinigami-no-ballad",
+    "mal_url": "https://myanimelist.net/anime/789",
+    "mal_id": 789,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/34671",
+        "dub": "https://www.animegg.org/embed/34672",
+        "url": "https://www.animegg.org/shinigami-no-ballad-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/34673",
+        "dub": "https://www.animegg.org/embed/34674",
+        "url": "https://www.animegg.org/shinigami-no-ballad-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/34669",
+        "dub": "https://www.animegg.org/embed/34670",
+        "url": "https://www.animegg.org/shinigami-no-ballad-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/34675",
+        "dub": "https://www.animegg.org/embed/34676",
+        "url": "https://www.animegg.org/shinigami-no-ballad-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/34677",
+        "dub": "https://www.animegg.org/embed/34678",
+        "url": "https://www.animegg.org/shinigami-no-ballad-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/34679",
+        "dub": "https://www.animegg.org/embed/34680",
+        "url": "https://www.animegg.org/shinigami-no-ballad-episode-6"
+      }
+    ]
   }
 ]
