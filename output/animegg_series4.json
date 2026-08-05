@@ -132936,5 +132936,27 @@
         "url": "https://www.animegg.org/tales-of-symphonia-tethealla-hen-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 4924,
+    "title": "Yuru Yuri Nachuyachumi!",
+    "animegg_url": "https://www.animegg.org/series/yuru-yuri-nachuyachumi",
+    "mal_url": "https://myanimelist.net/anime/23225",
+    "mal_id": 23225,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/75024",
+        "dub": "https://www.animegg.org/embed/75259",
+        "url": "https://www.animegg.org/yuru-yuri-nachuyachumi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/79096",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-yuri-nachuyachumi-episode-2"
+      }
+    ]
   }
 ]
