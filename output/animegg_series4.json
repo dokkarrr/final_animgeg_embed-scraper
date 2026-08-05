@@ -25340,5 +25340,39 @@
         "url": "https://www.animegg.org/koihime-musou-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3366,
+    "title": "No Money!",
+    "animegg_url": "https://www.animegg.org/series/no-money",
+    "mal_url": "https://myanimelist.net/anime/2148",
+    "mal_id": 2148,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/58834",
+        "dub": null,
+        "url": "https://www.animegg.org/no-money-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/58835",
+        "dub": null,
+        "url": "https://www.animegg.org/no-money-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/58836",
+        "dub": null,
+        "url": "https://www.animegg.org/no-money-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/58837",
+        "dub": null,
+        "url": "https://www.animegg.org/no-money-episode-4"
+      }
+    ]
   }
 ]
