@@ -109022,5 +109022,21 @@
         "url": "https://www.animegg.org/sparks-of-tomorrow-episode-5"
       }
     ]
+  },
+  {
+    "serial_no": 6813,
+    "title": "5-toubun no Hanayome∽",
+    "animegg_url": "https://www.animegg.org/series/the-quintessential-quintuplets-e2-88-bd",
+    "mal_url": "https://myanimelist.net/anime/54915",
+    "mal_id": 54915,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/145532",
+        "dub": null,
+        "url": "https://www.animegg.org/the-quintessential-quintuplets-e2-88-bd-episode-1"
+      }
+    ]
   }
 ]
