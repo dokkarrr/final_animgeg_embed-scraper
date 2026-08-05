@@ -36702,5 +36702,93 @@
         "url": "https://www.animegg.org/saishuu-shiken-kujira-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3496,
+    "title": "Kami no Tou: Ouji no Kikan",
+    "animegg_url": "https://www.animegg.org/series/kami-no-tou-ouji-no-kikan",
+    "mal_url": "https://myanimelist.net/anime/52635",
+    "mal_id": 52635,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/135467",
+        "dub": null,
+        "url": "https://www.animegg.org/kami-no-tou-ouji-no-kikan-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/135524",
+        "dub": null,
+        "url": "https://www.animegg.org/kami-no-tou-ouji-no-kikan-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/135746",
+        "dub": null,
+        "url": "https://www.animegg.org/kami-no-tou-ouji-no-kikan-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/135886",
+        "dub": null,
+        "url": "https://www.animegg.org/kami-no-tou-ouji-no-kikan-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/136063",
+        "dub": null,
+        "url": "https://www.animegg.org/kami-no-tou-ouji-no-kikan-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/137157",
+        "dub": null,
+        "url": "https://www.animegg.org/kami-no-tou-ouji-no-kikan-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/136359",
+        "dub": null,
+        "url": "https://www.animegg.org/kami-no-tou-ouji-no-kikan-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/136530",
+        "dub": null,
+        "url": "https://www.animegg.org/kami-no-tou-ouji-no-kikan-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/136693",
+        "dub": null,
+        "url": "https://www.animegg.org/kami-no-tou-ouji-no-kikan-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/137156",
+        "dub": null,
+        "url": "https://www.animegg.org/kami-no-tou-ouji-no-kikan-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/137103",
+        "dub": null,
+        "url": "https://www.animegg.org/kami-no-tou-ouji-no-kikan-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/137236",
+        "dub": null,
+        "url": "https://www.animegg.org/kami-no-tou-ouji-no-kikan-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/137449",
+        "dub": null,
+        "url": "https://www.animegg.org/kami-no-tou-ouji-no-kikan-episode-13"
+      }
+    ]
   }
 ]
