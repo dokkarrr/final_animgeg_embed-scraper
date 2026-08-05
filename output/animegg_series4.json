@@ -6274,5 +6274,87 @@
         "url": "https://www.animegg.org/yojouhan-shinwa-taikei-episode-11"
       }
     ]
+  },
+  {
+    "serial_no": 3155,
+    "title": "Love Kome: We Love Rice",
+    "animegg_url": "https://www.animegg.org/series/love-kome-we-love-rice",
+    "mal_url": "https://myanimelist.net/anime/34402",
+    "mal_id": 34402,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/86457",
+        "dub": "https://www.animegg.org/embed/86805",
+        "url": "https://www.animegg.org/love-kome-we-love-rice-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/86556",
+        "dub": null,
+        "url": "https://www.animegg.org/love-kome-we-love-rice-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/86643",
+        "dub": null,
+        "url": "https://www.animegg.org/love-kome-we-love-rice-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/86733",
+        "dub": null,
+        "url": "https://www.animegg.org/love-kome-we-love-rice-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/86809",
+        "dub": null,
+        "url": "https://www.animegg.org/love-kome-we-love-rice-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/86886",
+        "dub": null,
+        "url": "https://www.animegg.org/love-kome-we-love-rice-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/86964",
+        "dub": null,
+        "url": "https://www.animegg.org/love-kome-we-love-rice-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/87045",
+        "dub": null,
+        "url": "https://www.animegg.org/love-kome-we-love-rice-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/87125",
+        "dub": null,
+        "url": "https://www.animegg.org/love-kome-we-love-rice-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/87216",
+        "dub": null,
+        "url": "https://www.animegg.org/love-kome-we-love-rice-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/87285",
+        "dub": null,
+        "url": "https://www.animegg.org/love-kome-we-love-rice-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/87352",
+        "dub": null,
+        "url": "https://www.animegg.org/love-kome-we-love-rice-episode-12"
+      }
+    ]
   }
 ]
