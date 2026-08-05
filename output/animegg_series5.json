@@ -8227,5 +8227,21 @@
         "url": "https://www.animegg.org/eternal-family-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5745,
+    "title": "Jungle Emperor Leo",
+    "animegg_url": "https://www.animegg.org/series/jungle-emperor-leo",
+    "mal_url": "https://myanimelist.net/anime/2264",
+    "mal_id": 2264,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/54206",
+        "dub": null,
+        "url": "https://www.animegg.org/jungle-emperor-leo-episode-1"
+      }
+    ]
   }
 ]
