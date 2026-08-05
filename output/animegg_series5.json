@@ -7693,5 +7693,21 @@
         "url": "https://www.animegg.org/tsuki-ga-kirei-special-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5736,
+    "title": "Busou Shinki Moon Angel",
+    "animegg_url": "https://www.animegg.org/series/busou-shinki-moon-angel",
+    "mal_url": "https://myanimelist.net/anime/11103",
+    "mal_id": 11103,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/4919",
+        "dub": null,
+        "url": "https://www.animegg.org/busou-shinki-moon-angel-episode-1"
+      }
+    ]
   }
 ]
