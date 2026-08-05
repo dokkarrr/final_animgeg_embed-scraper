@@ -70290,5 +70290,87 @@
         "url": "https://www.animegg.org/bungou-stray-dogs-4th-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3955,
+    "title": "Kai Byoui Ramune",
+    "animegg_url": "https://www.animegg.org/series/kai-byoui-ramune",
+    "mal_url": "https://myanimelist.net/anime/42822",
+    "mal_id": 42822,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/100449",
+        "dub": null,
+        "url": "https://www.animegg.org/kai-byoui-ramune-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/100549",
+        "dub": null,
+        "url": "https://www.animegg.org/kai-byoui-ramune-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/100623",
+        "dub": null,
+        "url": "https://www.animegg.org/kai-byoui-ramune-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/100697",
+        "dub": null,
+        "url": "https://www.animegg.org/kai-byoui-ramune-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/100767",
+        "dub": null,
+        "url": "https://www.animegg.org/kai-byoui-ramune-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/100838",
+        "dub": null,
+        "url": "https://www.animegg.org/kai-byoui-ramune-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/100914",
+        "dub": null,
+        "url": "https://www.animegg.org/kai-byoui-ramune-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/100989",
+        "dub": null,
+        "url": "https://www.animegg.org/kai-byoui-ramune-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/101062",
+        "dub": null,
+        "url": "https://www.animegg.org/kai-byoui-ramune-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/101133",
+        "dub": null,
+        "url": "https://www.animegg.org/kai-byoui-ramune-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/101204",
+        "dub": null,
+        "url": "https://www.animegg.org/kai-byoui-ramune-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/101274",
+        "dub": null,
+        "url": "https://www.animegg.org/kai-byoui-ramune-episode-12"
+      }
+    ]
   }
 ]
