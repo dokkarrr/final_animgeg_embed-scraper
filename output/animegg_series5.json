@@ -27794,5 +27794,87 @@
         "url": "https://www.animegg.org/uta-no-prince-sama-maji-love-2000-special-episode"
       }
     ]
+  },
+  {
+    "serial_no": 6062,
+    "title": "Vlad Love",
+    "animegg_url": "https://www.animegg.org/series/vlad-love",
+    "mal_url": "https://myanimelist.net/anime/39990",
+    "mal_id": 39990,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/100380",
+        "dub": null,
+        "url": "https://www.animegg.org/vlad-love-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/115650",
+        "dub": null,
+        "url": "https://www.animegg.org/vlad-love-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/115648",
+        "dub": null,
+        "url": "https://www.animegg.org/vlad-love-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/115649",
+        "dub": null,
+        "url": "https://www.animegg.org/vlad-love-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/115647",
+        "dub": null,
+        "url": "https://www.animegg.org/vlad-love-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/100837",
+        "dub": null,
+        "url": "https://www.animegg.org/vlad-love-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/101135",
+        "dub": null,
+        "url": "https://www.animegg.org/vlad-love-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/115646",
+        "dub": null,
+        "url": "https://www.animegg.org/vlad-love-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/115645",
+        "dub": null,
+        "url": "https://www.animegg.org/vlad-love-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/115652",
+        "dub": null,
+        "url": "https://www.animegg.org/vlad-love-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/115651",
+        "dub": null,
+        "url": "https://www.animegg.org/vlad-love-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/101134",
+        "dub": null,
+        "url": "https://www.animegg.org/vlad-love-episode-12"
+      }
+    ]
   }
 ]
