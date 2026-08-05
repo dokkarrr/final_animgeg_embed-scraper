@@ -19838,5 +19838,39 @@
         "url": "https://www.animegg.org/magic-maker-isekai-mahou-no-tsukurikata-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 5963,
+    "title": "Hashiri Tsuzukete Yokattatte.",
+    "animegg_url": "https://www.animegg.org/series/hashiri-tsuzukete-yokattatte",
+    "mal_url": "https://myanimelist.net/anime/38254",
+    "mal_id": 38254,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/93301",
+        "dub": null,
+        "url": "https://www.animegg.org/hashiri-tsuzukete-yokattatte-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/93303",
+        "dub": null,
+        "url": "https://www.animegg.org/hashiri-tsuzukete-yokattatte-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/93382",
+        "dub": null,
+        "url": "https://www.animegg.org/hashiri-tsuzukete-yokattatte-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/93555",
+        "dub": null,
+        "url": "https://www.animegg.org/hashiri-tsuzukete-yokattatte-episode-4"
+      }
+    ]
   }
 ]
