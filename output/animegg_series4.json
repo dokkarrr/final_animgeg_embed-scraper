@@ -134540,5 +134540,27 @@
         "url": "https://www.animegg.org/higurashi-no-naku-koro-ni-sotsu-2021-episode-15"
       }
     ]
+  },
+  {
+    "serial_no": 4947,
+    "title": "Honoo no Labyrinth",
+    "animegg_url": "https://www.animegg.org/series/honoo-no-labyrinth",
+    "mal_url": "https://myanimelist.net/anime/581",
+    "mal_id": 581,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/71397",
+        "dub": null,
+        "url": "https://www.animegg.org/honoo-no-labyrinth-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/71398",
+        "dub": null,
+        "url": "https://www.animegg.org/honoo-no-labyrinth-episode-2"
+      }
+    ]
   }
 ]
