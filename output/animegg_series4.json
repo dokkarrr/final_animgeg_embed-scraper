@@ -76624,5 +76624,33 @@
         "url": "https://www.animegg.org/kamisama-hajimemashita-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4061,
+    "title": "Love Hina Again",
+    "animegg_url": "https://www.animegg.org/series/love-hina-again",
+    "mal_url": "https://myanimelist.net/anime/190",
+    "mal_id": 190,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/21893",
+        "dub": "https://www.animegg.org/embed/71620",
+        "url": "https://www.animegg.org/love-hina-again-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/21892",
+        "dub": "https://www.animegg.org/embed/71622",
+        "url": "https://www.animegg.org/love-hina-again-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/21894",
+        "dub": "https://www.animegg.org/embed/71623",
+        "url": "https://www.animegg.org/love-hina-again-episode-3"
+      }
+    ]
   }
 ]
