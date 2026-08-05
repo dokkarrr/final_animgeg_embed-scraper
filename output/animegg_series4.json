@@ -79002,5 +79002,63 @@
         "url": "https://www.animegg.org/fushigi-yuugi-eikouden-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 4102,
+    "title": "Toaru Ossan no VRMMO Katsudouki",
+    "animegg_url": "https://www.animegg.org/series/toaru-ossan-no-vrmmo-katsudouki",
+    "mal_url": "https://myanimelist.net/anime/54431",
+    "mal_id": 54431,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/131569",
+        "dub": null,
+        "url": "https://www.animegg.org/toaru-ossan-no-vrmmo-katsudouki-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/131700",
+        "dub": null,
+        "url": "https://www.animegg.org/toaru-ossan-no-vrmmo-katsudouki-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/131814",
+        "dub": null,
+        "url": "https://www.animegg.org/toaru-ossan-no-vrmmo-katsudouki-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/131917",
+        "dub": null,
+        "url": "https://www.animegg.org/toaru-ossan-no-vrmmo-katsudouki-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/132028",
+        "dub": null,
+        "url": "https://www.animegg.org/toaru-ossan-no-vrmmo-katsudouki-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/132117",
+        "dub": null,
+        "url": "https://www.animegg.org/toaru-ossan-no-vrmmo-katsudouki-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/132207",
+        "dub": null,
+        "url": "https://www.animegg.org/toaru-ossan-no-vrmmo-katsudouki-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/132318",
+        "dub": null,
+        "url": "https://www.animegg.org/toaru-ossan-no-vrmmo-katsudouki-episode-8"
+      }
+    ]
   }
 ]
