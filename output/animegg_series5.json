@@ -29482,5 +29482,21 @@
         "url": "https://www.animegg.org/the-100-girlfriends-who-really-really-really-really-really-love-you-season-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6109,
+    "title": "Ippatsu Hicchuu!! Devander",
+    "animegg_url": "https://www.animegg.org/series/ippatsu-hicchuu-devander",
+    "mal_url": "https://myanimelist.net/anime/13693",
+    "mal_id": 13693,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/18318",
+        "dub": null,
+        "url": "https://www.animegg.org/ippatsu-hicchuu-devander-episode-1"
+      }
+    ]
   }
 ]
