@@ -93322,5 +93322,45 @@
         "url": "https://www.animegg.org/sarazanmai-episode-11"
       }
     ]
+  },
+  {
+    "serial_no": 4307,
+    "title": "Angel Tales 2",
+    "animegg_url": "https://www.animegg.org/series/angel-tales-2",
+    "mal_url": "https://myanimelist.net/anime/684",
+    "mal_id": 684,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/65284",
+        "dub": null,
+        "url": "https://www.animegg.org/angel-tales-2-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/65283",
+        "dub": null,
+        "url": "https://www.animegg.org/angel-tales-2-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/65282",
+        "dub": null,
+        "url": "https://www.animegg.org/angel-tales-2-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/65281",
+        "dub": null,
+        "url": "https://www.animegg.org/angel-tales-2-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/65280",
+        "dub": null,
+        "url": "https://www.animegg.org/angel-tales-2-episode-1"
+      }
+    ]
   }
 ]
