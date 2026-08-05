@@ -19872,5 +19872,21 @@
         "url": "https://www.animegg.org/hashiri-tsuzukete-yokattatte-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 5964,
+    "title": "Yu Yu Hakusho Special",
+    "animegg_url": "https://www.animegg.org/series/yu-yu-hakusho-special",
+    "mal_url": "https://myanimelist.net/anime/392",
+    "mal_id": 392,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/93659",
+        "dub": null,
+        "url": "https://www.animegg.org/yu-yu-hakusho-special-episode-1"
+      }
+    ]
   }
 ]
