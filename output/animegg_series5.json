@@ -37332,5 +37332,21 @@
         "url": "https://www.animegg.org/tenchi-muyo-in-love-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6189,
+    "title": "Made in Abyss Movie 1: Tabidachi no Yoake",
+    "animegg_url": "https://www.animegg.org/series/made-in-abyss-movie-1-tabidachi-no-yoake",
+    "mal_url": "https://myanimelist.net/anime/37514",
+    "mal_id": 37514,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/97637",
+        "dub": null,
+        "url": "https://www.animegg.org/made-in-abyss-movie-1-tabidachi-no-yoake-episode-1"
+      }
+    ]
   }
 ]
