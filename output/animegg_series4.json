@@ -66270,5 +66270,93 @@
         "url": "https://www.animegg.org/inazuma-eleven-outer-code-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 3898,
+    "title": "Usavich III",
+    "animegg_url": "https://www.animegg.org/series/usavich-iii",
+    "mal_url": "https://myanimelist.net/anime/5397",
+    "mal_id": 5397,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/65101",
+        "dub": null,
+        "url": "https://www.animegg.org/usavich-iii-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/65102",
+        "dub": null,
+        "url": "https://www.animegg.org/usavich-iii-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/65103",
+        "dub": null,
+        "url": "https://www.animegg.org/usavich-iii-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/65104",
+        "dub": null,
+        "url": "https://www.animegg.org/usavich-iii-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/65105",
+        "dub": null,
+        "url": "https://www.animegg.org/usavich-iii-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/65106",
+        "dub": null,
+        "url": "https://www.animegg.org/usavich-iii-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/65107",
+        "dub": null,
+        "url": "https://www.animegg.org/usavich-iii-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/65108",
+        "dub": null,
+        "url": "https://www.animegg.org/usavich-iii-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/65109",
+        "dub": null,
+        "url": "https://www.animegg.org/usavich-iii-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/65110",
+        "dub": null,
+        "url": "https://www.animegg.org/usavich-iii-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/65111",
+        "dub": null,
+        "url": "https://www.animegg.org/usavich-iii-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/65112",
+        "dub": null,
+        "url": "https://www.animegg.org/usavich-iii-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/65113",
+        "dub": null,
+        "url": "https://www.animegg.org/usavich-iii-episode-13"
+      }
+    ]
   }
 ]
