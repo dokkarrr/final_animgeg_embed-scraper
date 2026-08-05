@@ -2270,5 +2270,21 @@
         "url": "https://www.animegg.org/otome-nadeshiko-koi-techou-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5643,
+    "title": "Toaru Beach no Tokuten Eizo",
+    "animegg_url": "https://www.animegg.org/series/toaru-beach-no-tokuten-eizo",
+    "mal_url": "https://myanimelist.net/anime/9063",
+    "mal_id": 9063,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66283",
+        "dub": null,
+        "url": "https://www.animegg.org/toaru-beach-no-tokuten-eizo-episode-1"
+      }
+    ]
   }
 ]
