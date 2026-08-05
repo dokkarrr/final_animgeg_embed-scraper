@@ -75911,5 +75911,21 @@
         "url": "https://www.animegg.org/the-kabocha-wine-episode-47"
       }
     ]
+  },
+  {
+    "serial_no": 6535,
+    "title": "Kaiketsu Zorori: Mamoru ze! Kyouryuu no Tamago",
+    "animegg_url": "https://www.animegg.org/series/kaiketsu-zorori-mamoru-ze-kyouryuu-no-tamago",
+    "mal_url": "https://myanimelist.net/anime/19587",
+    "mal_id": 19587,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/123938",
+        "dub": null,
+        "url": "https://www.animegg.org/kaiketsu-zorori-mamoru-ze-kyouryuu-no-tamago-episode-1"
+      }
+    ]
   }
 ]
