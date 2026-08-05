@@ -95780,5 +95780,27 @@
         "url": "https://www.animegg.org/ojou-to-banken-kun-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 4350,
+    "title": "Ao no Exorcist OVA",
+    "animegg_url": "https://www.animegg.org/series/ao-no-exorcist-ova",
+    "mal_url": "https://myanimelist.net/anime/9919",
+    "mal_id": 9919,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/86653",
+        "dub": "https://www.animegg.org/embed/86709",
+        "url": "https://www.animegg.org/ao-no-exorcist-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/90707",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-exorcist-ova-episode-2"
+      }
+    ]
   }
 ]
