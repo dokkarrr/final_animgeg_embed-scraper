@@ -13863,5 +13863,21 @@
         "url": "https://www.animegg.org/ex-driver-nina-rei-danger-zone-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5840,
+    "title": "Hikaru no Go Special",
+    "animegg_url": "https://www.animegg.org/series/hikaru-no-go-special",
+    "mal_url": "https://myanimelist.net/anime/10765",
+    "mal_id": 10765,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/53431",
+        "dub": null,
+        "url": "https://www.animegg.org/hikaru-no-go-special-episode-1"
+      }
+    ]
   }
 ]
