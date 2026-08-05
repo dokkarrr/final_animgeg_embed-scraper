@@ -5734,5 +5734,21 @@
         "url": "https://www.animegg.org/medaka-kuroiwa-is-impervious-to-my-charms-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 5699,
+    "title": "C³ Special",
+    "animegg_url": "https://www.animegg.org/series/c-special",
+    "mal_url": "https://myanimelist.net/anime/14117",
+    "mal_id": 14117,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/6656",
+        "dub": null,
+        "url": "https://www.animegg.org/c-special-episode-1"
+      }
+    ]
   }
 ]
