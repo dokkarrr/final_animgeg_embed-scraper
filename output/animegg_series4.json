@@ -125136,5 +125136,87 @@
         "url": "https://www.animegg.org/astro-note-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4801,
+    "title": "The Holy Grail of Eris",
+    "animegg_url": "https://www.animegg.org/series/the-holy-grail-of-eris",
+    "mal_url": "https://myanimelist.net/anime/60151",
+    "mal_id": 60151,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/144102",
+        "dub": null,
+        "url": "https://www.animegg.org/the-holy-grail-of-eris-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/144208",
+        "dub": null,
+        "url": "https://www.animegg.org/the-holy-grail-of-eris-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/144306",
+        "dub": null,
+        "url": "https://www.animegg.org/the-holy-grail-of-eris-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/144421",
+        "dub": null,
+        "url": "https://www.animegg.org/the-holy-grail-of-eris-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/144522",
+        "dub": null,
+        "url": "https://www.animegg.org/the-holy-grail-of-eris-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/144609",
+        "dub": null,
+        "url": "https://www.animegg.org/the-holy-grail-of-eris-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/144721",
+        "dub": null,
+        "url": "https://www.animegg.org/the-holy-grail-of-eris-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/144820",
+        "dub": null,
+        "url": "https://www.animegg.org/the-holy-grail-of-eris-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/144939",
+        "dub": null,
+        "url": "https://www.animegg.org/the-holy-grail-of-eris-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/145041",
+        "dub": null,
+        "url": "https://www.animegg.org/the-holy-grail-of-eris-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/145151",
+        "dub": null,
+        "url": "https://www.animegg.org/the-holy-grail-of-eris-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/145242",
+        "dub": null,
+        "url": "https://www.animegg.org/the-holy-grail-of-eris-episode-12"
+      }
+    ]
   }
 ]
