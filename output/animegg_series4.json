@@ -30780,5 +30780,21 @@
         "url": "https://www.animegg.org/karasu-wa-aruji-wo-erabanai-episode-20"
       }
     ]
+  },
+  {
+    "serial_no": 3436,
+    "title": "One Piece: Adventure of Nebulandia",
+    "animegg_url": "https://www.animegg.org/series/one-piece-adventure-of-nebulandia",
+    "mal_url": "https://myanimelist.net/anime/32051",
+    "mal_id": 32051,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/80439",
+        "dub": null,
+        "url": "https://www.animegg.org/one-piece-adventure-of-nebulandia-episode-1"
+      }
+    ]
   }
 ]
