@@ -27326,5 +27326,27 @@
         "url": "https://www.animegg.org/onegai-twins-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6056,
+    "title": "Uchuu Senkan Yamato (Movie)",
+    "animegg_url": "https://www.animegg.org/series/uchuu-senkan-yamato-movie",
+    "mal_url": "https://myanimelist.net/anime/711",
+    "mal_id": 711,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66069",
+        "dub": null,
+        "url": "https://www.animegg.org/uchuu-senkan-yamato-movie-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/66070",
+        "dub": null,
+        "url": "https://www.animegg.org/uchuu-senkan-yamato-movie-episode-2"
+      }
+    ]
   }
 ]
