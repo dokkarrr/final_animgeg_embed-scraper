@@ -32990,5 +32990,33 @@
         "url": "https://www.animegg.org/star-wars-visions-episode-9"
       }
     ]
+  },
+  {
+    "serial_no": 6146,
+    "title": "High Score Girl: Extra Stage",
+    "animegg_url": "https://www.animegg.org/series/high-score-girl-extra-stage",
+    "mal_url": "https://myanimelist.net/anime/38422",
+    "mal_id": 38422,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/94841",
+        "dub": null,
+        "url": "https://www.animegg.org/high-score-girl-extra-stage-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/94843",
+        "dub": null,
+        "url": "https://www.animegg.org/high-score-girl-extra-stage-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/94842",
+        "dub": null,
+        "url": "https://www.animegg.org/high-score-girl-extra-stage-episode-3"
+      }
+    ]
   }
 ]
