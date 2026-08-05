@@ -103006,5 +103006,21 @@
         "url": "https://www.animegg.org/zashiki-warashi-no-tatami-chan-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4451,
+    "title": "Code Geass: Lelouch of the Rebellion Special Edition Black Rebellion",
+    "animegg_url": "https://www.animegg.org/series/code-geass-lelouch-of-the-rebellion-special-edition-black-rebellion",
+    "mal_url": "https://myanimelist.net/anime/4596",
+    "mal_id": 4596,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/6214",
+        "dub": null,
+        "url": "https://www.animegg.org/code-geass-lelouch-of-the-rebellion-special-edition-black-rebellion-episode-1"
+      }
+    ]
   }
 ]
