@@ -53916,5 +53916,21 @@
         "url": "https://www.animegg.org/can-a-boy-girl-friendship-survive--episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3727,
+    "title": "Ponyo on a Cliff",
+    "animegg_url": "https://www.animegg.org/series/ponyo-on-a-cliff",
+    "mal_url": "https://myanimelist.net/anime/2890",
+    "mal_id": 2890,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/60377",
+        "dub": "https://www.animegg.org/embed/60378",
+        "url": "https://www.animegg.org/ponyo-on-a-cliff-episode-1"
+      }
+    ]
   }
 ]
