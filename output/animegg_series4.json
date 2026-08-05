@@ -38914,5 +38914,87 @@
         "url": "https://www.animegg.org/yami-shibai-6th-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3530,
+    "title": "Animegataris",
+    "animegg_url": "https://www.animegg.org/series/animegataris",
+    "mal_url": "https://myanimelist.net/anime/35427",
+    "mal_id": 35427,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/88591",
+        "dub": null,
+        "url": "https://www.animegg.org/animegataris-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/88680",
+        "dub": null,
+        "url": "https://www.animegg.org/animegataris-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/88754",
+        "dub": null,
+        "url": "https://www.animegg.org/animegataris-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/88846",
+        "dub": null,
+        "url": "https://www.animegg.org/animegataris-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/88933",
+        "dub": null,
+        "url": "https://www.animegg.org/animegataris-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/89026",
+        "dub": null,
+        "url": "https://www.animegg.org/animegataris-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/89110",
+        "dub": null,
+        "url": "https://www.animegg.org/animegataris-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/89189",
+        "dub": null,
+        "url": "https://www.animegg.org/animegataris-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/89260",
+        "dub": null,
+        "url": "https://www.animegg.org/animegataris-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/89342",
+        "dub": null,
+        "url": "https://www.animegg.org/animegataris-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/89417",
+        "dub": null,
+        "url": "https://www.animegg.org/animegataris-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/89489",
+        "dub": null,
+        "url": "https://www.animegg.org/animegataris-episode-12"
+      }
+    ]
   }
 ]
