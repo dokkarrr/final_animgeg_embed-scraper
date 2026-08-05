@@ -109850,5 +109850,21 @@
         "url": "https://www.animegg.org/shin-chou-kyou-ryo-condor-hero-dub-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 6819,
+    "title": "Ni no Kuni",
+    "animegg_url": "https://www.animegg.org/series/ni-no-kuni",
+    "mal_url": "https://myanimelist.net/anime/39235",
+    "mal_id": 39235,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/97557",
+        "dub": null,
+        "url": "https://www.animegg.org/ni-no-kuni-episode-1"
+      }
+    ]
   }
 ]
