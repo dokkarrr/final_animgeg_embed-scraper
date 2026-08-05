@@ -69174,5 +69174,27 @@
         "url": "https://www.animegg.org/shinobi-no-ittoki-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3934,
+    "title": "Kirepapa",
+    "animegg_url": "https://www.animegg.org/series/kirepapa",
+    "mal_url": "https://myanimelist.net/anime/3375",
+    "mal_id": 3375,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/55660",
+        "dub": null,
+        "url": "https://www.animegg.org/kirepapa-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/55661",
+        "dub": null,
+        "url": "https://www.animegg.org/kirepapa-episode-2"
+      }
+    ]
   }
 ]
