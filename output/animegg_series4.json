@@ -69790,5 +69790,87 @@
         "url": "https://www.animegg.org/shiro-seijo-to-kuro-bokushi-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3947,
+    "title": "Obey Me!",
+    "animegg_url": "https://www.animegg.org/series/obey-me",
+    "mal_url": "https://myanimelist.net/anime/48641",
+    "mal_id": 48641,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/102280",
+        "dub": null,
+        "url": "https://www.animegg.org/obey-me-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/102552",
+        "dub": null,
+        "url": "https://www.animegg.org/obey-me-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/102553",
+        "dub": null,
+        "url": "https://www.animegg.org/obey-me-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/102670",
+        "dub": null,
+        "url": "https://www.animegg.org/obey-me-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/102774",
+        "dub": null,
+        "url": "https://www.animegg.org/obey-me-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/102919",
+        "dub": null,
+        "url": "https://www.animegg.org/obey-me-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/103106",
+        "dub": null,
+        "url": "https://www.animegg.org/obey-me-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/103233",
+        "dub": null,
+        "url": "https://www.animegg.org/obey-me-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/103352",
+        "dub": null,
+        "url": "https://www.animegg.org/obey-me-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/103472",
+        "dub": null,
+        "url": "https://www.animegg.org/obey-me-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/103604",
+        "dub": null,
+        "url": "https://www.animegg.org/obey-me-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/103704",
+        "dub": null,
+        "url": "https://www.animegg.org/obey-me-episode-12"
+      }
+    ]
   }
 ]
