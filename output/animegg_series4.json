@@ -60162,5 +60162,21 @@
         "url": "https://www.animegg.org/boushoku-no-berserk-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 3820,
+    "title": "Detective Conan Movie 23: The Fist of Blue Sapphire",
+    "animegg_url": "https://www.animegg.org/series/detective-conan-movie-23-the-fist-of-blue-sapphire",
+    "mal_url": "https://myanimelist.net/anime/38770",
+    "mal_id": 38770,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 23,
+        "sub": "https://www.animegg.org/embed/96597",
+        "dub": "https://www.animegg.org/embed/97339",
+        "url": "https://www.animegg.org/detective-conan-movie-23-the-fist-of-blue-sapphire-episode-1"
+      }
+    ]
   }
 ]
