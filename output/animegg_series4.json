@@ -71702,5 +71702,45 @@
         "url": "https://www.animegg.org/tsukumogami-kashimasu-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3978,
+    "title": "Mushoku tensei jobless reincarnation season 3",
+    "animegg_url": "https://www.animegg.org/series/mushoku-tensei-jobless-reincarnation-season-3",
+    "mal_url": "https://myanimelist.net/anime/59193",
+    "mal_id": 59193,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/146558",
+        "dub": null,
+        "url": "https://www.animegg.org/mushoku-tensei-jobless-reincarnation-season-3-episode-5"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/146615",
+        "dub": null,
+        "url": "https://www.animegg.org/mushoku-tensei-jobless-reincarnation-season-3-episode-4"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/146418",
+        "dub": "https://www.animegg.org/embed/146578",
+        "url": "https://www.animegg.org/mushoku-tensei-jobless-reincarnation-season-3-episode-3"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/146495",
+        "dub": null,
+        "url": "https://www.animegg.org/mushoku-tensei-jobless-reincarnation-season-3-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/146498",
+        "dub": null,
+        "url": "https://www.animegg.org/mushoku-tensei-jobless-reincarnation-season-3-episode-1"
+      }
+    ]
   }
 ]
