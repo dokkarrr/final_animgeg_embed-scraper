@@ -123296,5 +123296,69 @@
         "url": "https://www.animegg.org/resident-evil-vendetta-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4785,
+    "title": "Migi to Dali",
+    "animegg_url": "https://www.animegg.org/series/migi-to-dali",
+    "mal_url": "https://myanimelist.net/anime/50586",
+    "mal_id": 50586,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/131565",
+        "dub": null,
+        "url": "https://www.animegg.org/migi-to-dali-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/131692",
+        "dub": null,
+        "url": "https://www.animegg.org/migi-to-dali-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/131807",
+        "dub": null,
+        "url": "https://www.animegg.org/migi-to-dali-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/131915",
+        "dub": null,
+        "url": "https://www.animegg.org/migi-to-dali-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/132022",
+        "dub": null,
+        "url": "https://www.animegg.org/migi-to-dali-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/migi-to-dali-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/132204",
+        "dub": null,
+        "url": "https://www.animegg.org/migi-to-dali-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/132312",
+        "dub": null,
+        "url": "https://www.animegg.org/migi-to-dali-episode-8"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/132558",
+        "dub": null,
+        "url": "https://www.animegg.org/migi-to-dali-episode-13"
+      }
+    ]
   }
 ]
