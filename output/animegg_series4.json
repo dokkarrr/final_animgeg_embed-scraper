@@ -9864,5 +9864,93 @@
         "url": "https://www.animegg.org/machine-doll-wa-kizutsukanai-specials-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 3199,
+    "title": "Soukou no Strain",
+    "animegg_url": "https://www.animegg.org/series/soukou-no-strain",
+    "mal_url": "https://myanimelist.net/anime/1602",
+    "mal_id": 1602,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/62392",
+        "dub": null,
+        "url": "https://www.animegg.org/soukou-no-strain-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/62393",
+        "dub": null,
+        "url": "https://www.animegg.org/soukou-no-strain-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/62394",
+        "dub": null,
+        "url": "https://www.animegg.org/soukou-no-strain-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/62395",
+        "dub": null,
+        "url": "https://www.animegg.org/soukou-no-strain-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/62396",
+        "dub": null,
+        "url": "https://www.animegg.org/soukou-no-strain-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/62397",
+        "dub": null,
+        "url": "https://www.animegg.org/soukou-no-strain-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/62398",
+        "dub": null,
+        "url": "https://www.animegg.org/soukou-no-strain-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/62399",
+        "dub": null,
+        "url": "https://www.animegg.org/soukou-no-strain-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/62400",
+        "dub": null,
+        "url": "https://www.animegg.org/soukou-no-strain-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/62401",
+        "dub": null,
+        "url": "https://www.animegg.org/soukou-no-strain-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/62402",
+        "dub": null,
+        "url": "https://www.animegg.org/soukou-no-strain-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/62403",
+        "dub": null,
+        "url": "https://www.animegg.org/soukou-no-strain-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/62404",
+        "dub": null,
+        "url": "https://www.animegg.org/soukou-no-strain-episode-13"
+      }
+    ]
   }
 ]
