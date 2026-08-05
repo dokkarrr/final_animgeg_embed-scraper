@@ -130860,5 +130860,27 @@
         "url": "https://www.animegg.org/akikan-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4894,
+    "title": "Chocolat no Mahou",
+    "animegg_url": "https://www.animegg.org/series/chocolat-no-mahou",
+    "mal_url": "https://myanimelist.net/anime/9935",
+    "mal_id": 9935,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/48244",
+        "dub": null,
+        "url": "https://www.animegg.org/chocolat-no-mahou-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/48245",
+        "dub": null,
+        "url": "https://www.animegg.org/chocolat-no-mahou-episode-2"
+      }
+    ]
   }
 ]
