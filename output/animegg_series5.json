@@ -49104,5 +49104,21 @@
         "url": "https://www.animegg.org/cap-kakumei-bottleman-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 6305,
+    "title": "Urusei Yatsura Movie 6: Always My Darling",
+    "animegg_url": "https://www.animegg.org/series/urusei-yatsura-movie-6-always-my-darling",
+    "mal_url": "https://myanimelist.net/anime/1925",
+    "mal_id": 1925,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/64960",
+        "dub": null,
+        "url": "https://www.animegg.org/urusei-yatsura-movie-6-always-my-darling-episode-1"
+      }
+    ]
   }
 ]
