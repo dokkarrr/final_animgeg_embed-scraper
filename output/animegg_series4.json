@@ -93154,5 +93154,51 @@
         "url": "https://www.animegg.org/dragon-ball-z-movie-03-the-tree-of-might-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4304,
+    "title": "Onegai My Melody Sukkiri♪",
+    "animegg_url": "https://www.animegg.org/series/onegai-my-melody-sukkiri",
+    "mal_url": "https://myanimelist.net/anime/5520",
+    "mal_id": 5520,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/58894",
+        "dub": null,
+        "url": "https://www.animegg.org/onegai-my-melody-sukkiri-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/58895",
+        "dub": null,
+        "url": "https://www.animegg.org/onegai-my-melody-sukkiri-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/58896",
+        "dub": null,
+        "url": "https://www.animegg.org/onegai-my-melody-sukkiri-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/58897",
+        "dub": null,
+        "url": "https://www.animegg.org/onegai-my-melody-sukkiri-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/58898",
+        "dub": null,
+        "url": "https://www.animegg.org/onegai-my-melody-sukkiri-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/58899",
+        "dub": null,
+        "url": "https://www.animegg.org/onegai-my-melody-sukkiri-episode-6"
+      }
+    ]
   }
 ]
