@@ -77100,5 +77100,51 @@
         "url": "https://www.animegg.org/berserk-ougon-jidai-hen---memorial-edition-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 4069,
+    "title": "Saint Seiya: The Hades Chapter - Elysion",
+    "animegg_url": "https://www.animegg.org/series/saint-seiya-the-hades-chapter---elysion",
+    "mal_url": "https://myanimelist.net/anime/3515",
+    "mal_id": 3515,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/60546",
+        "dub": null,
+        "url": "https://www.animegg.org/saint-seiya-the-hades-chapter---elysion-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/60547",
+        "dub": null,
+        "url": "https://www.animegg.org/saint-seiya-the-hades-chapter---elysion-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/60548",
+        "dub": null,
+        "url": "https://www.animegg.org/saint-seiya-the-hades-chapter---elysion-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/60549",
+        "dub": null,
+        "url": "https://www.animegg.org/saint-seiya-the-hades-chapter---elysion-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/60550",
+        "dub": null,
+        "url": "https://www.animegg.org/saint-seiya-the-hades-chapter---elysion-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/60551",
+        "dub": null,
+        "url": "https://www.animegg.org/saint-seiya-the-hades-chapter---elysion-episode-6"
+      }
+    ]
   }
 ]
