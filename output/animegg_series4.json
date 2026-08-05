@@ -49690,5 +49690,87 @@
         "url": "https://www.animegg.org/maougun-saikyou-no-majutsushi-wa-ningen-datta-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3671,
+    "title": "Re:Monster",
+    "animegg_url": "https://www.animegg.org/series/remonster",
+    "mal_url": "https://myanimelist.net/anime/56690",
+    "mal_id": 56690,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/133517",
+        "dub": null,
+        "url": "https://www.animegg.org/remonster-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/remonster-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/133661",
+        "dub": null,
+        "url": "https://www.animegg.org/remonster-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/133748",
+        "dub": null,
+        "url": "https://www.animegg.org/remonster-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/remonster-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/134003",
+        "dub": null,
+        "url": "https://www.animegg.org/remonster-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/134122",
+        "dub": null,
+        "url": "https://www.animegg.org/remonster-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/134289",
+        "dub": null,
+        "url": "https://www.animegg.org/remonster-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/134469",
+        "dub": null,
+        "url": "https://www.animegg.org/remonster-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/134655",
+        "dub": null,
+        "url": "https://www.animegg.org/remonster-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/134799",
+        "dub": null,
+        "url": "https://www.animegg.org/remonster-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/134967",
+        "dub": null,
+        "url": "https://www.animegg.org/remonster-episode-12"
+      }
+    ]
   }
 ]
