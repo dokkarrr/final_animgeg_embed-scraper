@@ -19274,5 +19274,93 @@
         "url": "https://www.animegg.org/ray-the-animation-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3300,
+    "title": "Recorder to Randoseru Mi",
+    "animegg_url": "https://www.animegg.org/series/recorder-to-randoseru-mi",
+    "mal_url": "https://myanimelist.net/anime/18099",
+    "mal_id": 18099,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/31710",
+        "dub": null,
+        "url": "https://www.animegg.org/recorder-to-randoseru-mi-episode-13"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/31698",
+        "dub": null,
+        "url": "https://www.animegg.org/recorder-to-randoseru-mi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/31700",
+        "dub": null,
+        "url": "https://www.animegg.org/recorder-to-randoseru-mi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/31701",
+        "dub": null,
+        "url": "https://www.animegg.org/recorder-to-randoseru-mi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/31703",
+        "dub": null,
+        "url": "https://www.animegg.org/recorder-to-randoseru-mi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/31699",
+        "dub": null,
+        "url": "https://www.animegg.org/recorder-to-randoseru-mi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/31702",
+        "dub": null,
+        "url": "https://www.animegg.org/recorder-to-randoseru-mi-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/31704",
+        "dub": null,
+        "url": "https://www.animegg.org/recorder-to-randoseru-mi-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/31705",
+        "dub": null,
+        "url": "https://www.animegg.org/recorder-to-randoseru-mi-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/31706",
+        "dub": null,
+        "url": "https://www.animegg.org/recorder-to-randoseru-mi-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/31707",
+        "dub": null,
+        "url": "https://www.animegg.org/recorder-to-randoseru-mi-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/31708",
+        "dub": null,
+        "url": "https://www.animegg.org/recorder-to-randoseru-mi-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/31709",
+        "dub": null,
+        "url": "https://www.animegg.org/recorder-to-randoseru-mi-episode-12"
+      }
+    ]
   }
 ]
