@@ -57251,5 +57251,75 @@
         "url": "https://www.animegg.org/anyway-i-m-falling-in-love-with-you-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 6371,
+    "title": "Fist of the North Star: HOKUTO NO KEN",
+    "animegg_url": "https://www.animegg.org/series/fist-of-the-north-star-hokuto-no-ken",
+    "mal_url": "https://myanimelist.net/anime/1356",
+    "mal_id": 1356,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/145425",
+        "dub": "https://www.animegg.org/embed/145429",
+        "url": "https://www.animegg.org/fist-of-the-north-star-hokuto-no-ken-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/145423",
+        "dub": "https://www.animegg.org/embed/145424",
+        "url": "https://www.animegg.org/fist-of-the-north-star-hokuto-no-ken-episode-2"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/145465",
+        "dub": "https://www.animegg.org/embed/145478",
+        "url": "https://www.animegg.org/fist-of-the-north-star-hokuto-no-ken-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/145587",
+        "dub": "https://www.animegg.org/embed/145589",
+        "url": "https://www.animegg.org/fist-of-the-north-star-hokuto-no-ken-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/145662",
+        "dub": "https://www.animegg.org/embed/145685",
+        "url": "https://www.animegg.org/fist-of-the-north-star-hokuto-no-ken-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/145771",
+        "dub": "https://www.animegg.org/embed/145778",
+        "url": "https://www.animegg.org/fist-of-the-north-star-hokuto-no-ken-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/145889",
+        "dub": "https://www.animegg.org/embed/145890",
+        "url": "https://www.animegg.org/fist-of-the-north-star-hokuto-no-ken-episode-9"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/146109",
+        "dub": null,
+        "url": "https://www.animegg.org/fist-of-the-north-star-hokuto-no-ken-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/146150",
+        "dub": "https://www.animegg.org/embed/146151",
+        "url": "https://www.animegg.org/fist-of-the-north-star-hokuto-no-ken-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/146222",
+        "dub": "https://www.animegg.org/embed/146239",
+        "url": "https://www.animegg.org/fist-of-the-north-star-hokuto-no-ken-episode-14"
+      }
+    ]
   }
 ]
