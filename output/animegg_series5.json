@@ -4492,5 +4492,21 @@
         "url": "https://www.animegg.org/mach-gogogo-dub-episode-52"
       }
     ]
+  },
+  {
+    "serial_no": 5678,
+    "title": "Kite Liberator",
+    "animegg_url": "https://www.animegg.org/series/kite-liberator",
+    "mal_url": "https://myanimelist.net/anime/3323",
+    "mal_id": 3323,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/55644",
+        "dub": null,
+        "url": "https://www.animegg.org/kite-liberator-episode-1"
+      }
+    ]
   }
 ]
