@@ -17296,5 +17296,21 @@
         "url": "https://www.animegg.org/higashi-no-eden-soushuuhen-air-communication-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5908,
+    "title": "Precure All Stars GoGo Dream Live!",
+    "animegg_url": "https://www.animegg.org/series/precure-all-stars-gogo-dream-live",
+    "mal_url": "https://myanimelist.net/anime/10549",
+    "mal_id": 10549,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/60515",
+        "dub": null,
+        "url": "https://www.animegg.org/precure-all-stars-gogo-dream-live-episode-1"
+      }
+    ]
   }
 ]
