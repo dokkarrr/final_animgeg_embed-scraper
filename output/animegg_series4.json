@@ -132200,5 +132200,33 @@
         "url": "https://www.animegg.org/kaifuku-jutsushi-no-yarinaoshi-uncensored-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4911,
+    "title": "Genshiken OVA",
+    "animegg_url": "https://www.animegg.org/series/genshiken-ova",
+    "mal_url": "https://myanimelist.net/anime/1813",
+    "mal_id": 1813,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/52181",
+        "dub": "https://www.animegg.org/embed/52182",
+        "url": "https://www.animegg.org/genshiken-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/52183",
+        "dub": "https://www.animegg.org/embed/52184",
+        "url": "https://www.animegg.org/genshiken-ova-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/52185",
+        "dub": "https://www.animegg.org/embed/52186",
+        "url": "https://www.animegg.org/genshiken-ova-episode-3"
+      }
+    ]
   }
 ]
