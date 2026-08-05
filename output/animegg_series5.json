@@ -14686,5 +14686,21 @@
         "url": "https://www.animegg.org/tiger-bunny-movie-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5860,
+    "title": "Goshogun: The Time Etranger",
+    "animegg_url": "https://www.animegg.org/series/goshogun-the-time-etranger",
+    "mal_url": "https://myanimelist.net/anime/2511",
+    "mal_id": 2511,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/52667",
+        "dub": "https://www.animegg.org/embed/52668",
+        "url": "https://www.animegg.org/goshogun-the-time-etranger-episode-1"
+      }
+    ]
   }
 ]
