@@ -102136,5 +102136,81 @@
         "url": "https://www.animegg.org/motto-majime-ni-fumajime-kaiketsu-zorori-3rd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4436,
+    "title": "Dance Dance Danseur",
+    "animegg_url": "https://www.animegg.org/series/dance-dance-danseur",
+    "mal_url": "https://myanimelist.net/anime/48702",
+    "mal_id": 48702,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/104375",
+        "dub": null,
+        "url": "https://www.animegg.org/dance-dance-danseur-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/104442",
+        "dub": null,
+        "url": "https://www.animegg.org/dance-dance-danseur-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/104502",
+        "dub": null,
+        "url": "https://www.animegg.org/dance-dance-danseur-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/104559",
+        "dub": null,
+        "url": "https://www.animegg.org/dance-dance-danseur-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/104609",
+        "dub": null,
+        "url": "https://www.animegg.org/dance-dance-danseur-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/104675",
+        "dub": null,
+        "url": "https://www.animegg.org/dance-dance-danseur-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/104832",
+        "dub": null,
+        "url": "https://www.animegg.org/dance-dance-danseur-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/104894",
+        "dub": null,
+        "url": "https://www.animegg.org/dance-dance-danseur-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/104950",
+        "dub": null,
+        "url": "https://www.animegg.org/dance-dance-danseur-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/105032",
+        "dub": null,
+        "url": "https://www.animegg.org/dance-dance-danseur-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/105089",
+        "dub": null,
+        "url": "https://www.animegg.org/dance-dance-danseur-episode-11"
+      }
+    ]
   }
 ]
