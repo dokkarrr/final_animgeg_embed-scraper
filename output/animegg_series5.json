@@ -31188,5 +31188,21 @@
         "url": "https://www.animegg.org/yao-shen-ji-4th-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6129,
+    "title": "The Wings of Honneamise",
+    "animegg_url": "https://www.animegg.org/series/the-wings-of-honneamise",
+    "mal_url": "https://myanimelist.net/anime/1034",
+    "mal_id": 1034,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/63714",
+        "dub": null,
+        "url": "https://www.animegg.org/the-wings-of-honneamise-episode-1"
+      }
+    ]
   }
 ]
