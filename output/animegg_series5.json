@@ -29828,5 +29828,21 @@
         "url": "https://www.animegg.org/yes-pretty-cure-5-go-go-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6113,
+    "title": "Meitantei Conan vs. Wooo",
+    "animegg_url": "https://www.animegg.org/series/meitantei-conan-vs-wooo",
+    "mal_url": "https://myanimelist.net/anime/10766",
+    "mal_id": 10766,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/meitantei-conan-vs-wooo-episode-2"
+      }
+    ]
   }
 ]
