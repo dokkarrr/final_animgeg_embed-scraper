@@ -94268,5 +94268,81 @@
         "url": "https://www.animegg.org/lamune-specials-episode-7"
       }
     ]
+  },
+  {
+    "serial_no": 4323,
+    "title": "Sasaki to Pii-chan",
+    "animegg_url": "https://www.animegg.org/series/sasaki-to-pii-chan",
+    "mal_url": "https://myanimelist.net/anime/52482",
+    "mal_id": 52482,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/132603",
+        "dub": null,
+        "url": "https://www.animegg.org/sasaki-to-pii-chan-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/132663",
+        "dub": null,
+        "url": "https://www.animegg.org/sasaki-to-pii-chan-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/132745",
+        "dub": null,
+        "url": "https://www.animegg.org/sasaki-to-pii-chan-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/132818",
+        "dub": null,
+        "url": "https://www.animegg.org/sasaki-to-pii-chan-episode-4"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/132908",
+        "dub": null,
+        "url": "https://www.animegg.org/sasaki-to-pii-chan-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/132981",
+        "dub": null,
+        "url": "https://www.animegg.org/sasaki-to-pii-chan-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/133070",
+        "dub": null,
+        "url": "https://www.animegg.org/sasaki-to-pii-chan-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/133144",
+        "dub": null,
+        "url": "https://www.animegg.org/sasaki-to-pii-chan-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/133225",
+        "dub": null,
+        "url": "https://www.animegg.org/sasaki-to-pii-chan-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/133308",
+        "dub": null,
+        "url": "https://www.animegg.org/sasaki-to-pii-chan-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/133403",
+        "dub": null,
+        "url": "https://www.animegg.org/sasaki-to-pii-chan-episode-12"
+      }
+    ]
   }
 ]
