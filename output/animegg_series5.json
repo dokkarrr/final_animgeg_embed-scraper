@@ -49129,5 +49129,21 @@
     "mal_id": 882,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 6307,
+    "title": "Tensei shitara Slime Datta Ken Movie: Guren no Kizuna-hen",
+    "animegg_url": "https://www.animegg.org/series/tensei-shitara-slime-datta-ken-movie-guren-no-kizuna-hen",
+    "mal_url": "https://myanimelist.net/anime/49877",
+    "mal_id": 49877,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/107563",
+        "dub": null,
+        "url": "https://www.animegg.org/tensei-shitara-slime-datta-ken-movie-guren-no-kizuna-hen-episode-1"
+      }
+    ]
   }
 ]
