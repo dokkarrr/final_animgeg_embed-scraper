@@ -17264,5 +17264,21 @@
         "url": "https://www.animegg.org/street-fighter-alpha-generations-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5906,
+    "title": "This Boy Caught a Merman",
+    "animegg_url": "https://www.animegg.org/series/this-boy-caught-a-merman",
+    "mal_url": "https://myanimelist.net/anime/15439",
+    "mal_id": 15439,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/63901",
+        "dub": "https://www.animegg.org/embed/63902",
+        "url": "https://www.animegg.org/this-boy-caught-a-merman-episode-1"
+      }
+    ]
   }
 ]
