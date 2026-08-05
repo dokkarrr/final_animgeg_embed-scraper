@@ -108366,5 +108366,87 @@
     "mal_id": 49430,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 6808,
+    "title": "Kidou Senshi Gundam: Suisei no Majo",
+    "animegg_url": "https://www.animegg.org/series/kidou-senshi-gundam-suisei-no-majo-dub",
+    "mal_url": "https://myanimelist.net/anime/49828",
+    "mal_id": 49828,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kidou-senshi-gundam-suisei-no-majo-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/121768",
+        "dub": null,
+        "url": "https://www.animegg.org/kidou-senshi-gundam-suisei-no-majo-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/121767",
+        "dub": null,
+        "url": "https://www.animegg.org/kidou-senshi-gundam-suisei-no-majo-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kidou-senshi-gundam-suisei-no-majo-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/121766",
+        "dub": null,
+        "url": "https://www.animegg.org/kidou-senshi-gundam-suisei-no-majo-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/121765",
+        "dub": null,
+        "url": "https://www.animegg.org/kidou-senshi-gundam-suisei-no-majo-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/121764",
+        "dub": null,
+        "url": "https://www.animegg.org/kidou-senshi-gundam-suisei-no-majo-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/121763",
+        "dub": null,
+        "url": "https://www.animegg.org/kidou-senshi-gundam-suisei-no-majo-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/121762",
+        "dub": null,
+        "url": "https://www.animegg.org/kidou-senshi-gundam-suisei-no-majo-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/121771",
+        "dub": null,
+        "url": "https://www.animegg.org/kidou-senshi-gundam-suisei-no-majo-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/121770",
+        "dub": null,
+        "url": "https://www.animegg.org/kidou-senshi-gundam-suisei-no-majo-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/121769",
+        "dub": null,
+        "url": "https://www.animegg.org/kidou-senshi-gundam-suisei-no-majo-dub-episode-12"
+      }
+    ]
   }
 ]
