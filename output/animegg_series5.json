@@ -121171,5 +121171,93 @@
         "url": "https://www.animegg.org/accel-world-dub-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 6921,
+    "title": "Cardfight!! Vanguard: Will+Dress",
+    "animegg_url": "https://www.animegg.org/series/cardfight-vanguard-willdress",
+    "mal_url": "https://myanimelist.net/anime/49819",
+    "mal_id": 49819,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/105211",
+        "dub": null,
+        "url": "https://www.animegg.org/cardfight-vanguard-willdress-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/105276",
+        "dub": null,
+        "url": "https://www.animegg.org/cardfight-vanguard-willdress-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/105329",
+        "dub": null,
+        "url": "https://www.animegg.org/cardfight-vanguard-willdress-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/105389",
+        "dub": null,
+        "url": "https://www.animegg.org/cardfight-vanguard-willdress-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/105456",
+        "dub": null,
+        "url": "https://www.animegg.org/cardfight-vanguard-willdress-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/105522",
+        "dub": null,
+        "url": "https://www.animegg.org/cardfight-vanguard-willdress-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/105587",
+        "dub": null,
+        "url": "https://www.animegg.org/cardfight-vanguard-willdress-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/105653",
+        "dub": null,
+        "url": "https://www.animegg.org/cardfight-vanguard-willdress-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/105715",
+        "dub": null,
+        "url": "https://www.animegg.org/cardfight-vanguard-willdress-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/105781",
+        "dub": null,
+        "url": "https://www.animegg.org/cardfight-vanguard-willdress-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/105845",
+        "dub": null,
+        "url": "https://www.animegg.org/cardfight-vanguard-willdress-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/105910",
+        "dub": null,
+        "url": "https://www.animegg.org/cardfight-vanguard-willdress-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/105970",
+        "dub": null,
+        "url": "https://www.animegg.org/cardfight-vanguard-willdress-episode-13"
+      }
+    ]
   }
 ]
