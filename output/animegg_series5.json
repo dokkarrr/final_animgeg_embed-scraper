@@ -69748,5 +69748,21 @@
         "url": "https://www.animegg.org/tsukuyomi-moon-phase-special-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6494,
+    "title": "Wake Up, Girls! Beyond the Bottom",
+    "animegg_url": "https://www.animegg.org/series/wake-up-girls-beyond-the-bottom",
+    "mal_url": "https://myanimelist.net/anime/30419",
+    "mal_id": 30419,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/84960",
+        "dub": null,
+        "url": "https://www.animegg.org/wake-up-girls-beyond-the-bottom-episode-1"
+      }
+    ]
   }
 ]
