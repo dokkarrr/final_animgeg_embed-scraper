@@ -79358,5 +79358,87 @@
         "url": "https://www.animegg.org/fategrand-order-first-order-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4110,
+    "title": "Hyakushou Kizoku",
+    "animegg_url": "https://www.animegg.org/series/hyakushou-kizoku",
+    "mal_url": "https://myanimelist.net/anime/53426",
+    "mal_id": 53426,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/130118",
+        "dub": null,
+        "url": "https://www.animegg.org/hyakushou-kizoku-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/130237",
+        "dub": null,
+        "url": "https://www.animegg.org/hyakushou-kizoku-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/130558",
+        "dub": null,
+        "url": "https://www.animegg.org/hyakushou-kizoku-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/130647",
+        "dub": null,
+        "url": "https://www.animegg.org/hyakushou-kizoku-episode-4"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/130880",
+        "dub": null,
+        "url": "https://www.animegg.org/hyakushou-kizoku-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/130955",
+        "dub": null,
+        "url": "https://www.animegg.org/hyakushou-kizoku-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/131049",
+        "dub": null,
+        "url": "https://www.animegg.org/hyakushou-kizoku-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/131141",
+        "dub": null,
+        "url": "https://www.animegg.org/hyakushou-kizoku-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/hyakushou-kizoku-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/131343",
+        "dub": null,
+        "url": "https://www.animegg.org/hyakushou-kizoku-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/131447",
+        "dub": null,
+        "url": "https://www.animegg.org/hyakushou-kizoku-episode-12"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/134709",
+        "dub": null,
+        "url": "https://www.animegg.org/hyakushou-kizoku-episode-14"
+      }
+    ]
   }
 ]
