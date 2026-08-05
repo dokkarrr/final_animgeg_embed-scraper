@@ -51155,5 +51155,21 @@
         "url": "https://www.animegg.org/zo-zo-zo-zombie-kun-tv-dub-episode-59"
       }
     ]
+  },
+  {
+    "serial_no": 6320,
+    "title": "Sayonara Zetsubou Sensei Special",
+    "animegg_url": "https://www.animegg.org/series/sayonara-zetsubou-sensei-special",
+    "mal_url": "https://myanimelist.net/anime/10469",
+    "mal_id": 10469,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/33413",
+        "dub": null,
+        "url": "https://www.animegg.org/sayonara-zetsubou-sensei-special-episode-1"
+      }
+    ]
   }
 ]
