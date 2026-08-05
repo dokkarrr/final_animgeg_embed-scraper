@@ -79228,5 +79228,21 @@
         "url": "https://www.animegg.org/un-go-inga-nikki-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 4106,
+    "title": "Kizumonogatari III: Reiketsu-hen",
+    "animegg_url": "https://www.animegg.org/series/kizumonogatari-iii-reiketsu-hen",
+    "mal_url": "https://myanimelist.net/anime/31758",
+    "mal_id": 31758,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/87581",
+        "dub": null,
+        "url": "https://www.animegg.org/kizumonogatari-iii-reiketsu-hen-episode-1"
+      }
+    ]
   }
 ]
