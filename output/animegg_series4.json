@@ -8498,5 +8498,81 @@
         "url": "https://www.animegg.org/star-detective-precure-episode-27"
       }
     ]
+  },
+  {
+    "serial_no": 3180,
+    "title": "Oshi No Ko",
+    "animegg_url": "https://www.animegg.org/series/oshi-no-ko",
+    "mal_url": "https://myanimelist.net/anime/52034",
+    "mal_id": 52034,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/107721",
+        "dub": null,
+        "url": "https://www.animegg.org/oshi-no-ko-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/107823",
+        "dub": "https://www.animegg.org/embed/120672",
+        "url": "https://www.animegg.org/oshi-no-ko-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/107854",
+        "dub": "https://www.animegg.org/embed/120671",
+        "url": "https://www.animegg.org/oshi-no-ko-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/107929",
+        "dub": "https://www.animegg.org/embed/129781",
+        "url": "https://www.animegg.org/oshi-no-ko-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/107930",
+        "dub": null,
+        "url": "https://www.animegg.org/oshi-no-ko-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/108110",
+        "dub": null,
+        "url": "https://www.animegg.org/oshi-no-ko-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/108297",
+        "dub": null,
+        "url": "https://www.animegg.org/oshi-no-ko-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/108909",
+        "dub": null,
+        "url": "https://www.animegg.org/oshi-no-ko-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/129866",
+        "dub": null,
+        "url": "https://www.animegg.org/oshi-no-ko-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/129960",
+        "dub": null,
+        "url": "https://www.animegg.org/oshi-no-ko-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/130012",
+        "dub": null,
+        "url": "https://www.animegg.org/oshi-no-ko-episode-11"
+      }
+    ]
   }
 ]
