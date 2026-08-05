@@ -104380,5 +104380,63 @@
         "url": "https://www.animegg.org/lingerie-senshi-papillon-rose-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 4484,
+    "title": "Yeosin Gangnim (Japanese Dub)",
+    "animegg_url": "https://www.animegg.org/series/yeosin-gangnim-japanese-dub",
+    "mal_url": "https://myanimelist.net/anime/34420",
+    "mal_id": 34420,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/137661",
+        "dub": null,
+        "url": "https://www.animegg.org/yeosin-gangnim-japanese-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/137877",
+        "dub": null,
+        "url": "https://www.animegg.org/yeosin-gangnim-japanese-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/138148",
+        "dub": null,
+        "url": "https://www.animegg.org/yeosin-gangnim-japanese-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/138399",
+        "dub": null,
+        "url": "https://www.animegg.org/yeosin-gangnim-japanese-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/138548",
+        "dub": null,
+        "url": "https://www.animegg.org/yeosin-gangnim-japanese-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/138820",
+        "dub": null,
+        "url": "https://www.animegg.org/yeosin-gangnim-japanese-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/138998",
+        "dub": null,
+        "url": "https://www.animegg.org/yeosin-gangnim-japanese-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/139191",
+        "dub": null,
+        "url": "https://www.animegg.org/yeosin-gangnim-japanese-dub-episode-8"
+      }
+    ]
   }
 ]
