@@ -4154,5 +4154,21 @@
         "url": "https://www.animegg.org/mobile-suit-gundam-thunderbolt-december-sky-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5676,
+    "title": "Glass no Hana to Kowasu Sekai",
+    "animegg_url": "https://www.animegg.org/series/glass-no-hana-to-kowasu-sekai",
+    "mal_url": "https://myanimelist.net/anime/25907",
+    "mal_id": 25907,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/80711",
+        "dub": null,
+        "url": "https://www.animegg.org/glass-no-hana-to-kowasu-sekai-episode-1"
+      }
+    ]
   }
 ]
