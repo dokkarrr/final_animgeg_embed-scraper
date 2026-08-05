@@ -13677,5 +13677,21 @@
         "url": "https://www.animegg.org/kekkai-sensen-ousama-no-restaurant-no-ousama-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5834,
+    "title": "Legend of the Galactic Heroes Gaiden: Golden Wings",
+    "animegg_url": "https://www.animegg.org/series/legend-of-the-galactic-heroes-gaiden-golden-wings",
+    "mal_url": "https://myanimelist.net/anime/36370",
+    "mal_id": 36370,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/55263",
+        "dub": null,
+        "url": "https://www.animegg.org/legend-of-the-galactic-heroes-gaiden-golden-wings-episode"
+      }
+    ]
   }
 ]
