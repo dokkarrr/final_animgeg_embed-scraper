@@ -6520,5 +6520,27 @@
         "url": "https://www.animegg.org/genji-monogatari-sennenki-episode-11"
       }
     ]
+  },
+  {
+    "serial_no": 3158,
+    "title": "Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren",
+    "animegg_url": "https://www.animegg.org/series/boku-no-hero-academia-ikinokore-kesshi-no-survival-kunren",
+    "mal_url": "https://myanimelist.net/anime/42603",
+    "mal_id": 42603,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/99139",
+        "dub": null,
+        "url": "https://www.animegg.org/boku-no-hero-academia-ikinokore-kesshi-no-survival-kunren-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/99140",
+        "dub": null,
+        "url": "https://www.animegg.org/boku-no-hero-academia-ikinokore-kesshi-no-survival-kunren-episode-2"
+      }
+    ]
   }
 ]
