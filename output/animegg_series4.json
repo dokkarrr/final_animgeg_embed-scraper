@@ -58146,5 +58146,93 @@
         "url": "https://www.animegg.org/taisho-baseball-girls-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3784,
+    "title": "PetoPeto-san",
+    "animegg_url": "https://www.animegg.org/series/petopeto-san",
+    "mal_url": "https://myanimelist.net/anime/612",
+    "mal_id": 612,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/119964",
+        "dub": null,
+        "url": "https://www.animegg.org/petopeto-san-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/119959",
+        "dub": null,
+        "url": "https://www.animegg.org/petopeto-san-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/119958",
+        "dub": null,
+        "url": "https://www.animegg.org/petopeto-san-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/119957",
+        "dub": null,
+        "url": "https://www.animegg.org/petopeto-san-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/119956",
+        "dub": null,
+        "url": "https://www.animegg.org/petopeto-san-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/119955",
+        "dub": null,
+        "url": "https://www.animegg.org/petopeto-san-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/119954",
+        "dub": null,
+        "url": "https://www.animegg.org/petopeto-san-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/119953",
+        "dub": null,
+        "url": "https://www.animegg.org/petopeto-san-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/119952",
+        "dub": null,
+        "url": "https://www.animegg.org/petopeto-san-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/119963",
+        "dub": null,
+        "url": "https://www.animegg.org/petopeto-san-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/119962",
+        "dub": null,
+        "url": "https://www.animegg.org/petopeto-san-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/119961",
+        "dub": null,
+        "url": "https://www.animegg.org/petopeto-san-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/119960",
+        "dub": null,
+        "url": "https://www.animegg.org/petopeto-san-episode-13"
+      }
+    ]
   }
 ]
