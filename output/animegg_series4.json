@@ -78746,5 +78746,57 @@
         "url": "https://www.animegg.org/sentai-daishikkaku-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4098,
+    "title": "Mazinkaiser",
+    "animegg_url": "https://www.animegg.org/series/mazinkaiser",
+    "mal_url": "https://myanimelist.net/anime/1064",
+    "mal_id": 1064,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/58333",
+        "dub": null,
+        "url": "https://www.animegg.org/mazinkaiser-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/58334",
+        "dub": null,
+        "url": "https://www.animegg.org/mazinkaiser-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/58335",
+        "dub": null,
+        "url": "https://www.animegg.org/mazinkaiser-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/58336",
+        "dub": null,
+        "url": "https://www.animegg.org/mazinkaiser-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/58337",
+        "dub": null,
+        "url": "https://www.animegg.org/mazinkaiser-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/58338",
+        "dub": null,
+        "url": "https://www.animegg.org/mazinkaiser-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/58339",
+        "dub": null,
+        "url": "https://www.animegg.org/mazinkaiser-episode-7"
+      }
+    ]
   }
 ]
