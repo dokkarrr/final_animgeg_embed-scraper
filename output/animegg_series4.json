@@ -123128,5 +123128,69 @@
         "url": "https://www.animegg.org/mikakunin-de-shinkoukei-ova-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 4782,
+    "title": "Seiken Gakuin no Makentsukai",
+    "animegg_url": "https://www.animegg.org/series/seiken-gakuin-no-makentsukai",
+    "mal_url": "https://myanimelist.net/anime/50184",
+    "mal_id": 50184,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/131532",
+        "dub": null,
+        "url": "https://www.animegg.org/seiken-gakuin-no-makentsukai-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/131634",
+        "dub": "https://www.animegg.org/embed/132706",
+        "url": "https://www.animegg.org/seiken-gakuin-no-makentsukai-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/131815",
+        "dub": null,
+        "url": "https://www.animegg.org/seiken-gakuin-no-makentsukai-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/131918",
+        "dub": null,
+        "url": "https://www.animegg.org/seiken-gakuin-no-makentsukai-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/131967",
+        "dub": null,
+        "url": "https://www.animegg.org/seiken-gakuin-no-makentsukai-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/132027",
+        "dub": null,
+        "url": "https://www.animegg.org/seiken-gakuin-no-makentsukai-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/132152",
+        "dub": null,
+        "url": "https://www.animegg.org/seiken-gakuin-no-makentsukai-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/132246",
+        "dub": null,
+        "url": "https://www.animegg.org/seiken-gakuin-no-makentsukai-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/132488",
+        "dub": null,
+        "url": "https://www.animegg.org/seiken-gakuin-no-makentsukai-episode-9"
+      }
+    ]
   }
 ]
