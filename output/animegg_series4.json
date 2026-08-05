@@ -123628,5 +123628,27 @@
         "url": "https://www.animegg.org/idoly-pride-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4790,
+    "title": "Canvas: Sepia-iro no Motif",
+    "animegg_url": "https://www.animegg.org/series/canvas-sepia-iro-no-motif",
+    "mal_url": "https://myanimelist.net/anime/695",
+    "mal_id": 695,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/48365",
+        "dub": null,
+        "url": "https://www.animegg.org/canvas-sepia-iro-no-motif-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/48366",
+        "dub": null,
+        "url": "https://www.animegg.org/canvas-sepia-iro-no-motif-episode-2"
+      }
+    ]
   }
 ]
