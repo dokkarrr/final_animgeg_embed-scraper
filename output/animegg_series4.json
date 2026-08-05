@@ -38260,5 +38260,39 @@
         "url": "https://www.animegg.org/meine-liebe-wieder-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3521,
+    "title": "Marvel Future Avengers",
+    "animegg_url": "https://www.animegg.org/series/marvel-future-avengers",
+    "mal_url": "https://myanimelist.net/anime/34975",
+    "mal_id": 34975,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/87866",
+        "dub": "https://www.animegg.org/embed/92992",
+        "url": "https://www.animegg.org/marvel-future-avengers-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/87867",
+        "dub": "https://www.animegg.org/embed/92993",
+        "url": "https://www.animegg.org/marvel-future-avengers-episode-2"
+      },
+      {
+        "ep": 25,
+        "sub": "https://www.animegg.org/embed/94920",
+        "dub": null,
+        "url": "https://www.animegg.org/marvel-future-avengers-episode-25"
+      },
+      {
+        "ep": 26,
+        "sub": "https://www.animegg.org/embed/94917",
+        "dub": null,
+        "url": "https://www.animegg.org/marvel-future-avengers-episode-26"
+      }
+    ]
   }
 ]
