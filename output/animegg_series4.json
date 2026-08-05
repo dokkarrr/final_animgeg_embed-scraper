@@ -58386,5 +58386,39 @@
         "url": "https://www.animegg.org/kekkon-yubiwa-monogatari-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3787,
+    "title": "Digimon Adventure tri. 4: Soushitsu",
+    "animegg_url": "https://www.animegg.org/series/digimon-adventure-tri-4-soushitsu",
+    "mal_url": "https://myanimelist.net/anime/34299",
+    "mal_id": 34299,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/86004",
+        "dub": null,
+        "url": "https://www.animegg.org/digimon-adventure-tri-4-soushitsu-episode-4"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/86003",
+        "dub": null,
+        "url": "https://www.animegg.org/digimon-adventure-tri-4-soushitsu-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/86002",
+        "dub": null,
+        "url": "https://www.animegg.org/digimon-adventure-tri-4-soushitsu-episode-2"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/86001",
+        "dub": null,
+        "url": "https://www.animegg.org/digimon-adventure-tri-4-soushitsu-episode-1"
+      }
+    ]
   }
 ]
