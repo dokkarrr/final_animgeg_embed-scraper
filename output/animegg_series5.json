@@ -29102,5 +29102,21 @@
         "url": "https://www.animegg.org/munto-2-beyond-the-walls-of-time-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6098,
+    "title": "Di Gi Charat: Kuchi Kara Bazooka",
+    "animegg_url": "https://www.animegg.org/series/di-gi-charat-kuchi-kara-bazooka",
+    "mal_url": "https://myanimelist.net/anime/1753",
+    "mal_id": 1753,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/51087",
+        "dub": null,
+        "url": "https://www.animegg.org/di-gi-charat-kuchi-kara-bazooka-episode-1"
+      }
+    ]
   }
 ]
