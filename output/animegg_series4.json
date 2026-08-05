@@ -121716,5 +121716,87 @@
         "url": "https://www.animegg.org/ookami-shoujo-to-kuro-ouji-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4759,
+    "title": "D4DJ All Mix",
+    "animegg_url": "https://www.animegg.org/series/d4dj-all-mix",
+    "mal_url": "https://myanimelist.net/anime/51586",
+    "mal_id": 51586,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/107597",
+        "dub": null,
+        "url": "https://www.animegg.org/d4dj-all-mix-episode-12"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/107536",
+        "dub": null,
+        "url": "https://www.animegg.org/d4dj-all-mix-episode-11"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/107469",
+        "dub": null,
+        "url": "https://www.animegg.org/d4dj-all-mix-episode-10"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/107409",
+        "dub": null,
+        "url": "https://www.animegg.org/d4dj-all-mix-episode-9"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/107345",
+        "dub": null,
+        "url": "https://www.animegg.org/d4dj-all-mix-episode-8"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/107280",
+        "dub": null,
+        "url": "https://www.animegg.org/d4dj-all-mix-episode-7"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/107163",
+        "dub": null,
+        "url": "https://www.animegg.org/d4dj-all-mix-episode-6"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/107101",
+        "dub": null,
+        "url": "https://www.animegg.org/d4dj-all-mix-episode-5"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/107027",
+        "dub": null,
+        "url": "https://www.animegg.org/d4dj-all-mix-episode-4"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/106957",
+        "dub": null,
+        "url": "https://www.animegg.org/d4dj-all-mix-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/106884",
+        "dub": null,
+        "url": "https://www.animegg.org/d4dj-all-mix-episode-2"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/106812",
+        "dub": null,
+        "url": "https://www.animegg.org/d4dj-all-mix-episode-1"
+      }
+    ]
   }
 ]
