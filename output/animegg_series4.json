@@ -85148,5 +85148,87 @@
         "url": "https://www.animegg.org/digital-juice-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 4185,
+    "title": "Futsal Boys!!!!!",
+    "animegg_url": "https://www.animegg.org/series/futsal-boys",
+    "mal_url": "https://myanimelist.net/anime/40488",
+    "mal_id": 40488,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/103744",
+        "dub": null,
+        "url": "https://www.animegg.org/futsal-boys-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/103793",
+        "dub": null,
+        "url": "https://www.animegg.org/futsal-boys-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/103844",
+        "dub": null,
+        "url": "https://www.animegg.org/futsal-boys-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/103900",
+        "dub": null,
+        "url": "https://www.animegg.org/futsal-boys-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/103954",
+        "dub": null,
+        "url": "https://www.animegg.org/futsal-boys-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/104006",
+        "dub": null,
+        "url": "https://www.animegg.org/futsal-boys-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/104054",
+        "dub": null,
+        "url": "https://www.animegg.org/futsal-boys-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/104103",
+        "dub": null,
+        "url": "https://www.animegg.org/futsal-boys-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/104150",
+        "dub": null,
+        "url": "https://www.animegg.org/futsal-boys-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/104196",
+        "dub": null,
+        "url": "https://www.animegg.org/futsal-boys-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/104245",
+        "dub": null,
+        "url": "https://www.animegg.org/futsal-boys-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/104289",
+        "dub": null,
+        "url": "https://www.animegg.org/futsal-boys-episode-12"
+      }
+    ]
   }
 ]
