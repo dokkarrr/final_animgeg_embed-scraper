@@ -33626,5 +33626,21 @@
         "url": "https://www.animegg.org/goukon-ni-ittara-onna-ga-inakatta-hanashi-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3450,
+    "title": "Evangelion: 1.0 You Are (Not) Alone",
+    "animegg_url": "https://www.animegg.org/series/evangelion-10-you-are-not-alone",
+    "mal_url": "https://myanimelist.net/anime/2759",
+    "mal_id": 2759,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/44865",
+        "dub": "https://www.animegg.org/embed/44866",
+        "url": "https://www.animegg.org/evangelion-10-you-are-not-alone-episode-1"
+      }
+    ]
   }
 ]
