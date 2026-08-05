@@ -28046,5 +28046,21 @@
         "url": "https://www.animegg.org/yowamushi-pedal-reride---movie-episode-1-5521"
       }
     ]
+  },
+  {
+    "serial_no": 6068,
+    "title": "Tamayura: Sotsugyou Shashin Part 1 - Kizashi",
+    "animegg_url": "https://www.animegg.org/series/tamayura-sotsugyou-shashin-part-1---kizashi",
+    "mal_url": "https://myanimelist.net/anime/25729",
+    "mal_id": 25729,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/76486",
+        "dub": null,
+        "url": "https://www.animegg.org/tamayura-sotsugyou-shashin-part-1---kizashi-episode-1"
+      }
+    ]
   }
 ]
