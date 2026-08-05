@@ -9952,5 +9952,21 @@
         "url": "https://www.animegg.org/soukou-no-strain-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3200,
+    "title": "Fairy Tail x Rave",
+    "animegg_url": "https://www.animegg.org/series/fairy-tail-x-rave",
+    "mal_url": "https://myanimelist.net/anime/18393",
+    "mal_id": 18393,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/10706",
+        "dub": null,
+        "url": "https://www.animegg.org/fairy-tail-x-rave-episode-1"
+      }
+    ]
   }
 ]
