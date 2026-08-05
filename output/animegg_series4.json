@@ -116654,5 +116654,33 @@
         "url": "https://www.animegg.org/kono-sekai-wa-fukanzen-sugiru-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 4689,
+    "title": "Bus Gamer",
+    "animegg_url": "https://www.animegg.org/series/bus-gamer",
+    "mal_url": "https://myanimelist.net/anime/3389",
+    "mal_id": 3389,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/4848",
+        "dub": null,
+        "url": "https://www.animegg.org/bus-gamer-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/4849",
+        "dub": null,
+        "url": "https://www.animegg.org/bus-gamer-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/4850",
+        "dub": null,
+        "url": "https://www.animegg.org/bus-gamer-episode-3"
+      }
+    ]
   }
 ]
