@@ -123650,5 +123650,33 @@
         "url": "https://www.animegg.org/canvas-sepia-iro-no-motif-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 4791,
+    "title": "Guilty Hearts",
+    "animegg_url": "https://www.animegg.org/series/guilty-hearts",
+    "mal_url": "https://myanimelist.net/anime/147",
+    "mal_id": 147,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66438",
+        "dub": null,
+        "url": "https://www.animegg.org/guilty-hearts-episode-1"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/66439",
+        "dub": null,
+        "url": "https://www.animegg.org/guilty-hearts-episode-2"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/66440",
+        "dub": null,
+        "url": "https://www.animegg.org/guilty-hearts-episode-3"
+      }
+    ]
   }
 ]
