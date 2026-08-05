@@ -79060,5 +79060,87 @@
         "url": "https://www.animegg.org/toaru-ossan-no-vrmmo-katsudouki-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 4103,
+    "title": "Renai Flops",
+    "animegg_url": "https://www.animegg.org/series/renai-flops",
+    "mal_url": "https://myanimelist.net/anime/51403",
+    "mal_id": 51403,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/106100",
+        "dub": null,
+        "url": "https://www.animegg.org/renai-flops-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/106161",
+        "dub": null,
+        "url": "https://www.animegg.org/renai-flops-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/106222",
+        "dub": null,
+        "url": "https://www.animegg.org/renai-flops-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/106281",
+        "dub": null,
+        "url": "https://www.animegg.org/renai-flops-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/106343",
+        "dub": null,
+        "url": "https://www.animegg.org/renai-flops-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/106402",
+        "dub": null,
+        "url": "https://www.animegg.org/renai-flops-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/106461",
+        "dub": null,
+        "url": "https://www.animegg.org/renai-flops-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/106520",
+        "dub": null,
+        "url": "https://www.animegg.org/renai-flops-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/106574",
+        "dub": null,
+        "url": "https://www.animegg.org/renai-flops-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/106626",
+        "dub": null,
+        "url": "https://www.animegg.org/renai-flops-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/106687",
+        "dub": null,
+        "url": "https://www.animegg.org/renai-flops-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/106744",
+        "dub": null,
+        "url": "https://www.animegg.org/renai-flops-episode-12"
+      }
+    ]
   }
 ]
