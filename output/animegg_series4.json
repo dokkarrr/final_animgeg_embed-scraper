@@ -121644,5 +121644,45 @@
         "url": "https://www.animegg.org/kuroshitsuji-special-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4756,
+    "title": "Sweat Punch",
+    "animegg_url": "https://www.animegg.org/series/sweat-punch",
+    "mal_url": "https://myanimelist.net/anime/1072",
+    "mal_id": 1072,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/62607",
+        "dub": null,
+        "url": "https://www.animegg.org/sweat-punch-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/62608",
+        "dub": null,
+        "url": "https://www.animegg.org/sweat-punch-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/62609",
+        "dub": null,
+        "url": "https://www.animegg.org/sweat-punch-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/62610",
+        "dub": null,
+        "url": "https://www.animegg.org/sweat-punch-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/62611",
+        "dub": null,
+        "url": "https://www.animegg.org/sweat-punch-episode-5"
+      }
+    ]
   }
 ]
