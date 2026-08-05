@@ -66912,5 +66912,63 @@
         "url": "https://www.animegg.org/rikei-ga-koi-ni-ochita-no-de-shoumei-shitemita-heart-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3907,
+    "title": "Mecha-ude (TV)",
+    "animegg_url": "https://www.animegg.org/series/mecha-ude-tv",
+    "mal_url": "https://myanimelist.net/anime/53033",
+    "mal_id": 53033,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/137569",
+        "dub": null,
+        "url": "https://www.animegg.org/mecha-ude-tv-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/137829",
+        "dub": null,
+        "url": "https://www.animegg.org/mecha-ude-tv-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/138097",
+        "dub": null,
+        "url": "https://www.animegg.org/mecha-ude-tv-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/138355",
+        "dub": null,
+        "url": "https://www.animegg.org/mecha-ude-tv-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/138571",
+        "dub": null,
+        "url": "https://www.animegg.org/mecha-ude-tv-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/138796",
+        "dub": null,
+        "url": "https://www.animegg.org/mecha-ude-tv-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/138976",
+        "dub": null,
+        "url": "https://www.animegg.org/mecha-ude-tv-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/139174",
+        "dub": null,
+        "url": "https://www.animegg.org/mecha-ude-tv-episode-8"
+      }
+    ]
   }
 ]
