@@ -125446,5 +125446,111 @@
         "url": "https://www.animegg.org/call-of-the-night-season-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4808,
+    "title": "Breakers",
+    "animegg_url": "https://www.animegg.org/series/breakers",
+    "mal_url": "https://myanimelist.net/anime/40850",
+    "mal_id": 40850,
+    "total_ep": 16,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/98626",
+        "dub": "https://www.animegg.org/embed/98627",
+        "url": "https://www.animegg.org/breakers-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/98634",
+        "dub": null,
+        "url": "https://www.animegg.org/breakers-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/98635",
+        "dub": null,
+        "url": "https://www.animegg.org/breakers-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/98636",
+        "dub": null,
+        "url": "https://www.animegg.org/breakers-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/98637",
+        "dub": null,
+        "url": "https://www.animegg.org/breakers-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/98638",
+        "dub": null,
+        "url": "https://www.animegg.org/breakers-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/98639",
+        "dub": null,
+        "url": "https://www.animegg.org/breakers-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/98640",
+        "dub": null,
+        "url": "https://www.animegg.org/breakers-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/98641",
+        "dub": null,
+        "url": "https://www.animegg.org/breakers-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/98628",
+        "dub": null,
+        "url": "https://www.animegg.org/breakers-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/98629",
+        "dub": null,
+        "url": "https://www.animegg.org/breakers-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/98630",
+        "dub": null,
+        "url": "https://www.animegg.org/breakers-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/98631",
+        "dub": null,
+        "url": "https://www.animegg.org/breakers-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/98632",
+        "dub": null,
+        "url": "https://www.animegg.org/breakers-episode-14"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/98633",
+        "dub": null,
+        "url": "https://www.animegg.org/breakers-episode-15"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/98655",
+        "dub": null,
+        "url": "https://www.animegg.org/breakers-episode-16"
+      }
+    ]
   }
 ]
