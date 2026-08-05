@@ -117488,5 +117488,51 @@
         "url": "https://www.animegg.org/wash-it-all-away-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4701,
+    "title": "Sora No Manimani Specials",
+    "animegg_url": "https://www.animegg.org/series/sora-no-manimani-specials",
+    "mal_url": "https://myanimelist.net/anime/6885",
+    "mal_id": 6885,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/35817",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-no-manimani-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/35818",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-no-manimani-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/35819",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-no-manimani-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/35820",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-no-manimani-specials-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/35821",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-no-manimani-specials-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/35822",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-no-manimani-specials-episode-6"
+      }
+    ]
   }
 ]
