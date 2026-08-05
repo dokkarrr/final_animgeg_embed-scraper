@@ -18816,5 +18816,27 @@
         "url": "https://www.animegg.org/carnival-phantasm-illyas-castle-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5940,
+    "title": "Joker Game: Kuroneko Yoru no Bouken",
+    "animegg_url": "https://www.animegg.org/series/joker-game-kuroneko-yoru-no-bouken",
+    "mal_url": "https://myanimelist.net/anime/33129",
+    "mal_id": 33129,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/85308",
+        "dub": null,
+        "url": "https://www.animegg.org/joker-game-kuroneko-yoru-no-bouken-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/85309",
+        "dub": null,
+        "url": "https://www.animegg.org/joker-game-kuroneko-yoru-no-bouken-episode-2"
+      }
+    ]
   }
 ]
