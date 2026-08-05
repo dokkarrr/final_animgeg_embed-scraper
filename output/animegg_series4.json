@@ -104964,5 +104964,27 @@
         "url": "https://www.animegg.org/azur-lane-bisoku-zenshin-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4495,
+    "title": "Rurouni Kenshin: Shin Kyoto Hen",
+    "animegg_url": "https://www.animegg.org/series/rurouni-kenshin-shin-kyoto-hen",
+    "mal_url": "https://myanimelist.net/anime/11441",
+    "mal_id": 11441,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/32368",
+        "dub": null,
+        "url": "https://www.animegg.org/rurouni-kenshin-shin-kyoto-hen-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/32367",
+        "dub": null,
+        "url": "https://www.animegg.org/rurouni-kenshin-shin-kyoto-hen-episode-2"
+      }
+    ]
   }
 ]
