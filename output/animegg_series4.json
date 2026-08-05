@@ -29674,5 +29674,93 @@
         "url": "https://www.animegg.org/dr-stone-new-world-dub-episode-9"
       }
     ]
+  },
+  {
+    "serial_no": 3422,
+    "title": "Insomniacs After School",
+    "animegg_url": "https://www.animegg.org/series/kimi-wa-houkago-insomnia",
+    "mal_url": "https://myanimelist.net/anime/52822",
+    "mal_id": 52822,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/107695",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-wa-houkago-insomnia-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/107740",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-wa-houkago-insomnia-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/107868",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-wa-houkago-insomnia-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/108071",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-wa-houkago-insomnia-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/108072",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-wa-houkago-insomnia-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/108073",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-wa-houkago-insomnia-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/108278",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-wa-houkago-insomnia-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/108699",
+        "dub": "https://www.animegg.org/embed/139311",
+        "url": "https://www.animegg.org/kimi-wa-houkago-insomnia-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/108885",
+        "dub": "https://www.animegg.org/embed/139323",
+        "url": "https://www.animegg.org/kimi-wa-houkago-insomnia-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/129899",
+        "dub": "https://www.animegg.org/embed/139390",
+        "url": "https://www.animegg.org/kimi-wa-houkago-insomnia-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/129898",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-wa-houkago-insomnia-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/130006",
+        "dub": "https://www.animegg.org/embed/139533",
+        "url": "https://www.animegg.org/kimi-wa-houkago-insomnia-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/130040",
+        "dub": "https://www.animegg.org/embed/139644",
+        "url": "https://www.animegg.org/kimi-wa-houkago-insomnia-episode-13"
+      }
+    ]
   }
 ]
