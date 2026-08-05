@@ -37316,5 +37316,21 @@
         "url": "https://www.animegg.org/i-was-invincible-long-ago-episode-103"
       }
     ]
+  },
+  {
+    "serial_no": 6188,
+    "title": "Tenchi Muyo! in Love",
+    "animegg_url": "https://www.animegg.org/series/tenchi-muyo-in-love",
+    "mal_url": "https://myanimelist.net/anime/1006",
+    "mal_id": 1006,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/63157",
+        "dub": "https://www.animegg.org/embed/63158",
+        "url": "https://www.animegg.org/tenchi-muyo-in-love-episode-1"
+      }
+    ]
   }
 ]
