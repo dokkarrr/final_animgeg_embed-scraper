@@ -7645,5 +7645,21 @@
         "url": "https://www.animegg.org/tari-tari-kumottari-kagayaitari-mata-itsuka-utattari-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 5733,
+    "title": "Shoujo-tachi wa Kouya wo Mezasu OVA",
+    "animegg_url": "https://www.animegg.org/series/shoujo-tachi-wa-kouya-wo-mezasu-ova",
+    "mal_url": "https://myanimelist.net/anime/31867",
+    "mal_id": 31867,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/82677",
+        "dub": null,
+        "url": "https://www.animegg.org/shoujo-tachi-wa-kouya-wo-mezasu-ova-episode-1"
+      }
+    ]
   }
 ]
