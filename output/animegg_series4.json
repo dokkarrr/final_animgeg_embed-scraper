@@ -35128,5 +35128,87 @@
         "url": "https://www.animegg.org/angel-beats-special-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 3473,
+    "title": "Kanojo, Okarishimasu 2nd Season",
+    "animegg_url": "https://www.animegg.org/series/kanojo-okarishimasu-2nd-season",
+    "mal_url": "https://myanimelist.net/anime/42963",
+    "mal_id": 42963,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/105873",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-okarishimasu-2nd-season-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/105806",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-okarishimasu-2nd-season-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/105741",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-okarishimasu-2nd-season-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/105677",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-okarishimasu-2nd-season-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/105615",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-okarishimasu-2nd-season-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/105553",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-okarishimasu-2nd-season-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/105486",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-okarishimasu-2nd-season-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/105413",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-okarishimasu-2nd-season-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/105355",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-okarishimasu-2nd-season-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/105299",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-okarishimasu-2nd-season-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/105239",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-okarishimasu-2nd-season-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/105187",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-okarishimasu-2nd-season-episode-1"
+      }
+    ]
   }
 ]
