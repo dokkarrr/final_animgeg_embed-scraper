@@ -6893,5 +6893,21 @@
         "url": "https://www.animegg.org/toaru-hikuushi-e-no-tsuioku-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5722,
+    "title": "Plastic Little",
+    "animegg_url": "https://www.animegg.org/series/plastic-little",
+    "mal_url": "https://myanimelist.net/anime/2332",
+    "mal_id": 2332,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/60103",
+        "dub": "https://www.animegg.org/embed/60104",
+        "url": "https://www.animegg.org/plastic-little-episode-1"
+      }
+    ]
   }
 ]
