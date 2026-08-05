@@ -19014,5 +19014,21 @@
         "url": "https://www.animegg.org/ironman-rise-of-technovore-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5949,
+    "title": "Hamtaro Movie 2",
+    "animegg_url": "https://www.animegg.org/series/hamtaro-movie-2",
+    "mal_url": "https://myanimelist.net/anime/508",
+    "mal_id": 508,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/52507",
+        "dub": null,
+        "url": "https://www.animegg.org/hamtaro-movie-2-episode-1"
+      }
+    ]
   }
 ]
