@@ -96988,5 +96988,87 @@
         "url": "https://www.animegg.org/synduality-noir-part-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4367,
+    "title": "Bakumatsu: Crisis",
+    "animegg_url": "https://www.animegg.org/series/bakumatsu-crisis",
+    "mal_url": "https://myanimelist.net/anime/38860",
+    "mal_id": 38860,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/94999",
+        "dub": null,
+        "url": "https://www.animegg.org/bakumatsu-crisis-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/95061",
+        "dub": null,
+        "url": "https://www.animegg.org/bakumatsu-crisis-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/95121",
+        "dub": null,
+        "url": "https://www.animegg.org/bakumatsu-crisis-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/95187",
+        "dub": null,
+        "url": "https://www.animegg.org/bakumatsu-crisis-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/95246",
+        "dub": null,
+        "url": "https://www.animegg.org/bakumatsu-crisis-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/95303",
+        "dub": null,
+        "url": "https://www.animegg.org/bakumatsu-crisis-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/95369",
+        "dub": null,
+        "url": "https://www.animegg.org/bakumatsu-crisis-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/95430",
+        "dub": null,
+        "url": "https://www.animegg.org/bakumatsu-crisis-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/95495",
+        "dub": null,
+        "url": "https://www.animegg.org/bakumatsu-crisis-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/95560",
+        "dub": null,
+        "url": "https://www.animegg.org/bakumatsu-crisis-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/95635",
+        "dub": null,
+        "url": "https://www.animegg.org/bakumatsu-crisis-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/95698",
+        "dub": null,
+        "url": "https://www.animegg.org/bakumatsu-crisis-episode-12"
+      }
+    ]
   }
 ]
