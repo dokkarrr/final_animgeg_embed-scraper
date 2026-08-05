@@ -105520,5 +105520,57 @@
         "url": "https://www.animegg.org/once-upon-a-witch-s-death-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4505,
+    "title": "Love Live! Superstar!! 3rd Season",
+    "animegg_url": "https://www.animegg.org/series/love-live-superstar-3rd-season",
+    "mal_url": "https://myanimelist.net/anime/53287",
+    "mal_id": 53287,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/139092",
+        "dub": null,
+        "url": "https://www.animegg.org/love-live-superstar-3rd-season-episode-7"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/138882",
+        "dub": null,
+        "url": "https://www.animegg.org/love-live-superstar-3rd-season-episode-6"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/138703",
+        "dub": null,
+        "url": "https://www.animegg.org/love-live-superstar-3rd-season-episode-5"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/138479",
+        "dub": null,
+        "url": "https://www.animegg.org/love-live-superstar-3rd-season-episode-4"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/138196",
+        "dub": null,
+        "url": "https://www.animegg.org/love-live-superstar-3rd-season-episode-3"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/137957",
+        "dub": null,
+        "url": "https://www.animegg.org/love-live-superstar-3rd-season-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/137684",
+        "dub": null,
+        "url": "https://www.animegg.org/love-live-superstar-3rd-season-episode-1"
+      }
+    ]
   }
 ]
