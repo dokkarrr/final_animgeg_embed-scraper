@@ -34476,5 +34476,21 @@
         "url": "https://www.animegg.org/wan-yu-feng-shen-episode-60"
       }
     ]
+  },
+  {
+    "serial_no": 6159,
+    "title": "Saki Biyori Animation",
+    "animegg_url": "https://www.animegg.org/series/saki-biyori-animation",
+    "mal_url": "https://myanimelist.net/anime/27709",
+    "mal_id": 27709,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/81022",
+        "dub": null,
+        "url": "https://www.animegg.org/saki-biyori-animation-episode-1"
+      }
+    ]
   }
 ]
