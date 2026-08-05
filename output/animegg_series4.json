@@ -58920,5 +58920,27 @@
         "url": "https://www.animegg.org/kikis-delivery-service-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3799,
+    "title": "Owari no Seraph: Nagoya Kessen-hen - Owaranai Seraph - Nagoya Kessen-hen",
+    "animegg_url": "https://www.animegg.org/series/owari-no-seraph-nagoya-kessen-hen---owaranai-seraph---nagoya-kessen-hen",
+    "mal_url": "https://myanimelist.net/anime/28927",
+    "mal_id": 28927,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/81345",
+        "dub": null,
+        "url": "https://www.animegg.org/owari-no-seraph-nagoya-kessen-hen---owaranai-seraph---nagoya-kessen-hen-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/81731",
+        "dub": null,
+        "url": "https://www.animegg.org/owari-no-seraph-nagoya-kessen-hen---owaranai-seraph---nagoya-kessen-hen-episode-2"
+      }
+    ]
   }
 ]
