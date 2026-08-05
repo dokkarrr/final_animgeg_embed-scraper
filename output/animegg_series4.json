@@ -87124,5 +87124,63 @@
         "url": "https://www.animegg.org/koitabi-true-tours-nanto-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 4220,
+    "title": "Mugyutto! Black Clover",
+    "animegg_url": "https://www.animegg.org/series/mugyutto-black-clover",
+    "mal_url": "https://myanimelist.net/anime/40031",
+    "mal_id": 40031,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/97422",
+        "dub": null,
+        "url": "https://www.animegg.org/mugyutto-black-clover-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/97423",
+        "dub": null,
+        "url": "https://www.animegg.org/mugyutto-black-clover-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/97424",
+        "dub": null,
+        "url": "https://www.animegg.org/mugyutto-black-clover-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/97425",
+        "dub": null,
+        "url": "https://www.animegg.org/mugyutto-black-clover-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/97426",
+        "dub": null,
+        "url": "https://www.animegg.org/mugyutto-black-clover-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/97427",
+        "dub": null,
+        "url": "https://www.animegg.org/mugyutto-black-clover-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/97428",
+        "dub": null,
+        "url": "https://www.animegg.org/mugyutto-black-clover-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/97429",
+        "dub": null,
+        "url": "https://www.animegg.org/mugyutto-black-clover-episode-8"
+      }
+    ]
   }
 ]
