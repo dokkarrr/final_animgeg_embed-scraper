@@ -111870,5 +111870,21 @@
         "url": "https://www.animegg.org/gyakuten-sekai-no-denchi-shoujo-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4606,
+    "title": "Dragon Ball Movie 3: Mystical Adventure",
+    "animegg_url": "https://www.animegg.org/series/dragon-ball-movie-3-mystical-adventure",
+    "mal_url": "https://myanimelist.net/anime/892",
+    "mal_id": 892,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/49628",
+        "dub": "https://www.animegg.org/embed/49629",
+        "url": "https://www.animegg.org/dragon-ball-movie-3-mystical-adventure-episode-1"
+      }
+    ]
   }
 ]
