@@ -82210,5 +82210,87 @@
         "url": "https://www.animegg.org/samurai-x-reflection-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 4148,
+    "title": "Metallic Rouge",
+    "animegg_url": "https://www.animegg.org/series/metallic-rouge",
+    "mal_url": "https://myanimelist.net/anime/54794",
+    "mal_id": 54794,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/132651",
+        "dub": null,
+        "url": "https://www.animegg.org/metallic-rouge-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/132732",
+        "dub": null,
+        "url": "https://www.animegg.org/metallic-rouge-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/132802",
+        "dub": null,
+        "url": "https://www.animegg.org/metallic-rouge-episode-3"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/132886",
+        "dub": null,
+        "url": "https://www.animegg.org/metallic-rouge-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/132966",
+        "dub": null,
+        "url": "https://www.animegg.org/metallic-rouge-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/133053",
+        "dub": null,
+        "url": "https://www.animegg.org/metallic-rouge-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/133129",
+        "dub": null,
+        "url": "https://www.animegg.org/metallic-rouge-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/133211",
+        "dub": null,
+        "url": "https://www.animegg.org/metallic-rouge-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/133292",
+        "dub": null,
+        "url": "https://www.animegg.org/metallic-rouge-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/133386",
+        "dub": null,
+        "url": "https://www.animegg.org/metallic-rouge-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/133473",
+        "dub": null,
+        "url": "https://www.animegg.org/metallic-rouge-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/133532",
+        "dub": null,
+        "url": "https://www.animegg.org/metallic-rouge-episode-13"
+      }
+    ]
   }
 ]
