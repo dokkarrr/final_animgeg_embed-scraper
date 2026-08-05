@@ -131254,5 +131254,33 @@
         "url": "https://www.animegg.org/ninja-vs-gokudo-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4901,
+    "title": "Burn the Witch",
+    "animegg_url": "https://www.animegg.org/series/burn-the-witch",
+    "mal_url": "https://myanimelist.net/anime/41468",
+    "mal_id": 41468,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/99497",
+        "dub": null,
+        "url": "https://www.animegg.org/burn-the-witch-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/99498",
+        "dub": null,
+        "url": "https://www.animegg.org/burn-the-witch-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/99499",
+        "dub": null,
+        "url": "https://www.animegg.org/burn-the-witch-episode-3"
+      }
+    ]
   }
 ]
