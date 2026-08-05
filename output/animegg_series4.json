@@ -115464,5 +115464,21 @@
         "url": "https://www.animegg.org/marika-s-love-meter-malfunction-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 4666,
+    "title": "Detective Conan Movie 20: The Darkest Nightmare",
+    "animegg_url": "https://www.animegg.org/series/detective-conan-movie-20-the-darkest-nightmare",
+    "mal_url": "https://myanimelist.net/anime/32005",
+    "mal_id": 32005,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 20,
+        "sub": "https://www.animegg.org/embed/84498",
+        "dub": null,
+        "url": "https://www.animegg.org/detective-conan-movie-20-the-darkest-nightmare-episode-1-7110"
+      }
+    ]
   }
 ]
