@@ -26602,5 +26602,51 @@
         "url": "https://www.animegg.org/monkey-magic-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3383,
+    "title": "Hakuouki Sekkaroku",
+    "animegg_url": "https://www.animegg.org/series/hakuouki-sekkaroku",
+    "mal_url": "https://myanimelist.net/anime/10350",
+    "mal_id": 10350,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/15136",
+        "dub": "https://www.animegg.org/embed/75611",
+        "url": "https://www.animegg.org/hakuouki-sekkaroku-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/15134",
+        "dub": "https://www.animegg.org/embed/75612",
+        "url": "https://www.animegg.org/hakuouki-sekkaroku-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/15133",
+        "dub": "https://www.animegg.org/embed/75613",
+        "url": "https://www.animegg.org/hakuouki-sekkaroku-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/15135",
+        "dub": "https://www.animegg.org/embed/75614",
+        "url": "https://www.animegg.org/hakuouki-sekkaroku-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/15132",
+        "dub": "https://www.animegg.org/embed/75615",
+        "url": "https://www.animegg.org/hakuouki-sekkaroku-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/15137",
+        "dub": "https://www.animegg.org/embed/75616",
+        "url": "https://www.animegg.org/hakuouki-sekkaroku-episode-6"
+      }
+    ]
   }
 ]
