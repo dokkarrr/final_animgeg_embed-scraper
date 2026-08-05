@@ -117693,5 +117693,21 @@
         "url": "https://www.animegg.org/i-am-legend-episode-36"
       }
     ]
+  },
+  {
+    "serial_no": 6884,
+    "title": "Castlevania: Nocturne season 2",
+    "animegg_url": "https://www.animegg.org/series/castlevania-nocturne-season-2",
+    "mal_url": "https://myanimelist.net/anime/40028",
+    "mal_id": 40028,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/139419",
+        "dub": null,
+        "url": "https://www.animegg.org/castlevania-nocturne-season-2-episode-1"
+      }
+    ]
   }
 ]
