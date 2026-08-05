@@ -69662,5 +69662,51 @@
         "url": "https://www.animegg.org/ozuma-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 3945,
+    "title": "Jinrui wa Suitai Shimashita Specials",
+    "animegg_url": "https://www.animegg.org/series/jinrui-wa-suitai-shimashita-specials",
+    "mal_url": "https://myanimelist.net/anime/15617",
+    "mal_id": 15617,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/18606",
+        "dub": null,
+        "url": "https://www.animegg.org/jinrui-wa-suitai-shimashita-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/18609",
+        "dub": null,
+        "url": "https://www.animegg.org/jinrui-wa-suitai-shimashita-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/18605",
+        "dub": null,
+        "url": "https://www.animegg.org/jinrui-wa-suitai-shimashita-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/18607",
+        "dub": null,
+        "url": "https://www.animegg.org/jinrui-wa-suitai-shimashita-specials-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/18608",
+        "dub": null,
+        "url": "https://www.animegg.org/jinrui-wa-suitai-shimashita-specials-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/18610",
+        "dub": null,
+        "url": "https://www.animegg.org/jinrui-wa-suitai-shimashita-specials-episode-6"
+      }
+    ]
   }
 ]
