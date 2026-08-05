@@ -6839,5 +6839,21 @@
         "url": "https://www.animegg.org/turning-mecard-dub-episode-52"
       }
     ]
+  },
+  {
+    "serial_no": 5719,
+    "title": "Natsume Yuujinchou Go OVA",
+    "animegg_url": "https://www.animegg.org/series/natsume-yuujinchou-go-ova",
+    "mal_url": "https://myanimelist.net/anime/4081",
+    "mal_id": 4081,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/87428",
+        "dub": null,
+        "url": "https://www.animegg.org/natsume-yuujinchou-go-ova-episode-1"
+      }
+    ]
   }
 ]
