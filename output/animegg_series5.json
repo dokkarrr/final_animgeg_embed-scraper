@@ -90773,5 +90773,21 @@
         "url": "https://www.animegg.org/shiguang-zhaoxiangguan-de-richang-episode-18"
       }
     ]
+  },
+  {
+    "serial_no": 6672,
+    "title": "Urusei Yatsura Movie 4: Lum The Forever",
+    "animegg_url": "https://www.animegg.org/series/urusei-yatsura-movie-4-lum-the-forever",
+    "mal_url": "https://myanimelist.net/anime/1923",
+    "mal_id": 1923,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/64958",
+        "dub": null,
+        "url": "https://www.animegg.org/urusei-yatsura-movie-4-lum-the-forever-episode-1"
+      }
+    ]
   }
 ]
