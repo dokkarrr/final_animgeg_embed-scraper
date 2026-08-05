@@ -103450,5 +103450,69 @@
         "url": "https://www.animegg.org/gundam-build-fighters-sd-kishi-fighters-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 4460,
+    "title": "Mahoutsukai no Yome Season 2 Part 2",
+    "animegg_url": "https://www.animegg.org/series/mahoutsukai-no-yome-season-2-part-2",
+    "mal_url": "https://myanimelist.net/anime/55742",
+    "mal_id": 55742,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/132512",
+        "dub": null,
+        "url": "https://www.animegg.org/mahoutsukai-no-yome-season-2-part-2-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/132476",
+        "dub": null,
+        "url": "https://www.animegg.org/mahoutsukai-no-yome-season-2-part-2-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/132239",
+        "dub": null,
+        "url": "https://www.animegg.org/mahoutsukai-no-yome-season-2-part-2-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/132144",
+        "dub": "https://www.animegg.org/embed/132485",
+        "url": "https://www.animegg.org/mahoutsukai-no-yome-season-2-part-2-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/132067",
+        "dub": "https://www.animegg.org/embed/132248",
+        "url": "https://www.animegg.org/mahoutsukai-no-yome-season-2-part-2-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/131957",
+        "dub": "https://www.animegg.org/embed/132155",
+        "url": "https://www.animegg.org/mahoutsukai-no-yome-season-2-part-2-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/131843",
+        "dub": null,
+        "url": "https://www.animegg.org/mahoutsukai-no-yome-season-2-part-2-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/131729",
+        "dub": "https://www.animegg.org/embed/131964",
+        "url": "https://www.animegg.org/mahoutsukai-no-yome-season-2-part-2-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/131621",
+        "dub": "https://www.animegg.org/embed/131852",
+        "url": "https://www.animegg.org/mahoutsukai-no-yome-season-2-part-2-episode-1"
+      }
+    ]
   }
 ]
