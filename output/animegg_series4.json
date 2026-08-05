@@ -90256,5 +90256,93 @@
         "url": "https://www.animegg.org/blue-lock-dub-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 4271,
+    "title": "Sayonara Watashi no Cramer",
+    "animegg_url": "https://www.animegg.org/series/sayonara-watashi-no-cramer",
+    "mal_url": "https://myanimelist.net/anime/42774",
+    "mal_id": 42774,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/101352",
+        "dub": null,
+        "url": "https://www.animegg.org/sayonara-watashi-no-cramer-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/101413",
+        "dub": null,
+        "url": "https://www.animegg.org/sayonara-watashi-no-cramer-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/101476",
+        "dub": null,
+        "url": "https://www.animegg.org/sayonara-watashi-no-cramer-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/101536",
+        "dub": null,
+        "url": "https://www.animegg.org/sayonara-watashi-no-cramer-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/101602",
+        "dub": null,
+        "url": "https://www.animegg.org/sayonara-watashi-no-cramer-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/101665",
+        "dub": null,
+        "url": "https://www.animegg.org/sayonara-watashi-no-cramer-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/101731",
+        "dub": null,
+        "url": "https://www.animegg.org/sayonara-watashi-no-cramer-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/101805",
+        "dub": null,
+        "url": "https://www.animegg.org/sayonara-watashi-no-cramer-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/101877",
+        "dub": null,
+        "url": "https://www.animegg.org/sayonara-watashi-no-cramer-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/101951",
+        "dub": null,
+        "url": "https://www.animegg.org/sayonara-watashi-no-cramer-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/102021",
+        "dub": null,
+        "url": "https://www.animegg.org/sayonara-watashi-no-cramer-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/102101",
+        "dub": null,
+        "url": "https://www.animegg.org/sayonara-watashi-no-cramer-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/102157",
+        "dub": null,
+        "url": "https://www.animegg.org/sayonara-watashi-no-cramer-episode-13"
+      }
+    ]
   }
 ]
