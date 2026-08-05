@@ -37754,5 +37754,21 @@
         "url": "https://www.animegg.org/go-go-575-meippai-ni-hajiketeru-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6197,
+    "title": "Welcome to THE SPACE SHOW",
+    "animegg_url": "https://www.animegg.org/series/welcome-to-the-space-show",
+    "mal_url": "https://myanimelist.net/anime/8115",
+    "mal_id": 8115,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/63903",
+        "dub": "https://www.animegg.org/embed/63904",
+        "url": "https://www.animegg.org/welcome-to-the-space-show-episode-1"
+      }
+    ]
   }
 ]
