@@ -65401,5 +65401,21 @@
         "url": "https://www.animegg.org/jueshi-zhan-hun-episode-64"
       }
     ]
+  },
+  {
+    "serial_no": 6454,
+    "title": "Peeping Life: The Perfect Emotion",
+    "animegg_url": "https://www.animegg.org/series/peeping-life-the-perfect-emotion",
+    "mal_url": "https://myanimelist.net/anime/16371",
+    "mal_id": 16371,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/60003",
+        "dub": null,
+        "url": "https://www.animegg.org/peeping-life-the-perfect-emotion-episode-1"
+      }
+    ]
   }
 ]
