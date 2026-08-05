@@ -8935,5 +8935,57 @@
         "url": "https://www.animegg.org/nintama-rantarou-movie-ninjutsu-gakuen-zenin-shutsudou-no-dan-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5760,
+    "title": "Kagejitsu! Second",
+    "animegg_url": "https://www.animegg.org/series/kagejitsu-second",
+    "mal_url": "https://myanimelist.net/anime/56842",
+    "mal_id": 56842,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/132051",
+        "dub": null,
+        "url": "https://www.animegg.org/kagejitsu-second-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/132050",
+        "dub": null,
+        "url": "https://www.animegg.org/kagejitsu-second-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/132049",
+        "dub": null,
+        "url": "https://www.animegg.org/kagejitsu-second-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/132048",
+        "dub": null,
+        "url": "https://www.animegg.org/kagejitsu-second-episode-4"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/132138",
+        "dub": null,
+        "url": "https://www.animegg.org/kagejitsu-second-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/132231",
+        "dub": null,
+        "url": "https://www.animegg.org/kagejitsu-second-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/132468",
+        "dub": null,
+        "url": "https://www.animegg.org/kagejitsu-second-episode-8"
+      }
+    ]
   }
 ]
