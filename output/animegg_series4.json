@@ -58788,5 +58788,63 @@
         "url": "https://www.animegg.org/naruto-finally-a-clash-jounin-vs-genin-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3796,
+    "title": "Dr. Stone: New World Part 2",
+    "animegg_url": "https://www.animegg.org/series/dr-stone-new-world-part-2",
+    "mal_url": "https://myanimelist.net/anime/55644",
+    "mal_id": 55644,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/132520",
+        "dub": null,
+        "url": "https://www.animegg.org/dr-stone-new-world-part-2-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/dr-stone-new-world-part-2-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/132237",
+        "dub": "https://www.animegg.org/embed/132238",
+        "url": "https://www.animegg.org/dr-stone-new-world-part-2-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/132143",
+        "dub": "https://www.animegg.org/embed/132145",
+        "url": "https://www.animegg.org/dr-stone-new-world-part-2-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/132065",
+        "dub": "https://www.animegg.org/embed/132066",
+        "url": "https://www.animegg.org/dr-stone-new-world-part-2-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/131955",
+        "dub": "https://www.animegg.org/embed/131956",
+        "url": "https://www.animegg.org/dr-stone-new-world-part-2-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/131842",
+        "dub": "https://www.animegg.org/embed/131844",
+        "url": "https://www.animegg.org/dr-stone-new-world-part-2-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/131733",
+        "dub": "https://www.animegg.org/embed/131734",
+        "url": "https://www.animegg.org/dr-stone-new-world-part-2-episode-1"
+      }
+    ]
   }
 ]
