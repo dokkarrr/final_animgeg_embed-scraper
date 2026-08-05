@@ -35374,5 +35374,21 @@
         "url": "https://www.animegg.org/mayonaka-no-occult-koumuin-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3476,
+    "title": "Shinmai Maou no Testament Burst OVA",
+    "animegg_url": "https://www.animegg.org/series/shinmai-maou-no-testament-burst-ova",
+    "mal_url": "https://myanimelist.net/anime/30363",
+    "mal_id": 30363,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/80997",
+        "dub": "https://www.animegg.org/embed/81637",
+        "url": "https://www.animegg.org/shinmai-maou-no-testament-burst-ova-episode-1"
+      }
+    ]
   }
 ]
