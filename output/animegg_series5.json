@@ -45709,5 +45709,21 @@
         "url": "https://www.animegg.org/dr-stone-ryuusui-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6281,
+    "title": "Project A-Ko 4: Final",
+    "animegg_url": "https://www.animegg.org/series/project-a-ko-4-final",
+    "mal_url": "https://myanimelist.net/anime/1298",
+    "mal_id": 1298,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/59724",
+        "dub": null,
+        "url": "https://www.animegg.org/project-a-ko-4-final-episode-1"
+      }
+    ]
   }
 ]
