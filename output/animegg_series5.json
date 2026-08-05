@@ -42357,5 +42357,21 @@
         "url": "https://www.animegg.org/yurumates-3d-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6238,
+    "title": "Meitantei Holmes: Aoi Ruby no Maki",
+    "animegg_url": "https://www.animegg.org/series/meitantei-holmes-aoi-ruby-no-maki",
+    "mal_url": "https://myanimelist.net/anime/15347",
+    "mal_id": 15347,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/61747",
+        "dub": null,
+        "url": "https://www.animegg.org/meitantei-holmes-aoi-ruby-no-maki-episode-1"
+      }
+    ]
   }
 ]
