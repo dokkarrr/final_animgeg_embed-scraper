@@ -63625,5 +63625,21 @@
         "url": "https://www.animegg.org/hajime-no-ippo-a-new-challenger-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 6427,
+    "title": "5-toubun no Hanayome Movie",
+    "animegg_url": "https://www.animegg.org/series/gotoubun-no-hanayome-movie",
+    "mal_url": "https://myanimelist.net/anime/48548",
+    "mal_id": 48548,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/106227",
+        "dub": null,
+        "url": "https://www.animegg.org/gotoubun-no-hanayome-movie-episode-1"
+      }
+    ]
   }
 ]
