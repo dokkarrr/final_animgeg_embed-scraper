@@ -58234,5 +58234,75 @@
         "url": "https://www.animegg.org/petopeto-san-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3785,
+    "title": "Megami-ryou no Ryoubo-kun.",
+    "animegg_url": "https://www.animegg.org/series/megami-ryou-no-ryoubo-kun",
+    "mal_url": "https://myanimelist.net/anime/41812",
+    "mal_id": 41812,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/102269",
+        "dub": null,
+        "url": "https://www.animegg.org/megami-ryou-no-ryoubo-kun-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/102338",
+        "dub": null,
+        "url": "https://www.animegg.org/megami-ryou-no-ryoubo-kun-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/102377",
+        "dub": null,
+        "url": "https://www.animegg.org/megami-ryou-no-ryoubo-kun-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/102433",
+        "dub": null,
+        "url": "https://www.animegg.org/megami-ryou-no-ryoubo-kun-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/102486",
+        "dub": null,
+        "url": "https://www.animegg.org/megami-ryou-no-ryoubo-kun-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/102541",
+        "dub": null,
+        "url": "https://www.animegg.org/megami-ryou-no-ryoubo-kun-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/102595",
+        "dub": null,
+        "url": "https://www.animegg.org/megami-ryou-no-ryoubo-kun-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/102652",
+        "dub": null,
+        "url": "https://www.animegg.org/megami-ryou-no-ryoubo-kun-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/102705",
+        "dub": null,
+        "url": "https://www.animegg.org/megami-ryou-no-ryoubo-kun-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/102763",
+        "dub": null,
+        "url": "https://www.animegg.org/megami-ryou-no-ryoubo-kun-episode-10"
+      }
+    ]
   }
 ]
