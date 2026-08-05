@@ -100436,5 +100436,27 @@
         "url": "https://www.animegg.org/vanitas-no-carte-part-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6745,
+    "title": "Boku no hero academia ova",
+    "animegg_url": "https://www.animegg.org/series/boku-no-hero-academia-ova",
+    "mal_url": "https://myanimelist.net/anime/33486",
+    "mal_id": 33486,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/142200",
+        "dub": null,
+        "url": "https://www.animegg.org/boku-no-hero-academia-ova-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/142199",
+        "dub": null,
+        "url": "https://www.animegg.org/boku-no-hero-academia-ova-episode-8"
+      }
+    ]
   }
 ]
