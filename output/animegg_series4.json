@@ -47042,5 +47042,87 @@
         "url": "https://www.animegg.org/kimi-wa-meido-sama-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3636,
+    "title": "Petals of Reincarnation",
+    "animegg_url": "https://www.animegg.org/series/petals-of-reincarnation",
+    "mal_url": "https://myanimelist.net/anime/36039",
+    "mal_id": 36039,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/145357",
+        "dub": "https://www.animegg.org/embed/145749",
+        "url": "https://www.animegg.org/petals-of-reincarnation-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/145422",
+        "dub": "https://www.animegg.org/embed/145859",
+        "url": "https://www.animegg.org/petals-of-reincarnation-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/145972",
+        "dub": null,
+        "url": "https://www.animegg.org/petals-of-reincarnation-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/145462",
+        "dub": "https://www.animegg.org/embed/146015",
+        "url": "https://www.animegg.org/petals-of-reincarnation-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/145571",
+        "dub": null,
+        "url": "https://www.animegg.org/petals-of-reincarnation-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/146127",
+        "dub": null,
+        "url": "https://www.animegg.org/petals-of-reincarnation-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/145768",
+        "dub": "https://www.animegg.org/embed/146208",
+        "url": "https://www.animegg.org/petals-of-reincarnation-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/145871",
+        "dub": "https://www.animegg.org/embed/146272",
+        "url": "https://www.animegg.org/petals-of-reincarnation-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/146360",
+        "dub": null,
+        "url": "https://www.animegg.org/petals-of-reincarnation-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/146028",
+        "dub": null,
+        "url": "https://www.animegg.org/petals-of-reincarnation-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/146543",
+        "dub": null,
+        "url": "https://www.animegg.org/petals-of-reincarnation-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/146139",
+        "dub": null,
+        "url": "https://www.animegg.org/petals-of-reincarnation-episode-12"
+      }
+    ]
   }
 ]
