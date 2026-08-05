@@ -14007,5 +14007,21 @@
         "url": "https://www.animegg.org/crest-of-the-stars-birth-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5849,
+    "title": "Dareka no Manazashi",
+    "animegg_url": "https://www.animegg.org/series/dareka-no-manazashi",
+    "mal_url": "https://myanimelist.net/anime/17121",
+    "mal_id": 17121,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/50321",
+        "dub": null,
+        "url": "https://www.animegg.org/dareka-no-manazashi-episode-1"
+      }
+    ]
   }
 ]
