@@ -42743,5 +42743,21 @@
         "url": "https://www.animegg.org/sengoku-musou-sp-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6243,
+    "title": "Puchimas! Wakku Waku!!",
+    "animegg_url": "https://www.animegg.org/series/puchimas-wakku-waku",
+    "mal_url": "https://myanimelist.net/anime/15781",
+    "mal_id": 15781,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/31301",
+        "dub": null,
+        "url": "https://www.animegg.org/puchimas-wakku-waku-episode-1"
+      }
+    ]
   }
 ]
