@@ -78566,5 +78566,51 @@
         "url": "https://www.animegg.org/sengoku-youko-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 4095,
+    "title": "Chou Yuu Sekai: Being the Reality",
+    "animegg_url": "https://www.animegg.org/series/chou-yuu-sekai-being-the-reality",
+    "mal_url": "https://myanimelist.net/anime/34675",
+    "mal_id": 34675,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/85686",
+        "dub": null,
+        "url": "https://www.animegg.org/chou-yuu-sekai-being-the-reality-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/85687",
+        "dub": null,
+        "url": "https://www.animegg.org/chou-yuu-sekai-being-the-reality-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/86040",
+        "dub": null,
+        "url": "https://www.animegg.org/chou-yuu-sekai-being-the-reality-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/86041",
+        "dub": null,
+        "url": "https://www.animegg.org/chou-yuu-sekai-being-the-reality-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/86042",
+        "dub": null,
+        "url": "https://www.animegg.org/chou-yuu-sekai-being-the-reality-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/86111",
+        "dub": null,
+        "url": "https://www.animegg.org/chou-yuu-sekai-being-the-reality-episode-6"
+      }
+    ]
   }
 ]
