@@ -127752,5 +127752,51 @@
         "url": "https://www.animegg.org/pastel-memories-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4846,
+    "title": "Project BLUE Chikyuu SOS",
+    "animegg_url": "https://www.animegg.org/series/project-blue-chikyuu-sos",
+    "mal_url": "https://myanimelist.net/anime/1247",
+    "mal_id": 1247,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/73235",
+        "dub": null,
+        "url": "https://www.animegg.org/project-blue-chikyuu-sos-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/73236",
+        "dub": null,
+        "url": "https://www.animegg.org/project-blue-chikyuu-sos-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/73237",
+        "dub": null,
+        "url": "https://www.animegg.org/project-blue-chikyuu-sos-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/73238",
+        "dub": null,
+        "url": "https://www.animegg.org/project-blue-chikyuu-sos-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/73240",
+        "dub": null,
+        "url": "https://www.animegg.org/project-blue-chikyuu-sos-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/73241",
+        "dub": null,
+        "url": "https://www.animegg.org/project-blue-chikyuu-sos-episode-6"
+      }
+    ]
   }
 ]
