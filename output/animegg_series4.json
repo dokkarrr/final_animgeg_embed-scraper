@@ -80788,5 +80788,63 @@
         "url": "https://www.animegg.org/date-a-live-encore-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4133,
+    "title": "NegaPosi Angler",
+    "animegg_url": "https://www.animegg.org/series/negaposi-angler",
+    "mal_url": "https://myanimelist.net/anime/59425",
+    "mal_id": 59425,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/137562",
+        "dub": null,
+        "url": "https://www.animegg.org/negaposi-angler-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/137795",
+        "dub": null,
+        "url": "https://www.animegg.org/negaposi-angler-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/138070",
+        "dub": null,
+        "url": "https://www.animegg.org/negaposi-angler-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/138326",
+        "dub": null,
+        "url": "https://www.animegg.org/negaposi-angler-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/138566",
+        "dub": null,
+        "url": "https://www.animegg.org/negaposi-angler-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/138790",
+        "dub": null,
+        "url": "https://www.animegg.org/negaposi-angler-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/138973",
+        "dub": null,
+        "url": "https://www.animegg.org/negaposi-angler-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/139162",
+        "dub": null,
+        "url": "https://www.animegg.org/negaposi-angler-episode-8"
+      }
+    ]
   }
 ]
