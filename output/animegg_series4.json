@@ -102566,5 +102566,87 @@
         "url": "https://www.animegg.org/elf-san-wa-yaserarenai-episode-14"
       }
     ]
+  },
+  {
+    "serial_no": 4443,
+    "title": "Vampire Dormitory",
+    "animegg_url": "https://www.animegg.org/series/vampire-dormitory",
+    "mal_url": "https://myanimelist.net/anime/57031",
+    "mal_id": 57031,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/133562",
+        "dub": null,
+        "url": "https://www.animegg.org/vampire-dormitory-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/133650",
+        "dub": null,
+        "url": "https://www.animegg.org/vampire-dormitory-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/133740",
+        "dub": null,
+        "url": "https://www.animegg.org/vampire-dormitory-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/vampire-dormitory-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/133990",
+        "dub": null,
+        "url": "https://www.animegg.org/vampire-dormitory-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/134087",
+        "dub": null,
+        "url": "https://www.animegg.org/vampire-dormitory-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/134258",
+        "dub": null,
+        "url": "https://www.animegg.org/vampire-dormitory-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/134458",
+        "dub": null,
+        "url": "https://www.animegg.org/vampire-dormitory-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/134627",
+        "dub": null,
+        "url": "https://www.animegg.org/vampire-dormitory-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/134787",
+        "dub": null,
+        "url": "https://www.animegg.org/vampire-dormitory-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/134955",
+        "dub": null,
+        "url": "https://www.animegg.org/vampire-dormitory-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/135104",
+        "dub": null,
+        "url": "https://www.animegg.org/vampire-dormitory-episode-12"
+      }
+    ]
   }
 ]
