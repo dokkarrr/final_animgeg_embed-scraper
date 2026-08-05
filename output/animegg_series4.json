@@ -96498,5 +96498,63 @@
         "url": "https://www.animegg.org/yu-gi-oh-the-dark-side-of-dimensions-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4360,
+    "title": "Shinshaku Sanada Juuyuushi The Animation",
+    "animegg_url": "https://www.animegg.org/series/shinshaku-sanada-juuyuushi-the-animation",
+    "mal_url": "https://myanimelist.net/anime/36027",
+    "mal_id": 36027,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/61287",
+        "dub": null,
+        "url": "https://www.animegg.org/shinshaku-sanada-juuyuushi-the-animation-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/61288",
+        "dub": null,
+        "url": "https://www.animegg.org/shinshaku-sanada-juuyuushi-the-animation-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/61289",
+        "dub": null,
+        "url": "https://www.animegg.org/shinshaku-sanada-juuyuushi-the-animation-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/61290",
+        "dub": null,
+        "url": "https://www.animegg.org/shinshaku-sanada-juuyuushi-the-animation-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/61291",
+        "dub": null,
+        "url": "https://www.animegg.org/shinshaku-sanada-juuyuushi-the-animation-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/61292",
+        "dub": null,
+        "url": "https://www.animegg.org/shinshaku-sanada-juuyuushi-the-animation-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/61293",
+        "dub": null,
+        "url": "https://www.animegg.org/shinshaku-sanada-juuyuushi-the-animation-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/61294",
+        "dub": null,
+        "url": "https://www.animegg.org/shinshaku-sanada-juuyuushi-the-animation-episode-8"
+      }
+    ]
   }
 ]
