@@ -49950,5 +49950,27 @@
         "url": "https://www.animegg.org/area-88-episode"
       }
     ]
+  },
+  {
+    "serial_no": 3676,
+    "title": "Shokugeki no Souma: Ni no Sara OVA",
+    "animegg_url": "https://www.animegg.org/series/shokugeki-no-souma-ni-no-sara-ova",
+    "mal_url": "https://myanimelist.net/anime/34480",
+    "mal_id": 34480,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/88511",
+        "dub": null,
+        "url": "https://www.animegg.org/shokugeki-no-souma-ni-no-sara-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/88512",
+        "dub": null,
+        "url": "https://www.animegg.org/shokugeki-no-souma-ni-no-sara-ova-episode-2"
+      }
+    ]
   }
 ]
