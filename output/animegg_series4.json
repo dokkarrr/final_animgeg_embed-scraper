@@ -106790,5 +106790,39 @@
         "url": "https://www.animegg.org/saikin-yatotta-maid-ga-ayashii-episode-11"
       }
     ]
+  },
+  {
+    "serial_no": 4524,
+    "title": "Yondemasu Yo, Azazel-San. OVA",
+    "animegg_url": "https://www.animegg.org/series/yondemasu-yo-azazel-san-ova",
+    "mal_url": "https://myanimelist.net/anime/16241",
+    "mal_id": 16241,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/41120",
+        "dub": null,
+        "url": "https://www.animegg.org/yondemasu-yo-azazel-san-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/41121",
+        "dub": null,
+        "url": "https://www.animegg.org/yondemasu-yo-azazel-san-ova-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/41122",
+        "dub": null,
+        "url": "https://www.animegg.org/yondemasu-yo-azazel-san-ova-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/41123",
+        "dub": "https://www.animegg.org/embed/76207",
+        "url": "https://www.animegg.org/yondemasu-yo-azazel-san-ova-episode-4"
+      }
+    ]
   }
 ]
