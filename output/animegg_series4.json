@@ -40298,5 +40298,81 @@
         "url": "https://www.animegg.org/fantasy-bishoujo-juniku-ojisan-to-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3549,
+    "title": "Bungou Stray Dogs 5th Season",
+    "animegg_url": "https://www.animegg.org/series/bungou-stray-dogs-5th-season",
+    "mal_url": "https://myanimelist.net/anime/54898",
+    "mal_id": 54898,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/131402",
+        "dub": "https://www.animegg.org/embed/131615",
+        "url": "https://www.animegg.org/bungou-stray-dogs-5th-season-episode-11"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/131309",
+        "dub": "https://www.animegg.org/embed/131501",
+        "url": "https://www.animegg.org/bungou-stray-dogs-5th-season-episode-10"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/131200",
+        "dub": "https://www.animegg.org/embed/131411",
+        "url": "https://www.animegg.org/bungou-stray-dogs-5th-season-episode-9"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/131106",
+        "dub": "https://www.animegg.org/embed/131317",
+        "url": "https://www.animegg.org/bungou-stray-dogs-5th-season-episode-8"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/131018",
+        "dub": "https://www.animegg.org/embed/131211",
+        "url": "https://www.animegg.org/bungou-stray-dogs-5th-season-episode-7"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/130927",
+        "dub": "https://www.animegg.org/embed/131112",
+        "url": "https://www.animegg.org/bungou-stray-dogs-5th-season-episode-6"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/130838",
+        "dub": "https://www.animegg.org/embed/131025",
+        "url": "https://www.animegg.org/bungou-stray-dogs-5th-season-episode-5"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/130743",
+        "dub": "https://www.animegg.org/embed/130933",
+        "url": "https://www.animegg.org/bungou-stray-dogs-5th-season-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/130600",
+        "dub": "https://www.animegg.org/embed/130852",
+        "url": "https://www.animegg.org/bungou-stray-dogs-5th-season-episode-3"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/130312",
+        "dub": "https://www.animegg.org/embed/130749",
+        "url": "https://www.animegg.org/bungou-stray-dogs-5th-season-episode-2"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/130203",
+        "dub": "https://www.animegg.org/embed/130602",
+        "url": "https://www.animegg.org/bungou-stray-dogs-5th-season-episode-1"
+      }
+    ]
   }
 ]
