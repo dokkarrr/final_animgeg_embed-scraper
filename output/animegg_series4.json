@@ -126642,5 +126642,21 @@
         "url": "https://www.animegg.org/terra-formars-bugs2-2599-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4825,
+    "title": "Nyuru Nyuru!! Kakusen-kun 2nd Season",
+    "animegg_url": "https://www.animegg.org/series/nyuru-nyuru-kakusen-kun-2nd-season",
+    "mal_url": "https://myanimelist.net/anime/30144",
+    "mal_id": 30144,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/76061",
+        "dub": null,
+        "url": "https://www.animegg.org/nyuru-nyuru-kakusen-kun-2nd-season-episode-1"
+      }
+    ]
   }
 ]
