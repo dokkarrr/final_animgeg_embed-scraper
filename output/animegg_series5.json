@@ -13173,5 +13173,21 @@
         "url": "https://www.animegg.org/ring-of-gundam-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5819,
+    "title": "Koi Sento",
+    "animegg_url": "https://www.animegg.org/series/koi-sento",
+    "mal_url": "https://myanimelist.net/anime/9333",
+    "mal_id": 9333,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/20619",
+        "dub": "https://www.animegg.org/embed/20620",
+        "url": "https://www.animegg.org/koi-sento-episode-1"
+      }
+    ]
   }
 ]
