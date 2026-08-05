@@ -65699,5 +65699,21 @@
         "url": "https://www.animegg.org/jiu-tain-yuan-di-jue-episode-40"
       }
     ]
+  },
+  {
+    "serial_no": 6458,
+    "title": "Shinshaku Sanada Juuyuushi",
+    "animegg_url": "https://www.animegg.org/series/shinshaku-sanada-juuyuushi",
+    "mal_url": "https://myanimelist.net/anime/989",
+    "mal_id": 989,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/61286",
+        "dub": null,
+        "url": "https://www.animegg.org/shinshaku-sanada-juuyuushi-episode-1"
+      }
+    ]
   }
 ]
