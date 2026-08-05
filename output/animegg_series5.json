@@ -14920,5 +14920,21 @@
         "url": "https://www.animegg.org/blackfox-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5869,
+    "title": "Ijime",
+    "animegg_url": "https://www.animegg.org/series/ijime",
+    "mal_url": "https://myanimelist.net/anime/33654",
+    "mal_id": 33654,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/53951",
+        "dub": null,
+        "url": "https://www.animegg.org/ijime-episode-1"
+      }
+    ]
   }
 ]
