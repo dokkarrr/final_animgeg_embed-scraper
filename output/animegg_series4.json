@@ -115852,5 +115852,87 @@
         "url": "https://www.animegg.org/haikyuu-movie-4-concept-no-tatakai-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4673,
+    "title": "A.I.C.O.: Incarnation",
+    "animegg_url": "https://www.animegg.org/series/aico-incarnation",
+    "mal_url": "https://myanimelist.net/anime/36039",
+    "mal_id": 36039,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/90344",
+        "dub": null,
+        "url": "https://www.animegg.org/aico-incarnation-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/109289",
+        "dub": null,
+        "url": "https://www.animegg.org/aico-incarnation-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/109290",
+        "dub": null,
+        "url": "https://www.animegg.org/aico-incarnation-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/109291",
+        "dub": null,
+        "url": "https://www.animegg.org/aico-incarnation-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/109292",
+        "dub": null,
+        "url": "https://www.animegg.org/aico-incarnation-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/109293",
+        "dub": null,
+        "url": "https://www.animegg.org/aico-incarnation-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/109294",
+        "dub": null,
+        "url": "https://www.animegg.org/aico-incarnation-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/109295",
+        "dub": null,
+        "url": "https://www.animegg.org/aico-incarnation-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/109296",
+        "dub": null,
+        "url": "https://www.animegg.org/aico-incarnation-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/109288",
+        "dub": null,
+        "url": "https://www.animegg.org/aico-incarnation-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/90347",
+        "dub": null,
+        "url": "https://www.animegg.org/aico-incarnation-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/90345",
+        "dub": null,
+        "url": "https://www.animegg.org/aico-incarnation-episode-12"
+      }
+    ]
   }
 ]
