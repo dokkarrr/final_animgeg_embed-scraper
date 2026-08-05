@@ -130844,5 +130844,21 @@
         "url": "https://www.animegg.org/16bit-sensation-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4893,
+    "title": "Akikan! OVA",
+    "animegg_url": "https://www.animegg.org/series/akikan-ova",
+    "mal_url": "https://myanimelist.net/anime/6287",
+    "mal_id": 6287,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/885",
+        "dub": null,
+        "url": "https://www.animegg.org/akikan-ova-episode-1"
+      }
+    ]
   }
 ]
