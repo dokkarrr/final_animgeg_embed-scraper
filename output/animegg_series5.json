@@ -20464,5 +20464,21 @@
         "url": "https://www.animegg.org/yuru-camp-specials-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5977,
+    "title": "Sonic the Hedgehog",
+    "animegg_url": "https://www.animegg.org/series/sonic-the-hedgehog",
+    "mal_url": "https://myanimelist.net/anime/2263",
+    "mal_id": 2263,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/61889",
+        "dub": "https://www.animegg.org/embed/61890",
+        "url": "https://www.animegg.org/sonic-the-hedgehog-episode-1"
+      }
+    ]
   }
 ]
