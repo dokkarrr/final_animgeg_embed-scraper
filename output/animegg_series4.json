@@ -90426,5 +90426,87 @@
         "url": "https://www.animegg.org/opuscolors-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4273,
+    "title": "Stand My Heroes: Piece of Truth",
+    "animegg_url": "https://www.animegg.org/series/stand-my-heroes-piece-of-truth",
+    "mal_url": "https://myanimelist.net/anime/38331",
+    "mal_id": 38331,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/96636",
+        "dub": null,
+        "url": "https://www.animegg.org/stand-my-heroes-piece-of-truth-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/96724",
+        "dub": null,
+        "url": "https://www.animegg.org/stand-my-heroes-piece-of-truth-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/96788",
+        "dub": null,
+        "url": "https://www.animegg.org/stand-my-heroes-piece-of-truth-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/96856",
+        "dub": null,
+        "url": "https://www.animegg.org/stand-my-heroes-piece-of-truth-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/96915",
+        "dub": null,
+        "url": "https://www.animegg.org/stand-my-heroes-piece-of-truth-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/96977",
+        "dub": null,
+        "url": "https://www.animegg.org/stand-my-heroes-piece-of-truth-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/97042",
+        "dub": null,
+        "url": "https://www.animegg.org/stand-my-heroes-piece-of-truth-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/97107",
+        "dub": null,
+        "url": "https://www.animegg.org/stand-my-heroes-piece-of-truth-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/97177",
+        "dub": null,
+        "url": "https://www.animegg.org/stand-my-heroes-piece-of-truth-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/97241",
+        "dub": null,
+        "url": "https://www.animegg.org/stand-my-heroes-piece-of-truth-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/97313",
+        "dub": null,
+        "url": "https://www.animegg.org/stand-my-heroes-piece-of-truth-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/97370",
+        "dub": null,
+        "url": "https://www.animegg.org/stand-my-heroes-piece-of-truth-episode-12"
+      }
+    ]
   }
 ]
