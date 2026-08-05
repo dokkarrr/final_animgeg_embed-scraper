@@ -95278,5 +95278,87 @@
         "url": "https://www.animegg.org/tesla-note-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 4340,
+    "title": "Needy Girl Overdose",
+    "animegg_url": "https://www.animegg.org/series/needy-girl-overdose",
+    "mal_url": "https://myanimelist.net/anime/62913",
+    "mal_id": 62913,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/145366",
+        "dub": "https://www.animegg.org/embed/145613",
+        "url": "https://www.animegg.org/needy-girl-overdose-episode-1"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/145446",
+        "dub": "https://www.animegg.org/embed/145803",
+        "url": "https://www.animegg.org/needy-girl-overdose-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/145486",
+        "dub": "https://www.animegg.org/embed/145915",
+        "url": "https://www.animegg.org/needy-girl-overdose-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/145603",
+        "dub": "https://www.animegg.org/embed/145984",
+        "url": "https://www.animegg.org/needy-girl-overdose-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/145679",
+        "dub": "https://www.animegg.org/embed/146042",
+        "url": "https://www.animegg.org/needy-girl-overdose-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/145793",
+        "dub": null,
+        "url": "https://www.animegg.org/needy-girl-overdose-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/145916",
+        "dub": "https://www.animegg.org/embed/146171",
+        "url": "https://www.animegg.org/needy-girl-overdose-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/146254",
+        "dub": null,
+        "url": "https://www.animegg.org/needy-girl-overdose-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/needy-girl-overdose-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/146417",
+        "dub": null,
+        "url": "https://www.animegg.org/needy-girl-overdose-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/146509",
+        "dub": null,
+        "url": "https://www.animegg.org/needy-girl-overdose-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/146244",
+        "dub": "https://www.animegg.org/embed/146581",
+        "url": "https://www.animegg.org/needy-girl-overdose-episode-13"
+      }
+    ]
   }
 ]
