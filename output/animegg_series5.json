@@ -14860,5 +14860,27 @@
         "url": "https://www.animegg.org/tekken-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5866,
+    "title": "Psychic Force",
+    "animegg_url": "https://www.animegg.org/series/psychic-force",
+    "mal_url": "https://myanimelist.net/anime/1027",
+    "mal_id": 1027,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/73247",
+        "dub": null,
+        "url": "https://www.animegg.org/psychic-force-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/73248",
+        "dub": null,
+        "url": "https://www.animegg.org/psychic-force-episode-2"
+      }
+    ]
   }
 ]
