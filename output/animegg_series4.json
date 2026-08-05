@@ -87740,5 +87740,87 @@
         "url": "https://www.animegg.org/kamonohashi-ron-no-kindan-suiri-2nd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4230,
+    "title": "22/7",
+    "animegg_url": "https://www.animegg.org/series/227",
+    "mal_url": "https://myanimelist.net/anime/40148",
+    "mal_id": 40148,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 22,
+        "sub": "https://www.animegg.org/embed/98195",
+        "dub": null,
+        "url": "https://www.animegg.org/227-episode-12"
+      },
+      {
+        "ep": 22,
+        "sub": "https://www.animegg.org/embed/98133",
+        "dub": null,
+        "url": "https://www.animegg.org/227-episode-11"
+      },
+      {
+        "ep": 22,
+        "sub": "https://www.animegg.org/embed/98077",
+        "dub": null,
+        "url": "https://www.animegg.org/227-episode-10"
+      },
+      {
+        "ep": 22,
+        "sub": "https://www.animegg.org/embed/98012",
+        "dub": null,
+        "url": "https://www.animegg.org/227-episode-9"
+      },
+      {
+        "ep": 22,
+        "sub": "https://www.animegg.org/embed/97949",
+        "dub": null,
+        "url": "https://www.animegg.org/227-episode-8"
+      },
+      {
+        "ep": 22,
+        "sub": "https://www.animegg.org/embed/97891",
+        "dub": null,
+        "url": "https://www.animegg.org/227-episode-7"
+      },
+      {
+        "ep": 22,
+        "sub": "https://www.animegg.org/embed/97840",
+        "dub": null,
+        "url": "https://www.animegg.org/227-episode-6"
+      },
+      {
+        "ep": 22,
+        "sub": "https://www.animegg.org/embed/97784",
+        "dub": null,
+        "url": "https://www.animegg.org/227-episode-5"
+      },
+      {
+        "ep": 22,
+        "sub": "https://www.animegg.org/embed/97711",
+        "dub": null,
+        "url": "https://www.animegg.org/227-episode-4"
+      },
+      {
+        "ep": 22,
+        "sub": "https://www.animegg.org/embed/97644",
+        "dub": null,
+        "url": "https://www.animegg.org/227-episode-3"
+      },
+      {
+        "ep": 22,
+        "sub": "https://www.animegg.org/embed/97579",
+        "dub": null,
+        "url": "https://www.animegg.org/227-episode-2"
+      },
+      {
+        "ep": 22,
+        "sub": "https://www.animegg.org/embed/97514",
+        "dub": null,
+        "url": "https://www.animegg.org/227-episode-1"
+      }
+    ]
   }
 ]
