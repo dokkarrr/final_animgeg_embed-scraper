@@ -41891,5 +41891,21 @@
         "url": "https://www.animegg.org/xing-yuan-zhi-zhu-episode-48"
       }
     ]
+  },
+  {
+    "serial_no": 6234,
+    "title": "UFO Gakuen no Himitsu",
+    "animegg_url": "https://www.animegg.org/series/ufo-gakuen-no-himitsu",
+    "mal_url": "https://myanimelist.net/anime/30850",
+    "mal_id": 30850,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/81540",
+        "dub": null,
+        "url": "https://www.animegg.org/ufo-gakuen-no-himitsu-episode-1"
+      }
+    ]
   }
 ]
