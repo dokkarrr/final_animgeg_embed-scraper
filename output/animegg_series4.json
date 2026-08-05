@@ -111260,5 +111260,81 @@
         "url": "https://www.animegg.org/arslan-senki-tv-ova-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 4593,
+    "title": "Jiisan Baasan Wakagaeru",
+    "animegg_url": "https://www.animegg.org/series/jiisan-baasan-wakagaeru",
+    "mal_url": "https://myanimelist.net/anime/56230",
+    "mal_id": 56230,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/133563",
+        "dub": null,
+        "url": "https://www.animegg.org/jiisan-baasan-wakagaeru-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/133651",
+        "dub": null,
+        "url": "https://www.animegg.org/jiisan-baasan-wakagaeru-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/jiisan-baasan-wakagaeru-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/jiisan-baasan-wakagaeru-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/133991",
+        "dub": null,
+        "url": "https://www.animegg.org/jiisan-baasan-wakagaeru-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/134088",
+        "dub": null,
+        "url": "https://www.animegg.org/jiisan-baasan-wakagaeru-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/134257",
+        "dub": null,
+        "url": "https://www.animegg.org/jiisan-baasan-wakagaeru-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/134459",
+        "dub": null,
+        "url": "https://www.animegg.org/jiisan-baasan-wakagaeru-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/134626",
+        "dub": null,
+        "url": "https://www.animegg.org/jiisan-baasan-wakagaeru-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/134789",
+        "dub": null,
+        "url": "https://www.animegg.org/jiisan-baasan-wakagaeru-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/134954",
+        "dub": null,
+        "url": "https://www.animegg.org/jiisan-baasan-wakagaeru-episode-11"
+      }
+    ]
   }
 ]
