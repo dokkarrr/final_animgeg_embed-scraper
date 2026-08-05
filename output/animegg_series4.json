@@ -102648,5 +102648,63 @@
         "url": "https://www.animegg.org/vampire-dormitory-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4444,
+    "title": "Sumiko",
+    "animegg_url": "https://www.animegg.org/series/sumiko",
+    "mal_url": "https://myanimelist.net/anime/25101",
+    "mal_id": 25101,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/51557",
+        "dub": null,
+        "url": "https://www.animegg.org/sumiko-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/51558",
+        "dub": null,
+        "url": "https://www.animegg.org/sumiko-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/51559",
+        "dub": null,
+        "url": "https://www.animegg.org/sumiko-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/51560",
+        "dub": null,
+        "url": "https://www.animegg.org/sumiko-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/51561",
+        "dub": null,
+        "url": "https://www.animegg.org/sumiko-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/51562",
+        "dub": null,
+        "url": "https://www.animegg.org/sumiko-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/51563",
+        "dub": null,
+        "url": "https://www.animegg.org/sumiko-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/51564",
+        "dub": null,
+        "url": "https://www.animegg.org/sumiko-episode-8"
+      }
+    ]
   }
 ]
