@@ -112774,5 +112774,27 @@
         "url": "https://www.animegg.org/corpse-party-missing-footage-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4625,
+    "title": "Lupin the IIIrd: Jigen Daisuke no Bohyou",
+    "animegg_url": "https://www.animegg.org/series/lupin-the-iiird-jigen-daisuke-no-bohyou",
+    "mal_url": "https://myanimelist.net/anime/23293",
+    "mal_id": 23293,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/67455",
+        "dub": null,
+        "url": "https://www.animegg.org/lupin-the-iiird-jigen-daisuke-no-bohyou-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/67456",
+        "dub": null,
+        "url": "https://www.animegg.org/lupin-the-iiird-jigen-daisuke-no-bohyou-episode-2"
+      }
+    ]
   }
 ]
