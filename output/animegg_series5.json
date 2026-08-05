@@ -29844,5 +29844,21 @@
         "url": "https://www.animegg.org/meitantei-conan-vs-wooo-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 6114,
+    "title": "Di Gi Charat Christmas Special",
+    "animegg_url": "https://www.animegg.org/series/di-gi-charat-christmas-special",
+    "mal_url": "https://myanimelist.net/anime/1757",
+    "mal_id": 1757,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/50979",
+        "dub": null,
+        "url": "https://www.animegg.org/di-gi-charat-christmas-special-episode-1"
+      }
+    ]
   }
 ]
