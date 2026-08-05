@@ -89336,5 +89336,27 @@
         "url": "https://www.animegg.org/one-piece-film-gold-episode-0---711-ver-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4257,
+    "title": "Blood-C: The Last Dark",
+    "animegg_url": "https://www.animegg.org/series/blood-c-the-last-dark",
+    "mal_url": "https://myanimelist.net/anime/10681",
+    "mal_id": 10681,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/49068",
+        "dub": null,
+        "url": "https://www.animegg.org/blood-c-the-last-dark-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/49069",
+        "dub": null,
+        "url": "https://www.animegg.org/blood-c-the-last-dark-episode-2"
+      }
+    ]
   }
 ]
