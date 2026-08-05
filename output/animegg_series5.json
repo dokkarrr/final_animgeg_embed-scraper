@@ -53111,5 +53111,21 @@
         "url": "https://www.animegg.org/project-a-ko-2-daitokuji-zaibatsu-no-inbou-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6332,
+    "title": "Saishuu Shiken Kujira Progressive",
+    "animegg_url": "https://www.animegg.org/series/saishuu-shiken-kujira-progressive",
+    "mal_url": "https://myanimelist.net/anime/4213",
+    "mal_id": 4213,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/60502",
+        "dub": null,
+        "url": "https://www.animegg.org/saishuu-shiken-kujira-progressive-episode-1"
+      }
+    ]
   }
 ]
