@@ -107342,5 +107342,21 @@
         "url": "https://www.animegg.org/kuroshitsuji-kishuku-gakkou-hen-episode-11"
       }
     ]
+  },
+  {
+    "serial_no": 4536,
+    "title": "Kaze Tachinu",
+    "animegg_url": "https://www.animegg.org/series/kaze-tachinu",
+    "mal_url": "https://myanimelist.net/anime/16662",
+    "mal_id": 16662,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/45057",
+        "dub": "https://www.animegg.org/embed/45058",
+        "url": "https://www.animegg.org/kaze-tachinu-episode"
+      }
+    ]
   }
 ]
