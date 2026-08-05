@@ -83374,5 +83374,33 @@
         "url": "https://www.animegg.org/one-piece---the-desert-princess-and-the-pirates-adventures-in-alabasta-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4157,
+    "title": "Yuragi-sou no Yuuna-san OVA",
+    "animegg_url": "https://www.animegg.org/series/yuragi-sou-no-yuuna-san-ova",
+    "mal_url": "https://myanimelist.net/anime/36950",
+    "mal_id": 36950,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/91755",
+        "dub": null,
+        "url": "https://www.animegg.org/yuragi-sou-no-yuuna-san-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/93623",
+        "dub": null,
+        "url": "https://www.animegg.org/yuragi-sou-no-yuuna-san-ova-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/94077",
+        "dub": null,
+        "url": "https://www.animegg.org/yuragi-sou-no-yuuna-san-ova-episode-3"
+      }
+    ]
   }
 ]
