@@ -104014,5 +104014,21 @@
         "url": "https://www.animegg.org/tsurune-tsunagari-no-issha-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 4472,
+    "title": "Yu-Gi-Oh! 3D: Bonds Beyond Time",
+    "animegg_url": "https://www.animegg.org/series/yu-gi-oh-3d-bonds-beyond-time",
+    "mal_url": "https://myanimelist.net/anime/6951",
+    "mal_id": 6951,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/63011",
+        "dub": null,
+        "url": "https://www.animegg.org/yu-gi-oh-3d-bonds-beyond-time-episode-1"
+      }
+    ]
   }
 ]
