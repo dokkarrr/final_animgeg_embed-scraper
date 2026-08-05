@@ -73266,5 +73266,87 @@
         "url": "https://www.animegg.org/dragon-ball-z-movie-11-bio-broly-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4006,
+    "title": "Ex-Arm",
+    "animegg_url": "https://www.animegg.org/series/ex-arm",
+    "mal_url": "https://myanimelist.net/anime/38853",
+    "mal_id": 38853,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/100465",
+        "dub": null,
+        "url": "https://www.animegg.org/ex-arm-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/100565",
+        "dub": null,
+        "url": "https://www.animegg.org/ex-arm-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/100637",
+        "dub": null,
+        "url": "https://www.animegg.org/ex-arm-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/100711",
+        "dub": null,
+        "url": "https://www.animegg.org/ex-arm-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/100783",
+        "dub": null,
+        "url": "https://www.animegg.org/ex-arm-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/100855",
+        "dub": null,
+        "url": "https://www.animegg.org/ex-arm-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/100929",
+        "dub": null,
+        "url": "https://www.animegg.org/ex-arm-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/101006",
+        "dub": null,
+        "url": "https://www.animegg.org/ex-arm-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/101077",
+        "dub": null,
+        "url": "https://www.animegg.org/ex-arm-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/101147",
+        "dub": null,
+        "url": "https://www.animegg.org/ex-arm-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/101217",
+        "dub": null,
+        "url": "https://www.animegg.org/ex-arm-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/101285",
+        "dub": null,
+        "url": "https://www.animegg.org/ex-arm-episode-12"
+      }
+    ]
   }
 ]
