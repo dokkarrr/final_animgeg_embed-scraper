@@ -57994,5 +57994,75 @@
         "url": "https://www.animegg.org/senyoku-no-sigrdrifa-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3782,
+    "title": "Manaria Friends",
+    "animegg_url": "https://www.animegg.org/series/shingeki-no-bahamut-manaria-friends",
+    "mal_url": "https://myanimelist.net/anime/31537",
+    "mal_id": 31537,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/93973",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-bahamut-manaria-friends-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/94348",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-bahamut-manaria-friends-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/94418",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-bahamut-manaria-friends-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/94479",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-bahamut-manaria-friends-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/94544",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-bahamut-manaria-friends-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/94621",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-bahamut-manaria-friends-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/94685",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-bahamut-manaria-friends-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/94749",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-bahamut-manaria-friends-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/94811",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-bahamut-manaria-friends-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/94891",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-bahamut-manaria-friends-episode-10"
+      }
+    ]
   }
 ]
