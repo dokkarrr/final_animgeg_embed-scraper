@@ -111608,5 +111608,21 @@
         "url": "https://www.animegg.org/fatekaleid-liner-prisma-illya-2wei-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4602,
+    "title": "Guilty Crown Kiseki: Reassortment",
+    "animegg_url": "https://www.animegg.org/series/guilty-crown-kiseki-reassortment",
+    "mal_url": "https://myanimelist.net/anime/12419",
+    "mal_id": 12419,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/13702",
+        "dub": null,
+        "url": "https://www.animegg.org/guilty-crown-kiseki-reassortment-episode-1"
+      }
+    ]
   }
 ]
