@@ -10838,5 +10838,93 @@
         "url": "https://www.animegg.org/koi-to-yobu-ni-wa-kimochi-warui-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3210,
+    "title": "Sola",
+    "animegg_url": "https://www.animegg.org/series/sola",
+    "mal_url": "https://myanimelist.net/anime/1965",
+    "mal_id": 1965,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/35732",
+        "dub": null,
+        "url": "https://www.animegg.org/sola-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/35731",
+        "dub": null,
+        "url": "https://www.animegg.org/sola-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/35733",
+        "dub": null,
+        "url": "https://www.animegg.org/sola-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/35734",
+        "dub": null,
+        "url": "https://www.animegg.org/sola-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/35735",
+        "dub": null,
+        "url": "https://www.animegg.org/sola-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/35740",
+        "dub": null,
+        "url": "https://www.animegg.org/sola-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/35736",
+        "dub": null,
+        "url": "https://www.animegg.org/sola-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/35739",
+        "dub": null,
+        "url": "https://www.animegg.org/sola-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/35738",
+        "dub": null,
+        "url": "https://www.animegg.org/sola-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/35737",
+        "dub": null,
+        "url": "https://www.animegg.org/sola-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/35741",
+        "dub": null,
+        "url": "https://www.animegg.org/sola-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/35742",
+        "dub": null,
+        "url": "https://www.animegg.org/sola-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/35743",
+        "dub": null,
+        "url": "https://www.animegg.org/sola-episode-13"
+      }
+    ]
   }
 ]
