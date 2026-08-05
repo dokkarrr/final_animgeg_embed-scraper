@@ -112922,5 +112922,33 @@
         "url": "https://www.animegg.org/digimon-adventure-tri-6-bokura-no-mirai-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4629,
+    "title": "Banner of the Stars III",
+    "animegg_url": "https://www.animegg.org/series/banner-of-the-stars-iii",
+    "mal_url": "https://myanimelist.net/anime/398",
+    "mal_id": 398,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/2628",
+        "dub": null,
+        "url": "https://www.animegg.org/banner-of-the-stars-iii-episode-0"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/2627",
+        "dub": null,
+        "url": "https://www.animegg.org/banner-of-the-stars-iii-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/2626",
+        "dub": null,
+        "url": "https://www.animegg.org/banner-of-the-stars-iii-episode-2"
+      }
+    ]
   }
 ]
