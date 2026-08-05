@@ -6346,5 +6346,21 @@
         "url": "https://www.animegg.org/kaitei-shounen-marine-dub-episode-52"
       }
     ]
+  },
+  {
+    "serial_no": 5711,
+    "title": "Hana yori Dango (Movie)",
+    "animegg_url": "https://www.animegg.org/series/hana-yori-dango-movie",
+    "mal_url": "https://myanimelist.net/anime/2071",
+    "mal_id": 2071,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/47060",
+        "dub": null,
+        "url": "https://www.animegg.org/hana-yori-dango-movie-episode-1"
+      }
+    ]
   }
 ]
