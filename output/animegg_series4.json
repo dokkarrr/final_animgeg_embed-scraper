@@ -77146,5 +77146,33 @@
         "url": "https://www.animegg.org/saint-seiya-the-hades-chapter---elysion-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 4070,
+    "title": "Mahou Sensei Negima! Shiroki Tsubasa Ala Alba",
+    "animegg_url": "https://www.animegg.org/series/mahou-sensei-negima-shiroki-tsubasa-ala-alba",
+    "mal_url": "https://myanimelist.net/anime/4188",
+    "mal_id": 4188,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/56925",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-sensei-negima-shiroki-tsubasa-ala-alba-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/56926",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-sensei-negima-shiroki-tsubasa-ala-alba-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/56927",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-sensei-negima-shiroki-tsubasa-ala-alba-episode-3"
+      }
+    ]
   }
 ]
