@@ -70486,5 +70486,45 @@
         "url": "https://www.animegg.org/tsubasa-to-hotaru-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3959,
+    "title": "Kyoukai no Kanata: Idol Saiban! Mayoi Nagara mo Kimi wo Sabaku Tami",
+    "animegg_url": "https://www.animegg.org/series/kyoukai-no-kanata-idol-saiban-mayoi-nagara-mo-kimi-wo-sabaku-tami",
+    "mal_url": "https://myanimelist.net/anime/21241",
+    "mal_id": 21241,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/43897",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoukai-no-kanata-idol-saiban-mayoi-nagara-mo-kimi-wo-sabaku-tami-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/43898",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoukai-no-kanata-idol-saiban-mayoi-nagara-mo-kimi-wo-sabaku-tami-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/43899",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoukai-no-kanata-idol-saiban-mayoi-nagara-mo-kimi-wo-sabaku-tami-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/73581",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoukai-no-kanata-idol-saiban-mayoi-nagara-mo-kimi-wo-sabaku-tami-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/73580",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoukai-no-kanata-idol-saiban-mayoi-nagara-mo-kimi-wo-sabaku-tami-episode-5"
+      }
+    ]
   }
 ]
