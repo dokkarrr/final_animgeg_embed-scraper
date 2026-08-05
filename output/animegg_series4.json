@@ -47672,5 +47672,81 @@
         "url": "https://www.animegg.org/uchuu-senkan-tiramis-ii-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3645,
+    "title": "Haigakura",
+    "animegg_url": "https://www.animegg.org/series/haigakura",
+    "mal_url": "https://myanimelist.net/anime/56420",
+    "mal_id": 56420,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/137725",
+        "dub": null,
+        "url": "https://www.animegg.org/haigakura-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/137987",
+        "dub": null,
+        "url": "https://www.animegg.org/haigakura-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/138257",
+        "dub": null,
+        "url": "https://www.animegg.org/haigakura-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/138435",
+        "dub": null,
+        "url": "https://www.animegg.org/haigakura-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/138659",
+        "dub": null,
+        "url": "https://www.animegg.org/haigakura-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/138890",
+        "dub": null,
+        "url": "https://www.animegg.org/haigakura-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/139082",
+        "dub": null,
+        "url": "https://www.animegg.org/haigakura-episode-7"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/142471",
+        "dub": null,
+        "url": "https://www.animegg.org/haigakura-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/142518",
+        "dub": null,
+        "url": "https://www.animegg.org/haigakura-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/142625",
+        "dub": null,
+        "url": "https://www.animegg.org/haigakura-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/142717",
+        "dub": null,
+        "url": "https://www.animegg.org/haigakura-episode-13"
+      }
+    ]
   }
 ]
