@@ -127184,5 +127184,21 @@
         "url": "https://www.animegg.org/beelzebub-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4836,
+    "title": "Gyo",
+    "animegg_url": "https://www.animegg.org/series/gyo",
+    "mal_url": "https://myanimelist.net/anime/10417",
+    "mal_id": 10417,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/14786",
+        "dub": null,
+        "url": "https://www.animegg.org/gyo-episode-1"
+      }
+    ]
   }
 ]
