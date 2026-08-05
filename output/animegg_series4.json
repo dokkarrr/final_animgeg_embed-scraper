@@ -5362,5 +5362,93 @@
         "url": "https://www.animegg.org/maplestory-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 3143,
+    "title": "Chocolate Underground",
+    "animegg_url": "https://www.animegg.org/series/chocolate-underground",
+    "mal_url": "https://myanimelist.net/anime/3962",
+    "mal_id": 3962,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/48246",
+        "dub": null,
+        "url": "https://www.animegg.org/chocolate-underground-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/48247",
+        "dub": null,
+        "url": "https://www.animegg.org/chocolate-underground-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/48248",
+        "dub": null,
+        "url": "https://www.animegg.org/chocolate-underground-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/48249",
+        "dub": null,
+        "url": "https://www.animegg.org/chocolate-underground-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/48250",
+        "dub": null,
+        "url": "https://www.animegg.org/chocolate-underground-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/48251",
+        "dub": null,
+        "url": "https://www.animegg.org/chocolate-underground-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/48252",
+        "dub": null,
+        "url": "https://www.animegg.org/chocolate-underground-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/48253",
+        "dub": null,
+        "url": "https://www.animegg.org/chocolate-underground-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/48254",
+        "dub": null,
+        "url": "https://www.animegg.org/chocolate-underground-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/48255",
+        "dub": null,
+        "url": "https://www.animegg.org/chocolate-underground-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/48256",
+        "dub": null,
+        "url": "https://www.animegg.org/chocolate-underground-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/48257",
+        "dub": null,
+        "url": "https://www.animegg.org/chocolate-underground-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/48258",
+        "dub": null,
+        "url": "https://www.animegg.org/chocolate-underground-episode-13"
+      }
+    ]
   }
 ]
