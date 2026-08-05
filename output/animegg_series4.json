@@ -125552,5 +125552,33 @@
         "url": "https://www.animegg.org/breakers-episode-16"
       }
     ]
+  },
+  {
+    "serial_no": 4809,
+    "title": "Uma Musume: Pretty Derby - BNW no Chikai",
+    "animegg_url": "https://www.animegg.org/series/uma-musume-pretty-derby---bnw-no-chikai",
+    "mal_url": "https://myanimelist.net/anime/37916",
+    "mal_id": 37916,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/115995",
+        "dub": null,
+        "url": "https://www.animegg.org/uma-musume-pretty-derby---bnw-no-chikai-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/115994",
+        "dub": null,
+        "url": "https://www.animegg.org/uma-musume-pretty-derby---bnw-no-chikai-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/115993",
+        "dub": null,
+        "url": "https://www.animegg.org/uma-musume-pretty-derby---bnw-no-chikai-episode-3"
+      }
+    ]
   }
 ]
