@@ -9242,5 +9242,87 @@
         "url": "https://www.animegg.org/sakura-diaries-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3189,
+    "title": "Komi-san wa, Comyushou desu. 2nd Season",
+    "animegg_url": "https://www.animegg.org/series/komi-san-wa-comyushou-desu-2nd-season",
+    "mal_url": "https://myanimelist.net/anime/50631",
+    "mal_id": 50631,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/105174",
+        "dub": null,
+        "url": "https://www.animegg.org/komi-san-wa-comyushou-desu-2nd-season-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/105134",
+        "dub": null,
+        "url": "https://www.animegg.org/komi-san-wa-comyushou-desu-2nd-season-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/105062",
+        "dub": null,
+        "url": "https://www.animegg.org/komi-san-wa-comyushou-desu-2nd-season-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/104984",
+        "dub": null,
+        "url": "https://www.animegg.org/komi-san-wa-comyushou-desu-2nd-season-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/104921",
+        "dub": null,
+        "url": "https://www.animegg.org/komi-san-wa-comyushou-desu-2nd-season-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/104852",
+        "dub": null,
+        "url": "https://www.animegg.org/komi-san-wa-comyushou-desu-2nd-season-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/104696",
+        "dub": null,
+        "url": "https://www.animegg.org/komi-san-wa-comyushou-desu-2nd-season-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/104652",
+        "dub": null,
+        "url": "https://www.animegg.org/komi-san-wa-comyushou-desu-2nd-season-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/104651",
+        "dub": null,
+        "url": "https://www.animegg.org/komi-san-wa-comyushou-desu-2nd-season-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/104650",
+        "dub": null,
+        "url": "https://www.animegg.org/komi-san-wa-comyushou-desu-2nd-season-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/104431",
+        "dub": null,
+        "url": "https://www.animegg.org/komi-san-wa-comyushou-desu-2nd-season-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/104385",
+        "dub": null,
+        "url": "https://www.animegg.org/komi-san-wa-comyushou-desu-2nd-season-episode-1"
+      }
+    ]
   }
 ]
