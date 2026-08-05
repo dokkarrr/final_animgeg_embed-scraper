@@ -33018,5 +33018,33 @@
         "url": "https://www.animegg.org/high-score-girl-extra-stage-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 6147,
+    "title": "Oshiete Fairilu: Mahou no Pendulum",
+    "animegg_url": "https://www.animegg.org/series/oshiete-fairilu-mahou-no-pendulum",
+    "mal_url": "https://myanimelist.net/anime/37328",
+    "mal_id": 37328,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/91782",
+        "dub": "https://www.animegg.org/embed/91841",
+        "url": "https://www.animegg.org/oshiete-fairilu-mahou-no-pendulum-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/91967",
+        "dub": null,
+        "url": "https://www.animegg.org/oshiete-fairilu-mahou-no-pendulum-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/92028",
+        "dub": null,
+        "url": "https://www.animegg.org/oshiete-fairilu-mahou-no-pendulum-episode-3"
+      }
+    ]
   }
 ]
