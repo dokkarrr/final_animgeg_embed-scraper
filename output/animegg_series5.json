@@ -77665,5 +77665,21 @@
         "url": "https://www.animegg.org/oushitsu-kyoushi-heine-movie-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6552,
+    "title": "Kimi to, Nami ni Noretara",
+    "animegg_url": "https://www.animegg.org/series/kimi-to-nami-ni-noretara",
+    "mal_url": "https://myanimelist.net/anime/38594",
+    "mal_id": 38594,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/100401",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-to-nami-ni-noretara-episode-1"
+      }
+    ]
   }
 ]
