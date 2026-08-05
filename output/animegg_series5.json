@@ -119791,5 +119791,21 @@
         "url": "https://www.animegg.org/sabaku-no-kaizoku-captain-kuppa-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 6903,
+    "title": "Tonikaku Kawaii: SNS",
+    "animegg_url": "https://www.animegg.org/series/tonikaku-kawaii-sns",
+    "mal_url": "https://myanimelist.net/anime/44931",
+    "mal_id": 44931,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/102560",
+        "dub": null,
+        "url": "https://www.animegg.org/tonikaku-kawaii-sns-episode-1"
+      }
+    ]
   }
 ]
