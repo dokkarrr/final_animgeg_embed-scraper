@@ -72012,5 +72012,21 @@
         "url": "https://www.animegg.org/shinigami-bocchan-to-kuro-maid-2nd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3982,
+    "title": "Trinity Seven OVA",
+    "animegg_url": "https://www.animegg.org/series/trinity-seven-ova",
+    "mal_url": "https://myanimelist.net/anime/28285",
+    "mal_id": 28285,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/75822",
+        "dub": "https://www.animegg.org/embed/76040",
+        "url": "https://www.animegg.org/trinity-seven-ova-episode-1"
+      }
+    ]
   }
 ]
