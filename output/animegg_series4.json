@@ -70690,5 +70690,45 @@
         "url": "https://www.animegg.org/tono-to-issho-gantai-no-yabou-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3962,
+    "title": "Sentou Yousei Yukikaze",
+    "animegg_url": "https://www.animegg.org/series/sentou-yousei-yukikaze",
+    "mal_url": "https://myanimelist.net/anime/1080",
+    "mal_id": 1080,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/33999",
+        "dub": "https://www.animegg.org/embed/34000",
+        "url": "https://www.animegg.org/sentou-yousei-yukikaze-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/34005",
+        "dub": "https://www.animegg.org/embed/34006",
+        "url": "https://www.animegg.org/sentou-yousei-yukikaze-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/33997",
+        "dub": "https://www.animegg.org/embed/33998",
+        "url": "https://www.animegg.org/sentou-yousei-yukikaze-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/34003",
+        "dub": "https://www.animegg.org/embed/34004",
+        "url": "https://www.animegg.org/sentou-yousei-yukikaze-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/34001",
+        "dub": "https://www.animegg.org/embed/34002",
+        "url": "https://www.animegg.org/sentou-yousei-yukikaze-episode-5"
+      }
+    ]
   }
 ]
