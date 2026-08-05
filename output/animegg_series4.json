@@ -48476,5 +48476,57 @@
         "url": "https://www.animegg.org/sousou-no-frieren-no-mahou-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3654,
+    "title": "Freedom",
+    "animegg_url": "https://www.animegg.org/series/freedom",
+    "mal_url": "https://myanimelist.net/anime/1747",
+    "mal_id": 1747,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/51265",
+        "dub": null,
+        "url": "https://www.animegg.org/freedom-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/51266",
+        "dub": null,
+        "url": "https://www.animegg.org/freedom-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/51267",
+        "dub": null,
+        "url": "https://www.animegg.org/freedom-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/51268",
+        "dub": null,
+        "url": "https://www.animegg.org/freedom-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/51269",
+        "dub": null,
+        "url": "https://www.animegg.org/freedom-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/51270",
+        "dub": null,
+        "url": "https://www.animegg.org/freedom-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/51271",
+        "dub": null,
+        "url": "https://www.animegg.org/freedom-episode-7"
+      }
+    ]
   }
 ]
