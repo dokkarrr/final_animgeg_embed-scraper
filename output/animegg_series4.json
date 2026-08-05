@@ -113526,5 +113526,39 @@
         "url": "https://www.animegg.org/kore-wa-zombie-desu-ka-of-the-dead-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4642,
+    "title": "Chain Chronicle: Haecceitas no Hikari Part 3",
+    "animegg_url": "https://www.animegg.org/series/chain-chronicle-haecceitas-no-hikari-part-3",
+    "mal_url": "https://myanimelist.net/anime/33730",
+    "mal_id": 33730,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/86014",
+        "dub": null,
+        "url": "https://www.animegg.org/chain-chronicle-haecceitas-no-hikari-part-3-episode-4"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/86013",
+        "dub": null,
+        "url": "https://www.animegg.org/chain-chronicle-haecceitas-no-hikari-part-3-episode-3"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/86012",
+        "dub": null,
+        "url": "https://www.animegg.org/chain-chronicle-haecceitas-no-hikari-part-3-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/86011",
+        "dub": null,
+        "url": "https://www.animegg.org/chain-chronicle-haecceitas-no-hikari-part-3-episode-1"
+      }
+    ]
   }
 ]
