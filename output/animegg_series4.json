@@ -108424,5 +108424,51 @@
         "url": "https://www.animegg.org/ace-of-diamond-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4550,
+    "title": "Saint Beast",
+    "animegg_url": "https://www.animegg.org/series/saint-beast",
+    "mal_url": "https://myanimelist.net/anime/2153",
+    "mal_id": 2153,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/60594",
+        "dub": null,
+        "url": "https://www.animegg.org/saint-beast-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/60595",
+        "dub": null,
+        "url": "https://www.animegg.org/saint-beast-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/60596",
+        "dub": null,
+        "url": "https://www.animegg.org/saint-beast-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/60597",
+        "dub": null,
+        "url": "https://www.animegg.org/saint-beast-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/60598",
+        "dub": null,
+        "url": "https://www.animegg.org/saint-beast-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/60599",
+        "dub": null,
+        "url": "https://www.animegg.org/saint-beast-episode-6"
+      }
+    ]
   }
 ]
