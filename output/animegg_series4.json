@@ -45540,5 +45540,21 @@
         "url": "https://www.animegg.org/one-piece-episode-of-sabo---3-kyoudai-no-kizuna-kiseki-no-saikai-to-uketsugareru-ishi-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3616,
+    "title": "Plastic Nee-san",
+    "animegg_url": "https://www.animegg.org/series/plastic-nee-san",
+    "mal_url": "https://myanimelist.net/anime/10711",
+    "mal_id": 10711,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/60105",
+        "dub": null,
+        "url": "https://www.animegg.org/plastic-nee-san-episode-1"
+      }
+    ]
   }
 ]
