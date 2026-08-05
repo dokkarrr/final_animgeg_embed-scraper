@@ -23926,5 +23926,27 @@
         "url": "https://www.animegg.org/gauche-the-cellist-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6013,
+    "title": "Toaru Majutsu no Index II Specials",
+    "animegg_url": "https://www.animegg.org/series/toaru-majutsu-no-index-ii-specials",
+    "mal_url": "https://myanimelist.net/anime/4654",
+    "mal_id": 4654,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66132",
+        "dub": null,
+        "url": "https://www.animegg.org/toaru-majutsu-no-index-ii-specials-episode"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/66133",
+        "dub": null,
+        "url": "https://www.animegg.org/toaru-majutsu-no-index-ii-specials-episode-2"
+      }
+    ]
   }
 ]
