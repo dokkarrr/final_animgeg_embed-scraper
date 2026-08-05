@@ -28920,5 +28920,69 @@
         "url": "https://www.animegg.org/haguregumo-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6090,
+    "title": "Harmony of Mille-Feuille",
+    "animegg_url": "https://www.animegg.org/series/harmony-of-mille-feuille",
+    "mal_url": "https://myanimelist.net/anime/55689",
+    "mal_id": 55689,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/141802",
+        "dub": null,
+        "url": "https://www.animegg.org/harmony-of-mille-feuille-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/141945",
+        "dub": null,
+        "url": "https://www.animegg.org/harmony-of-mille-feuille-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/141994",
+        "dub": null,
+        "url": "https://www.animegg.org/harmony-of-mille-feuille-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/142158",
+        "dub": null,
+        "url": "https://www.animegg.org/harmony-of-mille-feuille-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/142314",
+        "dub": null,
+        "url": "https://www.animegg.org/harmony-of-mille-feuille-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/142364",
+        "dub": null,
+        "url": "https://www.animegg.org/harmony-of-mille-feuille-episode-6"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/142468",
+        "dub": null,
+        "url": "https://www.animegg.org/harmony-of-mille-feuille-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/142531",
+        "dub": null,
+        "url": "https://www.animegg.org/harmony-of-mille-feuille-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/142636",
+        "dub": null,
+        "url": "https://www.animegg.org/harmony-of-mille-feuille-episode-10"
+      }
+    ]
   }
 ]
