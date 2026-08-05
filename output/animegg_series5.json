@@ -35154,5 +35154,21 @@
         "url": "https://www.animegg.org/persona-5-the-animation-dark-sun-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6174,
+    "title": "Ushinawareta Mirai wo Motomete: Ushinawareta Natsuyasumi wo Motomete",
+    "animegg_url": "https://www.animegg.org/series/ushinawareta-mirai-wo-motomete-ushinawareta-natsuyasumi-wo-motomete",
+    "mal_url": "https://myanimelist.net/anime/31521",
+    "mal_id": 31521,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/80212",
+        "dub": null,
+        "url": "https://www.animegg.org/ushinawareta-mirai-wo-motomete-ushinawareta-natsuyasumi-wo-motomete-episode-1"
+      }
+    ]
   }
 ]
