@@ -92747,5 +92747,33 @@
         "url": "https://www.animegg.org/become-the-castellan-in-another-world-episode-44"
       }
     ]
+  },
+  {
+    "serial_no": 6687,
+    "title": "Mahoutsukai no Yome: Nishi no Shounen to Seiran no Kishi",
+    "animegg_url": "https://www.animegg.org/series/mahoutsukai-no-yome-nishi-no-shounen-to-seiran-no-kishi",
+    "mal_url": "https://myanimelist.net/anime/48438",
+    "mal_id": 48438,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/102914",
+        "dub": null,
+        "url": "https://www.animegg.org/mahoutsukai-no-yome-nishi-no-shounen-to-seiran-no-kishi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/104482",
+        "dub": null,
+        "url": "https://www.animegg.org/mahoutsukai-no-yome-nishi-no-shounen-to-seiran-no-kishi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/106623",
+        "dub": null,
+        "url": "https://www.animegg.org/mahoutsukai-no-yome-nishi-no-shounen-to-seiran-no-kishi-episode-3"
+      }
+    ]
   }
 ]
