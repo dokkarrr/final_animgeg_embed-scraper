@@ -4112,5 +4112,51 @@
         "url": "https://www.animegg.org/galactic-gale-baxingar-episode-16"
       }
     ]
+  },
+  {
+    "serial_no": 3126,
+    "title": "Amazing Nurse Nanako: The Lost Spiral (OVA)",
+    "animegg_url": "https://www.animegg.org/series/amazing-nurse-nanako-the-lost-spiral-ova",
+    "mal_url": "https://myanimelist.net/anime/816",
+    "mal_id": 816,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/1084",
+        "dub": "https://www.animegg.org/embed/1085",
+        "url": "https://www.animegg.org/amazing-nurse-nanako-the-lost-spiral-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/1078",
+        "dub": "https://www.animegg.org/embed/1079",
+        "url": "https://www.animegg.org/amazing-nurse-nanako-the-lost-spiral-ova-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/1076",
+        "dub": "https://www.animegg.org/embed/1077",
+        "url": "https://www.animegg.org/amazing-nurse-nanako-the-lost-spiral-ova-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/1082",
+        "dub": "https://www.animegg.org/embed/1083",
+        "url": "https://www.animegg.org/amazing-nurse-nanako-the-lost-spiral-ova-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/1080",
+        "dub": "https://www.animegg.org/embed/1081",
+        "url": "https://www.animegg.org/amazing-nurse-nanako-the-lost-spiral-ova-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/1086",
+        "dub": "https://www.animegg.org/embed/1087",
+        "url": "https://www.animegg.org/amazing-nurse-nanako-the-lost-spiral-ova-episode-6"
+      }
+    ]
   }
 ]
