@@ -86804,5 +86804,21 @@
         "url": "https://www.animegg.org/godzilla-sp-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 4215,
+    "title": "Nukitashi the Animation",
+    "animegg_url": "https://www.animegg.org/series/nukitashi-the-animation",
+    "mal_url": "https://myanimelist.net/anime/57969",
+    "mal_id": 57969,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/141803",
+        "dub": null,
+        "url": "https://www.animegg.org/nukitashi-the-animation-episode-1"
+      }
+    ]
   }
 ]
