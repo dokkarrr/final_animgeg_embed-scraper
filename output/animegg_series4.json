@@ -110886,5 +110886,21 @@
         "url": "https://www.animegg.org/betrothed-to-my-sister-s-ex-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4585,
+    "title": "Hiyokoi",
+    "animegg_url": "https://www.animegg.org/series/hiyokoi",
+    "mal_url": "https://myanimelist.net/anime/8768",
+    "mal_id": 8768,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/16672",
+        "dub": null,
+        "url": "https://www.animegg.org/hiyokoi-episode-1"
+      }
+    ]
   }
 ]
