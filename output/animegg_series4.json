@@ -131298,5 +131298,27 @@
         "url": "https://www.animegg.org/ghost-in-the-shell-20-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4903,
+    "title": "Bakuon!! OVA",
+    "animegg_url": "https://www.animegg.org/series/bakuon-ova",
+    "mal_url": "https://myanimelist.net/anime/31883",
+    "mal_id": 31883,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/82520",
+        "dub": null,
+        "url": "https://www.animegg.org/bakuon-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/86818",
+        "dub": null,
+        "url": "https://www.animegg.org/bakuon-ova-episode-2"
+      }
+    ]
   }
 ]
