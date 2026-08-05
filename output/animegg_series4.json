@@ -26130,5 +26130,39 @@
         "url": "https://www.animegg.org/igpx-immortal-grand-prix-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3376,
+    "title": "Prince of Tennis: Another Story II - Ano Toki no Bokura (OVA)",
+    "animegg_url": "https://www.animegg.org/series/prince-of-tennis-another-story-ii---ano-toki-no-bokura-ova",
+    "mal_url": "https://myanimelist.net/anime/22",
+    "mal_id": 22,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/30806",
+        "dub": null,
+        "url": "https://www.animegg.org/prince-of-tennis-another-story-ii---ano-toki-no-bokura-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/30807",
+        "dub": null,
+        "url": "https://www.animegg.org/prince-of-tennis-another-story-ii---ano-toki-no-bokura-ova-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/30805",
+        "dub": null,
+        "url": "https://www.animegg.org/prince-of-tennis-another-story-ii---ano-toki-no-bokura-ova-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/30808",
+        "dub": null,
+        "url": "https://www.animegg.org/prince-of-tennis-another-story-ii---ano-toki-no-bokura-ova-episode-4"
+      }
+    ]
   }
 ]
