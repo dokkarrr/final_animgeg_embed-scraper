@@ -23286,5 +23286,21 @@
         "url": "https://www.animegg.org/7-seeds-2nd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6003,
+    "title": "Genshiken Nidaime Specials",
+    "animegg_url": "https://www.animegg.org/series/genshiken-nidaime-specials",
+    "mal_url": "https://myanimelist.net/anime/19889",
+    "mal_id": 19889,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/52187",
+        "dub": null,
+        "url": "https://www.animegg.org/genshiken-nidaime-specials-episode-1"
+      }
+    ]
   }
 ]
