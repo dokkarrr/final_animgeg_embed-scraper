@@ -48314,5 +48314,39 @@
         "url": "https://www.animegg.org/fairy-gone-2nd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3651,
+    "title": "Prince of Tennis: Another Story - Messages From Past and Future (OVA)",
+    "animegg_url": "https://www.animegg.org/series/prince-of-tennis-another-story---messages-from-past-and-future-ova",
+    "mal_url": "https://myanimelist.net/anime/6999",
+    "mal_id": 6999,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/30812",
+        "dub": null,
+        "url": "https://www.animegg.org/prince-of-tennis-another-story---messages-from-past-and-future-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/30810",
+        "dub": null,
+        "url": "https://www.animegg.org/prince-of-tennis-another-story---messages-from-past-and-future-ova-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/30811",
+        "dub": null,
+        "url": "https://www.animegg.org/prince-of-tennis-another-story---messages-from-past-and-future-ova-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/30809",
+        "dub": null,
+        "url": "https://www.animegg.org/prince-of-tennis-another-story---messages-from-past-and-future-ova-episode-4"
+      }
+    ]
   }
 ]
