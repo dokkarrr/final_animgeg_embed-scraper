@@ -13709,5 +13709,27 @@
         "url": "https://www.animegg.org/monkey-punch-no-sekai-alice-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5836,
+    "title": "Recorder to Randoseru (OVA)",
+    "animegg_url": "https://www.animegg.org/series/recorder-to-randoseru-ova",
+    "mal_url": "https://myanimelist.net/anime/11491",
+    "mal_id": 11491,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/31712",
+        "dub": null,
+        "url": "https://www.animegg.org/recorder-to-randoseru-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/31711",
+        "dub": null,
+        "url": "https://www.animegg.org/recorder-to-randoseru-ova-episode-2"
+      }
+    ]
   }
 ]
