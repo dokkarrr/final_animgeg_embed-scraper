@@ -23150,5 +23150,21 @@
         "url": "https://www.animegg.org/eden-of-the-east-compilation-air-communication-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5999,
+    "title": "Kaiketsu Zorori Da-Da-Da-Daibouken!",
+    "animegg_url": "https://www.animegg.org/series/kaiketsu-zorori-da-da-da-daibouken",
+    "mal_url": "https://myanimelist.net/anime/15067",
+    "mal_id": 15067,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/54950",
+        "dub": null,
+        "url": "https://www.animegg.org/kaiketsu-zorori-da-da-da-daibouken-episode-1"
+      }
+    ]
   }
 ]
