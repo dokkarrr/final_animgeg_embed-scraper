@@ -108280,5 +108280,51 @@
         "url": "https://www.animegg.org/one-piece-episode-of-chopper-plus---bloom-in-the-winter-miracle-sakura-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4547,
+    "title": "Rinne no Lagrange Specials",
+    "animegg_url": "https://www.animegg.org/series/rinne-no-lagrange-specials",
+    "mal_url": "https://myanimelist.net/anime/14583",
+    "mal_id": 14583,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/31889",
+        "dub": null,
+        "url": "https://www.animegg.org/rinne-no-lagrange-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/31888",
+        "dub": null,
+        "url": "https://www.animegg.org/rinne-no-lagrange-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/31886",
+        "dub": null,
+        "url": "https://www.animegg.org/rinne-no-lagrange-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/31885",
+        "dub": null,
+        "url": "https://www.animegg.org/rinne-no-lagrange-specials-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/31887",
+        "dub": null,
+        "url": "https://www.animegg.org/rinne-no-lagrange-specials-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/31890",
+        "dub": null,
+        "url": "https://www.animegg.org/rinne-no-lagrange-specials-episode-6"
+      }
+    ]
   }
 ]
