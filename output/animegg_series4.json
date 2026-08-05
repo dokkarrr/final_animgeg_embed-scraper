@@ -30236,5 +30236,93 @@
         "url": "https://www.animegg.org/nakanohito-genome-jikkyouchuu-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3429,
+    "title": "Misaki Chronicles",
+    "animegg_url": "https://www.animegg.org/series/misaki-chronicles",
+    "mal_url": "https://myanimelist.net/anime/2363",
+    "mal_id": 2363,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/72175",
+        "dub": null,
+        "url": "https://www.animegg.org/misaki-chronicles-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/72173",
+        "dub": null,
+        "url": "https://www.animegg.org/misaki-chronicles-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/72171",
+        "dub": null,
+        "url": "https://www.animegg.org/misaki-chronicles-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/72170",
+        "dub": null,
+        "url": "https://www.animegg.org/misaki-chronicles-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/72169",
+        "dub": null,
+        "url": "https://www.animegg.org/misaki-chronicles-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/72168",
+        "dub": null,
+        "url": "https://www.animegg.org/misaki-chronicles-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/72167",
+        "dub": null,
+        "url": "https://www.animegg.org/misaki-chronicles-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/72166",
+        "dub": null,
+        "url": "https://www.animegg.org/misaki-chronicles-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/72165",
+        "dub": "https://www.animegg.org/embed/92531",
+        "url": "https://www.animegg.org/misaki-chronicles-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/72164",
+        "dub": null,
+        "url": "https://www.animegg.org/misaki-chronicles-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/72163",
+        "dub": null,
+        "url": "https://www.animegg.org/misaki-chronicles-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/72162",
+        "dub": null,
+        "url": "https://www.animegg.org/misaki-chronicles-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/72161",
+        "dub": null,
+        "url": "https://www.animegg.org/misaki-chronicles-episode-13"
+      }
+    ]
   }
 ]
