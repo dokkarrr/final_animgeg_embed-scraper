@@ -103862,5 +103862,69 @@
         "url": "https://www.animegg.org/blue-archive-the-animation-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4470,
+    "title": "Kamonohashi Ron no Kindan Suiri",
+    "animegg_url": "https://www.animegg.org/series/kamonohashi-ron-no-kindan-suiri",
+    "mal_url": "https://myanimelist.net/anime/53879",
+    "mal_id": 53879,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/131566",
+        "dub": null,
+        "url": "https://www.animegg.org/kamonohashi-ron-no-kindan-suiri-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/131694",
+        "dub": null,
+        "url": "https://www.animegg.org/kamonohashi-ron-no-kindan-suiri-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/131808",
+        "dub": null,
+        "url": "https://www.animegg.org/kamonohashi-ron-no-kindan-suiri-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kamonohashi-ron-no-kindan-suiri-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/132024",
+        "dub": null,
+        "url": "https://www.animegg.org/kamonohashi-ron-no-kindan-suiri-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/132115",
+        "dub": null,
+        "url": "https://www.animegg.org/kamonohashi-ron-no-kindan-suiri-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/132205",
+        "dub": null,
+        "url": "https://www.animegg.org/kamonohashi-ron-no-kindan-suiri-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/132313",
+        "dub": null,
+        "url": "https://www.animegg.org/kamonohashi-ron-no-kindan-suiri-episode-8"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/132559",
+        "dub": null,
+        "url": "https://www.animegg.org/kamonohashi-ron-no-kindan-suiri-episode-13"
+      }
+    ]
   }
 ]
