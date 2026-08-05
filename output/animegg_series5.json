@@ -67369,5 +67369,21 @@
         "url": "https://www.animegg.org/shin-koihime-musou-live-revolution-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6475,
+    "title": "The Diary of Anne Frank",
+    "animegg_url": "https://www.animegg.org/series/the-diary-of-anne-frank",
+    "mal_url": "https://myanimelist.net/anime/3829",
+    "mal_id": 3829,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/63257",
+        "dub": null,
+        "url": "https://www.animegg.org/the-diary-of-anne-frank-episode-1"
+      }
+    ]
   }
 ]
