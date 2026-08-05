@@ -38382,5 +38382,27 @@
         "url": "https://www.animegg.org/pugyuru-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3523,
+    "title": "Honey x Honey Drops",
+    "animegg_url": "https://www.animegg.org/series/honey-x-honey-drops",
+    "mal_url": "https://myanimelist.net/anime/1838",
+    "mal_id": 1838,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/16737",
+        "dub": null,
+        "url": "https://www.animegg.org/honey-x-honey-drops-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/16736",
+        "dub": null,
+        "url": "https://www.animegg.org/honey-x-honey-drops-episode-2"
+      }
+    ]
   }
 ]
