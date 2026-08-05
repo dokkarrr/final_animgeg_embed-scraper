@@ -78142,5 +78142,63 @@
         "url": "https://www.animegg.org/housekishou-richard-shi-no-nazo-kantei-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4088,
+    "title": "Kobato. Special: Hajimete no Kobato.",
+    "animegg_url": "https://www.animegg.org/series/kobato-specials-hajimete-no-kobato",
+    "mal_url": "https://myanimelist.net/anime/34403",
+    "mal_id": 34403,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/20604",
+        "dub": null,
+        "url": "https://www.animegg.org/kobato-specials-hajimete-no-kobato-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/20606",
+        "dub": null,
+        "url": "https://www.animegg.org/kobato-specials-hajimete-no-kobato-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/20603",
+        "dub": null,
+        "url": "https://www.animegg.org/kobato-specials-hajimete-no-kobato-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/20605",
+        "dub": null,
+        "url": "https://www.animegg.org/kobato-specials-hajimete-no-kobato-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/20607",
+        "dub": null,
+        "url": "https://www.animegg.org/kobato-specials-hajimete-no-kobato-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/20609",
+        "dub": null,
+        "url": "https://www.animegg.org/kobato-specials-hajimete-no-kobato-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/20610",
+        "dub": null,
+        "url": "https://www.animegg.org/kobato-specials-hajimete-no-kobato-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/20608",
+        "dub": null,
+        "url": "https://www.animegg.org/kobato-specials-hajimete-no-kobato-episode-8"
+      }
+    ]
   }
 ]
