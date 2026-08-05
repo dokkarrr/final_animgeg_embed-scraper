@@ -79868,5 +79868,21 @@
         "url": "https://www.animegg.org/hibike-euphonium-kakedasu-monaka-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4119,
+    "title": "Astarotte no Omocha! EX (OVA)",
+    "animegg_url": "https://www.animegg.org/series/astarotte-no-omocha-ex-ova",
+    "mal_url": "https://myanimelist.net/anime/9736",
+    "mal_id": 9736,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/1920",
+        "dub": null,
+        "url": "https://www.animegg.org/astarotte-no-omocha-ex-ova-episode-1"
+      }
+    ]
   }
 ]
