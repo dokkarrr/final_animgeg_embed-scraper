@@ -74124,5 +74124,87 @@
         "url": "https://www.animegg.org/kuroko-no-basket-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4021,
+    "title": "My Home Hero",
+    "animegg_url": "https://www.animegg.org/series/my-home-hero",
+    "mal_url": "https://myanimelist.net/anime/52092",
+    "mal_id": 52092,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/107636",
+        "dub": "https://www.animegg.org/embed/121682",
+        "url": "https://www.animegg.org/my-home-hero-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/107685",
+        "dub": "https://www.animegg.org/embed/121681",
+        "url": "https://www.animegg.org/my-home-hero-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/107749",
+        "dub": "https://www.animegg.org/embed/121680",
+        "url": "https://www.animegg.org/my-home-hero-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/108020",
+        "dub": null,
+        "url": "https://www.animegg.org/my-home-hero-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/108021",
+        "dub": "https://www.animegg.org/embed/121679",
+        "url": "https://www.animegg.org/my-home-hero-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/108022",
+        "dub": "https://www.animegg.org/embed/121678",
+        "url": "https://www.animegg.org/my-home-hero-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/108023",
+        "dub": "https://www.animegg.org/embed/121676",
+        "url": "https://www.animegg.org/my-home-hero-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/108253",
+        "dub": "https://www.animegg.org/embed/121677",
+        "url": "https://www.animegg.org/my-home-hero-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/108680",
+        "dub": "https://www.animegg.org/embed/129786",
+        "url": "https://www.animegg.org/my-home-hero-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/108837",
+        "dub": null,
+        "url": "https://www.animegg.org/my-home-hero-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/129871",
+        "dub": null,
+        "url": "https://www.animegg.org/my-home-hero-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/129870",
+        "dub": null,
+        "url": "https://www.animegg.org/my-home-hero-episode-12"
+      }
+    ]
   }
 ]
