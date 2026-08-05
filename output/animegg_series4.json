@@ -121340,5 +121340,27 @@
         "url": "https://www.animegg.org/saiyuki-gaiden-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 4749,
+    "title": "A Channel: +Smile",
+    "animegg_url": "https://www.animegg.org/series/a-channel-smile",
+    "mal_url": "https://myanimelist.net/anime/11339",
+    "mal_id": 11339,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/270",
+        "dub": null,
+        "url": "https://www.animegg.org/a-channel-smile-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/269",
+        "dub": null,
+        "url": "https://www.animegg.org/a-channel-smile-episode-2"
+      }
+    ]
   }
 ]
