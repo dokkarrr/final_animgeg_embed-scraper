@@ -86188,5 +86188,21 @@
         "url": "https://www.animegg.org/spy-kyoushitsu-2nd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4202,
+    "title": "Berserk: Ougon Jidaihen II",
+    "animegg_url": "https://www.animegg.org/series/berserk-ougon-jidaihen-ii",
+    "mal_url": "https://myanimelist.net/anime/10218",
+    "mal_id": 10218,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/48589",
+        "dub": null,
+        "url": "https://www.animegg.org/berserk-ougon-jidaihen-ii-episode-1"
+      }
+    ]
   }
 ]
