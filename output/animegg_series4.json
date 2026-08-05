@@ -3068,5 +3068,21 @@
         "url": "https://www.animegg.org/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3111,
+    "title": "Prison School OVA",
+    "animegg_url": "https://www.animegg.org/series/prison-school-ova",
+    "mal_url": "https://myanimelist.net/anime/32485",
+    "mal_id": 32485,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/81421",
+        "dub": "https://www.animegg.org/embed/81452",
+        "url": "https://www.animegg.org/prison-school-ova-episode-1"
+      }
+    ]
   }
 ]
