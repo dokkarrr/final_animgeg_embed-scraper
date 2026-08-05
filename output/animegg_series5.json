@@ -119845,5 +119845,21 @@
         "url": "https://www.animegg.org/yamato-yo-towa-ni-rebel-3199-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6906,
+    "title": "Poputepipikku Special",
+    "animegg_url": "https://www.animegg.org/series/poputepipikku-special",
+    "mal_url": "https://myanimelist.net/anime/37842",
+    "mal_id": 37842,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/94992",
+        "dub": null,
+        "url": "https://www.animegg.org/poputepipikku-special-episode-1"
+      }
+    ]
   }
 ]
