@@ -15796,5 +15796,27 @@
         "url": "https://www.animegg.org/minami-ke-omatase-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5884,
+    "title": "Grisaia: Phantom Trigger The Animation",
+    "animegg_url": "https://www.animegg.org/series/grisaia-phantom-trigger-the-animation",
+    "mal_url": "https://myanimelist.net/anime/35868",
+    "mal_id": 35868,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/95377",
+        "dub": null,
+        "url": "https://www.animegg.org/grisaia-phantom-trigger-the-animation-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/95378",
+        "dub": null,
+        "url": "https://www.animegg.org/grisaia-phantom-trigger-the-animation-episode-2"
+      }
+    ]
   }
 ]
