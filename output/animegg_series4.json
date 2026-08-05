@@ -76608,5 +76608,21 @@
         "url": "https://www.animegg.org/try-knights-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4060,
+    "title": "Kamisama Hajimemashita OVA",
+    "animegg_url": "https://www.animegg.org/series/kamisama-hajimemashita-ova",
+    "mal_url": "https://myanimelist.net/anime/18661",
+    "mal_id": 18661,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/19406",
+        "dub": null,
+        "url": "https://www.animegg.org/kamisama-hajimemashita-ova-episode-1"
+      }
+    ]
   }
 ]
