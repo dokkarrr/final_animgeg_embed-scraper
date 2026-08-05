@@ -48528,5 +48528,39 @@
         "url": "https://www.animegg.org/freedom-episode-7"
       }
     ]
+  },
+  {
+    "serial_no": 3655,
+    "title": "Mahouka Koukou no Rettousei: Yoku Wakaru Mahouka",
+    "animegg_url": "https://www.animegg.org/series/mahouka-koukou-no-rettousei-yoku-wakaru-mahouka",
+    "mal_url": "https://myanimelist.net/anime/31448",
+    "mal_id": 31448,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/22784",
+        "dub": null,
+        "url": "https://www.animegg.org/mahouka-koukou-no-rettousei-yoku-wakaru-mahouka-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/22782",
+        "dub": null,
+        "url": "https://www.animegg.org/mahouka-koukou-no-rettousei-yoku-wakaru-mahouka-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/22783",
+        "dub": null,
+        "url": "https://www.animegg.org/mahouka-koukou-no-rettousei-yoku-wakaru-mahouka-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/22785",
+        "dub": null,
+        "url": "https://www.animegg.org/mahouka-koukou-no-rettousei-yoku-wakaru-mahouka-episode-4"
+      }
+    ]
   }
 ]
