@@ -29546,5 +29546,69 @@
         "url": "https://www.animegg.org/kaizoku-oujo-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3420,
+    "title": "Flying Witch Petit",
+    "animegg_url": "https://www.animegg.org/series/flying-witch-petit",
+    "mal_url": "https://myanimelist.net/anime/32954",
+    "mal_id": 32954,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/81873",
+        "dub": null,
+        "url": "https://www.animegg.org/flying-witch-petit-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/81874",
+        "dub": null,
+        "url": "https://www.animegg.org/flying-witch-petit-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/81972",
+        "dub": null,
+        "url": "https://www.animegg.org/flying-witch-petit-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/82183",
+        "dub": null,
+        "url": "https://www.animegg.org/flying-witch-petit-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/82337",
+        "dub": null,
+        "url": "https://www.animegg.org/flying-witch-petit-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/82664",
+        "dub": null,
+        "url": "https://www.animegg.org/flying-witch-petit-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/83215",
+        "dub": null,
+        "url": "https://www.animegg.org/flying-witch-petit-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/83216",
+        "dub": null,
+        "url": "https://www.animegg.org/flying-witch-petit-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/flying-witch-petit-episode-9"
+      }
+    ]
   }
 ]
