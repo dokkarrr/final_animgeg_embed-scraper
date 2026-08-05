@@ -42319,5 +42319,21 @@
         "url": "https://www.animegg.org/first-class-taker-episode-118"
       }
     ]
+  },
+  {
+    "serial_no": 6236,
+    "title": "King of Prism by Pretty Rhythm - MOVIE",
+    "animegg_url": "https://www.animegg.org/series/king-of-prism-by-pretty-rhythm---movie",
+    "mal_url": "https://myanimelist.net/anime/31762",
+    "mal_id": 31762,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/82872",
+        "dub": null,
+        "url": "https://www.animegg.org/king-of-prism-by-pretty-rhythm---movie-episode-1"
+      }
+    ]
   }
 ]
