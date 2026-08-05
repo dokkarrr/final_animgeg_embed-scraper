@@ -69802,5 +69802,21 @@
         "url": "https://www.animegg.org/santa-company-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6497,
+    "title": "Yoake Tsugeru Lu no Uta",
+    "animegg_url": "https://www.animegg.org/series/yoake-tsugeru-lu-no-uta",
+    "mal_url": "https://myanimelist.net/anime/34792",
+    "mal_id": 34792,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/93622",
+        "dub": null,
+        "url": "https://www.animegg.org/yoake-tsugeru-lu-no-uta-episode-1"
+      }
+    ]
   }
 ]
