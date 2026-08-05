@@ -91160,5 +91160,21 @@
         "url": "https://www.animegg.org/ore-dake-level-up-na-ken-korean-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4284,
+    "title": "Toradora!: Bentou no Gokui",
+    "animegg_url": "https://www.animegg.org/series/toradora-bentou-no-gokui",
+    "mal_url": "https://myanimelist.net/anime/11553",
+    "mal_id": 11553,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/38644",
+        "dub": "https://www.animegg.org/embed/74083",
+        "url": "https://www.animegg.org/toradora-bentou-no-gokui-episode-1"
+      }
+    ]
   }
 ]
