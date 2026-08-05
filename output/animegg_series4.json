@@ -15564,5 +15564,87 @@
         "url": "https://www.animegg.org/dekisokonai-to-yobareta-motoeiyuu-wa-jikka-kara-tsuihou-sareta-node-sukikatte-ni-ikiru-koto-ni-shita-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3253,
+    "title": "DD Hokuto no Ken",
+    "animegg_url": "https://www.animegg.org/series/dd-hokuto-no-ken",
+    "mal_url": "https://myanimelist.net/anime/10177",
+    "mal_id": 10177,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/49531",
+        "dub": null,
+        "url": "https://www.animegg.org/dd-hokuto-no-ken-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/49532",
+        "dub": null,
+        "url": "https://www.animegg.org/dd-hokuto-no-ken-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/49533",
+        "dub": null,
+        "url": "https://www.animegg.org/dd-hokuto-no-ken-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/49534",
+        "dub": null,
+        "url": "https://www.animegg.org/dd-hokuto-no-ken-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/49535",
+        "dub": null,
+        "url": "https://www.animegg.org/dd-hokuto-no-ken-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/49536",
+        "dub": null,
+        "url": "https://www.animegg.org/dd-hokuto-no-ken-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/49537",
+        "dub": null,
+        "url": "https://www.animegg.org/dd-hokuto-no-ken-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/49538",
+        "dub": null,
+        "url": "https://www.animegg.org/dd-hokuto-no-ken-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/49539",
+        "dub": null,
+        "url": "https://www.animegg.org/dd-hokuto-no-ken-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/49540",
+        "dub": null,
+        "url": "https://www.animegg.org/dd-hokuto-no-ken-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/49541",
+        "dub": null,
+        "url": "https://www.animegg.org/dd-hokuto-no-ken-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/49542",
+        "dub": null,
+        "url": "https://www.animegg.org/dd-hokuto-no-ken-episode-12"
+      }
+    ]
   }
 ]
