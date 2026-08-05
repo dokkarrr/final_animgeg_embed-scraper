@@ -64999,5 +64999,87 @@
         "url": "https://www.animegg.org/tantei-opera-milky-holmes-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6448,
+    "title": "Isekai Yakkyoku",
+    "animegg_url": "https://www.animegg.org/series/isekai-yakkyoku-dub",
+    "mal_url": "https://myanimelist.net/anime/49438",
+    "mal_id": 49438,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/124864",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-yakkyoku-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/124862",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-yakkyoku-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-yakkyoku-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-yakkyoku-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-yakkyoku-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-yakkyoku-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/124861",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-yakkyoku-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/124860",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-yakkyoku-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/124859",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-yakkyoku-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/124863",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-yakkyoku-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-yakkyoku-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-yakkyoku-dub-episode-12"
+      }
+    ]
   }
 ]
