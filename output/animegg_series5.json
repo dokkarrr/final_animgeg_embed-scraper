@@ -2254,5 +2254,21 @@
         "url": "https://www.animegg.org/seiken-densetsu-legend-of-mana---the-teardrop-crystal-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 5642,
+    "title": "Otome Nadeshiko Koi Techou",
+    "animegg_url": "https://www.animegg.org/series/otome-nadeshiko-koi-techou",
+    "mal_url": "https://myanimelist.net/anime/13673",
+    "mal_id": 13673,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/28844",
+        "dub": null,
+        "url": "https://www.animegg.org/otome-nadeshiko-koi-techou-episode-1"
+      }
+    ]
   }
 ]
