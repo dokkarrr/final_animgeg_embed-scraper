@@ -67128,5 +67128,21 @@
         "url": "https://www.animegg.org/youkai-gakkou-no-sensei-hajimemashita-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 3910,
+    "title": "Dragon Ball Z Movie 05: Cooler's Revenge",
+    "animegg_url": "https://www.animegg.org/series/dragon-ball-z-movie-05-coolers-revenge",
+    "mal_url": "https://myanimelist.net/anime/898",
+    "mal_id": 898,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/49766",
+        "dub": null,
+        "url": "https://www.animegg.org/dragon-ball-z-movie-05-coolers-revenge-episode-1"
+      }
+    ]
   }
 ]
