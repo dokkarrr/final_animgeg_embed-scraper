@@ -7302,5 +7302,87 @@
         "url": "https://www.animegg.org/ken-en-ken-aoki-kagayaki-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3166,
+    "title": "Phantom in the Twilight",
+    "animegg_url": "https://www.animegg.org/series/phantom-in-the-twilight",
+    "mal_url": "https://myanimelist.net/anime/37598",
+    "mal_id": 37598,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/91810",
+        "dub": null,
+        "url": "https://www.animegg.org/phantom-in-the-twilight-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/91960",
+        "dub": null,
+        "url": "https://www.animegg.org/phantom-in-the-twilight-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/92004",
+        "dub": null,
+        "url": "https://www.animegg.org/phantom-in-the-twilight-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/92102",
+        "dub": null,
+        "url": "https://www.animegg.org/phantom-in-the-twilight-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/92199",
+        "dub": null,
+        "url": "https://www.animegg.org/phantom-in-the-twilight-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/92274",
+        "dub": null,
+        "url": "https://www.animegg.org/phantom-in-the-twilight-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/92433",
+        "dub": null,
+        "url": "https://www.animegg.org/phantom-in-the-twilight-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/92619",
+        "dub": null,
+        "url": "https://www.animegg.org/phantom-in-the-twilight-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/92745",
+        "dub": null,
+        "url": "https://www.animegg.org/phantom-in-the-twilight-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/92815",
+        "dub": null,
+        "url": "https://www.animegg.org/phantom-in-the-twilight-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/92895",
+        "dub": null,
+        "url": "https://www.animegg.org/phantom-in-the-twilight-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/92996",
+        "dub": null,
+        "url": "https://www.animegg.org/phantom-in-the-twilight-episode-12"
+      }
+    ]
   }
 ]
