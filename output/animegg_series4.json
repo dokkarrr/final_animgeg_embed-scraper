@@ -56184,5 +56184,57 @@
         "url": "https://www.animegg.org/clione-no-akari-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3757,
+    "title": "Ayu Mayu Gekijou",
+    "animegg_url": "https://www.animegg.org/series/ayu-mayu-gekijou",
+    "mal_url": "https://myanimelist.net/anime/1856",
+    "mal_id": 1856,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/2110",
+        "dub": null,
+        "url": "https://www.animegg.org/ayu-mayu-gekijou-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/2111",
+        "dub": null,
+        "url": "https://www.animegg.org/ayu-mayu-gekijou-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/2109",
+        "dub": null,
+        "url": "https://www.animegg.org/ayu-mayu-gekijou-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/2112",
+        "dub": null,
+        "url": "https://www.animegg.org/ayu-mayu-gekijou-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/2108",
+        "dub": null,
+        "url": "https://www.animegg.org/ayu-mayu-gekijou-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/2113",
+        "dub": null,
+        "url": "https://www.animegg.org/ayu-mayu-gekijou-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ayu-mayu-gekijou-episode-7"
+      }
+    ]
   }
 ]
