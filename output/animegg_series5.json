@@ -91021,5 +91021,21 @@
         "url": "https://www.animegg.org/yamato-takeru-episode-37"
       }
     ]
+  },
+  {
+    "serial_no": 6674,
+    "title": "Umi ni Ochita Tsuki no Hanashi",
+    "animegg_url": "https://www.animegg.org/series/umi-ni-ochita-tsuki-no-hanashi",
+    "mal_url": "https://myanimelist.net/anime/30865",
+    "mal_id": 30865,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/77033",
+        "dub": null,
+        "url": "https://www.animegg.org/umi-ni-ochita-tsuki-no-hanashi-episode-1"
+      }
+    ]
   }
 ]
