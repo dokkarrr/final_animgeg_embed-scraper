@@ -4726,5 +4726,21 @@
         "url": "https://www.animegg.org/ghost-in-the-shell-arise---border4-ghost-stands-alone-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5684,
+    "title": "Nijiiro Hotaru: Eien no Natsuyasumi",
+    "animegg_url": "https://www.animegg.org/series/nijiiro-hotaru-eien-no-natsuyasumi",
+    "mal_url": "https://myanimelist.net/anime/6219",
+    "mal_id": 6219,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/59185",
+        "dub": null,
+        "url": "https://www.animegg.org/nijiiro-hotaru-eien-no-natsuyasumi-episode-1"
+      }
+    ]
   }
 ]
