@@ -92860,5 +92860,69 @@
         "url": "https://www.animegg.org/one-piece-karakurijou-no-mecha-kyohei-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4298,
+    "title": "High Score Girl II",
+    "animegg_url": "https://www.animegg.org/series/high-score-girl-ii",
+    "mal_url": "https://myanimelist.net/anime/39570",
+    "mal_id": 39570,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/96842",
+        "dub": null,
+        "url": "https://www.animegg.org/high-score-girl-ii-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/96903",
+        "dub": null,
+        "url": "https://www.animegg.org/high-score-girl-ii-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/96965",
+        "dub": null,
+        "url": "https://www.animegg.org/high-score-girl-ii-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/97026",
+        "dub": null,
+        "url": "https://www.animegg.org/high-score-girl-ii-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/97093",
+        "dub": null,
+        "url": "https://www.animegg.org/high-score-girl-ii-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/97165",
+        "dub": null,
+        "url": "https://www.animegg.org/high-score-girl-ii-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/97227",
+        "dub": null,
+        "url": "https://www.animegg.org/high-score-girl-ii-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/97305",
+        "dub": null,
+        "url": "https://www.animegg.org/high-score-girl-ii-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/97358",
+        "dub": null,
+        "url": "https://www.animegg.org/high-score-girl-ii-episode-9"
+      }
+    ]
   }
 ]
