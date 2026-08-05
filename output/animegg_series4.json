@@ -96482,5 +96482,21 @@
         "url": "https://www.animegg.org/douluo-dalu-ii-jueshi-tangmen-episode-76"
       }
     ]
+  },
+  {
+    "serial_no": 4359,
+    "title": "Yu☆Gi☆Oh!: The Dark Side of Dimensions",
+    "animegg_url": "https://www.animegg.org/series/yu-gi-oh-the-dark-side-of-dimensions",
+    "mal_url": "https://myanimelist.net/anime/28771",
+    "mal_id": 28771,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/86266",
+        "dub": null,
+        "url": "https://www.animegg.org/yu-gi-oh-the-dark-side-of-dimensions-episode-1"
+      }
+    ]
   }
 ]
