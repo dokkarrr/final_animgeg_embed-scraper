@@ -14654,5 +14654,21 @@
         "url": "https://www.animegg.org/mardock-scramble-the-third-exhaust-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5858,
+    "title": "Yumekuri OVA",
+    "animegg_url": "https://www.animegg.org/series/yumekuri-ova",
+    "mal_url": "https://myanimelist.net/anime/15535",
+    "mal_id": 15535,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/42173",
+        "dub": null,
+        "url": "https://www.animegg.org/yumekuri-ova-episode-1"
+      }
+    ]
   }
 ]
