@@ -28376,5 +28376,21 @@
         "url": "https://www.animegg.org/fei-ren-zai-episode-48"
       }
     ]
+  },
+  {
+    "serial_no": 6071,
+    "title": "Yowamushi Pedal: Re:ROAD",
+    "animegg_url": "https://www.animegg.org/series/yowamushi-pedal-reroad",
+    "mal_url": "https://myanimelist.net/anime/30790",
+    "mal_id": 30790,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/82205",
+        "dub": null,
+        "url": "https://www.animegg.org/yowamushi-pedal-reroad-episode-1-8638-2212"
+      }
+    ]
   }
 ]
