@@ -3384,5 +3384,45 @@
         "url": "https://www.animegg.org/giovanni-no-shima-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5659,
+    "title": "Kuromi's Pretty Journey: Hacha Mecha! Multiverse Daidasshutsu!",
+    "animegg_url": "https://www.animegg.org/series/kuromi-s-pretty-journey-hacha-mecha-multiverse-daidasshutsu",
+    "mal_url": "https://myanimelist.net/anime/60185",
+    "mal_id": 60185,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/138831",
+        "dub": null,
+        "url": "https://www.animegg.org/kuromi-s-pretty-journey-hacha-mecha-multiverse-daidasshutsu-episode-3"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/138977",
+        "dub": null,
+        "url": "https://www.animegg.org/kuromi-s-pretty-journey-hacha-mecha-multiverse-daidasshutsu-episode-6"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/138979",
+        "dub": null,
+        "url": "https://www.animegg.org/kuromi-s-pretty-journey-hacha-mecha-multiverse-daidasshutsu-episode-8"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/139166",
+        "dub": null,
+        "url": "https://www.animegg.org/kuromi-s-pretty-journey-hacha-mecha-multiverse-daidasshutsu-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/139168",
+        "dub": null,
+        "url": "https://www.animegg.org/kuromi-s-pretty-journey-hacha-mecha-multiverse-daidasshutsu-episode-11"
+      }
+    ]
   }
 ]
