@@ -100590,5 +100590,27 @@
         "url": "https://www.animegg.org/the-darwin-incident-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 4408,
+    "title": "Haiyore! Nyaruko-san F",
+    "animegg_url": "https://www.animegg.org/series/haiyore-nyaruko-san-f",
+    "mal_url": "https://myanimelist.net/anime/26023",
+    "mal_id": 26023,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/76992",
+        "dub": "https://www.animegg.org/embed/77076",
+        "url": "https://www.animegg.org/haiyore-nyaruko-san-f-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/haiyore-nyaruko-san-f-episode-2"
+      }
+    ]
   }
 ]
