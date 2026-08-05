@@ -122061,5 +122061,21 @@
         "url": "https://www.animegg.org/one-piece-fan-letter-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6932,
+    "title": "Yuru Yuri Ten",
+    "animegg_url": "https://www.animegg.org/series/yuru-yuri-ten",
+    "mal_url": "https://myanimelist.net/anime/37773",
+    "mal_id": 37773,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/96775",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-yuri-ten-episode-1"
+      }
+    ]
   }
 ]
