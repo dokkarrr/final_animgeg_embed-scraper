@@ -95190,5 +95190,93 @@
         "url": "https://www.animegg.org/grand-blue-season-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4339,
+    "title": "Tesla Note",
+    "animegg_url": "https://www.animegg.org/series/tesla-note",
+    "mal_url": "https://myanimelist.net/anime/48680",
+    "mal_id": 48680,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/102943",
+        "dub": null,
+        "url": "https://www.animegg.org/tesla-note-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/103011",
+        "dub": null,
+        "url": "https://www.animegg.org/tesla-note-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/103072",
+        "dub": null,
+        "url": "https://www.animegg.org/tesla-note-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/103136",
+        "dub": null,
+        "url": "https://www.animegg.org/tesla-note-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/103196",
+        "dub": null,
+        "url": "https://www.animegg.org/tesla-note-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/103262",
+        "dub": null,
+        "url": "https://www.animegg.org/tesla-note-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/103328",
+        "dub": null,
+        "url": "https://www.animegg.org/tesla-note-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/103383",
+        "dub": null,
+        "url": "https://www.animegg.org/tesla-note-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/103444",
+        "dub": null,
+        "url": "https://www.animegg.org/tesla-note-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/103503",
+        "dub": null,
+        "url": "https://www.animegg.org/tesla-note-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/103577",
+        "dub": null,
+        "url": "https://www.animegg.org/tesla-note-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/103632",
+        "dub": null,
+        "url": "https://www.animegg.org/tesla-note-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/103679",
+        "dub": null,
+        "url": "https://www.animegg.org/tesla-note-episode-13"
+      }
+    ]
   }
 ]
