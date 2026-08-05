@@ -40555,5 +40555,27 @@
         "url": "https://www.animegg.org/harukanaru-toki-no-naka-de-3-onsen-chibi-special-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6221,
+    "title": "Tokimeki Memorial: Forever With You",
+    "animegg_url": "https://www.animegg.org/series/tokimeki-memorial-forever-with-you",
+    "mal_url": "https://myanimelist.net/anime/2179",
+    "mal_id": 2179,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/64070",
+        "dub": null,
+        "url": "https://www.animegg.org/tokimeki-memorial-forever-with-you-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/64071",
+        "dub": null,
+        "url": "https://www.animegg.org/tokimeki-memorial-forever-with-you-episode-2"
+      }
+    ]
   }
 ]
