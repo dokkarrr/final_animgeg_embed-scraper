@@ -68106,5 +68106,21 @@
         "url": "https://www.animegg.org/dou-shen-ji-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 6481,
+    "title": "Yawara! Sore Yuke Koshinuke Kids!!",
+    "animegg_url": "https://www.animegg.org/series/yawara-sore-yuke-koshinuke-kids",
+    "mal_url": "https://myanimelist.net/anime/2008",
+    "mal_id": 2008,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/46539",
+        "dub": null,
+        "url": "https://www.animegg.org/yawara-sore-yuke-koshinuke-kids-episode-1"
+      }
+    ]
   }
 ]
