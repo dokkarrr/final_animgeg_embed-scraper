@@ -14718,5 +14718,27 @@
         "url": "https://www.animegg.org/one-room-special-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5862,
+    "title": "Saikano: Another Love Song",
+    "animegg_url": "https://www.animegg.org/series/saikano-another-love-song",
+    "mal_url": "https://myanimelist.net/anime/609",
+    "mal_id": 609,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/60787",
+        "dub": "https://www.animegg.org/embed/60788",
+        "url": "https://www.animegg.org/saikano-another-love-song-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/60789",
+        "dub": "https://www.animegg.org/embed/60790",
+        "url": "https://www.animegg.org/saikano-another-love-song-episode-2"
+      }
+    ]
   }
 ]
