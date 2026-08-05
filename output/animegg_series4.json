@@ -56236,5 +56236,93 @@
         "url": "https://www.animegg.org/ayu-mayu-gekijou-episode-7"
       }
     ]
+  },
+  {
+    "serial_no": 3758,
+    "title": "W'z",
+    "animegg_url": "https://www.animegg.org/series/wz",
+    "mal_url": "https://myanimelist.net/anime/37509",
+    "mal_id": 37509,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/94134",
+        "dub": null,
+        "url": "https://www.animegg.org/wz-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/94202",
+        "dub": null,
+        "url": "https://www.animegg.org/wz-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/94273",
+        "dub": null,
+        "url": "https://www.animegg.org/wz-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/94338",
+        "dub": null,
+        "url": "https://www.animegg.org/wz-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/94404",
+        "dub": null,
+        "url": "https://www.animegg.org/wz-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/94468",
+        "dub": null,
+        "url": "https://www.animegg.org/wz-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/94530",
+        "dub": null,
+        "url": "https://www.animegg.org/wz-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/94605",
+        "dub": null,
+        "url": "https://www.animegg.org/wz-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/94674",
+        "dub": null,
+        "url": "https://www.animegg.org/wz-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/94739",
+        "dub": null,
+        "url": "https://www.animegg.org/wz-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/94802",
+        "dub": null,
+        "url": "https://www.animegg.org/wz-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/94882",
+        "dub": null,
+        "url": "https://www.animegg.org/wz-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/94961",
+        "dub": null,
+        "url": "https://www.animegg.org/wz-episode-13"
+      }
+    ]
   }
 ]
