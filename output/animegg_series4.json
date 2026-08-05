@@ -86614,5 +86614,27 @@
         "url": "https://www.animegg.org/nierautomata-ver11a-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4211,
+    "title": "Amagami SS OVA",
+    "animegg_url": "https://www.animegg.org/series/amagami-ss-ova",
+    "mal_url": "https://myanimelist.net/anime/9117",
+    "mal_id": 9117,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 27,
+        "sub": "https://www.animegg.org/embed/1042",
+        "dub": null,
+        "url": "https://www.animegg.org/amagami-ss-ova-episode-27"
+      },
+      {
+        "ep": 28,
+        "sub": "https://www.animegg.org/embed/1041",
+        "dub": null,
+        "url": "https://www.animegg.org/amagami-ss-ova-episode-28"
+      }
+    ]
   }
 ]
