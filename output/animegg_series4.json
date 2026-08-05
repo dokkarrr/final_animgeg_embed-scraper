@@ -101014,5 +101014,51 @@
         "url": "https://www.animegg.org/otome-wa-boku-ni-koishiteru-futari-no-elder-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 4415,
+    "title": "Iria: Zeiram The Animation",
+    "animegg_url": "https://www.animegg.org/series/iria-zeiram-the-animation",
+    "mal_url": "https://myanimelist.net/anime/432",
+    "mal_id": 432,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/54042",
+        "dub": null,
+        "url": "https://www.animegg.org/iria-zeiram-the-animation-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/54043",
+        "dub": null,
+        "url": "https://www.animegg.org/iria-zeiram-the-animation-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/54044",
+        "dub": null,
+        "url": "https://www.animegg.org/iria-zeiram-the-animation-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/54045",
+        "dub": null,
+        "url": "https://www.animegg.org/iria-zeiram-the-animation-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/54046",
+        "dub": null,
+        "url": "https://www.animegg.org/iria-zeiram-the-animation-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/54047",
+        "dub": null,
+        "url": "https://www.animegg.org/iria-zeiram-the-animation-episode-6"
+      }
+    ]
   }
 ]
