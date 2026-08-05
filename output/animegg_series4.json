@@ -74946,5 +74946,87 @@
         "url": "https://www.animegg.org/gun-dou-musashi-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 4033,
+    "title": "Gimai Seikatsu",
+    "animegg_url": "https://www.animegg.org/series/gimai-seikatsu",
+    "mal_url": "https://myanimelist.net/anime/52481",
+    "mal_id": 52481,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/135240",
+        "dub": null,
+        "url": "https://www.animegg.org/gimai-seikatsu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/135427",
+        "dub": null,
+        "url": "https://www.animegg.org/gimai-seikatsu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/135472",
+        "dub": null,
+        "url": "https://www.animegg.org/gimai-seikatsu-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/135806",
+        "dub": null,
+        "url": "https://www.animegg.org/gimai-seikatsu-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/135962",
+        "dub": null,
+        "url": "https://www.animegg.org/gimai-seikatsu-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/136126",
+        "dub": null,
+        "url": "https://www.animegg.org/gimai-seikatsu-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/136278",
+        "dub": null,
+        "url": "https://www.animegg.org/gimai-seikatsu-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/136421",
+        "dub": null,
+        "url": "https://www.animegg.org/gimai-seikatsu-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/136620",
+        "dub": null,
+        "url": "https://www.animegg.org/gimai-seikatsu-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/136804",
+        "dub": null,
+        "url": "https://www.animegg.org/gimai-seikatsu-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/136977",
+        "dub": null,
+        "url": "https://www.animegg.org/gimai-seikatsu-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/137164",
+        "dub": null,
+        "url": "https://www.animegg.org/gimai-seikatsu-episode-12"
+      }
+    ]
   }
 ]
