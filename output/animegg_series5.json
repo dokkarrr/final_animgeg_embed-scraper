@@ -19650,5 +19650,21 @@
         "url": "https://www.animegg.org/rezero-kara-hajimeru-isekai-seikatsu-2nd-season-dub-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5955,
+    "title": "Nasu: Summer in Andalusia",
+    "animegg_url": "https://www.animegg.org/series/nasu-summer-in-andalusia",
+    "mal_url": "https://myanimelist.net/anime/1209",
+    "mal_id": 1209,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/58820",
+        "dub": null,
+        "url": "https://www.animegg.org/nasu-summer-in-andalusia-episode-1"
+      }
+    ]
   }
 ]
