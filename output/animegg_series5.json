@@ -84504,5 +84504,45 @@
         "url": "https://www.animegg.org/rilakkuma-to-kaoru-san-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 6618,
+    "title": "Oh Boy, Was I Wrong About Her",
+    "animegg_url": "https://www.animegg.org/series/oh-boy-was-i-wrong-about-her",
+    "mal_url": "https://myanimelist.net/anime/56735",
+    "mal_id": 56735,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/oh-boy-was-i-wrong-about-her-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/146426",
+        "dub": null,
+        "url": "https://www.animegg.org/oh-boy-was-i-wrong-about-her-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/146514",
+        "dub": null,
+        "url": "https://www.animegg.org/oh-boy-was-i-wrong-about-her-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/146574",
+        "dub": null,
+        "url": "https://www.animegg.org/oh-boy-was-i-wrong-about-her-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/146621",
+        "dub": null,
+        "url": "https://www.animegg.org/oh-boy-was-i-wrong-about-her-episode-5"
+      }
+    ]
   }
 ]
