@@ -129466,5 +129466,27 @@
         "url": "https://www.animegg.org/hen-zemi-ova-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 4871,
+    "title": "Non Non Biyori OVA",
+    "animegg_url": "https://www.animegg.org/series/non-non-biyori-ova",
+    "mal_url": "https://myanimelist.net/anime/21667",
+    "mal_id": 21667,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/65852",
+        "dub": "https://www.animegg.org/embed/65853",
+        "url": "https://www.animegg.org/non-non-biyori-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/77535",
+        "dub": null,
+        "url": "https://www.animegg.org/non-non-biyori-ova-episode-2"
+      }
+    ]
   }
 ]
