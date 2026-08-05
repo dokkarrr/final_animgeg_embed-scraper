@@ -16436,5 +16436,21 @@
         "url": "https://www.animegg.org/soukyuu-no-fafner-right-of-left-episode-1-4448"
       }
     ]
+  },
+  {
+    "serial_no": 5897,
+    "title": "Ninku (Movie)",
+    "animegg_url": "https://www.animegg.org/series/ninku-movie",
+    "mal_url": "https://myanimelist.net/anime/9617",
+    "mal_id": 9617,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66051",
+        "dub": "https://www.animegg.org/embed/66052",
+        "url": "https://www.animegg.org/ninku-movie-episode-1"
+      }
+    ]
   }
 ]
