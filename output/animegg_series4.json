@@ -104646,5 +104646,21 @@
         "url": "https://www.animegg.org/koi-wa-futago-de-warikirenai-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4489,
+    "title": "Mirai Nikki (OVA)",
+    "animegg_url": "https://www.animegg.org/series/mirai-nikki-ova",
+    "mal_url": "https://myanimelist.net/anime/8460",
+    "mal_id": 8460,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/24270",
+        "dub": null,
+        "url": "https://www.animegg.org/mirai-nikki-ova-episode-1"
+      }
+    ]
   }
 ]
