@@ -22328,5 +22328,87 @@
         "url": "https://www.animegg.org/jigoku-shoujo-yoi-no-togi-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3339,
+    "title": "Lostorage Conflated WIXOSS",
+    "animegg_url": "https://www.animegg.org/series/lostorage-conflated-wixoss",
+    "mal_url": "https://myanimelist.net/anime/34607",
+    "mal_id": 34607,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/90659",
+        "dub": null,
+        "url": "https://www.animegg.org/lostorage-conflated-wixoss-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/90761",
+        "dub": null,
+        "url": "https://www.animegg.org/lostorage-conflated-wixoss-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/90842",
+        "dub": null,
+        "url": "https://www.animegg.org/lostorage-conflated-wixoss-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/90934",
+        "dub": null,
+        "url": "https://www.animegg.org/lostorage-conflated-wixoss-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/91029",
+        "dub": null,
+        "url": "https://www.animegg.org/lostorage-conflated-wixoss-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/91116",
+        "dub": null,
+        "url": "https://www.animegg.org/lostorage-conflated-wixoss-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/91200",
+        "dub": null,
+        "url": "https://www.animegg.org/lostorage-conflated-wixoss-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/91282",
+        "dub": null,
+        "url": "https://www.animegg.org/lostorage-conflated-wixoss-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/91373",
+        "dub": null,
+        "url": "https://www.animegg.org/lostorage-conflated-wixoss-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/91456",
+        "dub": null,
+        "url": "https://www.animegg.org/lostorage-conflated-wixoss-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/91538",
+        "dub": null,
+        "url": "https://www.animegg.org/lostorage-conflated-wixoss-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/91620",
+        "dub": null,
+        "url": "https://www.animegg.org/lostorage-conflated-wixoss-episode-12"
+      }
+    ]
   }
 ]
