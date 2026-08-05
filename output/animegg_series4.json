@@ -69616,5 +69616,51 @@
         "url": "https://www.animegg.org/kill-la-kill-special-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 3944,
+    "title": "Ozuma",
+    "animegg_url": "https://www.animegg.org/series/ozuma",
+    "mal_url": "https://myanimelist.net/anime/12677",
+    "mal_id": 12677,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/29058",
+        "dub": null,
+        "url": "https://www.animegg.org/ozuma-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/29055",
+        "dub": null,
+        "url": "https://www.animegg.org/ozuma-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/29057",
+        "dub": null,
+        "url": "https://www.animegg.org/ozuma-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/29056",
+        "dub": null,
+        "url": "https://www.animegg.org/ozuma-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/29054",
+        "dub": null,
+        "url": "https://www.animegg.org/ozuma-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/29059",
+        "dub": null,
+        "url": "https://www.animegg.org/ozuma-episode-6"
+      }
+    ]
   }
 ]
