@@ -64476,5 +64476,51 @@
         "url": "https://www.animegg.org/rwby-volume-8-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3871,
+    "title": "Mobile Suit Gundam Seed Special Edition",
+    "animegg_url": "https://www.animegg.org/series/mobile-suit-gundam-seed-special-edition",
+    "mal_url": "https://myanimelist.net/anime/2269",
+    "mal_id": 2269,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/52312",
+        "dub": null,
+        "url": "https://www.animegg.org/mobile-suit-gundam-seed-special-edition-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/52315",
+        "dub": null,
+        "url": "https://www.animegg.org/mobile-suit-gundam-seed-special-edition-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/52313",
+        "dub": null,
+        "url": "https://www.animegg.org/mobile-suit-gundam-seed-special-edition-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/52316",
+        "dub": null,
+        "url": "https://www.animegg.org/mobile-suit-gundam-seed-special-edition-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/52314",
+        "dub": null,
+        "url": "https://www.animegg.org/mobile-suit-gundam-seed-special-edition-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/52317",
+        "dub": null,
+        "url": "https://www.animegg.org/mobile-suit-gundam-seed-special-edition-episode-6"
+      }
+    ]
   }
 ]
