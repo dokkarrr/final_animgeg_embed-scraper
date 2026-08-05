@@ -6860,5 +6860,93 @@
         "url": "https://www.animegg.org/trillion-game-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 3162,
+    "title": "Jyu Oh Sei",
+    "animegg_url": "https://www.animegg.org/series/jyu-oh-sei",
+    "mal_url": "https://myanimelist.net/anime/953",
+    "mal_id": 953,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/71113",
+        "dub": null,
+        "url": "https://www.animegg.org/jyu-oh-sei-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/71112",
+        "dub": null,
+        "url": "https://www.animegg.org/jyu-oh-sei-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/71111",
+        "dub": null,
+        "url": "https://www.animegg.org/jyu-oh-sei-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/71110",
+        "dub": null,
+        "url": "https://www.animegg.org/jyu-oh-sei-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/71109",
+        "dub": null,
+        "url": "https://www.animegg.org/jyu-oh-sei-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/71108",
+        "dub": null,
+        "url": "https://www.animegg.org/jyu-oh-sei-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/71107",
+        "dub": null,
+        "url": "https://www.animegg.org/jyu-oh-sei-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/71106",
+        "dub": null,
+        "url": "https://www.animegg.org/jyu-oh-sei-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/71105",
+        "dub": null,
+        "url": "https://www.animegg.org/jyu-oh-sei-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/71104",
+        "dub": null,
+        "url": "https://www.animegg.org/jyu-oh-sei-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/71103",
+        "dub": null,
+        "url": "https://www.animegg.org/jyu-oh-sei-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/71102",
+        "dub": null,
+        "url": "https://www.animegg.org/jyu-oh-sei-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/71101",
+        "dub": null,
+        "url": "https://www.animegg.org/jyu-oh-sei-episode-13"
+      }
+    ]
   }
 ]
