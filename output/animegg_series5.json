@@ -28460,5 +28460,21 @@
         "url": "https://www.animegg.org/sand-land-the-series-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 6074,
+    "title": "Mahou Shoujo Lyrical Nanoha: Reflection",
+    "animegg_url": "https://www.animegg.org/series/mahou-shoujo-lyrical-nanoha-reflection",
+    "mal_url": "https://myanimelist.net/anime/17947",
+    "mal_id": 17947,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/90769",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-lyrical-nanoha-reflection-episode-1"
+      }
+    ]
   }
 ]
