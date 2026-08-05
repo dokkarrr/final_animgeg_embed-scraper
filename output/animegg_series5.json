@@ -14616,5 +14616,27 @@
         "url": "https://www.animegg.org/motto-ojamajo-doremi-secret-of-the-frog-stone-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5856,
+    "title": "Toaru Majutsu no Index Specials",
+    "animegg_url": "https://www.animegg.org/series/toaru-majutsu-no-index-specials",
+    "mal_url": "https://myanimelist.net/anime/5955",
+    "mal_id": 5955,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/64060",
+        "dub": null,
+        "url": "https://www.animegg.org/toaru-majutsu-no-index-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/64061",
+        "dub": null,
+        "url": "https://www.animegg.org/toaru-majutsu-no-index-specials-episode-2"
+      }
+    ]
   }
 ]
