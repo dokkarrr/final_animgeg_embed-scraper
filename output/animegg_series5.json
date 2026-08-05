@@ -80793,5 +80793,63 @@
         "url": "https://www.animegg.org/urusei-yatsura-movie-3-remember-my-love-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6578,
+    "title": "Gaiken Shijou Shugi",
+    "animegg_url": "https://www.animegg.org/series/gaiken-shijou-shugi",
+    "mal_url": "https://myanimelist.net/anime/53149",
+    "mal_id": 53149,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/134666",
+        "dub": "https://www.animegg.org/embed/135009",
+        "url": "https://www.animegg.org/gaiken-shijou-shugi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/134668",
+        "dub": "https://www.animegg.org/embed/135010",
+        "url": "https://www.animegg.org/gaiken-shijou-shugi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/134669",
+        "dub": "https://www.animegg.org/embed/135011",
+        "url": "https://www.animegg.org/gaiken-shijou-shugi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/134670",
+        "dub": "https://www.animegg.org/embed/135012",
+        "url": "https://www.animegg.org/gaiken-shijou-shugi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/134671",
+        "dub": "https://www.animegg.org/embed/135013",
+        "url": "https://www.animegg.org/gaiken-shijou-shugi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/134803",
+        "dub": "https://www.animegg.org/embed/135014",
+        "url": "https://www.animegg.org/gaiken-shijou-shugi-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/134804",
+        "dub": "https://www.animegg.org/embed/135015",
+        "url": "https://www.animegg.org/gaiken-shijou-shugi-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/134805",
+        "dub": "https://www.animegg.org/embed/135149",
+        "url": "https://www.animegg.org/gaiken-shijou-shugi-episode-8"
+      }
+    ]
   }
 ]
