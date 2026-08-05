@@ -77270,5 +77270,81 @@
         "url": "https://www.animegg.org/tabi-machi-late-show-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 4074,
+    "title": "Heion Sedai no Idaten-tachi",
+    "animegg_url": "https://www.animegg.org/series/heion-sedai-no-idaten-tachi",
+    "mal_url": "https://myanimelist.net/anime/42625",
+    "mal_id": 42625,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/102329",
+        "dub": null,
+        "url": "https://www.animegg.org/heion-sedai-no-idaten-tachi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/102330",
+        "dub": null,
+        "url": "https://www.animegg.org/heion-sedai-no-idaten-tachi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/102385",
+        "dub": null,
+        "url": "https://www.animegg.org/heion-sedai-no-idaten-tachi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/102442",
+        "dub": null,
+        "url": "https://www.animegg.org/heion-sedai-no-idaten-tachi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/102494",
+        "dub": null,
+        "url": "https://www.animegg.org/heion-sedai-no-idaten-tachi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/102548",
+        "dub": null,
+        "url": "https://www.animegg.org/heion-sedai-no-idaten-tachi-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/102604",
+        "dub": null,
+        "url": "https://www.animegg.org/heion-sedai-no-idaten-tachi-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/102700",
+        "dub": null,
+        "url": "https://www.animegg.org/heion-sedai-no-idaten-tachi-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/102757",
+        "dub": null,
+        "url": "https://www.animegg.org/heion-sedai-no-idaten-tachi-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/102813",
+        "dub": null,
+        "url": "https://www.animegg.org/heion-sedai-no-idaten-tachi-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/102871",
+        "dub": null,
+        "url": "https://www.animegg.org/heion-sedai-no-idaten-tachi-episode-11"
+      }
+    ]
   }
 ]
