@@ -11667,5 +11667,21 @@
         "url": "https://www.animegg.org/high-school-kimengumi-2026-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 5798,
+    "title": "Nadia: Secret of Blue Water - The Motion Picture",
+    "animegg_url": "https://www.animegg.org/series/nadia-secret-of-blue-water---the-motion-picture",
+    "mal_url": "https://myanimelist.net/anime/1252",
+    "mal_id": 1252,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/58434",
+        "dub": null,
+        "url": "https://www.animegg.org/nadia-secret-of-blue-water---the-motion-picture-episode-1"
+      }
+    ]
   }
 ]
