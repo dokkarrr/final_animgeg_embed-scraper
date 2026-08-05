@@ -93680,5 +93680,21 @@
         "url": "https://www.animegg.org/yu-gi-oh-pyramid-of-light-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4314,
+    "title": "Dragon Ball Movie 1: Curse of the Blood Rubies",
+    "animegg_url": "https://www.animegg.org/series/dragon-ball-movie-1-curse-of-the-blood-rubies",
+    "mal_url": "https://myanimelist.net/anime/502",
+    "mal_id": 502,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/49624",
+        "dub": null,
+        "url": "https://www.animegg.org/dragon-ball-movie-1-curse-of-the-blood-rubies-episode-1"
+      }
+    ]
   }
 ]
