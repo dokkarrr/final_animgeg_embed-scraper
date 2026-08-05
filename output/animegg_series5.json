@@ -1220,5 +1220,21 @@
         "url": "https://www.animegg.org/resident-evil-damnation-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5634,
+    "title": "Steamboy",
+    "animegg_url": "https://www.animegg.org/series/steamboy",
+    "mal_url": "https://myanimelist.net/anime/565",
+    "mal_id": 565,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/62338",
+        "dub": "https://www.animegg.org/embed/62339",
+        "url": "https://www.animegg.org/steamboy-episode-1"
+      }
+    ]
   }
 ]
