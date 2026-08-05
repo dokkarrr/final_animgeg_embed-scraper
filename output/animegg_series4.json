@@ -108326,5 +108326,87 @@
         "url": "https://www.animegg.org/rinne-no-lagrange-specials-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 4548,
+    "title": "Visual Prison",
+    "animegg_url": "https://www.animegg.org/series/visual-prison",
+    "mal_url": "https://myanimelist.net/anime/48567",
+    "mal_id": 48567,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/102977",
+        "dub": null,
+        "url": "https://www.animegg.org/visual-prison-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/103047",
+        "dub": null,
+        "url": "https://www.animegg.org/visual-prison-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/103108",
+        "dub": null,
+        "url": "https://www.animegg.org/visual-prison-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/103171",
+        "dub": null,
+        "url": "https://www.animegg.org/visual-prison-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/103235",
+        "dub": null,
+        "url": "https://www.animegg.org/visual-prison-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/103295",
+        "dub": null,
+        "url": "https://www.animegg.org/visual-prison-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/103354",
+        "dub": null,
+        "url": "https://www.animegg.org/visual-prison-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/103412",
+        "dub": null,
+        "url": "https://www.animegg.org/visual-prison-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/103475",
+        "dub": null,
+        "url": "https://www.animegg.org/visual-prison-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/103551",
+        "dub": null,
+        "url": "https://www.animegg.org/visual-prison-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/103606",
+        "dub": null,
+        "url": "https://www.animegg.org/visual-prison-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/103660",
+        "dub": null,
+        "url": "https://www.animegg.org/visual-prison-episode-12"
+      }
+    ]
   }
 ]
