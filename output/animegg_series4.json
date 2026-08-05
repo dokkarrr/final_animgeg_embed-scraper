@@ -117406,5 +117406,87 @@
         "url": "https://www.animegg.org/big-order-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4700,
+    "title": "Wash It All Away",
+    "animegg_url": "https://www.animegg.org/series/wash-it-all-away",
+    "mal_url": "https://myanimelist.net/anime/61782",
+    "mal_id": 61782,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/144072",
+        "dub": null,
+        "url": "https://www.animegg.org/wash-it-all-away-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/144167",
+        "dub": null,
+        "url": "https://www.animegg.org/wash-it-all-away-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/144266",
+        "dub": null,
+        "url": "https://www.animegg.org/wash-it-all-away-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/144385",
+        "dub": null,
+        "url": "https://www.animegg.org/wash-it-all-away-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/144490",
+        "dub": null,
+        "url": "https://www.animegg.org/wash-it-all-away-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/144590",
+        "dub": null,
+        "url": "https://www.animegg.org/wash-it-all-away-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/144698",
+        "dub": null,
+        "url": "https://www.animegg.org/wash-it-all-away-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/144787",
+        "dub": null,
+        "url": "https://www.animegg.org/wash-it-all-away-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/144903",
+        "dub": null,
+        "url": "https://www.animegg.org/wash-it-all-away-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/145010",
+        "dub": null,
+        "url": "https://www.animegg.org/wash-it-all-away-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/145108",
+        "dub": null,
+        "url": "https://www.animegg.org/wash-it-all-away-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/145214",
+        "dub": null,
+        "url": "https://www.animegg.org/wash-it-all-away-episode-12"
+      }
+    ]
   }
 ]
