@@ -7677,5 +7677,21 @@
         "url": "https://www.animegg.org/omoide-no-marnie-moive"
       }
     ]
+  },
+  {
+    "serial_no": 5735,
+    "title": "Tsuki ga Kirei Special",
+    "animegg_url": "https://www.animegg.org/series/tsuki-ga-kirei-special",
+    "mal_url": "https://myanimelist.net/anime/36539",
+    "mal_id": 36539,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/88636",
+        "dub": null,
+        "url": "https://www.animegg.org/tsuki-ga-kirei-special-episode-1"
+      }
+    ]
   }
 ]
