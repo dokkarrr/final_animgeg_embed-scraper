@@ -123678,5 +123678,75 @@
         "url": "https://www.animegg.org/guilty-hearts-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 4792,
+    "title": "Rooster Fighter",
+    "animegg_url": "https://www.animegg.org/series/rooster-fighter",
+    "mal_url": "https://myanimelist.net/anime/59393",
+    "mal_id": 59393,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/145093",
+        "dub": "https://www.animegg.org/embed/145139",
+        "url": "https://www.animegg.org/rooster-fighter-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/145198",
+        "dub": null,
+        "url": "https://www.animegg.org/rooster-fighter-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/145293",
+        "dub": "https://www.animegg.org/embed/145299",
+        "url": "https://www.animegg.org/rooster-fighter-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/145388",
+        "dub": "https://www.animegg.org/embed/145410",
+        "url": "https://www.animegg.org/rooster-fighter-episode-4"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/145506",
+        "dub": null,
+        "url": "https://www.animegg.org/rooster-fighter-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/145617",
+        "dub": null,
+        "url": "https://www.animegg.org/rooster-fighter-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/145696",
+        "dub": null,
+        "url": "https://www.animegg.org/rooster-fighter-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/145814",
+        "dub": "https://www.animegg.org/embed/145823",
+        "url": "https://www.animegg.org/rooster-fighter-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/145923",
+        "dub": "https://www.animegg.org/embed/145935",
+        "url": "https://www.animegg.org/rooster-fighter-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/145976",
+        "dub": null,
+        "url": "https://www.animegg.org/rooster-fighter-episode-12"
+      }
+    ]
   }
 ]
