@@ -84146,5 +84146,21 @@
         "url": "https://www.animegg.org/doomed-megalopolis-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 4170,
+    "title": "Dragon Ball Movie 4: The Path to Power",
+    "animegg_url": "https://www.animegg.org/series/dragon-ball-movie-4-the-path-to-power",
+    "mal_url": "https://myanimelist.net/anime/893",
+    "mal_id": 893,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/49630",
+        "dub": "https://www.animegg.org/embed/49631",
+        "url": "https://www.animegg.org/dragon-ball-movie-4-the-path-to-power-episode-1"
+      }
+    ]
   }
 ]
