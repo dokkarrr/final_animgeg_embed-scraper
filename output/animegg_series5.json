@@ -46395,5 +46395,75 @@
         "url": "https://www.animegg.org/kirakira-precure-a-la-mode-movie-paritto-omoide-no-mille-feuille-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6286,
+    "title": "BanG Dream! Ave Mujica",
+    "animegg_url": "https://www.animegg.org/series/bang-dream-ave-mujica",
+    "mal_url": "https://myanimelist.net/anime/56653",
+    "mal_id": 56653,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/139399",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-ave-mujica-episode-3"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/139550",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-ave-mujica-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/139649",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-ave-mujica-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/139743",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-ave-mujica-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/139836",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-ave-mujica-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/139929",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-ave-mujica-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/140030",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-ave-mujica-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/140120",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-ave-mujica-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/140186",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-ave-mujica-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/140288",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-ave-mujica-episode-13"
+      }
+    ]
   }
 ]
