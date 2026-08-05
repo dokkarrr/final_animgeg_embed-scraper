@@ -4246,5 +4246,87 @@
         "url": "https://www.animegg.org/magia-record-mahou-shoujo-madoka-magica-gaiden-tv-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3128,
+    "title": "Yama no Susume",
+    "animegg_url": "https://www.animegg.org/series/yama-no-susume",
+    "mal_url": "https://myanimelist.net/anime/14355",
+    "mal_id": 14355,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/40927",
+        "dub": null,
+        "url": "https://www.animegg.org/yama-no-susume-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/40926",
+        "dub": null,
+        "url": "https://www.animegg.org/yama-no-susume-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/40923",
+        "dub": null,
+        "url": "https://www.animegg.org/yama-no-susume-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/40925",
+        "dub": null,
+        "url": "https://www.animegg.org/yama-no-susume-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/40924",
+        "dub": null,
+        "url": "https://www.animegg.org/yama-no-susume-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/40928",
+        "dub": null,
+        "url": "https://www.animegg.org/yama-no-susume-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/40930",
+        "dub": null,
+        "url": "https://www.animegg.org/yama-no-susume-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/40929",
+        "dub": null,
+        "url": "https://www.animegg.org/yama-no-susume-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/40931",
+        "dub": null,
+        "url": "https://www.animegg.org/yama-no-susume-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/40932",
+        "dub": null,
+        "url": "https://www.animegg.org/yama-no-susume-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/40933",
+        "dub": null,
+        "url": "https://www.animegg.org/yama-no-susume-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/40934",
+        "dub": null,
+        "url": "https://www.animegg.org/yama-no-susume-episode-12"
+      }
+    ]
   }
 ]
