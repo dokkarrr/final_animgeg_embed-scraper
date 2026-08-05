@@ -129212,5 +129212,87 @@
         "url": "https://www.animegg.org/high-card-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4866,
+    "title": "Rinshi!! Ekoda-chan",
+    "animegg_url": "https://www.animegg.org/series/rinshi-ekoda-chan",
+    "mal_url": "https://myanimelist.net/anime/38162",
+    "mal_id": 38162,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/94161",
+        "dub": null,
+        "url": "https://www.animegg.org/rinshi-ekoda-chan-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/94234",
+        "dub": null,
+        "url": "https://www.animegg.org/rinshi-ekoda-chan-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/94299",
+        "dub": null,
+        "url": "https://www.animegg.org/rinshi-ekoda-chan-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/94365",
+        "dub": null,
+        "url": "https://www.animegg.org/rinshi-ekoda-chan-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/94431",
+        "dub": null,
+        "url": "https://www.animegg.org/rinshi-ekoda-chan-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/94496",
+        "dub": null,
+        "url": "https://www.animegg.org/rinshi-ekoda-chan-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/94560",
+        "dub": null,
+        "url": "https://www.animegg.org/rinshi-ekoda-chan-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/94636",
+        "dub": null,
+        "url": "https://www.animegg.org/rinshi-ekoda-chan-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/94703",
+        "dub": null,
+        "url": "https://www.animegg.org/rinshi-ekoda-chan-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/94765",
+        "dub": null,
+        "url": "https://www.animegg.org/rinshi-ekoda-chan-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/94827",
+        "dub": null,
+        "url": "https://www.animegg.org/rinshi-ekoda-chan-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/94910",
+        "dub": null,
+        "url": "https://www.animegg.org/rinshi-ekoda-chan-episode-12"
+      }
+    ]
   }
 ]
