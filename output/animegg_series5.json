@@ -56511,5 +56511,21 @@
         "url": "https://www.animegg.org/fate-stay-night-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 6366,
+    "title": "Robot Town Sagami 2028",
+    "animegg_url": "https://www.animegg.org/series/robot-town-sagami-2028",
+    "mal_url": "https://myanimelist.net/anime/33192",
+    "mal_id": 33192,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2028,
+        "sub": "https://www.animegg.org/embed/82433",
+        "dub": null,
+        "url": "https://www.animegg.org/robot-town-sagami-2028-episode-1"
+      }
+    ]
   }
 ]
