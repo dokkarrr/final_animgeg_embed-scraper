@@ -23894,5 +23894,21 @@
         "url": "https://www.animegg.org/yao-shen-ji-episode-40"
       }
     ]
+  },
+  {
+    "serial_no": 6011,
+    "title": "The Wizard of Oz (1982)",
+    "animegg_url": "https://www.animegg.org/series/the-wizard-of-oz",
+    "mal_url": "https://myanimelist.net/anime/7876",
+    "mal_id": 7876,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1982,
+        "sub": "https://www.animegg.org/embed/63785",
+        "dub": null,
+        "url": "https://www.animegg.org/the-wizard-of-oz-episode-1"
+      }
+    ]
   }
 ]
