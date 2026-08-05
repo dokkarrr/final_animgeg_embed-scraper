@@ -60676,5 +60676,21 @@
         "url": "https://www.animegg.org/mobile-suit-gundam-the-witch-from-mercury---prologue-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3830,
+    "title": "Mirai Nikki Redial",
+    "animegg_url": "https://www.animegg.org/series/mirai-nikki-redial",
+    "mal_url": "https://myanimelist.net/anime/16762",
+    "mal_id": 16762,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/24271",
+        "dub": null,
+        "url": "https://www.animegg.org/mirai-nikki-redial-episode-1"
+      }
+    ]
   }
 ]
