@@ -330,5 +330,87 @@
         "url": "https://www.animegg.org/one-piece-x-toriko-x-dragon-ball-z-crossover-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3076,
+    "title": "The Warrior Princess and the Barbaric King",
+    "animegg_url": "https://www.animegg.org/series/the-warrior-princess-and-the-barbaric-king",
+    "mal_url": "https://myanimelist.net/anime/60028",
+    "mal_id": 60028,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/145428",
+        "dub": "https://www.animegg.org/embed/145481",
+        "url": "https://www.animegg.org/the-warrior-princess-and-the-barbaric-king-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/145564",
+        "dub": null,
+        "url": "https://www.animegg.org/the-warrior-princess-and-the-barbaric-king-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/145464",
+        "dub": "https://www.animegg.org/embed/145654",
+        "url": "https://www.animegg.org/the-warrior-princess-and-the-barbaric-king-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/145567",
+        "dub": "https://www.animegg.org/embed/145761",
+        "url": "https://www.animegg.org/the-warrior-princess-and-the-barbaric-king-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/145673",
+        "dub": "https://www.animegg.org/embed/145884",
+        "url": "https://www.animegg.org/the-warrior-princess-and-the-barbaric-king-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/145757",
+        "dub": null,
+        "url": "https://www.animegg.org/the-warrior-princess-and-the-barbaric-king-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/145874",
+        "dub": null,
+        "url": "https://www.animegg.org/the-warrior-princess-and-the-barbaric-king-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/146091",
+        "dub": null,
+        "url": "https://www.animegg.org/the-warrior-princess-and-the-barbaric-king-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/146145",
+        "dub": null,
+        "url": "https://www.animegg.org/the-warrior-princess-and-the-barbaric-king-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/146101",
+        "dub": "https://www.animegg.org/embed/146207",
+        "url": "https://www.animegg.org/the-warrior-princess-and-the-barbaric-king-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/146284",
+        "dub": null,
+        "url": "https://www.animegg.org/the-warrior-princess-and-the-barbaric-king-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/146218",
+        "dub": "https://www.animegg.org/embed/146354",
+        "url": "https://www.animegg.org/the-warrior-princess-and-the-barbaric-king-episode-12"
+      }
+    ]
   }
 ]
