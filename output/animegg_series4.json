@@ -4892,5 +4892,21 @@
         "url": "https://www.animegg.org/maken-ki-two-specials-episode-5"
       }
     ]
+  },
+  {
+    "serial_no": 3138,
+    "title": "Bleach: The DiamondDust Rebellion",
+    "animegg_url": "https://www.animegg.org/series/bleach-the-diamonddust-rebellion",
+    "mal_url": "https://myanimelist.net/anime/2889",
+    "mal_id": 2889,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/49076",
+        "dub": "https://www.animegg.org/embed/49077",
+        "url": "https://www.animegg.org/bleach-the-diamonddust-rebellion-episode-1"
+      }
+    ]
   }
 ]
