@@ -105816,5 +105816,93 @@
         "url": "https://www.animegg.org/one-room-third-season-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4510,
+    "title": "Shabake",
+    "animegg_url": "https://www.animegg.org/series/shabake",
+    "mal_url": "https://myanimelist.net/anime/60378",
+    "mal_id": 60378,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/142789",
+        "dub": null,
+        "url": "https://www.animegg.org/shabake-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/142841",
+        "dub": null,
+        "url": "https://www.animegg.org/shabake-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/142955",
+        "dub": null,
+        "url": "https://www.animegg.org/shabake-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/143044",
+        "dub": null,
+        "url": "https://www.animegg.org/shabake-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/143160",
+        "dub": null,
+        "url": "https://www.animegg.org/shabake-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/143256",
+        "dub": null,
+        "url": "https://www.animegg.org/shabake-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/143370",
+        "dub": null,
+        "url": "https://www.animegg.org/shabake-season-1-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/143486",
+        "dub": null,
+        "url": "https://www.animegg.org/shabake-season-1-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/143563",
+        "dub": "https://www.animegg.org/embed/143564",
+        "url": "https://www.animegg.org/shabake-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/143679",
+        "dub": null,
+        "url": "https://www.animegg.org/shabake-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/143794",
+        "dub": null,
+        "url": "https://www.animegg.org/shabake-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/143904",
+        "dub": null,
+        "url": "https://www.animegg.org/shabake-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/143995",
+        "dub": null,
+        "url": "https://www.animegg.org/shabake-episode-13"
+      }
+    ]
   }
 ]
