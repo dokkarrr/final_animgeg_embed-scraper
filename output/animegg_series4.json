@@ -23912,5 +23912,87 @@
         "url": "https://www.animegg.org/tonikaku-kawaii-2nd-season-dub-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3348,
+    "title": "Paripi Koumei",
+    "animegg_url": "https://www.animegg.org/series/paripi-koumei",
+    "mal_url": "https://myanimelist.net/anime/50380",
+    "mal_id": 50380,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/104309",
+        "dub": null,
+        "url": "https://www.animegg.org/paripi-koumei-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/104357",
+        "dub": null,
+        "url": "https://www.animegg.org/paripi-koumei-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/104418",
+        "dub": null,
+        "url": "https://www.animegg.org/paripi-koumei-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/104485",
+        "dub": null,
+        "url": "https://www.animegg.org/paripi-koumei-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/104545",
+        "dub": null,
+        "url": "https://www.animegg.org/paripi-koumei-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/104601",
+        "dub": null,
+        "url": "https://www.animegg.org/paripi-koumei-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/104659",
+        "dub": null,
+        "url": "https://www.animegg.org/paripi-koumei-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/104818",
+        "dub": null,
+        "url": "https://www.animegg.org/paripi-koumei-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/104879",
+        "dub": null,
+        "url": "https://www.animegg.org/paripi-koumei-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/104934",
+        "dub": null,
+        "url": "https://www.animegg.org/paripi-koumei-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/105011",
+        "dub": null,
+        "url": "https://www.animegg.org/paripi-koumei-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/105073",
+        "dub": null,
+        "url": "https://www.animegg.org/paripi-koumei-episode-12"
+      }
+    ]
   }
 ]
