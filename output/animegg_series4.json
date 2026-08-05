@@ -66666,5 +66666,87 @@
         "url": "https://www.animegg.org/lapis-relights-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3904,
+    "title": "Ayakashi Triangle",
+    "animegg_url": "https://www.animegg.org/series/ayakashi-triangle",
+    "mal_url": "https://myanimelist.net/anime/50606",
+    "mal_id": 50606,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/106819",
+        "dub": null,
+        "url": "https://www.animegg.org/ayakashi-triangle-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/106892",
+        "dub": null,
+        "url": "https://www.animegg.org/ayakashi-triangle-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/106964",
+        "dub": null,
+        "url": "https://www.animegg.org/ayakashi-triangle-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/107035",
+        "dub": null,
+        "url": "https://www.animegg.org/ayakashi-triangle-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/107416",
+        "dub": null,
+        "url": "https://www.animegg.org/ayakashi-triangle-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/107477",
+        "dub": null,
+        "url": "https://www.animegg.org/ayakashi-triangle-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/107545",
+        "dub": null,
+        "url": "https://www.animegg.org/ayakashi-triangle-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/131094",
+        "dub": null,
+        "url": "https://www.animegg.org/ayakashi-triangle-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/131185",
+        "dub": null,
+        "url": "https://www.animegg.org/ayakashi-triangle-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/131294",
+        "dub": null,
+        "url": "https://www.animegg.org/ayakashi-triangle-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/131383",
+        "dub": null,
+        "url": "https://www.animegg.org/ayakashi-triangle-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/131488",
+        "dub": null,
+        "url": "https://www.animegg.org/ayakashi-triangle-episode-12"
+      }
+    ]
   }
 ]
