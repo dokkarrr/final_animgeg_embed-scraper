@@ -94194,5 +94194,27 @@
         "url": "https://www.animegg.org/inexpressive-kashiwada-and-expressive-oota-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4321,
+    "title": "Denpa teki na Kanojo",
+    "animegg_url": "https://www.animegg.org/series/denpa-teki-na-kanojo",
+    "mal_url": "https://myanimelist.net/anime/5177",
+    "mal_id": 5177,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/7616",
+        "dub": null,
+        "url": "https://www.animegg.org/denpa-teki-na-kanojo-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/7617",
+        "dub": null,
+        "url": "https://www.animegg.org/denpa-teki-na-kanojo-episode-2"
+      }
+    ]
   }
 ]
