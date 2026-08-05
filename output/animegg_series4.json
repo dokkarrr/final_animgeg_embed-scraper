@@ -42322,5 +42322,21 @@
         "url": "https://www.animegg.org/kizuna-no-allele-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3575,
+    "title": "Issho ni Sleeping: Sleeping with Hinako",
+    "animegg_url": "https://www.animegg.org/series/issho-ni-sleeping-sleeping-with-hinako",
+    "mal_url": "https://myanimelist.net/anime/7897",
+    "mal_id": 7897,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/53950",
+        "dub": null,
+        "url": "https://www.animegg.org/issho-ni-sleeping-sleeping-with-hinako-episode-1"
+      }
+    ]
   }
 ]
