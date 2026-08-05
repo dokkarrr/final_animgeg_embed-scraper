@@ -86220,5 +86220,21 @@
         "url": "https://www.animegg.org/initial-d-third-stage-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4204,
+    "title": "Aoki Hagane no Arpeggio: Ars Nova DC",
+    "animegg_url": "https://www.animegg.org/series/aoki-hagane-no-arpeggio-ars-nova-dc",
+    "mal_url": "https://myanimelist.net/anime/24919",
+    "mal_id": 24919,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/77709",
+        "dub": "https://www.animegg.org/embed/79494",
+        "url": "https://www.animegg.org/aoki-hagane-no-arpeggio-ars-nova-dc-episode-1"
+      }
+    ]
   }
 ]
