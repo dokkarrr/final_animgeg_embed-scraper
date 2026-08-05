@@ -23118,5 +23118,21 @@
         "url": "https://www.animegg.org/punirunes-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5997,
+    "title": "EF - A Tale of Memories. - Recollections",
+    "animegg_url": "https://www.animegg.org/series/ef---a-tale-of-memories---recollections",
+    "mal_url": "https://myanimelist.net/anime/6783",
+    "mal_id": 6783,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/51109",
+        "dub": null,
+        "url": "https://www.animegg.org/ef---a-tale-of-memories---recollections-episode-1"
+      }
+    ]
   }
 ]
