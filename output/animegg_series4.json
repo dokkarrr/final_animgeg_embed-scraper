@@ -86204,5 +86204,21 @@
         "url": "https://www.animegg.org/berserk-ougon-jidaihen-ii-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4203,
+    "title": "Initial D Third Stage",
+    "animegg_url": "https://www.animegg.org/series/initial-d-third-stage",
+    "mal_url": "https://myanimelist.net/anime/187",
+    "mal_id": 187,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/75049",
+        "dub": null,
+        "url": "https://www.animegg.org/initial-d-third-stage-episode-1"
+      }
+    ]
   }
 ]
