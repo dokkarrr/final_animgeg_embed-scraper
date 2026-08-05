@@ -112882,5 +112882,45 @@
         "url": "https://www.animegg.org/steins-gate-oukoubakko-no-poriomania-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4628,
+    "title": "Digimon Adventure tri. 6: Bokura no Mirai",
+    "animegg_url": "https://www.animegg.org/series/digimon-adventure-tri-6-bokura-no-mirai",
+    "mal_url": "https://myanimelist.net/anime/36466",
+    "mal_id": 36466,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/91023",
+        "dub": null,
+        "url": "https://www.animegg.org/digimon-adventure-tri-6-bokura-no-mirai-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/91022",
+        "dub": null,
+        "url": "https://www.animegg.org/digimon-adventure-tri-6-bokura-no-mirai-episode-4"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/91021",
+        "dub": null,
+        "url": "https://www.animegg.org/digimon-adventure-tri-6-bokura-no-mirai-episode-3"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/91020",
+        "dub": null,
+        "url": "https://www.animegg.org/digimon-adventure-tri-6-bokura-no-mirai-episode-2"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/91019",
+        "dub": null,
+        "url": "https://www.animegg.org/digimon-adventure-tri-6-bokura-no-mirai-episode-1"
+      }
+    ]
   }
 ]
