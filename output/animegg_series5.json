@@ -23188,5 +23188,21 @@
         "url": "https://www.animegg.org/boku-no-hero-academia-ona-episode-2-1"
       }
     ]
+  },
+  {
+    "serial_no": 6001,
+    "title": "Toriko 3D: Kaimaku Gourmet Adventure!!",
+    "animegg_url": "https://www.animegg.org/series/toriko-ova",
+    "mal_url": "https://myanimelist.net/anime/10074",
+    "mal_id": 10074,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/38821",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-ova-episode-1"
+      }
+    ]
   }
 ]
