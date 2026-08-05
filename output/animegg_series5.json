@@ -107435,5 +107435,21 @@
         "url": "https://www.animegg.org/komi-san-wa-comyushou-desu-2nd-season-dub-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6797,
+    "title": "Anemone",
+    "animegg_url": "https://www.animegg.org/series/eureka-seven-hi-evolution-2",
+    "mal_url": "https://myanimelist.net/anime/10516",
+    "mal_id": 10516,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/97563",
+        "dub": null,
+        "url": "https://www.animegg.org/eureka-seven-hi-evolution-2-episode-1"
+      }
+    ]
   }
 ]
