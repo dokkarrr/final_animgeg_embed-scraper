@@ -127798,5 +127798,21 @@
         "url": "https://www.animegg.org/project-blue-chikyuu-sos-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 4847,
+    "title": "Queen's Blade Rebellion vs. Hagure Yuusha no Estetica",
+    "animegg_url": "https://www.animegg.org/series/queens-blade-rebellion-vs-hagure-yuusha-no-estetica",
+    "mal_url": "https://myanimelist.net/anime/11859",
+    "mal_id": 11859,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/31393",
+        "dub": null,
+        "url": "https://www.animegg.org/queens-blade-rebellion-vs-hagure-yuusha-no-estetica-episode-1"
+      }
+    ]
   }
 ]
