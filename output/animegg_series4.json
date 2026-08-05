@@ -37552,5 +37552,75 @@
         "url": "https://www.animegg.org/ketsuekigata-kun-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3509,
+    "title": "Kogepan",
+    "animegg_url": "https://www.animegg.org/series/kogepan",
+    "mal_url": "https://myanimelist.net/anime/580",
+    "mal_id": 580,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/55337",
+        "dub": null,
+        "url": "https://www.animegg.org/kogepan-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/55338",
+        "dub": null,
+        "url": "https://www.animegg.org/kogepan-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/55339",
+        "dub": null,
+        "url": "https://www.animegg.org/kogepan-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/55340",
+        "dub": null,
+        "url": "https://www.animegg.org/kogepan-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/55341",
+        "dub": null,
+        "url": "https://www.animegg.org/kogepan-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/55342",
+        "dub": null,
+        "url": "https://www.animegg.org/kogepan-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/55343",
+        "dub": null,
+        "url": "https://www.animegg.org/kogepan-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/55344",
+        "dub": null,
+        "url": "https://www.animegg.org/kogepan-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/55345",
+        "dub": null,
+        "url": "https://www.animegg.org/kogepan-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/55346",
+        "dub": null,
+        "url": "https://www.animegg.org/kogepan-episode-10"
+      }
+    ]
   }
 ]
