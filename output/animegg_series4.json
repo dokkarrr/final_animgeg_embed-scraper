@@ -226,5 +226,93 @@
         "url": "https://www.animegg.org/jaku-chara-tomozaki-kun-2nd-stage-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3074,
+    "title": "Micchiri Neko",
+    "animegg_url": "https://www.animegg.org/series/micchiri-neko",
+    "mal_url": "https://myanimelist.net/anime/36982",
+    "mal_id": 36982,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/89592",
+        "dub": null,
+        "url": "https://www.animegg.org/micchiri-neko-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/89609",
+        "dub": null,
+        "url": "https://www.animegg.org/micchiri-neko-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/89763",
+        "dub": null,
+        "url": "https://www.animegg.org/micchiri-neko-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/89843",
+        "dub": null,
+        "url": "https://www.animegg.org/micchiri-neko-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/89918",
+        "dub": null,
+        "url": "https://www.animegg.org/micchiri-neko-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/90009",
+        "dub": null,
+        "url": "https://www.animegg.org/micchiri-neko-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/90083",
+        "dub": null,
+        "url": "https://www.animegg.org/micchiri-neko-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/90158",
+        "dub": null,
+        "url": "https://www.animegg.org/micchiri-neko-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/90212",
+        "dub": null,
+        "url": "https://www.animegg.org/micchiri-neko-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/90306",
+        "dub": null,
+        "url": "https://www.animegg.org/micchiri-neko-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/90378",
+        "dub": null,
+        "url": "https://www.animegg.org/micchiri-neko-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/90461",
+        "dub": null,
+        "url": "https://www.animegg.org/micchiri-neko-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/90550",
+        "dub": null,
+        "url": "https://www.animegg.org/micchiri-neko-episode-13"
+      }
+    ]
   }
 ]
