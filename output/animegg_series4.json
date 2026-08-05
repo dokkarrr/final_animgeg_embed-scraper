@@ -39580,5 +39580,39 @@
         "url": "https://www.animegg.org/murder-princess-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 3539,
+    "title": "Chain Chronicle: Haecceitas no Hikari Part 1",
+    "animegg_url": "https://www.animegg.org/series/chain-chronicle-haecceitas-no-hikari-part-1",
+    "mal_url": "https://myanimelist.net/anime/33728",
+    "mal_id": 33728,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/85140",
+        "dub": null,
+        "url": "https://www.animegg.org/chain-chronicle-haecceitas-no-hikari-part-1-episode-4"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/85139",
+        "dub": null,
+        "url": "https://www.animegg.org/chain-chronicle-haecceitas-no-hikari-part-1-episode-3"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/85138",
+        "dub": null,
+        "url": "https://www.animegg.org/chain-chronicle-haecceitas-no-hikari-part-1-episode-2"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/85137",
+        "dub": null,
+        "url": "https://www.animegg.org/chain-chronicle-haecceitas-no-hikari-part-1-episode-1"
+      }
+    ]
   }
 ]
