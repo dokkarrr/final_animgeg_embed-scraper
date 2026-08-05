@@ -111592,5 +111592,21 @@
         "url": "https://www.animegg.org/tengen-toppa-gurren-lagann-movie-lagann-hen-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4601,
+    "title": "Fate/kaleid liner Prisma☆Illya 2wei! OVA",
+    "animegg_url": "https://www.animegg.org/series/fatekaleid-liner-prisma-illya-2wei-ova",
+    "mal_url": "https://myanimelist.net/anime/27525",
+    "mal_id": 27525,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/78130",
+        "dub": "https://www.animegg.org/embed/78580",
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-illya-2wei-ova-episode-1"
+      }
+    ]
   }
 ]
