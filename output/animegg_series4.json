@@ -32396,5 +32396,93 @@
         "url": "https://www.animegg.org/gals-can-t-be-kind-to-otaku---episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3447,
+    "title": "Human Crossing",
+    "animegg_url": "https://www.animegg.org/series/human-crossing",
+    "mal_url": "https://myanimelist.net/anime/1083",
+    "mal_id": 1083,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/70568",
+        "dub": null,
+        "url": "https://www.animegg.org/human-crossing-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/70567",
+        "dub": null,
+        "url": "https://www.animegg.org/human-crossing-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/70566",
+        "dub": null,
+        "url": "https://www.animegg.org/human-crossing-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/70565",
+        "dub": null,
+        "url": "https://www.animegg.org/human-crossing-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/70564",
+        "dub": null,
+        "url": "https://www.animegg.org/human-crossing-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/70563",
+        "dub": null,
+        "url": "https://www.animegg.org/human-crossing-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/70562",
+        "dub": null,
+        "url": "https://www.animegg.org/human-crossing-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/70561",
+        "dub": null,
+        "url": "https://www.animegg.org/human-crossing-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/70560",
+        "dub": null,
+        "url": "https://www.animegg.org/human-crossing-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/70559",
+        "dub": null,
+        "url": "https://www.animegg.org/human-crossing-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/70558",
+        "dub": null,
+        "url": "https://www.animegg.org/human-crossing-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/70557",
+        "dub": null,
+        "url": "https://www.animegg.org/human-crossing-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/70556",
+        "dub": null,
+        "url": "https://www.animegg.org/human-crossing-episode-13"
+      }
+    ]
   }
 ]
