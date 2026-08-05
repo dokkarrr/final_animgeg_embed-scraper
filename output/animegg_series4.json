@@ -110662,5 +110662,21 @@
         "url": "https://www.animegg.org/kaii-to-otome-to-kamikakushi-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4580,
+    "title": "Pokemon XY: Hakai no Mayu to Diancie",
+    "animegg_url": "https://www.animegg.org/series/pokemon-xy-hakai-no-mayu-to-diancie",
+    "mal_url": "https://myanimelist.net/anime/21569",
+    "mal_id": 21569,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66601",
+        "dub": null,
+        "url": "https://www.animegg.org/pokemon-xy-hakai-no-mayu-to-diancie-episode-1"
+      }
+    ]
   }
 ]
