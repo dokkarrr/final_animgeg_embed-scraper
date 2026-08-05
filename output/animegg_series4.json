@@ -72044,5 +72044,63 @@
         "url": "https://www.animegg.org/jujutsu-kaisen-0-movie-episode-1-1"
       }
     ]
+  },
+  {
+    "serial_no": 3984,
+    "title": "Harukanaru Toki no Naka de: Character Endings",
+    "animegg_url": "https://www.animegg.org/series/harukanaru-toki-no-naka-de-character-endings",
+    "mal_url": "https://myanimelist.net/anime/1905",
+    "mal_id": 1905,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/53151",
+        "dub": null,
+        "url": "https://www.animegg.org/harukanaru-toki-no-naka-de-character-endings-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/53152",
+        "dub": null,
+        "url": "https://www.animegg.org/harukanaru-toki-no-naka-de-character-endings-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/53153",
+        "dub": null,
+        "url": "https://www.animegg.org/harukanaru-toki-no-naka-de-character-endings-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/53154",
+        "dub": null,
+        "url": "https://www.animegg.org/harukanaru-toki-no-naka-de-character-endings-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/53155",
+        "dub": null,
+        "url": "https://www.animegg.org/harukanaru-toki-no-naka-de-character-endings-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/53156",
+        "dub": null,
+        "url": "https://www.animegg.org/harukanaru-toki-no-naka-de-character-endings-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/53157",
+        "dub": null,
+        "url": "https://www.animegg.org/harukanaru-toki-no-naka-de-character-endings-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/53158",
+        "dub": null,
+        "url": "https://www.animegg.org/harukanaru-toki-no-naka-de-character-endings-episode-8"
+      }
+    ]
   }
 ]
