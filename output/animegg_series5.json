@@ -84438,5 +84438,21 @@
         "url": "https://www.animegg.org/castlevania-season-4-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6615,
+    "title": "Koi to Uso OVA",
+    "animegg_url": "https://www.animegg.org/series/koi-to-uso-ova",
+    "mal_url": "https://myanimelist.net/anime/37711",
+    "mal_id": 37711,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/95115",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-to-uso-ova-episode-1"
+      }
+    ]
   }
 ]
