@@ -107358,5 +107358,21 @@
         "url": "https://www.animegg.org/kaze-tachinu-episode"
       }
     ]
+  },
+  {
+    "serial_no": 4537,
+    "title": "Kingsglaive: Final Fantasy XV",
+    "animegg_url": "https://www.animegg.org/series/kingsglaive-final-fantasy-xv",
+    "mal_url": "https://myanimelist.net/anime/33082",
+    "mal_id": 33082,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/83718",
+        "dub": null,
+        "url": "https://www.animegg.org/kingsglaive-final-fantasy-xv-episode-1"
+      }
+    ]
   }
 ]
