@@ -20558,5 +20558,21 @@
         "url": "https://www.animegg.org/granblue-fantasy-the-animation-special-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5981,
+    "title": "Inugami-san to Nekoyama-san Special",
+    "animegg_url": "https://www.animegg.org/series/inugami-san-to-nekoyama-san-special",
+    "mal_url": "https://myanimelist.net/anime/22123",
+    "mal_id": 22123,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66282",
+        "dub": null,
+        "url": "https://www.animegg.org/inugami-san-to-nekoyama-san-special-episode-1"
+      }
+    ]
   }
 ]
