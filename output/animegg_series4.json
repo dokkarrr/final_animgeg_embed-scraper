@@ -22498,5 +22498,75 @@
         "url": "https://www.animegg.org/yami-shibai-4th-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3341,
+    "title": "Hatenkou Yugi",
+    "animegg_url": "https://www.animegg.org/series/hatenkou-yugi",
+    "mal_url": "https://myanimelist.net/anime/3298",
+    "mal_id": 3298,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/15465",
+        "dub": null,
+        "url": "https://www.animegg.org/hatenkou-yugi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/15467",
+        "dub": null,
+        "url": "https://www.animegg.org/hatenkou-yugi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/15466",
+        "dub": null,
+        "url": "https://www.animegg.org/hatenkou-yugi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/15463",
+        "dub": null,
+        "url": "https://www.animegg.org/hatenkou-yugi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/15464",
+        "dub": null,
+        "url": "https://www.animegg.org/hatenkou-yugi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/15468",
+        "dub": null,
+        "url": "https://www.animegg.org/hatenkou-yugi-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/15470",
+        "dub": null,
+        "url": "https://www.animegg.org/hatenkou-yugi-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/15469",
+        "dub": null,
+        "url": "https://www.animegg.org/hatenkou-yugi-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/15471",
+        "dub": null,
+        "url": "https://www.animegg.org/hatenkou-yugi-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/15472",
+        "dub": null,
+        "url": "https://www.animegg.org/hatenkou-yugi-episode-10"
+      }
+    ]
   }
 ]
