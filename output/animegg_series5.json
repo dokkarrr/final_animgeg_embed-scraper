@@ -18584,5 +18584,21 @@
         "url": "https://www.animegg.org/kaiketsu-zorori-movie-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5930,
+    "title": "Harbor Light Monogatari: Fashion Lala Yori",
+    "animegg_url": "https://www.animegg.org/series/harbor-light-monogatari-fashion-lala-yori",
+    "mal_url": "https://myanimelist.net/anime/3320",
+    "mal_id": 3320,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/15438",
+        "dub": null,
+        "url": "https://www.animegg.org/harbor-light-monogatari-fashion-lala-yori-episode-1"
+      }
+    ]
   }
 ]
