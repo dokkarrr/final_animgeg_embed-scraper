@@ -51074,5 +51074,87 @@
         "url": "https://www.animegg.org/uta-kata-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3693,
+    "title": "Kidou Senshi Gundam: Suisei no Majo Season 2",
+    "animegg_url": "https://www.animegg.org/series/mobile-suit-gundam-the-witch-from-mercury-season-2",
+    "mal_url": "https://myanimelist.net/anime/53199",
+    "mal_id": 53199,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/130033",
+        "dub": "https://www.animegg.org/embed/130525",
+        "url": "https://www.animegg.org/mobile-suit-gundam-the-witch-from-mercury-season-2-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/mobile-suit-gundam-the-witch-from-mercury-season-2-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/129873",
+        "dub": "https://www.animegg.org/embed/130437",
+        "url": "https://www.animegg.org/mobile-suit-gundam-the-witch-from-mercury-season-2-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/129872",
+        "dub": "https://www.animegg.org/embed/130434",
+        "url": "https://www.animegg.org/mobile-suit-gundam-the-witch-from-mercury-season-2-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/108833",
+        "dub": "https://www.animegg.org/embed/130435",
+        "url": "https://www.animegg.org/mobile-suit-gundam-the-witch-from-mercury-season-2-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/108673",
+        "dub": "https://www.animegg.org/embed/130436",
+        "url": "https://www.animegg.org/mobile-suit-gundam-the-witch-from-mercury-season-2-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/108250",
+        "dub": "https://www.animegg.org/embed/129794",
+        "url": "https://www.animegg.org/mobile-suit-gundam-the-witch-from-mercury-season-2-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/108249",
+        "dub": "https://www.animegg.org/embed/123573",
+        "url": "https://www.animegg.org/mobile-suit-gundam-the-witch-from-mercury-season-2-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/108248",
+        "dub": "https://www.animegg.org/embed/123574",
+        "url": "https://www.animegg.org/mobile-suit-gundam-the-witch-from-mercury-season-2-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/107865",
+        "dub": "https://www.animegg.org/embed/123575",
+        "url": "https://www.animegg.org/mobile-suit-gundam-the-witch-from-mercury-season-2-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/107748",
+        "dub": null,
+        "url": "https://www.animegg.org/mobile-suit-gundam-the-witch-from-mercury-season-2-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/107682",
+        "dub": "https://www.animegg.org/embed/123576",
+        "url": "https://www.animegg.org/mobile-suit-gundam-the-witch-from-mercury-season-2-episode-1"
+      }
+    ]
   }
 ]
