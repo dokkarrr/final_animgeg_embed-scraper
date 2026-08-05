@@ -72124,5 +72124,21 @@
         "url": "https://www.animegg.org/tight-rope-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 3986,
+    "title": "Kono Subarashii Sekai ni Shukufuku wo! 2 OVA",
+    "animegg_url": "https://www.animegg.org/series/kono-subarashii-sekai-ni-shukufuku-wo-2-ova",
+    "mal_url": "https://myanimelist.net/anime/34626",
+    "mal_id": 34626,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/89442",
+        "dub": null,
+        "url": "https://www.animegg.org/kono-subarashii-sekai-ni-shukufuku-wo-2-ova-episode-1"
+      }
+    ]
   }
 ]
