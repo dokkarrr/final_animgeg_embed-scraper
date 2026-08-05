@@ -100100,5 +100100,87 @@
         "url": "https://www.animegg.org/date-a-live-v-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4401,
+    "title": "Deep Insanity: The Lost Child",
+    "animegg_url": "https://www.animegg.org/series/deep-insanity-the-lost-child",
+    "mal_url": "https://myanimelist.net/anime/49292",
+    "mal_id": 49292,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/103030",
+        "dub": null,
+        "url": "https://www.animegg.org/deep-insanity-the-lost-child-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/103091",
+        "dub": null,
+        "url": "https://www.animegg.org/deep-insanity-the-lost-child-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/103155",
+        "dub": null,
+        "url": "https://www.animegg.org/deep-insanity-the-lost-child-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/103214",
+        "dub": null,
+        "url": "https://www.animegg.org/deep-insanity-the-lost-child-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/103272",
+        "dub": null,
+        "url": "https://www.animegg.org/deep-insanity-the-lost-child-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/103335",
+        "dub": null,
+        "url": "https://www.animegg.org/deep-insanity-the-lost-child-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/103394",
+        "dub": null,
+        "url": "https://www.animegg.org/deep-insanity-the-lost-child-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/103454",
+        "dub": null,
+        "url": "https://www.animegg.org/deep-insanity-the-lost-child-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/103532",
+        "dub": null,
+        "url": "https://www.animegg.org/deep-insanity-the-lost-child-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/103587",
+        "dub": null,
+        "url": "https://www.animegg.org/deep-insanity-the-lost-child-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/103643",
+        "dub": null,
+        "url": "https://www.animegg.org/deep-insanity-the-lost-child-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/103691",
+        "dub": null,
+        "url": "https://www.animegg.org/deep-insanity-the-lost-child-episode-12"
+      }
+    ]
   }
 ]
