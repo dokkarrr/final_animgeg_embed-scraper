@@ -99162,5 +99162,21 @@
         "url": "https://www.animegg.org/violet-evergarden-dub-episode-14"
       }
     ]
+  },
+  {
+    "serial_no": 6734,
+    "title": "Lupin III: The First",
+    "animegg_url": "https://www.animegg.org/series/lupin-iii-the-first",
+    "mal_url": "https://myanimelist.net/anime/40082",
+    "mal_id": 40082,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/98707",
+        "dub": null,
+        "url": "https://www.animegg.org/lupin-iii-the-first-episode-1"
+      }
+    ]
   }
 ]
