@@ -122630,5 +122630,33 @@
         "url": "https://www.animegg.org/saint-seiya-legend-of-sanctuary-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4773,
+    "title": "Mai Otome 0: S.ifr",
+    "animegg_url": "https://www.animegg.org/series/mai-otome-0-sifr",
+    "mal_url": "https://myanimelist.net/anime/3268",
+    "mal_id": 3268,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/22814",
+        "dub": null,
+        "url": "https://www.animegg.org/mai-otome-0-sifr-episode-3"
+      },
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/22816",
+        "dub": null,
+        "url": "https://www.animegg.org/mai-otome-0-sifr-episode-2"
+      },
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/22815",
+        "dub": null,
+        "url": "https://www.animegg.org/mai-otome-0-sifr-episode-1"
+      }
+    ]
   }
 ]
