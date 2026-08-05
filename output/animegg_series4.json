@@ -117302,5 +117302,93 @@
         "url": "https://www.animegg.org/maebashi-witches-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4698,
+    "title": "Getter Robo Arc",
+    "animegg_url": "https://www.animegg.org/series/getter-robo-arc",
+    "mal_url": "https://myanimelist.net/anime/43741",
+    "mal_id": 43741,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/102206",
+        "dub": null,
+        "url": "https://www.animegg.org/getter-robo-arc-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/102255",
+        "dub": null,
+        "url": "https://www.animegg.org/getter-robo-arc-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/102304",
+        "dub": null,
+        "url": "https://www.animegg.org/getter-robo-arc-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/102360",
+        "dub": null,
+        "url": "https://www.animegg.org/getter-robo-arc-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/102417",
+        "dub": null,
+        "url": "https://www.animegg.org/getter-robo-arc-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/102466",
+        "dub": null,
+        "url": "https://www.animegg.org/getter-robo-arc-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/102524",
+        "dub": null,
+        "url": "https://www.animegg.org/getter-robo-arc-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/102575",
+        "dub": null,
+        "url": "https://www.animegg.org/getter-robo-arc-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/102637",
+        "dub": null,
+        "url": "https://www.animegg.org/getter-robo-arc-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/102694",
+        "dub": null,
+        "url": "https://www.animegg.org/getter-robo-arc-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/102747",
+        "dub": null,
+        "url": "https://www.animegg.org/getter-robo-arc-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/102801",
+        "dub": null,
+        "url": "https://www.animegg.org/getter-robo-arc-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/102852",
+        "dub": null,
+        "url": "https://www.animegg.org/getter-robo-arc-episode-13"
+      }
+    ]
   }
 ]
