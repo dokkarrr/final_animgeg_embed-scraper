@@ -7427,5 +7427,21 @@
         "url": "https://www.animegg.org/puchimas-petit-petit-idolmaster-episode-74"
       }
     ]
+  },
+  {
+    "serial_no": 5728,
+    "title": "Monster Strike The Movie: Hajimari no Basho e",
+    "animegg_url": "https://www.animegg.org/series/monster-strike-the-movie-hajimari-no-basho-e",
+    "mal_url": "https://myanimelist.net/anime/33724",
+    "mal_id": 33724,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/87171",
+        "dub": null,
+        "url": "https://www.animegg.org/monster-strike-the-movie-hajimari-no-basho-e-episode-1"
+      }
+    ]
   }
 ]
