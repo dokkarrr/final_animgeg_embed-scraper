@@ -132990,5 +132990,87 @@
         "url": "https://www.animegg.org/kobayashi-san-chi-no-maid-dragon-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4927,
+    "title": "Ame-iro Cocoa: Side G",
+    "animegg_url": "https://www.animegg.org/series/ame-iro-cocoa-side-g",
+    "mal_url": "https://myanimelist.net/anime/37747",
+    "mal_id": 37747,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/94159",
+        "dub": null,
+        "url": "https://www.animegg.org/ame-iro-cocoa-side-g-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/94235",
+        "dub": null,
+        "url": "https://www.animegg.org/ame-iro-cocoa-side-g-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/94303",
+        "dub": null,
+        "url": "https://www.animegg.org/ame-iro-cocoa-side-g-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/94363",
+        "dub": null,
+        "url": "https://www.animegg.org/ame-iro-cocoa-side-g-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/94429",
+        "dub": null,
+        "url": "https://www.animegg.org/ame-iro-cocoa-side-g-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/94497",
+        "dub": null,
+        "url": "https://www.animegg.org/ame-iro-cocoa-side-g-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/94558",
+        "dub": null,
+        "url": "https://www.animegg.org/ame-iro-cocoa-side-g-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/94635",
+        "dub": null,
+        "url": "https://www.animegg.org/ame-iro-cocoa-side-g-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/94702",
+        "dub": null,
+        "url": "https://www.animegg.org/ame-iro-cocoa-side-g-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/94764",
+        "dub": null,
+        "url": "https://www.animegg.org/ame-iro-cocoa-side-g-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/94825",
+        "dub": null,
+        "url": "https://www.animegg.org/ame-iro-cocoa-side-g-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/94909",
+        "dub": null,
+        "url": "https://www.animegg.org/ame-iro-cocoa-side-g-episode-12"
+      }
+    ]
   }
 ]
