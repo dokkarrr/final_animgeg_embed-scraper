@@ -47969,5 +47969,63 @@
         "url": "https://www.animegg.org/okaimono-panda-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 6294,
+    "title": "KanColle: Itsuka Ano Umi de",
+    "animegg_url": "https://www.animegg.org/series/kancolle-itsuka-ano-umi-de",
+    "mal_url": "https://myanimelist.net/anime/30455",
+    "mal_id": 30455,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/106290",
+        "dub": null,
+        "url": "https://www.animegg.org/kancolle-itsuka-ano-umi-de-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/106349",
+        "dub": null,
+        "url": "https://www.animegg.org/kancolle-itsuka-ano-umi-de-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/106408",
+        "dub": null,
+        "url": "https://www.animegg.org/kancolle-itsuka-ano-umi-de-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/106635",
+        "dub": null,
+        "url": "https://www.animegg.org/kancolle-itsuka-ano-umi-de-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/106694",
+        "dub": null,
+        "url": "https://www.animegg.org/kancolle-itsuka-ano-umi-de-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/106919",
+        "dub": null,
+        "url": "https://www.animegg.org/kancolle-itsuka-ano-umi-de-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/107169",
+        "dub": null,
+        "url": "https://www.animegg.org/kancolle-itsuka-ano-umi-de-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/107578",
+        "dub": null,
+        "url": "https://www.animegg.org/kancolle-itsuka-ano-umi-de-episode-8"
+      }
+    ]
   }
 ]
