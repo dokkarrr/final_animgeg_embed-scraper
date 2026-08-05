@@ -69872,5 +69872,45 @@
         "url": "https://www.animegg.org/obey-me-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3948,
+    "title": "Kyo kara Maoh! R",
+    "animegg_url": "https://www.animegg.org/series/kyo-kara-maoh-r",
+    "mal_url": "https://myanimelist.net/anime/4080",
+    "mal_id": 4080,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/21104",
+        "dub": null,
+        "url": "https://www.animegg.org/kyo-kara-maoh-r-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/21100",
+        "dub": null,
+        "url": "https://www.animegg.org/kyo-kara-maoh-r-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/21102",
+        "dub": null,
+        "url": "https://www.animegg.org/kyo-kara-maoh-r-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/21103",
+        "dub": null,
+        "url": "https://www.animegg.org/kyo-kara-maoh-r-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/21101",
+        "dub": null,
+        "url": "https://www.animegg.org/kyo-kara-maoh-r-episode-5"
+      }
+    ]
   }
 ]
