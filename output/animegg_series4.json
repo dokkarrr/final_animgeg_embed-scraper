@@ -49140,5 +49140,87 @@
         "url": "https://www.animegg.org/801-tts-airbats-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3664,
+    "title": "Shoumetsu Toshi",
+    "animegg_url": "https://www.animegg.org/series/shoumetsu-toshi",
+    "mal_url": "https://myanimelist.net/anime/37952",
+    "mal_id": 37952,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/95030",
+        "dub": null,
+        "url": "https://www.animegg.org/shoumetsu-toshi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/95092",
+        "dub": null,
+        "url": "https://www.animegg.org/shoumetsu-toshi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/95148",
+        "dub": null,
+        "url": "https://www.animegg.org/shoumetsu-toshi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/95223",
+        "dub": null,
+        "url": "https://www.animegg.org/shoumetsu-toshi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/95274",
+        "dub": null,
+        "url": "https://www.animegg.org/shoumetsu-toshi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/95335",
+        "dub": null,
+        "url": "https://www.animegg.org/shoumetsu-toshi-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/95396",
+        "dub": null,
+        "url": "https://www.animegg.org/shoumetsu-toshi-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/95461",
+        "dub": null,
+        "url": "https://www.animegg.org/shoumetsu-toshi-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/95523",
+        "dub": null,
+        "url": "https://www.animegg.org/shoumetsu-toshi-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/95601",
+        "dub": null,
+        "url": "https://www.animegg.org/shoumetsu-toshi-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/95675",
+        "dub": null,
+        "url": "https://www.animegg.org/shoumetsu-toshi-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/95736",
+        "dub": null,
+        "url": "https://www.animegg.org/shoumetsu-toshi-episode-12"
+      }
+    ]
   }
 ]
