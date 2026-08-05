@@ -42849,5 +42849,21 @@
         "url": "https://www.animegg.org/sola-specials-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 6247,
+    "title": "Suite Precure♪ Movie: Torimodose! Kokoro ga Tsunaku Kiseki no Melody♪",
+    "animegg_url": "https://www.animegg.org/series/suite-precure-movie-torimodose-kokoro-ga-tsunaku-kiseki-no-melody",
+    "mal_url": "https://myanimelist.net/anime/10821",
+    "mal_id": 10821,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/62976",
+        "dub": null,
+        "url": "https://www.animegg.org/suite-precure-movie-torimodose-kokoro-ga-tsunaku-kiseki-no-melody-episode-1"
+      }
+    ]
   }
 ]
