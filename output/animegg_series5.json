@@ -35418,5 +35418,21 @@
         "url": "https://www.animegg.org/zhen-hun-jie-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 6180,
+    "title": "Ojisan to Marshmallow Special",
+    "animegg_url": "https://www.animegg.org/series/ojisan-to-marshmallow-special",
+    "mal_url": "https://myanimelist.net/anime/31848",
+    "mal_id": 31848,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/81976",
+        "dub": null,
+        "url": "https://www.animegg.org/ojisan-to-marshmallow-special-episode-1"
+      }
+    ]
   }
 ]
