@@ -54897,5 +54897,33 @@
         "url": "https://www.animegg.org/natsu-e-no-tunnel-sayonara-no-deguchi-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6354,
+    "title": "Otona no Bouguya-san (Rimen)",
+    "animegg_url": "https://www.animegg.org/series/otona-no-bouguya-san-rimen",
+    "mal_url": "https://myanimelist.net/anime/39325",
+    "mal_id": 39325,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/94830",
+        "dub": null,
+        "url": "https://www.animegg.org/otona-no-bouguya-san-rimen-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/94831",
+        "dub": null,
+        "url": "https://www.animegg.org/otona-no-bouguya-san-rimen-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/94906",
+        "dub": null,
+        "url": "https://www.animegg.org/otona-no-bouguya-san-rimen-episode-3"
+      }
+    ]
   }
 ]
