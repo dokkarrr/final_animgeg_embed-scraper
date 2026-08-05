@@ -30946,5 +30946,21 @@
         "url": "https://www.animegg.org/kizumonogatari-i-tekketsu-hen-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3440,
+    "title": "Hakuouki Movie 2: Shikon Soukyuu",
+    "animegg_url": "https://www.animegg.org/series/hakuouki-movie-2-shikon-soukyuu",
+    "mal_url": "https://myanimelist.net/anime/13119",
+    "mal_id": 13119,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/67812",
+        "dub": "https://www.animegg.org/embed/74958",
+        "url": "https://www.animegg.org/hakuouki-movie-2-shikon-soukyuu-episode-1"
+      }
+    ]
   }
 ]
