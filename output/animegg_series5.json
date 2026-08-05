@@ -29162,5 +29162,21 @@
         "url": "https://www.animegg.org/hamtaro-ova-002-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6101,
+    "title": "Mobile Suit Gundam NT",
+    "animegg_url": "https://www.animegg.org/series/mobile-suit-gundam-nt",
+    "mal_url": "https://myanimelist.net/anime/37764",
+    "mal_id": 37764,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/95742",
+        "dub": "https://www.animegg.org/embed/108095",
+        "url": "https://www.animegg.org/mobile-suit-gundam-nt-episode-1"
+      }
+    ]
   }
 ]
