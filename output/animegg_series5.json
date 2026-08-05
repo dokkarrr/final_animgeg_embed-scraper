@@ -7969,5 +7969,93 @@
         "url": "https://www.animegg.org/munto-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5742,
+    "title": "Wind: A Breath of Heart",
+    "animegg_url": "https://www.animegg.org/series/wind-a-breath-of-heart",
+    "mal_url": "https://myanimelist.net/anime/2015",
+    "mal_id": 2015,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/63789",
+        "dub": null,
+        "url": "https://www.animegg.org/wind-a-breath-of-heart-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/63790",
+        "dub": null,
+        "url": "https://www.animegg.org/wind-a-breath-of-heart-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/63791",
+        "dub": null,
+        "url": "https://www.animegg.org/wind-a-breath-of-heart-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/114086",
+        "dub": null,
+        "url": "https://www.animegg.org/wind-a-breath-of-heart-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/114085",
+        "dub": null,
+        "url": "https://www.animegg.org/wind-a-breath-of-heart-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/114084",
+        "dub": null,
+        "url": "https://www.animegg.org/wind-a-breath-of-heart-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/114082",
+        "dub": null,
+        "url": "https://www.animegg.org/wind-a-breath-of-heart-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/114081",
+        "dub": null,
+        "url": "https://www.animegg.org/wind-a-breath-of-heart-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/114083",
+        "dub": null,
+        "url": "https://www.animegg.org/wind-a-breath-of-heart-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/114090",
+        "dub": null,
+        "url": "https://www.animegg.org/wind-a-breath-of-heart-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/114089",
+        "dub": null,
+        "url": "https://www.animegg.org/wind-a-breath-of-heart-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/114088",
+        "dub": null,
+        "url": "https://www.animegg.org/wind-a-breath-of-heart-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/114087",
+        "dub": null,
+        "url": "https://www.animegg.org/wind-a-breath-of-heart-episode-13"
+      }
+    ]
   }
 ]
