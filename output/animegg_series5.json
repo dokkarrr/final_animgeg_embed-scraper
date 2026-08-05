@@ -80777,5 +80777,21 @@
         "url": "https://www.animegg.org/hana-no-mahoutsukai-mary-bell-episode-50"
       }
     ]
+  },
+  {
+    "serial_no": 6577,
+    "title": "Urusei Yatsura Movie 3: Remember My Love",
+    "animegg_url": "https://www.animegg.org/series/urusei-yatsura-movie-3-remember-my-love",
+    "mal_url": "https://myanimelist.net/anime/1922",
+    "mal_id": 1922,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/64957",
+        "dub": null,
+        "url": "https://www.animegg.org/urusei-yatsura-movie-3-remember-my-love-episode-1"
+      }
+    ]
   }
 ]
