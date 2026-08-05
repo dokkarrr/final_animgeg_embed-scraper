@@ -20966,5 +20966,87 @@
         "url": "https://www.animegg.org/keishichou-tokumubu-tokushu-kyouakuhan-taisakushitsu-dainanaka-tokunana-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3321,
+    "title": "Sounan Desu ka?",
+    "animegg_url": "https://www.animegg.org/series/sounan-desu-ka",
+    "mal_url": "https://myanimelist.net/anime/39456",
+    "mal_id": 39456,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/95787",
+        "dub": "https://www.animegg.org/embed/95803",
+        "url": "https://www.animegg.org/sounan-desu-ka-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/95867",
+        "dub": null,
+        "url": "https://www.animegg.org/sounan-desu-ka-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/95945",
+        "dub": null,
+        "url": "https://www.animegg.org/sounan-desu-ka-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/96009",
+        "dub": null,
+        "url": "https://www.animegg.org/sounan-desu-ka-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/96066",
+        "dub": null,
+        "url": "https://www.animegg.org/sounan-desu-ka-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/96124",
+        "dub": null,
+        "url": "https://www.animegg.org/sounan-desu-ka-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/96184",
+        "dub": null,
+        "url": "https://www.animegg.org/sounan-desu-ka-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/96244",
+        "dub": null,
+        "url": "https://www.animegg.org/sounan-desu-ka-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/96307",
+        "dub": null,
+        "url": "https://www.animegg.org/sounan-desu-ka-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/96363",
+        "dub": null,
+        "url": "https://www.animegg.org/sounan-desu-ka-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/96423",
+        "dub": null,
+        "url": "https://www.animegg.org/sounan-desu-ka-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/96479",
+        "dub": null,
+        "url": "https://www.animegg.org/sounan-desu-ka-episode-12"
+      }
+    ]
   }
 ]
