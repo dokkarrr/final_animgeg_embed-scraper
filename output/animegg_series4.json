@@ -97266,5 +97266,81 @@
         "url": "https://www.animegg.org/kodomo-no-jikan-ni-gakki-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 4372,
+    "title": "Kaiju no 8 season 2",
+    "animegg_url": "https://www.animegg.org/series/kaiju-no-8-season-2",
+    "mal_url": "https://myanimelist.net/anime/59177",
+    "mal_id": 59177,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/142724",
+        "dub": null,
+        "url": "https://www.animegg.org/kaiju-no-8-season-2-episode-11"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/142647",
+        "dub": null,
+        "url": "https://www.animegg.org/kaiju-no-8-season-2-episode-10"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/142561",
+        "dub": null,
+        "url": "https://www.animegg.org/kaiju-no-8-season-2-episode-9"
+      },
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kaiju-no-8-season-2-episode-8"
+      },
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kaiju-no-8-season-2-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/142377",
+        "dub": "https://www.animegg.org/embed/142381",
+        "url": "https://www.animegg.org/kaiju-no-8-season-2-episode-6"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/142265",
+        "dub": "https://www.animegg.org/embed/142274",
+        "url": "https://www.animegg.org/kaiju-no-8-season-2-episode-5"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/142146",
+        "dub": "https://www.animegg.org/embed/142147",
+        "url": "https://www.animegg.org/kaiju-no-8-season-2-episode-4"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/142030",
+        "dub": "https://www.animegg.org/embed/142031",
+        "url": "https://www.animegg.org/kaiju-no-8-season-2-episode-3"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/141906",
+        "dub": null,
+        "url": "https://www.animegg.org/kaiju-no-8-season-2-episode-2"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/141808",
+        "dub": null,
+        "url": "https://www.animegg.org/kaiju-no-8-season-2-episode-1"
+      }
+    ]
   }
 ]
