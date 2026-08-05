@@ -36220,5 +36220,87 @@
         "url": "https://www.animegg.org/meikyuu-black-company-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3488,
+    "title": "Planet With",
+    "animegg_url": "https://www.animegg.org/series/planet-with",
+    "mal_url": "https://myanimelist.net/anime/37578",
+    "mal_id": 37578,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/91785",
+        "dub": null,
+        "url": "https://www.animegg.org/planet-with-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/91861",
+        "dub": null,
+        "url": "https://www.animegg.org/planet-with-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/91988",
+        "dub": null,
+        "url": "https://www.animegg.org/planet-with-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/92077",
+        "dub": null,
+        "url": "https://www.animegg.org/planet-with-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/92189",
+        "dub": null,
+        "url": "https://www.animegg.org/planet-with-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/92266",
+        "dub": null,
+        "url": "https://www.animegg.org/planet-with-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/92426",
+        "dub": null,
+        "url": "https://www.animegg.org/planet-with-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/92606",
+        "dub": null,
+        "url": "https://www.animegg.org/planet-with-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/92731",
+        "dub": null,
+        "url": "https://www.animegg.org/planet-with-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/92803",
+        "dub": null,
+        "url": "https://www.animegg.org/planet-with-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/92880",
+        "dub": null,
+        "url": "https://www.animegg.org/planet-with-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/92985",
+        "dub": null,
+        "url": "https://www.animegg.org/planet-with-episode-12"
+      }
+    ]
   }
 ]
