@@ -126952,5 +126952,63 @@
         "url": "https://www.animegg.org/pokemon-3-the-movie---spell-of-the-unown-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4832,
+    "title": "Watashi no Oshi wa Akuyaku Reijou.",
+    "animegg_url": "https://www.animegg.org/series/watashi-no-oshi-wa-akuyaku-reijou",
+    "mal_url": "https://myanimelist.net/anime/53833",
+    "mal_id": 53833,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/131568",
+        "dub": "https://www.animegg.org/embed/131571",
+        "url": "https://www.animegg.org/watashi-no-oshi-wa-akuyaku-reijou-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/131698",
+        "dub": "https://www.animegg.org/embed/131699",
+        "url": "https://www.animegg.org/watashi-no-oshi-wa-akuyaku-reijou-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/131812",
+        "dub": "https://www.animegg.org/embed/131813",
+        "url": "https://www.animegg.org/watashi-no-oshi-wa-akuyaku-reijou-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/watashi-no-oshi-wa-akuyaku-reijou-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/watashi-no-oshi-wa-akuyaku-reijou-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/132118",
+        "dub": null,
+        "url": "https://www.animegg.org/watashi-no-oshi-wa-akuyaku-reijou-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/watashi-no-oshi-wa-akuyaku-reijou-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/132317",
+        "dub": "https://www.animegg.org/embed/132319",
+        "url": "https://www.animegg.org/watashi-no-oshi-wa-akuyaku-reijou-episode-8"
+      }
+    ]
   }
 ]
