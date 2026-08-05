@@ -32046,5 +32046,21 @@
         "url": "https://www.animegg.org/baki-the-grappler-dub-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 6135,
+    "title": "CHUUNIBYOU DEMO KOI GA SHITAI! MOVIE: TAKE ON ME",
+    "animegg_url": "https://www.animegg.org/series/chuunibyou-demo-koi-ga-shitai-movie-take-on-me",
+    "mal_url": "https://myanimelist.net/anime/35608",
+    "mal_id": 35608,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/91921",
+        "dub": "https://www.animegg.org/embed/92029",
+        "url": "https://www.animegg.org/chuunibyou-demo-koi-ga-shitai-movie-take-on-me-episode-1"
+      }
+    ]
   }
 ]
