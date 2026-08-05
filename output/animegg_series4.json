@@ -18346,5 +18346,93 @@
         "url": "https://www.animegg.org/soultaker-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3287,
+    "title": "Sugar Apple Fairy Tale",
+    "animegg_url": "https://www.animegg.org/series/sugar-apple-fairy-tale-dub",
+    "mal_url": "https://myanimelist.net/anime/49980",
+    "mal_id": 49980,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/sugar-apple-fairy-tale-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/117589",
+        "dub": "https://www.animegg.org/embed/130483",
+        "url": "https://www.animegg.org/sugar-apple-fairy-tale-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/sugar-apple-fairy-tale-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/sugar-apple-fairy-tale-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/sugar-apple-fairy-tale-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/sugar-apple-fairy-tale-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/117588",
+        "dub": "https://www.animegg.org/embed/130482",
+        "url": "https://www.animegg.org/sugar-apple-fairy-tale-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/sugar-apple-fairy-tale-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/117587",
+        "dub": "https://www.animegg.org/embed/130481",
+        "url": "https://www.animegg.org/sugar-apple-fairy-tale-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/sugar-apple-fairy-tale-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/sugar-apple-fairy-tale-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/117590",
+        "dub": "https://www.animegg.org/embed/130485",
+        "url": "https://www.animegg.org/sugar-apple-fairy-tale-dub-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/130484",
+        "dub": null,
+        "url": "https://www.animegg.org/sugar-apple-fairy-tale-dub-episode-13"
+      }
+    ]
   }
 ]
