@@ -113730,5 +113730,93 @@
         "url": "https://www.animegg.org/vanitas-no-carte-2nd-season-episode-00"
       }
     ]
+  },
+  {
+    "serial_no": 4645,
+    "title": "Ooi! Tonbo",
+    "animegg_url": "https://www.animegg.org/series/ooi-tonbo",
+    "mal_url": "https://myanimelist.net/anime/55194",
+    "mal_id": 55194,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ooi-tonbo-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/133623",
+        "dub": null,
+        "url": "https://www.animegg.org/ooi-tonbo-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/133708",
+        "dub": null,
+        "url": "https://www.animegg.org/ooi-tonbo-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/133795",
+        "dub": null,
+        "url": "https://www.animegg.org/ooi-tonbo-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/133951",
+        "dub": null,
+        "url": "https://www.animegg.org/ooi-tonbo-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/134068",
+        "dub": null,
+        "url": "https://www.animegg.org/ooi-tonbo-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/134235",
+        "dub": null,
+        "url": "https://www.animegg.org/ooi-tonbo-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/134441",
+        "dub": null,
+        "url": "https://www.animegg.org/ooi-tonbo-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/134574",
+        "dub": null,
+        "url": "https://www.animegg.org/ooi-tonbo-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/134747",
+        "dub": "https://www.animegg.org/embed/134756",
+        "url": "https://www.animegg.org/ooi-tonbo-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/134905",
+        "dub": "https://www.animegg.org/embed/134906",
+        "url": "https://www.animegg.org/ooi-tonbo-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/135058",
+        "dub": null,
+        "url": "https://www.animegg.org/ooi-tonbo-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/135182",
+        "dub": null,
+        "url": "https://www.animegg.org/ooi-tonbo-episode-13"
+      }
+    ]
   }
 ]
