@@ -76110,5 +76110,87 @@
         "url": "https://www.animegg.org/city-the-animation-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 4054,
+    "title": "Strike Witches: Road to Berlin",
+    "animegg_url": "https://www.animegg.org/series/strike-witches-road-to-berlin",
+    "mal_url": "https://myanimelist.net/anime/38005",
+    "mal_id": 38005,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/99477",
+        "dub": null,
+        "url": "https://www.animegg.org/strike-witches-road-to-berlin-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/99619",
+        "dub": null,
+        "url": "https://www.animegg.org/strike-witches-road-to-berlin-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/99709",
+        "dub": null,
+        "url": "https://www.animegg.org/strike-witches-road-to-berlin-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/99774",
+        "dub": null,
+        "url": "https://www.animegg.org/strike-witches-road-to-berlin-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/99843",
+        "dub": null,
+        "url": "https://www.animegg.org/strike-witches-road-to-berlin-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/99915",
+        "dub": null,
+        "url": "https://www.animegg.org/strike-witches-road-to-berlin-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/99979",
+        "dub": null,
+        "url": "https://www.animegg.org/strike-witches-road-to-berlin-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/100045",
+        "dub": null,
+        "url": "https://www.animegg.org/strike-witches-road-to-berlin-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/100114",
+        "dub": null,
+        "url": "https://www.animegg.org/strike-witches-road-to-berlin-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/100206",
+        "dub": null,
+        "url": "https://www.animegg.org/strike-witches-road-to-berlin-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/100271",
+        "dub": null,
+        "url": "https://www.animegg.org/strike-witches-road-to-berlin-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/100333",
+        "dub": null,
+        "url": "https://www.animegg.org/strike-witches-road-to-berlin-episode-12"
+      }
+    ]
   }
 ]
