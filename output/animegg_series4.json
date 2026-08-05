@@ -71386,5 +71386,69 @@
         "url": "https://www.animegg.org/ranma-2024-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3974,
+    "title": "Robot Carnival",
+    "animegg_url": "https://www.animegg.org/series/robot-carnival",
+    "mal_url": "https://myanimelist.net/anime/2182",
+    "mal_id": 2182,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/61877",
+        "dub": null,
+        "url": "https://www.animegg.org/robot-carnival-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/61878",
+        "dub": null,
+        "url": "https://www.animegg.org/robot-carnival-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/61879",
+        "dub": null,
+        "url": "https://www.animegg.org/robot-carnival-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/61880",
+        "dub": null,
+        "url": "https://www.animegg.org/robot-carnival-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/61881",
+        "dub": null,
+        "url": "https://www.animegg.org/robot-carnival-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/61882",
+        "dub": null,
+        "url": "https://www.animegg.org/robot-carnival-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/61883",
+        "dub": null,
+        "url": "https://www.animegg.org/robot-carnival-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/61884",
+        "dub": null,
+        "url": "https://www.animegg.org/robot-carnival-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/61885",
+        "dub": null,
+        "url": "https://www.animegg.org/robot-carnival-episode-9"
+      }
+    ]
   }
 ]
