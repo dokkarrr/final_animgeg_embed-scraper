@@ -106824,5 +106824,33 @@
         "url": "https://www.animegg.org/yondemasu-yo-azazel-san-ova-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 4525,
+    "title": "Wotaku ni Koi wa Muzukashii: Youth",
+    "animegg_url": "https://www.animegg.org/series/wotaku-ni-koi-wa-muzukashii-youth",
+    "mal_url": "https://myanimelist.net/anime/38349",
+    "mal_id": 38349,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/95309",
+        "dub": null,
+        "url": "https://www.animegg.org/wotaku-ni-koi-wa-muzukashii-youth-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/101150",
+        "dub": null,
+        "url": "https://www.animegg.org/wotaku-ni-koi-wa-muzukashii-youth-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/103151",
+        "dub": null,
+        "url": "https://www.animegg.org/wotaku-ni-koi-wa-muzukashii-youth-episode-3"
+      }
+    ]
   }
 ]
