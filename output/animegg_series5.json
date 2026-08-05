@@ -60257,5 +60257,27 @@
         "url": "https://www.animegg.org/thunderbolt-fantasy-movie-the-sword-of-life-and-death-episode-70"
       }
     ]
+  },
+  {
+    "serial_no": 6404,
+    "title": "Golden Kamuy 2nd Season OVA",
+    "animegg_url": "https://www.animegg.org/series/golden-kamuy-2nd-season-ova",
+    "mal_url": "https://myanimelist.net/anime/38710",
+    "mal_id": 38710,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/96853",
+        "dub": null,
+        "url": "https://www.animegg.org/golden-kamuy-2nd-season-ova-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/96852",
+        "dub": null,
+        "url": "https://www.animegg.org/golden-kamuy-2nd-season-ova-episode-1"
+      }
+    ]
   }
 ]
