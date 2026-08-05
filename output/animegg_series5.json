@@ -66325,5 +66325,51 @@
         "url": "https://www.animegg.org/xing-wu-shen-jue-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6463,
+    "title": "Yasuke",
+    "animegg_url": "https://www.animegg.org/series/yasuke",
+    "mal_url": "https://myanimelist.net/anime/43697",
+    "mal_id": 43697,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/101561",
+        "dub": null,
+        "url": "https://www.animegg.org/yasuke-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/111817",
+        "dub": null,
+        "url": "https://www.animegg.org/yasuke-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/111816",
+        "dub": null,
+        "url": "https://www.animegg.org/yasuke-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/111815",
+        "dub": null,
+        "url": "https://www.animegg.org/yasuke-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/111814",
+        "dub": null,
+        "url": "https://www.animegg.org/yasuke-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/101562",
+        "dub": null,
+        "url": "https://www.animegg.org/yasuke-episode-6"
+      }
+    ]
   }
 ]
