@@ -107527,5 +107527,81 @@
         "url": "https://www.animegg.org/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-season-2-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 6799,
+    "title": "Zenshuu.",
+    "animegg_url": "https://www.animegg.org/series/zenshuu",
+    "mal_url": "https://myanimelist.net/anime/58502",
+    "mal_id": 58502,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/139373",
+        "dub": null,
+        "url": "https://www.animegg.org/zenshuu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/139466",
+        "dub": null,
+        "url": "https://www.animegg.org/zenshuu-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/139490",
+        "dub": null,
+        "url": "https://www.animegg.org/zenshuu-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/139602",
+        "dub": null,
+        "url": "https://www.animegg.org/zenshuu-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/139704",
+        "dub": null,
+        "url": "https://www.animegg.org/zenshuu-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/139783",
+        "dub": null,
+        "url": "https://www.animegg.org/zenshuu-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/139884",
+        "dub": null,
+        "url": "https://www.animegg.org/zenshuu-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/139985",
+        "dub": null,
+        "url": "https://www.animegg.org/zenshuu-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/140078",
+        "dub": null,
+        "url": "https://www.animegg.org/zenshuu-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/140163",
+        "dub": null,
+        "url": "https://www.animegg.org/zenshuu-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/140247",
+        "dub": null,
+        "url": "https://www.animegg.org/zenshuu-episode-12"
+      }
+    ]
   }
 ]
