@@ -5602,5 +5602,87 @@
         "url": "https://www.animegg.org/ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 3146,
+    "title": "Amanchu! Advance",
+    "animegg_url": "https://www.animegg.org/series/amanchu-advance",
+    "mal_url": "https://myanimelist.net/anime/36800",
+    "mal_id": 36800,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/90672",
+        "dub": null,
+        "url": "https://www.animegg.org/amanchu-advance-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/90774",
+        "dub": null,
+        "url": "https://www.animegg.org/amanchu-advance-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/90853",
+        "dub": null,
+        "url": "https://www.animegg.org/amanchu-advance-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/90948",
+        "dub": null,
+        "url": "https://www.animegg.org/amanchu-advance-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/91047",
+        "dub": null,
+        "url": "https://www.animegg.org/amanchu-advance-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/91131",
+        "dub": null,
+        "url": "https://www.animegg.org/amanchu-advance-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/91214",
+        "dub": null,
+        "url": "https://www.animegg.org/amanchu-advance-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/91296",
+        "dub": null,
+        "url": "https://www.animegg.org/amanchu-advance-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/91383",
+        "dub": null,
+        "url": "https://www.animegg.org/amanchu-advance-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/91469",
+        "dub": null,
+        "url": "https://www.animegg.org/amanchu-advance-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/91549",
+        "dub": null,
+        "url": "https://www.animegg.org/amanchu-advance-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/91632",
+        "dub": null,
+        "url": "https://www.animegg.org/amanchu-advance-episode-12"
+      }
+    ]
   }
 ]
