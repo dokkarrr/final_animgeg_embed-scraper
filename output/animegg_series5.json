@@ -32926,5 +32926,69 @@
         "url": "https://www.animegg.org/higashi-no-eden-air-communication-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6145,
+    "title": "Star Wars: Visions",
+    "animegg_url": "https://www.animegg.org/series/star-wars-visions",
+    "mal_url": "https://myanimelist.net/anime/49357",
+    "mal_id": 49357,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/102815",
+        "dub": null,
+        "url": "https://www.animegg.org/star-wars-visions-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/102856",
+        "dub": null,
+        "url": "https://www.animegg.org/star-wars-visions-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/102857",
+        "dub": null,
+        "url": "https://www.animegg.org/star-wars-visions-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/102858",
+        "dub": null,
+        "url": "https://www.animegg.org/star-wars-visions-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/102859",
+        "dub": null,
+        "url": "https://www.animegg.org/star-wars-visions-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/102860",
+        "dub": null,
+        "url": "https://www.animegg.org/star-wars-visions-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/102861",
+        "dub": null,
+        "url": "https://www.animegg.org/star-wars-visions-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/102862",
+        "dub": null,
+        "url": "https://www.animegg.org/star-wars-visions-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/102816",
+        "dub": null,
+        "url": "https://www.animegg.org/star-wars-visions-episode-9"
+      }
+    ]
   }
 ]
