@@ -50976,5 +50976,21 @@
         "url": "https://www.animegg.org/gundam-wing-endless-waltz-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 3691,
+    "title": "Kuroko no Basket: 41.5Q",
+    "animegg_url": "https://www.animegg.org/series/kuroko-no-basket-415q",
+    "mal_url": "https://myanimelist.net/anime/22125",
+    "mal_id": 22125,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 41,
+        "sub": "https://www.animegg.org/embed/54814",
+        "dub": null,
+        "url": "https://www.animegg.org/kuroko-no-basket-415q-episode-1"
+      }
+    ]
   }
 ]
