@@ -72140,5 +72140,87 @@
         "url": "https://www.animegg.org/kono-subarashii-sekai-ni-shukufuku-wo-2-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3987,
+    "title": "Urasekai Picnic",
+    "animegg_url": "https://www.animegg.org/series/urasekai-picnic",
+    "mal_url": "https://myanimelist.net/anime/41392",
+    "mal_id": 41392,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/100406",
+        "dub": null,
+        "url": "https://www.animegg.org/urasekai-picnic-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/100471",
+        "dub": null,
+        "url": "https://www.animegg.org/urasekai-picnic-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/100570",
+        "dub": null,
+        "url": "https://www.animegg.org/urasekai-picnic-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/100644",
+        "dub": null,
+        "url": "https://www.animegg.org/urasekai-picnic-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/100718",
+        "dub": null,
+        "url": "https://www.animegg.org/urasekai-picnic-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/100787",
+        "dub": null,
+        "url": "https://www.animegg.org/urasekai-picnic-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/100858",
+        "dub": null,
+        "url": "https://www.animegg.org/urasekai-picnic-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/100933",
+        "dub": null,
+        "url": "https://www.animegg.org/urasekai-picnic-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/101011",
+        "dub": null,
+        "url": "https://www.animegg.org/urasekai-picnic-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/101081",
+        "dub": null,
+        "url": "https://www.animegg.org/urasekai-picnic-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/101154",
+        "dub": null,
+        "url": "https://www.animegg.org/urasekai-picnic-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/101223",
+        "dub": null,
+        "url": "https://www.animegg.org/urasekai-picnic-episode-12"
+      }
+    ]
   }
 ]
