@@ -9813,5 +9813,21 @@
         "url": "https://www.animegg.org/yi-nian-yong-heng-chuan-cheng-pian-episode-50"
       }
     ]
+  },
+  {
+    "serial_no": 5768,
+    "title": "Harukanaru Toki no Naka de: Maihitoyo",
+    "animegg_url": "https://www.animegg.org/series/harukanaru-toki-no-naka-de-maihitoyo",
+    "mal_url": "https://myanimelist.net/anime/1906",
+    "mal_id": 1906,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/53316",
+        "dub": null,
+        "url": "https://www.animegg.org/harukanaru-toki-no-naka-de-maihitoyo-episode-1"
+      }
+    ]
   }
 ]
