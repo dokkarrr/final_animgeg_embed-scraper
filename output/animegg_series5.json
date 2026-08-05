@@ -17814,5 +17814,21 @@
         "url": "https://www.animegg.org/sukeban-deka-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 5916,
+    "title": "Precure All Stars New Stage 2: Kokoro no Tomodachi",
+    "animegg_url": "https://www.animegg.org/series/precure-all-stars-new-stage-2-kokoro-no-tomodachi",
+    "mal_url": "https://myanimelist.net/anime/16442",
+    "mal_id": 16442,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/60552",
+        "dub": null,
+        "url": "https://www.animegg.org/precure-all-stars-new-stage-2-kokoro-no-tomodachi-episode-1"
+      }
+    ]
   }
 ]
