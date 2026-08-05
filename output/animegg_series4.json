@@ -66358,5 +66358,51 @@
         "url": "https://www.animegg.org/usavich-iii-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3899,
+    "title": "Zoku Owarimonogatari",
+    "animegg_url": "https://www.animegg.org/series/zoku-owarimonogatari",
+    "mal_url": "https://myanimelist.net/anime/36999",
+    "mal_id": 36999,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/94667",
+        "dub": null,
+        "url": "https://www.animegg.org/zoku-owarimonogatari-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/94716",
+        "dub": null,
+        "url": "https://www.animegg.org/zoku-owarimonogatari-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/94718",
+        "dub": null,
+        "url": "https://www.animegg.org/zoku-owarimonogatari-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/94940",
+        "dub": null,
+        "url": "https://www.animegg.org/zoku-owarimonogatari-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/94991",
+        "dub": null,
+        "url": "https://www.animegg.org/zoku-owarimonogatari-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/95018",
+        "dub": null,
+        "url": "https://www.animegg.org/zoku-owarimonogatari-episode-6"
+      }
+    ]
   }
 ]
