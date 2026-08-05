@@ -25796,5 +25796,87 @@
         "url": "https://www.animegg.org/hurricane-polymar-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3372,
+    "title": "Oniichan wa Oshimai!",
+    "animegg_url": "https://www.animegg.org/series/oniichan-wa-oshimai",
+    "mal_url": "https://myanimelist.net/anime/51678",
+    "mal_id": 51678,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/106737",
+        "dub": null,
+        "url": "https://www.animegg.org/oniichan-wa-oshimai-episode-1-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/106843",
+        "dub": null,
+        "url": "https://www.animegg.org/oniichan-wa-oshimai-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/106916",
+        "dub": null,
+        "url": "https://www.animegg.org/oniichan-wa-oshimai-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/106987",
+        "dub": null,
+        "url": "https://www.animegg.org/oniichan-wa-oshimai-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/107061",
+        "dub": null,
+        "url": "https://www.animegg.org/oniichan-wa-oshimai-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/107122",
+        "dub": null,
+        "url": "https://www.animegg.org/oniichan-wa-oshimai-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/107240",
+        "dub": null,
+        "url": "https://www.animegg.org/oniichan-wa-oshimai-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/107302",
+        "dub": null,
+        "url": "https://www.animegg.org/oniichan-wa-oshimai-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/107371",
+        "dub": null,
+        "url": "https://www.animegg.org/oniichan-wa-oshimai-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/107438",
+        "dub": null,
+        "url": "https://www.animegg.org/oniichan-wa-oshimai-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/107501",
+        "dub": null,
+        "url": "https://www.animegg.org/oniichan-wa-oshimai-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/107562",
+        "dub": null,
+        "url": "https://www.animegg.org/oniichan-wa-oshimai-episode-12"
+      }
+    ]
   }
 ]
