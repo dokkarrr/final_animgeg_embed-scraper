@@ -125364,5 +125364,87 @@
         "url": "https://www.animegg.org/wonder-momo-episode-5"
       }
     ]
+  },
+  {
+    "serial_no": 4807,
+    "title": "Call of the night season 2",
+    "animegg_url": "https://www.animegg.org/series/call-of-the-night-season-2",
+    "mal_url": "https://myanimelist.net/anime/58390",
+    "mal_id": 58390,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/143451",
+        "dub": null,
+        "url": "https://www.animegg.org/call-of-the-night-season-2-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/143408",
+        "dub": null,
+        "url": "https://www.animegg.org/call-of-the-night-season-2-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/143239",
+        "dub": null,
+        "url": "https://www.animegg.org/call-of-the-night-season-2-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/143146",
+        "dub": null,
+        "url": "https://www.animegg.org/call-of-the-night-season-2-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/143031",
+        "dub": null,
+        "url": "https://www.animegg.org/call-of-the-night-season-2-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/142933",
+        "dub": null,
+        "url": "https://www.animegg.org/call-of-the-night-season-2-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/142855",
+        "dub": null,
+        "url": "https://www.animegg.org/call-of-the-night-season-2-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/142769",
+        "dub": null,
+        "url": "https://www.animegg.org/call-of-the-night-season-2-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/142692",
+        "dub": null,
+        "url": "https://www.animegg.org/call-of-the-night-season-2-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/142611",
+        "dub": null,
+        "url": "https://www.animegg.org/call-of-the-night-season-2-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/142501",
+        "dub": null,
+        "url": "https://www.animegg.org/call-of-the-night-season-2-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/142441",
+        "dub": null,
+        "url": "https://www.animegg.org/call-of-the-night-season-2-episode-1"
+      }
+    ]
   }
 ]
