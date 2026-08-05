@@ -83240,5 +83240,21 @@
         "url": "https://www.animegg.org/tetsujin-28-morning-moon-of-mid-day-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6608,
+    "title": "Kyochuu Rettou Movie",
+    "animegg_url": "https://www.animegg.org/series/kyochuu-rettou-movie",
+    "mal_url": "https://myanimelist.net/anime/40332",
+    "mal_id": 40332,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/97490",
+        "dub": null,
+        "url": "https://www.animegg.org/kyochuu-rettou-movie-episode-1"
+      }
+    ]
   }
 ]
