@@ -19760,5 +19760,21 @@
         "url": "https://www.animegg.org/haiyoru-nyaruani-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 3306,
+    "title": "Papa datte, Shitai",
+    "animegg_url": "https://www.animegg.org/series/papa-datte-shitai",
+    "mal_url": "https://myanimelist.net/anime/38797",
+    "mal_id": 38797,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/94145",
+        "dub": "https://www.animegg.org/embed/94224",
+        "url": "https://www.animegg.org/papa-datte-shitai-episode-1"
+      }
+    ]
   }
 ]
