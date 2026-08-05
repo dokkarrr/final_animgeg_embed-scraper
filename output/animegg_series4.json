@@ -79260,5 +79260,87 @@
         "url": "https://www.animegg.org/working-lord-of-the-takanashi-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4108,
+    "title": "Ayaka",
+    "animegg_url": "https://www.animegg.org/series/ayaka",
+    "mal_url": "https://myanimelist.net/anime/53428",
+    "mal_id": 53428,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/130305",
+        "dub": "https://www.animegg.org/embed/130326",
+        "url": "https://www.animegg.org/ayaka-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/130307",
+        "dub": "https://www.animegg.org/embed/130538",
+        "url": "https://www.animegg.org/ayaka-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/130306",
+        "dub": "https://www.animegg.org/embed/130686",
+        "url": "https://www.animegg.org/ayaka-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/130508",
+        "dub": "https://www.animegg.org/embed/130805",
+        "url": "https://www.animegg.org/ayaka-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/130677",
+        "dub": "https://www.animegg.org/embed/130899",
+        "url": "https://www.animegg.org/ayaka-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/130798",
+        "dub": "https://www.animegg.org/embed/130980",
+        "url": "https://www.animegg.org/ayaka-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/130893",
+        "dub": "https://www.animegg.org/embed/131069",
+        "url": "https://www.animegg.org/ayaka-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/130972",
+        "dub": "https://www.animegg.org/embed/131165",
+        "url": "https://www.animegg.org/ayaka-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/131062",
+        "dub": "https://www.animegg.org/embed/131270",
+        "url": "https://www.animegg.org/ayaka-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/131155",
+        "dub": "https://www.animegg.org/embed/131364",
+        "url": "https://www.animegg.org/ayaka-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/131262",
+        "dub": "https://www.animegg.org/embed/131472",
+        "url": "https://www.animegg.org/ayaka-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ayaka-episode-12"
+      }
+    ]
   }
 ]
