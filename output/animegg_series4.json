@@ -104280,5 +104280,27 @@
         "url": "https://www.animegg.org/nijiiro-prism-girl-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 4480,
+    "title": "InuYasha The Movie: Affections Touching Across Time",
+    "animegg_url": "https://www.animegg.org/series/inuyasha-the-movie-affections-touching-across-time",
+    "mal_url": "https://myanimelist.net/anime/452",
+    "mal_id": 452,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/54050",
+        "dub": null,
+        "url": "https://www.animegg.org/inuyasha-the-movie-affections-touching-across-time-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/54051",
+        "dub": null,
+        "url": "https://www.animegg.org/inuyasha-the-movie-affections-touching-across-time-episode-2"
+      }
+    ]
   }
 ]
