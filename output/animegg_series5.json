@@ -13911,5 +13911,21 @@
         "url": "https://www.animegg.org/the-place-promised-in-our-early-days-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5843,
+    "title": "Tales of Vesperia: The First Strike",
+    "animegg_url": "https://www.animegg.org/series/tales-of-vesperia-the-first-strike",
+    "mal_url": "https://myanimelist.net/anime/6046",
+    "mal_id": 6046,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/63019",
+        "dub": null,
+        "url": "https://www.animegg.org/tales-of-vesperia-the-first-strike-episode-1"
+      }
+    ]
   }
 ]
