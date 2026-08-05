@@ -20462,5 +20462,33 @@
         "url": "https://www.animegg.org/yama-no-susume-third-season-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3315,
+    "title": "Hellsing: The Dawn",
+    "animegg_url": "https://www.animegg.org/series/hellsing-the-dawn",
+    "mal_url": "https://myanimelist.net/anime/11077",
+    "mal_id": 11077,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/15742",
+        "dub": null,
+        "url": "https://www.animegg.org/hellsing-the-dawn-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/15744",
+        "dub": null,
+        "url": "https://www.animegg.org/hellsing-the-dawn-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/15743",
+        "dub": null,
+        "url": "https://www.animegg.org/hellsing-the-dawn-episode-3"
+      }
+    ]
   }
 ]
