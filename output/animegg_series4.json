@@ -110278,5 +110278,27 @@
         "url": "https://www.animegg.org/black-torch-episode-5"
       }
     ]
+  },
+  {
+    "serial_no": 4574,
+    "title": "Kengan Ashura 2nd Season",
+    "animegg_url": "https://www.animegg.org/series/kengan-ashura-2nd-season",
+    "mal_url": "https://myanimelist.net/anime/51369",
+    "mal_id": 51369,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/97110",
+        "dub": null,
+        "url": "https://www.animegg.org/kengan-ashura-2nd-season-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/97109",
+        "dub": null,
+        "url": "https://www.animegg.org/kengan-ashura-2nd-season-episode-1"
+      }
+    ]
   }
 ]
