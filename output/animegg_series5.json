@@ -29070,5 +29070,21 @@
         "url": "https://www.animegg.org/shisha-no-teikoku-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 6096,
+    "title": "Sacred Seven: Shirogane no Tsubasa",
+    "animegg_url": "https://www.animegg.org/series/sacred-seven-shirogane-no-tsubasa",
+    "mal_url": "https://myanimelist.net/anime/11635",
+    "mal_id": 11635,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/60792",
+        "dub": null,
+        "url": "https://www.animegg.org/sacred-seven-shirogane-no-tsubasa-episode-1"
+      }
+    ]
   }
 ]
