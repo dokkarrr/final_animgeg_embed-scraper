@@ -128600,5 +128600,21 @@
         "url": "https://www.animegg.org/slam-dunk-movie-4-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4854,
+    "title": "Boku wa Tomodachi ga Sukunai: Add-on Disc",
+    "animegg_url": "https://www.animegg.org/series/boku-wa-tomodachi-ga-sukunai-add-on-disc",
+    "mal_url": "https://myanimelist.net/anime/14027",
+    "mal_id": 14027,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/48836",
+        "dub": null,
+        "url": "https://www.animegg.org/boku-wa-tomodachi-ga-sukunai-add-on-disc-episode-1"
+      }
+    ]
   }
 ]
