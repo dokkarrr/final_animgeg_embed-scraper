@@ -122963,5 +122963,51 @@
         "url": "https://www.animegg.org/magia-record-mahou-shoujo-madoka-magica-gaiden-tv-final-season---asaki-yume-no-akatsuki-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 6940,
+    "title": "Kyoukai Senki: Kyokkou no Souki",
+    "animegg_url": "https://www.animegg.org/series/kyoukai-senki-kyokkou-no-souki",
+    "mal_url": "https://myanimelist.net/anime/54495",
+    "mal_id": 54495,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/131446",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoukai-senki-kyokkou-no-souki-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/131445",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoukai-senki-kyokkou-no-souki-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/131444",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoukai-senki-kyokkou-no-souki-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/131443",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoukai-senki-kyokkou-no-souki-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/131628",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoukai-senki-kyokkou-no-souki-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/131840",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoukai-senki-kyokkou-no-souki-episode-6"
+      }
+    ]
   }
 ]
