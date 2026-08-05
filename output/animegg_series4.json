@@ -137293,5 +137293,21 @@
         "url": "https://www.animegg.org/ghost-in-the-shell-2015-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4986,
+    "title": "Kara no Kyoukai 3: Tsuukaku Zanryuu",
+    "animegg_url": "https://www.animegg.org/series/kara-no-kyoukai-3-tsuukaku-zanryuu",
+    "mal_url": "https://myanimelist.net/anime/3783",
+    "mal_id": 3783,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/43068",
+        "dub": null,
+        "url": "https://www.animegg.org/kara-no-kyoukai-3-tsuukaku-zanryuu-episode-1"
+      }
+    ]
   }
 ]
