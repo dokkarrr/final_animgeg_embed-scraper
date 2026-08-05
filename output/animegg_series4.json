@@ -117390,5 +117390,21 @@
         "url": "https://www.animegg.org/getter-robo-arc-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 4699,
+    "title": "Big Order OVA",
+    "animegg_url": "https://www.animegg.org/series/big-order-ova",
+    "mal_url": "https://myanimelist.net/anime/31904",
+    "mal_id": 31904,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/80657",
+        "dub": null,
+        "url": "https://www.animegg.org/big-order-ova-episode-1"
+      }
+    ]
   }
 ]
