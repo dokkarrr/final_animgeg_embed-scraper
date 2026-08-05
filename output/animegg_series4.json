@@ -10926,5 +10926,87 @@
         "url": "https://www.animegg.org/sola-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3211,
+    "title": "Potemayo",
+    "animegg_url": "https://www.animegg.org/series/potemayo",
+    "mal_url": "https://myanimelist.net/anime/2744",
+    "mal_id": 2744,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/30533",
+        "dub": null,
+        "url": "https://www.animegg.org/potemayo-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/30537",
+        "dub": null,
+        "url": "https://www.animegg.org/potemayo-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/30536",
+        "dub": null,
+        "url": "https://www.animegg.org/potemayo-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/30535",
+        "dub": null,
+        "url": "https://www.animegg.org/potemayo-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/30534",
+        "dub": null,
+        "url": "https://www.animegg.org/potemayo-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/30538",
+        "dub": null,
+        "url": "https://www.animegg.org/potemayo-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/30540",
+        "dub": null,
+        "url": "https://www.animegg.org/potemayo-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/30539",
+        "dub": null,
+        "url": "https://www.animegg.org/potemayo-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/30541",
+        "dub": null,
+        "url": "https://www.animegg.org/potemayo-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/30542",
+        "dub": null,
+        "url": "https://www.animegg.org/potemayo-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/30543",
+        "dub": null,
+        "url": "https://www.animegg.org/potemayo-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/30544",
+        "dub": null,
+        "url": "https://www.animegg.org/potemayo-episode-12"
+      }
+    ]
   }
 ]
