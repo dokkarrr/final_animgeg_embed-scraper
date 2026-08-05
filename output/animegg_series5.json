@@ -26812,5 +26812,21 @@
         "url": "https://www.animegg.org/phoenix-2772-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6046,
+    "title": "Nekogami Yaoyorozu: Ohanami Ghostbusters (OVA)",
+    "animegg_url": "https://www.animegg.org/series/nekogami-yaoyorozu-ohanami-ghostbusters-ova",
+    "mal_url": "https://myanimelist.net/anime/10936",
+    "mal_id": 10936,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/27029",
+        "dub": null,
+        "url": "https://www.animegg.org/nekogami-yaoyorozu-ohanami-ghostbusters-ova-episode-1"
+      }
+    ]
   }
 ]
