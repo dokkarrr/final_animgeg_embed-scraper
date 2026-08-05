@@ -4710,5 +4710,21 @@
         "url": "https://www.animegg.org/quanzhi-gaoshou-zhi-dianfeng-rongyao-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5683,
+    "title": "Ghost in the Shell: Arise - Border:4 Ghost Stands Alone",
+    "animegg_url": "https://www.animegg.org/series/ghost-in-the-shell-arise---border4-ghost-stands-alone",
+    "mal_url": "https://myanimelist.net/anime/19195",
+    "mal_id": 19195,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/66145",
+        "dub": null,
+        "url": "https://www.animegg.org/ghost-in-the-shell-arise---border4-ghost-stands-alone-episode-1"
+      }
+    ]
   }
 ]
