@@ -16900,5 +16900,21 @@
         "url": "https://www.animegg.org/i-upset-millions-of-cultivators-episode-73"
       }
     ]
+  },
+  {
+    "serial_no": 5899,
+    "title": "Aoki Densetsu Shoot! (1994)",
+    "animegg_url": "https://www.animegg.org/series/aoki-densetsu-shoot-1994",
+    "mal_url": "https://myanimelist.net/anime/2682",
+    "mal_id": 2682,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1994,
+        "sub": "https://www.animegg.org/embed/65685",
+        "dub": null,
+        "url": "https://www.animegg.org/aoki-densetsu-shoot-1994-episode-1"
+      }
+    ]
   }
 ]
