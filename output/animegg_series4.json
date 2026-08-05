@@ -93920,5 +93920,21 @@
         "url": "https://www.animegg.org/saikyou-kamizmode-episode-22"
       }
     ]
+  },
+  {
+    "serial_no": 4317,
+    "title": "One Piece: Clockwork Island Adventure",
+    "animegg_url": "https://www.animegg.org/series/one-piece-clockwork-island-adventure",
+    "mal_url": "https://myanimelist.net/anime/460",
+    "mal_id": 460,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/59169",
+        "dub": null,
+        "url": "https://www.animegg.org/one-piece-clockwork-island-adventure-episode-1"
+      }
+    ]
   }
 ]
