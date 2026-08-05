@@ -14740,5 +14740,21 @@
         "url": "https://www.animegg.org/saikano-another-love-song-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 5863,
+    "title": "Soukyuu no Fafner: Dead Aggressor - Heaven and Earth",
+    "animegg_url": "https://www.animegg.org/series/soukyuu-no-fafner-dead-aggressor---heaven-and-earth",
+    "mal_url": "https://myanimelist.net/anime/8098",
+    "mal_id": 8098,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/51530",
+        "dub": "https://www.animegg.org/embed/51531",
+        "url": "https://www.animegg.org/soukyuu-no-fafner-dead-aggressor---heaven-and-earth-episode-1-8105"
+      }
+    ]
   }
 ]
