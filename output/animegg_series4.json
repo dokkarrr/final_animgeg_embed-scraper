@@ -110678,5 +110678,39 @@
         "url": "https://www.animegg.org/pokemon-xy-hakai-no-mayu-to-diancie-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4581,
+    "title": "Cobra the Animation: The Psycho-Gun",
+    "animegg_url": "https://www.animegg.org/series/cobra-the-animation-the-psycho-gun",
+    "mal_url": "https://myanimelist.net/anime/4646",
+    "mal_id": 4646,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/47117",
+        "dub": null,
+        "url": "https://www.animegg.org/cobra-the-animation-the-psycho-gun-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/47118",
+        "dub": null,
+        "url": "https://www.animegg.org/cobra-the-animation-the-psycho-gun-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/47119",
+        "dub": null,
+        "url": "https://www.animegg.org/cobra-the-animation-the-psycho-gun-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/47120",
+        "dub": null,
+        "url": "https://www.animegg.org/cobra-the-animation-the-psycho-gun-episode-4"
+      }
+    ]
   }
 ]
