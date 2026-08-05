@@ -134238,5 +134238,63 @@
         "url": "https://www.animegg.org/d-frag-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4942,
+    "title": "Atarashii Joushi wa Do Tennen",
+    "animegg_url": "https://www.animegg.org/series/atarashii-joushi-wa-do-tennen",
+    "mal_url": "https://myanimelist.net/anime/55310",
+    "mal_id": 55310,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/131660",
+        "dub": null,
+        "url": "https://www.animegg.org/atarashii-joushi-wa-do-tennen-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/131782",
+        "dub": null,
+        "url": "https://www.animegg.org/atarashii-joushi-wa-do-tennen-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/131884",
+        "dub": null,
+        "url": "https://www.animegg.org/atarashii-joushi-wa-do-tennen-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/131996",
+        "dub": null,
+        "url": "https://www.animegg.org/atarashii-joushi-wa-do-tennen-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/atarashii-joushi-wa-do-tennen-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/atarashii-joushi-wa-do-tennen-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/132276",
+        "dub": null,
+        "url": "https://www.animegg.org/atarashii-joushi-wa-do-tennen-episode-7"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/132532",
+        "dub": null,
+        "url": "https://www.animegg.org/atarashii-joushi-wa-do-tennen-episode-12"
+      }
+    ]
   }
 ]
