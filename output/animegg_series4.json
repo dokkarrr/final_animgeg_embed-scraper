@@ -60838,5 +60838,87 @@
         "url": "https://www.animegg.org/robihachi-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3833,
+    "title": "The Shiunji Family Children",
+    "animegg_url": "https://www.animegg.org/series/the-shiunji-family-children",
+    "mal_url": "https://myanimelist.net/anime/58131",
+    "mal_id": 58131,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/140422",
+        "dub": "https://www.animegg.org/embed/140679",
+        "url": "https://www.animegg.org/the-shiunji-family-children-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/140499",
+        "dub": "https://www.animegg.org/embed/140762",
+        "url": "https://www.animegg.org/the-shiunji-family-children-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/140590",
+        "dub": "https://www.animegg.org/embed/140862",
+        "url": "https://www.animegg.org/the-shiunji-family-children-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/140673",
+        "dub": "https://www.animegg.org/embed/140975",
+        "url": "https://www.animegg.org/the-shiunji-family-children-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/140754",
+        "dub": "https://www.animegg.org/embed/141066",
+        "url": "https://www.animegg.org/the-shiunji-family-children-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/141178",
+        "dub": null,
+        "url": "https://www.animegg.org/the-shiunji-family-children-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/140971",
+        "dub": "https://www.animegg.org/embed/141271",
+        "url": "https://www.animegg.org/the-shiunji-family-children-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/141048",
+        "dub": "https://www.animegg.org/embed/141376",
+        "url": "https://www.animegg.org/the-shiunji-family-children-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/141174",
+        "dub": "https://www.animegg.org/embed/141451",
+        "url": "https://www.animegg.org/the-shiunji-family-children-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/141263",
+        "dub": "https://www.animegg.org/embed/141529",
+        "url": "https://www.animegg.org/the-shiunji-family-children-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/141367",
+        "dub": "https://www.animegg.org/embed/141630",
+        "url": "https://www.animegg.org/the-shiunji-family-children-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/141447",
+        "dub": "https://www.animegg.org/embed/141735",
+        "url": "https://www.animegg.org/the-shiunji-family-children-episode-12"
+      }
+    ]
   }
 ]
