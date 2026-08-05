@@ -46698,5 +46698,63 @@
         "url": "https://www.animegg.org/nami-yo-kiitekure-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3631,
+    "title": "Sayounara Ryuusei, Konnichiwa Jinsei",
+    "animegg_url": "https://www.animegg.org/series/sayounara-ryuusei-konnichiwa-jinsei",
+    "mal_url": "https://myanimelist.net/anime/58445",
+    "mal_id": 58445,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/137570",
+        "dub": null,
+        "url": "https://www.animegg.org/sayounara-ryuusei-konnichiwa-jinsei-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/137832",
+        "dub": null,
+        "url": "https://www.animegg.org/sayounara-ryuusei-konnichiwa-jinsei-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/138098",
+        "dub": null,
+        "url": "https://www.animegg.org/sayounara-ryuusei-konnichiwa-jinsei-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/138360",
+        "dub": null,
+        "url": "https://www.animegg.org/sayounara-ryuusei-konnichiwa-jinsei-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/138562",
+        "dub": null,
+        "url": "https://www.animegg.org/sayounara-ryuusei-konnichiwa-jinsei-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/138797",
+        "dub": null,
+        "url": "https://www.animegg.org/sayounara-ryuusei-konnichiwa-jinsei-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/138980",
+        "dub": null,
+        "url": "https://www.animegg.org/sayounara-ryuusei-konnichiwa-jinsei-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/139173",
+        "dub": null,
+        "url": "https://www.animegg.org/sayounara-ryuusei-konnichiwa-jinsei-episode-8"
+      }
+    ]
   }
 ]
