@@ -11346,5 +11346,21 @@
         "url": "https://www.animegg.org/wistoria-wand-and-sword-season-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3217,
+    "title": "Bleach: The Sealed Sword Frenzy",
+    "animegg_url": "https://www.animegg.org/series/1",
+    "mal_url": "https://myanimelist.net/anime/834",
+    "mal_id": 834,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/49145",
+        "dub": null,
+        "url": "https://www.animegg.org/bleach-the-sealed-sword-frenzy-episode-1"
+      }
+    ]
   }
 ]
