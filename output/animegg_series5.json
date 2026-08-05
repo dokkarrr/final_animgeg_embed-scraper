@@ -98710,5 +98710,21 @@
         "url": "https://www.animegg.org/irozuku-sekai-no-ashita-kara-dub-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 6729,
+    "title": "Black Clover: Mahou Tei no Ken",
+    "animegg_url": "https://www.animegg.org/series/black-clover-mahou-tei-no-ken",
+    "mal_url": "https://myanimelist.net/anime/48585",
+    "mal_id": 48585,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/130133",
+        "dub": null,
+        "url": "https://www.animegg.org/black-clover-mahou-tei-no-ken-episode-1"
+      }
+    ]
   }
 ]
