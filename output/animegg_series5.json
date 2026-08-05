@@ -130309,5 +130309,21 @@
         "url": "https://www.animegg.org/warau-salesman-dai-sp-banashi-episode-23"
       }
     ]
+  },
+  {
+    "serial_no": 7004,
+    "title": "Summer Ghost",
+    "animegg_url": "https://www.animegg.org/series/summer-ghost",
+    "mal_url": "https://myanimelist.net/anime/48171",
+    "mal_id": 48171,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/104403",
+        "dub": null,
+        "url": "https://www.animegg.org/summer-ghost-episode-1"
+      }
+    ]
   }
 ]
