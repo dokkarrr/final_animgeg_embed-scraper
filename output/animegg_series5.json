@@ -16420,5 +16420,21 @@
         "url": "https://www.animegg.org/hamtaro-ova-004-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5896,
+    "title": "Soukyuu no Fafner: Right of Left",
+    "animegg_url": "https://www.animegg.org/series/soukyuu-no-fafner-right-of-left",
+    "mal_url": "https://myanimelist.net/anime/17080",
+    "mal_id": 17080,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/62405",
+        "dub": null,
+        "url": "https://www.animegg.org/soukyuu-no-fafner-right-of-left-episode-1-4448"
+      }
+    ]
   }
 ]
