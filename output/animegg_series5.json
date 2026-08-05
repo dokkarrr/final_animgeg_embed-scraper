@@ -24584,5 +24584,27 @@
         "url": "https://www.animegg.org/keroro-gunsou-movie-1-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6020,
+    "title": "Zan Sayonara Zetsubou Sensei Bangaichi",
+    "animegg_url": "https://www.animegg.org/series/zan-sayonara-zetsubou-sensei-bangaichi",
+    "mal_url": "https://myanimelist.net/anime/7044",
+    "mal_id": 7044,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/25151",
+        "dub": null,
+        "url": "https://www.animegg.org/zan-sayonara-zetsubou-sensei-bangaichi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/25152",
+        "dub": null,
+        "url": "https://www.animegg.org/zan-sayonara-zetsubou-sensei-bangaichi-episode-2"
+      }
+    ]
   }
 ]
