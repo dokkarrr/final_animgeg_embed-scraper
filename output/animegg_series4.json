@@ -1908,5 +1908,87 @@
         "url": "https://www.animegg.org/dd-hokuto-no-ken-2013-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3097,
+    "title": "Room Mate",
+    "animegg_url": "https://www.animegg.org/series/room-mate",
+    "mal_url": "https://myanimelist.net/anime/34393",
+    "mal_id": 34393,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/86562",
+        "dub": null,
+        "url": "https://www.animegg.org/room-mate-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/86645",
+        "dub": null,
+        "url": "https://www.animegg.org/room-mate-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/86731",
+        "dub": null,
+        "url": "https://www.animegg.org/room-mate-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/86812",
+        "dub": null,
+        "url": "https://www.animegg.org/room-mate-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/86888",
+        "dub": null,
+        "url": "https://www.animegg.org/room-mate-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/86966",
+        "dub": null,
+        "url": "https://www.animegg.org/room-mate-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/87048",
+        "dub": null,
+        "url": "https://www.animegg.org/room-mate-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/87138",
+        "dub": null,
+        "url": "https://www.animegg.org/room-mate-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/87219",
+        "dub": null,
+        "url": "https://www.animegg.org/room-mate-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/87286",
+        "dub": null,
+        "url": "https://www.animegg.org/room-mate-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/87355",
+        "dub": null,
+        "url": "https://www.animegg.org/room-mate-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/87424",
+        "dub": null,
+        "url": "https://www.animegg.org/room-mate-episode-12"
+      }
+    ]
   }
 ]
