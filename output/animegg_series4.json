@@ -132974,5 +132974,21 @@
         "url": "https://www.animegg.org/kuroshitsuji-recap-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4926,
+    "title": "Kobayashi-san Chi no Maid Dragon OVA",
+    "animegg_url": "https://www.animegg.org/series/kobayashi-san-chi-no-maid-dragon-ova",
+    "mal_url": "https://myanimelist.net/anime/33206",
+    "mal_id": 33206,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/88584",
+        "dub": null,
+        "url": "https://www.animegg.org/kobayashi-san-chi-no-maid-dragon-ova-episode-1"
+      }
+    ]
   }
 ]
