@@ -84476,5 +84476,33 @@
         "url": "https://www.animegg.org/tenkuu-shinpan-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 6617,
+    "title": "Rilakkuma to Kaoru-san",
+    "animegg_url": "https://www.animegg.org/series/rilakkuma-to-kaoru-san",
+    "mal_url": "https://myanimelist.net/anime/35777",
+    "mal_id": 35777,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/95194",
+        "dub": null,
+        "url": "https://www.animegg.org/rilakkuma-to-kaoru-san-episode-1"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/95196",
+        "dub": null,
+        "url": "https://www.animegg.org/rilakkuma-to-kaoru-san-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/95195",
+        "dub": null,
+        "url": "https://www.animegg.org/rilakkuma-to-kaoru-san-episode-13"
+      }
+    ]
   }
 ]
