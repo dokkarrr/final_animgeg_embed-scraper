@@ -134342,5 +134342,39 @@
         "url": "https://www.animegg.org/peeping-life-the-perfect-emotion-specials-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 4944,
+    "title": "Toaru Kagaku no Railgun Specials",
+    "animegg_url": "https://www.animegg.org/series/toaru-kagaku-no-railgun-specials",
+    "mal_url": "https://myanimelist.net/anime/38481",
+    "mal_id": 38481,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/64065",
+        "dub": null,
+        "url": "https://www.animegg.org/toaru-kagaku-no-railgun-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/64066",
+        "dub": null,
+        "url": "https://www.animegg.org/toaru-kagaku-no-railgun-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/64067",
+        "dub": null,
+        "url": "https://www.animegg.org/toaru-kagaku-no-railgun-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/64068",
+        "dub": null,
+        "url": "https://www.animegg.org/toaru-kagaku-no-railgun-specials-episode-4"
+      }
+    ]
   }
 ]
