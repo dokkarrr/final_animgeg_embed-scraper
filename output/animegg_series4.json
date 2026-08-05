@@ -129700,5 +129700,21 @@
         "url": "https://www.animegg.org/nijiyon-animation-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4877,
+    "title": "Only Yesterday",
+    "animegg_url": "https://www.animegg.org/series/only-yesterday",
+    "mal_url": "https://myanimelist.net/anime/1029",
+    "mal_id": 1029,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/58819",
+        "dub": null,
+        "url": "https://www.animegg.org/only-yesterday-episode-1"
+      }
+    ]
   }
 ]
