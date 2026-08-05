@@ -930,5 +930,21 @@
         "url": "https://www.animegg.org/bungaku-shoujo-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5626,
+    "title": "Eureka Seven: New Order",
+    "animegg_url": "https://www.animegg.org/series/eureka-seven-new-order",
+    "mal_url": "https://myanimelist.net/anime/13731",
+    "mal_id": 13731,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/51203",
+        "dub": null,
+        "url": "https://www.animegg.org/eureka-seven-new-order-episode-1"
+      }
+    ]
   }
 ]
