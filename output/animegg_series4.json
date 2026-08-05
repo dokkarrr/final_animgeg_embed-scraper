@@ -116122,5 +116122,27 @@
         "url": "https://www.animegg.org/one-piece-chopper-kingdom-of-strange-animal-island-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4679,
+    "title": "Bludgeoning Angel Dokuro-Chan Season 2",
+    "animegg_url": "https://www.animegg.org/series/bludgeoning-angel-dokuro-chan-season-2",
+    "mal_url": "https://myanimelist.net/anime/2131",
+    "mal_id": 2131,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/4240",
+        "dub": "https://www.animegg.org/embed/68545",
+        "url": "https://www.animegg.org/bludgeoning-angel-dokuro-chan-season-2-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/4239",
+        "dub": "https://www.animegg.org/embed/68544",
+        "url": "https://www.animegg.org/bludgeoning-angel-dokuro-chan-season-2-episode-1"
+      }
+    ]
   }
 ]
