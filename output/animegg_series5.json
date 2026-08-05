@@ -57507,5 +57507,21 @@
         "url": "https://www.animegg.org/roll-over-and-die-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 6378,
+    "title": "Spelunker Is A Teacher",
+    "animegg_url": "https://www.animegg.org/series/spelunker-is-a-teacher",
+    "mal_url": "https://myanimelist.net/anime/10406",
+    "mal_id": 10406,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/36176",
+        "dub": null,
+        "url": "https://www.animegg.org/spelunker-is-a-teacher-episode-1"
+      }
+    ]
   }
 ]
