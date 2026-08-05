@@ -87298,5 +87298,39 @@
         "url": "https://www.animegg.org/dogs-bullets-carnage-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 4223,
+    "title": "Closers: Side Blacklambs",
+    "animegg_url": "https://www.animegg.org/series/closers-side-blacklambs",
+    "mal_url": "https://myanimelist.net/anime/32152",
+    "mal_id": 32152,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/86147",
+        "dub": null,
+        "url": "https://www.animegg.org/closers-side-blacklambs-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/90470",
+        "dub": null,
+        "url": "https://www.animegg.org/closers-side-blacklambs-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/97676",
+        "dub": null,
+        "url": "https://www.animegg.org/closers-side-blacklambs-episode-3"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/97677",
+        "dub": null,
+        "url": "https://www.animegg.org/closers-side-blacklambs-episode-6"
+      }
+    ]
   }
 ]
