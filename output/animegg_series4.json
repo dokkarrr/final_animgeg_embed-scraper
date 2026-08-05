@@ -54014,5 +54014,27 @@
         "url": "https://www.animegg.org/maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii--episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3729,
+    "title": "Gundam 00 Movie",
+    "animegg_url": "https://www.animegg.org/series/gundam-00-movie",
+    "mal_url": "https://myanimelist.net/anime/6288",
+    "mal_id": 6288,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/52168",
+        "dub": "https://www.animegg.org/embed/75535",
+        "url": "https://www.animegg.org/gundam-00-movie-episode-2"
+      },
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/52167",
+        "dub": "https://www.animegg.org/embed/75534",
+        "url": "https://www.animegg.org/gundam-00-movie-episode-1"
+      }
+    ]
   }
 ]
