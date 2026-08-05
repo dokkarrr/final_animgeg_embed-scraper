@@ -81117,5 +81117,27 @@
         "url": "https://www.animegg.org/yuyushiki-komarasetari-komarasaretari-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6581,
+    "title": "Masamune Datenicle",
+    "animegg_url": "https://www.animegg.org/series/masamune-datenicle",
+    "mal_url": "https://myanimelist.net/anime/32248",
+    "mal_id": 32248,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/95633",
+        "dub": null,
+        "url": "https://www.animegg.org/masamune-datenicle-episode-1"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/95634",
+        "dub": null,
+        "url": "https://www.animegg.org/masamune-datenicle-episode-6"
+      }
+    ]
   }
 ]
