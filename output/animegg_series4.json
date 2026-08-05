@@ -54036,5 +54036,57 @@
         "url": "https://www.animegg.org/gundam-00-movie-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3730,
+    "title": "Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu",
+    "animegg_url": "https://www.animegg.org/series/yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryakuchuu",
+    "mal_url": "https://myanimelist.net/anime/55150",
+    "mal_id": 55150,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/137775",
+        "dub": null,
+        "url": "https://www.animegg.org/yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryakuchuu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/138039",
+        "dub": null,
+        "url": "https://www.animegg.org/yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryakuchuu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/138287",
+        "dub": null,
+        "url": "https://www.animegg.org/yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryakuchuu-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/138507",
+        "dub": null,
+        "url": "https://www.animegg.org/yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryakuchuu-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/138746",
+        "dub": null,
+        "url": "https://www.animegg.org/yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryakuchuu-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/138943",
+        "dub": null,
+        "url": "https://www.animegg.org/yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryakuchuu-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/139155",
+        "dub": null,
+        "url": "https://www.animegg.org/yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryakuchuu-episode-7"
+      }
+    ]
   }
 ]
