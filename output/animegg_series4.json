@@ -52682,5 +52682,57 @@
         "url": "https://www.animegg.org/kono-subarashii-sekai-ni-shukufuku-wo-kurenai-densetsu-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3717,
+    "title": "Etotama Specials",
+    "animegg_url": "https://www.animegg.org/series/etotama-specials",
+    "mal_url": "https://myanimelist.net/anime/31070",
+    "mal_id": 31070,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/77484",
+        "dub": null,
+        "url": "https://www.animegg.org/etotama-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/77622",
+        "dub": null,
+        "url": "https://www.animegg.org/etotama-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/77623",
+        "dub": null,
+        "url": "https://www.animegg.org/etotama-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/77624",
+        "dub": null,
+        "url": "https://www.animegg.org/etotama-specials-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/77793",
+        "dub": null,
+        "url": "https://www.animegg.org/etotama-specials-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/77794",
+        "dub": null,
+        "url": "https://www.animegg.org/etotama-specials-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/etotama-specials-episode-7"
+      }
+    ]
   }
 ]
