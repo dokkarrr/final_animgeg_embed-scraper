@@ -82098,5 +82098,39 @@
         "url": "https://www.animegg.org/ano-hi-mita-hana-no-namae-wo-bokutachi-wa-mada-shiranai-movie-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4144,
+    "title": "Anime Mirai 2013",
+    "animegg_url": "https://www.animegg.org/series/anime-mirai-2013",
+    "mal_url": "https://myanimelist.net/anime/8460",
+    "mal_id": 8460,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 2013,
+        "sub": "https://www.animegg.org/embed/1237",
+        "dub": null,
+        "url": "https://www.animegg.org/anime-mirai-2013-episode-4"
+      },
+      {
+        "ep": 2013,
+        "sub": "https://www.animegg.org/embed/1235",
+        "dub": null,
+        "url": "https://www.animegg.org/anime-mirai-2013-episode-3"
+      },
+      {
+        "ep": 2013,
+        "sub": "https://www.animegg.org/embed/1238",
+        "dub": null,
+        "url": "https://www.animegg.org/anime-mirai-2013-episode-2"
+      },
+      {
+        "ep": 2013,
+        "sub": "https://www.animegg.org/embed/1236",
+        "dub": null,
+        "url": "https://www.animegg.org/anime-mirai-2013-episode-1"
+      }
+    ]
   }
 ]
