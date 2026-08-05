@@ -37454,5 +37454,21 @@
         "url": "https://www.animegg.org/jojo-s-bizarre-adventure-part-6-stone-ocean-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3507,
+    "title": "Ookami Kodomo no Ame to Yuki",
+    "animegg_url": "https://www.animegg.org/series/ookami-kodomo-no-ame-to-yuki",
+    "mal_url": "https://myanimelist.net/anime/12355",
+    "mal_id": 12355,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/42868",
+        "dub": "https://www.animegg.org/embed/42869",
+        "url": "https://www.animegg.org/ookami-kodomo-no-ame-to-yuki-episode-1"
+      }
+    ]
   }
 ]
