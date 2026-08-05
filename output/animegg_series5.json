@@ -37770,5 +37770,21 @@
         "url": "https://www.animegg.org/welcome-to-the-space-show-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6198,
+    "title": "Keroro Gunsou Movie 5",
+    "animegg_url": "https://www.animegg.org/series/keroro-gunsou-movie-5",
+    "mal_url": "https://myanimelist.net/anime/8134",
+    "mal_id": 8134,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/56613",
+        "dub": null,
+        "url": "https://www.animegg.org/keroro-gunsou-movie-5-episode-1"
+      }
+    ]
   }
 ]
