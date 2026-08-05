@@ -56324,5 +56324,87 @@
         "url": "https://www.animegg.org/wz-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3759,
+    "title": "Listeners",
+    "animegg_url": "https://www.animegg.org/series/listeners",
+    "mal_url": "https://myanimelist.net/anime/40165",
+    "mal_id": 40165,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/98229",
+        "dub": null,
+        "url": "https://www.animegg.org/listeners-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/98281",
+        "dub": null,
+        "url": "https://www.animegg.org/listeners-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/98329",
+        "dub": null,
+        "url": "https://www.animegg.org/listeners-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/98387",
+        "dub": null,
+        "url": "https://www.animegg.org/listeners-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/98430",
+        "dub": null,
+        "url": "https://www.animegg.org/listeners-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/98474",
+        "dub": null,
+        "url": "https://www.animegg.org/listeners-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/98508",
+        "dub": null,
+        "url": "https://www.animegg.org/listeners-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/98608",
+        "dub": null,
+        "url": "https://www.animegg.org/listeners-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/98653",
+        "dub": null,
+        "url": "https://www.animegg.org/listeners-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/98694",
+        "dub": null,
+        "url": "https://www.animegg.org/listeners-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/98742",
+        "dub": null,
+        "url": "https://www.animegg.org/listeners-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/98787",
+        "dub": null,
+        "url": "https://www.animegg.org/listeners-episode-12"
+      }
+    ]
   }
 ]
