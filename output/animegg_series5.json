@@ -53789,5 +53789,21 @@
         "url": "https://www.animegg.org/super-cube-episode-33"
       }
     ]
+  },
+  {
+    "serial_no": 6341,
+    "title": "Osomatsu-san: Ouma de Kobanashi",
+    "animegg_url": "https://www.animegg.org/series/osomatsu-san-ouma-de-kobanashi",
+    "mal_url": "https://myanimelist.net/anime/34238",
+    "mal_id": 34238,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/85094",
+        "dub": null,
+        "url": "https://www.animegg.org/osomatsu-san-ouma-de-kobanashi-episode-1"
+      }
+    ]
   }
 ]
