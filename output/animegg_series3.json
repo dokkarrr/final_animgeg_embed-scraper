@@ -136891,5 +136891,87 @@
         "url": "https://www.animegg.org/love-all-play-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 2713,
+    "title": "Vividred Operation",
+    "animegg_url": "https://www.animegg.org/series/vividred-operation",
+    "mal_url": "https://myanimelist.net/anime/14283",
+    "mal_id": 14283,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/40038",
+        "dub": null,
+        "url": "https://www.animegg.org/vividred-operation-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/40037",
+        "dub": null,
+        "url": "https://www.animegg.org/vividred-operation-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/40046",
+        "dub": null,
+        "url": "https://www.animegg.org/vividred-operation-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/40036",
+        "dub": null,
+        "url": "https://www.animegg.org/vividred-operation-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/40035",
+        "dub": null,
+        "url": "https://www.animegg.org/vividred-operation-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/40039",
+        "dub": null,
+        "url": "https://www.animegg.org/vividred-operation-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/40042",
+        "dub": null,
+        "url": "https://www.animegg.org/vividred-operation-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/40041",
+        "dub": null,
+        "url": "https://www.animegg.org/vividred-operation-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/40040",
+        "dub": null,
+        "url": "https://www.animegg.org/vividred-operation-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/40043",
+        "dub": null,
+        "url": "https://www.animegg.org/vividred-operation-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/40044",
+        "dub": null,
+        "url": "https://www.animegg.org/vividred-operation-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/40045",
+        "dub": null,
+        "url": "https://www.animegg.org/vividred-operation-episode-12"
+      }
+    ]
   }
 ]
