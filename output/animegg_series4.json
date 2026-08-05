@@ -123280,5 +123280,21 @@
         "url": "https://www.animegg.org/tsukipro-the-animation-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4784,
+    "title": "Resident Evil: Vendetta",
+    "animegg_url": "https://www.animegg.org/series/resident-evil-vendetta",
+    "mal_url": "https://myanimelist.net/anime/31853",
+    "mal_id": 31853,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/87505",
+        "dub": "https://www.animegg.org/embed/91952",
+        "url": "https://www.animegg.org/resident-evil-vendetta-episode-1"
+      }
+    ]
   }
 ]
