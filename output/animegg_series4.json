@@ -52300,5 +52300,45 @@
         "url": "https://www.animegg.org/nippon-sangoku-the-three-nations-of-the-crimson-sun-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3710,
+    "title": "Fate/kaleid liner Prisma☆Illya Specials",
+    "animegg_url": "https://www.animegg.org/series/fatekaleid-liner-prisma-9734-illya-specials",
+    "mal_url": "https://myanimelist.net/anime/19109",
+    "mal_id": 19109,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/10843",
+        "dub": null,
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-9734-illya-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/10842",
+        "dub": null,
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-9734-illya-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/10845",
+        "dub": null,
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-9734-illya-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/10844",
+        "dub": null,
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-9734-illya-specials-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/10841",
+        "dub": null,
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-9734-illya-specials-episode-5"
+      }
+    ]
   }
 ]
