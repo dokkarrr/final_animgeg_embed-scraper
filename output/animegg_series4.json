@@ -3370,5 +3370,33 @@
         "url": "https://www.animegg.org/selector-infected-wixoss-specials-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 3116,
+    "title": "Haikyuu!! OVA",
+    "animegg_url": "https://www.animegg.org/series/haikyuu-ova",
+    "mal_url": "https://myanimelist.net/anime/40262",
+    "mal_id": 40262,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/86673",
+        "dub": null,
+        "url": "https://www.animegg.org/haikyuu-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/86674",
+        "dub": null,
+        "url": "https://www.animegg.org/haikyuu-ova-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/haikyuu-ova-episode-3"
+      }
+    ]
   }
 ]
