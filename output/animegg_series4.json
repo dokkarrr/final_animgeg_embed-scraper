@@ -97238,5 +97238,33 @@
         "url": "https://www.animegg.org/senki-zesshou-symphogear-xv-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 4371,
+    "title": "Kodomo no Jikan: Ni Gakki",
+    "animegg_url": "https://www.animegg.org/series/kodomo-no-jikan-ni-gakki",
+    "mal_url": "https://myanimelist.net/anime/4195",
+    "mal_id": 4195,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/55398",
+        "dub": null,
+        "url": "https://www.animegg.org/kodomo-no-jikan-ni-gakki-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/55399",
+        "dub": null,
+        "url": "https://www.animegg.org/kodomo-no-jikan-ni-gakki-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/55400",
+        "dub": null,
+        "url": "https://www.animegg.org/kodomo-no-jikan-ni-gakki-episode-3"
+      }
+    ]
   }
 ]
