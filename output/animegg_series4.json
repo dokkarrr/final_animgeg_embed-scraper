@@ -118356,5 +118356,33 @@
         "url": "https://www.animegg.org/sayonara-no-asa-ni-yakusoku-no-hana-wo-kazarou-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4717,
+    "title": "Shinryaku! Ika Musume OVA",
+    "animegg_url": "https://www.animegg.org/series/shinryaku-ika-musume-ova",
+    "mal_url": "https://myanimelist.net/anime/13267",
+    "mal_id": 13267,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/34781",
+        "dub": null,
+        "url": "https://www.animegg.org/shinryaku-ika-musume-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/34780",
+        "dub": null,
+        "url": "https://www.animegg.org/shinryaku-ika-musume-ova-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/34782",
+        "dub": "https://www.animegg.org/embed/67238",
+        "url": "https://www.animegg.org/shinryaku-ika-musume-ova-episode-3"
+      }
+    ]
   }
 ]
