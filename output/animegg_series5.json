@@ -15328,5 +15328,21 @@
         "url": "https://www.animegg.org/computer-kakumei-saikyou-x-saisoku-no-zunou-tanjou-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5875,
+    "title": "Tekkon Kinkreet",
+    "animegg_url": "https://www.animegg.org/series/tekkon-kinkreet",
+    "mal_url": "https://myanimelist.net/anime/2154",
+    "mal_id": 2154,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/63100",
+        "dub": "https://www.animegg.org/embed/63101",
+        "url": "https://www.animegg.org/tekkon-kinkreet-episode-1"
+      }
+    ]
   }
 ]
