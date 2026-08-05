@@ -105226,5 +105226,87 @@
         "url": "https://www.animegg.org/mushikaburi-hime-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4499,
+    "title": "Classic★Stars",
+    "animegg_url": "https://www.animegg.org/series/classic-stars",
+    "mal_url": "https://myanimelist.net/anime/59199",
+    "mal_id": 59199,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/140372",
+        "dub": null,
+        "url": "https://www.animegg.org/classic-stars-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/140460",
+        "dub": null,
+        "url": "https://www.animegg.org/classic-stars-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/140552",
+        "dub": null,
+        "url": "https://www.animegg.org/classic-stars-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/140635",
+        "dub": null,
+        "url": "https://www.animegg.org/classic-stars-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/140721",
+        "dub": null,
+        "url": "https://www.animegg.org/classic-stars-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/140820",
+        "dub": null,
+        "url": "https://www.animegg.org/classic-stars-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/140925",
+        "dub": null,
+        "url": "https://www.animegg.org/classic-stars-episode-7"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/141125",
+        "dub": null,
+        "url": "https://www.animegg.org/classic-stars-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/141217",
+        "dub": null,
+        "url": "https://www.animegg.org/classic-stars-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/141314",
+        "dub": null,
+        "url": "https://www.animegg.org/classic-stars-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/141415",
+        "dub": null,
+        "url": "https://www.animegg.org/classic-stars-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/141493",
+        "dub": null,
+        "url": "https://www.animegg.org/classic-stars-episode-13"
+      }
+    ]
   }
 ]
