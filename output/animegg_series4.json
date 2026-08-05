@@ -115362,5 +115362,39 @@
         "url": "https://www.animegg.org/mobile-suit-gundam-ms-igloo-2-gravity-of-the-battlefront-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4663,
+    "title": "BALDR FORCE EXE Resolution",
+    "animegg_url": "https://www.animegg.org/series/baldr-force-exe-resolution",
+    "mal_url": "https://myanimelist.net/anime/1682",
+    "mal_id": 1682,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/68225",
+        "dub": null,
+        "url": "https://www.animegg.org/baldr-force-exe-resolution-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/68227",
+        "dub": null,
+        "url": "https://www.animegg.org/baldr-force-exe-resolution-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/68230",
+        "dub": null,
+        "url": "https://www.animegg.org/baldr-force-exe-resolution-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/68233",
+        "dub": null,
+        "url": "https://www.animegg.org/baldr-force-exe-resolution-episode-4"
+      }
+    ]
   }
 ]
