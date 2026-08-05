@@ -13044,5 +13044,87 @@
         "url": "https://www.animegg.org/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3238,
+    "title": "Dead Mount Death Play",
+    "animegg_url": "https://www.animegg.org/series/dead-mount-death-play",
+    "mal_url": "https://myanimelist.net/anime/53613",
+    "mal_id": 53613,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/107693",
+        "dub": null,
+        "url": "https://www.animegg.org/dead-mount-death-play-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/107728",
+        "dub": null,
+        "url": "https://www.animegg.org/dead-mount-death-play-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/107884",
+        "dub": "https://www.animegg.org/embed/127957",
+        "url": "https://www.animegg.org/dead-mount-death-play-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/108068",
+        "dub": "https://www.animegg.org/embed/127956",
+        "url": "https://www.animegg.org/dead-mount-death-play-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/108069",
+        "dub": "https://www.animegg.org/embed/127955",
+        "url": "https://www.animegg.org/dead-mount-death-play-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/108070",
+        "dub": "https://www.animegg.org/embed/127954",
+        "url": "https://www.animegg.org/dead-mount-death-play-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/108276",
+        "dub": "https://www.animegg.org/embed/127953",
+        "url": "https://www.animegg.org/dead-mount-death-play-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/108697",
+        "dub": "https://www.animegg.org/embed/129777",
+        "url": "https://www.animegg.org/dead-mount-death-play-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/108887",
+        "dub": null,
+        "url": "https://www.animegg.org/dead-mount-death-play-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/129820",
+        "dub": null,
+        "url": "https://www.animegg.org/dead-mount-death-play-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/129819",
+        "dub": null,
+        "url": "https://www.animegg.org/dead-mount-death-play-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/dead-mount-death-play-episode-12"
+      }
+    ]
   }
 ]
