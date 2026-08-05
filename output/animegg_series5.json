@@ -13645,5 +13645,21 @@
         "url": "https://www.animegg.org/prince-of-tennis-atobe-kara-no-okurimono-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5832,
+    "title": "Asagao to Kase-san.",
+    "animegg_url": "https://www.animegg.org/series/asagao-to-kase-san",
+    "mal_url": "https://myanimelist.net/anime/36214",
+    "mal_id": 36214,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/91728",
+        "dub": null,
+        "url": "https://www.animegg.org/asagao-to-kase-san-episode-1"
+      }
+    ]
   }
 ]
