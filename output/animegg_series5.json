@@ -734,5 +734,87 @@
         "url": "https://www.animegg.org/lupin-iii-elusiveness-of-the-fog-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5622,
+    "title": "Chimimo",
+    "animegg_url": "https://www.animegg.org/series/chimimo",
+    "mal_url": "https://myanimelist.net/anime/50985",
+    "mal_id": 50985,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/105229",
+        "dub": null,
+        "url": "https://www.animegg.org/chimimo-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/105291",
+        "dub": null,
+        "url": "https://www.animegg.org/chimimo-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/105347",
+        "dub": null,
+        "url": "https://www.animegg.org/chimimo-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/105406",
+        "dub": null,
+        "url": "https://www.animegg.org/chimimo-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/105478",
+        "dub": null,
+        "url": "https://www.animegg.org/chimimo-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/105541",
+        "dub": null,
+        "url": "https://www.animegg.org/chimimo-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/105607",
+        "dub": null,
+        "url": "https://www.animegg.org/chimimo-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/105671",
+        "dub": null,
+        "url": "https://www.animegg.org/chimimo-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/105733",
+        "dub": null,
+        "url": "https://www.animegg.org/chimimo-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/105795",
+        "dub": null,
+        "url": "https://www.animegg.org/chimimo-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/105865",
+        "dub": null,
+        "url": "https://www.animegg.org/chimimo-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/105926",
+        "dub": null,
+        "url": "https://www.animegg.org/chimimo-episode-12"
+      }
+    ]
   }
 ]
