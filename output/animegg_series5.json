@@ -5642,5 +5642,27 @@
         "url": "https://www.animegg.org/kurage-no-shokudou-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5697,
+    "title": "Linebarrels of Iron (Specials)",
+    "animegg_url": "https://www.animegg.org/series/linebarrels-of-iron-specials",
+    "mal_url": "https://myanimelist.net/anime/3653",
+    "mal_id": 3653,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/55662",
+        "dub": null,
+        "url": "https://www.animegg.org/linebarrels-of-iron-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/55663",
+        "dub": null,
+        "url": "https://www.animegg.org/linebarrels-of-iron-specials-episode-2"
+      }
+    ]
   }
 ]
