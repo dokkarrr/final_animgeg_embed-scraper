@@ -63023,5 +63023,87 @@
         "url": "https://www.animegg.org/zi-chuan-episode-42"
       }
     ]
+  },
+  {
+    "serial_no": 6422,
+    "title": "Zuihou de Zhaohuan Shi",
+    "animegg_url": "https://www.animegg.org/series/zuihou-de-zhaohuan-shi",
+    "mal_url": "https://myanimelist.net/anime/41915",
+    "mal_id": 41915,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/110691",
+        "dub": null,
+        "url": "https://www.animegg.org/zuihou-de-zhaohuan-shi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/110687",
+        "dub": null,
+        "url": "https://www.animegg.org/zuihou-de-zhaohuan-shi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/110686",
+        "dub": null,
+        "url": "https://www.animegg.org/zuihou-de-zhaohuan-shi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/110685",
+        "dub": null,
+        "url": "https://www.animegg.org/zuihou-de-zhaohuan-shi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/110684",
+        "dub": null,
+        "url": "https://www.animegg.org/zuihou-de-zhaohuan-shi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/110683",
+        "dub": null,
+        "url": "https://www.animegg.org/zuihou-de-zhaohuan-shi-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/110682",
+        "dub": null,
+        "url": "https://www.animegg.org/zuihou-de-zhaohuan-shi-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/110681",
+        "dub": null,
+        "url": "https://www.animegg.org/zuihou-de-zhaohuan-shi-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/110680",
+        "dub": null,
+        "url": "https://www.animegg.org/zuihou-de-zhaohuan-shi-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/110690",
+        "dub": null,
+        "url": "https://www.animegg.org/zuihou-de-zhaohuan-shi-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/110689",
+        "dub": null,
+        "url": "https://www.animegg.org/zuihou-de-zhaohuan-shi-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/110688",
+        "dub": null,
+        "url": "https://www.animegg.org/zuihou-de-zhaohuan-shi-episode-12"
+      }
+    ]
   }
 ]
