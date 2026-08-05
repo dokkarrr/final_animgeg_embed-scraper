@@ -5982,5 +5982,57 @@
         "url": "https://www.animegg.org/sword-gai-the-animation-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3151,
+    "title": "Black Lagoon Omake",
+    "animegg_url": "https://www.animegg.org/series/black-lagoon-omake",
+    "mal_url": "https://myanimelist.net/anime/8440",
+    "mal_id": 8440,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/48991",
+        "dub": null,
+        "url": "https://www.animegg.org/black-lagoon-omake-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/48992",
+        "dub": null,
+        "url": "https://www.animegg.org/black-lagoon-omake-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/48993",
+        "dub": null,
+        "url": "https://www.animegg.org/black-lagoon-omake-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/48994",
+        "dub": null,
+        "url": "https://www.animegg.org/black-lagoon-omake-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/48995",
+        "dub": null,
+        "url": "https://www.animegg.org/black-lagoon-omake-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/48996",
+        "dub": null,
+        "url": "https://www.animegg.org/black-lagoon-omake-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/48997",
+        "dub": null,
+        "url": "https://www.animegg.org/black-lagoon-omake-episode-7"
+      }
+    ]
   }
 ]
