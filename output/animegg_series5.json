@@ -20004,5 +20004,21 @@
         "url": "https://www.animegg.org/with-you-our-love-will-make-it-through-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 5970,
+    "title": "Yuri Seijin Naoko-san",
+    "animegg_url": "https://www.animegg.org/series/yuri-seijin-naoko-san",
+    "mal_url": "https://myanimelist.net/anime/9608",
+    "mal_id": 9608,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/62980",
+        "dub": null,
+        "url": "https://www.animegg.org/yuri-seijin-naoko-san-episode-1"
+      }
+    ]
   }
 ]
