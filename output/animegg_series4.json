@@ -79972,5 +79972,87 @@
         "url": "https://www.animegg.org/tenchi-souzou-design-bu-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 4121,
+    "title": "Tokyo 24-ku",
+    "animegg_url": "https://www.animegg.org/series/tokyo-24-ku",
+    "mal_url": "https://myanimelist.net/anime/50204",
+    "mal_id": 50204,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/104351",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-24-ku-episode-12"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/104306",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-24-ku-episode-11"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/104262",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-24-ku-episode-10"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/104167",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-24-ku-episode-9"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/104120",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-24-ku-episode-8"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/104071",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-24-ku-episode-7"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/103975",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-24-ku-episode-6"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/103920",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-24-ku-episode-5"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/103865",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-24-ku-episode-4"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/103810",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-24-ku-episode-3"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/103761",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-24-ku-episode-2"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/103718",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-24-ku-episode-1"
+      }
+    ]
   }
 ]
