@@ -126878,5 +126878,27 @@
         "url": "https://www.animegg.org/koroshi-ai-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 6971,
+    "title": "Bari Bari Densetsu",
+    "animegg_url": "https://www.animegg.org/series/bari-bari-densetsu",
+    "mal_url": "https://myanimelist.net/anime/5002",
+    "mal_id": 5002,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/130874",
+        "dub": null,
+        "url": "https://www.animegg.org/bari-bari-densetsu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/132598",
+        "dub": null,
+        "url": "https://www.animegg.org/bari-bari-densetsu-episode-2"
+      }
+    ]
   }
 ]
