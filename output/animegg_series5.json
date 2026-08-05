@@ -82120,5 +82120,33 @@
         "url": "https://www.animegg.org/natsume-yuujinchou-movie-utsusemi-ni-musubu-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6592,
+    "title": "Candy Caries",
+    "animegg_url": "https://www.animegg.org/series/candy-caries",
+    "mal_url": "https://myanimelist.net/anime/63276",
+    "mal_id": 63276,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/145581",
+        "dub": null,
+        "url": "https://www.animegg.org/candy-caries-episode-3"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/145774",
+        "dub": null,
+        "url": "https://www.animegg.org/candy-caries-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/145865",
+        "dub": null,
+        "url": "https://www.animegg.org/candy-caries-episode-6"
+      }
+    ]
   }
 ]
