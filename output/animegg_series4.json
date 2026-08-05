@@ -10456,5 +10456,87 @@
         "url": "https://www.animegg.org/mahou-shoujanoho-lyrical-na-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3206,
+    "title": "Mushi Uta",
+    "animegg_url": "https://www.animegg.org/series/mushi-uta",
+    "mal_url": "https://myanimelist.net/anime/2603",
+    "mal_id": 2603,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/24828",
+        "dub": null,
+        "url": "https://www.animegg.org/mushi-uta-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/24823",
+        "dub": null,
+        "url": "https://www.animegg.org/mushi-uta-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/24820",
+        "dub": null,
+        "url": "https://www.animegg.org/mushi-uta-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/24822",
+        "dub": null,
+        "url": "https://www.animegg.org/mushi-uta-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/24821",
+        "dub": null,
+        "url": "https://www.animegg.org/mushi-uta-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/24824",
+        "dub": null,
+        "url": "https://www.animegg.org/mushi-uta-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/24826",
+        "dub": null,
+        "url": "https://www.animegg.org/mushi-uta-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/24827",
+        "dub": null,
+        "url": "https://www.animegg.org/mushi-uta-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/24825",
+        "dub": null,
+        "url": "https://www.animegg.org/mushi-uta-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/24829",
+        "dub": null,
+        "url": "https://www.animegg.org/mushi-uta-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/24830",
+        "dub": null,
+        "url": "https://www.animegg.org/mushi-uta-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/24831",
+        "dub": null,
+        "url": "https://www.animegg.org/mushi-uta-episode-12"
+      }
+    ]
   }
 ]
