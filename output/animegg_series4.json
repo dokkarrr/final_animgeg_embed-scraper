@@ -99734,5 +99734,87 @@
         "url": "https://www.animegg.org/tensui-no-sakuna-hime-episode-15"
       }
     ]
+  },
+  {
+    "serial_no": 4395,
+    "title": "Kemurikusa (TV)",
+    "animegg_url": "https://www.animegg.org/series/kemurikusa-tv",
+    "mal_url": "https://myanimelist.net/anime/37302",
+    "mal_id": 37302,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/94165",
+        "dub": null,
+        "url": "https://www.animegg.org/kemurikusa-tv-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/94240",
+        "dub": null,
+        "url": "https://www.animegg.org/kemurikusa-tv-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/94305",
+        "dub": null,
+        "url": "https://www.animegg.org/kemurikusa-tv-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/94369",
+        "dub": null,
+        "url": "https://www.animegg.org/kemurikusa-tv-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/94435",
+        "dub": null,
+        "url": "https://www.animegg.org/kemurikusa-tv-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/94499",
+        "dub": null,
+        "url": "https://www.animegg.org/kemurikusa-tv-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/94567",
+        "dub": null,
+        "url": "https://www.animegg.org/kemurikusa-tv-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/94642",
+        "dub": null,
+        "url": "https://www.animegg.org/kemurikusa-tv-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/94706",
+        "dub": null,
+        "url": "https://www.animegg.org/kemurikusa-tv-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/94772",
+        "dub": null,
+        "url": "https://www.animegg.org/kemurikusa-tv-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/94833",
+        "dub": null,
+        "url": "https://www.animegg.org/kemurikusa-tv-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/94926",
+        "dub": null,
+        "url": "https://www.animegg.org/kemurikusa-tv-episode-12"
+      }
+    ]
   }
 ]
