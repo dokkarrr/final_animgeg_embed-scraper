@@ -80946,5 +80946,87 @@
         "url": "https://www.animegg.org/date-a-live-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4138,
+    "title": "With You and the Rain",
+    "animegg_url": "https://www.animegg.org/series/with-you-and-the-rain",
+    "mal_url": "https://myanimelist.net/anime/59619",
+    "mal_id": 59619,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/141577",
+        "dub": "https://www.animegg.org/embed/141785",
+        "url": "https://www.animegg.org/with-you-and-the-rain-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/141686",
+        "dub": "https://www.animegg.org/embed/141920",
+        "url": "https://www.animegg.org/with-you-and-the-rain-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/141799",
+        "dub": "https://www.animegg.org/embed/142041",
+        "url": "https://www.animegg.org/with-you-and-the-rain-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/141908",
+        "dub": "https://www.animegg.org/embed/142162",
+        "url": "https://www.animegg.org/with-you-and-the-rain-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/142039",
+        "dub": "https://www.animegg.org/embed/142279",
+        "url": "https://www.animegg.org/with-you-and-the-rain-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/142155",
+        "dub": null,
+        "url": "https://www.animegg.org/with-you-and-the-rain-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/142271",
+        "dub": "https://www.animegg.org/embed/142428",
+        "url": "https://www.animegg.org/with-you-and-the-rain-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/with-you-and-the-rain-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/142569",
+        "dub": null,
+        "url": "https://www.animegg.org/with-you-and-the-rain-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/142480",
+        "dub": "https://www.animegg.org/embed/142645",
+        "url": "https://www.animegg.org/with-you-and-the-rain-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/142534",
+        "dub": "https://www.animegg.org/embed/142733",
+        "url": "https://www.animegg.org/with-you-and-the-rain-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/142821",
+        "dub": null,
+        "url": "https://www.animegg.org/with-you-and-the-rain-episode-12"
+      }
+    ]
   }
 ]
