@@ -28856,5 +28856,87 @@
         "url": "https://www.animegg.org/wake-up-girl-zoo-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 3411,
+    "title": "Senryuu Shoujo",
+    "animegg_url": "https://www.animegg.org/series/senryuu-shoujo",
+    "mal_url": "https://myanimelist.net/anime/38787",
+    "mal_id": 38787,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/95005",
+        "dub": null,
+        "url": "https://www.animegg.org/senryuu-shoujo-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/95068",
+        "dub": null,
+        "url": "https://www.animegg.org/senryuu-shoujo-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/95126",
+        "dub": null,
+        "url": "https://www.animegg.org/senryuu-shoujo-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/95192",
+        "dub": null,
+        "url": "https://www.animegg.org/senryuu-shoujo-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/95257",
+        "dub": null,
+        "url": "https://www.animegg.org/senryuu-shoujo-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/95313",
+        "dub": null,
+        "url": "https://www.animegg.org/senryuu-shoujo-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/95374",
+        "dub": null,
+        "url": "https://www.animegg.org/senryuu-shoujo-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/95437",
+        "dub": null,
+        "url": "https://www.animegg.org/senryuu-shoujo-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/95516",
+        "dub": null,
+        "url": "https://www.animegg.org/senryuu-shoujo-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/95576",
+        "dub": null,
+        "url": "https://www.animegg.org/senryuu-shoujo-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/95641",
+        "dub": null,
+        "url": "https://www.animegg.org/senryuu-shoujo-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/95704",
+        "dub": null,
+        "url": "https://www.animegg.org/senryuu-shoujo-episode-12"
+      }
+    ]
   }
 ]
