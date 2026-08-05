@@ -19904,5 +19904,21 @@
         "url": "https://www.animegg.org/pretty-rhythm-all-stars-selection-prism-show-best-ten-movie-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5966,
+    "title": "Keroro Gunsou Movie 2",
+    "animegg_url": "https://www.animegg.org/series/keroro-gunsou-movie-2",
+    "mal_url": "https://myanimelist.net/anime/2408",
+    "mal_id": 2408,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/56615",
+        "dub": null,
+        "url": "https://www.animegg.org/keroro-gunsou-movie-2-episode-1"
+      }
+    ]
   }
 ]
