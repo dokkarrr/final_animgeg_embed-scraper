@@ -40134,5 +40134,87 @@
         "url": "https://www.animegg.org/100-man-no-inochi-no-ue-ni-ore-wa-tatteiru-2nd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3547,
+    "title": "Shin Chuuka Ichiban!",
+    "animegg_url": "https://www.animegg.org/series/shin-chuuka-ichiban",
+    "mal_url": "https://myanimelist.net/anime/39194",
+    "mal_id": 39194,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/96696",
+        "dub": null,
+        "url": "https://www.animegg.org/shin-chuuka-ichiban-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/96761",
+        "dub": null,
+        "url": "https://www.animegg.org/shin-chuuka-ichiban-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/96829",
+        "dub": null,
+        "url": "https://www.animegg.org/shin-chuuka-ichiban-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/96892",
+        "dub": null,
+        "url": "https://www.animegg.org/shin-chuuka-ichiban-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/96952",
+        "dub": null,
+        "url": "https://www.animegg.org/shin-chuuka-ichiban-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/97013",
+        "dub": null,
+        "url": "https://www.animegg.org/shin-chuuka-ichiban-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/97080",
+        "dub": null,
+        "url": "https://www.animegg.org/shin-chuuka-ichiban-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/97149",
+        "dub": null,
+        "url": "https://www.animegg.org/shin-chuuka-ichiban-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/97212",
+        "dub": null,
+        "url": "https://www.animegg.org/shin-chuuka-ichiban-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/97279",
+        "dub": null,
+        "url": "https://www.animegg.org/shin-chuuka-ichiban-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/97343",
+        "dub": null,
+        "url": "https://www.animegg.org/shin-chuuka-ichiban-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/97404",
+        "dub": null,
+        "url": "https://www.animegg.org/shin-chuuka-ichiban-episode-12"
+      }
+    ]
   }
 ]
