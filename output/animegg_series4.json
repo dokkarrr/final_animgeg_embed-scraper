@@ -104702,5 +104702,87 @@
         "url": "https://www.animegg.org/maria-sama-ga-miteru-3rd-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4491,
+    "title": "Snowball Earth",
+    "animegg_url": "https://www.animegg.org/series/snowball-earth",
+    "mal_url": "https://myanimelist.net/anime/62068",
+    "mal_id": 62068,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/145363",
+        "dub": "https://www.animegg.org/embed/145365",
+        "url": "https://www.animegg.org/snowball-earth-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/145413",
+        "dub": "https://www.animegg.org/embed/145415",
+        "url": "https://www.animegg.org/snowball-earth-episode-2"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/145455",
+        "dub": "https://www.animegg.org/embed/145489",
+        "url": "https://www.animegg.org/snowball-earth-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/145582",
+        "dub": "https://www.animegg.org/embed/145586",
+        "url": "https://www.animegg.org/snowball-earth-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/145686",
+        "dub": null,
+        "url": "https://www.animegg.org/snowball-earth-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/145773",
+        "dub": "https://www.animegg.org/embed/145776",
+        "url": "https://www.animegg.org/snowball-earth-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/145888",
+        "dub": "https://www.animegg.org/embed/145896",
+        "url": "https://www.animegg.org/snowball-earth-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/145981",
+        "dub": null,
+        "url": "https://www.animegg.org/snowball-earth-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/146018",
+        "dub": null,
+        "url": "https://www.animegg.org/snowball-earth-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/146083",
+        "dub": "https://www.animegg.org/embed/146107",
+        "url": "https://www.animegg.org/snowball-earth-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/146155",
+        "dub": "https://www.animegg.org/embed/146158",
+        "url": "https://www.animegg.org/snowball-earth-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/146224",
+        "dub": "https://www.animegg.org/embed/146235",
+        "url": "https://www.animegg.org/snowball-earth-episode-13"
+      }
+    ]
   }
 ]
