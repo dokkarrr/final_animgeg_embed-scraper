@@ -65592,5 +65592,27 @@
         "url": "https://www.animegg.org/anime-mirai-2014-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3889,
+    "title": "Kaichou Wa Maid-sama Special",
+    "animegg_url": "https://www.animegg.org/series/kaichou-wa-maid-sama-ova",
+    "mal_url": "https://myanimelist.net/anime/32603",
+    "mal_id": 32603,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/18935",
+        "dub": null,
+        "url": "https://www.animegg.org/kaichou-wa-maid-sama-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/18936",
+        "dub": null,
+        "url": "https://www.animegg.org/kaichou-wa-maid-sama-ova-episode-2"
+      }
+    ]
   }
 ]
