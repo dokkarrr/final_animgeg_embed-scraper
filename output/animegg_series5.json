@@ -18070,5 +18070,51 @@
         "url": "https://www.animegg.org/made-in-abyss-movie-3-fukaki-tamashii-no-reimei-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5923,
+    "title": "Aikatsu on Parade! (ONA)",
+    "animegg_url": "https://www.animegg.org/series/aikatsu-on-parade-ona",
+    "mal_url": "https://myanimelist.net/anime/41555",
+    "mal_id": 41555,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/98231",
+        "dub": null,
+        "url": "https://www.animegg.org/aikatsu-on-parade-ona-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/98343",
+        "dub": null,
+        "url": "https://www.animegg.org/aikatsu-on-parade-ona-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/98444",
+        "dub": null,
+        "url": "https://www.animegg.org/aikatsu-on-parade-ona-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/98679",
+        "dub": null,
+        "url": "https://www.animegg.org/aikatsu-on-parade-ona-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/98935",
+        "dub": null,
+        "url": "https://www.animegg.org/aikatsu-on-parade-ona-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/98936",
+        "dub": null,
+        "url": "https://www.animegg.org/aikatsu-on-parade-ona-episode-6"
+      }
+    ]
   }
 ]
