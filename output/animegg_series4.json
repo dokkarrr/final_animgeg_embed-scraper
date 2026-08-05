@@ -115334,5 +115334,33 @@
         "url": "https://www.animegg.org/gunnm-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 4662,
+    "title": "Mobile Suit Gundam MS IGLOO 2: Gravity of the Battlefront",
+    "animegg_url": "https://www.animegg.org/series/mobile-suit-gundam-ms-igloo-2-gravity-of-the-battlefront",
+    "mal_url": "https://myanimelist.net/anime/4232",
+    "mal_id": 4232,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/52772",
+        "dub": null,
+        "url": "https://www.animegg.org/mobile-suit-gundam-ms-igloo-2-gravity-of-the-battlefront-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/52771",
+        "dub": null,
+        "url": "https://www.animegg.org/mobile-suit-gundam-ms-igloo-2-gravity-of-the-battlefront-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/52770",
+        "dub": null,
+        "url": "https://www.animegg.org/mobile-suit-gundam-ms-igloo-2-gravity-of-the-battlefront-episode-1"
+      }
+    ]
   }
 ]
