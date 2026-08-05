@@ -101688,5 +101688,93 @@
         "url": "https://www.animegg.org/tomb-raider-king-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 4429,
+    "title": "Kami wa Game ni Ueteiru.",
+    "animegg_url": "https://www.animegg.org/series/kami-wa-game-ni-ueteiru",
+    "mal_url": "https://myanimelist.net/anime/50869",
+    "mal_id": 50869,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/133476",
+        "dub": null,
+        "url": "https://www.animegg.org/kami-wa-game-ni-ueteiru-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/133581",
+        "dub": null,
+        "url": "https://www.animegg.org/kami-wa-game-ni-ueteiru-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/133657",
+        "dub": null,
+        "url": "https://www.animegg.org/kami-wa-game-ni-ueteiru-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/133744",
+        "dub": null,
+        "url": "https://www.animegg.org/kami-wa-game-ni-ueteiru-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kami-wa-game-ni-ueteiru-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/134001",
+        "dub": null,
+        "url": "https://www.animegg.org/kami-wa-game-ni-ueteiru-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/134118",
+        "dub": null,
+        "url": "https://www.animegg.org/kami-wa-game-ni-ueteiru-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kami-wa-game-ni-ueteiru-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/134466",
+        "dub": null,
+        "url": "https://www.animegg.org/kami-wa-game-ni-ueteiru-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/134652",
+        "dub": null,
+        "url": "https://www.animegg.org/kami-wa-game-ni-ueteiru-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/134797",
+        "dub": null,
+        "url": "https://www.animegg.org/kami-wa-game-ni-ueteiru-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/134964",
+        "dub": null,
+        "url": "https://www.animegg.org/kami-wa-game-ni-ueteiru-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/135114",
+        "dub": null,
+        "url": "https://www.animegg.org/kami-wa-game-ni-ueteiru-episode-13"
+      }
+    ]
   }
 ]
