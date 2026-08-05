@@ -112610,5 +112610,21 @@
         "url": "https://www.animegg.org/ex-driver-the-movie-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 4620,
+    "title": "Okusama ga Seitokaichou! OVA",
+    "animegg_url": "https://www.animegg.org/series/okusama-ga-seitokaichou-ova",
+    "mal_url": "https://myanimelist.net/anime/32603",
+    "mal_id": 32603,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/80960",
+        "dub": null,
+        "url": "https://www.animegg.org/okusama-ga-seitokaichou-ova-episode-1"
+      }
+    ]
   }
 ]
