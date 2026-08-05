@@ -137055,5 +137055,93 @@
         "url": "https://www.animegg.org/wizard-barristers-benmashi-cecil-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2715,
+    "title": "Tokko",
+    "animegg_url": "https://www.animegg.org/series/tokko",
+    "mal_url": "https://myanimelist.net/anime/916",
+    "mal_id": 916,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/38400",
+        "dub": "https://www.animegg.org/embed/70602",
+        "url": "https://www.animegg.org/tokko-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/38401",
+        "dub": "https://www.animegg.org/embed/70603",
+        "url": "https://www.animegg.org/tokko-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/38404",
+        "dub": "https://www.animegg.org/embed/70604",
+        "url": "https://www.animegg.org/tokko-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/38402",
+        "dub": "https://www.animegg.org/embed/70605",
+        "url": "https://www.animegg.org/tokko-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/38403",
+        "dub": "https://www.animegg.org/embed/70606",
+        "url": "https://www.animegg.org/tokko-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/38409",
+        "dub": "https://www.animegg.org/embed/70607",
+        "url": "https://www.animegg.org/tokko-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/38407",
+        "dub": "https://www.animegg.org/embed/70608",
+        "url": "https://www.animegg.org/tokko-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/38408",
+        "dub": "https://www.animegg.org/embed/70609",
+        "url": "https://www.animegg.org/tokko-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/38406",
+        "dub": "https://www.animegg.org/embed/70610",
+        "url": "https://www.animegg.org/tokko-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/38405",
+        "dub": "https://www.animegg.org/embed/70611",
+        "url": "https://www.animegg.org/tokko-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/38410",
+        "dub": "https://www.animegg.org/embed/70612",
+        "url": "https://www.animegg.org/tokko-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/38411",
+        "dub": "https://www.animegg.org/embed/70613",
+        "url": "https://www.animegg.org/tokko-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/38412",
+        "dub": "https://www.animegg.org/embed/70614",
+        "url": "https://www.animegg.org/tokko-episode-13"
+      }
+    ]
   }
 ]
