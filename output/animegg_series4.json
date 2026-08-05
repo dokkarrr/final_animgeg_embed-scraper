@@ -49562,5 +49562,51 @@
         "url": "https://www.animegg.org/agents-of-the-four-seasons-dance-of-spring-episode-14"
       }
     ]
+  },
+  {
+    "serial_no": 3669,
+    "title": "Senran Kagura Specials",
+    "animegg_url": "https://www.animegg.org/series/senran-kagura-specials",
+    "mal_url": "https://myanimelist.net/anime/17345",
+    "mal_id": 17345,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/33993",
+        "dub": null,
+        "url": "https://www.animegg.org/senran-kagura-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/33992",
+        "dub": null,
+        "url": "https://www.animegg.org/senran-kagura-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/33991",
+        "dub": null,
+        "url": "https://www.animegg.org/senran-kagura-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/33990",
+        "dub": null,
+        "url": "https://www.animegg.org/senran-kagura-specials-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/33994",
+        "dub": null,
+        "url": "https://www.animegg.org/senran-kagura-specials-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/33995",
+        "dub": null,
+        "url": "https://www.animegg.org/senran-kagura-specials-episode-6"
+      }
+    ]
   }
 ]
