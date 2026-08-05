@@ -119587,5 +119587,21 @@
         "url": "https://www.animegg.org/goodbye-lara-episode-5"
       }
     ]
+  },
+  {
+    "serial_no": 6900,
+    "title": "Dragon Quest: Your Story",
+    "animegg_url": "https://www.animegg.org/series/dragon-quest-your-story",
+    "mal_url": "https://myanimelist.net/anime/39274",
+    "mal_id": 39274,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/98664",
+        "dub": null,
+        "url": "https://www.animegg.org/dragon-quest-your-story-episode-1"
+      }
+    ]
   }
 ]
