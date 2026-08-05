@@ -34996,5 +34996,21 @@
         "url": "https://www.animegg.org/shin-koihime-musou-otome-tairan-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6166,
+    "title": "Morita-San Wa Mukuchi OVA",
+    "animegg_url": "https://www.animegg.org/series/morita-san-wa-mukuchi-ova",
+    "mal_url": "https://myanimelist.net/anime/10671",
+    "mal_id": 10671,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/24674",
+        "dub": null,
+        "url": "https://www.animegg.org/morita-san-wa-mukuchi-ova-episode-1"
+      }
+    ]
   }
 ]
