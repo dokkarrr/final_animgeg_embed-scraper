@@ -110822,5 +110822,69 @@
         "url": "https://www.animegg.org/senpai-wa-otokonoko-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4584,
+    "title": "Betrothed to My Sister's Ex",
+    "animegg_url": "https://www.animegg.org/series/betrothed-to-my-sister-s-ex",
+    "mal_url": "https://myanimelist.net/anime/59421",
+    "mal_id": 59421,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/141564",
+        "dub": null,
+        "url": "https://www.animegg.org/betrothed-to-my-sister-s-ex-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/141669",
+        "dub": null,
+        "url": "https://www.animegg.org/betrothed-to-my-sister-s-ex-episode-2"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/141873",
+        "dub": null,
+        "url": "https://www.animegg.org/betrothed-to-my-sister-s-ex-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/142017",
+        "dub": null,
+        "url": "https://www.animegg.org/betrothed-to-my-sister-s-ex-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/142131",
+        "dub": null,
+        "url": "https://www.animegg.org/betrothed-to-my-sister-s-ex-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/142256",
+        "dub": null,
+        "url": "https://www.animegg.org/betrothed-to-my-sister-s-ex-episode-7"
+      },
+      {
+        "ep": 10,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/betrothed-to-my-sister-s-ex-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/142523",
+        "dub": null,
+        "url": "https://www.animegg.org/betrothed-to-my-sister-s-ex-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/142635",
+        "dub": null,
+        "url": "https://www.animegg.org/betrothed-to-my-sister-s-ex-episode-12"
+      }
+    ]
   }
 ]
