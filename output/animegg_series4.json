@@ -128584,5 +128584,21 @@
         "url": "https://www.animegg.org/a-letter-to-momo-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4853,
+    "title": "Slam Dunk Movie 4",
+    "animegg_url": "https://www.animegg.org/series/slam-dunk-movie-4",
+    "mal_url": "https://myanimelist.net/anime/2499",
+    "mal_id": 2499,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/61735",
+        "dub": null,
+        "url": "https://www.animegg.org/slam-dunk-movie-4-episode-1"
+      }
+    ]
   }
 ]
