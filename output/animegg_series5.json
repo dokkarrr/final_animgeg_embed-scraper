@@ -17232,5 +17232,21 @@
         "url": "https://www.animegg.org/celestial-bonds-episode-18"
       }
     ]
+  },
+  {
+    "serial_no": 5904,
+    "title": "Genshiken Nidaime OVA",
+    "animegg_url": "https://www.animegg.org/series/genshiken-nidaime-ova",
+    "mal_url": "https://myanimelist.net/anime/19159",
+    "mal_id": 19159,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/12236",
+        "dub": null,
+        "url": "https://www.animegg.org/genshiken-nidaime-ova-episode-1"
+      }
+    ]
   }
 ]
