@@ -117754,5 +117754,21 @@
         "url": "https://www.animegg.org/dog-days-specials-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 4706,
+    "title": "Amagi Brilliant Park OVA",
+    "animegg_url": "https://www.animegg.org/series/amagi-brilliant-park-ova",
+    "mal_url": "https://myanimelist.net/anime/1082",
+    "mal_id": 1082,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/77563",
+        "dub": "https://www.animegg.org/embed/77604",
+        "url": "https://www.animegg.org/amagi-brilliant-park-ova-episode-1"
+      }
+    ]
   }
 ]
