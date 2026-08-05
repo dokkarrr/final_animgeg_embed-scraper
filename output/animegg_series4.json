@@ -111914,5 +111914,87 @@
         "url": "https://www.animegg.org/gundam-ms-igloo-the-hidden-one-year-war-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 4608,
+    "title": "Yatogame-chan Kansatsu Nikki",
+    "animegg_url": "https://www.animegg.org/series/yatogame-chan-kansatsu-nikki",
+    "mal_url": "https://myanimelist.net/anime/37940",
+    "mal_id": 37940,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/94995",
+        "dub": "https://www.animegg.org/embed/95032",
+        "url": "https://www.animegg.org/yatogame-chan-kansatsu-nikki-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/95095",
+        "dub": null,
+        "url": "https://www.animegg.org/yatogame-chan-kansatsu-nikki-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/95159",
+        "dub": null,
+        "url": "https://www.animegg.org/yatogame-chan-kansatsu-nikki-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/95226",
+        "dub": null,
+        "url": "https://www.animegg.org/yatogame-chan-kansatsu-nikki-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/95280",
+        "dub": null,
+        "url": "https://www.animegg.org/yatogame-chan-kansatsu-nikki-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/95345",
+        "dub": null,
+        "url": "https://www.animegg.org/yatogame-chan-kansatsu-nikki-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/95404",
+        "dub": null,
+        "url": "https://www.animegg.org/yatogame-chan-kansatsu-nikki-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/95465",
+        "dub": null,
+        "url": "https://www.animegg.org/yatogame-chan-kansatsu-nikki-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/95533",
+        "dub": null,
+        "url": "https://www.animegg.org/yatogame-chan-kansatsu-nikki-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/95612",
+        "dub": null,
+        "url": "https://www.animegg.org/yatogame-chan-kansatsu-nikki-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/95678",
+        "dub": null,
+        "url": "https://www.animegg.org/yatogame-chan-kansatsu-nikki-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/95738",
+        "dub": null,
+        "url": "https://www.animegg.org/yatogame-chan-kansatsu-nikki-episode-12"
+      }
+    ]
   }
 ]
