@@ -64853,5 +64853,21 @@
         "url": "https://www.animegg.org/voltron---vehicle-force-dub-episode-52"
       }
     ]
+  },
+  {
+    "serial_no": 6443,
+    "title": "Haikara-san ga Tooru Movie 1: Benio, Hana no 17-sai",
+    "animegg_url": "https://www.animegg.org/series/haikara-san-ga-tooru-movie-1-benio-hana-no-17-sai",
+    "mal_url": "https://myanimelist.net/anime/33378",
+    "mal_id": 33378,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/94051",
+        "dub": null,
+        "url": "https://www.animegg.org/haikara-san-ga-tooru-movie-1-benio-hana-no-17-sai-episode-1"
+      }
+    ]
   }
 ]
