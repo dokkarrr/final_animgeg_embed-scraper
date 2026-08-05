@@ -121798,5 +121798,39 @@
         "url": "https://www.animegg.org/d4dj-all-mix-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4760,
+    "title": "Black Jack Specials",
+    "animegg_url": "https://www.animegg.org/series/Black-Jack-Specials",
+    "mal_url": "https://myanimelist.net/anime/1373",
+    "mal_id": 1373,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/48955",
+        "dub": null,
+        "url": "https://www.animegg.org/black-jack-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/48956",
+        "dub": null,
+        "url": "https://www.animegg.org/black-jack-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/48957",
+        "dub": null,
+        "url": "https://www.animegg.org/black-jack-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/48958",
+        "dub": null,
+        "url": "https://www.animegg.org/black-jack-specials-episode-4"
+      }
+    ]
   }
 ]
