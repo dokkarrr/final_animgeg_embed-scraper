@@ -83418,5 +83418,93 @@
         "url": "https://www.animegg.org/rezero-kara-hajimeru-isekai-seikatsu---memory-snow-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4159,
+    "title": "Girls Band Cry",
+    "animegg_url": "https://www.animegg.org/series/girls-band-cry",
+    "mal_url": "https://myanimelist.net/anime/55102",
+    "mal_id": 55102,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/133544",
+        "dub": null,
+        "url": "https://www.animegg.org/girls-band-cry-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/133621",
+        "dub": null,
+        "url": "https://www.animegg.org/girls-band-cry-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/133703",
+        "dub": null,
+        "url": "https://www.animegg.org/girls-band-cry-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/133791",
+        "dub": null,
+        "url": "https://www.animegg.org/girls-band-cry-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/133948",
+        "dub": null,
+        "url": "https://www.animegg.org/girls-band-cry-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/girls-band-cry-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/134231",
+        "dub": null,
+        "url": "https://www.animegg.org/girls-band-cry-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/134437",
+        "dub": null,
+        "url": "https://www.animegg.org/girls-band-cry-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/134571",
+        "dub": null,
+        "url": "https://www.animegg.org/girls-band-cry-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/134741",
+        "dub": null,
+        "url": "https://www.animegg.org/girls-band-cry-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/134902",
+        "dub": null,
+        "url": "https://www.animegg.org/girls-band-cry-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/135054",
+        "dub": null,
+        "url": "https://www.animegg.org/girls-band-cry-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/135179",
+        "dub": null,
+        "url": "https://www.animegg.org/girls-band-cry-episode-13"
+      }
+    ]
   }
 ]
