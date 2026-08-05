@@ -104986,5 +104986,87 @@
         "url": "https://www.animegg.org/rurouni-kenshin-shin-kyoto-hen-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 4496,
+    "title": "Akane-banashi",
+    "animegg_url": "https://www.animegg.org/series/akane-banashi",
+    "mal_url": "https://myanimelist.net/anime/62164",
+    "mal_id": 62164,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/145383",
+        "dub": "https://www.animegg.org/embed/145806",
+        "url": "https://www.animegg.org/akane-banashi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/145801",
+        "dub": null,
+        "url": "https://www.animegg.org/akane-banashi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/145920",
+        "dub": null,
+        "url": "https://www.animegg.org/akane-banashi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/145485",
+        "dub": null,
+        "url": "https://www.animegg.org/akane-banashi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/145602",
+        "dub": "https://www.animegg.org/embed/146056",
+        "url": "https://www.animegg.org/akane-banashi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/145695",
+        "dub": "https://www.animegg.org/embed/146096",
+        "url": "https://www.animegg.org/akane-banashi-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/145790",
+        "dub": "https://www.animegg.org/embed/146176",
+        "url": "https://www.animegg.org/akane-banashi-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/145908",
+        "dub": "https://www.animegg.org/embed/146248",
+        "url": "https://www.animegg.org/akane-banashi-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/146314",
+        "dub": null,
+        "url": "https://www.animegg.org/akane-banashi-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/146394",
+        "dub": null,
+        "url": "https://www.animegg.org/akane-banashi-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/146099",
+        "dub": "https://www.animegg.org/embed/146485",
+        "url": "https://www.animegg.org/akane-banashi-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/146160",
+        "dub": "https://www.animegg.org/embed/146571",
+        "url": "https://www.animegg.org/akane-banashi-episode-12"
+      }
+    ]
   }
 ]
