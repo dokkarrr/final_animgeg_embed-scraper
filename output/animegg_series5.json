@@ -9983,5 +9983,21 @@
         "url": "https://www.animegg.org/darling-in-the-franxx-dub-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 5770,
+    "title": "Yowamushi Pedal: Special Ride",
+    "animegg_url": "https://www.animegg.org/series/yowamushi-pedal-special-ride",
+    "mal_url": "https://myanimelist.net/anime/18177",
+    "mal_id": 18177,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/44038",
+        "dub": null,
+        "url": "https://www.animegg.org/yowamushi-pedal-special-ride-episode-1"
+      }
+    ]
   }
 ]
