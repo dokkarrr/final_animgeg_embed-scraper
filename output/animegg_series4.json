@@ -95918,5 +95918,21 @@
         "url": "https://www.animegg.org/there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-to-her-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 4353,
+    "title": "Pokemon: The First Movie - Mewtwo Strikes Back",
+    "animegg_url": "https://www.animegg.org/series/pokemon-the-first-movie---mewtwo-strikes-back",
+    "mal_url": "https://myanimelist.net/anime/528",
+    "mal_id": 528,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/61224",
+        "dub": null,
+        "url": "https://www.animegg.org/pokemon-the-first-movie---mewtwo-strikes-back-episode-1"
+      }
+    ]
   }
 ]
