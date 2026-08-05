@@ -84368,5 +84368,75 @@
         "url": "https://www.animegg.org/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 6614,
+    "title": "Castlevania Season 4",
+    "animegg_url": "https://www.animegg.org/series/castlevania-season-4",
+    "mal_url": "https://myanimelist.net/anime/513",
+    "mal_id": 513,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/101700",
+        "dub": "https://www.animegg.org/embed/128776",
+        "url": "https://www.animegg.org/castlevania-season-4-episode-10"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/128770",
+        "dub": null,
+        "url": "https://www.animegg.org/castlevania-season-4-episode-9"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/128771",
+        "dub": null,
+        "url": "https://www.animegg.org/castlevania-season-4-episode-8"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/128772",
+        "dub": null,
+        "url": "https://www.animegg.org/castlevania-season-4-episode-7"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/128773",
+        "dub": null,
+        "url": "https://www.animegg.org/castlevania-season-4-episode-6"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/128774",
+        "dub": null,
+        "url": "https://www.animegg.org/castlevania-season-4-episode-5"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/128775",
+        "dub": null,
+        "url": "https://www.animegg.org/castlevania-season-4-episode-4"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/128777",
+        "dub": null,
+        "url": "https://www.animegg.org/castlevania-season-4-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/128778",
+        "dub": null,
+        "url": "https://www.animegg.org/castlevania-season-4-episode-2"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/101699",
+        "dub": "https://www.animegg.org/embed/128779",
+        "url": "https://www.animegg.org/castlevania-season-4-episode-1"
+      }
+    ]
   }
 ]
