@@ -4122,5 +4122,21 @@
         "url": "https://www.animegg.org/pokemon-xy-new-years-eve-2014-super-mega-special-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5674,
+    "title": "Pokemon XY: New Year Special",
+    "animegg_url": "https://www.animegg.org/series/pokemon-xy-new-year-special",
+    "mal_url": "https://myanimelist.net/anime/21703",
+    "mal_id": 21703,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/61278",
+        "dub": null,
+        "url": "https://www.animegg.org/pokemon-xy-new-year-special-episode-1"
+      }
+    ]
   }
 ]
