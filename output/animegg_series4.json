@@ -69360,5 +69360,21 @@
         "url": "https://www.animegg.org/ame-iro-cocoa-series-ame-con-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3937,
+    "title": "Overlord Movie 1: Fushisha no Ou",
+    "animegg_url": "https://www.animegg.org/series/overlord-movie-1-fushisha-no-ou",
+    "mal_url": "https://myanimelist.net/anime/34161",
+    "mal_id": 34161,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/88493",
+        "dub": null,
+        "url": "https://www.animegg.org/overlord-movie-1-fushisha-no-ou-episode-1"
+      }
+    ]
   }
 ]
