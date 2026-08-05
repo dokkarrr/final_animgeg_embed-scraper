@@ -56856,5 +56856,21 @@
         "url": "https://www.animegg.org/dragon-ball-z-movie-07-super-android-13-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3766,
+    "title": "Girls und Panzer der Film -MOVIE",
+    "animegg_url": "https://www.animegg.org/series/girls-und-panzer-der-film",
+    "mal_url": "https://myanimelist.net/anime/18617",
+    "mal_id": 18617,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/82469",
+        "dub": "https://www.animegg.org/embed/87148",
+        "url": "https://www.animegg.org/girls-und-panzer-der-film-episode-1"
+      }
+    ]
   }
 ]
