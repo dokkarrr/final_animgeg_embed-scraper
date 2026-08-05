@@ -126828,5 +126828,39 @@
         "url": "https://www.animegg.org/haikyuu-to-the-top-2nd-season-dub-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4828,
+    "title": "Kidou Shinsengumi Moeyo Ken",
+    "animegg_url": "https://www.animegg.org/series/kidou-shinsengumi-moeyo-ken",
+    "mal_url": "https://myanimelist.net/anime/1058",
+    "mal_id": 1058,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/56473",
+        "dub": "https://www.animegg.org/embed/56474",
+        "url": "https://www.animegg.org/kidou-shinsengumi-moeyo-ken-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/56475",
+        "dub": "https://www.animegg.org/embed/56476",
+        "url": "https://www.animegg.org/kidou-shinsengumi-moeyo-ken-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/56477",
+        "dub": "https://www.animegg.org/embed/56478",
+        "url": "https://www.animegg.org/kidou-shinsengumi-moeyo-ken-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/56479",
+        "dub": "https://www.animegg.org/embed/56480",
+        "url": "https://www.animegg.org/kidou-shinsengumi-moeyo-ken-episode-4"
+      }
+    ]
   }
 ]
