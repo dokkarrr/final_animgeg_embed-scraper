@@ -64254,5 +64254,75 @@
         "url": "https://www.animegg.org/hackgu-returner-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3868,
+    "title": "Blue exorcist season 4",
+    "animegg_url": "https://www.animegg.org/series/ao-no-exorcist-yuki-no-hate-hen",
+    "mal_url": "https://myanimelist.net/anime/58516",
+    "mal_id": 58516,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/139452",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-exorcist-yuki-no-hate-hen-episode-12"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/139377",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-exorcist-yuki-no-hate-hen-episode-11"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/139221",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-exorcist-yuki-no-hate-hen-episode-8"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/139042",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-exorcist-yuki-no-hate-hen-episode-7"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/138842",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-exorcist-yuki-no-hate-hen-episode-6"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/138615",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-exorcist-yuki-no-hate-hen-episode-5"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/138417",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-exorcist-yuki-no-hate-hen-episode-4"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/138181",
+        "dub": "https://www.animegg.org/embed/139060",
+        "url": "https://www.animegg.org/ao-no-exorcist-yuki-no-hate-hen-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-exorcist-yuki-no-hate-hen-episode-2"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/137653",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-exorcist-yuki-no-hate-hen-episode-1"
+      }
+    ]
   }
 ]
