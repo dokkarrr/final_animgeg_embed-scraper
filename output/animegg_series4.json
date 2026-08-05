@@ -95710,5 +95710,75 @@
         "url": "https://www.animegg.org/bna-brand-new-animal-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4349,
+    "title": "Ojou to Banken-kun",
+    "animegg_url": "https://www.animegg.org/series/ojou-to-banken-kun",
+    "mal_url": "https://myanimelist.net/anime/53300",
+    "mal_id": 53300,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/131509",
+        "dub": null,
+        "url": "https://www.animegg.org/ojou-to-banken-kun-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/131623",
+        "dub": null,
+        "url": "https://www.animegg.org/ojou-to-banken-kun-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/131739",
+        "dub": null,
+        "url": "https://www.animegg.org/ojou-to-banken-kun-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/131846",
+        "dub": null,
+        "url": "https://www.animegg.org/ojou-to-banken-kun-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/131960",
+        "dub": null,
+        "url": "https://www.animegg.org/ojou-to-banken-kun-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/132069",
+        "dub": null,
+        "url": "https://www.animegg.org/ojou-to-banken-kun-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/132150",
+        "dub": null,
+        "url": "https://www.animegg.org/ojou-to-banken-kun-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/132241",
+        "dub": null,
+        "url": "https://www.animegg.org/ojou-to-banken-kun-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/132479",
+        "dub": null,
+        "url": "https://www.animegg.org/ojou-to-banken-kun-episode-9"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/132509",
+        "dub": null,
+        "url": "https://www.animegg.org/ojou-to-banken-kun-episode-13"
+      }
+    ]
   }
 ]
