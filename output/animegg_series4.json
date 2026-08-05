@@ -18450,5 +18450,87 @@
         "url": "https://www.animegg.org/mahouka-koukou-no-rettousei-movie-hoshi-wo-yobu-shoujo-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3289,
+    "title": "Chio-chan no Tsuugakuro",
+    "animegg_url": "https://www.animegg.org/series/chio-chan-no-tsuugakuro",
+    "mal_url": "https://myanimelist.net/anime/35821",
+    "mal_id": 35821,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/91769",
+        "dub": null,
+        "url": "https://www.animegg.org/chio-chan-no-tsuugakuro-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/92336",
+        "dub": null,
+        "url": "https://www.animegg.org/chio-chan-no-tsuugakuro-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/91937",
+        "dub": null,
+        "url": "https://www.animegg.org/chio-chan-no-tsuugakuro-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/92042",
+        "dub": null,
+        "url": "https://www.animegg.org/chio-chan-no-tsuugakuro-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/92158",
+        "dub": null,
+        "url": "https://www.animegg.org/chio-chan-no-tsuugakuro-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/92235",
+        "dub": null,
+        "url": "https://www.animegg.org/chio-chan-no-tsuugakuro-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/92394",
+        "dub": null,
+        "url": "https://www.animegg.org/chio-chan-no-tsuugakuro-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/92527",
+        "dub": null,
+        "url": "https://www.animegg.org/chio-chan-no-tsuugakuro-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/92684",
+        "dub": null,
+        "url": "https://www.animegg.org/chio-chan-no-tsuugakuro-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/92781",
+        "dub": null,
+        "url": "https://www.animegg.org/chio-chan-no-tsuugakuro-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/92853",
+        "dub": null,
+        "url": "https://www.animegg.org/chio-chan-no-tsuugakuro-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/92929",
+        "dub": null,
+        "url": "https://www.animegg.org/chio-chan-no-tsuugakuro-episode-12"
+      }
+    ]
   }
 ]
