@@ -50382,5 +50382,63 @@
         "url": "https://www.animegg.org/shadows-house-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3682,
+    "title": "Shin Cutey Honey",
+    "animegg_url": "https://www.animegg.org/series/shin-cutey-honey",
+    "mal_url": "https://myanimelist.net/anime/2497",
+    "mal_id": 2497,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/61072",
+        "dub": "https://www.animegg.org/embed/61073",
+        "url": "https://www.animegg.org/shin-cutey-honey-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/61074",
+        "dub": "https://www.animegg.org/embed/61075",
+        "url": "https://www.animegg.org/shin-cutey-honey-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/61076",
+        "dub": "https://www.animegg.org/embed/61077",
+        "url": "https://www.animegg.org/shin-cutey-honey-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/61078",
+        "dub": "https://www.animegg.org/embed/61079",
+        "url": "https://www.animegg.org/shin-cutey-honey-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/61080",
+        "dub": "https://www.animegg.org/embed/61081",
+        "url": "https://www.animegg.org/shin-cutey-honey-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/61082",
+        "dub": "https://www.animegg.org/embed/61083",
+        "url": "https://www.animegg.org/shin-cutey-honey-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/61084",
+        "dub": "https://www.animegg.org/embed/61085",
+        "url": "https://www.animegg.org/shin-cutey-honey-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/61086",
+        "dub": "https://www.animegg.org/embed/61087",
+        "url": "https://www.animegg.org/shin-cutey-honey-episode-8"
+      }
+    ]
   }
 ]
