@@ -68926,5 +68926,39 @@
         "url": "https://www.animegg.org/smoking-behind-the-supermarket-with-you-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 3929,
+    "title": "Earthian",
+    "animegg_url": "https://www.animegg.org/series/earthian",
+    "mal_url": "https://myanimelist.net/anime/1324",
+    "mal_id": 1324,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/51110",
+        "dub": "https://www.animegg.org/embed/51111",
+        "url": "https://www.animegg.org/earthian-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/51112",
+        "dub": "https://www.animegg.org/embed/51113",
+        "url": "https://www.animegg.org/earthian-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/51114",
+        "dub": "https://www.animegg.org/embed/51115",
+        "url": "https://www.animegg.org/earthian-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/51116",
+        "dub": "https://www.animegg.org/embed/51117",
+        "url": "https://www.animegg.org/earthian-episode-4"
+      }
+    ]
   }
 ]
