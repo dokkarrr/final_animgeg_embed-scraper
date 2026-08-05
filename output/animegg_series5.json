@@ -57803,5 +57803,21 @@
         "url": "https://www.animegg.org/the-eternal-god-king-episode-130"
       }
     ]
+  },
+  {
+    "serial_no": 6380,
+    "title": "Mobile Suit Gundam: Hathaway's Flash",
+    "animegg_url": "https://www.animegg.org/series/mobile-suit-gundam-hathaway-s-flash",
+    "mal_url": "https://myanimelist.net/anime/37765",
+    "mal_id": 37765,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/102072",
+        "dub": null,
+        "url": "https://www.animegg.org/mobile-suit-gundam-hathaway-s-flash-episode-1"
+      }
+    ]
   }
 ]
