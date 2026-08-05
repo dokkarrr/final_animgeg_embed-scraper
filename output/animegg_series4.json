@@ -3254,5 +3254,93 @@
         "url": "https://www.animegg.org/starmyu-2nd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3114,
+    "title": "Flag",
+    "animegg_url": "https://www.animegg.org/series/flag",
+    "mal_url": "https://myanimelist.net/anime/1299",
+    "mal_id": 1299,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/51532",
+        "dub": null,
+        "url": "https://www.animegg.org/flag-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/51533",
+        "dub": null,
+        "url": "https://www.animegg.org/flag-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/51534",
+        "dub": null,
+        "url": "https://www.animegg.org/flag-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/51535",
+        "dub": null,
+        "url": "https://www.animegg.org/flag-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/51536",
+        "dub": null,
+        "url": "https://www.animegg.org/flag-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/51537",
+        "dub": null,
+        "url": "https://www.animegg.org/flag-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/51538",
+        "dub": null,
+        "url": "https://www.animegg.org/flag-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/51539",
+        "dub": null,
+        "url": "https://www.animegg.org/flag-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/51540",
+        "dub": null,
+        "url": "https://www.animegg.org/flag-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/51541",
+        "dub": null,
+        "url": "https://www.animegg.org/flag-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/51542",
+        "dub": null,
+        "url": "https://www.animegg.org/flag-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/51543",
+        "dub": null,
+        "url": "https://www.animegg.org/flag-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/51544",
+        "dub": null,
+        "url": "https://www.animegg.org/flag-episode-13"
+      }
+    ]
   }
 ]
