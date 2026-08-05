@@ -26934,5 +26934,51 @@
         "url": "https://www.animegg.org/rerided-tokigoe-no-derrida-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3388,
+    "title": "Itsudatte Bokura no Koi wa 10 cm Datta.",
+    "animegg_url": "https://www.animegg.org/series/itsudatte-bokura-no-koi-wa-10-cm-datta",
+    "mal_url": "https://myanimelist.net/anime/36220",
+    "mal_id": 36220,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/89528",
+        "dub": null,
+        "url": "https://www.animegg.org/itsudatte-bokura-no-koi-wa-10-cm-datta-episode-6"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/89459",
+        "dub": null,
+        "url": "https://www.animegg.org/itsudatte-bokura-no-koi-wa-10-cm-datta-episode-5"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/89383",
+        "dub": null,
+        "url": "https://www.animegg.org/itsudatte-bokura-no-koi-wa-10-cm-datta-episode-4"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/89304",
+        "dub": null,
+        "url": "https://www.animegg.org/itsudatte-bokura-no-koi-wa-10-cm-datta-episode-3"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/89228",
+        "dub": null,
+        "url": "https://www.animegg.org/itsudatte-bokura-no-koi-wa-10-cm-datta-episode-2"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/89151",
+        "dub": null,
+        "url": "https://www.animegg.org/itsudatte-bokura-no-koi-wa-10-cm-datta-episode-1"
+      }
+    ]
   }
 ]
