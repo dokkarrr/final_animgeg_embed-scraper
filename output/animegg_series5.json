@@ -5626,5 +5626,21 @@
         "url": "https://www.animegg.org/inazuma-eleven-go-chrono-stone-episode-51"
       }
     ]
+  },
+  {
+    "serial_no": 5696,
+    "title": "Kurage no Shokudou",
+    "animegg_url": "https://www.animegg.org/series/kurage-no-shokudou",
+    "mal_url": "https://myanimelist.net/anime/29301",
+    "mal_id": 29301,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/82690",
+        "dub": null,
+        "url": "https://www.animegg.org/kurage-no-shokudou-episode-1"
+      }
+    ]
   }
 ]
