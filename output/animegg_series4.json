@@ -72886,5 +72886,93 @@
         "url": "https://www.animegg.org/shoujo-kageki-revue-starlight-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3998,
+    "title": "Synduality: Noir",
+    "animegg_url": "https://www.animegg.org/series/synduality-noir",
+    "mal_url": "https://myanimelist.net/anime/53026",
+    "mal_id": 53026,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/130109",
+        "dub": "https://www.animegg.org/embed/140803",
+        "url": "https://www.animegg.org/synduality-noir-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/130303",
+        "dub": null,
+        "url": "https://www.animegg.org/synduality-noir-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/synduality-noir-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/130730",
+        "dub": null,
+        "url": "https://www.animegg.org/synduality-noir-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/130827",
+        "dub": null,
+        "url": "https://www.animegg.org/synduality-noir-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/synduality-noir-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/131000",
+        "dub": null,
+        "url": "https://www.animegg.org/synduality-noir-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/131092",
+        "dub": null,
+        "url": "https://www.animegg.org/synduality-noir-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/131188",
+        "dub": null,
+        "url": "https://www.animegg.org/synduality-noir-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/131297",
+        "dub": null,
+        "url": "https://www.animegg.org/synduality-noir-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/131386",
+        "dub": null,
+        "url": "https://www.animegg.org/synduality-noir-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/131489",
+        "dub": null,
+        "url": "https://www.animegg.org/synduality-noir-episode-12"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/140802",
+        "dub": null,
+        "url": "https://www.animegg.org/synduality-noir-episode-24"
+      }
+    ]
   }
 ]
