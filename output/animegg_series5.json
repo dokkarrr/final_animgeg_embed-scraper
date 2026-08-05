@@ -67353,5 +67353,21 @@
         "url": "https://www.animegg.org/nanatsu-no-taizai-fundo-no-shinpan-dub-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 6474,
+    "title": "Shin Koihime†Musou: Live Revolution",
+    "animegg_url": "https://www.animegg.org/series/shin-koihime-musou-live-revolution",
+    "mal_url": "https://myanimelist.net/anime/8635",
+    "mal_id": 8635,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/61159",
+        "dub": null,
+        "url": "https://www.animegg.org/shin-koihime-musou-live-revolution-episode-1"
+      }
+    ]
   }
 ]
