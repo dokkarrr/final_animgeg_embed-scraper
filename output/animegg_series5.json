@@ -20020,5 +20020,21 @@
         "url": "https://www.animegg.org/yuri-seijin-naoko-san-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5971,
+    "title": "Masamune-kun no Revenge OVA",
+    "animegg_url": "https://www.animegg.org/series/masamune-kun-no-revenge-ova",
+    "mal_url": "https://myanimelist.net/anime/37377",
+    "mal_id": 37377,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/96437",
+        "dub": null,
+        "url": "https://www.animegg.org/masamune-kun-no-revenge-ova-episode-1"
+      }
+    ]
   }
 ]
