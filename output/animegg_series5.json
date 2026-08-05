@@ -20496,5 +20496,51 @@
         "url": "https://www.animegg.org/genmu-senki-leda-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5979,
+    "title": "The Regression of Great Sage Riddle",
+    "animegg_url": "https://www.animegg.org/series/the-regression-of-great-sage-riddle",
+    "mal_url": "https://myanimelist.net/anime/63433",
+    "mal_id": 63433,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/145347",
+        "dub": null,
+        "url": "https://www.animegg.org/the-regression-of-great-sage-riddle-episode-1"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/145580",
+        "dub": null,
+        "url": "https://www.animegg.org/the-regression-of-great-sage-riddle-episode-4"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/145693",
+        "dub": null,
+        "url": "https://www.animegg.org/the-regression-of-great-sage-riddle-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/145808",
+        "dub": null,
+        "url": "https://www.animegg.org/the-regression-of-great-sage-riddle-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/145917",
+        "dub": null,
+        "url": "https://www.animegg.org/the-regression-of-great-sage-riddle-episode-8"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/146175",
+        "dub": null,
+        "url": "https://www.animegg.org/the-regression-of-great-sage-riddle-episode-12"
+      }
+    ]
   }
 ]
