@@ -133992,5 +133992,27 @@
         "url": "https://www.animegg.org/hikyou-tanken-fam-ihrlie-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 4936,
+    "title": "Angelique: Shiroi Tsubasa no Memoire",
+    "animegg_url": "https://www.animegg.org/series/angelique-shiroi-tsubasa-no-memoire",
+    "mal_url": "https://myanimelist.net/anime/2536",
+    "mal_id": 2536,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/65367",
+        "dub": null,
+        "url": "https://www.animegg.org/angelique-shiroi-tsubasa-no-memoire-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/65368",
+        "dub": null,
+        "url": "https://www.animegg.org/angelique-shiroi-tsubasa-no-memoire-episode-2"
+      }
+    ]
   }
 ]
