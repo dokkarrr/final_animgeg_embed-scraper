@@ -67176,5 +67176,39 @@
         "url": "https://www.animegg.org/shingeki-no-kyojin-chronicle-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3913,
+    "title": "Steins;Gate: Sōmei Eichi no Cognitive Computing",
+    "animegg_url": "https://www.animegg.org/series/steins-gate-s-mei-eichi-no-cognitive-computing",
+    "mal_url": "https://myanimelist.net/anime/27957",
+    "mal_id": 27957,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66495",
+        "dub": null,
+        "url": "https://www.animegg.org/steins-gate-s-mei-eichi-no-cognitive-computing-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/66496",
+        "dub": null,
+        "url": "https://www.animegg.org/steins-gate-s-mei-eichi-no-cognitive-computing-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/66518",
+        "dub": null,
+        "url": "https://www.animegg.org/steins-gate-s-mei-eichi-no-cognitive-computing-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/66667",
+        "dub": null,
+        "url": "https://www.animegg.org/steins-gate-s-mei-eichi-no-cognitive-computing-episode-4"
+      }
+    ]
   }
 ]
