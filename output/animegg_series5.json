@@ -55011,5 +55011,21 @@
         "url": "https://www.animegg.org/mutafukaz-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6357,
+    "title": "Yuri Seijin Naoko-san (2012)",
+    "animegg_url": "https://www.animegg.org/series/yuri-seijin-naoko-san-2012",
+    "mal_url": "https://myanimelist.net/anime/12437",
+    "mal_id": 12437,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2012,
+        "sub": "https://www.animegg.org/embed/62978",
+        "dub": null,
+        "url": "https://www.animegg.org/yuri-seijin-naoko-san-2012-episode-1"
+      }
+    ]
   }
 ]
