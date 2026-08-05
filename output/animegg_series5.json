@@ -27762,5 +27762,21 @@
         "url": "https://www.animegg.org/uchuu-senkan-tiramis-specials-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 6060,
+    "title": "xxxHOLiC: Manatsu no Yoru no Yume",
+    "animegg_url": "https://www.animegg.org/series/xxxholic-manatsu-no-yoru-no-yume",
+    "mal_url": "https://myanimelist.net/anime/793",
+    "mal_id": 793,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/63420",
+        "dub": null,
+        "url": "https://www.animegg.org/xxxholic-manatsu-no-yoru-no-yume-episode-1"
+      }
+    ]
   }
 ]
