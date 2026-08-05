@@ -86160,5 +86160,21 @@
         "url": "https://www.animegg.org/yao-shen-ji-7th-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6636,
+    "title": "Spring and Chaos",
+    "animegg_url": "https://www.animegg.org/series/spring-and-chaos",
+    "mal_url": "https://myanimelist.net/anime/1206",
+    "mal_id": 1206,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/62223",
+        "dub": null,
+        "url": "https://www.animegg.org/spring-and-chaos-episode-1"
+      }
+    ]
   }
 ]
