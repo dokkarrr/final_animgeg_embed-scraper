@@ -99944,5 +99944,21 @@
         "url": "https://www.animegg.org/kimi-wa-kanata-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6739,
+    "title": "Zuori Qing Kong",
+    "animegg_url": "https://www.animegg.org/series/zuori-qing-kong",
+    "mal_url": "https://myanimelist.net/anime/37207",
+    "mal_id": 37207,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/95379",
+        "dub": null,
+        "url": "https://www.animegg.org/zuori-qing-kong-episode-1"
+      }
+    ]
   }
 ]
