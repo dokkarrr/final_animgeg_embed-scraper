@@ -121266,5 +121266,51 @@
         "url": "https://www.animegg.org/shrouding-the-heavens-episode-83"
       }
     ]
+  },
+  {
+    "serial_no": 4747,
+    "title": "Release that Witch",
+    "animegg_url": "https://www.animegg.org/series/release-that-witch",
+    "mal_url": "https://myanimelist.net/anime/62927",
+    "mal_id": 62927,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/144912",
+        "dub": null,
+        "url": "https://www.animegg.org/release-that-witch-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/145017",
+        "dub": null,
+        "url": "https://www.animegg.org/release-that-witch-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/145113",
+        "dub": null,
+        "url": "https://www.animegg.org/release-that-witch-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/145213",
+        "dub": null,
+        "url": "https://www.animegg.org/release-that-witch-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/145311",
+        "dub": null,
+        "url": "https://www.animegg.org/release-that-witch-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/145393",
+        "dub": null,
+        "url": "https://www.animegg.org/release-that-witch-episode-6"
+      }
+    ]
   }
 ]
