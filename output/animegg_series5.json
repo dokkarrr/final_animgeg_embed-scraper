@@ -12055,5 +12055,21 @@
         "url": "https://www.animegg.org/doomsday-super-system-episode-192"
       }
     ]
+  },
+  {
+    "serial_no": 5802,
+    "title": "Digital Devil Monogatari Megami Tensei",
+    "animegg_url": "https://www.animegg.org/series/digital-devil-monogatari-megami-tensei",
+    "mal_url": "https://myanimelist.net/anime/2983",
+    "mal_id": 2983,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/50452",
+        "dub": null,
+        "url": "https://www.animegg.org/digital-devil-monogatari-megami-tensei-episode-1"
+      }
+    ]
   }
 ]
