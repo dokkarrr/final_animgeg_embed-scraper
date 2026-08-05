@@ -64522,5 +64522,39 @@
         "url": "https://www.animegg.org/mobile-suit-gundam-seed-special-edition-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 3872,
+    "title": "Mobile Suit Gundam Seed Destiny Special Edition",
+    "animegg_url": "https://www.animegg.org/series/mobile-suit-gundam-seed-destiny-special-edition",
+    "mal_url": "https://myanimelist.net/anime/2294",
+    "mal_id": 2294,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/52240",
+        "dub": "https://www.animegg.org/embed/52241",
+        "url": "https://www.animegg.org/mobile-suit-gundam-seed-destiny-special-edition-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/52242",
+        "dub": "https://www.animegg.org/embed/52243",
+        "url": "https://www.animegg.org/mobile-suit-gundam-seed-destiny-special-edition-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/52244",
+        "dub": "https://www.animegg.org/embed/52245",
+        "url": "https://www.animegg.org/mobile-suit-gundam-seed-destiny-special-edition-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/52246",
+        "dub": "https://www.animegg.org/embed/52247",
+        "url": "https://www.animegg.org/mobile-suit-gundam-seed-destiny-special-edition-episode-4"
+      }
+    ]
   }
 ]
