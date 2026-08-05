@@ -73862,5 +73862,87 @@
         "url": "https://www.animegg.org/iriya-no-sora-ufo-no-natsu-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 4017,
+    "title": "Kyokou Suiri Season 2",
+    "animegg_url": "https://www.animegg.org/series/kyokou-suiri-season-2",
+    "mal_url": "https://myanimelist.net/anime/44204",
+    "mal_id": 44204,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/107596",
+        "dub": null,
+        "url": "https://www.animegg.org/kyokou-suiri-season-2-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/107535",
+        "dub": null,
+        "url": "https://www.animegg.org/kyokou-suiri-season-2-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/107472",
+        "dub": null,
+        "url": "https://www.animegg.org/kyokou-suiri-season-2-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/107408",
+        "dub": "https://www.animegg.org/embed/129885",
+        "url": "https://www.animegg.org/kyokou-suiri-season-2-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/107343",
+        "dub": "https://www.animegg.org/embed/129886",
+        "url": "https://www.animegg.org/kyokou-suiri-season-2-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/107278",
+        "dub": "https://www.animegg.org/embed/129887",
+        "url": "https://www.animegg.org/kyokou-suiri-season-2-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/107170",
+        "dub": "https://www.animegg.org/embed/129888",
+        "url": "https://www.animegg.org/kyokou-suiri-season-2-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/107099",
+        "dub": "https://www.animegg.org/embed/108571",
+        "url": "https://www.animegg.org/kyokou-suiri-season-2-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/107026",
+        "dub": null,
+        "url": "https://www.animegg.org/kyokou-suiri-season-2-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/106955",
+        "dub": "https://www.animegg.org/embed/108570",
+        "url": "https://www.animegg.org/kyokou-suiri-season-2-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/106883",
+        "dub": "https://www.animegg.org/embed/108569",
+        "url": "https://www.animegg.org/kyokou-suiri-season-2-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/106810",
+        "dub": "https://www.animegg.org/embed/108568",
+        "url": "https://www.animegg.org/kyokou-suiri-season-2-episode-1"
+      }
+    ]
   }
 ]
