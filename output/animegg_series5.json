@@ -946,5 +946,21 @@
         "url": "https://www.animegg.org/eureka-seven-new-order-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5627,
+    "title": "Dragon Quest - Emblem of Roto",
+    "animegg_url": "https://www.animegg.org/series/dragon-quest---emblem-of-roto",
+    "mal_url": "https://myanimelist.net/anime/7491",
+    "mal_id": 7491,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/49619",
+        "dub": null,
+        "url": "https://www.animegg.org/dragon-quest---emblem-of-roto-episode-1"
+      }
+    ]
   }
 ]
