@@ -47584,5 +47584,93 @@
         "url": "https://www.animegg.org/tamayomi-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3644,
+    "title": "Uchuu Senkan Tiramisù II",
+    "animegg_url": "https://www.animegg.org/series/uchuu-senkan-tiramis-ii",
+    "mal_url": "https://myanimelist.net/anime/37988",
+    "mal_id": 37988,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/93056",
+        "dub": null,
+        "url": "https://www.animegg.org/uchuu-senkan-tiramis-ii-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/93133",
+        "dub": null,
+        "url": "https://www.animegg.org/uchuu-senkan-tiramis-ii-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/93212",
+        "dub": null,
+        "url": "https://www.animegg.org/uchuu-senkan-tiramis-ii-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/93280",
+        "dub": null,
+        "url": "https://www.animegg.org/uchuu-senkan-tiramis-ii-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/93372",
+        "dub": null,
+        "url": "https://www.animegg.org/uchuu-senkan-tiramis-ii-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/93449",
+        "dub": null,
+        "url": "https://www.animegg.org/uchuu-senkan-tiramis-ii-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/93531",
+        "dub": null,
+        "url": "https://www.animegg.org/uchuu-senkan-tiramis-ii-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/93606",
+        "dub": null,
+        "url": "https://www.animegg.org/uchuu-senkan-tiramis-ii-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/93677",
+        "dub": null,
+        "url": "https://www.animegg.org/uchuu-senkan-tiramis-ii-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/93742",
+        "dub": null,
+        "url": "https://www.animegg.org/uchuu-senkan-tiramis-ii-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/93833",
+        "dub": null,
+        "url": "https://www.animegg.org/uchuu-senkan-tiramis-ii-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/93986",
+        "dub": null,
+        "url": "https://www.animegg.org/uchuu-senkan-tiramis-ii-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/94062",
+        "dub": null,
+        "url": "https://www.animegg.org/uchuu-senkan-tiramis-ii-episode-13"
+      }
+    ]
   }
 ]
