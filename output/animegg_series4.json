@@ -48406,5 +48406,75 @@
         "url": "https://www.animegg.org/litchi-de-hikari-club-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 3653,
+    "title": "Sousou no Frieren: ●● no Mahou",
+    "animegg_url": "https://www.animegg.org/series/sousou-no-frieren-no-mahou",
+    "mal_url": "https://myanimelist.net/anime/56885",
+    "mal_id": 56885,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/sousou-no-frieren-no-mahou-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/132085",
+        "dub": null,
+        "url": "https://www.animegg.org/sousou-no-frieren-no-mahou-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/132225",
+        "dub": null,
+        "url": "https://www.animegg.org/sousou-no-frieren-no-mahou-episode-3"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/132575",
+        "dub": null,
+        "url": "https://www.animegg.org/sousou-no-frieren-no-mahou-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/132653",
+        "dub": null,
+        "url": "https://www.animegg.org/sousou-no-frieren-no-mahou-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/132816",
+        "dub": null,
+        "url": "https://www.animegg.org/sousou-no-frieren-no-mahou-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/132891",
+        "dub": null,
+        "url": "https://www.animegg.org/sousou-no-frieren-no-mahou-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/133150",
+        "dub": null,
+        "url": "https://www.animegg.org/sousou-no-frieren-no-mahou-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/133277",
+        "dub": null,
+        "url": "https://www.animegg.org/sousou-no-frieren-no-mahou-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/133461",
+        "dub": null,
+        "url": "https://www.animegg.org/sousou-no-frieren-no-mahou-episode-12"
+      }
+    ]
   }
 ]
