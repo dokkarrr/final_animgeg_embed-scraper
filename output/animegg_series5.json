@@ -82922,5 +82922,87 @@
         "url": "https://www.animegg.org/sailor-moon-dub-episode-46"
       }
     ]
+  },
+  {
+    "serial_no": 6599,
+    "title": "Kyuuketsuki Sugu Shinu 2",
+    "animegg_url": "https://www.animegg.org/series/kyuuketsuki-sugu-shinu-2",
+    "mal_url": "https://myanimelist.net/anime/50287",
+    "mal_id": 50287,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/107602",
+        "dub": null,
+        "url": "https://www.animegg.org/kyuuketsuki-sugu-shinu-2-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/107542",
+        "dub": null,
+        "url": "https://www.animegg.org/kyuuketsuki-sugu-shinu-2-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/107482",
+        "dub": null,
+        "url": "https://www.animegg.org/kyuuketsuki-sugu-shinu-2-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/107412",
+        "dub": null,
+        "url": "https://www.animegg.org/kyuuketsuki-sugu-shinu-2-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/107349",
+        "dub": null,
+        "url": "https://www.animegg.org/kyuuketsuki-sugu-shinu-2-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/107283",
+        "dub": null,
+        "url": "https://www.animegg.org/kyuuketsuki-sugu-shinu-2-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/107180",
+        "dub": null,
+        "url": "https://www.animegg.org/kyuuketsuki-sugu-shinu-2-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/107106",
+        "dub": null,
+        "url": "https://www.animegg.org/kyuuketsuki-sugu-shinu-2-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/107031",
+        "dub": null,
+        "url": "https://www.animegg.org/kyuuketsuki-sugu-shinu-2-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/106960",
+        "dub": null,
+        "url": "https://www.animegg.org/kyuuketsuki-sugu-shinu-2-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/106888",
+        "dub": null,
+        "url": "https://www.animegg.org/kyuuketsuki-sugu-shinu-2-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/106815",
+        "dub": null,
+        "url": "https://www.animegg.org/kyuuketsuki-sugu-shinu-2-episode-1"
+      }
+    ]
   }
 ]
