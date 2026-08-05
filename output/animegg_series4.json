@@ -3622,5 +3622,93 @@
         "url": "https://www.animegg.org/meganebu-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3119,
+    "title": "Raimuiro Senkitan",
+    "animegg_url": "https://www.animegg.org/series/raimuiro-senkitan",
+    "mal_url": "https://myanimelist.net/anime/1097",
+    "mal_id": 1097,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/31464",
+        "dub": null,
+        "url": "https://www.animegg.org/raimuiro-senkitan-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/31465",
+        "dub": null,
+        "url": "https://www.animegg.org/raimuiro-senkitan-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/31467",
+        "dub": null,
+        "url": "https://www.animegg.org/raimuiro-senkitan-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/31466",
+        "dub": null,
+        "url": "https://www.animegg.org/raimuiro-senkitan-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/31463",
+        "dub": null,
+        "url": "https://www.animegg.org/raimuiro-senkitan-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/31470",
+        "dub": null,
+        "url": "https://www.animegg.org/raimuiro-senkitan-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/31472",
+        "dub": null,
+        "url": "https://www.animegg.org/raimuiro-senkitan-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/31471",
+        "dub": null,
+        "url": "https://www.animegg.org/raimuiro-senkitan-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/31469",
+        "dub": null,
+        "url": "https://www.animegg.org/raimuiro-senkitan-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/31468",
+        "dub": null,
+        "url": "https://www.animegg.org/raimuiro-senkitan-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/31474",
+        "dub": null,
+        "url": "https://www.animegg.org/raimuiro-senkitan-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/31473",
+        "dub": null,
+        "url": "https://www.animegg.org/raimuiro-senkitan-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/31475",
+        "dub": null,
+        "url": "https://www.animegg.org/raimuiro-senkitan-episode-13"
+      }
+    ]
   }
 ]
