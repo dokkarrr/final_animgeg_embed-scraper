@@ -103352,5 +103352,75 @@
         "url": "https://www.animegg.org/pokemon-the-movie-2000-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4458,
+    "title": "Li'l Miss Vampire Can't Suck Right",
+    "animegg_url": "https://www.animegg.org/series/li-l-miss-vampire-can-t-suck-right",
+    "mal_url": "https://myanimelist.net/anime/60933",
+    "mal_id": 60933,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/142896",
+        "dub": null,
+        "url": "https://www.animegg.org/li-l-miss-vampire-can-t-suck-right-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/142997",
+        "dub": null,
+        "url": "https://www.animegg.org/li-l-miss-vampire-can-t-suck-right-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/143089",
+        "dub": null,
+        "url": "https://www.animegg.org/li-l-miss-vampire-can-t-suck-right-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/143196",
+        "dub": null,
+        "url": "https://www.animegg.org/li-l-miss-vampire-can-t-suck-right-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/143316",
+        "dub": null,
+        "url": "https://www.animegg.org/li-l-miss-vampire-can-t-suck-right-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/143421",
+        "dub": null,
+        "url": "https://www.animegg.org/lil-miss-vampire-cant-suck-right-season-1-episode-6"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/143624",
+        "dub": null,
+        "url": "https://www.animegg.org/li-l-miss-vampire-can-t-suck-right-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/143720",
+        "dub": null,
+        "url": "https://www.animegg.org/li-l-miss-vampire-can-t-suck-right-episode-9"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/143950",
+        "dub": null,
+        "url": "https://www.animegg.org/li-l-miss-vampire-can-t-suck-right-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/144017",
+        "dub": null,
+        "url": "https://www.animegg.org/li-l-miss-vampire-can-t-suck-right-episode-12"
+      }
+    ]
   }
 ]
