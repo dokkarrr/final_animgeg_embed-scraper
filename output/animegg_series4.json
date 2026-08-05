@@ -11544,5 +11544,87 @@
         "url": "https://www.animegg.org/g-on-riders-episode-14"
       }
     ]
+  },
+  {
+    "serial_no": 3220,
+    "title": "Isekai Shokudou 2",
+    "animegg_url": "https://www.animegg.org/series/isekai-shokudou-2",
+    "mal_url": "https://myanimelist.net/anime/48804",
+    "mal_id": 48804,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/103607",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-shokudou-2-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/103553",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-shokudou-2-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/103477",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-shokudou-2-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/103415",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-shokudou-2-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/103355",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-shokudou-2-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/103296",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-shokudou-2-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/103236",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-shokudou-2-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/103172",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-shokudou-2-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/103110",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-shokudou-2-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/103048",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-shokudou-2-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/102978",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-shokudou-2-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/102920",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-shokudou-2-episode-1"
+      }
+    ]
   }
 ]
