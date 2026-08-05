@@ -57355,5 +57355,21 @@
         "url": "https://www.animegg.org/kimetsu-gakuen-valentine-hen-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 6373,
+    "title": "Aikatsu!: Nerawareta Mahou no Aikatsu! Card",
+    "animegg_url": "https://www.animegg.org/series/aikatsu-nerawareta-mahou-no-aikatsu-card",
+    "mal_url": "https://myanimelist.net/anime/32806",
+    "mal_id": 32806,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/86129",
+        "dub": null,
+        "url": "https://www.animegg.org/aikatsu-nerawareta-mahou-no-aikatsu-card-episode-1"
+      }
+    ]
   }
 ]
