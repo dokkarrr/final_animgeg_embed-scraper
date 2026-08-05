@@ -6362,5 +6362,21 @@
         "url": "https://www.animegg.org/hana-yori-dango-movie-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5712,
+    "title": "Strike Witches OVA",
+    "animegg_url": "https://www.animegg.org/series/strike-witches-ova",
+    "mal_url": "https://myanimelist.net/anime/1862",
+    "mal_id": 1862,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/36690",
+        "dub": null,
+        "url": "https://www.animegg.org/strike-witches-ova-episode-1"
+      }
+    ]
   }
 ]
