@@ -24568,5 +24568,21 @@
         "url": "https://www.animegg.org/wakusei-robo-danguard-ace-episode-56"
       }
     ]
+  },
+  {
+    "serial_no": 6019,
+    "title": "Keroro Gunsou Movie 1",
+    "animegg_url": "https://www.animegg.org/series/keroro-gunsou-movie-1",
+    "mal_url": "https://myanimelist.net/anime/2407",
+    "mal_id": 2407,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/56612",
+        "dub": null,
+        "url": "https://www.animegg.org/keroro-gunsou-movie-1-episode-1"
+      }
+    ]
   }
 ]
