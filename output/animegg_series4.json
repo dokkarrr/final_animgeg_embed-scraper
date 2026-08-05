@@ -123836,5 +123836,21 @@
         "url": "https://www.animegg.org/gekidol-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4794,
+    "title": "Kishin Houkou Demonbane",
+    "animegg_url": "https://www.animegg.org/series/kishin-houkou-demonbane",
+    "mal_url": "https://myanimelist.net/anime/766",
+    "mal_id": 766,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/55647",
+        "dub": null,
+        "url": "https://www.animegg.org/kishin-houkou-demonbane-episode-1"
+      }
+    ]
   }
 ]
