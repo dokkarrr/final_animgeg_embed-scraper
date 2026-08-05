@@ -84946,5 +84946,21 @@
         "url": "https://www.animegg.org/kawaisugi-crisis-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4181,
+    "title": "Overlord Movie 2: Shikkoku no Eiyuu",
+    "animegg_url": "https://www.animegg.org/series/overlord-movie-2-shikkoku-no-eiyuu",
+    "mal_url": "https://myanimelist.net/anime/34428",
+    "mal_id": 34428,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/88494",
+        "dub": "https://www.animegg.org/embed/91037",
+        "url": "https://www.animegg.org/overlord-movie-2-shikkoku-no-eiyuu-episode-1"
+      }
+    ]
   }
 ]
