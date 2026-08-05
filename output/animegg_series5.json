@@ -9487,5 +9487,21 @@
         "url": "https://www.animegg.org/watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5766,
+    "title": "KanColle Movie",
+    "animegg_url": "https://www.animegg.org/series/kancolle-movie",
+    "mal_url": "https://myanimelist.net/anime/31418",
+    "mal_id": 31418,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/88131",
+        "dub": null,
+        "url": "https://www.animegg.org/kancolle-movie-episode-1"
+      }
+    ]
   }
 ]
