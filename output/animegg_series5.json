@@ -24018,5 +24018,21 @@
         "url": "https://www.animegg.org/ani-ni-tsukeru-kusuri-wa-nai-5-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6015,
+    "title": "Hirune Hime: Shiranai Watashi no Monogatari",
+    "animegg_url": "https://www.animegg.org/series/hirune-hime-shiranai-watashi-no-monogatari",
+    "mal_url": "https://myanimelist.net/anime/33204",
+    "mal_id": 33204,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/89493",
+        "dub": null,
+        "url": "https://www.animegg.org/hirune-hime-shiranai-watashi-no-monogatari-episode-1"
+      }
+    ]
   }
 ]
