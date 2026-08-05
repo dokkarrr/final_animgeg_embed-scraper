@@ -27734,5 +27734,33 @@
         "url": "https://www.animegg.org/sinbad-soratobu-hime-to-himitsu-no-shima-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6059,
+    "title": "Uchuu Senkan Tiramisù Specials",
+    "animegg_url": "https://www.animegg.org/series/uchuu-senkan-tiramis-specials",
+    "mal_url": "https://myanimelist.net/anime/37866",
+    "mal_id": 37866,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/92142",
+        "dub": null,
+        "url": "https://www.animegg.org/uchuu-senkan-tiramis-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/92143",
+        "dub": null,
+        "url": "https://www.animegg.org/uchuu-senkan-tiramis-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/92144",
+        "dub": null,
+        "url": "https://www.animegg.org/uchuu-senkan-tiramis-specials-episode-3"
+      }
+    ]
   }
 ]
