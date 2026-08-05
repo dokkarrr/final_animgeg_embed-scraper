@@ -29926,5 +29926,93 @@
         "url": "https://www.animegg.org/koroshiya-san-the-hired-gun-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 3425,
+    "title": "Secrets of the Silent Witch",
+    "animegg_url": "https://www.animegg.org/series/secrets-of-the-silent-witch",
+    "mal_url": "https://myanimelist.net/anime/59459",
+    "mal_id": 59459,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/141563",
+        "dub": "https://www.animegg.org/embed/141800",
+        "url": "https://www.animegg.org/secrets-of-the-silent-witch-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/141668",
+        "dub": null,
+        "url": "https://www.animegg.org/secrets-of-the-silent-witch-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/141795",
+        "dub": null,
+        "url": "https://www.animegg.org/secrets-of-the-silent-witch-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/141869",
+        "dub": null,
+        "url": "https://www.animegg.org/secrets-of-the-silent-witch-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/142008",
+        "dub": "https://www.animegg.org/embed/142013",
+        "url": "https://www.animegg.org/secrets-of-the-silent-witch-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/142130",
+        "dub": "https://www.animegg.org/embed/142134",
+        "url": "https://www.animegg.org/secrets-of-the-silent-witch-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/142253",
+        "dub": "https://www.animegg.org/embed/142286",
+        "url": "https://www.animegg.org/secrets-of-the-silent-witch-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/142363",
+        "dub": "https://www.animegg.org/embed/142373",
+        "url": "https://www.animegg.org/secrets-of-the-silent-witch-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/142476",
+        "dub": null,
+        "url": "https://www.animegg.org/secrets-of-the-silent-witch-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/142507",
+        "dub": "https://www.animegg.org/embed/142516",
+        "url": "https://www.animegg.org/secrets-of-the-silent-witch-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/142627",
+        "dub": "https://www.animegg.org/embed/142637",
+        "url": "https://www.animegg.org/secrets-of-the-silent-witch-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/142707",
+        "dub": "https://www.animegg.org/embed/142713",
+        "url": "https://www.animegg.org/secrets-of-the-silent-witch-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/142816",
+        "dub": "https://www.animegg.org/embed/142818",
+        "url": "https://www.animegg.org/secrets-of-the-silent-witch-episode-13"
+      }
+    ]
   }
 ]
