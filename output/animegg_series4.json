@@ -48562,5 +48562,21 @@
         "url": "https://www.animegg.org/mahouka-koukou-no-rettousei-yoku-wakaru-mahouka-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 3656,
+    "title": "Bakemono no Ko",
+    "animegg_url": "https://www.animegg.org/series/bakemono-no-ko",
+    "mal_url": "https://myanimelist.net/anime/28805",
+    "mal_id": 28805,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/81541",
+        "dub": null,
+        "url": "https://www.animegg.org/bakemono-no-ko-episode-1"
+      }
+    ]
   }
 ]
