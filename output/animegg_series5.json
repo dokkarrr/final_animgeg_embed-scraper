@@ -5766,5 +5766,51 @@
         "url": "https://www.animegg.org/pokemon-xy-sp-road-to-kalos-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5701,
+    "title": "BanG Dream! Garupa☆Pico",
+    "animegg_url": "https://www.animegg.org/series/bang-dream-garupa-pico",
+    "mal_url": "https://myanimelist.net/anime/37873",
+    "mal_id": 37873,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/91855",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-garupa-pico-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/91856",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-garupa-pico-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/92337",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-garupa-pico-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/93295",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-garupa-pico-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/93470",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-garupa-pico-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/93471",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-garupa-pico-episode-6"
+      }
+    ]
   }
 ]
