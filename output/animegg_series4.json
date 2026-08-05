@@ -94766,5 +94766,63 @@
         "url": "https://www.animegg.org/codebreaker-ova-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 4332,
+    "title": "The iDOLM@STER Shiny Colors 2nd Season",
+    "animegg_url": "https://www.animegg.org/series/the-idolm-ster-shiny-colors-2nd-season",
+    "mal_url": "https://myanimelist.net/anime/58302",
+    "mal_id": 58302,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/139206",
+        "dub": null,
+        "url": "https://www.animegg.org/the-idolm-ster-shiny-colors-2nd-season-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/139002",
+        "dub": null,
+        "url": "https://www.animegg.org/the-idolm-ster-shiny-colors-2nd-season-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/138825",
+        "dub": null,
+        "url": "https://www.animegg.org/the-idolm-ster-shiny-colors-2nd-season-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/138554",
+        "dub": null,
+        "url": "https://www.animegg.org/the-idolm-ster-shiny-colors-2nd-season-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/138404",
+        "dub": null,
+        "url": "https://www.animegg.org/the-idolm-ster-shiny-colors-2nd-season-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/138138",
+        "dub": null,
+        "url": "https://www.animegg.org/the-idolm-ster-shiny-colors-2nd-season-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/137883",
+        "dub": null,
+        "url": "https://www.animegg.org/the-idolm-ster-shiny-colors-2nd-season-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/137617",
+        "dub": null,
+        "url": "https://www.animegg.org/the-idolm-ster-shiny-colors-2nd-season-episode-1"
+      }
+    ]
   }
 ]
