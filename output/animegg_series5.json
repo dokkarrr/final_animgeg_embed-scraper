@@ -41113,5 +41113,21 @@
         "url": "https://www.animegg.org/ling-long-incarnation-episode-15"
       }
     ]
+  },
+  {
+    "serial_no": 6227,
+    "title": "Gakuen Babysitters Special",
+    "animegg_url": "https://www.animegg.org/series/gakuen-babysitters-special",
+    "mal_url": "https://myanimelist.net/anime/37959",
+    "mal_id": 37959,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/94491",
+        "dub": null,
+        "url": "https://www.animegg.org/gakuen-babysitters-special-episode-1"
+      }
+    ]
   }
 ]
