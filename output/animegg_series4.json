@@ -75848,5 +75848,21 @@
         "url": "https://www.animegg.org/softenni-specials-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 4050,
+    "title": "Persona 3 the Movie 3: Falling Down",
+    "animegg_url": "https://www.animegg.org/series/persona-3-the-movie-3-falling-down",
+    "mal_url": "https://myanimelist.net/anime/24543",
+    "mal_id": 24543,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/80825",
+        "dub": "https://www.animegg.org/embed/80866",
+        "url": "https://www.animegg.org/persona-3-the-movie-3-falling-down-episode-1"
+      }
+    ]
   }
 ]
