@@ -80908,5 +80908,27 @@
         "url": "https://www.animegg.org/ao-no-exorcist-kuro-no-iede-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4136,
+    "title": "Kore Wa Zombie Desu Ka? OVA",
+    "animegg_url": "https://www.animegg.org/series/kore-wa-zombie-desu-ka-ova",
+    "mal_url": "https://myanimelist.net/anime/10209",
+    "mal_id": 10209,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/20734",
+        "dub": null,
+        "url": "https://www.animegg.org/kore-wa-zombie-desu-ka-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/20735",
+        "dub": null,
+        "url": "https://www.animegg.org/kore-wa-zombie-desu-ka-ova-episode-2"
+      }
+    ]
   }
 ]
