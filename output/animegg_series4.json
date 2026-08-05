@@ -54700,5 +54700,87 @@
         "url": "https://www.animegg.org/hipira-kun-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 3740,
+    "title": "Action Heroine Cheer Fruits",
+    "animegg_url": "https://www.animegg.org/series/action-heroine-cheer-fruits",
+    "mal_url": "https://myanimelist.net/anime/34800",
+    "mal_id": 34800,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/87509",
+        "dub": "https://www.animegg.org/embed/88402",
+        "url": "https://www.animegg.org/action-heroine-cheer-fruits-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/87625",
+        "dub": null,
+        "url": "https://www.animegg.org/action-heroine-cheer-fruits-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/87685",
+        "dub": null,
+        "url": "https://www.animegg.org/action-heroine-cheer-fruits-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/87745",
+        "dub": null,
+        "url": "https://www.animegg.org/action-heroine-cheer-fruits-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/87838",
+        "dub": null,
+        "url": "https://www.animegg.org/action-heroine-cheer-fruits-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/87980",
+        "dub": null,
+        "url": "https://www.animegg.org/action-heroine-cheer-fruits-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/88082",
+        "dub": null,
+        "url": "https://www.animegg.org/action-heroine-cheer-fruits-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/88144",
+        "dub": null,
+        "url": "https://www.animegg.org/action-heroine-cheer-fruits-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/88228",
+        "dub": null,
+        "url": "https://www.animegg.org/action-heroine-cheer-fruits-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/88305",
+        "dub": null,
+        "url": "https://www.animegg.org/action-heroine-cheer-fruits-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/88403",
+        "dub": null,
+        "url": "https://www.animegg.org/action-heroine-cheer-fruits-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/88411",
+        "dub": null,
+        "url": "https://www.animegg.org/action-heroine-cheer-fruits-episode-12"
+      }
+    ]
   }
 ]
