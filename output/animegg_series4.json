@@ -20144,5 +20144,87 @@
         "url": "https://www.animegg.org/lord-of-vermilion-guren-no-ou-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3312,
+    "title": "Skip to Loafer",
+    "animegg_url": "https://www.animegg.org/series/skip-to-loafer",
+    "mal_url": "https://myanimelist.net/anime/50416",
+    "mal_id": 50416,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/107649",
+        "dub": null,
+        "url": "https://www.animegg.org/skip-to-loafer-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/107701",
+        "dub": null,
+        "url": "https://www.animegg.org/skip-to-loafer-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/107769",
+        "dub": null,
+        "url": "https://www.animegg.org/skip-to-loafer-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/107851",
+        "dub": null,
+        "url": "https://www.animegg.org/skip-to-loafer-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/107903",
+        "dub": null,
+        "url": "https://www.animegg.org/skip-to-loafer-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/107908",
+        "dub": null,
+        "url": "https://www.animegg.org/skip-to-loafer-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/108090",
+        "dub": null,
+        "url": "https://www.animegg.org/skip-to-loafer-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/108314",
+        "dub": null,
+        "url": "https://www.animegg.org/skip-to-loafer-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/108706",
+        "dub": null,
+        "url": "https://www.animegg.org/skip-to-loafer-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/108904",
+        "dub": null,
+        "url": "https://www.animegg.org/skip-to-loafer-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/129856",
+        "dub": null,
+        "url": "https://www.animegg.org/skip-to-loafer-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/129952",
+        "dub": null,
+        "url": "https://www.animegg.org/skip-to-loafer-episode-12"
+      }
+    ]
   }
 ]
