@@ -3030,5 +3030,27 @@
         "url": "https://www.animegg.org/miyamoto-musashi-souken-ni-haseru-yume-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5650,
+    "title": "Tokyo Marble Chocolate",
+    "animegg_url": "https://www.animegg.org/series/tokyo-marble-chocolate",
+    "mal_url": "https://myanimelist.net/anime/3088",
+    "mal_id": 3088,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/64108",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-marble-chocolate-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/64109",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-marble-chocolate-episode-2"
+      }
+    ]
   }
 ]
