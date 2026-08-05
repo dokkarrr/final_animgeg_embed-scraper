@@ -16926,5 +16926,51 @@
         "url": "https://www.animegg.org/watashi-no-shiawase-na-kekkon-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3271,
+    "title": "Karas",
+    "animegg_url": "https://www.animegg.org/series/karas",
+    "mal_url": "https://myanimelist.net/anime/389",
+    "mal_id": 389,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/19644",
+        "dub": "https://www.animegg.org/embed/19645",
+        "url": "https://www.animegg.org/karas-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/19642",
+        "dub": "https://www.animegg.org/embed/19643",
+        "url": "https://www.animegg.org/karas-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/19638",
+        "dub": "https://www.animegg.org/embed/19639",
+        "url": "https://www.animegg.org/karas-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/19646",
+        "dub": "https://www.animegg.org/embed/19647",
+        "url": "https://www.animegg.org/karas-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/19640",
+        "dub": "https://www.animegg.org/embed/19641",
+        "url": "https://www.animegg.org/karas-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/19648",
+        "dub": "https://www.animegg.org/embed/19649",
+        "url": "https://www.animegg.org/karas-episode-6"
+      }
+    ]
   }
 ]
