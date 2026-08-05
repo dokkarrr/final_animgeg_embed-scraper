@@ -39601,5 +39601,21 @@
         "url": "https://www.animegg.org/ch-os-child-silent-sky-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6212,
+    "title": "Golden Kamuy OVA",
+    "animegg_url": "https://www.animegg.org/series/golden-kamuy-ova",
+    "mal_url": "https://myanimelist.net/anime/37884",
+    "mal_id": 37884,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/94163",
+        "dub": null,
+        "url": "https://www.animegg.org/golden-kamuy-ova-episode-1"
+      }
+    ]
   }
 ]
