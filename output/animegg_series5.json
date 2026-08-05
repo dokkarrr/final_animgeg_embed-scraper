@@ -95055,5 +95055,75 @@
         "url": "https://www.animegg.org/coco-nico-episode-38"
       }
     ]
+  },
+  {
+    "serial_no": 6703,
+    "title": "Fireball Gebäude Bäude",
+    "animegg_url": "https://www.animegg.org/series/fireball-geb-ude-b-ude",
+    "mal_url": "https://myanimelist.net/anime/43350",
+    "mal_id": 43350,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/100496",
+        "dub": null,
+        "url": "https://www.animegg.org/fireball-geb-ude-b-ude-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/100498",
+        "dub": null,
+        "url": "https://www.animegg.org/fireball-geb-ude-b-ude-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/100499",
+        "dub": null,
+        "url": "https://www.animegg.org/fireball-geb-ude-b-ude-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/100500",
+        "dub": null,
+        "url": "https://www.animegg.org/fireball-geb-ude-b-ude-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/100501",
+        "dub": null,
+        "url": "https://www.animegg.org/fireball-geb-ude-b-ude-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/100502",
+        "dub": null,
+        "url": "https://www.animegg.org/fireball-geb-ude-b-ude-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/100503",
+        "dub": null,
+        "url": "https://www.animegg.org/fireball-geb-ude-b-ude-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/100504",
+        "dub": null,
+        "url": "https://www.animegg.org/fireball-geb-ude-b-ude-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/100505",
+        "dub": null,
+        "url": "https://www.animegg.org/fireball-geb-ude-b-ude-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/100497",
+        "dub": null,
+        "url": "https://www.animegg.org/fireball-geb-ude-b-ude-episode-10"
+      }
+    ]
   }
 ]
