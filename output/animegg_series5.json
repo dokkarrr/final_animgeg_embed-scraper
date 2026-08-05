@@ -6909,5 +6909,21 @@
         "url": "https://www.animegg.org/plastic-little-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5723,
+    "title": "Aikatsu! Movie",
+    "animegg_url": "https://www.animegg.org/series/aikatsu-movie",
+    "mal_url": "https://myanimelist.net/anime/22819",
+    "mal_id": 22819,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/77413",
+        "dub": null,
+        "url": "https://www.animegg.org/aikatsu-movie-episode-1"
+      }
+    ]
   }
 ]
