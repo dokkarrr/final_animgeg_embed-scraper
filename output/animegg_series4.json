@@ -80846,5 +80846,51 @@
         "url": "https://www.animegg.org/negaposi-angler-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 4134,
+    "title": "New Dominion Tank Police",
+    "animegg_url": "https://www.animegg.org/series/new-dominion-tank-police",
+    "mal_url": "https://myanimelist.net/anime/1152",
+    "mal_id": 1152,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/59170",
+        "dub": "https://www.animegg.org/embed/71760",
+        "url": "https://www.animegg.org/new-dominion-tank-police-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/59171",
+        "dub": "https://www.animegg.org/embed/71762",
+        "url": "https://www.animegg.org/new-dominion-tank-police-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/59172",
+        "dub": "https://www.animegg.org/embed/71764",
+        "url": "https://www.animegg.org/new-dominion-tank-police-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/59173",
+        "dub": "https://www.animegg.org/embed/71770",
+        "url": "https://www.animegg.org/new-dominion-tank-police-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/59174",
+        "dub": "https://www.animegg.org/embed/71772",
+        "url": "https://www.animegg.org/new-dominion-tank-police-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/59175",
+        "dub": "https://www.animegg.org/embed/71774",
+        "url": "https://www.animegg.org/new-dominion-tank-police-episode-6"
+      }
+    ]
   }
 ]
