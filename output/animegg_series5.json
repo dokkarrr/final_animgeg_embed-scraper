@@ -34980,5 +34980,21 @@
         "url": "https://www.animegg.org/ongaku-shoujo-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6165,
+    "title": "Shin Koihime Musou: Otome Tairan OVA",
+    "animegg_url": "https://www.animegg.org/series/shin-koihime-musou-otome-tairan-ova",
+    "mal_url": "https://myanimelist.net/anime/15015",
+    "mal_id": 15015,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/34573",
+        "dub": null,
+        "url": "https://www.animegg.org/shin-koihime-musou-otome-tairan-ova-episode-1"
+      }
+    ]
   }
 ]
