@@ -28984,5 +28984,21 @@
         "url": "https://www.animegg.org/harmony-of-mille-feuille-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 6091,
+    "title": "Kinnikuman Special",
+    "animegg_url": "https://www.animegg.org/series/kinnikuman-special",
+    "mal_url": "https://myanimelist.net/anime/37596",
+    "mal_id": 37596,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/55780",
+        "dub": null,
+        "url": "https://www.animegg.org/kinnikuman-special-episode-1"
+      }
+    ]
   }
 ]
