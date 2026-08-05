@@ -19026,5 +19026,51 @@
         "url": "https://www.animegg.org/taishou-chicchai-san-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3295,
+    "title": "Bastard!!",
+    "animegg_url": "https://www.animegg.org/series/bastard",
+    "mal_url": "https://myanimelist.net/anime/404",
+    "mal_id": 404,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/47735",
+        "dub": "https://www.animegg.org/embed/47736",
+        "url": "https://www.animegg.org/bastard-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/47737",
+        "dub": "https://www.animegg.org/embed/47738",
+        "url": "https://www.animegg.org/bastard-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/47739",
+        "dub": "https://www.animegg.org/embed/47740",
+        "url": "https://www.animegg.org/bastard-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/47741",
+        "dub": "https://www.animegg.org/embed/47742",
+        "url": "https://www.animegg.org/bastard-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/47743",
+        "dub": "https://www.animegg.org/embed/47744",
+        "url": "https://www.animegg.org/bastard-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/47745",
+        "dub": "https://www.animegg.org/embed/47746",
+        "url": "https://www.animegg.org/bastard-episode-6"
+      }
+    ]
   }
 ]
