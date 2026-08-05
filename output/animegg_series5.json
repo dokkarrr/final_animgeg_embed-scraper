@@ -3494,5 +3494,21 @@
         "url": "https://www.animegg.org/tekken-blood-vengeance-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5664,
+    "title": "City Hunter: Goodbye My Sweetheart",
+    "animegg_url": "https://www.animegg.org/series/city-hunter-goodbye-my-sweetheart",
+    "mal_url": "https://myanimelist.net/anime/1478",
+    "mal_id": 1478,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/47205",
+        "dub": "https://www.animegg.org/embed/47206",
+        "url": "https://www.animegg.org/city-hunter-goodbye-my-sweetheart-episode-1"
+      }
+    ]
   }
 ]
