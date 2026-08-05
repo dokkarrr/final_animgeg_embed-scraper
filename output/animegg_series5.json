@@ -40931,5 +40931,87 @@
         "url": "https://www.animegg.org/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iii-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6225,
+    "title": "Cannon Busters",
+    "animegg_url": "https://www.animegg.org/series/cannon-busters",
+    "mal_url": "https://myanimelist.net/anime/40256",
+    "mal_id": 40256,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/96192",
+        "dub": null,
+        "url": "https://www.animegg.org/cannon-busters-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/129362",
+        "dub": null,
+        "url": "https://www.animegg.org/cannon-busters-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/129361",
+        "dub": null,
+        "url": "https://www.animegg.org/cannon-busters-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/129360",
+        "dub": null,
+        "url": "https://www.animegg.org/cannon-busters-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/129359",
+        "dub": null,
+        "url": "https://www.animegg.org/cannon-busters-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/129358",
+        "dub": null,
+        "url": "https://www.animegg.org/cannon-busters-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/129357",
+        "dub": null,
+        "url": "https://www.animegg.org/cannon-busters-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/129356",
+        "dub": null,
+        "url": "https://www.animegg.org/cannon-busters-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/129355",
+        "dub": null,
+        "url": "https://www.animegg.org/cannon-busters-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/129364",
+        "dub": null,
+        "url": "https://www.animegg.org/cannon-busters-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/129363",
+        "dub": null,
+        "url": "https://www.animegg.org/cannon-busters-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/96193",
+        "dub": null,
+        "url": "https://www.animegg.org/cannon-busters-episode-12"
+      }
+    ]
   }
 ]
