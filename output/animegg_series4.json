@@ -3342,5 +3342,33 @@
         "url": "https://www.animegg.org/flag-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3115,
+    "title": "Selector Infected WIXOSS Specials",
+    "animegg_url": "https://www.animegg.org/series/selector-infected-wixoss-specials",
+    "mal_url": "https://myanimelist.net/anime/22273",
+    "mal_id": 22273,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66457",
+        "dub": null,
+        "url": "https://www.animegg.org/selector-infected-wixoss-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/73718",
+        "dub": null,
+        "url": "https://www.animegg.org/selector-infected-wixoss-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/74890",
+        "dub": null,
+        "url": "https://www.animegg.org/selector-infected-wixoss-specials-episode-3"
+      }
+    ]
   }
 ]
