@@ -102472,5 +102472,99 @@
         "url": "https://www.animegg.org/persona-3-the-movie-1-spring-of-birth-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4442,
+    "title": "Elf-san wa Yaserarenai.",
+    "animegg_url": "https://www.animegg.org/series/elf-san-wa-yaserarenai",
+    "mal_url": "https://myanimelist.net/anime/57845",
+    "mal_id": 57845,
+    "total_ep": 14,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/135451",
+        "dub": null,
+        "url": "https://www.animegg.org/elf-san-wa-yaserarenai-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/135576",
+        "dub": null,
+        "url": "https://www.animegg.org/elf-san-wa-yaserarenai-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/elf-san-wa-yaserarenai-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/135872",
+        "dub": null,
+        "url": "https://www.animegg.org/elf-san-wa-yaserarenai-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/136015",
+        "dub": null,
+        "url": "https://www.animegg.org/elf-san-wa-yaserarenai-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/136193",
+        "dub": null,
+        "url": "https://www.animegg.org/elf-san-wa-yaserarenai-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/136344",
+        "dub": null,
+        "url": "https://www.animegg.org/elf-san-wa-yaserarenai-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/136481",
+        "dub": null,
+        "url": "https://www.animegg.org/elf-san-wa-yaserarenai-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/136676",
+        "dub": null,
+        "url": "https://www.animegg.org/elf-san-wa-yaserarenai-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/136867",
+        "dub": null,
+        "url": "https://www.animegg.org/elf-san-wa-yaserarenai-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/137080",
+        "dub": null,
+        "url": "https://www.animegg.org/elf-san-wa-yaserarenai-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/137220",
+        "dub": null,
+        "url": "https://www.animegg.org/elf-san-wa-yaserarenai-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/137639",
+        "dub": null,
+        "url": "https://www.animegg.org/elf-san-wa-yaserarenai-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/138176",
+        "dub": null,
+        "url": "https://www.animegg.org/elf-san-wa-yaserarenai-episode-14"
+      }
+    ]
   }
 ]
