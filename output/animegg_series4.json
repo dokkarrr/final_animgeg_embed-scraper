@@ -58970,5 +58970,21 @@
         "url": "https://www.animegg.org/aika-r-16-virgin-mission-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3801,
+    "title": "Cowboy Bebop Movie",
+    "animegg_url": "https://www.animegg.org/series/cowboy-bebop-movie",
+    "mal_url": "https://myanimelist.net/anime/5",
+    "mal_id": 5,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/47340",
+        "dub": "https://www.animegg.org/embed/47341",
+        "url": "https://www.animegg.org/cowboy-bebop-movie-episode-1"
+      }
+    ]
   }
 ]
