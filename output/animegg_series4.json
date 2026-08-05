@@ -79818,5 +79818,39 @@
         "url": "https://www.animegg.org/ai-no-idenshi-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4117,
+    "title": "Ani ni Tsukeru Kusuri wa Nai!",
+    "animegg_url": "https://www.animegg.org/series/ani-ni-tsukeru-kusuri-wa-nai",
+    "mal_url": "https://myanimelist.net/anime/35015",
+    "mal_id": 35015,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/86680",
+        "dub": null,
+        "url": "https://www.animegg.org/ani-ni-tsukeru-kusuri-wa-nai-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/86681",
+        "dub": null,
+        "url": "https://www.animegg.org/ani-ni-tsukeru-kusuri-wa-nai-episode-2"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/91913",
+        "dub": null,
+        "url": "https://www.animegg.org/ani-ni-tsukeru-kusuri-wa-nai-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/91914",
+        "dub": null,
+        "url": "https://www.animegg.org/ani-ni-tsukeru-kusuri-wa-nai-episode-12"
+      }
+    ]
   }
 ]
