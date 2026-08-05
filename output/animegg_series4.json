@@ -124032,5 +124032,39 @@
         "url": "https://www.animegg.org/chou-shounen-tanteidan-neo-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 4798,
+    "title": "Tales of Symphonia: Sylvarant-hen",
+    "animegg_url": "https://www.animegg.org/series/tales-of-symphonia",
+    "mal_url": "https://myanimelist.net/anime/1731",
+    "mal_id": 1731,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/37067",
+        "dub": null,
+        "url": "https://www.animegg.org/tales-of-symphonia-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/37064",
+        "dub": null,
+        "url": "https://www.animegg.org/tales-of-symphonia-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/37066",
+        "dub": null,
+        "url": "https://www.animegg.org/tales-of-symphonia-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/37065",
+        "dub": null,
+        "url": "https://www.animegg.org/tales-of-symphonia-episode-4"
+      }
+    ]
   }
 ]
