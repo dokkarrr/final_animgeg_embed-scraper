@@ -123360,5 +123360,27 @@
         "url": "https://www.animegg.org/migi-to-dali-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 4786,
+    "title": "Tenjou Tenge: The Ultimate Fight",
+    "animegg_url": "https://www.animegg.org/series/tenjou-tenge-the-ultimate-fight",
+    "mal_url": "https://myanimelist.net/anime/448",
+    "mal_id": 448,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/63253",
+        "dub": null,
+        "url": "https://www.animegg.org/tenjou-tenge-the-ultimate-fight-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/63254",
+        "dub": null,
+        "url": "https://www.animegg.org/tenjou-tenge-the-ultimate-fight-episode-2"
+      }
+    ]
   }
 ]
