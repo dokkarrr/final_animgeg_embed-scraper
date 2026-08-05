@@ -76914,5 +76914,21 @@
         "url": "https://www.animegg.org/hibike-euphonium-2-specials-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4066,
+    "title": "Godzilla: Kaijuu Wakusei",
+    "animegg_url": "https://www.animegg.org/series/godzilla-kaijuu-wakusei",
+    "mal_url": "https://myanimelist.net/anime/33783",
+    "mal_id": 33783,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/89787",
+        "dub": "https://www.animegg.org/embed/89788",
+        "url": "https://www.animegg.org/godzilla-kaijuu-wakusei-episode-1"
+      }
+    ]
   }
 ]
