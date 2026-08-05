@@ -28392,5 +28392,21 @@
         "url": "https://www.animegg.org/yowamushi-pedal-reroad-episode-1-8638-2212"
       }
     ]
+  },
+  {
+    "serial_no": 6072,
+    "title": "Luger Code 1951",
+    "animegg_url": "https://www.animegg.org/series/luger-code-1951",
+    "mal_url": "https://myanimelist.net/anime/31598",
+    "mal_id": 31598,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1951,
+        "sub": "https://www.animegg.org/embed/84655",
+        "dub": null,
+        "url": "https://www.animegg.org/luger-code-1951-episode-1"
+      }
+    ]
   }
 ]
