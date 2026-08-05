@@ -115602,5 +115602,87 @@
         "url": "https://www.animegg.org/kaichuu-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 4669,
+    "title": "Dekin no Mogura: The Earthbound Mole",
+    "animegg_url": "https://www.animegg.org/series/dekin-no-mogura-the-earthbound-mole",
+    "mal_url": "https://myanimelist.net/anime/60315",
+    "mal_id": 60315,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/141597",
+        "dub": "https://www.animegg.org/embed/141943",
+        "url": "https://www.animegg.org/dekin-no-mogura-the-earthbound-mole-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/141708",
+        "dub": "https://www.animegg.org/embed/142063",
+        "url": "https://www.animegg.org/dekin-no-mogura-the-earthbound-mole-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/141816",
+        "dub": "https://www.animegg.org/embed/142189",
+        "url": "https://www.animegg.org/dekin-no-mogura-the-earthbound-mole-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/141922",
+        "dub": "https://www.animegg.org/embed/142306",
+        "url": "https://www.animegg.org/dekin-no-mogura-the-earthbound-mole-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/142047",
+        "dub": "https://www.animegg.org/embed/142402",
+        "url": "https://www.animegg.org/dekin-no-mogura-the-earthbound-mole-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/142175",
+        "dub": "https://www.animegg.org/embed/142412",
+        "url": "https://www.animegg.org/dekin-no-mogura-the-earthbound-mole-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/142282",
+        "dub": null,
+        "url": "https://www.animegg.org/dekin-no-mogura-the-earthbound-mole-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/142401",
+        "dub": "https://www.animegg.org/embed/142558",
+        "url": "https://www.animegg.org/dekin-no-mogura-the-earthbound-mole-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/142653",
+        "dub": null,
+        "url": "https://www.animegg.org/dekin-no-mogura-the-earthbound-mole-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/142745",
+        "dub": null,
+        "url": "https://www.animegg.org/dekin-no-mogura-the-earthbound-mole-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/142557",
+        "dub": null,
+        "url": "https://www.animegg.org/dekin-no-mogura-the-earthbound-mole-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/142656",
+        "dub": "https://www.animegg.org/embed/142904",
+        "url": "https://www.animegg.org/dekin-no-mogura-the-earthbound-mole-episode-12"
+      }
+    ]
   }
 ]
