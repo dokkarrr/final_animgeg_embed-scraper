@@ -83192,5 +83192,21 @@
         "url": "https://www.animegg.org/thermae-romae-specials-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6605,
+    "title": "UN-GO: Inga-ron",
+    "animegg_url": "https://www.animegg.org/series/un-go-inga-ron",
+    "mal_url": "https://myanimelist.net/anime/11531",
+    "mal_id": 11531,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/64800",
+        "dub": null,
+        "url": "https://www.animegg.org/un-go-inga-ron-episode-1"
+      }
+    ]
   }
 ]
