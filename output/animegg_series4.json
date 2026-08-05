@@ -4770,5 +4770,87 @@
         "url": "https://www.animegg.org/weiss-survive-episode-16"
       }
     ]
+  },
+  {
+    "serial_no": 3136,
+    "title": "Yumeria",
+    "animegg_url": "https://www.animegg.org/series/yumeria",
+    "mal_url": "https://myanimelist.net/anime/204",
+    "mal_id": 204,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/42175",
+        "dub": "https://www.animegg.org/embed/68215",
+        "url": "https://www.animegg.org/yumeria-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/42177",
+        "dub": "https://www.animegg.org/embed/69100",
+        "url": "https://www.animegg.org/yumeria-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/42174",
+        "dub": "https://www.animegg.org/embed/69101",
+        "url": "https://www.animegg.org/yumeria-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/42178",
+        "dub": "https://www.animegg.org/embed/69102",
+        "url": "https://www.animegg.org/yumeria-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/42176",
+        "dub": "https://www.animegg.org/embed/69104",
+        "url": "https://www.animegg.org/yumeria-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/42180",
+        "dub": "https://www.animegg.org/embed/69108",
+        "url": "https://www.animegg.org/yumeria-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/42181",
+        "dub": "https://www.animegg.org/embed/69116",
+        "url": "https://www.animegg.org/yumeria-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/42179",
+        "dub": "https://www.animegg.org/embed/69119",
+        "url": "https://www.animegg.org/yumeria-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/42183",
+        "dub": "https://www.animegg.org/embed/69120",
+        "url": "https://www.animegg.org/yumeria-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/42182",
+        "dub": "https://www.animegg.org/embed/69121",
+        "url": "https://www.animegg.org/yumeria-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/42184",
+        "dub": "https://www.animegg.org/embed/69126",
+        "url": "https://www.animegg.org/yumeria-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/42185",
+        "dub": "https://www.animegg.org/embed/69128",
+        "url": "https://www.animegg.org/yumeria-episode-12"
+      }
+    ]
   }
 ]
