@@ -83670,5 +83670,87 @@
         "url": "https://www.animegg.org/kenka-dokugaku-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4162,
+    "title": "Kouya no Kotobuki Hikoutai",
+    "animegg_url": "https://www.animegg.org/series/kouya-no-kotobuki-hikoutai",
+    "mal_url": "https://myanimelist.net/anime/38301",
+    "mal_id": 38301,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/94214",
+        "dub": null,
+        "url": "https://www.animegg.org/kouya-no-kotobuki-hikoutai-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/94283",
+        "dub": null,
+        "url": "https://www.animegg.org/kouya-no-kotobuki-hikoutai-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/94346",
+        "dub": null,
+        "url": "https://www.animegg.org/kouya-no-kotobuki-hikoutai-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/94413",
+        "dub": null,
+        "url": "https://www.animegg.org/kouya-no-kotobuki-hikoutai-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/94477",
+        "dub": null,
+        "url": "https://www.animegg.org/kouya-no-kotobuki-hikoutai-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/94542",
+        "dub": null,
+        "url": "https://www.animegg.org/kouya-no-kotobuki-hikoutai-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/94617",
+        "dub": null,
+        "url": "https://www.animegg.org/kouya-no-kotobuki-hikoutai-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/94684",
+        "dub": null,
+        "url": "https://www.animegg.org/kouya-no-kotobuki-hikoutai-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/94748",
+        "dub": null,
+        "url": "https://www.animegg.org/kouya-no-kotobuki-hikoutai-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/94810",
+        "dub": null,
+        "url": "https://www.animegg.org/kouya-no-kotobuki-hikoutai-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/94889",
+        "dub": null,
+        "url": "https://www.animegg.org/kouya-no-kotobuki-hikoutai-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/94970",
+        "dub": null,
+        "url": "https://www.animegg.org/kouya-no-kotobuki-hikoutai-episode-12"
+      }
+    ]
   }
 ]
