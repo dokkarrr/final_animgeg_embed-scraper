@@ -7214,5 +7214,93 @@
         "url": "https://www.animegg.org/teekyuu-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3165,
+    "title": "Ken En Ken: Aoki Kagayaki",
+    "animegg_url": "https://www.animegg.org/series/ken-en-ken-aoki-kagayaki",
+    "mal_url": "https://myanimelist.net/anime/38083",
+    "mal_id": 38083,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/93058",
+        "dub": null,
+        "url": "https://www.animegg.org/ken-en-ken-aoki-kagayaki-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/93135",
+        "dub": null,
+        "url": "https://www.animegg.org/ken-en-ken-aoki-kagayaki-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/93214",
+        "dub": null,
+        "url": "https://www.animegg.org/ken-en-ken-aoki-kagayaki-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/93282",
+        "dub": null,
+        "url": "https://www.animegg.org/ken-en-ken-aoki-kagayaki-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/93375",
+        "dub": null,
+        "url": "https://www.animegg.org/ken-en-ken-aoki-kagayaki-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/93451",
+        "dub": null,
+        "url": "https://www.animegg.org/ken-en-ken-aoki-kagayaki-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/93533",
+        "dub": null,
+        "url": "https://www.animegg.org/ken-en-ken-aoki-kagayaki-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/93607",
+        "dub": null,
+        "url": "https://www.animegg.org/ken-en-ken-aoki-kagayaki-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/93680",
+        "dub": null,
+        "url": "https://www.animegg.org/ken-en-ken-aoki-kagayaki-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/93746",
+        "dub": null,
+        "url": "https://www.animegg.org/ken-en-ken-aoki-kagayaki-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/93834",
+        "dub": null,
+        "url": "https://www.animegg.org/ken-en-ken-aoki-kagayaki-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/93992",
+        "dub": null,
+        "url": "https://www.animegg.org/ken-en-ken-aoki-kagayaki-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/94064",
+        "dub": null,
+        "url": "https://www.animegg.org/ken-en-ken-aoki-kagayaki-episode-13"
+      }
+    ]
   }
 ]
