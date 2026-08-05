@@ -85756,5 +85756,87 @@
         "url": "https://www.animegg.org/musekinin-kanchou-tylor-1995-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4196,
+    "title": "Joshikausei",
+    "animegg_url": "https://www.animegg.org/series/joshikausei",
+    "mal_url": "https://myanimelist.net/anime/38295",
+    "mal_id": 38295,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/95012",
+        "dub": null,
+        "url": "https://www.animegg.org/joshikausei-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/95076",
+        "dub": null,
+        "url": "https://www.animegg.org/joshikausei-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/95137",
+        "dub": null,
+        "url": "https://www.animegg.org/joshikausei-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/95201",
+        "dub": null,
+        "url": "https://www.animegg.org/joshikausei-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/95265",
+        "dub": null,
+        "url": "https://www.animegg.org/joshikausei-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/95322",
+        "dub": null,
+        "url": "https://www.animegg.org/joshikausei-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/95384",
+        "dub": null,
+        "url": "https://www.animegg.org/joshikausei-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/95443",
+        "dub": null,
+        "url": "https://www.animegg.org/joshikausei-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/95506",
+        "dub": null,
+        "url": "https://www.animegg.org/joshikausei-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/95583",
+        "dub": null,
+        "url": "https://www.animegg.org/joshikausei-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/95652",
+        "dub": null,
+        "url": "https://www.animegg.org/joshikausei-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/95712",
+        "dub": null,
+        "url": "https://www.animegg.org/joshikausei-episode-12"
+      }
+    ]
   }
 ]
