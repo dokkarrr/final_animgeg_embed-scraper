@@ -84244,5 +84244,33 @@
         "url": "https://www.animegg.org/teogonia-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4172,
+    "title": "Mokei Senshi Gunpla Builders Beginning G",
+    "animegg_url": "https://www.animegg.org/series/mokei-senshi-gunpla-builders-beginning-g",
+    "mal_url": "https://myanimelist.net/anime/9040",
+    "mal_id": 9040,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/57886",
+        "dub": null,
+        "url": "https://www.animegg.org/mokei-senshi-gunpla-builders-beginning-g-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/mokei-senshi-gunpla-builders-beginning-g-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/mokei-senshi-gunpla-builders-beginning-g-episode-3"
+      }
+    ]
   }
 ]
