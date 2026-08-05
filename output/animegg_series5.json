@@ -63641,5 +63641,39 @@
         "url": "https://www.animegg.org/gotoubun-no-hanayome-movie-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6428,
+    "title": "Uzumaki",
+    "animegg_url": "https://www.animegg.org/series/uzumaki",
+    "mal_url": "https://myanimelist.net/anime/40333",
+    "mal_id": 40333,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/137434",
+        "dub": null,
+        "url": "https://www.animegg.org/uzumaki-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/137665",
+        "dub": null,
+        "url": "https://www.animegg.org/uzumaki-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/137944",
+        "dub": null,
+        "url": "https://www.animegg.org/uzumaki-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/138187",
+        "dub": null,
+        "url": "https://www.animegg.org/uzumaki-episode-4"
+      }
+    ]
   }
 ]
