@@ -104866,5 +104866,21 @@
         "url": "https://www.animegg.org/oda-cinnamon-nobunaga-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4493,
+    "title": "IS: Infinite Stratos 2 - Hitonatsu no Omoide",
+    "animegg_url": "https://www.animegg.org/series/is-infinite-stratos-2---hitonatsu-no-omoide",
+    "mal_url": "https://myanimelist.net/anime/20045",
+    "mal_id": 20045,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/18373",
+        "dub": null,
+        "url": "https://www.animegg.org/is-infinite-stratos-2---hitonatsu-no-omoide-episode-1"
+      }
+    ]
   }
 ]
