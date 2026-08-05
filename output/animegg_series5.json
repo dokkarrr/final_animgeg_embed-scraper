@@ -53225,5 +53225,21 @@
         "url": "https://www.animegg.org/tsubasa-reservoir-chronicle-the-movie-the-princess-in-the-birdcage-kingdom-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6335,
+    "title": "Venus Wars",
+    "animegg_url": "https://www.animegg.org/series/venus-wars",
+    "mal_url": "https://myanimelist.net/anime/544",
+    "mal_id": 544,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/64336",
+        "dub": null,
+        "url": "https://www.animegg.org/venus-wars-episode-1"
+      }
+    ]
   }
 ]
