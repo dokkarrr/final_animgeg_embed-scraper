@@ -45531,5 +45531,21 @@
         "url": "https://www.animegg.org/new-panty-stocking-with-garterbelt-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 6277,
+    "title": "Shakugan no Shana Movie",
+    "animegg_url": "https://www.animegg.org/series/shakugan-no-shana-movie",
+    "mal_url": "https://myanimelist.net/anime/1815",
+    "mal_id": 1815,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/61052",
+        "dub": null,
+        "url": "https://www.animegg.org/shakugan-no-shana-movie-episode-1"
+      }
+    ]
   }
 ]
