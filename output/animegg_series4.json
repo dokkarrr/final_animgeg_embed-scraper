@@ -2312,5 +2312,27 @@
         "url": "https://www.animegg.org/the-water-magician-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3102,
+    "title": "Ao Haru Ride: Unwritten",
+    "animegg_url": "https://www.animegg.org/series/ao-haru-ride-unwritten-episode",
+    "mal_url": "https://myanimelist.net/anime/24151",
+    "mal_id": 24151,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66135",
+        "dub": "https://www.animegg.org/embed/66136",
+        "url": "https://www.animegg.org/ao-haru-ride-unwritten-episode-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/67796",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-haru-ride-unwritten-episode-2"
+      }
+    ]
   }
 ]
