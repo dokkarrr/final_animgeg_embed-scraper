@@ -51342,5 +51342,21 @@
         "url": "https://www.animegg.org/mortia-san-wa-mukuchi-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3697,
+    "title": "K: Missing Kings",
+    "animegg_url": "https://www.animegg.org/series/k-missing-kings",
+    "mal_url": "https://myanimelist.net/anime/16904",
+    "mal_id": 16904,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/76424",
+        "dub": "https://www.animegg.org/embed/76459",
+        "url": "https://www.animegg.org/k-missing-kings-episode-1"
+      }
+    ]
   }
 ]
