@@ -84544,5 +84544,21 @@
         "url": "https://www.animegg.org/oh-boy-was-i-wrong-about-her-episode-5"
       }
     ]
+  },
+  {
+    "serial_no": 6619,
+    "title": "Yomigaeru Sora: Rescue Wings Special",
+    "animegg_url": "https://www.animegg.org/series/yomigaeru-sora-rescue-wings-special",
+    "mal_url": "https://myanimelist.net/anime/1843",
+    "mal_id": 1843,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/41106",
+        "dub": null,
+        "url": "https://www.animegg.org/yomigaeru-sora-rescue-wings-special-episode-1"
+      }
+    ]
   }
 ]
