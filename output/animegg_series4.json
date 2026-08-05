@@ -83294,5 +83294,69 @@
         "url": "https://www.animegg.org/nurse-witch-komugi-ova-episode-5"
       }
     ]
+  },
+  {
+    "serial_no": 4155,
+    "title": "Nekojiru Gekijou",
+    "animegg_url": "https://www.animegg.org/series/nekojiru-gekijou",
+    "mal_url": "https://myanimelist.net/anime/1062",
+    "mal_id": 1062,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/58982",
+        "dub": null,
+        "url": "https://www.animegg.org/nekojiru-gekijou-episode-1"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/58983",
+        "dub": null,
+        "url": "https://www.animegg.org/nekojiru-gekijou-episode-2"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/58984",
+        "dub": null,
+        "url": "https://www.animegg.org/nekojiru-gekijou-episode-3"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/58985",
+        "dub": null,
+        "url": "https://www.animegg.org/nekojiru-gekijou-episode-4"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/58986",
+        "dub": null,
+        "url": "https://www.animegg.org/nekojiru-gekijou-episode-5"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/58987",
+        "dub": null,
+        "url": "https://www.animegg.org/nekojiru-gekijou-episode-6"
+      },
+      {
+        "ep": 19,
+        "sub": "https://www.animegg.org/embed/58988",
+        "dub": null,
+        "url": "https://www.animegg.org/nekojiru-gekijou-episode-7"
+      },
+      {
+        "ep": 22,
+        "sub": "https://www.animegg.org/embed/58989",
+        "dub": null,
+        "url": "https://www.animegg.org/nekojiru-gekijou-episode-8"
+      },
+      {
+        "ep": 25,
+        "sub": "https://www.animegg.org/embed/58990",
+        "dub": null,
+        "url": "https://www.animegg.org/nekojiru-gekijou-episode-9"
+      }
+    ]
   }
 ]
