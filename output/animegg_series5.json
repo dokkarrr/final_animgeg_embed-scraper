@@ -43703,5 +43703,21 @@
         "url": "https://www.animegg.org/beyblade-burst-quadstrike-dub-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 6258,
+    "title": "Tsumiki no Ie",
+    "animegg_url": "https://www.animegg.org/series/tsumiki-no-ie",
+    "mal_url": "https://myanimelist.net/anime/5365",
+    "mal_id": 5365,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/45028",
+        "dub": null,
+        "url": "https://www.animegg.org/tsumiki-no-ie-episode"
+      }
+    ]
   }
 ]
