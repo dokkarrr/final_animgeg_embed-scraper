@@ -43270,5 +43270,87 @@
         "url": "https://www.animegg.org/souten-no-ken-regenesis-2nd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3590,
+    "title": "number24",
+    "animegg_url": "https://www.animegg.org/series/number24",
+    "mal_url": "https://myanimelist.net/anime/39583",
+    "mal_id": 39583,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/98318",
+        "dub": null,
+        "url": "https://www.animegg.org/number24-episode-12"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/98265",
+        "dub": null,
+        "url": "https://www.animegg.org/number24-episode-11"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/98052",
+        "dub": null,
+        "url": "https://www.animegg.org/number24-episode-10"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/97983",
+        "dub": null,
+        "url": "https://www.animegg.org/number24-episode-9"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/97924",
+        "dub": null,
+        "url": "https://www.animegg.org/number24-episode-8"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/97867",
+        "dub": null,
+        "url": "https://www.animegg.org/number24-episode-7"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/97814",
+        "dub": null,
+        "url": "https://www.animegg.org/number24-episode-6"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/97745",
+        "dub": null,
+        "url": "https://www.animegg.org/number24-episode-5"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/97682",
+        "dub": null,
+        "url": "https://www.animegg.org/number24-episode-4"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/97610",
+        "dub": null,
+        "url": "https://www.animegg.org/number24-episode-3"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/97546",
+        "dub": null,
+        "url": "https://www.animegg.org/number24-episode-2"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/97474",
+        "dub": null,
+        "url": "https://www.animegg.org/number24-episode-1"
+      }
+    ]
   }
 ]
