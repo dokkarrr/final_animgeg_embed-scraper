@@ -84560,5 +84560,21 @@
         "url": "https://www.animegg.org/yomigaeru-sora-rescue-wings-special-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6620,
+    "title": "Sorette Dakara ne!",
+    "animegg_url": "https://www.animegg.org/series/sorette-dakara-ne",
+    "mal_url": "https://myanimelist.net/anime/10859",
+    "mal_id": 10859,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/62340",
+        "dub": null,
+        "url": "https://www.animegg.org/sorette-dakara-ne-episode-1"
+      }
+    ]
   }
 ]
