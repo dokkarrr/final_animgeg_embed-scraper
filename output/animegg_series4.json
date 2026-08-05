@@ -12220,5 +12220,87 @@
         "url": "https://www.animegg.org/mato-seihei-no-slave-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3227,
+    "title": "Sentenced to Be a Hero",
+    "animegg_url": "https://www.animegg.org/series/sentenced-to-be-a-hero",
+    "mal_url": "https://myanimelist.net/anime/63820",
+    "mal_id": 63820,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/144044",
+        "dub": "https://www.animegg.org/embed/144047",
+        "url": "https://www.animegg.org/sentenced-to-be-a-hero-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/144209",
+        "dub": "https://www.animegg.org/embed/144214",
+        "url": "https://www.animegg.org/sentenced-to-be-a-hero-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/144315",
+        "dub": "https://www.animegg.org/embed/144321",
+        "url": "https://www.animegg.org/sentenced-to-be-a-hero-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/144420",
+        "dub": "https://www.animegg.org/embed/144424",
+        "url": "https://www.animegg.org/sentenced-to-be-a-hero-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/144526",
+        "dub": "https://www.animegg.org/embed/144528",
+        "url": "https://www.animegg.org/sentenced-to-be-a-hero-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/144615",
+        "dub": "https://www.animegg.org/embed/144622",
+        "url": "https://www.animegg.org/sentenced-to-be-a-hero-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/144715",
+        "dub": "https://www.animegg.org/embed/144725",
+        "url": "https://www.animegg.org/sentenced-to-be-a-hero-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/144823",
+        "dub": "https://www.animegg.org/embed/144835",
+        "url": "https://www.animegg.org/sentenced-to-be-a-hero-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/144937",
+        "dub": "https://www.animegg.org/embed/144946",
+        "url": "https://www.animegg.org/sentenced-to-be-a-hero-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/145036",
+        "dub": "https://www.animegg.org/embed/145043",
+        "url": "https://www.animegg.org/sentenced-to-be-a-hero-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/145156",
+        "dub": "https://www.animegg.org/embed/145159",
+        "url": "https://www.animegg.org/sentenced-to-be-a-hero-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/145253",
+        "dub": null,
+        "url": "https://www.animegg.org/sentenced-to-be-a-hero-episode-12"
+      }
+    ]
   }
 ]
