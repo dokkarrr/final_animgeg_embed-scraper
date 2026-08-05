@@ -60920,5 +60920,69 @@
         "url": "https://www.animegg.org/the-shiunji-family-children-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3834,
+    "title": "Maou-sama, Retry! R",
+    "animegg_url": "https://www.animegg.org/series/maou-sama-retry-r",
+    "mal_url": "https://myanimelist.net/anime/56400",
+    "mal_id": 56400,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/137418",
+        "dub": null,
+        "url": "https://www.animegg.org/maou-sama-retry-r-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/137637",
+        "dub": null,
+        "url": "https://www.animegg.org/maou-sama-retry-r-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/137917",
+        "dub": null,
+        "url": "https://www.animegg.org/maou-sama-retry-r-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/138173",
+        "dub": null,
+        "url": "https://www.animegg.org/maou-sama-retry-r-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/138412",
+        "dub": null,
+        "url": "https://www.animegg.org/maou-sama-retry-r-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/138607",
+        "dub": null,
+        "url": "https://www.animegg.org/maou-sama-retry-r-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/138837",
+        "dub": null,
+        "url": "https://www.animegg.org/maou-sama-retry-r-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/139037",
+        "dub": null,
+        "url": "https://www.animegg.org/maou-sama-retry-r-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/139215",
+        "dub": null,
+        "url": "https://www.animegg.org/maou-sama-retry-r-episode-9"
+      }
+    ]
   }
 ]
