@@ -97128,5 +97128,27 @@
         "url": "https://www.animegg.org/castlevania-season-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4369,
+    "title": "Shingeki no Kyojin: The Final Season - Kanketsu-hen",
+    "animegg_url": "https://www.animegg.org/series/shingeki-no-kyojin-the-final-season---kanketsu-hen",
+    "mal_url": "https://myanimelist.net/anime/51535",
+    "mal_id": 51535,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/107382",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-kyojin-the-final-season---kanketsu-hen-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-kyojin-the-final-season---kanketsu-hen-episode-2"
+      }
+    ]
   }
 ]
