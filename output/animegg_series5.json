@@ -40899,5 +40899,21 @@
         "url": "https://www.animegg.org/cardfight-vanguard-g-next-dub-episode-52"
       }
     ]
+  },
+  {
+    "serial_no": 6223,
+    "title": "Sengoku Basara: The Last Party",
+    "animegg_url": "https://www.animegg.org/series/sengoku-basara-the-last-party",
+    "mal_url": "https://myanimelist.net/anime/9745",
+    "mal_id": 9745,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/59957",
+        "dub": null,
+        "url": "https://www.animegg.org/sengoku-basara-the-last-party-episode-1"
+      }
+    ]
   }
 ]
