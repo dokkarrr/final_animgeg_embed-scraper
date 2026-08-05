@@ -90642,5 +90642,21 @@
         "url": "https://www.animegg.org/kinoko-inu-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 4276,
+    "title": "Pokemon Movie 18: Ring no Choumajin Hoopa",
+    "animegg_url": "https://www.animegg.org/series/pokemon-movie-18-ring-no-choumajin-hoopa",
+    "mal_url": "https://myanimelist.net/anime/25805",
+    "mal_id": 25805,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 18,
+        "sub": "https://www.animegg.org/embed/80535",
+        "dub": "https://www.animegg.org/embed/80992",
+        "url": "https://www.animegg.org/pokemon-movie-18-ring-no-choumajin-hoopa-episode-1"
+      }
+    ]
   }
 ]
