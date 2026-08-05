@@ -26694,5 +26694,81 @@
         "url": "https://www.animegg.org/ikkitousen-great-guardians-ova-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 3385,
+    "title": "Rascal Does Not Dream of Santa Claus",
+    "animegg_url": "https://www.animegg.org/series/rascal-does-not-dream-of-santa-claus",
+    "mal_url": "https://myanimelist.net/anime/57433",
+    "mal_id": 57433,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/141572",
+        "dub": null,
+        "url": "https://www.animegg.org/rascal-does-not-dream-of-santa-claus-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/141683",
+        "dub": null,
+        "url": "https://www.animegg.org/rascal-does-not-dream-of-santa-claus-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/141811",
+        "dub": null,
+        "url": "https://www.animegg.org/rascal-does-not-dream-of-santa-claus-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/141904",
+        "dub": null,
+        "url": "https://www.animegg.org/rascal-does-not-dream-of-santa-claus-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/142032",
+        "dub": null,
+        "url": "https://www.animegg.org/rascal-does-not-dream-of-santa-claus-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/142145",
+        "dub": null,
+        "url": "https://www.animegg.org/rascal-does-not-dream-of-santa-claus-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/142307",
+        "dub": null,
+        "url": "https://www.animegg.org/rascal-does-not-dream-of-santa-claus-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/142384",
+        "dub": null,
+        "url": "https://www.animegg.org/rascal-does-not-dream-of-santa-claus-episode-8"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/142482",
+        "dub": null,
+        "url": "https://www.animegg.org/rascal-does-not-dream-of-santa-claus-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/142529",
+        "dub": null,
+        "url": "https://www.animegg.org/rascal-does-not-dream-of-santa-claus-episode-11"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/142719",
+        "dub": null,
+        "url": "https://www.animegg.org/rascal-does-not-dream-of-santa-claus-episode-13"
+      }
+    ]
   }
 ]
