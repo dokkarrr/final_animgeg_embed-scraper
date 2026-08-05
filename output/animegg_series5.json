@@ -13221,5 +13221,21 @@
         "url": "https://www.animegg.org/street-fighter-iv-the-ties-that-bind-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5822,
+    "title": "Joshiraku OVA",
+    "animegg_url": "https://www.animegg.org/series/joshiraku-ova",
+    "mal_url": "https://myanimelist.net/anime/15591",
+    "mal_id": 15591,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/18711",
+        "dub": null,
+        "url": "https://www.animegg.org/joshiraku-ova-episode-1"
+      }
+    ]
   }
 ]
