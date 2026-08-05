@@ -17280,5 +17280,21 @@
         "url": "https://www.animegg.org/this-boy-caught-a-merman-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5907,
+    "title": "Higashi no Eden Soushuuhen: Air Communication",
+    "animegg_url": "https://www.animegg.org/series/higashi-no-eden-soushuuhen-air-communication",
+    "mal_url": "https://myanimelist.net/anime/6927",
+    "mal_id": 6927,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/51202",
+        "dub": null,
+        "url": "https://www.animegg.org/higashi-no-eden-soushuuhen-air-communication-episode-1"
+      }
+    ]
   }
 ]
