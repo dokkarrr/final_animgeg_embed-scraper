@@ -103530,5 +103530,21 @@
         "url": "https://www.animegg.org/ninja-scroll-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4462,
+    "title": "Afro Samurai: Resurrection (Movie)",
+    "animegg_url": "https://www.animegg.org/series/afro-samurai-resurrection-movie",
+    "mal_url": "https://myanimelist.net/anime/4970",
+    "mal_id": 4970,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/413",
+        "dub": null,
+        "url": "https://www.animegg.org/afro-samurai-resurrection-movie-episode-1"
+      }
+    ]
   }
 ]
