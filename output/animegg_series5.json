@@ -29330,5 +29330,27 @@
         "url": "https://www.animegg.org/mairimashita-iruma-kun-3rd-season-dub-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6104,
+    "title": "To Heart 2 Adnext",
+    "animegg_url": "https://www.animegg.org/series/to-heart-2-adnext",
+    "mal_url": "https://myanimelist.net/anime/9005",
+    "mal_id": 9005,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/38219",
+        "dub": null,
+        "url": "https://www.animegg.org/to-heart-2-adnext-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/38220",
+        "dub": null,
+        "url": "https://www.animegg.org/to-heart-2-adnext-episode-1"
+      }
+    ]
   }
 ]
