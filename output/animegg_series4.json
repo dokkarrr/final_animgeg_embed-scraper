@@ -135303,5 +135303,81 @@
         "url": "https://www.animegg.org/guilty-crown-lost-christmas-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4964,
+    "title": "Scooped Up by an S-Ranked Adventurer",
+    "animegg_url": "https://www.animegg.org/series/scooped-up-by-an-s-ranked-adventurer",
+    "mal_url": "https://myanimelist.net/anime/59424",
+    "mal_id": 59424,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/141570",
+        "dub": "https://www.animegg.org/embed/144949",
+        "url": "https://www.animegg.org/scooped-up-by-an-s-ranked-adventurer-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/141682",
+        "dub": null,
+        "url": "https://www.animegg.org/scooped-up-by-an-s-ranked-adventurer-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/141790",
+        "dub": null,
+        "url": "https://www.animegg.org/scooped-up-by-an-s-ranked-adventurer-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/141902",
+        "dub": null,
+        "url": "https://www.animegg.org/scooped-up-by-an-s-ranked-adventurer-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/142029",
+        "dub": null,
+        "url": "https://www.animegg.org/scooped-up-by-an-s-ranked-adventurer-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/142154",
+        "dub": null,
+        "url": "https://www.animegg.org/scooped-up-by-an-s-ranked-adventurer-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/142308",
+        "dub": null,
+        "url": "https://www.animegg.org/scooped-up-by-an-s-ranked-adventurer-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/142383",
+        "dub": null,
+        "url": "https://www.animegg.org/scooped-up-by-an-s-ranked-adventurer-episode-8"
+      },
+      {
+        "ep": 10,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/scooped-up-by-an-s-ranked-adventurer-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/142537",
+        "dub": null,
+        "url": "https://www.animegg.org/scooped-up-by-an-s-ranked-adventurer-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/144947",
+        "dub": null,
+        "url": "https://www.animegg.org/scooped-up-by-an-s-ranked-adventurer-episode-12"
+      }
+    ]
   }
 ]
