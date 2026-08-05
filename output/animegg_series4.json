@@ -123852,5 +123852,33 @@
         "url": "https://www.animegg.org/kishin-houkou-demonbane-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4795,
+    "title": "Book Girl: Memoire",
+    "animegg_url": "https://www.animegg.org/series/book-girl-memoire",
+    "mal_url": "https://myanimelist.net/anime/8481",
+    "mal_id": 8481,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/48959",
+        "dub": null,
+        "url": "https://www.animegg.org/book-girl-memoire-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/48960",
+        "dub": null,
+        "url": "https://www.animegg.org/book-girl-memoire-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/48961",
+        "dub": null,
+        "url": "https://www.animegg.org/book-girl-memoire-episode-3"
+      }
+    ]
   }
 ]
