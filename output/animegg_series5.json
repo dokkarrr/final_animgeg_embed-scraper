@@ -106842,5 +106842,33 @@
         "url": "https://www.animegg.org/shangri-la-frontier-season-2-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 6791,
+    "title": "Grand blue dreaming season 3",
+    "animegg_url": "https://www.animegg.org/series/grand-blue-dreaming-season-3",
+    "mal_url": "https://myanimelist.net/anime/62542",
+    "mal_id": 62542,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/146585",
+        "dub": null,
+        "url": "https://www.animegg.org/grand-blue-dreaming-season-3-episode-4"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/146508",
+        "dub": null,
+        "url": "https://www.animegg.org/grand-blue-dreaming-season-3-episode-3"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/146443",
+        "dub": null,
+        "url": "https://www.animegg.org/grand-blue-dreaming-season-3-episode-2"
+      }
+    ]
   }
 ]
