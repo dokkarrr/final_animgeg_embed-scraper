@@ -540,5 +540,21 @@
         "url": "https://www.animegg.org/tanoshii-muumin-ikka-dub-episode-78"
       }
     ]
+  },
+  {
+    "serial_no": 5614,
+    "title": "Mahou Sensei Nigima! Anime Final",
+    "animegg_url": "https://www.animegg.org/series/mahou-sensei-nigima-anime-final",
+    "mal_url": "https://myanimelist.net/anime/157",
+    "mal_id": 157,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/56871",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-sensei-nigima-anime-final-episode-1"
+      }
+    ]
   }
 ]
