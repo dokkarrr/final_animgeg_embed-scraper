@@ -90584,5 +90584,63 @@
         "url": "https://www.animegg.org/heike-monogatari-episode-11"
       }
     ]
+  },
+  {
+    "serial_no": 4275,
+    "title": "Kinoko Inu",
+    "animegg_url": "https://www.animegg.org/series/kinoko-inu",
+    "mal_url": "https://myanimelist.net/anime/58854",
+    "mal_id": 58854,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/137559",
+        "dub": null,
+        "url": "https://www.animegg.org/kinoko-inu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/137794",
+        "dub": null,
+        "url": "https://www.animegg.org/kinoko-inu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/138068",
+        "dub": null,
+        "url": "https://www.animegg.org/kinoko-inu-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/138324",
+        "dub": null,
+        "url": "https://www.animegg.org/kinoko-inu-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/138575",
+        "dub": null,
+        "url": "https://www.animegg.org/kinoko-inu-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/138785",
+        "dub": null,
+        "url": "https://www.animegg.org/kinoko-inu-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/138972",
+        "dub": null,
+        "url": "https://www.animegg.org/kinoko-inu-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/139167",
+        "dub": null,
+        "url": "https://www.animegg.org/kinoko-inu-episode-8"
+      }
+    ]
   }
 ]
