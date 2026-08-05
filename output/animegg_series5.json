@@ -13237,5 +13237,21 @@
         "url": "https://www.animegg.org/joshiraku-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5823,
+    "title": "Given Movie",
+    "animegg_url": "https://www.animegg.org/series/given-movie",
+    "mal_url": "https://myanimelist.net/anime/40421",
+    "mal_id": 40421,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/100731",
+        "dub": null,
+        "url": "https://www.animegg.org/given-movie-episode-1"
+      }
+    ]
   }
 ]
