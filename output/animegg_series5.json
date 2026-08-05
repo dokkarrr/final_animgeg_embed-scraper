@@ -82072,5 +82072,21 @@
         "url": "https://www.animegg.org/sword-art-online-progressive-movie---hoshi-naki-yoru-no-aria-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6589,
+    "title": "Kimetsu no Yaiba: Kyoudai no Kizuna",
+    "animegg_url": "https://www.animegg.org/series/kimetsu-no-yaiba-kyoudai-no-kizuna",
+    "mal_url": "https://myanimelist.net/anime/38000",
+    "mal_id": 38000,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kimetsu-no-yaiba-kyoudai-no-kizuna-episode-1"
+      }
+    ]
   }
 ]
