@@ -73124,5 +73124,21 @@
         "url": "https://www.animegg.org/haikyuu-riku-vs-kuu-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 4002,
+    "title": "IS: Infinite Stratos 2 - World Purge-hen",
+    "animegg_url": "https://www.animegg.org/series/is-infinite-stratos-2---world-purge-hen",
+    "mal_url": "https://myanimelist.net/anime/21653",
+    "mal_id": 21653,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/67301",
+        "dub": "https://www.animegg.org/embed/67451",
+        "url": "https://www.animegg.org/is-infinite-stratos-2---world-purge-hen-episode-1"
+      }
+    ]
   }
 ]
