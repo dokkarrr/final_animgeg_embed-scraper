@@ -110740,5 +110740,69 @@
         "url": "https://www.animegg.org/the-missing-8-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6830,
+    "title": "I'm Living with an Otaku NEET Kunoichi!?",
+    "animegg_url": "https://www.animegg.org/series/i-m-living-with-an-otaku-neet-kunoichi--",
+    "mal_url": "https://myanimelist.net/anime/58082",
+    "mal_id": 58082,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/141470",
+        "dub": null,
+        "url": "https://www.animegg.org/i-m-living-with-an-otaku-neet-kunoichi---episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/141542",
+        "dub": null,
+        "url": "https://www.animegg.org/i-m-living-with-an-otaku-neet-kunoichi---episode-2"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/141858",
+        "dub": null,
+        "url": "https://www.animegg.org/i-m-living-with-an-otaku-neet-kunoichi---episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/141982",
+        "dub": null,
+        "url": "https://www.animegg.org/i-m-living-with-an-otaku-neet-kunoichi---episode-6"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/142229",
+        "dub": null,
+        "url": "https://www.animegg.org/i-m-living-with-an-otaku-neet-kunoichi---episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/142333",
+        "dub": null,
+        "url": "https://www.animegg.org/i-m-living-with-an-otaku-neet-kunoichi---episode-9"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/142446",
+        "dub": null,
+        "url": "https://www.animegg.org/i-m-living-with-an-otaku-neet-kunoichi---episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/142498",
+        "dub": null,
+        "url": "https://www.animegg.org/i-m-living-with-an-otaku-neet-kunoichi---episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/142605",
+        "dub": null,
+        "url": "https://www.animegg.org/i-m-living-with-an-otaku-neet-kunoichi---episode-13"
+      }
+    ]
   }
 ]
