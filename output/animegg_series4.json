@@ -56016,5 +56016,27 @@
         "url": "https://www.animegg.org/doupo-cangqiong-nian-fan-episode-122"
       }
     ]
+  },
+  {
+    "serial_no": 3754,
+    "title": "Yuru Yuri Nachuyachumi! Plus",
+    "animegg_url": "https://www.animegg.org/series/yuru-yuri-nachuyachumi-plus",
+    "mal_url": "https://myanimelist.net/anime/30902",
+    "mal_id": 30902,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/78622",
+        "dub": "https://www.animegg.org/embed/78685",
+        "url": "https://www.animegg.org/yuru-yuri-nachuyachumi-plus-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/79081",
+        "dub": "https://www.animegg.org/embed/79120",
+        "url": "https://www.animegg.org/yuru-yuri-nachuyachumi-plus-episode-2"
+      }
+    ]
   }
 ]
