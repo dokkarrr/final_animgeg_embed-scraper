@@ -106852,5 +106852,33 @@
         "url": "https://www.animegg.org/wotaku-ni-koi-wa-muzukashii-youth-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 4526,
+    "title": "Born to Cook",
+    "animegg_url": "https://www.animegg.org/series/born-to-cook",
+    "mal_url": "https://myanimelist.net/anime/3437",
+    "mal_id": 3437,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/48768",
+        "dub": null,
+        "url": "https://www.animegg.org/born-to-cook-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/48769",
+        "dub": null,
+        "url": "https://www.animegg.org/born-to-cook-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/48770",
+        "dub": null,
+        "url": "https://www.animegg.org/born-to-cook-episode-3"
+      }
+    ]
   }
 ]
