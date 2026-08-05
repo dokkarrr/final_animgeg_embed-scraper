@@ -96750,5 +96750,39 @@
         "url": "https://www.animegg.org/haikyuu-dub-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 4363,
+    "title": "Usagi Drop Specials",
+    "animegg_url": "https://www.animegg.org/series/usagi-drop-specials",
+    "mal_url": "https://myanimelist.net/anime/11113",
+    "mal_id": 11113,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/39761",
+        "dub": null,
+        "url": "https://www.animegg.org/usagi-drop-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/39762",
+        "dub": null,
+        "url": "https://www.animegg.org/usagi-drop-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/39760",
+        "dub": null,
+        "url": "https://www.animegg.org/usagi-drop-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/39763",
+        "dub": null,
+        "url": "https://www.animegg.org/usagi-drop-specials-episode-4"
+      }
+    ]
   }
 ]
