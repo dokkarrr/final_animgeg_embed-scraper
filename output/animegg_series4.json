@@ -133866,5 +133866,33 @@
         "url": "https://www.animegg.org/xiong-chumo-zhi-huanqiu-da-maoxian-dub-episode-104"
       }
     ]
+  },
+  {
+    "serial_no": 4933,
+    "title": "Akazukin Chacha OVA",
+    "animegg_url": "https://www.animegg.org/series/akazukin-chacha-ova",
+    "mal_url": "https://myanimelist.net/anime/367",
+    "mal_id": 367,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/65715",
+        "dub": null,
+        "url": "https://www.animegg.org/akazukin-chacha-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/65716",
+        "dub": null,
+        "url": "https://www.animegg.org/akazukin-chacha-ova-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/65717",
+        "dub": null,
+        "url": "https://www.animegg.org/akazukin-chacha-ova-episode-3"
+      }
+    ]
   }
 ]
