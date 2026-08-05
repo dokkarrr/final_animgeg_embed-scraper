@@ -72631,5 +72631,27 @@
         "url": "https://www.animegg.org/mob-psycho-100-ii-dub-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6516,
+    "title": "Marchen Madchen Specials",
+    "animegg_url": "https://www.animegg.org/series/marchen-madchen-specials",
+    "mal_url": "https://myanimelist.net/anime/37973",
+    "mal_id": 37973,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/95218",
+        "dub": null,
+        "url": "https://www.animegg.org/marchen-madchen-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/95219",
+        "dub": null,
+        "url": "https://www.animegg.org/marchen-madchen-specials-episode-2"
+      }
+    ]
   }
 ]
