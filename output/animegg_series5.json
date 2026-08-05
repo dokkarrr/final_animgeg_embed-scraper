@@ -23204,5 +23204,87 @@
         "url": "https://www.animegg.org/toriko-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6002,
+    "title": "7 Seeds 2nd Season",
+    "animegg_url": "https://www.animegg.org/series/7-seeds-2nd-season",
+    "mal_url": "https://myanimelist.net/anime/40602",
+    "mal_id": 40602,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/98187",
+        "dub": null,
+        "url": "https://www.animegg.org/7-seeds-2nd-season-episode-12"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/109216",
+        "dub": null,
+        "url": "https://www.animegg.org/7-seeds-2nd-season-episode-11"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/109215",
+        "dub": null,
+        "url": "https://www.animegg.org/7-seeds-2nd-season-episode-10"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/109224",
+        "dub": null,
+        "url": "https://www.animegg.org/7-seeds-2nd-season-episode-9"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/109223",
+        "dub": null,
+        "url": "https://www.animegg.org/7-seeds-2nd-season-episode-8"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/109222",
+        "dub": null,
+        "url": "https://www.animegg.org/7-seeds-2nd-season-episode-7"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/109221",
+        "dub": null,
+        "url": "https://www.animegg.org/7-seeds-2nd-season-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/109220",
+        "dub": null,
+        "url": "https://www.animegg.org/7-seeds-2nd-season-episode-5"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/109219",
+        "dub": null,
+        "url": "https://www.animegg.org/7-seeds-2nd-season-episode-4"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/109218",
+        "dub": null,
+        "url": "https://www.animegg.org/7-seeds-2nd-season-episode-3"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/109217",
+        "dub": null,
+        "url": "https://www.animegg.org/7-seeds-2nd-season-episode-2"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/98186",
+        "dub": null,
+        "url": "https://www.animegg.org/7-seeds-2nd-season-episode-1"
+      }
+    ]
   }
 ]
