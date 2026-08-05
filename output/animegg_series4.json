@@ -89846,5 +89846,87 @@
         "url": "https://www.animegg.org/mobile-suit-gundam-gquuuuuux-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4266,
+    "title": "B: The Beginning",
+    "animegg_url": "https://www.animegg.org/series/b-the-beginning",
+    "mal_url": "https://myanimelist.net/anime/32827",
+    "mal_id": 32827,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/90267",
+        "dub": null,
+        "url": "https://www.animegg.org/b-the-beginning-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/109949",
+        "dub": null,
+        "url": "https://www.animegg.org/b-the-beginning-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/109950",
+        "dub": null,
+        "url": "https://www.animegg.org/b-the-beginning-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/109951",
+        "dub": null,
+        "url": "https://www.animegg.org/b-the-beginning-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/109952",
+        "dub": null,
+        "url": "https://www.animegg.org/b-the-beginning-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/109953",
+        "dub": null,
+        "url": "https://www.animegg.org/b-the-beginning-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/109954",
+        "dub": null,
+        "url": "https://www.animegg.org/b-the-beginning-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/109955",
+        "dub": null,
+        "url": "https://www.animegg.org/b-the-beginning-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/109956",
+        "dub": null,
+        "url": "https://www.animegg.org/b-the-beginning-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/109948",
+        "dub": null,
+        "url": "https://www.animegg.org/b-the-beginning-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/90269",
+        "dub": null,
+        "url": "https://www.animegg.org/b-the-beginning-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/90268",
+        "dub": null,
+        "url": "https://www.animegg.org/b-the-beginning-episode-12"
+      }
+    ]
   }
 ]
