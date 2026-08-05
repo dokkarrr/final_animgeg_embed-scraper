@@ -68736,5 +68736,69 @@
         "url": "https://www.animegg.org/dragon-ie-wo-kau-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3925,
+    "title": "Tsuma, Shougakusei ni Naru.",
+    "animegg_url": "https://www.animegg.org/series/tsuma-shougakusei-ni-naru",
+    "mal_url": "https://myanimelist.net/anime/54726",
+    "mal_id": 54726,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/139303",
+        "dub": null,
+        "url": "https://www.animegg.org/tsuma-shougakusei-ni-naru-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/137675",
+        "dub": null,
+        "url": "https://www.animegg.org/tsuma-shougakusei-ni-naru-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/137949",
+        "dub": null,
+        "url": "https://www.animegg.org/tsuma-shougakusei-ni-naru-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/138190",
+        "dub": null,
+        "url": "https://www.animegg.org/tsuma-shougakusei-ni-naru-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/138426",
+        "dub": null,
+        "url": "https://www.animegg.org/tsuma-shougakusei-ni-naru-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/138652",
+        "dub": null,
+        "url": "https://www.animegg.org/tsuma-shougakusei-ni-naru-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/138876",
+        "dub": null,
+        "url": "https://www.animegg.org/tsuma-shougakusei-ni-naru-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/139075",
+        "dub": null,
+        "url": "https://www.animegg.org/tsuma-shougakusei-ni-naru-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/139252",
+        "dub": null,
+        "url": "https://www.animegg.org/tsuma-shougakusei-ni-naru-episode-9"
+      }
+    ]
   }
 ]
