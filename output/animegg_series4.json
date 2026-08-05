@@ -118620,5 +118620,87 @@
         "url": "https://www.animegg.org/asobi-ni-iku-yo-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4723,
+    "title": "Dark Moon: The Blood Altar",
+    "animegg_url": "https://www.animegg.org/series/dark-moon-the-blood-altar",
+    "mal_url": "https://myanimelist.net/anime/59853",
+    "mal_id": 59853,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/144117",
+        "dub": "https://www.animegg.org/embed/144131",
+        "url": "https://www.animegg.org/dark-moon-the-blood-altar-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/144219",
+        "dub": "https://www.animegg.org/embed/144221",
+        "url": "https://www.animegg.org/dark-moon-the-blood-altar-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/144327",
+        "dub": "https://www.animegg.org/embed/144330",
+        "url": "https://www.animegg.org/dark-moon-the-blood-altar-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/144437",
+        "dub": "https://www.animegg.org/embed/144438",
+        "url": "https://www.animegg.org/dark-moon-the-blood-altar-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/144533",
+        "dub": "https://www.animegg.org/embed/144540",
+        "url": "https://www.animegg.org/dark-moon-the-blood-altar-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/144629",
+        "dub": "https://www.animegg.org/embed/144633",
+        "url": "https://www.animegg.org/dark-moon-the-blood-altar-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/144738",
+        "dub": "https://www.animegg.org/embed/144741",
+        "url": "https://www.animegg.org/dark-moon-the-blood-altar-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/144844",
+        "dub": "https://www.animegg.org/embed/144845",
+        "url": "https://www.animegg.org/dark-moon-the-blood-altar-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/144950",
+        "dub": "https://www.animegg.org/embed/144956",
+        "url": "https://www.animegg.org/dark-moon-the-blood-altar-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/145048",
+        "dub": "https://www.animegg.org/embed/145057",
+        "url": "https://www.animegg.org/dark-moon-the-blood-altar-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/145170",
+        "dub": "https://www.animegg.org/embed/145173",
+        "url": "https://www.animegg.org/dark-moon-the-blood-altar-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/145259",
+        "dub": "https://www.animegg.org/embed/145260",
+        "url": "https://www.animegg.org/dark-moon-the-blood-altar-episode-12"
+      }
+    ]
   }
 ]
