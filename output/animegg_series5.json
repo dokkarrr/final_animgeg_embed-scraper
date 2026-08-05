@@ -94273,5 +94273,87 @@
         "url": "https://www.animegg.org/wakakusa-monogatari-nan-to-jo-sensei-episode-40"
       }
     ]
+  },
+  {
+    "serial_no": 6698,
+    "title": "Tian Guan Ci Fu",
+    "animegg_url": "https://www.animegg.org/series/tian-guan-ci-fu-dub",
+    "mal_url": "https://myanimelist.net/anime/40730",
+    "mal_id": 40730,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/116807",
+        "dub": null,
+        "url": "https://www.animegg.org/tian-guan-ci-fu-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/tian-guan-ci-fu-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/116803",
+        "dub": null,
+        "url": "https://www.animegg.org/tian-guan-ci-fu-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/116802",
+        "dub": null,
+        "url": "https://www.animegg.org/tian-guan-ci-fu-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/116801",
+        "dub": null,
+        "url": "https://www.animegg.org/tian-guan-ci-fu-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/116800",
+        "dub": null,
+        "url": "https://www.animegg.org/tian-guan-ci-fu-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/116798",
+        "dub": null,
+        "url": "https://www.animegg.org/tian-guan-ci-fu-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/116799",
+        "dub": null,
+        "url": "https://www.animegg.org/tian-guan-ci-fu-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/116797",
+        "dub": null,
+        "url": "https://www.animegg.org/tian-guan-ci-fu-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/116806",
+        "dub": null,
+        "url": "https://www.animegg.org/tian-guan-ci-fu-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/116805",
+        "dub": null,
+        "url": "https://www.animegg.org/tian-guan-ci-fu-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/116804",
+        "dub": null,
+        "url": "https://www.animegg.org/tian-guan-ci-fu-dub-episode-12"
+      }
+    ]
   }
 ]
