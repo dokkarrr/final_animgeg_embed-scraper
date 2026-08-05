@@ -60756,5 +60756,87 @@
         "url": "https://www.animegg.org/cat-soup-theater-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 3832,
+    "title": "RobiHachi",
+    "animegg_url": "https://www.animegg.org/series/robihachi",
+    "mal_url": "https://myanimelist.net/anime/38707",
+    "mal_id": 38707,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/95033",
+        "dub": null,
+        "url": "https://www.animegg.org/robihachi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/95097",
+        "dub": null,
+        "url": "https://www.animegg.org/robihachi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/95161",
+        "dub": null,
+        "url": "https://www.animegg.org/robihachi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/95229",
+        "dub": null,
+        "url": "https://www.animegg.org/robihachi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/95284",
+        "dub": null,
+        "url": "https://www.animegg.org/robihachi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/95349",
+        "dub": null,
+        "url": "https://www.animegg.org/robihachi-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/95407",
+        "dub": null,
+        "url": "https://www.animegg.org/robihachi-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/95467",
+        "dub": null,
+        "url": "https://www.animegg.org/robihachi-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/95535",
+        "dub": null,
+        "url": "https://www.animegg.org/robihachi-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/95611",
+        "dub": null,
+        "url": "https://www.animegg.org/robihachi-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/95680",
+        "dub": null,
+        "url": "https://www.animegg.org/robihachi-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/95733",
+        "dub": null,
+        "url": "https://www.animegg.org/robihachi-episode-12"
+      }
+    ]
   }
 ]
