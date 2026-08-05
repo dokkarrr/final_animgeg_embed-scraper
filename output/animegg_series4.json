@@ -113846,5 +113846,21 @@
         "url": "https://www.animegg.org/3x3-eyes-seima-densetsu-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4647,
+    "title": "009 Re:Cyborg",
+    "animegg_url": "https://www.animegg.org/series/009-recyborg",
+    "mal_url": "https://myanimelist.net/anime/11755",
+    "mal_id": 11755,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/25064",
+        "dub": null,
+        "url": "https://www.animegg.org/009-recyborg-episode-1"
+      }
+    ]
   }
 ]
