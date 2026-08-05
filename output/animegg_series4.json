@@ -70010,5 +70010,87 @@
         "url": "https://www.animegg.org/world-fool-news-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3951,
+    "title": "Deaimon",
+    "animegg_url": "https://www.animegg.org/series/deaimon",
+    "mal_url": "https://myanimelist.net/anime/48779",
+    "mal_id": 48779,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/104348",
+        "dub": null,
+        "url": "https://www.animegg.org/deaimon-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/104411",
+        "dub": null,
+        "url": "https://www.animegg.org/deaimon-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/104480",
+        "dub": null,
+        "url": "https://www.animegg.org/deaimon-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/104539",
+        "dub": null,
+        "url": "https://www.animegg.org/deaimon-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/104597",
+        "dub": null,
+        "url": "https://www.animegg.org/deaimon-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/104656",
+        "dub": null,
+        "url": "https://www.animegg.org/deaimon-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/104776",
+        "dub": null,
+        "url": "https://www.animegg.org/deaimon-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/104875",
+        "dub": null,
+        "url": "https://www.animegg.org/deaimon-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/104931",
+        "dub": null,
+        "url": "https://www.animegg.org/deaimon-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/104994",
+        "dub": null,
+        "url": "https://www.animegg.org/deaimon-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/105071",
+        "dub": null,
+        "url": "https://www.animegg.org/deaimon-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/105127",
+        "dub": null,
+        "url": "https://www.animegg.org/deaimon-episode-12"
+      }
+    ]
   }
 ]
