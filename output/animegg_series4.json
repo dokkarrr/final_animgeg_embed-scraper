@@ -97150,5 +97150,93 @@
         "url": "https://www.animegg.org/shingeki-no-kyojin-the-final-season---kanketsu-hen-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 4370,
+    "title": "Senki Zesshou Symphogear XV",
+    "animegg_url": "https://www.animegg.org/series/senki-zesshou-symphogear-xv",
+    "mal_url": "https://myanimelist.net/anime/32843",
+    "mal_id": 32843,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/95829",
+        "dub": null,
+        "url": "https://www.animegg.org/senki-zesshou-symphogear-xv-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/95899",
+        "dub": null,
+        "url": "https://www.animegg.org/senki-zesshou-symphogear-xv-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/95980",
+        "dub": null,
+        "url": "https://www.animegg.org/senki-zesshou-symphogear-xv-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/96039",
+        "dub": null,
+        "url": "https://www.animegg.org/senki-zesshou-symphogear-xv-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/96097",
+        "dub": null,
+        "url": "https://www.animegg.org/senki-zesshou-symphogear-xv-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/96156",
+        "dub": null,
+        "url": "https://www.animegg.org/senki-zesshou-symphogear-xv-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/96214",
+        "dub": null,
+        "url": "https://www.animegg.org/senki-zesshou-symphogear-xv-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/96272",
+        "dub": null,
+        "url": "https://www.animegg.org/senki-zesshou-symphogear-xv-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/96337",
+        "dub": null,
+        "url": "https://www.animegg.org/senki-zesshou-symphogear-xv-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/96408",
+        "dub": null,
+        "url": "https://www.animegg.org/senki-zesshou-symphogear-xv-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/96452",
+        "dub": null,
+        "url": "https://www.animegg.org/senki-zesshou-symphogear-xv-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/96511",
+        "dub": null,
+        "url": "https://www.animegg.org/senki-zesshou-symphogear-xv-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/96558",
+        "dub": null,
+        "url": "https://www.animegg.org/senki-zesshou-symphogear-xv-episode-13"
+      }
+    ]
   }
 ]
