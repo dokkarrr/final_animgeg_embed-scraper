@@ -88108,5 +88108,21 @@
         "url": "https://www.animegg.org/jouran-the-princess-of-snow-and-blood-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4235,
+    "title": "Boku wa Imouto ni Koi wo Suru",
+    "animegg_url": "https://www.animegg.org/series/boku-wa-imouto-ni-koi-wo-suru",
+    "mal_url": "https://myanimelist.net/anime/819",
+    "mal_id": 819,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/48901",
+        "dub": null,
+        "url": "https://www.animegg.org/boku-wa-imouto-ni-koi-wo-suru-episode-1"
+      }
+    ]
   }
 ]
