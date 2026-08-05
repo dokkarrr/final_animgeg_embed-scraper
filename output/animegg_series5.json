@@ -3462,5 +3462,21 @@
         "url": "https://www.animegg.org/rozen-maiden-ouverture-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 5662,
+    "title": "Pokemon XY&Z: Subete no Nazo wo Tokiakase!",
+    "animegg_url": "https://www.animegg.org/series/pokemon-xy-z-subete-no-nazo-wo-tokiakase",
+    "mal_url": "https://myanimelist.net/anime/32359",
+    "mal_id": 32359,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/80695",
+        "dub": null,
+        "url": "https://www.animegg.org/pokemon-xy-z-subete-no-nazo-wo-tokiakase-episode-1"
+      }
+    ]
   }
 ]
