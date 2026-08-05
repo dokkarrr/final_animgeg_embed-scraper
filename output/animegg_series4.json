@@ -1084,5 +1084,21 @@
         "url": "https://www.animegg.org/dive-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3086,
+    "title": "Dragon Ball Kai Special",
+    "animegg_url": "https://www.animegg.org/series/dragon-ball-kai-special",
+    "mal_url": "https://myanimelist.net/anime/986",
+    "mal_id": 986,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/49543",
+        "dub": "https://www.animegg.org/embed/49544",
+        "url": "https://www.animegg.org/dragon-ball-kai-special-episode-1"
+      }
+    ]
   }
 ]
