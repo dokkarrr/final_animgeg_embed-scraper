@@ -98194,5 +98194,21 @@
         "url": "https://www.animegg.org/tanoshii-muumin-ikka-bouken-nikki-episode-52"
       }
     ]
+  },
+  {
+    "serial_no": 6723,
+    "title": "Kimi no Matsu Basho e",
+    "animegg_url": "https://www.animegg.org/series/kimi-no-matsu-basho-e",
+    "mal_url": "https://myanimelist.net/anime/38678",
+    "mal_id": 38678,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/93991",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-no-matsu-basho-e-episode-1"
+      }
+    ]
   }
 ]
