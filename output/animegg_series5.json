@@ -37644,5 +37644,39 @@
         "url": "https://www.animegg.org/teekyuu-2-specials-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6192,
+    "title": "One Piece: Luffy Senpai Ouen Kikaku! Barto no Himitsu no Heya!",
+    "animegg_url": "https://www.animegg.org/series/one-piece-luffy-senpai-ouen-kikaku-barto-no-himitsu-no-heya",
+    "mal_url": "https://myanimelist.net/anime/50696",
+    "mal_id": 50696,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/103730",
+        "dub": "https://www.animegg.org/embed/131434",
+        "url": "https://www.animegg.org/one-piece-luffy-senpai-ouen-kikaku-barto-no-himitsu-no-heya-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/104575",
+        "dub": "https://www.animegg.org/embed/131940",
+        "url": "https://www.animegg.org/one-piece-luffy-senpai-ouen-kikaku-barto-no-himitsu-no-heya-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/105160",
+        "dub": null,
+        "url": "https://www.animegg.org/one-piece-luffy-senpai-ouen-kikaku-barto-no-himitsu-no-heya-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/131673",
+        "dub": null,
+        "url": "https://www.animegg.org/one-piece-luffy-senpai-ouen-kikaku-barto-no-himitsu-no-heya-episode-4"
+      }
+    ]
   }
 ]
