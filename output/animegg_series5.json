@@ -64095,5 +64095,27 @@
         "url": "https://www.animegg.org/sakigake-otokojuku-movie-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6435,
+    "title": "Tamayura: Sotsugyou Shashin Part 4 - Ashita",
+    "animegg_url": "https://www.animegg.org/series/tamayura-sotsugyou-shashin-part-4---ashita",
+    "mal_url": "https://myanimelist.net/anime/29831",
+    "mal_id": 29831,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/82782",
+        "dub": null,
+        "url": "https://www.animegg.org/tamayura-sotsugyou-shashin-part-4---ashita-episode-4"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/tamayura-sotsugyou-shashin-part-4---ashita-episode-1"
+      }
+    ]
   }
 ]
