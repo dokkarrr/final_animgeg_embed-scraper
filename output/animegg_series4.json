@@ -8878,5 +8878,51 @@
         "url": "https://www.animegg.org/darker-than-black-kuro-no-keiyakusha-gaiden-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 3185,
+    "title": "Princess Lover! Picture Drama",
+    "animegg_url": "https://www.animegg.org/series/princess-lover-picture-drama",
+    "mal_url": "https://myanimelist.net/anime/7468",
+    "mal_id": 7468,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66430",
+        "dub": null,
+        "url": "https://www.animegg.org/princess-lover-picture-drama-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/66431",
+        "dub": null,
+        "url": "https://www.animegg.org/princess-lover-picture-drama-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/66432",
+        "dub": null,
+        "url": "https://www.animegg.org/princess-lover-picture-drama-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/66433",
+        "dub": null,
+        "url": "https://www.animegg.org/princess-lover-picture-drama-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/66434",
+        "dub": null,
+        "url": "https://www.animegg.org/princess-lover-picture-drama-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/66435",
+        "dub": null,
+        "url": "https://www.animegg.org/princess-lover-picture-drama-episode-6"
+      }
+    ]
   }
 ]
