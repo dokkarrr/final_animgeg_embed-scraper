@@ -12141,5 +12141,21 @@
         "url": "https://www.animegg.org/idolls-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 5804,
+    "title": "Magic Tree House",
+    "animegg_url": "https://www.animegg.org/series/magic-tree-house",
+    "mal_url": "https://myanimelist.net/anime/10690",
+    "mal_id": 10690,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/54319",
+        "dub": null,
+        "url": "https://www.animegg.org/magic-tree-house-episode-1"
+      }
+    ]
   }
 ]
