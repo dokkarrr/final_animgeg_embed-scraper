@@ -5932,5 +5932,21 @@
         "url": "https://www.animegg.org/da-yu-hai-tang-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5705,
+    "title": "Pokemon Diamond & Pearl Special",
+    "animegg_url": "https://www.animegg.org/series/pokemon-diamond-pearl-special",
+    "mal_url": "https://myanimelist.net/anime/10302",
+    "mal_id": 10302,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/pokemon-diamond-pearl-special-episode-1"
+      }
+    ]
   }
 ]
