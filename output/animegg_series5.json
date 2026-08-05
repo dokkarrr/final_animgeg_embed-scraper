@@ -37786,5 +37786,21 @@
         "url": "https://www.animegg.org/keroro-gunsou-movie-5-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6199,
+    "title": "Mini Pato",
+    "animegg_url": "https://www.animegg.org/series/mini-pato",
+    "mal_url": "https://myanimelist.net/anime/1151",
+    "mal_id": 1151,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/58393",
+        "dub": null,
+        "url": "https://www.animegg.org/mini-pato-episode-1"
+      }
+    ]
   }
 ]
