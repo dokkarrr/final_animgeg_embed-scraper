@@ -56798,5 +56798,63 @@
         "url": "https://www.animegg.org/cosprayers-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 3765,
+    "title": "Dragon Ball Z Movie 07: Super Android 13",
+    "animegg_url": "https://www.animegg.org/series/dragon-ball-z-movie-07-super-android-13",
+    "mal_url": "https://myanimelist.net/anime/900",
+    "mal_id": 900,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/143684",
+        "dub": "https://www.animegg.org/embed/143685",
+        "url": "https://www.animegg.org/dragon-ball-z-movie-07-super-android-13-episode-10"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/143583",
+        "dub": "https://www.animegg.org/embed/143584",
+        "url": "https://www.animegg.org/dragon-ball-z-movie-07-super-android-13-episode-9"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/143260",
+        "dub": "https://www.animegg.org/embed/143267",
+        "url": "https://www.animegg.org/dragon-ball-z-movie-07-super-android-13-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/143159",
+        "dub": "https://www.animegg.org/embed/143162",
+        "url": "https://www.animegg.org/dragon-ball-z-movie-07-super-android-13-episode-5"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/143042",
+        "dub": "https://www.animegg.org/embed/143049",
+        "url": "https://www.animegg.org/dragon-ball-z-movie-07-super-android-13-episode-4"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/142958",
+        "dub": "https://www.animegg.org/embed/142959",
+        "url": "https://www.animegg.org/dragon-ball-z-movie-07-super-android-13-episode-3"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/142833",
+        "dub": "https://www.animegg.org/embed/142844",
+        "url": "https://www.animegg.org/dragon-ball-z-movie-07-super-android-13-episode-2"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/49768",
+        "dub": "https://www.animegg.org/embed/142800",
+        "url": "https://www.animegg.org/dragon-ball-z-movie-07-super-android-13-episode-1"
+      }
+    ]
   }
 ]
