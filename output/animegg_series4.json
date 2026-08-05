@@ -76930,5 +76930,87 @@
         "url": "https://www.animegg.org/godzilla-kaijuu-wakusei-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4067,
+    "title": "Shinmai Renkinjutsushi no Tenpo Keiei",
+    "animegg_url": "https://www.animegg.org/series/shinmai-renkinjutsushi-no-tenpo-keiei",
+    "mal_url": "https://myanimelist.net/anime/49849",
+    "mal_id": 49849,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/106016",
+        "dub": "https://www.animegg.org/embed/131538",
+        "url": "https://www.animegg.org/shinmai-renkinjutsushi-no-tenpo-keiei-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/106084",
+        "dub": "https://www.animegg.org/embed/131690",
+        "url": "https://www.animegg.org/shinmai-renkinjutsushi-no-tenpo-keiei-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/106142",
+        "dub": "https://www.animegg.org/embed/131781",
+        "url": "https://www.animegg.org/shinmai-renkinjutsushi-no-tenpo-keiei-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/106208",
+        "dub": null,
+        "url": "https://www.animegg.org/shinmai-renkinjutsushi-no-tenpo-keiei-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/106267",
+        "dub": null,
+        "url": "https://www.animegg.org/shinmai-renkinjutsushi-no-tenpo-keiei-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/106325",
+        "dub": null,
+        "url": "https://www.animegg.org/shinmai-renkinjutsushi-no-tenpo-keiei-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/106386",
+        "dub": null,
+        "url": "https://www.animegg.org/shinmai-renkinjutsushi-no-tenpo-keiei-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/106445",
+        "dub": "https://www.animegg.org/embed/132274",
+        "url": "https://www.animegg.org/shinmai-renkinjutsushi-no-tenpo-keiei-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/106509",
+        "dub": null,
+        "url": "https://www.animegg.org/shinmai-renkinjutsushi-no-tenpo-keiei-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/106561",
+        "dub": null,
+        "url": "https://www.animegg.org/shinmai-renkinjutsushi-no-tenpo-keiei-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/106613",
+        "dub": null,
+        "url": "https://www.animegg.org/shinmai-renkinjutsushi-no-tenpo-keiei-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/106672",
+        "dub": null,
+        "url": "https://www.animegg.org/shinmai-renkinjutsushi-no-tenpo-keiei-episode-12"
+      }
+    ]
   }
 ]
