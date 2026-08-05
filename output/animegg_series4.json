@@ -80756,5 +80756,21 @@
         "url": "https://www.animegg.org/charlotte-special-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4131,
+    "title": "Tamako Love Story",
+    "animegg_url": "https://www.animegg.org/series/tamako-love-story",
+    "mal_url": "https://myanimelist.net/anime/21647",
+    "mal_id": 21647,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66500",
+        "dub": null,
+        "url": "https://www.animegg.org/tamako-love-story-episode-1"
+      }
+    ]
   }
 ]
