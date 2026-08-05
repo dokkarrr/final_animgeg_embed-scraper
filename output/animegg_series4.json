@@ -104086,5 +104086,27 @@
         "url": "https://www.animegg.org/kyousogiga-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4475,
+    "title": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo (TV)",
+    "animegg_url": "https://www.animegg.org/series/kochira-katsushikaku-kameari-kouenmae-hashutsujo-tv",
+    "mal_url": "https://myanimelist.net/anime/3545",
+    "mal_id": 3545,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/55524",
+        "dub": null,
+        "url": "https://www.animegg.org/kochira-katsushikaku-kameari-kouenmae-hashutsujo-tv-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/55525",
+        "dub": null,
+        "url": "https://www.animegg.org/kochira-katsushikaku-kameari-kouenmae-hashutsujo-tv-episode-2"
+      }
+    ]
   }
 ]
