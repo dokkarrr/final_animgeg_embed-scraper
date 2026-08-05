@@ -41758,5 +41758,33 @@
         "url": "https://www.animegg.org/kotonoha-no-niwa-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3566,
+    "title": "A.D. Police Files",
+    "animegg_url": "https://www.animegg.org/series/ad-police-files",
+    "mal_url": "https://myanimelist.net/anime/1346",
+    "mal_id": 1346,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/271",
+        "dub": "https://www.animegg.org/embed/272",
+        "url": "https://www.animegg.org/ad-police-files-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/275",
+        "dub": "https://www.animegg.org/embed/276",
+        "url": "https://www.animegg.org/ad-police-files-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/273",
+        "dub": "https://www.animegg.org/embed/274",
+        "url": "https://www.animegg.org/ad-police-files-episode-3"
+      }
+    ]
   }
 ]
