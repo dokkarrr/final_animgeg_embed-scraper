@@ -100354,5 +100354,87 @@
         "url": "https://www.animegg.org/nanbaka-special-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6744,
+    "title": "Vanitas no Carte Part 2",
+    "animegg_url": "https://www.animegg.org/series/vanitas-no-carte-part-2",
+    "mal_url": "https://myanimelist.net/anime/49114",
+    "mal_id": 49114,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/115791",
+        "dub": null,
+        "url": "https://www.animegg.org/vanitas-no-carte-part-2-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/115792",
+        "dub": null,
+        "url": "https://www.animegg.org/vanitas-no-carte-part-2-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/115794",
+        "dub": null,
+        "url": "https://www.animegg.org/vanitas-no-carte-part-2-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/115784",
+        "dub": null,
+        "url": "https://www.animegg.org/vanitas-no-carte-part-2-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/115785",
+        "dub": null,
+        "url": "https://www.animegg.org/vanitas-no-carte-part-2-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/115786",
+        "dub": null,
+        "url": "https://www.animegg.org/vanitas-no-carte-part-2-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/115787",
+        "dub": null,
+        "url": "https://www.animegg.org/vanitas-no-carte-part-2-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/115788",
+        "dub": null,
+        "url": "https://www.animegg.org/vanitas-no-carte-part-2-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/115789",
+        "dub": null,
+        "url": "https://www.animegg.org/vanitas-no-carte-part-2-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/115790",
+        "dub": null,
+        "url": "https://www.animegg.org/vanitas-no-carte-part-2-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/115793",
+        "dub": null,
+        "url": "https://www.animegg.org/vanitas-no-carte-part-2-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/115795",
+        "dub": null,
+        "url": "https://www.animegg.org/vanitas-no-carte-part-2-episode-1"
+      }
+    ]
   }
 ]
