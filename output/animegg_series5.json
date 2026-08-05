@@ -64869,5 +64869,21 @@
         "url": "https://www.animegg.org/haikara-san-ga-tooru-movie-1-benio-hana-no-17-sai-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6444,
+    "title": "Kiniro Mosaic: Pretty Days",
+    "animegg_url": "https://www.animegg.org/series/kiniro-mosaic-pretty-days",
+    "mal_url": "https://myanimelist.net/anime/33034",
+    "mal_id": 33034,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/86123",
+        "dub": null,
+        "url": "https://www.animegg.org/kiniro-mosaic-pretty-days-episode-1"
+      }
+    ]
   }
 ]
