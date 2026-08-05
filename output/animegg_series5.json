@@ -73857,5 +73857,21 @@
         "url": "https://www.animegg.org/sailor-moon-s-dub-episode-38"
       }
     ]
+  },
+  {
+    "serial_no": 6524,
+    "title": "Hug tto! Precure♡Futari wa Precure Movie: All Stars Memories",
+    "animegg_url": "https://www.animegg.org/series/hug-tto-precure-futari-wa-precure-movie-all-stars-memories",
+    "mal_url": "https://myanimelist.net/anime/37501",
+    "mal_id": 37501,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/95044",
+        "dub": null,
+        "url": "https://www.animegg.org/hug-tto-precure-futari-wa-precure-movie-all-stars-memories-episode-1"
+      }
+    ]
   }
 ]
