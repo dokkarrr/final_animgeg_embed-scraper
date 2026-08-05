@@ -13093,5 +13093,21 @@
         "url": "https://www.animegg.org/ebiten-kouritsu-ebisugawa-koukou-tenmonbu-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5814,
+    "title": "Toriko Movie: Bishokushin no Special Menu",
+    "animegg_url": "https://www.animegg.org/series/toriko-movie-bishokushin-no-special-menu",
+    "mal_url": "https://myanimelist.net/anime/17699",
+    "mal_id": 17699,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/43978",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-movie-bishokushin-no-special-menu-episode-1"
+      }
+    ]
   }
 ]
