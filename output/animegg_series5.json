@@ -1188,5 +1188,21 @@
         "url": "https://www.animegg.org/summertime-render-dub-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 5632,
+    "title": "Macross Plus Movie Edition",
+    "animegg_url": "https://www.animegg.org/series/macross-plus-movie-edition",
+    "mal_url": "https://myanimelist.net/anime/1211",
+    "mal_id": 1211,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/55023",
+        "dub": null,
+        "url": "https://www.animegg.org/macross-plus-movie-edition-episode-1"
+      }
+    ]
   }
 ]
