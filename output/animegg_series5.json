@@ -96648,5 +96648,93 @@
     "mal_id": 20159,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 6713,
+    "title": "Tate no Yuusha no Nariagari Season 2 (Dub)",
+    "animegg_url": "https://www.animegg.org/series/tate-no-yuusha-no-nariagari-season-2-dub",
+    "mal_url": "https://myanimelist.net/anime/40356",
+    "mal_id": 40356,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/116937",
+        "dub": null,
+        "url": "https://www.animegg.org/tate-no-yuusha-no-nariagari-season-2-dub-episode-13"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/tate-no-yuusha-no-nariagari-season-2-dub-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/116938",
+        "dub": null,
+        "url": "https://www.animegg.org/tate-no-yuusha-no-nariagari-season-2-dub-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/116939",
+        "dub": null,
+        "url": "https://www.animegg.org/tate-no-yuusha-no-nariagari-season-2-dub-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/116930",
+        "dub": null,
+        "url": "https://www.animegg.org/tate-no-yuusha-no-nariagari-season-2-dub-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/116931",
+        "dub": null,
+        "url": "https://www.animegg.org/tate-no-yuusha-no-nariagari-season-2-dub-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/116932",
+        "dub": null,
+        "url": "https://www.animegg.org/tate-no-yuusha-no-nariagari-season-2-dub-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/116933",
+        "dub": null,
+        "url": "https://www.animegg.org/tate-no-yuusha-no-nariagari-season-2-dub-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/tate-no-yuusha-no-nariagari-season-2-dub-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/116934",
+        "dub": null,
+        "url": "https://www.animegg.org/tate-no-yuusha-no-nariagari-season-2-dub-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/116935",
+        "dub": null,
+        "url": "https://www.animegg.org/tate-no-yuusha-no-nariagari-season-2-dub-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/116936",
+        "dub": null,
+        "url": "https://www.animegg.org/tate-no-yuusha-no-nariagari-season-2-dub-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/116940",
+        "dub": null,
+        "url": "https://www.animegg.org/tate-no-yuusha-no-nariagari-season-2-dub-episode-1"
+      }
+    ]
   }
 ]
