@@ -38090,5 +38090,87 @@
         "url": "https://www.animegg.org/youjo-senki-movie-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3519,
+    "title": "Shokei Shoujo no Virgin Road",
+    "animegg_url": "https://www.animegg.org/series/shokei-shoujo-no-virgin-road",
+    "mal_url": "https://myanimelist.net/anime/47162",
+    "mal_id": 47162,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/104314",
+        "dub": null,
+        "url": "https://www.animegg.org/shokei-shoujo-no-virgin-road-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/104370",
+        "dub": null,
+        "url": "https://www.animegg.org/shokei-shoujo-no-virgin-road-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/104435",
+        "dub": null,
+        "url": "https://www.animegg.org/shokei-shoujo-no-virgin-road-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/104498",
+        "dub": null,
+        "url": "https://www.animegg.org/shokei-shoujo-no-virgin-road-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/104554",
+        "dub": null,
+        "url": "https://www.animegg.org/shokei-shoujo-no-virgin-road-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/104617",
+        "dub": null,
+        "url": "https://www.animegg.org/shokei-shoujo-no-virgin-road-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/104671",
+        "dub": null,
+        "url": "https://www.animegg.org/shokei-shoujo-no-virgin-road-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/104828",
+        "dub": null,
+        "url": "https://www.animegg.org/shokei-shoujo-no-virgin-road-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/104890",
+        "dub": null,
+        "url": "https://www.animegg.org/shokei-shoujo-no-virgin-road-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/104944",
+        "dub": null,
+        "url": "https://www.animegg.org/shokei-shoujo-no-virgin-road-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/105028",
+        "dub": null,
+        "url": "https://www.animegg.org/shokei-shoujo-no-virgin-road-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/105084",
+        "dub": null,
+        "url": "https://www.animegg.org/shokei-shoujo-no-virgin-road-episode-12"
+      }
+    ]
   }
 ]
