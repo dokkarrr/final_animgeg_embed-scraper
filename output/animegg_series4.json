@@ -91016,5 +91016,87 @@
         "url": "https://www.animegg.org/akame-ga-kill-recap-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4281,
+    "title": "Sabiiro no Armor: Reimei",
+    "animegg_url": "https://www.animegg.org/series/sabiiro-no-armor-reimei",
+    "mal_url": "https://myanimelist.net/anime/39917",
+    "mal_id": 39917,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/103745",
+        "dub": null,
+        "url": "https://www.animegg.org/sabiiro-no-armor-reimei-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/103794",
+        "dub": null,
+        "url": "https://www.animegg.org/sabiiro-no-armor-reimei-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/103845",
+        "dub": null,
+        "url": "https://www.animegg.org/sabiiro-no-armor-reimei-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/103901",
+        "dub": null,
+        "url": "https://www.animegg.org/sabiiro-no-armor-reimei-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/103956",
+        "dub": null,
+        "url": "https://www.animegg.org/sabiiro-no-armor-reimei-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/104007",
+        "dub": null,
+        "url": "https://www.animegg.org/sabiiro-no-armor-reimei-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/104055",
+        "dub": null,
+        "url": "https://www.animegg.org/sabiiro-no-armor-reimei-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/104104",
+        "dub": null,
+        "url": "https://www.animegg.org/sabiiro-no-armor-reimei-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/104151",
+        "dub": null,
+        "url": "https://www.animegg.org/sabiiro-no-armor-reimei-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/104197",
+        "dub": null,
+        "url": "https://www.animegg.org/sabiiro-no-armor-reimei-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/104246",
+        "dub": null,
+        "url": "https://www.animegg.org/sabiiro-no-armor-reimei-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/104290",
+        "dub": null,
+        "url": "https://www.animegg.org/sabiiro-no-armor-reimei-episode-12"
+      }
+    ]
   }
 ]
