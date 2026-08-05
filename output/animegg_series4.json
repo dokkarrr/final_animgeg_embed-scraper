@@ -88308,5 +88308,87 @@
         "url": "https://www.animegg.org/digimon-adventure-tri-5-kyousei-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4240,
+    "title": "Heya Camp△",
+    "animegg_url": "https://www.animegg.org/series/heya-camp",
+    "mal_url": "https://myanimelist.net/anime/38476",
+    "mal_id": 38476,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/97457",
+        "dub": null,
+        "url": "https://www.animegg.org/heya-camp-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/97527",
+        "dub": null,
+        "url": "https://www.animegg.org/heya-camp-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/97594",
+        "dub": null,
+        "url": "https://www.animegg.org/heya-camp-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/97663",
+        "dub": null,
+        "url": "https://www.animegg.org/heya-camp-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/97729",
+        "dub": null,
+        "url": "https://www.animegg.org/heya-camp-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/97797",
+        "dub": null,
+        "url": "https://www.animegg.org/heya-camp-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/97852",
+        "dub": null,
+        "url": "https://www.animegg.org/heya-camp-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/97908",
+        "dub": null,
+        "url": "https://www.animegg.org/heya-camp-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/97967",
+        "dub": null,
+        "url": "https://www.animegg.org/heya-camp-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/98028",
+        "dub": null,
+        "url": "https://www.animegg.org/heya-camp-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/98091",
+        "dub": null,
+        "url": "https://www.animegg.org/heya-camp-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/98149",
+        "dub": null,
+        "url": "https://www.animegg.org/heya-camp-episode-12"
+      }
+    ]
   }
 ]
