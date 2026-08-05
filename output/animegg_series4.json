@@ -74698,5 +74698,87 @@
         "url": "https://www.animegg.org/ao-no-exorcist-the-movie-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4031,
+    "title": "Isekai Shikkaku",
+    "animegg_url": "https://www.animegg.org/series/isekai-shikkaku",
+    "mal_url": "https://myanimelist.net/anime/52367",
+    "mal_id": 52367,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/135501",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-shikkaku-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/135629",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-shikkaku-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/135791",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-shikkaku-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/135932",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-shikkaku-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/136111",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-shikkaku-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-shikkaku-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/136407",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-shikkaku-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/136573",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-shikkaku-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/136731",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-shikkaku-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/136959",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-shikkaku-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/137141",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-shikkaku-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/137289",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-shikkaku-episode-12"
+      }
+    ]
   }
 ]
