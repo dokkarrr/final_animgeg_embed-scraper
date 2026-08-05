@@ -30438,5 +30438,21 @@
         "url": "https://www.animegg.org/castlevania-nocturne-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 6123,
+    "title": "Keroro Gunsou Movie 3",
+    "animegg_url": "https://www.animegg.org/series/keroro-gunsou-movie-3",
+    "mal_url": "https://myanimelist.net/anime/5290",
+    "mal_id": 5290,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/56616",
+        "dub": null,
+        "url": "https://www.animegg.org/keroro-gunsou-movie-3-episode-1"
+      }
+    ]
   }
 ]
