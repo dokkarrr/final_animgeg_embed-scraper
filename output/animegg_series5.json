@@ -60965,5 +60965,45 @@
         "url": "https://www.animegg.org/wan-jie-zhizun-episode-50"
       }
     ]
+  },
+  {
+    "serial_no": 6410,
+    "title": "Gokushufudou Part 2",
+    "animegg_url": "https://www.animegg.org/series/gokushufudou-part-2",
+    "mal_url": "https://myanimelist.net/anime/48707",
+    "mal_id": 48707,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/102965",
+        "dub": null,
+        "url": "https://www.animegg.org/gokushufudou-part-2-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/102969",
+        "dub": null,
+        "url": "https://www.animegg.org/gokushufudou-part-2-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/102968",
+        "dub": null,
+        "url": "https://www.animegg.org/gokushufudou-part-2-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/102967",
+        "dub": null,
+        "url": "https://www.animegg.org/gokushufudou-part-2-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/102964",
+        "dub": null,
+        "url": "https://www.animegg.org/gokushufudou-part-2-episode-1"
+      }
+    ]
   }
 ]
