@@ -90241,5 +90241,21 @@
         "url": "https://www.animegg.org/sailor-moon-supers-dub-episode-39"
       }
     ]
+  },
+  {
+    "serial_no": 6665,
+    "title": "Shouwa Monogatari (Movie)",
+    "animegg_url": "https://www.animegg.org/series/shouwa-monogatari-movie",
+    "mal_url": "https://myanimelist.net/anime/10013",
+    "mal_id": 10013,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/61383",
+        "dub": null,
+        "url": "https://www.animegg.org/shouwa-monogatari-movie-episode-1"
+      }
+    ]
   }
 ]
