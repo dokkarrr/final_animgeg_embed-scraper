@@ -94424,5 +94424,51 @@
         "url": "https://www.animegg.org/steins-gate-fuka-ryouiki-no-d-j-vu-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4326,
+    "title": "Aru Tabibito no Nikki",
+    "animegg_url": "https://www.animegg.org/series/aru-tabibito-no-nikki",
+    "mal_url": "https://myanimelist.net/anime/1205",
+    "mal_id": 1205,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/aru-tabibito-no-nikki-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/aru-tabibito-no-nikki-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/aru-tabibito-no-nikki-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/aru-tabibito-no-nikki-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/aru-tabibito-no-nikki-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/aru-tabibito-no-nikki-episode-6"
+      }
+    ]
   }
 ]
