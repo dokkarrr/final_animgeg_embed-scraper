@@ -59488,5 +59488,21 @@
         "url": "https://www.animegg.org/high-score-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 3809,
+    "title": "Evangelion: 2.0 You Can (Not) Advance",
+    "animegg_url": "https://www.animegg.org/series/evangelion-20-you-can-not-advance",
+    "mal_url": "https://myanimelist.net/anime/3784",
+    "mal_id": 3784,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/51147",
+        "dub": "https://www.animegg.org/embed/51148",
+        "url": "https://www.animegg.org/evangelion-20-you-can-not-advance-episode-1"
+      }
+    ]
   }
 ]
