@@ -103780,5 +103780,87 @@
         "url": "https://www.animegg.org/buddy-complex-kanketsu-hen---ano-sora-ni-kaeru-mirai-de-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 4469,
+    "title": "Blue Archive the Animation",
+    "animegg_url": "https://www.animegg.org/series/blue-archive-the-animation",
+    "mal_url": "https://myanimelist.net/anime/54309",
+    "mal_id": 54309,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/133578",
+        "dub": null,
+        "url": "https://www.animegg.org/blue-archive-the-animation-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/133654",
+        "dub": null,
+        "url": "https://www.animegg.org/blue-archive-the-animation-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/blue-archive-the-animation-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/133832",
+        "dub": null,
+        "url": "https://www.animegg.org/blue-archive-the-animation-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/133995",
+        "dub": null,
+        "url": "https://www.animegg.org/blue-archive-the-animation-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/134091",
+        "dub": null,
+        "url": "https://www.animegg.org/blue-archive-the-animation-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/134261",
+        "dub": null,
+        "url": "https://www.animegg.org/blue-archive-the-animation-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/134463",
+        "dub": null,
+        "url": "https://www.animegg.org/blue-archive-the-animation-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/134631",
+        "dub": null,
+        "url": "https://www.animegg.org/blue-archive-the-animation-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/134792",
+        "dub": null,
+        "url": "https://www.animegg.org/blue-archive-the-animation-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/134959",
+        "dub": null,
+        "url": "https://www.animegg.org/blue-archive-the-animation-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/135108",
+        "dub": null,
+        "url": "https://www.animegg.org/blue-archive-the-animation-episode-12"
+      }
+    ]
   }
 ]
