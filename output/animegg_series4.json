@@ -52444,5 +52444,87 @@
         "url": "https://www.animegg.org/may-i-ask-for-one-final-thing--episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3713,
+    "title": "Aguu: Tensai Ningyou",
+    "animegg_url": "https://www.animegg.org/series/aguu-tensai-ningyou",
+    "mal_url": "https://myanimelist.net/anime/37769",
+    "mal_id": 37769,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/91891",
+        "dub": null,
+        "url": "https://www.animegg.org/aguu-tensai-ningyou-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/92069",
+        "dub": null,
+        "url": "https://www.animegg.org/aguu-tensai-ningyou-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/92068",
+        "dub": null,
+        "url": "https://www.animegg.org/aguu-tensai-ningyou-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/92206",
+        "dub": null,
+        "url": "https://www.animegg.org/aguu-tensai-ningyou-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/92418",
+        "dub": null,
+        "url": "https://www.animegg.org/aguu-tensai-ningyou-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/92419",
+        "dub": null,
+        "url": "https://www.animegg.org/aguu-tensai-ningyou-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/92603",
+        "dub": null,
+        "url": "https://www.animegg.org/aguu-tensai-ningyou-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/92725",
+        "dub": null,
+        "url": "https://www.animegg.org/aguu-tensai-ningyou-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/92820",
+        "dub": null,
+        "url": "https://www.animegg.org/aguu-tensai-ningyou-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/92876",
+        "dub": null,
+        "url": "https://www.animegg.org/aguu-tensai-ningyou-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/92982",
+        "dub": null,
+        "url": "https://www.animegg.org/aguu-tensai-ningyou-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/93042",
+        "dub": null,
+        "url": "https://www.animegg.org/aguu-tensai-ningyou-episode-12"
+      }
+    ]
   }
 ]
