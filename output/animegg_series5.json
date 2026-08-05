@@ -77137,5 +77137,21 @@
         "url": "https://www.animegg.org/kagaku-ninja-tai-gatchaman-f-episode-48"
       }
     ]
+  },
+  {
+    "serial_no": 6543,
+    "title": "The Life of Budori Gusuko (2012)",
+    "animegg_url": "https://www.animegg.org/series/the-life-of-budori-gusuko-2012",
+    "mal_url": "https://myanimelist.net/anime/13215",
+    "mal_id": 13215,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2012,
+        "sub": "https://www.animegg.org/embed/63663",
+        "dub": null,
+        "url": "https://www.animegg.org/the-life-of-budori-gusuko-2012-episode-1"
+      }
+    ]
   }
 ]
