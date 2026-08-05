@@ -1990,5 +1990,87 @@
         "url": "https://www.animegg.org/room-mate-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3098,
+    "title": "Mahoutsukai Reimeiki",
+    "animegg_url": "https://www.animegg.org/series/mahoutsukai-reimeiki",
+    "mal_url": "https://myanimelist.net/anime/48842",
+    "mal_id": 48842,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/104361",
+        "dub": null,
+        "url": "https://www.animegg.org/mahoutsukai-reimeiki-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/104423",
+        "dub": null,
+        "url": "https://www.animegg.org/mahoutsukai-reimeiki-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/104488",
+        "dub": null,
+        "url": "https://www.animegg.org/mahoutsukai-reimeiki-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/104548",
+        "dub": null,
+        "url": "https://www.animegg.org/mahoutsukai-reimeiki-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/104605",
+        "dub": null,
+        "url": "https://www.animegg.org/mahoutsukai-reimeiki-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/104663",
+        "dub": null,
+        "url": "https://www.animegg.org/mahoutsukai-reimeiki-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/104882",
+        "dub": null,
+        "url": "https://www.animegg.org/mahoutsukai-reimeiki-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/104938",
+        "dub": null,
+        "url": "https://www.animegg.org/mahoutsukai-reimeiki-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/105021",
+        "dub": null,
+        "url": "https://www.animegg.org/mahoutsukai-reimeiki-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/105077",
+        "dub": null,
+        "url": "https://www.animegg.org/mahoutsukai-reimeiki-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/105136",
+        "dub": null,
+        "url": "https://www.animegg.org/mahoutsukai-reimeiki-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/105183",
+        "dub": null,
+        "url": "https://www.animegg.org/mahoutsukai-reimeiki-episode-12"
+      }
+    ]
   }
 ]
