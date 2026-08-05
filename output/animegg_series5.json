@@ -30,5 +30,21 @@
         "url": "https://www.animegg.org/danchigai-special-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5611,
+    "title": "Vampire Hunter D",
+    "animegg_url": "https://www.animegg.org/series/vampire-hunter-d",
+    "mal_url": "https://myanimelist.net/anime/732",
+    "mal_id": 732,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/64506",
+        "dub": null,
+        "url": "https://www.animegg.org/vampire-hunter-d-episode-1"
+      }
+    ]
   }
 ]
