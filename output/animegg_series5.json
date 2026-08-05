@@ -59757,5 +59757,21 @@
         "url": "https://www.animegg.org/persona-5-the-animation-stars-and-ours-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6399,
+    "title": "Sore ga Seiyuu!: Petit Uchiage",
+    "animegg_url": "https://www.animegg.org/series/sore-ga-seiyuu-petit-uchiage",
+    "mal_url": "https://myanimelist.net/anime/32993",
+    "mal_id": 32993,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/81680",
+        "dub": null,
+        "url": "https://www.animegg.org/sore-ga-seiyuu-petit-uchiage-episode-1"
+      }
+    ]
   }
 ]
