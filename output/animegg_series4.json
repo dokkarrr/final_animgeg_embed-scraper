@@ -63106,5 +63106,87 @@
         "url": "https://www.animegg.org/fullmetal-alchemist-the-conqueror-of-shamballa-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3854,
+    "title": "Super Cub",
+    "animegg_url": "https://www.animegg.org/series/super-cub",
+    "mal_url": "https://myanimelist.net/anime/40685",
+    "mal_id": 40685,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/101366",
+        "dub": null,
+        "url": "https://www.animegg.org/super-cub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/101430",
+        "dub": null,
+        "url": "https://www.animegg.org/super-cub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/101494",
+        "dub": null,
+        "url": "https://www.animegg.org/super-cub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/101557",
+        "dub": null,
+        "url": "https://www.animegg.org/super-cub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/101620",
+        "dub": null,
+        "url": "https://www.animegg.org/super-cub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/101687",
+        "dub": null,
+        "url": "https://www.animegg.org/super-cub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/101763",
+        "dub": null,
+        "url": "https://www.animegg.org/super-cub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/101823",
+        "dub": null,
+        "url": "https://www.animegg.org/super-cub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/101904",
+        "dub": null,
+        "url": "https://www.animegg.org/super-cub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/101973",
+        "dub": null,
+        "url": "https://www.animegg.org/super-cub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/102043",
+        "dub": null,
+        "url": "https://www.animegg.org/super-cub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/102123",
+        "dub": null,
+        "url": "https://www.animegg.org/super-cub-episode-12"
+      }
+    ]
   }
 ]
