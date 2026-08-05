@@ -88718,5 +88718,21 @@
         "url": "https://www.animegg.org/kengan-ashura-season-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6653,
+    "title": "Kaijuu no Kodomo",
+    "animegg_url": "https://www.animegg.org/series/kaijuu-no-kodomo",
+    "mal_url": "https://myanimelist.net/anime/37981",
+    "mal_id": 37981,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/97864",
+        "dub": null,
+        "url": "https://www.animegg.org/kaijuu-no-kodomo-episode-1"
+      }
+    ]
   }
 ]
