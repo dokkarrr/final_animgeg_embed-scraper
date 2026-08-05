@@ -29016,5 +29016,27 @@
         "url": "https://www.animegg.org/koihime-musou-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6093,
+    "title": "Yotsunoha",
+    "animegg_url": "https://www.animegg.org/series/yotsunoha",
+    "mal_url": "https://myanimelist.net/anime/3011",
+    "mal_id": 3011,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/46550",
+        "dub": null,
+        "url": "https://www.animegg.org/yotsunoha-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/46551",
+        "dub": null,
+        "url": "https://www.animegg.org/yotsunoha-episode-2"
+      }
+    ]
   }
 ]
