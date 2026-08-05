@@ -100264,5 +100264,63 @@
         "url": "https://www.animegg.org/naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka--episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4403,
+    "title": "I'm the Evil Lord of an Intergalactic Empire!",
+    "animegg_url": "https://www.animegg.org/series/i-m-the-evil-lord-of-an-intergalactic-empire",
+    "mal_url": "https://myanimelist.net/anime/60154",
+    "mal_id": 60154,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/140267",
+        "dub": null,
+        "url": "https://www.animegg.org/i-m-the-evil-lord-of-an-intergalactic-empire-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/140307",
+        "dub": null,
+        "url": "https://www.animegg.org/i-m-the-evil-lord-of-an-intergalactic-empire-episode-3"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/140717",
+        "dub": null,
+        "url": "https://www.animegg.org/i-m-the-evil-lord-of-an-intergalactic-empire-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/140813",
+        "dub": null,
+        "url": "https://www.animegg.org/i-m-the-evil-lord-of-an-intergalactic-empire-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/140916",
+        "dub": null,
+        "url": "https://www.animegg.org/i-m-the-evil-lord-of-an-intergalactic-empire-episode-7"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/141131",
+        "dub": null,
+        "url": "https://www.animegg.org/i-m-the-evil-lord-of-an-intergalactic-empire-episode-9"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/141315",
+        "dub": null,
+        "url": "https://www.animegg.org/i-m-the-evil-lord-of-an-intergalactic-empire-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/141413",
+        "dub": null,
+        "url": "https://www.animegg.org/i-m-the-evil-lord-of-an-intergalactic-empire-episode-12"
+      }
+    ]
   }
 ]
