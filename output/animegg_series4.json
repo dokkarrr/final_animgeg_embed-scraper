@@ -113158,5 +113158,21 @@
         "url": "https://www.animegg.org/henjin-no-salad-bowl-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4634,
+    "title": "Code Geass: Hangyaku no Lelouch I - Koudou",
+    "animegg_url": "https://www.animegg.org/series/code-geass-hangyaku-no-lelouch-i---koudou",
+    "mal_url": "https://myanimelist.net/anime/34438",
+    "mal_id": 34438,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/91480",
+        "dub": null,
+        "url": "https://www.animegg.org/code-geass-hangyaku-no-lelouch-i---koudou-episode-1"
+      }
+    ]
   }
 ]
