@@ -19530,5 +19530,21 @@
         "url": "https://www.animegg.org/jingbao-zhanshi-dub-episode-78"
       }
     ]
+  },
+  {
+    "serial_no": 5952,
+    "title": "Ginga e Kickoff!! Special",
+    "animegg_url": "https://www.animegg.org/series/ginga-e-kickoff-special",
+    "mal_url": "https://myanimelist.net/anime/15993",
+    "mal_id": 15993,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/12739",
+        "dub": null,
+        "url": "https://www.animegg.org/ginga-e-kickoff-special-episode-1"
+      }
+    ]
   }
 ]
