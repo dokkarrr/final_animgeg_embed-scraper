@@ -108174,5 +108174,57 @@
         "url": "https://www.animegg.org/one-piece-3d-mugiwara-chase-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4543,
+    "title": "Pingu in the City",
+    "animegg_url": "https://www.animegg.org/series/pingu-in-the-city",
+    "mal_url": "https://myanimelist.net/anime/36259",
+    "mal_id": 36259,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/88562",
+        "dub": null,
+        "url": "https://www.animegg.org/pingu-in-the-city-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/88660",
+        "dub": null,
+        "url": "https://www.animegg.org/pingu-in-the-city-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/88733",
+        "dub": null,
+        "url": "https://www.animegg.org/pingu-in-the-city-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/88842",
+        "dub": null,
+        "url": "https://www.animegg.org/pingu-in-the-city-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/89024",
+        "dub": null,
+        "url": "https://www.animegg.org/pingu-in-the-city-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/89025",
+        "dub": null,
+        "url": "https://www.animegg.org/pingu-in-the-city-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/89090",
+        "dub": null,
+        "url": "https://www.animegg.org/pingu-in-the-city-episode-7"
+      }
+    ]
   }
 ]
