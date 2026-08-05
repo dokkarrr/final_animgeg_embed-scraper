@@ -60635,5 +60635,21 @@
         "url": "https://www.animegg.org/captain-tsubasa-2018-dub-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6407,
+    "title": "Zone of the Enders: Idolo",
+    "animegg_url": "https://www.animegg.org/series/zone-of-the-enders-idolo",
+    "mal_url": "https://myanimelist.net/anime/1248",
+    "mal_id": 1248,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/25647",
+        "dub": null,
+        "url": "https://www.animegg.org/zone-of-the-enders-idolo-episode-1"
+      }
+    ]
   }
 ]
