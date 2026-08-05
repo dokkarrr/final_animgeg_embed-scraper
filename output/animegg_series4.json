@@ -130758,5 +130758,21 @@
         "url": "https://www.animegg.org/megane-na-kanojo-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 4891,
+    "title": "Black Rock Shooter",
+    "animegg_url": "https://www.animegg.org/series/black-rock-shooter",
+    "mal_url": "https://myanimelist.net/anime/11285",
+    "mal_id": 11285,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/3265",
+        "dub": null,
+        "url": "https://www.animegg.org/black-rock-shooter-episode-1"
+      }
+    ]
   }
 ]
