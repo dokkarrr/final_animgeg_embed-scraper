@@ -74108,5 +74108,21 @@
         "url": "https://www.animegg.org/ghost-in-the-shell-stand-alone-complex-2045-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4020,
+    "title": "Kuroko no Basket OVA",
+    "animegg_url": "https://www.animegg.org/series/kuroko-no-basket-ova",
+    "mal_url": "https://myanimelist.net/anime/11771",
+    "mal_id": 11771,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/20905",
+        "dub": null,
+        "url": "https://www.animegg.org/kuroko-no-basket-ova-episode-1"
+      }
+    ]
   }
 ]
