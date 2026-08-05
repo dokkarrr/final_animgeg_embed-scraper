@@ -119434,5 +119434,21 @@
         "url": "https://www.animegg.org/ben-10-omniverse-dub-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4730,
+    "title": "Grappler Baki The Ultimate Fighter",
+    "animegg_url": "https://www.animegg.org/series/grappler-baki-the-ultimate-fighter",
+    "mal_url": "https://myanimelist.net/anime/1859",
+    "mal_id": 1859,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/53160",
+        "dub": null,
+        "url": "https://www.animegg.org/grappler-baki-the-ultimate-fighter-episode-1"
+      }
+    ]
   }
 ]
