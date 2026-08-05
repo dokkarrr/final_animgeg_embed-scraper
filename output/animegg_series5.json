@@ -62745,5 +62745,21 @@
         "url": "https://www.animegg.org/cap-kakumei-bottleman-dx-episode-51"
       }
     ]
+  },
+  {
+    "serial_no": 6420,
+    "title": "Macross Δ Movie: Gekijou no Walküre",
+    "animegg_url": "https://www.animegg.org/series/macross-movie-gekijou-no-walk-re",
+    "mal_url": "https://myanimelist.net/anime/36077",
+    "mal_id": 36077,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/92899",
+        "dub": null,
+        "url": "https://www.animegg.org/macross-movie-gekijou-no-walk-re-episode-1"
+      }
+    ]
   }
 ]
