@@ -17134,5 +17134,27 @@
         "url": "https://www.animegg.org/guild-no-uketsukejou-desu-ga-zangyou-wa-iya-nanode-boss-wo-solo-toubatsu-shiyou-to-omoimasu-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 5902,
+    "title": "Morita-San Wa Mukuchi Specials",
+    "animegg_url": "https://www.animegg.org/series/morita-san-wa-mukuchi-specials",
+    "mal_url": "https://myanimelist.net/anime/12921",
+    "mal_id": 12921,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/morita-san-wa-mukuchi-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/morita-san-wa-mukuchi-specials-episode-2"
+      }
+    ]
   }
 ]
