@@ -134296,5 +134296,51 @@
         "url": "https://www.animegg.org/atarashii-joushi-wa-do-tennen-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4943,
+    "title": "Peeping Life: The Perfect Emotion Specials",
+    "animegg_url": "https://www.animegg.org/series/peeping-life-the-perfect-emotion-specials",
+    "mal_url": "https://myanimelist.net/anime/17161",
+    "mal_id": 17161,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/60004",
+        "dub": null,
+        "url": "https://www.animegg.org/peeping-life-the-perfect-emotion-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/60005",
+        "dub": null,
+        "url": "https://www.animegg.org/peeping-life-the-perfect-emotion-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/60006",
+        "dub": null,
+        "url": "https://www.animegg.org/peeping-life-the-perfect-emotion-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/60007",
+        "dub": null,
+        "url": "https://www.animegg.org/peeping-life-the-perfect-emotion-specials-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/60008",
+        "dub": null,
+        "url": "https://www.animegg.org/peeping-life-the-perfect-emotion-specials-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/60009",
+        "dub": null,
+        "url": "https://www.animegg.org/peeping-life-the-perfect-emotion-specials-episode-6"
+      }
+    ]
   }
 ]
