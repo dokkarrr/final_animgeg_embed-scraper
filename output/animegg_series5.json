@@ -6008,5 +6008,21 @@
         "url": "https://www.animegg.org/sugar-soldier-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 5709,
+    "title": "Next A-Class",
+    "animegg_url": "https://www.animegg.org/series/next-a-class",
+    "mal_url": "https://myanimelist.net/anime/16331",
+    "mal_id": 16331,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/59231",
+        "dub": null,
+        "url": "https://www.animegg.org/next-a-class-episode-1"
+      }
+    ]
   }
 ]
