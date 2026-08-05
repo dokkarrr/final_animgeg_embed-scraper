@@ -1182,5 +1182,87 @@
         "url": "https://www.animegg.org/miru-tights-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3088,
+    "title": "Mashle 2nd Season",
+    "animegg_url": "https://www.animegg.org/series/mashle-2nd-season",
+    "mal_url": "https://myanimelist.net/anime/55813",
+    "mal_id": 55813,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/133501",
+        "dub": null,
+        "url": "https://www.animegg.org/mashle-2nd-season-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/133423",
+        "dub": null,
+        "url": "https://www.animegg.org/mashle-2nd-season-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/133326",
+        "dub": null,
+        "url": "https://www.animegg.org/mashle-2nd-season-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/133246",
+        "dub": null,
+        "url": "https://www.animegg.org/mashle-2nd-season-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/133165",
+        "dub": null,
+        "url": "https://www.animegg.org/mashle-2nd-season-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/133085",
+        "dub": null,
+        "url": "https://www.animegg.org/mashle-2nd-season-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/132998",
+        "dub": null,
+        "url": "https://www.animegg.org/mashle-2nd-season-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/mashle-2nd-season-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/132838",
+        "dub": null,
+        "url": "https://www.animegg.org/mashle-2nd-season-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/132765",
+        "dub": null,
+        "url": "https://www.animegg.org/mashle-2nd-season-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/132713",
+        "dub": "https://www.animegg.org/embed/132714",
+        "url": "https://www.animegg.org/mashle-2nd-season-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/132711",
+        "dub": "https://www.animegg.org/embed/132712",
+        "url": "https://www.animegg.org/mashle-2nd-season-episode-1"
+      }
+    ]
   }
 ]
