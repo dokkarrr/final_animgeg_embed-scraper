@@ -2916,5 +2916,75 @@
         "url": "https://www.animegg.org/wakaokami-wa-shougakusei-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 3109,
+    "title": "Bottom Biting Bug 3",
+    "animegg_url": "https://www.animegg.org/series/bottom-biting-bug-3",
+    "mal_url": "https://myanimelist.net/anime/27687",
+    "mal_id": 27687,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/67475",
+        "dub": null,
+        "url": "https://www.animegg.org/bottom-biting-bug-3-episode-10"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/67355",
+        "dub": null,
+        "url": "https://www.animegg.org/bottom-biting-bug-3-episode-9"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/67207",
+        "dub": null,
+        "url": "https://www.animegg.org/bottom-biting-bug-3-episode-8"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/66942",
+        "dub": null,
+        "url": "https://www.animegg.org/bottom-biting-bug-3-episode-7"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/66629",
+        "dub": null,
+        "url": "https://www.animegg.org/bottom-biting-bug-3-episode-6"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/66479",
+        "dub": null,
+        "url": "https://www.animegg.org/bottom-biting-bug-3-episode-5"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/66478",
+        "dub": null,
+        "url": "https://www.animegg.org/bottom-biting-bug-3-episode-4"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/66477",
+        "dub": null,
+        "url": "https://www.animegg.org/bottom-biting-bug-3-episode-3"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/66476",
+        "dub": null,
+        "url": "https://www.animegg.org/bottom-biting-bug-3-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/66475",
+        "dub": null,
+        "url": "https://www.animegg.org/bottom-biting-bug-3-episode-1"
+      }
+    ]
   }
 ]
