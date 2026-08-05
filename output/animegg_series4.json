@@ -3726,5 +3726,87 @@
         "url": "https://www.animegg.org/noblesse-awakening-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3121,
+    "title": "Mahou Shoujo ni Akogarete",
+    "animegg_url": "https://www.animegg.org/series/mahou-shoujo-ni-akogarete",
+    "mal_url": "https://myanimelist.net/anime/54722",
+    "mal_id": 54722,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/132597",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-ni-akogarete-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/132648",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-ni-akogarete-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/132730",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-ni-akogarete-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/132799",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-ni-akogarete-episode-4"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/132884",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-ni-akogarete-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/132964",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-ni-akogarete-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/133051",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-ni-akogarete-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/133126",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-ni-akogarete-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/133209",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-ni-akogarete-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/133294",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-ni-akogarete-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/133384",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-ni-akogarete-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/133471",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-ni-akogarete-episode-13"
+      }
+    ]
   }
 ]
