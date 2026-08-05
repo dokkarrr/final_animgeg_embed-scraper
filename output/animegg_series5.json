@@ -27160,5 +27160,21 @@
         "url": "https://www.animegg.org/watashi-no-shiawase-na-kekkon-season-2-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 6049,
+    "title": "Hurricane Polymar: Holy Blood",
+    "animegg_url": "https://www.animegg.org/series/hurricane-polymar-holy-blood",
+    "mal_url": "https://myanimelist.net/anime/3398",
+    "mal_id": 3398,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/53437",
+        "dub": null,
+        "url": "https://www.animegg.org/hurricane-polymar-holy-blood-episode-1"
+      }
+    ]
   }
 ]
