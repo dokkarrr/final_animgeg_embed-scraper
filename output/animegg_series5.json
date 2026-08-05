@@ -9471,5 +9471,21 @@
         "url": "https://www.animegg.org/vanguard-dragon-god-episode-74"
       }
     ]
+  },
+  {
+    "serial_no": 5765,
+    "title": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui! OVA",
+    "animegg_url": "https://www.animegg.org/series/watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui-ova",
+    "mal_url": "https://myanimelist.net/anime/16742",
+    "mal_id": 16742,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66503",
+        "dub": "https://www.animegg.org/embed/66504",
+        "url": "https://www.animegg.org/watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui-ova-episode-1"
+      }
+    ]
   }
 ]
