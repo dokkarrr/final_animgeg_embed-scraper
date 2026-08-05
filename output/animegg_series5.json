@@ -128078,5 +128078,57 @@
         "url": "https://www.animegg.org/umineko-no-naku-koro-ni-special-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 6983,
+    "title": "Pyramid Game",
+    "animegg_url": "https://www.animegg.org/series/pyramid-game",
+    "mal_url": "https://myanimelist.net/anime/61847",
+    "mal_id": 61847,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/141327",
+        "dub": null,
+        "url": "https://www.animegg.org/pyramid-game-episode-1"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/141329",
+        "dub": null,
+        "url": "https://www.animegg.org/pyramid-game-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/141422",
+        "dub": null,
+        "url": "https://www.animegg.org/pyramid-game-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/141495",
+        "dub": null,
+        "url": "https://www.animegg.org/pyramid-game-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/141623",
+        "dub": null,
+        "url": "https://www.animegg.org/pyramid-game-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/141704",
+        "dub": null,
+        "url": "https://www.animegg.org/pyramid-game-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/141789",
+        "dub": null,
+        "url": "https://www.animegg.org/pyramid-game-episode-9"
+      }
+    ]
   }
 ]
