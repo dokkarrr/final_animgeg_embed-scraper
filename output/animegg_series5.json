@@ -7953,5 +7953,21 @@
         "url": "https://www.animegg.org/cutey-honey-flash-the-movie-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5741,
+    "title": "Munto",
+    "animegg_url": "https://www.animegg.org/series/munto",
+    "mal_url": "https://myanimelist.net/anime/1174",
+    "mal_id": 1174,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/57050",
+        "dub": null,
+        "url": "https://www.animegg.org/munto-episode-1"
+      }
+    ]
   }
 ]
