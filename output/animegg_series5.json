@@ -118565,5 +118565,21 @@
         "url": "https://www.animegg.org/fate-zero-season-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6892,
+    "title": "Love Live! Sunshine!! The School Idol Movie: Over the Rainbow",
+    "animegg_url": "https://www.animegg.org/series/love-live-sunshine-the-school-idol-movie-over-the-rainbow",
+    "mal_url": "https://myanimelist.net/anime/37027",
+    "mal_id": 37027,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/96023",
+        "dub": null,
+        "url": "https://www.animegg.org/love-live-sunshine-the-school-idol-movie-over-the-rainbow-episode-1"
+      }
+    ]
   }
 ]
