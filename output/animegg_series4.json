@@ -134102,5 +134102,27 @@
         "url": "https://www.animegg.org/cinderella-girls-gekijou-climax-season-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 4938,
+    "title": "Kimi no Iru Machi: Tasogare Kousaten",
+    "animegg_url": "https://www.animegg.org/series/kimi-no-iru-machi-tasogare-kousaten",
+    "mal_url": "https://myanimelist.net/anime/11313",
+    "mal_id": 11313,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/20328",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-no-iru-machi-tasogare-kousaten-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/20327",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-no-iru-machi-tasogare-kousaten-episode-2"
+      }
+    ]
   }
 ]
