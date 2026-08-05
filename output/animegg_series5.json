@@ -4138,5 +4138,21 @@
         "url": "https://www.animegg.org/pokemon-xy-new-year-special-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5675,
+    "title": "Mobile Suit Gundam Thunderbolt: December Sky",
+    "animegg_url": "https://www.animegg.org/series/mobile-suit-gundam-thunderbolt-december-sky",
+    "mal_url": "https://myanimelist.net/anime/33221",
+    "mal_id": 33221,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/84902",
+        "dub": null,
+        "url": "https://www.animegg.org/mobile-suit-gundam-thunderbolt-december-sky-episode-1"
+      }
+    ]
   }
 ]
