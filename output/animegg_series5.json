@@ -85858,5 +85858,21 @@
         "url": "https://www.animegg.org/the-green-cat-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6634,
+    "title": "Tantei Opera Milky Holmes Movie: Gyakushuu no Milky Holmes",
+    "animegg_url": "https://www.animegg.org/series/tantei-opera-milky-holmes-movie-gyakushuu-no-milky-holmes",
+    "mal_url": "https://myanimelist.net/anime/31486",
+    "mal_id": 31486,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/85245",
+        "dub": null,
+        "url": "https://www.animegg.org/tantei-opera-milky-holmes-movie-gyakushuu-no-milky-holmes-episode-1"
+      }
+    ]
   }
 ]
