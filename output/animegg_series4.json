@@ -79456,5 +79456,93 @@
         "url": "https://www.animegg.org/laputa-castle-in-the-sky-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4112,
+    "title": "Saiyuuki Reload: Zeroin",
+    "animegg_url": "https://www.animegg.org/series/saiyuuki-reload-zeroin",
+    "mal_url": "https://myanimelist.net/anime/45783",
+    "mal_id": 45783,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/103720",
+        "dub": null,
+        "url": "https://www.animegg.org/saiyuuki-reload-zeroin-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/103762",
+        "dub": null,
+        "url": "https://www.animegg.org/saiyuuki-reload-zeroin-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/103815",
+        "dub": null,
+        "url": "https://www.animegg.org/saiyuuki-reload-zeroin-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/103867",
+        "dub": null,
+        "url": "https://www.animegg.org/saiyuuki-reload-zeroin-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/103921",
+        "dub": null,
+        "url": "https://www.animegg.org/saiyuuki-reload-zeroin-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/103977",
+        "dub": null,
+        "url": "https://www.animegg.org/saiyuuki-reload-zeroin-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/104025",
+        "dub": null,
+        "url": "https://www.animegg.org/saiyuuki-reload-zeroin-episode-7-1"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/104074",
+        "dub": null,
+        "url": "https://www.animegg.org/saiyuuki-reload-zeroin-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/104121",
+        "dub": null,
+        "url": "https://www.animegg.org/saiyuuki-reload-zeroin-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/104168",
+        "dub": null,
+        "url": "https://www.animegg.org/saiyuuki-reload-zeroin-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/104216",
+        "dub": null,
+        "url": "https://www.animegg.org/saiyuuki-reload-zeroin-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/104265",
+        "dub": null,
+        "url": "https://www.animegg.org/saiyuuki-reload-zeroin-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/104310",
+        "dub": null,
+        "url": "https://www.animegg.org/saiyuuki-reload-zeroin-episode-13"
+      }
+    ]
   }
 ]
