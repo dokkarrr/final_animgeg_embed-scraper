@@ -119450,5 +119450,21 @@
         "url": "https://www.animegg.org/grappler-baki-the-ultimate-fighter-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4731,
+    "title": "Whisper of the Heart",
+    "animegg_url": "https://www.animegg.org/series/whisper-of-the-heart",
+    "mal_url": "https://myanimelist.net/anime/585",
+    "mal_id": 585,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/63892",
+        "dub": null,
+        "url": "https://www.animegg.org/whisper-of-the-heart-episode-1"
+      }
+    ]
   }
 ]
