@@ -75590,5 +75590,39 @@
         "url": "https://www.animegg.org/angel-densetsu-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 4044,
+    "title": "Kyuuketsuki Miyu OVA",
+    "animegg_url": "https://www.animegg.org/series/kyuuketsuki-miyu-ova",
+    "mal_url": "https://myanimelist.net/anime/1384",
+    "mal_id": 1384,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/21242",
+        "dub": "https://www.animegg.org/embed/69369",
+        "url": "https://www.animegg.org/kyuuketsuki-miyu-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/21244",
+        "dub": "https://www.animegg.org/embed/69370",
+        "url": "https://www.animegg.org/kyuuketsuki-miyu-ova-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/21243",
+        "dub": "https://www.animegg.org/embed/69374",
+        "url": "https://www.animegg.org/kyuuketsuki-miyu-ova-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/21245",
+        "dub": "https://www.animegg.org/embed/69375",
+        "url": "https://www.animegg.org/kyuuketsuki-miyu-ova-episode-4"
+      }
+    ]
   }
 ]
