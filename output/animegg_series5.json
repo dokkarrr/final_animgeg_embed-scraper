@@ -20862,5 +20862,21 @@
         "url": "https://www.animegg.org/project-a-ko-uncivil-wars-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 5985,
+    "title": "Girl Meets Girl OVA",
+    "animegg_url": "https://www.animegg.org/series/girl-meets-girl-ova",
+    "mal_url": "https://myanimelist.net/anime/31804",
+    "mal_id": 31804,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/53044",
+        "dub": null,
+        "url": "https://www.animegg.org/girl-meets-girl-ova-episode-1"
+      }
+    ]
   }
 ]
