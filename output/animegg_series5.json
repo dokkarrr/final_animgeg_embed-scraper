@@ -11159,5 +11159,21 @@
         "url": "https://www.animegg.org/sakamoto-desu-ga-special-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5779,
+    "title": "Hana to Alice: Satsujin Jiken",
+    "animegg_url": "https://www.animegg.org/series/hana-to-alice-satsujin-jiken",
+    "mal_url": "https://myanimelist.net/anime/27969",
+    "mal_id": 27969,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/79013",
+        "dub": null,
+        "url": "https://www.animegg.org/hana-to-alice-satsujin-jiken-episode-1"
+      }
+    ]
   }
 ]
