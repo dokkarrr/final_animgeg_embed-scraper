@@ -67144,5 +67144,21 @@
         "url": "https://www.animegg.org/dragon-ball-z-movie-05-coolers-revenge-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3911,
+    "title": "Kuroko no Basket: Tip Off",
+    "animegg_url": "https://www.animegg.org/series/kuroko-no-basket-tip-off",
+    "mal_url": "https://myanimelist.net/anime/16916",
+    "mal_id": 16916,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/20907",
+        "dub": null,
+        "url": "https://www.animegg.org/kuroko-no-basket-tip-off-episode-1"
+      }
+    ]
   }
 ]
