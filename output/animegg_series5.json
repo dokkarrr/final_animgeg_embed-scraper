@@ -83130,5 +83130,51 @@
         "url": "https://www.animegg.org/my-hero-academia-ova-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 6603,
+    "title": "Yakitori",
+    "animegg_url": "https://www.animegg.org/series/yakitori",
+    "mal_url": "https://myanimelist.net/anime/54851",
+    "mal_id": 54851,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/108301",
+        "dub": null,
+        "url": "https://www.animegg.org/yakitori-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/108302",
+        "dub": null,
+        "url": "https://www.animegg.org/yakitori-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/108303",
+        "dub": null,
+        "url": "https://www.animegg.org/yakitori-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/108304",
+        "dub": null,
+        "url": "https://www.animegg.org/yakitori-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/108305",
+        "dub": null,
+        "url": "https://www.animegg.org/yakitori-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/108306",
+        "dub": null,
+        "url": "https://www.animegg.org/yakitori-episode-6"
+      }
+    ]
   }
 ]
