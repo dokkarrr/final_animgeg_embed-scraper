@@ -58904,5 +58904,21 @@
         "url": "https://www.animegg.org/ousama-ranking-yuuki-no-takarabako-dub-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 3798,
+    "title": "Kiki's Delivery Service",
+    "animegg_url": "https://www.animegg.org/series/kikis-delivery-service",
+    "mal_url": "https://myanimelist.net/anime/512",
+    "mal_id": 512,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/56523",
+        "dub": "https://www.animegg.org/embed/56524",
+        "url": "https://www.animegg.org/kikis-delivery-service-episode-1"
+      }
+    ]
   }
 ]
