@@ -41577,5 +41577,21 @@
         "url": "https://www.animegg.org/hibike-euphonium-movie-kitauji-koukou-suisougaku-bu-e-youkoso-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6232,
+    "title": "Tailenders",
+    "animegg_url": "https://www.animegg.org/series/tailenders",
+    "mal_url": "https://myanimelist.net/anime/6162",
+    "mal_id": 6162,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/61749",
+        "dub": null,
+        "url": "https://www.animegg.org/tailenders-episode-1"
+      }
+    ]
   }
 ]
