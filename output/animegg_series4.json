@@ -62552,5 +62552,75 @@
         "url": "https://www.animegg.org/nogizaka-haruka-no-himitsu-finale-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 3846,
+    "title": "Demon Lord 2099",
+    "animegg_url": "https://www.animegg.org/series/maou-2099",
+    "mal_url": "https://myanimelist.net/anime/54853",
+    "mal_id": 54853,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 2099,
+        "sub": "https://www.animegg.org/embed/139693",
+        "dub": null,
+        "url": "https://www.animegg.org/maou-2099-episode-12"
+      },
+      {
+        "ep": 2099,
+        "sub": "https://www.animegg.org/embed/139588",
+        "dub": null,
+        "url": "https://www.animegg.org/maou-2099-episode-11"
+      },
+      {
+        "ep": 2099,
+        "sub": "https://www.animegg.org/embed/139354",
+        "dub": null,
+        "url": "https://www.animegg.org/maou-2099-episode-10"
+      },
+      {
+        "ep": 2099,
+        "sub": "https://www.animegg.org/embed/139219",
+        "dub": null,
+        "url": "https://www.animegg.org/maou-2099-episode-7"
+      },
+      {
+        "ep": 2099,
+        "sub": "https://www.animegg.org/embed/139041",
+        "dub": null,
+        "url": "https://www.animegg.org/maou-2099-episode-6"
+      },
+      {
+        "ep": 2099,
+        "sub": "https://www.animegg.org/embed/138841",
+        "dub": null,
+        "url": "https://www.animegg.org/maou-2099-episode-5"
+      },
+      {
+        "ep": 2099,
+        "sub": "https://www.animegg.org/embed/138611",
+        "dub": null,
+        "url": "https://www.animegg.org/maou-2099-episode-4"
+      },
+      {
+        "ep": 2099,
+        "sub": "https://www.animegg.org/embed/138416",
+        "dub": null,
+        "url": "https://www.animegg.org/maou-2099-episode-3"
+      },
+      {
+        "ep": 2099,
+        "sub": "https://www.animegg.org/embed/138179",
+        "dub": null,
+        "url": "https://www.animegg.org/maou-2099-episode-2"
+      },
+      {
+        "ep": 2099,
+        "sub": "https://www.animegg.org/embed/137923",
+        "dub": null,
+        "url": "https://www.animegg.org/maou-2099-episode-1"
+      }
+    ]
   }
 ]
