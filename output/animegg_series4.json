@@ -126896,5 +126896,45 @@
         "url": "https://www.animegg.org/sakasama-no-patema-beginning-of-the-day-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 4830,
+    "title": "Gokushufudou",
+    "animegg_url": "https://www.animegg.org/series/gokushufudou",
+    "mal_url": "https://myanimelist.net/anime/43692",
+    "mal_id": 43692,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/101368",
+        "dub": null,
+        "url": "https://www.animegg.org/gokushufudou-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/101384",
+        "dub": null,
+        "url": "https://www.animegg.org/gokushufudou-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/101385",
+        "dub": null,
+        "url": "https://www.animegg.org/gokushufudou-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/101386",
+        "dub": null,
+        "url": "https://www.animegg.org/gokushufudou-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/101369",
+        "dub": null,
+        "url": "https://www.animegg.org/gokushufudou-episode-5"
+      }
+    ]
   }
 ]
