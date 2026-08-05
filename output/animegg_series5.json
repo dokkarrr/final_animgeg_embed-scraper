@@ -23334,5 +23334,21 @@
         "url": "https://www.animegg.org/uchiage-hanabi-shita-kara-miru-ka-yoko-kara-miru-ka-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6006,
+    "title": "Star Driver the Movie",
+    "animegg_url": "https://www.animegg.org/series/star-driver-the-movie",
+    "mal_url": "https://myanimelist.net/anime/12857",
+    "mal_id": 12857,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/36305",
+        "dub": null,
+        "url": "https://www.animegg.org/star-driver-the-movie-episode-1"
+      }
+    ]
   }
 ]
