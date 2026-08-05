@@ -105106,5 +105106,51 @@
         "url": "https://www.animegg.org/yamato-nadeshiko-shichi-henge-dub-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 6774,
+    "title": "JoJo's Bizarre Adventure (Dub)",
+    "animegg_url": "https://www.animegg.org/series/jojo-s-bizarre-adventure-dub",
+    "mal_url": "https://myanimelist.net/anime/14719",
+    "mal_id": 14719,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/124306",
+        "dub": null,
+        "url": "https://www.animegg.org/jojo-s-bizarre-adventure-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/124305",
+        "dub": null,
+        "url": "https://www.animegg.org/jojo-s-bizarre-adventure-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/124304",
+        "dub": null,
+        "url": "https://www.animegg.org/jojo-s-bizarre-adventure-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/124303",
+        "dub": null,
+        "url": "https://www.animegg.org/jojo-s-bizarre-adventure-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/124302",
+        "dub": null,
+        "url": "https://www.animegg.org/jojo-s-bizarre-adventure-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/124301",
+        "dub": null,
+        "url": "https://www.animegg.org/jojo-s-bizarre-adventure-dub-episode-6"
+      }
+    ]
   }
 ]
