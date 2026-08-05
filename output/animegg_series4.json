@@ -54450,5 +54450,87 @@
         "url": "https://www.animegg.org/bang-dream-it-s-mygo-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3736,
+    "title": "Sora to Umi no Aida",
+    "animegg_url": "https://www.animegg.org/series/sora-to-umi-no-aida",
+    "mal_url": "https://myanimelist.net/anime/36000",
+    "mal_id": 36000,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/93074",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-to-umi-no-aida-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/93152",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-to-umi-no-aida-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/93231",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-to-umi-no-aida-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/93308",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-to-umi-no-aida-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/93393",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-to-umi-no-aida-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/93468",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-to-umi-no-aida-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/93551",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-to-umi-no-aida-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/93626",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-to-umi-no-aida-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/93695",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-to-umi-no-aida-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/93760",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-to-umi-no-aida-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/93849",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-to-umi-no-aida-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/94006",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-to-umi-no-aida-episode-12"
+      }
+    ]
   }
 ]
