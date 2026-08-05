@@ -101060,5 +101060,39 @@
         "url": "https://www.animegg.org/iria-zeiram-the-animation-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 4416,
+    "title": "Busou Chuugakusei: Basket Army",
+    "animegg_url": "https://www.animegg.org/series/busou-chuugakusei-basket-army",
+    "mal_url": "https://myanimelist.net/anime/12157",
+    "mal_id": 12157,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/4853",
+        "dub": null,
+        "url": "https://www.animegg.org/busou-chuugakusei-basket-army-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/4854",
+        "dub": null,
+        "url": "https://www.animegg.org/busou-chuugakusei-basket-army-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/4851",
+        "dub": null,
+        "url": "https://www.animegg.org/busou-chuugakusei-basket-army-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/4852",
+        "dub": null,
+        "url": "https://www.animegg.org/busou-chuugakusei-basket-army-episode-4"
+      }
+    ]
   }
 ]
