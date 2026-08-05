@@ -24210,5 +24210,75 @@
         "url": "https://www.animegg.org/dosanko-gal-wa-namara-menkoi-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3352,
+    "title": "Kanojo ga Koushaku-tei ni Itta Riyuu (Dub)",
+    "animegg_url": "https://www.animegg.org/series/kanojo-ga-koushaku-tei-ni-itta-riyuu-dub",
+    "mal_url": "https://myanimelist.net/anime/52308",
+    "mal_id": 52308,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-ga-koushaku-tei-ni-itta-riyuu-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/108562",
+        "dub": "https://www.animegg.org/embed/129912",
+        "url": "https://www.animegg.org/kanojo-ga-koushaku-tei-ni-itta-riyuu-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/108563",
+        "dub": "https://www.animegg.org/embed/129911",
+        "url": "https://www.animegg.org/kanojo-ga-koushaku-tei-ni-itta-riyuu-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/108564",
+        "dub": "https://www.animegg.org/embed/129910",
+        "url": "https://www.animegg.org/kanojo-ga-koushaku-tei-ni-itta-riyuu-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/108565",
+        "dub": "https://www.animegg.org/embed/129909",
+        "url": "https://www.animegg.org/kanojo-ga-koushaku-tei-ni-itta-riyuu-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/108566",
+        "dub": "https://www.animegg.org/embed/129908",
+        "url": "https://www.animegg.org/kanojo-ga-koushaku-tei-ni-itta-riyuu-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/108567",
+        "dub": "https://www.animegg.org/embed/129907",
+        "url": "https://www.animegg.org/kanojo-ga-koushaku-tei-ni-itta-riyuu-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/129906",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-ga-koushaku-tei-ni-itta-riyuu-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/129905",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-ga-koushaku-tei-ni-itta-riyuu-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/129913",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-ga-koushaku-tei-ni-itta-riyuu-dub-episode-10"
+      }
+    ]
   }
 ]
