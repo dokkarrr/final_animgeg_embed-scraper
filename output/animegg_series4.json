@@ -11672,5 +11672,87 @@
         "url": "https://www.animegg.org/queens-blade-rebellion-specials-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 3222,
+    "title": "Show By Rock!! - MIDICITY",
+    "animegg_url": "https://www.animegg.org/series/show-by-rock---midicity",
+    "mal_url": "https://myanimelist.net/anime/27441",
+    "mal_id": 27441,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/84091",
+        "dub": null,
+        "url": "https://www.animegg.org/show-by-rock---midicity-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/84197",
+        "dub": null,
+        "url": "https://www.animegg.org/show-by-rock---midicity-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/84300",
+        "dub": "https://www.animegg.org/embed/84301",
+        "url": "https://www.animegg.org/show-by-rock---midicity-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/84406",
+        "dub": null,
+        "url": "https://www.animegg.org/show-by-rock---midicity-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/84493",
+        "dub": null,
+        "url": "https://www.animegg.org/show-by-rock---midicity-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/84600",
+        "dub": null,
+        "url": "https://www.animegg.org/show-by-rock---midicity-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/84693",
+        "dub": null,
+        "url": "https://www.animegg.org/show-by-rock---midicity-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/84790",
+        "dub": null,
+        "url": "https://www.animegg.org/show-by-rock---midicity-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/84894",
+        "dub": null,
+        "url": "https://www.animegg.org/show-by-rock---midicity-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/84963",
+        "dub": null,
+        "url": "https://www.animegg.org/show-by-rock---midicity-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/85076",
+        "dub": null,
+        "url": "https://www.animegg.org/show-by-rock---midicity-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/85176",
+        "dub": null,
+        "url": "https://www.animegg.org/show-by-rock---midicity-episode-12"
+      }
+    ]
   }
 ]
