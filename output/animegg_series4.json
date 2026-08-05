@@ -78484,5 +78484,87 @@
         "url": "https://www.animegg.org/true-tears-specials-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 4094,
+    "title": "Sengoku Youko",
+    "animegg_url": "https://www.animegg.org/series/sengoku-youko",
+    "mal_url": "https://myanimelist.net/anime/56242",
+    "mal_id": 56242,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/132650",
+        "dub": null,
+        "url": "https://www.animegg.org/sengoku-youko-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/132731",
+        "dub": null,
+        "url": "https://www.animegg.org/sengoku-youko-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/132801",
+        "dub": null,
+        "url": "https://www.animegg.org/sengoku-youko-episode-3"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/132885",
+        "dub": null,
+        "url": "https://www.animegg.org/sengoku-youko-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/132965",
+        "dub": null,
+        "url": "https://www.animegg.org/sengoku-youko-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/133052",
+        "dub": null,
+        "url": "https://www.animegg.org/sengoku-youko-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/133128",
+        "dub": null,
+        "url": "https://www.animegg.org/sengoku-youko-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/133210",
+        "dub": null,
+        "url": "https://www.animegg.org/sengoku-youko-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/133290",
+        "dub": null,
+        "url": "https://www.animegg.org/sengoku-youko-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/133383",
+        "dub": null,
+        "url": "https://www.animegg.org/sengoku-youko-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/133470",
+        "dub": null,
+        "url": "https://www.animegg.org/sengoku-youko-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/133530",
+        "dub": null,
+        "url": "https://www.animegg.org/sengoku-youko-episode-13"
+      }
+    ]
   }
 ]
