@@ -115568,5 +115568,39 @@
         "url": "https://www.animegg.org/ascendance-of-a-bookworm-season-4-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4668,
+    "title": "Kaichuu!",
+    "animegg_url": "https://www.animegg.org/series/kaichuu",
+    "mal_url": "https://myanimelist.net/anime/9205",
+    "mal_id": 9205,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/54879",
+        "dub": null,
+        "url": "https://www.animegg.org/kaichuu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/54880",
+        "dub": null,
+        "url": "https://www.animegg.org/kaichuu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/54881",
+        "dub": null,
+        "url": "https://www.animegg.org/kaichuu-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/54882",
+        "dub": null,
+        "url": "https://www.animegg.org/kaichuu-episode-4"
+      }
+    ]
   }
 ]
