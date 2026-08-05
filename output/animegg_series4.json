@@ -128692,5 +128692,81 @@
         "url": "https://www.animegg.org/i-was-reincarnated-as-the-7th-prince-so-i-can-take-my-time-perfecting-my-magical-ability-season-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4856,
+    "title": "Tsuyokute New Saga",
+    "animegg_url": "https://www.animegg.org/series/tsuyokute-new-saga",
+    "mal_url": "https://myanimelist.net/anime/53397",
+    "mal_id": 53397,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/141536",
+        "dub": "https://www.animegg.org/embed/141759",
+        "url": "https://www.animegg.org/tsuyokute-new-saga-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/141647",
+        "dub": "https://www.animegg.org/embed/141863",
+        "url": "https://www.animegg.org/tsuyokute-new-saga-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/141748",
+        "dub": "https://www.animegg.org/embed/141978",
+        "url": "https://www.animegg.org/tsuyokute-new-saga-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/141853",
+        "dub": "https://www.animegg.org/embed/142110",
+        "url": "https://www.animegg.org/tsuyokute-new-saga-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/141969",
+        "dub": "https://www.animegg.org/embed/142245",
+        "url": "https://www.animegg.org/tsuyokute-new-saga-episode-5"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/142226",
+        "dub": null,
+        "url": "https://www.animegg.org/tsuyokute-new-saga-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/142334",
+        "dub": null,
+        "url": "https://www.animegg.org/tsuyokute-new-saga-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/142496",
+        "dub": null,
+        "url": "https://www.animegg.org/tsuyokute-new-saga-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/142443",
+        "dub": "https://www.animegg.org/embed/142602",
+        "url": "https://www.animegg.org/tsuyokute-new-saga-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/142686",
+        "dub": null,
+        "url": "https://www.animegg.org/tsuyokute-new-saga-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/142608",
+        "dub": "https://www.animegg.org/embed/142772",
+        "url": "https://www.animegg.org/tsuyokute-new-saga-episode-12"
+      }
+    ]
   }
 ]
