@@ -127200,5 +127200,33 @@
         "url": "https://www.animegg.org/gyo-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4837,
+    "title": "Bungaku Shoujo: Kyou no Oyatsu - Hatsukoi",
+    "animegg_url": "https://www.animegg.org/series/bungaku-shoujo-memoire",
+    "mal_url": "https://myanimelist.net/anime/7669",
+    "mal_id": 7669,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/4821",
+        "dub": null,
+        "url": "https://www.animegg.org/bungaku-shoujo-memoire-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/4823",
+        "dub": null,
+        "url": "https://www.animegg.org/bungaku-shoujo-memoire-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/4822",
+        "dub": null,
+        "url": "https://www.animegg.org/bungaku-shoujo-memoire-episode-3"
+      }
+    ]
   }
 ]
