@@ -98470,5 +98470,45 @@
         "url": "https://www.animegg.org/africa-no-salaryman-tv-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4385,
+    "title": "Tsubasa: Tokyo Revelations",
+    "animegg_url": "https://www.animegg.org/series/tsubasa-tokyo-revelations",
+    "mal_url": "https://myanimelist.net/anime/2685",
+    "mal_id": 2685,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/45117",
+        "dub": "https://www.animegg.org/embed/71067",
+        "url": "https://www.animegg.org/tsubasa-tokyo-revelations-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/45118",
+        "dub": "https://www.animegg.org/embed/71069",
+        "url": "https://www.animegg.org/tsubasa-tokyo-revelations-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/45119",
+        "dub": "https://www.animegg.org/embed/71072",
+        "url": "https://www.animegg.org/tsubasa-tokyo-revelations-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/71075",
+        "dub": null,
+        "url": "https://www.animegg.org/tsubasa-tokyo-revelations-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/71076",
+        "dub": null,
+        "url": "https://www.animegg.org/tsubasa-tokyo-revelations-episode-5"
+      }
+    ]
   }
 ]
