@@ -33852,5 +33852,87 @@
         "url": "https://www.animegg.org/teekyuu-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3454,
+    "title": "The World of Narue",
+    "animegg_url": "https://www.animegg.org/series/narue-no-sekai",
+    "mal_url": "https://myanimelist.net/anime/840",
+    "mal_id": 840,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/70544",
+        "dub": null,
+        "url": "https://www.animegg.org/narue-no-sekai-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/70545",
+        "dub": null,
+        "url": "https://www.animegg.org/narue-no-sekai-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/70546",
+        "dub": null,
+        "url": "https://www.animegg.org/narue-no-sekai-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/70547",
+        "dub": null,
+        "url": "https://www.animegg.org/narue-no-sekai-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/70548",
+        "dub": null,
+        "url": "https://www.animegg.org/narue-no-sekai-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/70549",
+        "dub": null,
+        "url": "https://www.animegg.org/narue-no-sekai-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/70550",
+        "dub": null,
+        "url": "https://www.animegg.org/narue-no-sekai-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/70551",
+        "dub": null,
+        "url": "https://www.animegg.org/narue-no-sekai-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/70552",
+        "dub": null,
+        "url": "https://www.animegg.org/narue-no-sekai-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/70553",
+        "dub": null,
+        "url": "https://www.animegg.org/narue-no-sekai-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/70554",
+        "dub": null,
+        "url": "https://www.animegg.org/narue-no-sekai-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/70555",
+        "dub": null,
+        "url": "https://www.animegg.org/narue-no-sekai-episode-12"
+      }
+    ]
   }
 ]
