@@ -13061,5 +13061,21 @@
         "url": "https://www.animegg.org/gundam-zeta-a-new-translation-ii---lovers-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5812,
+    "title": "Tengen Toppa Gurren Lagann: Ore no Gurren wa Pikka-Pika!!",
+    "animegg_url": "https://www.animegg.org/series/tengen-toppa-gurren-lagann-ova",
+    "mal_url": "https://myanimelist.net/anime/10622",
+    "mal_id": 10622,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/63249",
+        "dub": null,
+        "url": "https://www.animegg.org/tengen-toppa-gurren-lagann-ova-episode-1"
+      }
+    ]
   }
 ]
