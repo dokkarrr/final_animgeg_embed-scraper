@@ -123546,5 +123546,87 @@
         "url": "https://www.animegg.org/the-demon-kings-daughter-is-too-kind-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4789,
+    "title": "Idoly Pride",
+    "animegg_url": "https://www.animegg.org/series/idoly-pride",
+    "mal_url": "https://myanimelist.net/anime/40842",
+    "mal_id": 40842,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/100464",
+        "dub": null,
+        "url": "https://www.animegg.org/idoly-pride-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/100563",
+        "dub": null,
+        "url": "https://www.animegg.org/idoly-pride-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/100635",
+        "dub": null,
+        "url": "https://www.animegg.org/idoly-pride-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/100709",
+        "dub": null,
+        "url": "https://www.animegg.org/idoly-pride-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/100780",
+        "dub": null,
+        "url": "https://www.animegg.org/idoly-pride-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/100849",
+        "dub": null,
+        "url": "https://www.animegg.org/idoly-pride-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/100926",
+        "dub": null,
+        "url": "https://www.animegg.org/idoly-pride-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/101003",
+        "dub": null,
+        "url": "https://www.animegg.org/idoly-pride-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/101074",
+        "dub": null,
+        "url": "https://www.animegg.org/idoly-pride-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/101146",
+        "dub": null,
+        "url": "https://www.animegg.org/idoly-pride-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/101215",
+        "dub": null,
+        "url": "https://www.animegg.org/idoly-pride-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/101284",
+        "dub": null,
+        "url": "https://www.animegg.org/idoly-pride-episode-12"
+      }
+    ]
   }
 ]
