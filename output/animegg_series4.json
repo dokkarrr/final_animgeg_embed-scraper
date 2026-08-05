@@ -86700,5 +86700,21 @@
         "url": "https://www.animegg.org/kabushikigaisha-magi-lumi-re-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4213,
+    "title": "One Piece: Baron Omatsuri and the Secret Island",
+    "animegg_url": "https://www.animegg.org/series/one-piece-baron-omatsuri-and-the-secret-island",
+    "mal_url": "https://myanimelist.net/anime/464",
+    "mal_id": 464,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/59177",
+        "dub": null,
+        "url": "https://www.animegg.org/one-piece-baron-omatsuri-and-the-secret-island-episode-1"
+      }
+    ]
   }
 ]
