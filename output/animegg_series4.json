@@ -113944,5 +113944,39 @@
         "url": "https://www.animegg.org/sakura-wars-the-animation-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4649,
+    "title": "Gun Samurai",
+    "animegg_url": "https://www.animegg.org/series/gun-samurai",
+    "mal_url": "https://myanimelist.net/anime/15377",
+    "mal_id": 15377,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/53108",
+        "dub": null,
+        "url": "https://www.animegg.org/gun-samurai-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/53109",
+        "dub": null,
+        "url": "https://www.animegg.org/gun-samurai-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/53110",
+        "dub": null,
+        "url": "https://www.animegg.org/gun-samurai-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/53111",
+        "dub": null,
+        "url": "https://www.animegg.org/gun-samurai-episode-4"
+      }
+    ]
   }
 ]
