@@ -126862,5 +126862,39 @@
         "url": "https://www.animegg.org/kidou-shinsengumi-moeyo-ken-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 4829,
+    "title": "Sakasama no Patema: Beginning of the Day",
+    "animegg_url": "https://www.animegg.org/series/sakasama-no-patema-beginning-of-the-day",
+    "mal_url": "https://myanimelist.net/anime/13429",
+    "mal_id": 13429,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/33084",
+        "dub": null,
+        "url": "https://www.animegg.org/sakasama-no-patema-beginning-of-the-day-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/33082",
+        "dub": null,
+        "url": "https://www.animegg.org/sakasama-no-patema-beginning-of-the-day-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/33085",
+        "dub": null,
+        "url": "https://www.animegg.org/sakasama-no-patema-beginning-of-the-day-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/33083",
+        "dub": null,
+        "url": "https://www.animegg.org/sakasama-no-patema-beginning-of-the-day-episode-4"
+      }
+    ]
   }
 ]
