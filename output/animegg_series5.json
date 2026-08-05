@@ -18000,5 +18000,27 @@
         "url": "https://www.animegg.org/usagi-chan-de-cue-ova-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 5919,
+    "title": "High School Star Musical OVA",
+    "animegg_url": "https://www.animegg.org/series/high-school-star-musical-ova",
+    "mal_url": "https://myanimelist.net/anime/33033",
+    "mal_id": 33033,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/85967",
+        "dub": null,
+        "url": "https://www.animegg.org/high-school-star-musical-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/86402",
+        "dub": null,
+        "url": "https://www.animegg.org/high-school-star-musical-ova-episode-2"
+      }
+    ]
   }
 ]
