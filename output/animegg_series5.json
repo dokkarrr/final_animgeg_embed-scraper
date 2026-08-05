@@ -83108,5 +83108,27 @@
         "url": "https://www.animegg.org/tales-of-wedding-rings-season-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6602,
+    "title": "My hero academia ova",
+    "animegg_url": "https://www.animegg.org/series/my-hero-academia-ova",
+    "mal_url": "https://myanimelist.net/anime/33486",
+    "mal_id": 33486,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/142202",
+        "dub": null,
+        "url": "https://www.animegg.org/my-hero-academia-ova-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/142201",
+        "dub": null,
+        "url": "https://www.animegg.org/my-hero-academia-ova-episode-8"
+      }
+    ]
   }
 ]
