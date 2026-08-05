@@ -79029,5 +79029,27 @@
         "url": "https://www.animegg.org/xian-wang-de-richang-shenghuo-dub-episode-15"
       }
     ]
+  },
+  {
+    "serial_no": 6563,
+    "title": "Kaitou Tenshi Twin Angel: Kyun Kyun☆Tokimeki Paradise!! OVA",
+    "animegg_url": "https://www.animegg.org/series/kaitou-tenshi-twin-angel-kyun-kyun-tokimeki-paradise-ova",
+    "mal_url": "https://myanimelist.net/anime/10217",
+    "mal_id": 10217,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/93143",
+        "dub": null,
+        "url": "https://www.animegg.org/kaitou-tenshi-twin-angel-kyun-kyun-tokimeki-paradise-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/93141",
+        "dub": null,
+        "url": "https://www.animegg.org/kaitou-tenshi-twin-angel-kyun-kyun-tokimeki-paradise-ova-episode-2"
+      }
+    ]
   }
 ]
