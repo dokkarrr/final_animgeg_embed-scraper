@@ -1732,5 +1732,93 @@
         "url": "https://www.animegg.org/kanon-2002-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3095,
+    "title": "Vivy: Fluorite Eye's Song",
+    "animegg_url": "https://www.animegg.org/series/vivy-fluorite-eye-s-song",
+    "mal_url": "https://myanimelist.net/anime/46095",
+    "mal_id": 46095,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/101338",
+        "dub": null,
+        "url": "https://www.animegg.org/vivy-fluorite-eye-s-song-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/101339",
+        "dub": null,
+        "url": "https://www.animegg.org/vivy-fluorite-eye-s-song-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/101399",
+        "dub": null,
+        "url": "https://www.animegg.org/vivy-fluorite-eye-s-song-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/101464",
+        "dub": null,
+        "url": "https://www.animegg.org/vivy-fluorite-eye-s-song-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/101521",
+        "dub": null,
+        "url": "https://www.animegg.org/vivy-fluorite-eye-s-song-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/101587",
+        "dub": null,
+        "url": "https://www.animegg.org/vivy-fluorite-eye-s-song-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/101651",
+        "dub": null,
+        "url": "https://www.animegg.org/vivy-fluorite-eye-s-song-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/101716",
+        "dub": null,
+        "url": "https://www.animegg.org/vivy-fluorite-eye-s-song-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/101790",
+        "dub": null,
+        "url": "https://www.animegg.org/vivy-fluorite-eye-s-song-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/101860",
+        "dub": null,
+        "url": "https://www.animegg.org/vivy-fluorite-eye-s-song-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/101937",
+        "dub": null,
+        "url": "https://www.animegg.org/vivy-fluorite-eye-s-song-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/102004",
+        "dub": null,
+        "url": "https://www.animegg.org/vivy-fluorite-eye-s-song-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/102084",
+        "dub": null,
+        "url": "https://www.animegg.org/vivy-fluorite-eye-s-song-episode-13"
+      }
+    ]
   }
 ]
