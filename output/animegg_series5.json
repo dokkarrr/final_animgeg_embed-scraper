@@ -27176,5 +27176,21 @@
         "url": "https://www.animegg.org/hurricane-polymar-holy-blood-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6050,
+    "title": "Ishida to Asakura Special",
+    "animegg_url": "https://www.animegg.org/series/ishida-to-asakura-special",
+    "mal_url": "https://myanimelist.net/anime/18149",
+    "mal_id": 18149,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/18413",
+        "dub": null,
+        "url": "https://www.animegg.org/ishida-to-asakura-special-episode-1"
+      }
+    ]
   }
 ]
