@@ -137005,5 +137005,21 @@
         "url": "https://www.animegg.org/blood-reign-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 4980,
+    "title": "Code Geass: Hangyaku no Lelouch II - Handou",
+    "animegg_url": "https://www.animegg.org/series/code-geass-hangyaku-no-lelouch-ii---handou",
+    "mal_url": "https://myanimelist.net/anime/34439",
+    "mal_id": 34439,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/91524",
+        "dub": null,
+        "url": "https://www.animegg.org/code-geass-hangyaku-no-lelouch-ii---handou-episode-1"
+      }
+    ]
   }
 ]
