@@ -101214,5 +101214,69 @@
         "url": "https://www.animegg.org/hetalia-world-series-specials-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 4420,
+    "title": "Hikikomari Kyuuketsuki no Monmon",
+    "animegg_url": "https://www.animegg.org/series/hikikomari-kyuuketsuki-no-monmon",
+    "mal_url": "https://myanimelist.net/anime/54103",
+    "mal_id": 54103,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/131656",
+        "dub": null,
+        "url": "https://www.animegg.org/hikikomari-kyuuketsuki-no-monmon-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/hikikomari-kyuuketsuki-no-monmon-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/hikikomari-kyuuketsuki-no-monmon-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/131993",
+        "dub": null,
+        "url": "https://www.animegg.org/hikikomari-kyuuketsuki-no-monmon-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/hikikomari-kyuuketsuki-no-monmon-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/hikikomari-kyuuketsuki-no-monmon-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/132271",
+        "dub": null,
+        "url": "https://www.animegg.org/hikikomari-kyuuketsuki-no-monmon-episode-7"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/132530",
+        "dub": null,
+        "url": "https://www.animegg.org/hikikomari-kyuuketsuki-no-monmon-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/132583",
+        "dub": null,
+        "url": "https://www.animegg.org/hikikomari-kyuuketsuki-no-monmon-episode-12"
+      }
+    ]
   }
 ]
