@@ -47124,5 +47124,87 @@
         "url": "https://www.animegg.org/petals-of-reincarnation-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3637,
+    "title": "Urahara",
+    "animegg_url": "https://www.animegg.org/series/urahara",
+    "mal_url": "https://myanimelist.net/anime/35250",
+    "mal_id": 35250,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/88515",
+        "dub": null,
+        "url": "https://www.animegg.org/urahara-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/88616",
+        "dub": null,
+        "url": "https://www.animegg.org/urahara-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/88705",
+        "dub": null,
+        "url": "https://www.animegg.org/urahara-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/88781",
+        "dub": null,
+        "url": "https://www.animegg.org/urahara-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/88881",
+        "dub": null,
+        "url": "https://www.animegg.org/urahara-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/88966",
+        "dub": null,
+        "url": "https://www.animegg.org/urahara-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/89060",
+        "dub": null,
+        "url": "https://www.animegg.org/urahara-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/89133",
+        "dub": null,
+        "url": "https://www.animegg.org/urahara-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/89213",
+        "dub": null,
+        "url": "https://www.animegg.org/urahara-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/89288",
+        "dub": null,
+        "url": "https://www.animegg.org/urahara-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/89369",
+        "dub": null,
+        "url": "https://www.animegg.org/urahara-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/89441",
+        "dub": null,
+        "url": "https://www.animegg.org/urahara-episode-12"
+      }
+    ]
   }
 ]
