@@ -129762,5 +129762,63 @@
         "url": "https://www.animegg.org/saber-marionette-j-again-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 4879,
+    "title": "Saihate no Paladin: Tetsusabi no Yama no Ou",
+    "animegg_url": "https://www.animegg.org/series/saihate-no-paladin-tetsusabi-no-yama-no-ou",
+    "mal_url": "https://myanimelist.net/anime/50664",
+    "mal_id": 50664,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/131668",
+        "dub": "https://www.animegg.org/embed/131894",
+        "url": "https://www.animegg.org/saihate-no-paladin-tetsusabi-no-yama-no-ou-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/131778",
+        "dub": "https://www.animegg.org/embed/132008",
+        "url": "https://www.animegg.org/saihate-no-paladin-tetsusabi-no-yama-no-ou-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/131880",
+        "dub": "https://www.animegg.org/embed/132101",
+        "url": "https://www.animegg.org/saihate-no-paladin-tetsusabi-no-yama-no-ou-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/131992",
+        "dub": null,
+        "url": "https://www.animegg.org/saihate-no-paladin-tetsusabi-no-yama-no-ou-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/132095",
+        "dub": "https://www.animegg.org/embed/132287",
+        "url": "https://www.animegg.org/saihate-no-paladin-tetsusabi-no-yama-no-ou-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/saihate-no-paladin-tetsusabi-no-yama-no-ou-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/132272",
+        "dub": null,
+        "url": "https://www.animegg.org/saihate-no-paladin-tetsusabi-no-yama-no-ou-episode-7"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/132526",
+        "dub": null,
+        "url": "https://www.animegg.org/saihate-no-paladin-tetsusabi-no-yama-no-ou-episode-12"
+      }
+    ]
   }
 ]
