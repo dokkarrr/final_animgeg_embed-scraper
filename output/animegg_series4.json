@@ -43352,5 +43352,21 @@
         "url": "https://www.animegg.org/number24-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3591,
+    "title": "Tonari no Totoro",
+    "animegg_url": "https://www.animegg.org/series/tonari-no-totoro",
+    "mal_url": "https://myanimelist.net/anime/523",
+    "mal_id": 523,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/45115",
+        "dub": "https://www.animegg.org/embed/45116",
+        "url": "https://www.animegg.org/tonari-no-totoro-episode-1"
+      }
+    ]
   }
 ]
