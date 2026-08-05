@@ -115712,5 +115712,75 @@
         "url": "https://www.animegg.org/gunsmith-cats-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 4671,
+    "title": "The Shy Hero and the Assassin Princesses",
+    "animegg_url": "https://www.animegg.org/series/the-shy-hero-and-the-assassin-princesses",
+    "mal_url": "https://myanimelist.net/anime/60951",
+    "mal_id": 60951,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/141573",
+        "dub": null,
+        "url": "https://www.animegg.org/the-shy-hero-and-the-assassin-princesses-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/141684",
+        "dub": null,
+        "url": "https://www.animegg.org/the-shy-hero-and-the-assassin-princesses-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/141786",
+        "dub": null,
+        "url": "https://www.animegg.org/the-shy-hero-and-the-assassin-princesses-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/141901",
+        "dub": null,
+        "url": "https://www.animegg.org/the-shy-hero-and-the-assassin-princesses-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/142027",
+        "dub": null,
+        "url": "https://www.animegg.org/the-shy-hero-and-the-assassin-princesses-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/142149",
+        "dub": null,
+        "url": "https://www.animegg.org/the-shy-hero-and-the-assassin-princesses-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/142264",
+        "dub": null,
+        "url": "https://www.animegg.org/the-shy-hero-and-the-assassin-princesses-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/142378",
+        "dub": null,
+        "url": "https://www.animegg.org/the-shy-hero-and-the-assassin-princesses-episode-8"
+      },
+      {
+        "ep": 10,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/the-shy-hero-and-the-assassin-princesses-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/142530",
+        "dub": null,
+        "url": "https://www.animegg.org/the-shy-hero-and-the-assassin-princesses-episode-11"
+      }
+    ]
   }
 ]
