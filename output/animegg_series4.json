@@ -5156,5 +5156,93 @@
         "url": "https://www.animegg.org/rokuhoudou-yotsuiro-biyori-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3141,
+    "title": "Pikaia!!",
+    "animegg_url": "https://www.animegg.org/series/pikaia",
+    "mal_url": "https://myanimelist.net/anime/34852",
+    "mal_id": 34852,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/76600",
+        "dub": "https://www.animegg.org/embed/119828",
+        "url": "https://www.animegg.org/pikaia-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/76651",
+        "dub": "https://www.animegg.org/embed/119823",
+        "url": "https://www.animegg.org/pikaia-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/76652",
+        "dub": "https://www.animegg.org/embed/119824",
+        "url": "https://www.animegg.org/pikaia-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/76653",
+        "dub": "https://www.animegg.org/embed/119822",
+        "url": "https://www.animegg.org/pikaia-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/119821",
+        "dub": null,
+        "url": "https://www.animegg.org/pikaia-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/119820",
+        "dub": null,
+        "url": "https://www.animegg.org/pikaia-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/119819",
+        "dub": null,
+        "url": "https://www.animegg.org/pikaia-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/119818",
+        "dub": null,
+        "url": "https://www.animegg.org/pikaia-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/119817",
+        "dub": null,
+        "url": "https://www.animegg.org/pikaia-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/119827",
+        "dub": null,
+        "url": "https://www.animegg.org/pikaia-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/119826",
+        "dub": null,
+        "url": "https://www.animegg.org/pikaia-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/119825",
+        "dub": null,
+        "url": "https://www.animegg.org/pikaia-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/119816",
+        "dub": null,
+        "url": "https://www.animegg.org/pikaia-episode-13"
+      }
+    ]
   }
 ]
