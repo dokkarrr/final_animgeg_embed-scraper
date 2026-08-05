@@ -27778,5 +27778,21 @@
         "url": "https://www.animegg.org/xxxholic-manatsu-no-yoru-no-yume-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6061,
+    "title": "Uta No Prince-Sama Maji Love 2000% Special",
+    "animegg_url": "https://www.animegg.org/series/uta-no-prince-sama-maji-love-2000-special",
+    "mal_url": "https://myanimelist.net/anime/10321",
+    "mal_id": 10321,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2000,
+        "sub": "https://www.animegg.org/embed/77630",
+        "dub": "https://www.animegg.org/embed/77631",
+        "url": "https://www.animegg.org/uta-no-prince-sama-maji-love-2000-special-episode"
+      }
+    ]
   }
 ]
