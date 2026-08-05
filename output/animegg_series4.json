@@ -101966,5 +101966,27 @@
         "url": "https://www.animegg.org/houkago-saikoro-club-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4434,
+    "title": "Sekaiichi Hatsukoi OVA",
+    "animegg_url": "https://www.animegg.org/series/sekaiichi-hatsukoi-ova",
+    "mal_url": "https://myanimelist.net/anime/8063",
+    "mal_id": 8063,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/59985",
+        "dub": null,
+        "url": "https://www.animegg.org/sekaiichi-hatsukoi-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/59986",
+        "dub": null,
+        "url": "https://www.animegg.org/sekaiichi-hatsukoi-ova-episode-2"
+      }
+    ]
   }
 ]
