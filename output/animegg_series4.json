@@ -116106,5 +116106,21 @@
         "url": "https://www.animegg.org/yuuki-bakuhatsu-bang-bravern-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4678,
+    "title": "One Piece: Chopper Kingdom of Strange Animal Island",
+    "animegg_url": "https://www.animegg.org/series/one-piece-chopper-kingdom-of-strange-animal-island",
+    "mal_url": "https://myanimelist.net/anime/461",
+    "mal_id": 461,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/59176",
+        "dub": null,
+        "url": "https://www.animegg.org/one-piece-chopper-kingdom-of-strange-animal-island-episode-1"
+      }
+    ]
   }
 ]
