@@ -111532,5 +111532,21 @@
         "url": "https://www.animegg.org/deji-meets-girl-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4598,
+    "title": "Yebisu Celebrities",
+    "animegg_url": "https://www.animegg.org/series/yebisu-celebrities",
+    "mal_url": "https://myanimelist.net/anime/9232",
+    "mal_id": 9232,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/63303",
+        "dub": null,
+        "url": "https://www.animegg.org/yebisu-celebrities-episode-1"
+      }
+    ]
   }
 ]
