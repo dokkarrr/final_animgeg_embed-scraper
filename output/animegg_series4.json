@@ -13208,5 +13208,123 @@
         "url": "https://www.animegg.org/gurazeni-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3240,
+    "title": "Ao no Hako",
+    "animegg_url": "https://www.animegg.org/series/ao-no-hako",
+    "mal_url": "https://myanimelist.net/anime/57181",
+    "mal_id": 57181,
+    "total_ep": 18,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/137565",
+        "dub": "https://www.animegg.org/embed/140534",
+        "url": "https://www.animegg.org/ao-no-hako-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/137634",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-hako-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/137826",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-hako-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/138093",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-hako-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/138354",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-hako-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/138599",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-hako-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/138801",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-hako-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/138985",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-hako-episode-8"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/139408",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-hako-episode-15"
+      },
+      {
+        "ep": 17,
+        "sub": "https://www.animegg.org/embed/139523",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-hako-episode-17"
+      },
+      {
+        "ep": 18,
+        "sub": "https://www.animegg.org/embed/139633",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-hako-episode-18"
+      },
+      {
+        "ep": 19,
+        "sub": "https://www.animegg.org/embed/139730",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-hako-episode-19"
+      },
+      {
+        "ep": 21,
+        "sub": "https://www.animegg.org/embed/139908",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-hako-episode-21"
+      },
+      {
+        "ep": 22,
+        "sub": "https://www.animegg.org/embed/140004",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-hako-episode-22"
+      },
+      {
+        "ep": 23,
+        "sub": "https://www.animegg.org/embed/140098",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-hako-episode-23"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/140179",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-hako-episode-24"
+      },
+      {
+        "ep": 25,
+        "sub": "https://www.animegg.org/embed/140268",
+        "dub": "https://www.animegg.org/embed/140535",
+        "url": "https://www.animegg.org/ao-no-hako-episode-25"
+      },
+      {
+        "ep": 26,
+        "sub": "https://www.animegg.org/embed/142889",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-hako-episode-26"
+      }
+    ]
   }
 ]
