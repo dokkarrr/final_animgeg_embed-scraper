@@ -3710,5 +3710,21 @@
         "url": "https://www.animegg.org/raimuiro-senkitan-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3120,
+    "title": "Noblesse: Awakening",
+    "animegg_url": "https://www.animegg.org/series/noblesse-awakening",
+    "mal_url": "https://myanimelist.net/anime/32668",
+    "mal_id": 32668,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/80983",
+        "dub": null,
+        "url": "https://www.animegg.org/noblesse-awakening-episode-1"
+      }
+    ]
   }
 ]
