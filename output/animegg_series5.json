@@ -113112,5 +113112,87 @@
         "url": "https://www.animegg.org/adachi-to-shimamura-mini-anime-episode-30"
       }
     ]
+  },
+  {
+    "serial_no": 6850,
+    "title": "Kanojo, Okarishimasu",
+    "animegg_url": "https://www.animegg.org/series/kanojo-okarishimasu-dub",
+    "mal_url": "https://myanimelist.net/anime/40839",
+    "mal_id": 40839,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/123673",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-okarishimasu-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/123669",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-okarishimasu-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/123668",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-okarishimasu-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/123667",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-okarishimasu-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/123666",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-okarishimasu-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/123665",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-okarishimasu-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/123664",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-okarishimasu-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/123663",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-okarishimasu-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/123662",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-okarishimasu-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/123672",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-okarishimasu-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/123671",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-okarishimasu-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/123670",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-okarishimasu-dub-episode-12"
+      }
+    ]
   }
 ]
