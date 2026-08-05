@@ -15780,5 +15780,21 @@
         "url": "https://www.animegg.org/oishinbo-ultimate-vs-supreme-longevity-cooking-confrontation-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5883,
+    "title": "Minami-ke Omatase (OVA)",
+    "animegg_url": "https://www.animegg.org/series/minami-ke-omatase-ova",
+    "mal_url": "https://myanimelist.net/anime/14575",
+    "mal_id": 14575,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/24159",
+        "dub": null,
+        "url": "https://www.animegg.org/minami-ke-omatase-ova-episode-1"
+      }
+    ]
   }
 ]
