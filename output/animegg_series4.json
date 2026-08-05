@@ -91176,5 +91176,45 @@
         "url": "https://www.animegg.org/toradora-bentou-no-gokui-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4285,
+    "title": "Ebiten: Kouritsu Ebisugawa Koukou Tenmonbu Specials",
+    "animegg_url": "https://www.animegg.org/series/ebiten-kouritsu-ebisugawa-koukou-tenmonbu-specials",
+    "mal_url": "https://myanimelist.net/anime/16508",
+    "mal_id": 16508,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/8953",
+        "dub": null,
+        "url": "https://www.animegg.org/ebiten-kouritsu-ebisugawa-koukou-tenmonbu-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/8952",
+        "dub": null,
+        "url": "https://www.animegg.org/ebiten-kouritsu-ebisugawa-koukou-tenmonbu-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/8950",
+        "dub": null,
+        "url": "https://www.animegg.org/ebiten-kouritsu-ebisugawa-koukou-tenmonbu-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/8954",
+        "dub": null,
+        "url": "https://www.animegg.org/ebiten-kouritsu-ebisugawa-koukou-tenmonbu-specials-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/8951",
+        "dub": null,
+        "url": "https://www.animegg.org/ebiten-kouritsu-ebisugawa-koukou-tenmonbu-specials-episode-5"
+      }
+    ]
   }
 ]
