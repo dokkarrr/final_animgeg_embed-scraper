@@ -48348,5 +48348,63 @@
         "url": "https://www.animegg.org/prince-of-tennis-another-story---messages-from-past-and-future-ova-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 3652,
+    "title": "Litchi DE Hikari Club",
+    "animegg_url": "https://www.animegg.org/series/litchi-de-hikari-club",
+    "mal_url": "https://myanimelist.net/anime/15045",
+    "mal_id": 15045,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/21724",
+        "dub": null,
+        "url": "https://www.animegg.org/litchi-de-hikari-club-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/21721",
+        "dub": null,
+        "url": "https://www.animegg.org/litchi-de-hikari-club-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/21723",
+        "dub": null,
+        "url": "https://www.animegg.org/litchi-de-hikari-club-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/21720",
+        "dub": null,
+        "url": "https://www.animegg.org/litchi-de-hikari-club-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/21722",
+        "dub": null,
+        "url": "https://www.animegg.org/litchi-de-hikari-club-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/21725",
+        "dub": null,
+        "url": "https://www.animegg.org/litchi-de-hikari-club-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/21727",
+        "dub": null,
+        "url": "https://www.animegg.org/litchi-de-hikari-club-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/21726",
+        "dub": null,
+        "url": "https://www.animegg.org/litchi-de-hikari-club-episode-8"
+      }
+    ]
   }
 ]
