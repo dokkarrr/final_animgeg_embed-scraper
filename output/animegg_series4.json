@@ -89764,5 +89764,87 @@
         "url": "https://www.animegg.org/armitage-iii-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 4265,
+    "title": "Mobile Suit Gundam: GQuuuuuuX",
+    "animegg_url": "https://www.animegg.org/series/mobile-suit-gundam-gquuuuuux",
+    "mal_url": "https://myanimelist.net/anime/60449",
+    "mal_id": 60449,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/140419",
+        "dub": "https://www.animegg.org/embed/140421",
+        "url": "https://www.animegg.org/mobile-suit-gundam-gquuuuuux-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/140503",
+        "dub": "https://www.animegg.org/embed/140505",
+        "url": "https://www.animegg.org/mobile-suit-gundam-gquuuuuux-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/140588",
+        "dub": "https://www.animegg.org/embed/140589",
+        "url": "https://www.animegg.org/mobile-suit-gundam-gquuuuuux-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/140675",
+        "dub": "https://www.animegg.org/embed/140676",
+        "url": "https://www.animegg.org/mobile-suit-gundam-gquuuuuux-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/140757",
+        "dub": "https://www.animegg.org/embed/140759",
+        "url": "https://www.animegg.org/mobile-suit-gundam-gquuuuuux-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/140881",
+        "dub": null,
+        "url": "https://www.animegg.org/mobile-suit-gundam-gquuuuuux-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/140973",
+        "dub": "https://www.animegg.org/embed/140974",
+        "url": "https://www.animegg.org/mobile-suit-gundam-gquuuuuux-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/141069",
+        "dub": "https://www.animegg.org/embed/141070",
+        "url": "https://www.animegg.org/mobile-suit-gundam-gquuuuuux-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/141177",
+        "dub": "https://www.animegg.org/embed/141180",
+        "url": "https://www.animegg.org/mobile-suit-gundam-gquuuuuux-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/141266",
+        "dub": "https://www.animegg.org/embed/141279",
+        "url": "https://www.animegg.org/mobile-suit-gundam-gquuuuuux-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/141370",
+        "dub": "https://www.animegg.org/embed/141372",
+        "url": "https://www.animegg.org/mobile-suit-gundam-gquuuuuux-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/141449",
+        "dub": "https://www.animegg.org/embed/141467",
+        "url": "https://www.animegg.org/mobile-suit-gundam-gquuuuuux-episode-12"
+      }
+    ]
   }
 ]
