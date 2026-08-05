@@ -18784,5 +18784,21 @@
         "url": "https://www.animegg.org/super-atragon-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 5938,
+    "title": "Galaxy Express 999: Can You Love Like a Mother?!!",
+    "animegg_url": "https://www.animegg.org/series/galaxy-express-999-can-you-love-like-a-mother",
+    "mal_url": "https://myanimelist.net/anime/6735",
+    "mal_id": 6735,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 999,
+        "sub": "https://www.animegg.org/embed/52191",
+        "dub": null,
+        "url": "https://www.animegg.org/galaxy-express-999-can-you-love-like-a-mother-episode-1"
+      }
+    ]
   }
 ]
