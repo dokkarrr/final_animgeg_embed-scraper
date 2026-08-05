@@ -78798,5 +78798,93 @@
         "url": "https://www.animegg.org/mazinkaiser-episode-7"
       }
     ]
+  },
+  {
+    "serial_no": 4099,
+    "title": "Shaman King: Flowers",
+    "animegg_url": "https://www.animegg.org/series/shaman-king-flowers",
+    "mal_url": "https://myanimelist.net/anime/51673",
+    "mal_id": 51673,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/132654",
+        "dub": null,
+        "url": "https://www.animegg.org/shaman-king-flowers-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/132735",
+        "dub": null,
+        "url": "https://www.animegg.org/shaman-king-flowers-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/132868",
+        "dub": null,
+        "url": "https://www.animegg.org/shaman-king-flowers-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/shaman-king-flowers-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/132955",
+        "dub": null,
+        "url": "https://www.animegg.org/shaman-king-flowers-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/133040",
+        "dub": null,
+        "url": "https://www.animegg.org/shaman-king-flowers-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/133119",
+        "dub": null,
+        "url": "https://www.animegg.org/shaman-king-flowers-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/133199",
+        "dub": null,
+        "url": "https://www.animegg.org/shaman-king-flowers-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/133235",
+        "dub": null,
+        "url": "https://www.animegg.org/shaman-king-flowers-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/133372",
+        "dub": null,
+        "url": "https://www.animegg.org/shaman-king-flowers-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/133479",
+        "dub": null,
+        "url": "https://www.animegg.org/shaman-king-flowers-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/133535",
+        "dub": null,
+        "url": "https://www.animegg.org/shaman-king-flowers-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/133579",
+        "dub": null,
+        "url": "https://www.animegg.org/shaman-king-flowers-episode-13"
+      }
+    ]
   }
 ]
