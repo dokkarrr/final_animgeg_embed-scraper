@@ -75138,5 +75138,99 @@
         "url": "https://www.animegg.org/makina-san-s-a-love-bot--episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4036,
+    "title": "Zoids Wild",
+    "animegg_url": "https://www.animegg.org/series/zoids-wild",
+    "mal_url": "https://myanimelist.net/anime/37395",
+    "mal_id": 37395,
+    "total_ep": 14,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/91781",
+        "dub": "https://www.animegg.org/embed/91812",
+        "url": "https://www.animegg.org/zoids-wild-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/91903",
+        "dub": null,
+        "url": "https://www.animegg.org/zoids-wild-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/92054",
+        "dub": null,
+        "url": "https://www.animegg.org/zoids-wild-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/92173",
+        "dub": null,
+        "url": "https://www.animegg.org/zoids-wild-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/92238",
+        "dub": null,
+        "url": "https://www.animegg.org/zoids-wild-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/92410",
+        "dub": null,
+        "url": "https://www.animegg.org/zoids-wild-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/92920",
+        "dub": null,
+        "url": "https://www.animegg.org/zoids-wild-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/zoids-wild-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/zoids-wild-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/zoids-wild-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/zoids-wild-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/zoids-wild-episode-12"
+      },
+      {
+        "ep": 23,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/zoids-wild-episode-23"
+      },
+      {
+        "ep": 50,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/zoids-wild-episode-50"
+      }
+    ]
   }
 ]
