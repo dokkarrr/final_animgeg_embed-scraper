@@ -54614,5 +54614,21 @@
         "url": "https://www.animegg.org/ug-ultimate-girls-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3738,
+    "title": "One Piece: The Curse of the Sacred Sword",
+    "animegg_url": "https://www.animegg.org/series/one-piece-the-curse-of-the-sacred-sword",
+    "mal_url": "https://myanimelist.net/anime/463",
+    "mal_id": 463,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/59082",
+        "dub": null,
+        "url": "https://www.animegg.org/one-piece-the-curse-of-the-sacred-sword-episode-1"
+      }
+    ]
   }
 ]
