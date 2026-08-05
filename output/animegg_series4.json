@@ -65896,5 +65896,75 @@
         "url": "https://www.animegg.org/kuutei-dragons-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3893,
+    "title": "Nadia: Secret of Blue Water Specials",
+    "animegg_url": "https://www.animegg.org/series/nadia-secret-of-blue-water-specials",
+    "mal_url": "https://myanimelist.net/anime/3381",
+    "mal_id": 3381,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/58435",
+        "dub": null,
+        "url": "https://www.animegg.org/nadia-secret-of-blue-water-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/58436",
+        "dub": null,
+        "url": "https://www.animegg.org/nadia-secret-of-blue-water-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/58437",
+        "dub": null,
+        "url": "https://www.animegg.org/nadia-secret-of-blue-water-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/58438",
+        "dub": null,
+        "url": "https://www.animegg.org/nadia-secret-of-blue-water-specials-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/58439",
+        "dub": null,
+        "url": "https://www.animegg.org/nadia-secret-of-blue-water-specials-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/58440",
+        "dub": null,
+        "url": "https://www.animegg.org/nadia-secret-of-blue-water-specials-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/58441",
+        "dub": null,
+        "url": "https://www.animegg.org/nadia-secret-of-blue-water-specials-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/58442",
+        "dub": null,
+        "url": "https://www.animegg.org/nadia-secret-of-blue-water-specials-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/58443",
+        "dub": null,
+        "url": "https://www.animegg.org/nadia-secret-of-blue-water-specials-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/58444",
+        "dub": null,
+        "url": "https://www.animegg.org/nadia-secret-of-blue-water-specials-episode-10"
+      }
+    ]
   }
 ]
