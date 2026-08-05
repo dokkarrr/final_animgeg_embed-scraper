@@ -136797,5 +136797,21 @@
         "url": "https://www.animegg.org/tenpou-ibun-ayakashi-ayashi-inferno-ova-episode-5"
       }
     ]
+  },
+  {
+    "serial_no": 4976,
+    "title": "Gintama: Yorinuki Gintama-san on Theater 2D",
+    "animegg_url": "https://www.animegg.org/series/gintama-yorinuki-gintama-san-on-theater-2d",
+    "mal_url": "https://myanimelist.net/anime/21899",
+    "mal_id": 21899,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/45112",
+        "dub": null,
+        "url": "https://www.animegg.org/gintama-yorinuki-gintama-san-on-theater-2d-episode-1"
+      }
+    ]
   }
 ]
