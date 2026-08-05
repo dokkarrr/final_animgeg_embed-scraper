@@ -137309,5 +137309,27 @@
         "url": "https://www.animegg.org/kara-no-kyoukai-3-tsuukaku-zanryuu-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4987,
+    "title": "Initial D Battle Stage 2",
+    "animegg_url": "https://www.animegg.org/series/initial-d-battle-stage-2",
+    "mal_url": "https://myanimelist.net/anime/3931",
+    "mal_id": 3931,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/54179",
+        "dub": null,
+        "url": "https://www.animegg.org/initial-d-battle-stage-2-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/54178",
+        "dub": null,
+        "url": "https://www.animegg.org/initial-d-battle-stage-2-episode-1"
+      }
+    ]
   }
 ]
