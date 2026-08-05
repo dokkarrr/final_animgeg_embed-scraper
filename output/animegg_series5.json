@@ -53323,5 +53323,27 @@
         "url": "https://www.animegg.org/himesama-goumon-no-jikan-desu-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 6337,
+    "title": "Soutai Sekai",
+    "animegg_url": "https://www.animegg.org/series/soutai-sekai",
+    "mal_url": "https://myanimelist.net/anime/35255",
+    "mal_id": 35255,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/86772",
+        "dub": null,
+        "url": "https://www.animegg.org/soutai-sekai-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/91260",
+        "dub": null,
+        "url": "https://www.animegg.org/soutai-sekai-episode-2"
+      }
+    ]
   }
 ]
