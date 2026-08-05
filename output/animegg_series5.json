@@ -55753,5 +55753,21 @@
         "url": "https://www.animegg.org/86-part-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6361,
+    "title": "Tabisuru Nuigurumi: Traveling Daru",
+    "animegg_url": "https://www.animegg.org/series/tabisuru-nuigurumi-traveling-daru",
+    "mal_url": "https://myanimelist.net/anime/15077",
+    "mal_id": 15077,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/36970",
+        "dub": null,
+        "url": "https://www.animegg.org/tabisuru-nuigurumi-traveling-daru-episode-1"
+      }
+    ]
   }
 ]
