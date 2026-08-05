@@ -123962,5 +123962,75 @@
         "url": "https://www.animegg.org/seiyuu-radio-no-uraomote-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4797,
+    "title": "Chou Shounen Tanteidan Neo",
+    "animegg_url": "https://www.animegg.org/series/chou-shounen-tanteidan-neo",
+    "mal_url": "https://myanimelist.net/anime/32830",
+    "mal_id": 32830,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/85339",
+        "dub": "https://www.animegg.org/embed/85343",
+        "url": "https://www.animegg.org/chou-shounen-tanteidan-neo-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/85506",
+        "dub": null,
+        "url": "https://www.animegg.org/chou-shounen-tanteidan-neo-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/chou-shounen-tanteidan-neo-episode-3"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/chou-shounen-tanteidan-neo-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/chou-shounen-tanteidan-neo-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/chou-shounen-tanteidan-neo-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/chou-shounen-tanteidan-neo-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/chou-shounen-tanteidan-neo-episode-9"
+      },
+      {
+        "ep": 12,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/chou-shounen-tanteidan-neo-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/chou-shounen-tanteidan-neo-episode-13"
+      }
+    ]
   }
 ]
