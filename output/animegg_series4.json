@@ -134124,5 +134124,21 @@
         "url": "https://www.animegg.org/kimi-no-iru-machi-tasogare-kousaten-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 4939,
+    "title": "Gundam F91",
+    "animegg_url": "https://www.animegg.org/series/gundam-f91",
+    "mal_url": "https://myanimelist.net/anime/88",
+    "mal_id": 88,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 91,
+        "sub": "https://www.animegg.org/embed/52188",
+        "dub": "https://www.animegg.org/embed/52189",
+        "url": "https://www.animegg.org/gundam-f91-episode-1"
+      }
+    ]
   }
 ]
