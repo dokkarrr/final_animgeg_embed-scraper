@@ -85602,5 +85602,21 @@
         "url": "https://www.animegg.org/mobile-suit-gundam-the-08th-ms-team---a-battle-with-the-third-dimension-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4192,
+    "title": "Detective Conan Movie 19: The Hellfire Sunflowers",
+    "animegg_url": "https://www.animegg.org/series/detective-conan-movie-19-the-hellfire-sunflowers",
+    "mal_url": "https://myanimelist.net/anime/28479",
+    "mal_id": 28479,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 19,
+        "sub": "https://www.animegg.org/embed/79869",
+        "dub": null,
+        "url": "https://www.animegg.org/detective-conan-movie-19-the-hellfire-sunflowers-episode-1"
+      }
+    ]
   }
 ]
