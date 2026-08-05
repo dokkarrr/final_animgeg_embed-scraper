@@ -86528,5 +86528,21 @@
         "url": "https://www.animegg.org/heroine-tarumono-kiraware-heroine-to-naisho-no-oshigoto-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4209,
+    "title": "Dragon Ball Z Movie 06: The Return of Cooler",
+    "animegg_url": "https://www.animegg.org/series/dragon-ball-z-movie-06-the-return-of-cooler",
+    "mal_url": "https://myanimelist.net/anime/899",
+    "mal_id": 899,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/49767",
+        "dub": null,
+        "url": "https://www.animegg.org/dragon-ball-z-movie-06-the-return-of-cooler-episode-1-1"
+      }
+    ]
   }
 ]
