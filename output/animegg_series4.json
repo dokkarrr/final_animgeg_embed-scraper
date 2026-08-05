@@ -118142,5 +118142,45 @@
         "url": "https://www.animegg.org/tales-of-phantasia-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 4713,
+    "title": "Takopi's Original Sin",
+    "animegg_url": "https://www.animegg.org/series/takopi-s-original-sin",
+    "mal_url": "https://myanimelist.net/anime/64266",
+    "mal_id": 64266,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/141475",
+        "dub": "https://www.animegg.org/embed/144324",
+        "url": "https://www.animegg.org/takopi-s-original-sin-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/141559",
+        "dub": null,
+        "url": "https://www.animegg.org/takopi-s-original-sin-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/141664",
+        "dub": null,
+        "url": "https://www.animegg.org/takopi-s-original-sin-episode-3"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/141886",
+        "dub": null,
+        "url": "https://www.animegg.org/takopi-s-original-sin-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/142012",
+        "dub": "https://www.animegg.org/embed/144323",
+        "url": "https://www.animegg.org/takopi-s-original-sin-episode-6"
+      }
+    ]
   }
 ]
