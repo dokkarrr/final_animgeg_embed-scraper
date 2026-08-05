@@ -1012,5 +1012,21 @@
         "url": "https://www.animegg.org/musaigen-no-phantom-world-special-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5630,
+    "title": "Dantalian no Shoka: Ibarahime",
+    "animegg_url": "https://www.animegg.org/series/dantalian-no-shoka-ibarahime",
+    "mal_url": "https://myanimelist.net/anime/12879",
+    "mal_id": 12879,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/7248",
+        "dub": null,
+        "url": "https://www.animegg.org/dantalian-no-shoka-ibarahime-episode-1"
+      }
+    ]
   }
 ]
