@@ -25714,5 +25714,87 @@
         "url": "https://www.animegg.org/hani-hani-operation-sanctuary-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3371,
+    "title": "Hurricane Polymar",
+    "animegg_url": "https://www.animegg.org/series/hurricane-polymar",
+    "mal_url": "https://myanimelist.net/anime/4808",
+    "mal_id": 4808,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/53438",
+        "dub": null,
+        "url": "https://www.animegg.org/hurricane-polymar-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/53439",
+        "dub": null,
+        "url": "https://www.animegg.org/hurricane-polymar-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/53440",
+        "dub": null,
+        "url": "https://www.animegg.org/hurricane-polymar-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/53441",
+        "dub": null,
+        "url": "https://www.animegg.org/hurricane-polymar-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/53442",
+        "dub": null,
+        "url": "https://www.animegg.org/hurricane-polymar-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/53443",
+        "dub": null,
+        "url": "https://www.animegg.org/hurricane-polymar-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/53444",
+        "dub": null,
+        "url": "https://www.animegg.org/hurricane-polymar-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/53445",
+        "dub": null,
+        "url": "https://www.animegg.org/hurricane-polymar-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/53446",
+        "dub": null,
+        "url": "https://www.animegg.org/hurricane-polymar-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/53447",
+        "dub": null,
+        "url": "https://www.animegg.org/hurricane-polymar-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/53448",
+        "dub": null,
+        "url": "https://www.animegg.org/hurricane-polymar-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/53449",
+        "dub": null,
+        "url": "https://www.animegg.org/hurricane-polymar-episode-12"
+      }
+    ]
   }
 ]
