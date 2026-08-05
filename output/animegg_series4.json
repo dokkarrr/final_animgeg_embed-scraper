@@ -93138,5 +93138,21 @@
         "url": "https://www.animegg.org/fullmetal-alchemist-the-sacred-star-of-milos-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4303,
+    "title": "Dragon Ball Z Movie 03: The Tree of Might",
+    "animegg_url": "https://www.animegg.org/series/dragon-ball-z-movie-03-the-tree-of-might",
+    "mal_url": "https://myanimelist.net/anime/896",
+    "mal_id": 896,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/49764",
+        "dub": null,
+        "url": "https://www.animegg.org/dragon-ball-z-movie-03-the-tree-of-might-episode-1"
+      }
+    ]
   }
 ]
