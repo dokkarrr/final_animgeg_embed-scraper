@@ -15284,5 +15284,39 @@
         "url": "https://www.animegg.org/7-seeds-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3249,
+    "title": "Bludgeoning Angel Dokuro-chan",
+    "animegg_url": "https://www.animegg.org/series/bludgeoning-angel-dokuro-chan",
+    "mal_url": "https://myanimelist.net/anime/357",
+    "mal_id": 357,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/4238",
+        "dub": "https://www.animegg.org/embed/68534",
+        "url": "https://www.animegg.org/bludgeoning-angel-dokuro-chan-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/4237",
+        "dub": "https://www.animegg.org/embed/68540",
+        "url": "https://www.animegg.org/bludgeoning-angel-dokuro-chan-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/4236",
+        "dub": "https://www.animegg.org/embed/68542",
+        "url": "https://www.animegg.org/bludgeoning-angel-dokuro-chan-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/4235",
+        "dub": "https://www.animegg.org/embed/68543",
+        "url": "https://www.animegg.org/bludgeoning-angel-dokuro-chan-episode-4"
+      }
+    ]
   }
 ]
