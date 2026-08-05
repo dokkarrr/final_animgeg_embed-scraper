@@ -21722,5 +21722,27 @@
         "url": "https://www.animegg.org/kurayami-santa-episode-14"
       }
     ]
+  },
+  {
+    "serial_no": 3330,
+    "title": "Ikoku Irokoi Romantan",
+    "animegg_url": "https://www.animegg.org/series/ikoku-irokoi-romantan",
+    "mal_url": "https://myanimelist.net/anime/3210",
+    "mal_id": 3210,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/54048",
+        "dub": null,
+        "url": "https://www.animegg.org/ikoku-irokoi-romantan-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/54049",
+        "dub": null,
+        "url": "https://www.animegg.org/ikoku-irokoi-romantan-episode-2"
+      }
+    ]
   }
 ]
