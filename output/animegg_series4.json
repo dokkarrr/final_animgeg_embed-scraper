@@ -41250,5 +41250,87 @@
         "url": "https://www.animegg.org/the-reflection-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3559,
+    "title": "Hisone to Maso-tan",
+    "animegg_url": "https://www.animegg.org/series/hisone-to-maso-tan",
+    "mal_url": "https://myanimelist.net/anime/36884",
+    "mal_id": 36884,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/90767",
+        "dub": null,
+        "url": "https://www.animegg.org/hisone-to-maso-tan-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/90848",
+        "dub": null,
+        "url": "https://www.animegg.org/hisone-to-maso-tan-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/90940",
+        "dub": null,
+        "url": "https://www.animegg.org/hisone-to-maso-tan-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/91197",
+        "dub": null,
+        "url": "https://www.animegg.org/hisone-to-maso-tan-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/91198",
+        "dub": null,
+        "url": "https://www.animegg.org/hisone-to-maso-tan-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/91213",
+        "dub": null,
+        "url": "https://www.animegg.org/hisone-to-maso-tan-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/91305",
+        "dub": null,
+        "url": "https://www.animegg.org/hisone-to-maso-tan-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/91389",
+        "dub": null,
+        "url": "https://www.animegg.org/hisone-to-maso-tan-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/91481",
+        "dub": null,
+        "url": "https://www.animegg.org/hisone-to-maso-tan-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/91566",
+        "dub": null,
+        "url": "https://www.animegg.org/hisone-to-maso-tan-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/91627",
+        "dub": null,
+        "url": "https://www.animegg.org/hisone-to-maso-tan-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/91718",
+        "dub": null,
+        "url": "https://www.animegg.org/hisone-to-maso-tan-episode-12"
+      }
+    ]
   }
 ]
