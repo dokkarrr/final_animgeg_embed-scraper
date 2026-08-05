@@ -129716,5 +129716,51 @@
         "url": "https://www.animegg.org/only-yesterday-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4878,
+    "title": "Saber Marionette J Again",
+    "animegg_url": "https://www.animegg.org/series/saber-marionette-j-again",
+    "mal_url": "https://myanimelist.net/anime/1191",
+    "mal_id": 1191,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/71132",
+        "dub": null,
+        "url": "https://www.animegg.org/saber-marionette-j-again-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/71134",
+        "dub": null,
+        "url": "https://www.animegg.org/saber-marionette-j-again-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/71135",
+        "dub": null,
+        "url": "https://www.animegg.org/saber-marionette-j-again-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/71137",
+        "dub": null,
+        "url": "https://www.animegg.org/saber-marionette-j-again-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/71140",
+        "dub": null,
+        "url": "https://www.animegg.org/saber-marionette-j-again-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/71142",
+        "dub": null,
+        "url": "https://www.animegg.org/saber-marionette-j-again-episode-6"
+      }
+    ]
   }
 ]
