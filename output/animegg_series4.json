@@ -75056,5 +75056,87 @@
         "url": "https://www.animegg.org/papa-no-iukoto-wo-kikinasai-ova-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 4035,
+    "title": "Makina-san's a Love Bot?!",
+    "animegg_url": "https://www.animegg.org/series/makina-san-s-a-love-bot-",
+    "mal_url": "https://myanimelist.net/anime/58833",
+    "mal_id": 58833,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/140495",
+        "dub": "https://www.animegg.org/embed/140743",
+        "url": "https://www.animegg.org/makina-san-s-a-love-bot--episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/141547",
+        "dub": null,
+        "url": "https://www.animegg.org/makina-san-s-a-love-bot--episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/140884",
+        "dub": "https://www.animegg.org/embed/141548",
+        "url": "https://www.animegg.org/makina-san-s-a-love-bot--episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/140690",
+        "dub": "https://www.animegg.org/embed/140988",
+        "url": "https://www.animegg.org/makina-san-s-a-love-bot--episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/140742",
+        "dub": "https://www.animegg.org/embed/141184",
+        "url": "https://www.animegg.org/makina-san-s-a-love-bot--episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/140845",
+        "dub": "https://www.animegg.org/embed/141183",
+        "url": "https://www.animegg.org/makina-san-s-a-love-bot--episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/140952",
+        "dub": "https://www.animegg.org/embed/141267",
+        "url": "https://www.animegg.org/makina-san-s-a-love-bot--episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/141045",
+        "dub": "https://www.animegg.org/embed/141377",
+        "url": "https://www.animegg.org/makina-san-s-a-love-bot--episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/141162",
+        "dub": "https://www.animegg.org/embed/141460",
+        "url": "https://www.animegg.org/makina-san-s-a-love-bot--episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/141242",
+        "dub": null,
+        "url": "https://www.animegg.org/makina-san-s-a-love-bot--episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/141352",
+        "dub": null,
+        "url": "https://www.animegg.org/makina-san-s-a-love-bot--episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/141437",
+        "dub": "https://www.animegg.org/embed/141983",
+        "url": "https://www.animegg.org/makina-san-s-a-love-bot--episode-12"
+      }
+    ]
   }
 ]
