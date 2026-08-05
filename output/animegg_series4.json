@@ -73734,5 +73734,87 @@
         "url": "https://www.animegg.org/kyoukai-senki-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 4015,
+    "title": "Ongaku Shoujo (TV)",
+    "animegg_url": "https://www.animegg.org/series/ongaku-shoujo-tv",
+    "mal_url": "https://myanimelist.net/anime/37481",
+    "mal_id": 37481,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/91773",
+        "dub": "https://www.animegg.org/embed/91790",
+        "url": "https://www.animegg.org/ongaku-shoujo-tv-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/91852",
+        "dub": null,
+        "url": "https://www.animegg.org/ongaku-shoujo-tv-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/91978",
+        "dub": null,
+        "url": "https://www.animegg.org/ongaku-shoujo-tv-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/92064",
+        "dub": null,
+        "url": "https://www.animegg.org/ongaku-shoujo-tv-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/92182",
+        "dub": null,
+        "url": "https://www.animegg.org/ongaku-shoujo-tv-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/92256",
+        "dub": null,
+        "url": "https://www.animegg.org/ongaku-shoujo-tv-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/92415",
+        "dub": null,
+        "url": "https://www.animegg.org/ongaku-shoujo-tv-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/92596",
+        "dub": null,
+        "url": "https://www.animegg.org/ongaku-shoujo-tv-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/92705",
+        "dub": null,
+        "url": "https://www.animegg.org/ongaku-shoujo-tv-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/92800",
+        "dub": null,
+        "url": "https://www.animegg.org/ongaku-shoujo-tv-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/92872",
+        "dub": null,
+        "url": "https://www.animegg.org/ongaku-shoujo-tv-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/92978",
+        "dub": null,
+        "url": "https://www.animegg.org/ongaku-shoujo-tv-episode-12"
+      }
+    ]
   }
 ]
