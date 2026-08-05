@@ -87478,5 +87478,63 @@
         "url": "https://www.animegg.org/pikotarou-no-lullaby-lullaby-episode-9"
       }
     ]
+  },
+  {
+    "serial_no": 4226,
+    "title": "Ooi! Tonbo 2nd Season",
+    "animegg_url": "https://www.animegg.org/series/ooi-tonbo-2nd-season",
+    "mal_url": "https://myanimelist.net/anime/59175",
+    "mal_id": 59175,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/139210",
+        "dub": null,
+        "url": "https://www.animegg.org/ooi-tonbo-2nd-season-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/139032",
+        "dub": null,
+        "url": "https://www.animegg.org/ooi-tonbo-2nd-season-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/138833",
+        "dub": null,
+        "url": "https://www.animegg.org/ooi-tonbo-2nd-season-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/138603",
+        "dub": null,
+        "url": "https://www.animegg.org/ooi-tonbo-2nd-season-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/138409",
+        "dub": null,
+        "url": "https://www.animegg.org/ooi-tonbo-2nd-season-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/138143",
+        "dub": null,
+        "url": "https://www.animegg.org/ooi-tonbo-2nd-season-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/137892",
+        "dub": null,
+        "url": "https://www.animegg.org/ooi-tonbo-2nd-season-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/137629",
+        "dub": null,
+        "url": "https://www.animegg.org/ooi-tonbo-2nd-season-episode-1"
+      }
+    ]
   }
 ]
