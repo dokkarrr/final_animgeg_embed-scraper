@@ -77223,5 +77223,51 @@
         "url": "https://www.animegg.org/nihon-e-youkoso-elf-san-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 6545,
+    "title": "Yesterday wo Utatte Haishin-ban Episode",
+    "animegg_url": "https://www.animegg.org/series/yesterday-wo-utatte-haishin-ban-episode",
+    "mal_url": "https://myanimelist.net/anime/41660",
+    "mal_id": 41660,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/98804",
+        "dub": null,
+        "url": "https://www.animegg.org/yesterday-wo-utatte-haishin-ban-episode-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/98812",
+        "dub": null,
+        "url": "https://www.animegg.org/yesterday-wo-utatte-haishin-ban-episode-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/98813",
+        "dub": null,
+        "url": "https://www.animegg.org/yesterday-wo-utatte-haishin-ban-episode-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/98814",
+        "dub": null,
+        "url": "https://www.animegg.org/yesterday-wo-utatte-haishin-ban-episode-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/98815",
+        "dub": null,
+        "url": "https://www.animegg.org/yesterday-wo-utatte-haishin-ban-episode-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/98805",
+        "dub": null,
+        "url": "https://www.animegg.org/yesterday-wo-utatte-haishin-ban-episode-episode-6"
+      }
+    ]
   }
 ]
