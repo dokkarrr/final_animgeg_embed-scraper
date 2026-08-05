@@ -102706,5 +102706,93 @@
         "url": "https://www.animegg.org/sumiko-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 4445,
+    "title": "Hanma Baki: Son of Ogre 2nd Season",
+    "animegg_url": "https://www.animegg.org/series/hanma-baki-son-of-ogre-2nd-season",
+    "mal_url": "https://myanimelist.net/anime/51318",
+    "mal_id": 51318,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/hanma-baki-son-of-ogre-2nd-season-episode-27"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/hanma-baki-son-of-ogre-2nd-season-episode-14"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/130585",
+        "dub": "https://www.animegg.org/embed/130592",
+        "url": "https://www.animegg.org/hanma-baki-son-of-ogre-2nd-season-episode-13"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/hanma-baki-son-of-ogre-2nd-season-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/130584",
+        "dub": null,
+        "url": "https://www.animegg.org/hanma-baki-son-of-ogre-2nd-season-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/130583",
+        "dub": "https://www.animegg.org/embed/130591",
+        "url": "https://www.animegg.org/hanma-baki-son-of-ogre-2nd-season-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/130582",
+        "dub": "https://www.animegg.org/embed/130590",
+        "url": "https://www.animegg.org/hanma-baki-son-of-ogre-2nd-season-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/130581",
+        "dub": "https://www.animegg.org/embed/130589",
+        "url": "https://www.animegg.org/hanma-baki-son-of-ogre-2nd-season-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/130577",
+        "dub": null,
+        "url": "https://www.animegg.org/hanma-baki-son-of-ogre-2nd-season-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/130578",
+        "dub": "https://www.animegg.org/embed/130588",
+        "url": "https://www.animegg.org/hanma-baki-son-of-ogre-2nd-season-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/130579",
+        "dub": null,
+        "url": "https://www.animegg.org/hanma-baki-son-of-ogre-2nd-season-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/130580",
+        "dub": "https://www.animegg.org/embed/130587",
+        "url": "https://www.animegg.org/hanma-baki-son-of-ogre-2nd-season-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/130576",
+        "dub": "https://www.animegg.org/embed/130586",
+        "url": "https://www.animegg.org/hanma-baki-son-of-ogre-2nd-season-episode-1"
+      }
+    ]
   }
 ]
