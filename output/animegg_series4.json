@@ -99898,5 +99898,21 @@
         "url": "https://www.animegg.org/gal-to-kyouryuu-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4397,
+    "title": "Kindaichi Shounen no Jikenbo Returns: Akechi Keibu no Jikenbo",
+    "animegg_url": "https://www.animegg.org/series/kindaichi-shounen-no-jikenbo-returns-akechi-keibu-no-jikenbo",
+    "mal_url": "https://myanimelist.net/anime/31227",
+    "mal_id": 31227,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/80491",
+        "dub": null,
+        "url": "https://www.animegg.org/kindaichi-shounen-no-jikenbo-returns-akechi-keibu-no-jikenbo-episode-1"
+      }
+    ]
   }
 ]
