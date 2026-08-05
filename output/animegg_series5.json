@@ -5964,5 +5964,21 @@
         "url": "https://www.animegg.org/hamtaro-movie-1-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5707,
+    "title": "Minami Kamakura Koukou Joshi Jitensha-bu: Kita yo, Taiwan!",
+    "animegg_url": "https://www.animegg.org/series/minami-kamakura-koukou-joshi-jitensha-bu-kita-yo-taiwan",
+    "mal_url": "https://myanimelist.net/anime/34734",
+    "mal_id": 34734,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/86947",
+        "dub": null,
+        "url": "https://www.animegg.org/minami-kamakura-koukou-joshi-jitensha-bu-kita-yo-taiwan-episode-1"
+      }
+    ]
   }
 ]
