@@ -18038,5 +18038,21 @@
         "url": "https://www.animegg.org/space-pirate-captain-harlock-the-mystery-of-arcadia-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5921,
+    "title": "Hikaru no Go: New Year Special",
+    "animegg_url": "https://www.animegg.org/series/hikaru-no-go-new-year-special",
+    "mal_url": "https://myanimelist.net/anime/2336",
+    "mal_id": 2336,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/53429",
+        "dub": null,
+        "url": "https://www.animegg.org/hikaru-no-go-new-year-special-episode-1"
+      }
+    ]
   }
 ]
