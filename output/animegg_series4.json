@@ -116764,5 +116764,33 @@
         "url": "https://www.animegg.org/ani-ni-tsukeru-kusuri-wa-nai-3-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4691,
+    "title": "Harukanaru Toki no Naka de 2: Shiroki Ryuu no Miko",
+    "animegg_url": "https://www.animegg.org/series/harukanaru-toki-no-naka-de-2-shiroki-ryuu-no-miko",
+    "mal_url": "https://myanimelist.net/anime/1904",
+    "mal_id": 1904,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/53114",
+        "dub": null,
+        "url": "https://www.animegg.org/harukanaru-toki-no-naka-de-2-shiroki-ryuu-no-miko-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/53113",
+        "dub": null,
+        "url": "https://www.animegg.org/harukanaru-toki-no-naka-de-2-shiroki-ryuu-no-miko-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/53112",
+        "dub": null,
+        "url": "https://www.animegg.org/harukanaru-toki-no-naka-de-2-shiroki-ryuu-no-miko-episode-1"
+      }
+    ]
   }
 ]
