@@ -13469,5 +13469,21 @@
         "url": "https://www.animegg.org/macross-flash-back-2012-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5827,
+    "title": "Legend of Crystania: The Motion Picture",
+    "animegg_url": "https://www.animegg.org/series/legend-of-crystania-the-motion-picture",
+    "mal_url": "https://myanimelist.net/anime/515",
+    "mal_id": 515,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/55149",
+        "dub": "https://www.animegg.org/embed/55150",
+        "url": "https://www.animegg.org/legend-of-crystania-the-motion-picture-episode-1"
+      }
+    ]
   }
 ]
