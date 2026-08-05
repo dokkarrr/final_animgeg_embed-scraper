@@ -85618,5 +85618,21 @@
         "url": "https://www.animegg.org/detective-conan-movie-19-the-hellfire-sunflowers-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4193,
+    "title": "Mob Psycho 100 Reigen: Shirarezaru Kiseki no Reinouryokusha",
+    "animegg_url": "https://www.animegg.org/series/mob-psycho-100-reigen-shirarezaru-kiseki-no-reinouryokusha",
+    "mal_url": "https://myanimelist.net/anime/36616",
+    "mal_id": 36616,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 100,
+        "sub": "https://www.animegg.org/embed/90452",
+        "dub": null,
+        "url": "https://www.animegg.org/mob-psycho-100-reigen-shirarezaru-kiseki-no-reinouryokusha-episode-1"
+      }
+    ]
   }
 ]
