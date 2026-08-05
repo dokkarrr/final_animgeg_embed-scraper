@@ -89088,5 +89088,63 @@
         "url": "https://www.animegg.org/saint-seiya-saintia-shou-episode-11"
       }
     ]
+  },
+  {
+    "serial_no": 4252,
+    "title": "Kikansha no Mahou wa Tokubetsu desu",
+    "animegg_url": "https://www.animegg.org/series/kikansha-no-mahou-wa-tokubetsu-desu",
+    "mal_url": "https://myanimelist.net/anime/54852",
+    "mal_id": 54852,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/131662",
+        "dub": "https://www.animegg.org/embed/131895",
+        "url": "https://www.animegg.org/kikansha-no-mahou-wa-tokubetsu-desu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/131784",
+        "dub": "https://www.animegg.org/embed/132010",
+        "url": "https://www.animegg.org/kikansha-no-mahou-wa-tokubetsu-desu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/132109",
+        "dub": null,
+        "url": "https://www.animegg.org/kikansha-no-mahou-wa-tokubetsu-desu-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/131999",
+        "dub": "https://www.animegg.org/embed/132179",
+        "url": "https://www.animegg.org/kikansha-no-mahou-wa-tokubetsu-desu-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/132300",
+        "dub": null,
+        "url": "https://www.animegg.org/kikansha-no-mahou-wa-tokubetsu-desu-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kikansha-no-mahou-wa-tokubetsu-desu-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/132282",
+        "dub": null,
+        "url": "https://www.animegg.org/kikansha-no-mahou-wa-tokubetsu-desu-episode-7"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/132528",
+        "dub": null,
+        "url": "https://www.animegg.org/kikansha-no-mahou-wa-tokubetsu-desu-episode-12"
+      }
+    ]
   }
 ]
