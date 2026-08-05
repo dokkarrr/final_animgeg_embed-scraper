@@ -103546,5 +103546,21 @@
         "url": "https://www.animegg.org/afro-samurai-resurrection-movie-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4463,
+    "title": "Naruto: Find the Crimson Four-leaf Clover!",
+    "animegg_url": "https://www.animegg.org/series/naruto-find-the-crimson-four-leaf-clover",
+    "mal_url": "https://myanimelist.net/anime/761",
+    "mal_id": 761,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/58743",
+        "dub": null,
+        "url": "https://www.animegg.org/naruto-find-the-crimson-four-leaf-clover-episode-1"
+      }
+    ]
   }
 ]
