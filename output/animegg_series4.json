@@ -101094,5 +101094,51 @@
         "url": "https://www.animegg.org/busou-chuugakusei-basket-army-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 4417,
+    "title": "RoboMasters the Animated Series",
+    "animegg_url": "https://www.animegg.org/series/robomasters-the-animated-series",
+    "mal_url": "https://myanimelist.net/anime/34903",
+    "mal_id": 34903,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/88853",
+        "dub": null,
+        "url": "https://www.animegg.org/robomasters-the-animated-series-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/88854",
+        "dub": null,
+        "url": "https://www.animegg.org/robomasters-the-animated-series-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/89601",
+        "dub": null,
+        "url": "https://www.animegg.org/robomasters-the-animated-series-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/89774",
+        "dub": null,
+        "url": "https://www.animegg.org/robomasters-the-animated-series-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/89922",
+        "dub": null,
+        "url": "https://www.animegg.org/robomasters-the-animated-series-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/90085",
+        "dub": null,
+        "url": "https://www.animegg.org/robomasters-the-animated-series-episode-6"
+      }
+    ]
   }
 ]
