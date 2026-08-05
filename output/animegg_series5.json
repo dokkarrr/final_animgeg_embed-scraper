@@ -17830,5 +17830,21 @@
         "url": "https://www.animegg.org/precure-all-stars-new-stage-2-kokoro-no-tomodachi-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5917,
+    "title": "Lupin III: The Hemingway Paper Mystery",
+    "animegg_url": "https://www.animegg.org/series/lupin-iii-the-hemingway-paper-mystery",
+    "mal_url": "https://myanimelist.net/anime/1421",
+    "mal_id": 1421,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/56132",
+        "dub": null,
+        "url": "https://www.animegg.org/lupin-iii-the-hemingway-paper-mystery-episode-1"
+      }
+    ]
   }
 ]
