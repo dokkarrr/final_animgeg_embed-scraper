@@ -27068,5 +27068,87 @@
         "url": "https://www.animegg.org/double-decker-doug-kirill-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3390,
+    "title": "Yubisaki to Renren",
+    "animegg_url": "https://www.animegg.org/series/yubisaki-to-renren",
+    "mal_url": "https://myanimelist.net/anime/55866",
+    "mal_id": 55866,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/132615",
+        "dub": null,
+        "url": "https://www.animegg.org/yubisaki-to-renren-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/132678",
+        "dub": null,
+        "url": "https://www.animegg.org/yubisaki-to-renren-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/132761",
+        "dub": null,
+        "url": "https://www.animegg.org/yubisaki-to-renren-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/132834",
+        "dub": null,
+        "url": "https://www.animegg.org/yubisaki-to-renren-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/yubisaki-to-renren-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/132920",
+        "dub": null,
+        "url": "https://www.animegg.org/yubisaki-to-renren-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/132996",
+        "dub": null,
+        "url": "https://www.animegg.org/yubisaki-to-renren-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/133083",
+        "dub": null,
+        "url": "https://www.animegg.org/yubisaki-to-renren-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/133160",
+        "dub": null,
+        "url": "https://www.animegg.org/yubisaki-to-renren-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/133242",
+        "dub": null,
+        "url": "https://www.animegg.org/yubisaki-to-renren-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/133324",
+        "dub": null,
+        "url": "https://www.animegg.org/yubisaki-to-renren-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/133421",
+        "dub": null,
+        "url": "https://www.animegg.org/yubisaki-to-renren-episode-12"
+      }
+    ]
   }
 ]
