@@ -135899,5 +135899,87 @@
         "url": "https://www.animegg.org/return-of-the-immortal-episode-225"
       }
     ]
+  },
+  {
+    "serial_no": 4966,
+    "title": "Virtual-san wa Miteiru",
+    "animegg_url": "https://www.animegg.org/series/virtual-san-wa-miteiru",
+    "mal_url": "https://myanimelist.net/anime/38851",
+    "mal_id": 38851,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/94220",
+        "dub": null,
+        "url": "https://www.animegg.org/virtual-san-wa-miteiru-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/94309",
+        "dub": null,
+        "url": "https://www.animegg.org/virtual-san-wa-miteiru-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/94310",
+        "dub": null,
+        "url": "https://www.animegg.org/virtual-san-wa-miteiru-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/94373",
+        "dub": null,
+        "url": "https://www.animegg.org/virtual-san-wa-miteiru-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/94439",
+        "dub": null,
+        "url": "https://www.animegg.org/virtual-san-wa-miteiru-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/94504",
+        "dub": null,
+        "url": "https://www.animegg.org/virtual-san-wa-miteiru-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/94571",
+        "dub": null,
+        "url": "https://www.animegg.org/virtual-san-wa-miteiru-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/94645",
+        "dub": null,
+        "url": "https://www.animegg.org/virtual-san-wa-miteiru-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/94710",
+        "dub": null,
+        "url": "https://www.animegg.org/virtual-san-wa-miteiru-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/94771",
+        "dub": null,
+        "url": "https://www.animegg.org/virtual-san-wa-miteiru-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/94837",
+        "dub": null,
+        "url": "https://www.animegg.org/virtual-san-wa-miteiru-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/94931",
+        "dub": null,
+        "url": "https://www.animegg.org/virtual-san-wa-miteiru-episode-12"
+      }
+    ]
   }
 ]
