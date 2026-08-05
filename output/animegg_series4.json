@@ -59672,5 +59672,87 @@
         "url": "https://www.animegg.org/higurashi-no-naku-koro-ni-kira-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 3813,
+    "title": "Nige Jouzu no Wakagimi",
+    "animegg_url": "https://www.animegg.org/series/nige-jouzu-no-wakagimi",
+    "mal_url": "https://myanimelist.net/anime/54724",
+    "mal_id": 54724,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/135455",
+        "dub": null,
+        "url": "https://www.animegg.org/nige-jouzu-no-wakagimi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/135580",
+        "dub": null,
+        "url": "https://www.animegg.org/nige-jouzu-no-wakagimi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/135706",
+        "dub": null,
+        "url": "https://www.animegg.org/nige-jouzu-no-wakagimi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/135876",
+        "dub": null,
+        "url": "https://www.animegg.org/nige-jouzu-no-wakagimi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/136020",
+        "dub": null,
+        "url": "https://www.animegg.org/nige-jouzu-no-wakagimi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/136197",
+        "dub": null,
+        "url": "https://www.animegg.org/nige-jouzu-no-wakagimi-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/136348",
+        "dub": null,
+        "url": "https://www.animegg.org/nige-jouzu-no-wakagimi-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/136485",
+        "dub": null,
+        "url": "https://www.animegg.org/nige-jouzu-no-wakagimi-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/136680",
+        "dub": null,
+        "url": "https://www.animegg.org/nige-jouzu-no-wakagimi-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/137084",
+        "dub": null,
+        "url": "https://www.animegg.org/nige-jouzu-no-wakagimi-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/137224",
+        "dub": null,
+        "url": "https://www.animegg.org/nige-jouzu-no-wakagimi-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/137428",
+        "dub": null,
+        "url": "https://www.animegg.org/nige-jouzu-no-wakagimi-episode-12"
+      }
+    ]
   }
 ]
