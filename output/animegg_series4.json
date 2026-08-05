@@ -58846,5 +58846,63 @@
         "url": "https://www.animegg.org/dr-stone-new-world-part-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3797,
+    "title": "Ousama Ranking: Yuuki no Takarabako",
+    "animegg_url": "https://www.animegg.org/series/ousama-ranking-yuuki-no-takarabako-dub",
+    "mal_url": "https://myanimelist.net/anime/52657",
+    "mal_id": 52657,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/120629",
+        "dub": null,
+        "url": "https://www.animegg.org/ousama-ranking-yuuki-no-takarabako-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/120628",
+        "dub": null,
+        "url": "https://www.animegg.org/ousama-ranking-yuuki-no-takarabako-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/120627",
+        "dub": null,
+        "url": "https://www.animegg.org/ousama-ranking-yuuki-no-takarabako-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/120624",
+        "dub": null,
+        "url": "https://www.animegg.org/ousama-ranking-yuuki-no-takarabako-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/120625",
+        "dub": null,
+        "url": "https://www.animegg.org/ousama-ranking-yuuki-no-takarabako-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/120626",
+        "dub": null,
+        "url": "https://www.animegg.org/ousama-ranking-yuuki-no-takarabako-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/120623",
+        "dub": null,
+        "url": "https://www.animegg.org/ousama-ranking-yuuki-no-takarabako-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/129792",
+        "dub": null,
+        "url": "https://www.animegg.org/ousama-ranking-yuuki-no-takarabako-dub-episode-8"
+      }
+    ]
   }
 ]
