@@ -30470,5 +30470,21 @@
         "url": "https://www.animegg.org/this-boy-can-fight-aliens-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6125,
+    "title": "Shikioriori",
+    "animegg_url": "https://www.animegg.org/series/shikioriori",
+    "mal_url": "https://myanimelist.net/anime/37396",
+    "mal_id": 37396,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/92233",
+        "dub": null,
+        "url": "https://www.animegg.org/shikioriori-episode-1"
+      }
+    ]
   }
 ]
