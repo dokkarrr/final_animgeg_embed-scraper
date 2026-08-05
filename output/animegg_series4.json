@@ -51156,5 +51156,87 @@
         "url": "https://www.animegg.org/mobile-suit-gundam-the-witch-from-mercury-season-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3694,
+    "title": "Jack-of-All-Trades, Party of None",
+    "animegg_url": "https://www.animegg.org/series/jack-of-all-trades-party-of-none",
+    "mal_url": "https://myanimelist.net/anime/61128",
+    "mal_id": 61128,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/144029",
+        "dub": "https://www.animegg.org/embed/144192",
+        "url": "https://www.animegg.org/jack-of-all-trades-party-of-none-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/144086",
+        "dub": "https://www.animegg.org/embed/144484",
+        "url": "https://www.animegg.org/jack-of-all-trades-party-of-none-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/144186",
+        "dub": "https://www.animegg.org/embed/144514",
+        "url": "https://www.animegg.org/jack-of-all-trades-party-of-none-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/144293",
+        "dub": "https://www.animegg.org/embed/144628",
+        "url": "https://www.animegg.org/jack-of-all-trades-party-of-none-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/144407",
+        "dub": "https://www.animegg.org/embed/144602",
+        "url": "https://www.animegg.org/jack-of-all-trades-party-of-none-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/144509",
+        "dub": "https://www.animegg.org/embed/144716",
+        "url": "https://www.animegg.org/jack-of-all-trades-party-of-none-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/144816",
+        "dub": null,
+        "url": "https://www.animegg.org/jack-of-all-trades-party-of-none-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/144712",
+        "dub": "https://www.animegg.org/embed/144926",
+        "url": "https://www.animegg.org/jack-of-all-trades-party-of-none-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/144813",
+        "dub": "https://www.animegg.org/embed/145051",
+        "url": "https://www.animegg.org/jack-of-all-trades-party-of-none-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/144922",
+        "dub": "https://www.animegg.org/embed/145142",
+        "url": "https://www.animegg.org/jack-of-all-trades-party-of-none-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/145233",
+        "dub": null,
+        "url": "https://www.animegg.org/jack-of-all-trades-party-of-none-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/145141",
+        "dub": "https://www.animegg.org/embed/145332",
+        "url": "https://www.animegg.org/jack-of-all-trades-party-of-none-episode-12"
+      }
+    ]
   }
 ]
