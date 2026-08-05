@@ -85312,5 +85312,87 @@
         "url": "https://www.animegg.org/the-marginal-service-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4187,
+    "title": "Re-Main",
+    "animegg_url": "https://www.animegg.org/series/re-main",
+    "mal_url": "https://myanimelist.net/anime/48406",
+    "mal_id": 48406,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/102196",
+        "dub": null,
+        "url": "https://www.animegg.org/re-main-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/102244",
+        "dub": null,
+        "url": "https://www.animegg.org/re-main-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/102345",
+        "dub": null,
+        "url": "https://www.animegg.org/re-main-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/102405",
+        "dub": null,
+        "url": "https://www.animegg.org/re-main-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/102455",
+        "dub": null,
+        "url": "https://www.animegg.org/re-main-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/102513",
+        "dub": null,
+        "url": "https://www.animegg.org/re-main-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/102625",
+        "dub": null,
+        "url": "https://www.animegg.org/re-main-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/102680",
+        "dub": null,
+        "url": "https://www.animegg.org/re-main-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/102737",
+        "dub": null,
+        "url": "https://www.animegg.org/re-main-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/102790",
+        "dub": null,
+        "url": "https://www.animegg.org/re-main-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/102844",
+        "dub": null,
+        "url": "https://www.animegg.org/re-main-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/102930",
+        "dub": null,
+        "url": "https://www.animegg.org/re-main-episode-12"
+      }
+    ]
   }
 ]
