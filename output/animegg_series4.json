@@ -126620,5 +126620,27 @@
         "url": "https://www.animegg.org/inuyasha-the-movie-2-the-castle-beyond-the-looking-glass-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4824,
+    "title": "Terra Formars: Bugs2 2599",
+    "animegg_url": "https://www.animegg.org/series/terra-formars-bugs2-2599",
+    "mal_url": "https://myanimelist.net/anime/22689",
+    "mal_id": 22689,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/75367",
+        "dub": null,
+        "url": "https://www.animegg.org/terra-formars-bugs2-2599-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/66061",
+        "dub": "https://www.animegg.org/embed/66062",
+        "url": "https://www.animegg.org/terra-formars-bugs2-2599-episode-1"
+      }
+    ]
   }
 ]
