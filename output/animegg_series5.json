@@ -77989,5 +77989,27 @@
         "url": "https://www.animegg.org/kakkou-no-iinazuke-season-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6555,
+    "title": "Yuusha, Yamemasu: Kenshuu Ryokou wa Mokuteki wo Miushinau na",
+    "animegg_url": "https://www.animegg.org/series/yuusha-yamemasu-kenshuu-ryokou-wa-mokuteki-wo-miushinau-na",
+    "mal_url": "https://myanimelist.net/anime/51562",
+    "mal_id": 51562,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/105172",
+        "dub": null,
+        "url": "https://www.animegg.org/yuusha-yamemasu-kenshuu-ryokou-wa-mokuteki-wo-miushinau-na-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/105667",
+        "dub": null,
+        "url": "https://www.animegg.org/yuusha-yamemasu-kenshuu-ryokou-wa-mokuteki-wo-miushinau-na-episode-2"
+      }
+    ]
   }
 ]
