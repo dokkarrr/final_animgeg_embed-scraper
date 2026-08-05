@@ -64128,5 +64128,33 @@
         "url": "https://www.animegg.org/kokoro-ga-sakebitagatterunda-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3865,
+    "title": ".hack//Quantum",
+    "animegg_url": "https://www.animegg.org/series/hackquantum",
+    "mal_url": "https://myanimelist.net/anime/9332",
+    "mal_id": 9332,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/118",
+        "dub": "https://www.animegg.org/embed/67892",
+        "url": "https://www.animegg.org/hackquantum-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/116",
+        "dub": "https://www.animegg.org/embed/67893",
+        "url": "https://www.animegg.org/hackquantum-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/117",
+        "dub": "https://www.animegg.org/embed/67894",
+        "url": "https://www.animegg.org/hackquantum-episode-3"
+      }
+    ]
   }
 ]
