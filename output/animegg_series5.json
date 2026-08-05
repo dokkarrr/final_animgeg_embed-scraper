@@ -46041,5 +46041,21 @@
         "url": "https://www.animegg.org/b-legend-battle-b-daman-fire-spirits-dub-episode-51"
       }
     ]
+  },
+  {
+    "serial_no": 6283,
+    "title": "The Sky Crawlers",
+    "animegg_url": "https://www.animegg.org/series/the-sky-crawlers",
+    "mal_url": "https://myanimelist.net/anime/3089",
+    "mal_id": 3089,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/63968",
+        "dub": null,
+        "url": "https://www.animegg.org/the-sky-crawlers-episode-1"
+      }
+    ]
   }
 ]
