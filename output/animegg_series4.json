@@ -112146,5 +112146,33 @@
         "url": "https://www.animegg.org/shuumatsu-train-doko-e-iku--episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4612,
+    "title": "Utawarerumono OVA",
+    "animegg_url": "https://www.animegg.org/series/utawarerumono-ova",
+    "mal_url": "https://myanimelist.net/anime/3593",
+    "mal_id": 3593,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/39855",
+        "dub": null,
+        "url": "https://www.animegg.org/utawarerumono-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/39854",
+        "dub": null,
+        "url": "https://www.animegg.org/utawarerumono-ova-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/39853",
+        "dub": null,
+        "url": "https://www.animegg.org/utawarerumono-ova-episode-3"
+      }
+    ]
   }
 ]
