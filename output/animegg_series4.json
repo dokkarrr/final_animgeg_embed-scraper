@@ -104318,5 +104318,21 @@
         "url": "https://www.animegg.org/fateprototype-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4482,
+    "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA",
+    "animegg_url": "https://www.animegg.org/series/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-zoku-ova",
+    "mal_url": "https://myanimelist.net/anime/33161",
+    "mal_id": 33161,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/84551",
+        "dub": "https://www.animegg.org/embed/84553",
+        "url": "https://www.animegg.org/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-zoku-ova-episode-1"
+      }
+    ]
   }
 ]
