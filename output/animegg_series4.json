@@ -16598,5 +16598,87 @@
         "url": "https://www.animegg.org/rec-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 3267,
+    "title": "Girly Air Force",
+    "animegg_url": "https://www.animegg.org/series/girly-air-force",
+    "mal_url": "https://myanimelist.net/anime/37998",
+    "mal_id": 37998,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/94180",
+        "dub": null,
+        "url": "https://www.animegg.org/girly-air-force-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/94247",
+        "dub": null,
+        "url": "https://www.animegg.org/girly-air-force-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/94314",
+        "dub": null,
+        "url": "https://www.animegg.org/girly-air-force-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/94379",
+        "dub": null,
+        "url": "https://www.animegg.org/girly-air-force-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/94442",
+        "dub": null,
+        "url": "https://www.animegg.org/girly-air-force-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/94508",
+        "dub": null,
+        "url": "https://www.animegg.org/girly-air-force-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/94578",
+        "dub": null,
+        "url": "https://www.animegg.org/girly-air-force-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/94653",
+        "dub": null,
+        "url": "https://www.animegg.org/girly-air-force-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/94713",
+        "dub": null,
+        "url": "https://www.animegg.org/girly-air-force-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/94778",
+        "dub": null,
+        "url": "https://www.animegg.org/girly-air-force-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/94847",
+        "dub": null,
+        "url": "https://www.animegg.org/girly-air-force-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/94937",
+        "dub": null,
+        "url": "https://www.animegg.org/girly-air-force-episode-12"
+      }
+    ]
   }
 ]
