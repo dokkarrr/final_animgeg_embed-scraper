@@ -77974,5 +77974,39 @@
         "url": "https://www.animegg.org/major-message-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4085,
+    "title": "Hibike! Euphonium Specials",
+    "animegg_url": "https://www.animegg.org/series/hibike-euphonium-specials",
+    "mal_url": "https://myanimelist.net/anime/27989",
+    "mal_id": 27989,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/77549",
+        "dub": null,
+        "url": "https://www.animegg.org/hibike-euphonium-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/78005",
+        "dub": null,
+        "url": "https://www.animegg.org/hibike-euphonium-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/79176",
+        "dub": null,
+        "url": "https://www.animegg.org/hibike-euphonium-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/79177",
+        "dub": null,
+        "url": "https://www.animegg.org/hibike-euphonium-specials-episode-4"
+      }
+    ]
   }
 ]
