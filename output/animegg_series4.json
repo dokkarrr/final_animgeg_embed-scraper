@@ -103422,5 +103422,33 @@
         "url": "https://www.animegg.org/li-l-miss-vampire-can-t-suck-right-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4459,
+    "title": "Gundam Build Fighters: SD Kishi Fighters",
+    "animegg_url": "https://www.animegg.org/series/gundam-build-fighters-sd-kishi-fighters",
+    "mal_url": "https://myanimelist.net/anime/27907",
+    "mal_id": 27907,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66507",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-build-fighters-sd-kishi-fighters-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/66508",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-build-fighters-sd-kishi-fighters-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/66509",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-build-fighters-sd-kishi-fighters-episode-3"
+      }
+    ]
   }
 ]
