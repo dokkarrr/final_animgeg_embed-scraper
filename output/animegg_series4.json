@@ -122328,5 +122328,93 @@
         "url": "https://www.animegg.org/a-star-brighter-than-the-sun-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4768,
+    "title": "Your Forma",
+    "animegg_url": "https://www.animegg.org/series/your-forma",
+    "mal_url": "https://myanimelist.net/anime/55995",
+    "mal_id": 55995,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/141674",
+        "dub": null,
+        "url": "https://www.animegg.org/your-forma-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/140427",
+        "dub": null,
+        "url": "https://www.animegg.org/your-forma-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/140591",
+        "dub": null,
+        "url": "https://www.animegg.org/your-forma-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/140600",
+        "dub": null,
+        "url": "https://www.animegg.org/your-forma-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/140683",
+        "dub": null,
+        "url": "https://www.animegg.org/your-forma-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/140764",
+        "dub": null,
+        "url": "https://www.animegg.org/your-forma-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/140874",
+        "dub": null,
+        "url": "https://www.animegg.org/your-forma-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/140986",
+        "dub": null,
+        "url": "https://www.animegg.org/your-forma-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/141064",
+        "dub": null,
+        "url": "https://www.animegg.org/your-forma-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/141185",
+        "dub": null,
+        "url": "https://www.animegg.org/your-forma-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/141282",
+        "dub": null,
+        "url": "https://www.animegg.org/your-forma-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/141381",
+        "dub": null,
+        "url": "https://www.animegg.org/your-forma-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/141453",
+        "dub": "https://www.animegg.org/embed/141673",
+        "url": "https://www.animegg.org/your-forma-episode-13"
+      }
+    ]
   }
 ]
