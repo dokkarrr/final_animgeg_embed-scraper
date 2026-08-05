@@ -18950,5 +18950,21 @@
         "url": "https://www.animegg.org/overlord-ple-ple-pleiades-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5945,
+    "title": "Violet Evergarden Movie",
+    "animegg_url": "https://www.animegg.org/series/violet-evergarden-movie",
+    "mal_url": "https://myanimelist.net/anime/37987",
+    "mal_id": 37987,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/102833",
+        "dub": null,
+        "url": "https://www.animegg.org/violet-evergarden-movie-episode-1"
+      }
+    ]
   }
 ]
