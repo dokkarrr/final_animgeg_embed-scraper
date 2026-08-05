@@ -68312,5 +68312,27 @@
         "url": "https://www.animegg.org/tennis-no-ouji-sama-dub-episode-155"
       }
     ]
+  },
+  {
+    "serial_no": 3918,
+    "title": "Free! Eternal Summer Special",
+    "animegg_url": "https://www.animegg.org/series/free-eternal-summer-special",
+    "mal_url": "https://myanimelist.net/anime/26213",
+    "mal_id": 26213,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/76048",
+        "dub": "https://www.animegg.org/embed/76365",
+        "url": "https://www.animegg.org/free-eternal-summer-special-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/free-eternal-summer-special-episode-2"
+      }
+    ]
   }
 ]
