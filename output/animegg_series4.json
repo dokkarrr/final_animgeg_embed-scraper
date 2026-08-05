@@ -58554,5 +58554,27 @@
         "url": "https://www.animegg.org/kowloon-generic-romance-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3790,
+    "title": "Brothers Conflict OVA",
+    "animegg_url": "https://www.animegg.org/series/brothers-conflict-ova",
+    "mal_url": "https://myanimelist.net/anime/25437",
+    "mal_id": 25437,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/75242",
+        "dub": "https://www.animegg.org/embed/80454",
+        "url": "https://www.animegg.org/brothers-conflict-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/75243",
+        "dub": null,
+        "url": "https://www.animegg.org/brothers-conflict-ova-episode-2"
+      }
+    ]
   }
 ]
