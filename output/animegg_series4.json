@@ -40742,5 +40742,87 @@
         "url": "https://www.animegg.org/xian-ni-episode-63"
       }
     ]
+  },
+  {
+    "serial_no": 3552,
+    "title": "Koroshi Ai",
+    "animegg_url": "https://www.animegg.org/series/koroshi-ai",
+    "mal_url": "https://myanimelist.net/anime/44516",
+    "mal_id": 44516,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/103760",
+        "dub": null,
+        "url": "https://www.animegg.org/koroshi-ai-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/103809",
+        "dub": null,
+        "url": "https://www.animegg.org/koroshi-ai-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/103864",
+        "dub": null,
+        "url": "https://www.animegg.org/koroshi-ai-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/103919",
+        "dub": null,
+        "url": "https://www.animegg.org/koroshi-ai-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/103974",
+        "dub": null,
+        "url": "https://www.animegg.org/koroshi-ai-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/104020",
+        "dub": null,
+        "url": "https://www.animegg.org/koroshi-ai-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/104070",
+        "dub": null,
+        "url": "https://www.animegg.org/koroshi-ai-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/104119",
+        "dub": null,
+        "url": "https://www.animegg.org/koroshi-ai-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/104166",
+        "dub": null,
+        "url": "https://www.animegg.org/koroshi-ai-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/104213",
+        "dub": null,
+        "url": "https://www.animegg.org/koroshi-ai-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/104259",
+        "dub": null,
+        "url": "https://www.animegg.org/koroshi-ai-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/104305",
+        "dub": null,
+        "url": "https://www.animegg.org/koroshi-ai-episode-12"
+      }
+    ]
   }
 ]
