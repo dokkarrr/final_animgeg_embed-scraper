@@ -115798,5 +115798,21 @@
         "url": "https://www.animegg.org/dan-dao-zhizun-episode-97"
       }
     ]
+  },
+  {
+    "serial_no": 6872,
+    "title": "Umibe no Étranger",
+    "animegg_url": "https://www.animegg.org/series/umibe-no-tranger",
+    "mal_url": "https://myanimelist.net/anime/40615",
+    "mal_id": 40615,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/102236",
+        "dub": null,
+        "url": "https://www.animegg.org/umibe-no-tranger-episode-1"
+      }
+    ]
   }
 ]
