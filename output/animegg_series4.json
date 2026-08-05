@@ -17826,5 +17826,21 @@
         "url": "https://www.animegg.org/hyakka-ryouran-samurai-girls-specials-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 3280,
+    "title": "Mushoku Tensei: Isekai Ittara Honki Dasu Special",
+    "animegg_url": "https://www.animegg.org/series/mushoku-tensei-isekai-ittara-honki-dasu-special",
+    "mal_url": "https://myanimelist.net/anime/50360",
+    "mal_id": 50360,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/104211",
+        "dub": null,
+        "url": "https://www.animegg.org/mushoku-tensei-isekai-ittara-honki-dasu-special-episode-1"
+      }
+    ]
   }
 ]
