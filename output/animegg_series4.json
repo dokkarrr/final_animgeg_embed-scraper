@@ -73348,5 +73348,87 @@
         "url": "https://www.animegg.org/ex-arm-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4007,
+    "title": "Taishou Otome Otogibanashi",
+    "animegg_url": "https://www.animegg.org/series/taishou-otome-otogibanashi",
+    "mal_url": "https://myanimelist.net/anime/45055",
+    "mal_id": 45055,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/102979",
+        "dub": null,
+        "url": "https://www.animegg.org/taishou-otome-otogibanashi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/103050",
+        "dub": null,
+        "url": "https://www.animegg.org/taishou-otome-otogibanashi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/103111",
+        "dub": null,
+        "url": "https://www.animegg.org/taishou-otome-otogibanashi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/103173",
+        "dub": null,
+        "url": "https://www.animegg.org/taishou-otome-otogibanashi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/103237",
+        "dub": null,
+        "url": "https://www.animegg.org/taishou-otome-otogibanashi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/103297",
+        "dub": null,
+        "url": "https://www.animegg.org/taishou-otome-otogibanashi-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/103356",
+        "dub": null,
+        "url": "https://www.animegg.org/taishou-otome-otogibanashi-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/103414",
+        "dub": null,
+        "url": "https://www.animegg.org/taishou-otome-otogibanashi-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/103476",
+        "dub": null,
+        "url": "https://www.animegg.org/taishou-otome-otogibanashi-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/103552",
+        "dub": null,
+        "url": "https://www.animegg.org/taishou-otome-otogibanashi-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/103608",
+        "dub": null,
+        "url": "https://www.animegg.org/taishou-otome-otogibanashi-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/103661",
+        "dub": null,
+        "url": "https://www.animegg.org/taishou-otome-otogibanashi-episode-12"
+      }
+    ]
   }
 ]
