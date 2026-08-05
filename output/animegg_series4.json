@@ -8104,5 +8104,87 @@
         "url": "https://www.animegg.org/saiyuuki-reload-blast-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3176,
+    "title": "Hidamari Sketch",
+    "animegg_url": "https://www.animegg.org/series/hidamari-sketch",
+    "mal_url": "https://myanimelist.net/anime/1852",
+    "mal_id": 1852,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/53550",
+        "dub": null,
+        "url": "https://www.animegg.org/hidamari-sketch-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/53551",
+        "dub": null,
+        "url": "https://www.animegg.org/hidamari-sketch-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/53552",
+        "dub": null,
+        "url": "https://www.animegg.org/hidamari-sketch-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/53553",
+        "dub": null,
+        "url": "https://www.animegg.org/hidamari-sketch-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/53554",
+        "dub": null,
+        "url": "https://www.animegg.org/hidamari-sketch-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/53555",
+        "dub": null,
+        "url": "https://www.animegg.org/hidamari-sketch-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/53556",
+        "dub": null,
+        "url": "https://www.animegg.org/hidamari-sketch-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/53557",
+        "dub": null,
+        "url": "https://www.animegg.org/hidamari-sketch-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/53558",
+        "dub": null,
+        "url": "https://www.animegg.org/hidamari-sketch-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/53559",
+        "dub": null,
+        "url": "https://www.animegg.org/hidamari-sketch-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/53560",
+        "dub": null,
+        "url": "https://www.animegg.org/hidamari-sketch-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/53561",
+        "dub": null,
+        "url": "https://www.animegg.org/hidamari-sketch-episode-12"
+      }
+    ]
   }
 ]
