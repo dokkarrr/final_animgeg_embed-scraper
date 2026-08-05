@@ -41978,5 +41978,27 @@
         "url": "https://www.animegg.org/yomigaeru-sora-rescue-wings-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3570,
+    "title": "Kanokon OVA",
+    "animegg_url": "https://www.animegg.org/series/kanokon-ova",
+    "mal_url": "https://myanimelist.net/anime/6791",
+    "mal_id": 6791,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/19542",
+        "dub": null,
+        "url": "https://www.animegg.org/kanokon-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/19541",
+        "dub": null,
+        "url": "https://www.animegg.org/kanokon-ova-episode-2"
+      }
+    ]
   }
 ]
