@@ -65113,5 +65113,75 @@
         "url": "https://www.animegg.org/tamayura-more-aggressive-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6451,
+    "title": "Izure Saikyou no Renkinjutsushi",
+    "animegg_url": "https://www.animegg.org/series/izure-saikyou-no-renkinjutsushi",
+    "mal_url": "https://myanimelist.net/anime/58822",
+    "mal_id": 58822,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/139328",
+        "dub": null,
+        "url": "https://www.animegg.org/izure-saikyou-no-renkinjutsushi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/139404",
+        "dub": null,
+        "url": "https://www.animegg.org/izure-saikyou-no-renkinjutsushi-episode-3"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/139534",
+        "dub": "https://www.animegg.org/embed/139535",
+        "url": "https://www.animegg.org/izure-saikyou-no-renkinjutsushi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/139636",
+        "dub": "https://www.animegg.org/embed/139642",
+        "url": "https://www.animegg.org/izure-saikyou-no-renkinjutsushi-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/139735",
+        "dub": "https://www.animegg.org/embed/139737",
+        "url": "https://www.animegg.org/izure-saikyou-no-renkinjutsushi-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/139818",
+        "dub": "https://www.animegg.org/embed/139822",
+        "url": "https://www.animegg.org/izure-saikyou-no-renkinjutsushi-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/139920",
+        "dub": "https://www.animegg.org/embed/140022",
+        "url": "https://www.animegg.org/izure-saikyou-no-renkinjutsushi-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/140013",
+        "dub": "https://www.animegg.org/embed/140019",
+        "url": "https://www.animegg.org/izure-saikyou-no-renkinjutsushi-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/140108",
+        "dub": "https://www.animegg.org/embed/140109",
+        "url": "https://www.animegg.org/izure-saikyou-no-renkinjutsushi-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/140201",
+        "dub": "https://www.animegg.org/embed/140202",
+        "url": "https://www.animegg.org/izure-saikyou-no-renkinjutsushi-episode-12"
+      }
+    ]
   }
 ]
