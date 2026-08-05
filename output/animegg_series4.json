@@ -99996,5 +99996,27 @@
         "url": "https://www.animegg.org/world-witches-hasshin-shimasu-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4399,
+    "title": "Queen's Blade OVA",
+    "animegg_url": "https://www.animegg.org/series/queens-blade-ova",
+    "mal_url": "https://myanimelist.net/anime/10924",
+    "mal_id": 10924,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/31344",
+        "dub": null,
+        "url": "https://www.animegg.org/queens-blade-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/31343",
+        "dub": null,
+        "url": "https://www.animegg.org/queens-blade-ova-episode-2"
+      }
+    ]
   }
 ]
