@@ -87898,5 +87898,51 @@
         "url": "https://www.animegg.org/my-status-as-an-assassin-obviously-exceeds-the-hero-s-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4232,
+    "title": "Kuragehime: Soreike! Amars Tankentai",
+    "animegg_url": "https://www.animegg.org/series/kuragehime-soreike-amars-tankentai",
+    "mal_url": "https://myanimelist.net/anime/10391",
+    "mal_id": 10391,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/20828",
+        "dub": null,
+        "url": "https://www.animegg.org/kuragehime-soreike-amars-tankentai-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/20829",
+        "dub": null,
+        "url": "https://www.animegg.org/kuragehime-soreike-amars-tankentai-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/20830",
+        "dub": null,
+        "url": "https://www.animegg.org/kuragehime-soreike-amars-tankentai-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/20827",
+        "dub": null,
+        "url": "https://www.animegg.org/kuragehime-soreike-amars-tankentai-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/20826",
+        "dub": null,
+        "url": "https://www.animegg.org/kuragehime-soreike-amars-tankentai-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/20831",
+        "dub": null,
+        "url": "https://www.animegg.org/kuragehime-soreike-amars-tankentai-episode-6"
+      }
+    ]
   }
 ]
