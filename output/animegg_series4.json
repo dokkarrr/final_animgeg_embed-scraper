@@ -79342,5 +79342,21 @@
         "url": "https://www.animegg.org/ayaka-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4109,
+    "title": "Fate/Grand Order: First Order",
+    "animegg_url": "https://www.animegg.org/series/fate-grand-order-first-order",
+    "mal_url": "https://myanimelist.net/anime/34321",
+    "mal_id": 34321,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/85331",
+        "dub": null,
+        "url": "https://www.animegg.org/fategrand-order-first-order-episode-1"
+      }
+    ]
   }
 ]
