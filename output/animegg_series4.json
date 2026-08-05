@@ -72028,5 +72028,21 @@
         "url": "https://www.animegg.org/trinity-seven-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3983,
+    "title": "Jujutsu Kaisen 0 Movie",
+    "animegg_url": "https://www.animegg.org/series/jujutsu-kaisen-0-movie",
+    "mal_url": "https://myanimelist.net/anime/48561",
+    "mal_id": 48561,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/105923",
+        "dub": null,
+        "url": "https://www.animegg.org/jujutsu-kaisen-0-movie-episode-1-1"
+      }
+    ]
   }
 ]
