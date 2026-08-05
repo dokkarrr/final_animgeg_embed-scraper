@@ -106394,5 +106394,45 @@
         "url": "https://www.animegg.org/watashi-ni-tenshi-ga-maiorita-special-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6787,
+    "title": "Sanda",
+    "animegg_url": "https://www.animegg.org/series/sanda-english-subbed",
+    "mal_url": "https://myanimelist.net/anime/59267",
+    "mal_id": 59267,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/142801",
+        "dub": null,
+        "url": "https://www.animegg.org/sanda-english-subbed-episode-1"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/143375",
+        "dub": "https://www.animegg.org/embed/143376",
+        "url": "https://www.animegg.org/sanda-season-1-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/143492",
+        "dub": "https://www.animegg.org/embed/143493",
+        "url": "https://www.animegg.org/sanda-season-1-episode-8"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/143796",
+        "dub": "https://www.animegg.org/embed/143797",
+        "url": "https://www.animegg.org/sanda-english-subbed-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/143908",
+        "dub": "https://www.animegg.org/embed/143910",
+        "url": "https://www.animegg.org/sanda-english-subbed-episode-12"
+      }
+    ]
   }
 ]
