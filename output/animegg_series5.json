@@ -19682,5 +19682,21 @@
         "url": "https://www.animegg.org/kiniro-no-corda-secondo-passo-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5957,
+    "title": "Cocoon",
+    "animegg_url": "https://www.animegg.org/series/pale-cocoon",
+    "mal_url": "https://myanimelist.net/anime/55435",
+    "mal_id": 55435,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/59545",
+        "dub": null,
+        "url": "https://www.animegg.org/pale-cocoon-episode-1"
+      }
+    ]
   }
 ]
