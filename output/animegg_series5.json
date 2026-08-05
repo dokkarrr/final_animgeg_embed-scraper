@@ -110042,5 +110042,45 @@
         "url": "https://www.animegg.org/penguin-highway-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6822,
+    "title": "The Ghost in the Shell",
+    "animegg_url": "https://www.animegg.org/series/the-ghost-in-the-shell",
+    "mal_url": "https://myanimelist.net/anime/17187",
+    "mal_id": 17187,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/146440",
+        "dub": "https://www.animegg.org/embed/146441",
+        "url": "https://www.animegg.org/the-ghost-in-the-shell-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/146439",
+        "dub": null,
+        "url": "https://www.animegg.org/the-ghost-in-the-shell-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/146516",
+        "dub": null,
+        "url": "https://www.animegg.org/the-ghost-in-the-shell-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/146589",
+        "dub": null,
+        "url": "https://www.animegg.org/the-ghost-in-the-shell-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/146635",
+        "dub": null,
+        "url": "https://www.animegg.org/the-ghost-in-the-shell-episode-5"
+      }
+    ]
   }
 ]
