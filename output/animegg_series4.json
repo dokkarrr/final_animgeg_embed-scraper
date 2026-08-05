@@ -132902,5 +132902,39 @@
         "url": "https://www.animegg.org/do-it-yourself-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4923,
+    "title": "Tales Of Symphonia: Tethe'alla Hen",
+    "animegg_url": "https://www.animegg.org/series/tales-of-symphonia-tethealla-hen",
+    "mal_url": "https://myanimelist.net/anime/8909",
+    "mal_id": 8909,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/37076",
+        "dub": null,
+        "url": "https://www.animegg.org/tales-of-symphonia-tethealla-hen-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/37073",
+        "dub": null,
+        "url": "https://www.animegg.org/tales-of-symphonia-tethealla-hen-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/37074",
+        "dub": null,
+        "url": "https://www.animegg.org/tales-of-symphonia-tethealla-hen-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/37075",
+        "dub": null,
+        "url": "https://www.animegg.org/tales-of-symphonia-tethealla-hen-episode-4"
+      }
+    ]
   }
 ]
