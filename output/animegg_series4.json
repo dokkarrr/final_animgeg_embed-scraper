@@ -24532,5 +24532,87 @@
         "url": "https://www.animegg.org/level-1-dakedo-unique-skill-de-saikyou-desu-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3356,
+    "title": "Maiko-san Chi no Makanai-san",
+    "animegg_url": "https://www.animegg.org/series/maiko-san-chi-no-makanai-san",
+    "mal_url": "https://myanimelist.net/anime/41556",
+    "mal_id": 41556,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/100955",
+        "dub": null,
+        "url": "https://www.animegg.org/maiko-san-chi-no-makanai-san-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/101250",
+        "dub": null,
+        "url": "https://www.animegg.org/maiko-san-chi-no-makanai-san-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/101497",
+        "dub": null,
+        "url": "https://www.animegg.org/maiko-san-chi-no-makanai-san-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/101830",
+        "dub": null,
+        "url": "https://www.animegg.org/maiko-san-chi-no-makanai-san-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/102127",
+        "dub": null,
+        "url": "https://www.animegg.org/maiko-san-chi-no-makanai-san-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/102336",
+        "dub": null,
+        "url": "https://www.animegg.org/maiko-san-chi-no-makanai-san-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/102598",
+        "dub": null,
+        "url": "https://www.animegg.org/maiko-san-chi-no-makanai-san-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/102822",
+        "dub": null,
+        "url": "https://www.animegg.org/maiko-san-chi-no-makanai-san-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/103163",
+        "dub": null,
+        "url": "https://www.animegg.org/maiko-san-chi-no-makanai-san-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/103404",
+        "dub": null,
+        "url": "https://www.animegg.org/maiko-san-chi-no-makanai-san-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/103653",
+        "dub": null,
+        "url": "https://www.animegg.org/maiko-san-chi-no-makanai-san-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/103866",
+        "dub": null,
+        "url": "https://www.animegg.org/maiko-san-chi-no-makanai-san-episode-12"
+      }
+    ]
   }
 ]
