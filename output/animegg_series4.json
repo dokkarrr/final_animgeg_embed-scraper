@@ -122582,5 +122582,21 @@
         "url": "https://www.animegg.org/bang-dream-garupa-pico-oomori-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 4770,
+    "title": "Yama no Susume 2nd Season Special",
+    "animegg_url": "https://www.animegg.org/series/yama-no-susume-2nd-season-special---episode-1",
+    "mal_url": "https://myanimelist.net/anime/27887",
+    "mal_id": 27887,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/75965",
+        "dub": "https://www.animegg.org/embed/75996",
+        "url": "https://www.animegg.org/yama-no-susume-2nd-season-special-episode-1"
+      }
+    ]
   }
 ]
