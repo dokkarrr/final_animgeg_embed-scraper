@@ -33992,5 +33992,21 @@
         "url": "https://www.animegg.org/rockman-exe-movie-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6155,
+    "title": "Keroro Gunsou Movie 4",
+    "animegg_url": "https://www.animegg.org/series/keroro-gunsou-movie-4",
+    "mal_url": "https://myanimelist.net/anime/5710",
+    "mal_id": 5710,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/56614",
+        "dub": null,
+        "url": "https://www.animegg.org/keroro-gunsou-movie-4-episode-1"
+      }
+    ]
   }
 ]
