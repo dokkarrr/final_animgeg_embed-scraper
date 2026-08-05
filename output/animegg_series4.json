@@ -93122,5 +93122,21 @@
         "url": "https://www.animegg.org/final-fantasy-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 4302,
+    "title": "Fullmetal Alchemist: The Sacred Star of Milos",
+    "animegg_url": "https://www.animegg.org/series/fullmetal-alchemist-the-sacred-star-of-milos",
+    "mal_url": "https://myanimelist.net/anime/9135",
+    "mal_id": 9135,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/50657",
+        "dub": "https://www.animegg.org/embed/50658",
+        "url": "https://www.animegg.org/fullmetal-alchemist-the-sacred-star-of-milos-episode-1"
+      }
+    ]
   }
 ]
