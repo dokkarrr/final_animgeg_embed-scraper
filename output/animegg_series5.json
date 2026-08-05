@@ -654,5 +654,21 @@
         "url": "https://www.animegg.org/tensura-nikki-tensei-shitara-slime-datta-ken-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 5617,
+    "title": "Resident Evil: Degeneration",
+    "animegg_url": "https://www.animegg.org/series/resident-evil-degeneration",
+    "mal_url": "https://myanimelist.net/anime/3446",
+    "mal_id": 3446,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/61702",
+        "dub": null,
+        "url": "https://www.animegg.org/resident-evil-degeneration-episode-1"
+      }
+    ]
   }
 ]
