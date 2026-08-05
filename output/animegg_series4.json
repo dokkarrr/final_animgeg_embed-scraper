@@ -118604,5 +118604,21 @@
         "url": "https://www.animegg.org/dungeon-no-naka-no-hito-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4722,
+    "title": "Asobi ni Iku yo! OVA",
+    "animegg_url": "https://www.animegg.org/series/asobi-ni-iku-yo-ova",
+    "mal_url": "https://myanimelist.net/anime/37171",
+    "mal_id": 37171,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/1892",
+        "dub": null,
+        "url": "https://www.animegg.org/asobi-ni-iku-yo-ova-episode-1"
+      }
+    ]
   }
 ]
