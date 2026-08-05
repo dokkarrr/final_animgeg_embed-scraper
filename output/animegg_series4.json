@@ -108552,5 +108552,87 @@
         "url": "https://www.animegg.org/megami-no-caf-terrace-2nd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4552,
+    "title": "Slow Loop",
+    "animegg_url": "https://www.animegg.org/series/slow-loop",
+    "mal_url": "https://myanimelist.net/anime/45425",
+    "mal_id": 45425,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/103722",
+        "dub": null,
+        "url": "https://www.animegg.org/slow-loop-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/103770",
+        "dub": null,
+        "url": "https://www.animegg.org/slow-loop-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/103822",
+        "dub": null,
+        "url": "https://www.animegg.org/slow-loop-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/103873",
+        "dub": null,
+        "url": "https://www.animegg.org/slow-loop-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/103926",
+        "dub": null,
+        "url": "https://www.animegg.org/slow-loop-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/103982",
+        "dub": null,
+        "url": "https://www.animegg.org/slow-loop-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/104029",
+        "dub": null,
+        "url": "https://www.animegg.org/slow-loop-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/104077",
+        "dub": null,
+        "url": "https://www.animegg.org/slow-loop-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/104126",
+        "dub": null,
+        "url": "https://www.animegg.org/slow-loop-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/104174",
+        "dub": null,
+        "url": "https://www.animegg.org/slow-loop-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/104221",
+        "dub": null,
+        "url": "https://www.animegg.org/slow-loop-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/104271",
+        "dub": null,
+        "url": "https://www.animegg.org/slow-loop-episode-12"
+      }
+    ]
   }
 ]
