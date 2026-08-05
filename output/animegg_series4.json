@@ -64112,5 +64112,21 @@
         "url": "https://www.animegg.org/inazuma-eleven-go-vs-danball-senki-w-movie-episode-58"
       }
     ]
+  },
+  {
+    "serial_no": 3864,
+    "title": "Kokoro ga Sakebitagatterunda.",
+    "animegg_url": "https://www.animegg.org/series/kokoro-ga-sakebitagatterunda",
+    "mal_url": "https://myanimelist.net/anime/28725",
+    "mal_id": 28725,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/81743",
+        "dub": null,
+        "url": "https://www.animegg.org/kokoro-ga-sakebitagatterunda-episode-1"
+      }
+    ]
   }
 ]
