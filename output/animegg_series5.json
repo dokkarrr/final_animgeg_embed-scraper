@@ -68024,5 +68024,87 @@
         "url": "https://www.animegg.org/chaos-golden-crow-episode-51"
       }
     ]
+  },
+  {
+    "serial_no": 6480,
+    "title": "Dou Shen Ji",
+    "animegg_url": "https://www.animegg.org/series/dou-shen-ji",
+    "mal_url": "https://myanimelist.net/anime/50021",
+    "mal_id": 50021,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/103019",
+        "dub": null,
+        "url": "https://www.animegg.org/dou-shen-ji-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/103020",
+        "dub": null,
+        "url": "https://www.animegg.org/dou-shen-ji-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/103080",
+        "dub": null,
+        "url": "https://www.animegg.org/dou-shen-ji-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/103144",
+        "dub": null,
+        "url": "https://www.animegg.org/dou-shen-ji-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/103203",
+        "dub": null,
+        "url": "https://www.animegg.org/dou-shen-ji-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/103338",
+        "dub": null,
+        "url": "https://www.animegg.org/dou-shen-ji-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/103397",
+        "dub": null,
+        "url": "https://www.animegg.org/dou-shen-ji-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/103457",
+        "dub": null,
+        "url": "https://www.animegg.org/dou-shen-ji-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/103535",
+        "dub": null,
+        "url": "https://www.animegg.org/dou-shen-ji-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/103589",
+        "dub": null,
+        "url": "https://www.animegg.org/dou-shen-ji-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/103646",
+        "dub": null,
+        "url": "https://www.animegg.org/dou-shen-ji-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/103696",
+        "dub": null,
+        "url": "https://www.animegg.org/dou-shen-ji-episode-12"
+      }
+    ]
   }
 ]
