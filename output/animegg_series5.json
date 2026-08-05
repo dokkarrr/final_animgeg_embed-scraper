@@ -116701,5 +116701,213 @@
     "mal_id": 39337,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 6879,
+    "title": "Yishi Zhi Zun",
+    "animegg_url": "https://www.animegg.org/series/yishi-zhi-zun",
+    "mal_url": "https://myanimelist.net/anime/57512",
+    "mal_id": 57512,
+    "total_ep": 33,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/yishi-zhi-zun-episode-1"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/yishi-zhi-zun-episode-3"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/yishi-zhi-zun-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/yishi-zhi-zun-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/yishi-zhi-zun-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/yishi-zhi-zun-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/yishi-zhi-zun-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/yishi-zhi-zun-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/yishi-zhi-zun-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/yishi-zhi-zun-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/111609",
+        "dub": null,
+        "url": "https://www.animegg.org/yishi-zhi-zun-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/yishi-zhi-zun-episode-14"
+      },
+      {
+        "ep": 15,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/yishi-zhi-zun-episode-15"
+      },
+      {
+        "ep": 16,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/yishi-zhi-zun-episode-16"
+      },
+      {
+        "ep": 17,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/yishi-zhi-zun-episode-17"
+      },
+      {
+        "ep": 18,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/yishi-zhi-zun-episode-18"
+      },
+      {
+        "ep": 19,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/yishi-zhi-zun-episode-19"
+      },
+      {
+        "ep": 55,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/yishi-zhi-zun-episode-55"
+      },
+      {
+        "ep": 59,
+        "sub": "https://www.animegg.org/embed/137523",
+        "dub": null,
+        "url": "https://www.animegg.org/yishi-zhi-zun-episode-59"
+      },
+      {
+        "ep": 61,
+        "sub": "https://www.animegg.org/embed/137773",
+        "dub": null,
+        "url": "https://www.animegg.org/yishi-zhi-zun-episode-61"
+      },
+      {
+        "ep": 62,
+        "sub": "https://www.animegg.org/embed/137896",
+        "dub": null,
+        "url": "https://www.animegg.org/yishi-zhi-zun-episode-62"
+      },
+      {
+        "ep": 63,
+        "sub": "https://www.animegg.org/embed/138046",
+        "dub": null,
+        "url": "https://www.animegg.org/yishi-zhi-zun-episode-63"
+      },
+      {
+        "ep": 64,
+        "sub": "https://www.animegg.org/embed/138147",
+        "dub": null,
+        "url": "https://www.animegg.org/yishi-zhi-zun-episode-64"
+      },
+      {
+        "ep": 65,
+        "sub": "https://www.animegg.org/embed/138327",
+        "dub": null,
+        "url": "https://www.animegg.org/yishi-zhi-zun-episode-65"
+      },
+      {
+        "ep": 66,
+        "sub": "https://www.animegg.org/embed/138442",
+        "dub": null,
+        "url": "https://www.animegg.org/yishi-zhi-zun-episode-66"
+      },
+      {
+        "ep": 67,
+        "sub": "https://www.animegg.org/embed/138520",
+        "dub": null,
+        "url": "https://www.animegg.org/yishi-zhi-zun-episode-67"
+      },
+      {
+        "ep": 68,
+        "sub": "https://www.animegg.org/embed/138620",
+        "dub": null,
+        "url": "https://www.animegg.org/yishi-zhi-zun-episode-68"
+      },
+      {
+        "ep": 69,
+        "sub": "https://www.animegg.org/embed/138753",
+        "dub": null,
+        "url": "https://www.animegg.org/yishi-zhi-zun-episode-69"
+      },
+      {
+        "ep": 70,
+        "sub": "https://www.animegg.org/embed/138851",
+        "dub": null,
+        "url": "https://www.animegg.org/yishi-zhi-zun-episode-70"
+      },
+      {
+        "ep": 71,
+        "sub": "https://www.animegg.org/embed/138953",
+        "dub": null,
+        "url": "https://www.animegg.org/yishi-zhi-zun-episode-71"
+      },
+      {
+        "ep": 72,
+        "sub": "https://www.animegg.org/embed/139047",
+        "dub": null,
+        "url": "https://www.animegg.org/yishi-zhi-zun-episode-72"
+      },
+      {
+        "ep": 73,
+        "sub": "https://www.animegg.org/embed/139179",
+        "dub": null,
+        "url": "https://www.animegg.org/yishi-zhi-zun-episode-73"
+      },
+      {
+        "ep": 74,
+        "sub": "https://www.animegg.org/embed/139230",
+        "dub": null,
+        "url": "https://www.animegg.org/yishi-zhi-zun-episode-74"
+      }
+    ]
   }
 ]
