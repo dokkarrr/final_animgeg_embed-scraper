@@ -47179,5 +47179,27 @@
         "url": "https://www.animegg.org/red-garden-dead-girls-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6290,
+    "title": "Zetsumetsu Kigu Shoujo: Amazing Twins(OVA)",
+    "animegg_url": "https://www.animegg.org/series/zetsumetsu-kigu-shoujo-amazing-twinsova",
+    "mal_url": "https://myanimelist.net/anime/19953",
+    "mal_id": 19953,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66060",
+        "dub": null,
+        "url": "https://www.animegg.org/zetsumetsu-kigu-shoujo-amazing-twinsova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/66059",
+        "dub": null,
+        "url": "https://www.animegg.org/zetsumetsu-kigu-shoujo-amazing-twinsova-episode-2"
+      }
+    ]
   }
 ]
