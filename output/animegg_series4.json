@@ -98360,5 +98360,33 @@
         "url": "https://www.animegg.org/mou-ippon-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 4383,
+    "title": "Akane Maniax",
+    "animegg_url": "https://www.animegg.org/series/akane-maniax",
+    "mal_url": "https://myanimelist.net/anime/281",
+    "mal_id": 281,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/833",
+        "dub": null,
+        "url": "https://www.animegg.org/akane-maniax-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/832",
+        "dub": null,
+        "url": "https://www.animegg.org/akane-maniax-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/831",
+        "dub": null,
+        "url": "https://www.animegg.org/akane-maniax-episode-3"
+      }
+    ]
   }
 ]
