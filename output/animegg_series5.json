@@ -13879,5 +13879,21 @@
         "url": "https://www.animegg.org/hikaru-no-go-special-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5841,
+    "title": "Mai-Mai Miracle",
+    "animegg_url": "https://www.animegg.org/series/mai-mai-miracle",
+    "mal_url": "https://myanimelist.net/anime/5084",
+    "mal_id": 5084,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/57559",
+        "dub": null,
+        "url": "https://www.animegg.org/mai-mai-miracle-episode-1"
+      }
+    ]
   }
 ]
