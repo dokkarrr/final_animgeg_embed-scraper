@@ -96736,5 +96736,33 @@
         "url": "https://www.animegg.org/tate-no-yuusha-no-nariagari-season-2-dub-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6714,
+    "title": "Tongari Boushi no Memole",
+    "animegg_url": "https://www.animegg.org/series/tongari-boushi-no-memole",
+    "mal_url": "https://myanimelist.net/anime/3754",
+    "mal_id": 3754,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/99334",
+        "dub": null,
+        "url": "https://www.animegg.org/tongari-boushi-no-memole-episode-14"
+      },
+      {
+        "ep": 41,
+        "sub": "https://www.animegg.org/embed/99335",
+        "dub": null,
+        "url": "https://www.animegg.org/tongari-boushi-no-memole-episode-41"
+      },
+      {
+        "ep": 50,
+        "sub": "https://www.animegg.org/embed/99336",
+        "dub": null,
+        "url": "https://www.animegg.org/tongari-boushi-no-memole-episode-50"
+      }
+    ]
   }
 ]
