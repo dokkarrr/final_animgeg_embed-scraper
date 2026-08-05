@@ -125908,5 +125908,21 @@
         "url": "https://www.animegg.org/kaginado-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4814,
+    "title": "Hai to Gensou no Grimgar Special",
+    "animegg_url": "https://www.animegg.org/series/hai-to-gensou-no-grimgar-special",
+    "mal_url": "https://myanimelist.net/anime/31859",
+    "mal_id": 31859,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/98778",
+        "dub": null,
+        "url": "https://www.animegg.org/hai-to-gensou-no-grimgar-special-episode-1"
+      }
+    ]
   }
 ]
