@@ -114246,5 +114246,45 @@
         "url": "https://www.animegg.org/sasayaku-you-ni-koi-wo-utau-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 4654,
+    "title": "Double Circle (ONA)",
+    "animegg_url": "https://www.animegg.org/series/double-circle",
+    "mal_url": "https://myanimelist.net/anime/34745",
+    "mal_id": 34745,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/43126",
+        "dub": null,
+        "url": "https://www.animegg.org/double-circle-ona-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/43127",
+        "dub": null,
+        "url": "https://www.animegg.org/double-circle-ona-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/43128",
+        "dub": null,
+        "url": "https://www.animegg.org/double-circle-ona-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/43129",
+        "dub": null,
+        "url": "https://www.animegg.org/double-circle-ona-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/43130",
+        "dub": null,
+        "url": "https://www.animegg.org/double-circle-ona-episode-5"
+      }
+    ]
   }
 ]
