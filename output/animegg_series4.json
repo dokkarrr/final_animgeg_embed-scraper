@@ -68392,5 +68392,87 @@
         "url": "https://www.animegg.org/pokemon-twilight-wings-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 3920,
+    "title": "Tono to Issho: Ippunkan Gekijou",
+    "animegg_url": "https://www.animegg.org/series/tono-to-issho",
+    "mal_url": "https://myanimelist.net/anime/8961",
+    "mal_id": 8961,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/38631",
+        "dub": null,
+        "url": "https://www.animegg.org/tono-to-issho-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/38635",
+        "dub": null,
+        "url": "https://www.animegg.org/tono-to-issho-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/38632",
+        "dub": null,
+        "url": "https://www.animegg.org/tono-to-issho-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/38633",
+        "dub": null,
+        "url": "https://www.animegg.org/tono-to-issho-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/38634",
+        "dub": null,
+        "url": "https://www.animegg.org/tono-to-issho-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/38636",
+        "dub": null,
+        "url": "https://www.animegg.org/tono-to-issho-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/38637",
+        "dub": null,
+        "url": "https://www.animegg.org/tono-to-issho-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/38640",
+        "dub": null,
+        "url": "https://www.animegg.org/tono-to-issho-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/38638",
+        "dub": null,
+        "url": "https://www.animegg.org/tono-to-issho-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/38639",
+        "dub": null,
+        "url": "https://www.animegg.org/tono-to-issho-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/38641",
+        "dub": null,
+        "url": "https://www.animegg.org/tono-to-issho-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/38642",
+        "dub": null,
+        "url": "https://www.animegg.org/tono-to-issho-episode-12"
+      }
+    ]
   }
 ]
