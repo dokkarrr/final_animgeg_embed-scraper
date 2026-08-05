@@ -11565,5 +11565,21 @@
         "url": "https://www.animegg.org/gakumon-ookami-shoujo-wa-kujikenai-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5795,
+    "title": "Azuki-chan the Movie",
+    "animegg_url": "https://www.animegg.org/series/azuki-chan-the-movie",
+    "mal_url": "https://myanimelist.net/anime/6095",
+    "mal_id": 6095,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/64738",
+        "dub": null,
+        "url": "https://www.animegg.org/azuki-chan-the-movie-episode-1"
+      }
+    ]
   }
 ]
