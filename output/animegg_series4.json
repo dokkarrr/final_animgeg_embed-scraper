@@ -44694,5 +44694,51 @@
         "url": "https://www.animegg.org/hataraku-saibou-black-tv-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3604,
+    "title": "Chuunibyou demo Koi ga Shitai! Ren Lite",
+    "animegg_url": "https://www.animegg.org/series/chuunibyou-demo-koi-ga-shitai-ren-lite",
+    "mal_url": "https://myanimelist.net/anime/21797",
+    "mal_id": 21797,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/44053",
+        "dub": null,
+        "url": "https://www.animegg.org/chuunibyou-demo-koi-ga-shitai-ren-lite-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/44054",
+        "dub": null,
+        "url": "https://www.animegg.org/chuunibyou-demo-koi-ga-shitai-ren-lite-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/44055",
+        "dub": null,
+        "url": "https://www.animegg.org/chuunibyou-demo-koi-ga-shitai-ren-lite-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/44056",
+        "dub": null,
+        "url": "https://www.animegg.org/chuunibyou-demo-koi-ga-shitai-ren-lite-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/44057",
+        "dub": null,
+        "url": "https://www.animegg.org/chuunibyou-demo-koi-ga-shitai-ren-lite-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/44058",
+        "dub": null,
+        "url": "https://www.animegg.org/chuunibyou-demo-koi-ga-shitai-ren-lite-episode-6"
+      }
+    ]
   }
 ]
