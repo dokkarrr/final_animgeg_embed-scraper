@@ -35084,5 +35084,21 @@
         "url": "https://www.animegg.org/shuumatsu-no-walk-re-ii-part-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6170,
+    "title": "Aru Zombie Shoujo no Sainan",
+    "animegg_url": "https://www.animegg.org/series/aru-zombie-shoujo-no-sainan",
+    "mal_url": "https://myanimelist.net/anime/37735",
+    "mal_id": 37735,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/91738",
+        "dub": null,
+        "url": "https://www.animegg.org/aru-zombie-shoujo-no-sainan-episode-1"
+      }
+    ]
   }
 ]
