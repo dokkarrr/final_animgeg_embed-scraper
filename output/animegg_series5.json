@@ -35100,5 +35100,21 @@
         "url": "https://www.animegg.org/aru-zombie-shoujo-no-sainan-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6171,
+    "title": "Planetarium Uchuu Kyoudai: Itten no Hikari",
+    "animegg_url": "https://www.animegg.org/series/planetarium-uchuu-kyoudai-itten-no-hikari",
+    "mal_url": "https://myanimelist.net/anime/12431",
+    "mal_id": 12431,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/65998",
+        "dub": null,
+        "url": "https://www.animegg.org/planetarium-uchuu-kyoudai-itten-no-hikari-episode-1"
+      }
+    ]
   }
 ]
