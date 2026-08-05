@@ -115412,5 +115412,57 @@
         "url": "https://www.animegg.org/tales-of-zestiria-doushi-no-yoake-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4665,
+    "title": "Marika's Love Meter Malfunction",
+    "animegg_url": "https://www.animegg.org/series/marika-s-love-meter-malfunction",
+    "mal_url": "https://myanimelist.net/anime/62983",
+    "mal_id": 62983,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/145060",
+        "dub": null,
+        "url": "https://www.animegg.org/marika-s-love-meter-malfunction-episode-1"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/145491",
+        "dub": null,
+        "url": "https://www.animegg.org/marika-s-love-meter-malfunction-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/145629",
+        "dub": null,
+        "url": "https://www.animegg.org/marika-s-love-meter-malfunction-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/145766",
+        "dub": null,
+        "url": "https://www.animegg.org/marika-s-love-meter-malfunction-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/145826",
+        "dub": null,
+        "url": "https://www.animegg.org/marika-s-love-meter-malfunction-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/146003",
+        "dub": null,
+        "url": "https://www.animegg.org/marika-s-love-meter-malfunction-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/146055",
+        "dub": null,
+        "url": "https://www.animegg.org/marika-s-love-meter-malfunction-episode-8"
+      }
+    ]
   }
 ]
