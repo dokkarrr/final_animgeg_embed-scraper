@@ -57819,5 +57819,21 @@
         "url": "https://www.animegg.org/mobile-suit-gundam-hathaway-s-flash-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6381,
+    "title": "Sonic: Night of the WereHog",
+    "animegg_url": "https://www.animegg.org/series/sonic-night-of-the-werehog",
+    "mal_url": "https://myanimelist.net/anime/5583",
+    "mal_id": 5583,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/62158",
+        "dub": null,
+        "url": "https://www.animegg.org/sonic-night-of-the-werehog-episode-1"
+      }
+    ]
   }
 ]
