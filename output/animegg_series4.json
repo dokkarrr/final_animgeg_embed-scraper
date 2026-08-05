@@ -101482,5 +101482,87 @@
         "url": "https://www.animegg.org/a-misanthrope-teaches-a-class-for-demi-humans-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 4424,
+    "title": "Yuru Camp△ Season 3",
+    "animegg_url": "https://www.animegg.org/series/yuru-camp-season-3",
+    "mal_url": "https://myanimelist.net/anime/53410",
+    "mal_id": 53410,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/134999",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-camp-season-3-episode-12"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/134860",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-camp-season-3-episode-11"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/134726",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-camp-season-3-episode-10"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/134519",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-camp-season-3-episode-9"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/136403",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-camp-season-3-episode-8"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/134202",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-camp-season-3-episode-7"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/134054",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-camp-season-3-episode-6"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/136402",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-camp-season-3-episode-5"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/136401",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-camp-season-3-episode-4"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/133690",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-camp-season-3-episode-3"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/133602",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-camp-season-3-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/136400",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-camp-season-3-episode-1"
+      }
+    ]
   }
 ]
