@@ -32910,5 +32910,21 @@
         "url": "https://www.animegg.org/guitar-wo-motta-shounen-kikaider-vs-inazuman-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6144,
+    "title": "Higashi no Eden: Air Communication",
+    "animegg_url": "https://www.animegg.org/series/higashi-no-eden-air-communication",
+    "mal_url": "https://myanimelist.net/anime/6927",
+    "mal_id": 6927,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/53523",
+        "dub": null,
+        "url": "https://www.animegg.org/higashi-no-eden-air-communication-episode-1"
+      }
+    ]
   }
 ]
