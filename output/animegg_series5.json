@@ -11431,5 +11431,21 @@
         "url": "https://www.animegg.org/on-your-mark-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5787,
+    "title": "Tenshi no Drop",
+    "animegg_url": "https://www.animegg.org/series/tenshi-no-drop",
+    "mal_url": "https://myanimelist.net/anime/16436",
+    "mal_id": 16436,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/63421",
+        "dub": null,
+        "url": "https://www.animegg.org/tenshi-no-drop-episode-1"
+      }
+    ]
   }
 ]
