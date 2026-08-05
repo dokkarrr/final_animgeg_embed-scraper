@@ -80772,5 +80772,21 @@
         "url": "https://www.animegg.org/tamako-love-story-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4132,
+    "title": "Date A Live: Encore OVA",
+    "animegg_url": "https://www.animegg.org/series/date-a-live-encore-ova",
+    "mal_url": "https://myanimelist.net/anime/37651",
+    "mal_id": 37651,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/67491",
+        "dub": "https://www.animegg.org/embed/67555",
+        "url": "https://www.animegg.org/date-a-live-encore-ova-episode-1"
+      }
+    ]
   }
 ]
