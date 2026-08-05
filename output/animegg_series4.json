@@ -107210,5 +107210,27 @@
         "url": "https://www.animegg.org/prism-ark-specials-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 4533,
+    "title": "Drifters Specials",
+    "animegg_url": "https://www.animegg.org/series/drifters-specials",
+    "mal_url": "https://myanimelist.net/anime/33032",
+    "mal_id": 33032,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/90454",
+        "dub": null,
+        "url": "https://www.animegg.org/drifters-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/90455",
+        "dub": null,
+        "url": "https://www.animegg.org/drifters-specials-episode-2"
+      }
+    ]
   }
 ]
