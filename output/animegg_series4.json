@@ -19130,5 +19130,45 @@
         "url": "https://www.animegg.org/spy-x-family-season-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3297,
+    "title": "Ai wa Kat-tun",
+    "animegg_url": "https://www.animegg.org/series/ai-wa-kat-tun",
+    "mal_url": "https://myanimelist.net/anime/12865",
+    "mal_id": 12865,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/65192",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-wa-kat-tun-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ai-wa-kat-tun-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ai-wa-kat-tun-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ai-wa-kat-tun-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ai-wa-kat-tun-episode-5"
+      }
+    ]
   }
 ]
