@@ -4662,5 +4662,21 @@
         "url": "https://www.animegg.org/gyakkyou-burai-kaiji-ultimate-survivor-dub-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 5680,
+    "title": "Mushoku Tensei II: Isekai Ittara Honki Dasu - Shugo Jutsushi Fitz",
+    "animegg_url": "https://www.animegg.org/series/mushoku-tensei-ii-isekai-ittara-honki-dasu---shugo-jutsushi-fitz",
+    "mal_url": "https://myanimelist.net/anime/55818",
+    "mal_id": 55818,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/130287",
+        "dub": "https://www.animegg.org/embed/130428",
+        "url": "https://www.animegg.org/mushoku-tensei-ii-isekai-ittara-honki-dasu---shugo-jutsushi-fitz-episode-1"
+      }
+    ]
   }
 ]
