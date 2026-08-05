@@ -92941,5 +92941,21 @@
         "url": "https://www.animegg.org/monsters-vs-aliens-tv-dub-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 6689,
+    "title": "Asobi Asobase OVA",
+    "animegg_url": "https://www.animegg.org/series/asobi-asobase-ova",
+    "mal_url": "https://myanimelist.net/anime/37171",
+    "mal_id": 37171,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/95628",
+        "dub": null,
+        "url": "https://www.animegg.org/asobi-asobase-ova-episode-1"
+      }
+    ]
   }
 ]
