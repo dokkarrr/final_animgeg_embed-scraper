@@ -123192,5 +123192,93 @@
         "url": "https://www.animegg.org/seiken-gakuin-no-makentsukai-episode-9"
       }
     ]
+  },
+  {
+    "serial_no": 4783,
+    "title": "Tsukipro The Animation 2",
+    "animegg_url": "https://www.animegg.org/series/tsukipro-the-animation-2",
+    "mal_url": "https://myanimelist.net/anime/37008",
+    "mal_id": 37008,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/103698",
+        "dub": null,
+        "url": "https://www.animegg.org/tsukipro-the-animation-2-episode-13"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/103647",
+        "dub": null,
+        "url": "https://www.animegg.org/tsukipro-the-animation-2-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/103591",
+        "dub": null,
+        "url": "https://www.animegg.org/tsukipro-the-animation-2-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/103538",
+        "dub": null,
+        "url": "https://www.animegg.org/tsukipro-the-animation-2-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/103470",
+        "dub": null,
+        "url": "https://www.animegg.org/tsukipro-the-animation-2-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/102591",
+        "dub": null,
+        "url": "https://www.animegg.org/tsukipro-the-animation-2-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/102538",
+        "dub": null,
+        "url": "https://www.animegg.org/tsukipro-the-animation-2-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/102481",
+        "dub": null,
+        "url": "https://www.animegg.org/tsukipro-the-animation-2-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/102430",
+        "dub": null,
+        "url": "https://www.animegg.org/tsukipro-the-animation-2-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/102374",
+        "dub": null,
+        "url": "https://www.animegg.org/tsukipro-the-animation-2-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/102353",
+        "dub": null,
+        "url": "https://www.animegg.org/tsukipro-the-animation-2-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/102266",
+        "dub": null,
+        "url": "https://www.animegg.org/tsukipro-the-animation-2-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/102213",
+        "dub": null,
+        "url": "https://www.animegg.org/tsukipro-the-animation-2-episode-1"
+      }
+    ]
   }
 ]
