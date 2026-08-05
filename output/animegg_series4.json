@@ -104046,5 +104046,45 @@
         "url": "https://www.animegg.org/the-secret-world-of-arrietty-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4474,
+    "title": "Kyousou Giga (2012)",
+    "animegg_url": "https://www.animegg.org/series/kyousogiga",
+    "mal_url": "https://myanimelist.net/anime/15359",
+    "mal_id": 15359,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 2012,
+        "sub": "https://www.animegg.org/embed/21201",
+        "dub": null,
+        "url": "https://www.animegg.org/kyousogiga-episode-5"
+      },
+      {
+        "ep": 2012,
+        "sub": "https://www.animegg.org/embed/21200",
+        "dub": null,
+        "url": "https://www.animegg.org/kyousogiga-episode-4"
+      },
+      {
+        "ep": 2012,
+        "sub": "https://www.animegg.org/embed/21203",
+        "dub": null,
+        "url": "https://www.animegg.org/kyousogiga-episode-3"
+      },
+      {
+        "ep": 2012,
+        "sub": "https://www.animegg.org/embed/21199",
+        "dub": null,
+        "url": "https://www.animegg.org/kyousogiga-episode-2"
+      },
+      {
+        "ep": 2012,
+        "sub": "https://www.animegg.org/embed/21202",
+        "dub": null,
+        "url": "https://www.animegg.org/kyousogiga-episode-1"
+      }
+    ]
   }
 ]
