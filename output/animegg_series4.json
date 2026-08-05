@@ -52526,5 +52526,63 @@
         "url": "https://www.animegg.org/aguu-tensai-ningyou-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3714,
+    "title": "Future GPX Cyber Formula Zero",
+    "animegg_url": "https://www.animegg.org/series/future-gpx-cyber-formula-zero",
+    "mal_url": "https://myanimelist.net/anime/1393",
+    "mal_id": 1393,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/49523",
+        "dub": null,
+        "url": "https://www.animegg.org/future-gpx-cyber-formula-zero-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/49524",
+        "dub": null,
+        "url": "https://www.animegg.org/future-gpx-cyber-formula-zero-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/49525",
+        "dub": null,
+        "url": "https://www.animegg.org/future-gpx-cyber-formula-zero-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/49526",
+        "dub": null,
+        "url": "https://www.animegg.org/future-gpx-cyber-formula-zero-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/49527",
+        "dub": null,
+        "url": "https://www.animegg.org/future-gpx-cyber-formula-zero-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/49528",
+        "dub": null,
+        "url": "https://www.animegg.org/future-gpx-cyber-formula-zero-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/49529",
+        "dub": null,
+        "url": "https://www.animegg.org/future-gpx-cyber-formula-zero-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/49530",
+        "dub": null,
+        "url": "https://www.animegg.org/future-gpx-cyber-formula-zero-episode-8"
+      }
+    ]
   }
 ]
