@@ -80740,5 +80740,21 @@
         "url": "https://www.animegg.org/ssssdynazenon-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4130,
+    "title": "Charlotte Special",
+    "animegg_url": "https://www.animegg.org/series/charlotte-special",
+    "mal_url": "https://myanimelist.net/anime/31553",
+    "mal_id": 31553,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/81744",
+        "dub": null,
+        "url": "https://www.animegg.org/charlotte-special-episode-1"
+      }
+    ]
   }
 ]
