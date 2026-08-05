@@ -674,5 +674,87 @@
         "url": "https://www.animegg.org/kaitou-tenshi-twin-angel-tv-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3081,
+    "title": "Ai Mai Mii: Surgical Friends",
+    "animegg_url": "https://www.animegg.org/series/ai-mai-mi-surgical-friends",
+    "mal_url": "https://myanimelist.net/anime/34295",
+    "mal_id": 34295,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/85349",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-mai-mi-surgical-friends-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/85438",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-mai-mi-surgical-friends-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/85532",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-mai-mi-surgical-friends-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/85623",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-mai-mi-surgical-friends-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/85717",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-mai-mi-surgical-friends-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/85799",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-mai-mi-surgical-friends-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/85886",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-mai-mi-surgical-friends-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/85960",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-mai-mi-surgical-friends-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/86063",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-mai-mi-surgical-friends-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/86141",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-mai-mi-surgical-friends-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/86226",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-mai-mi-surgical-friends-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/86298",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-mai-mi-surgical-friends-episode-12"
+      }
+    ]
   }
 ]
