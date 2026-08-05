@@ -66142,5 +66142,87 @@
         "url": "https://www.animegg.org/oshi-no-ko-2nd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3896,
+    "title": "Ueno-san wa Bukiyou",
+    "animegg_url": "https://www.animegg.org/series/ueno-san-wa-bukiyou",
+    "mal_url": "https://myanimelist.net/anime/37920",
+    "mal_id": 37920,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/94142",
+        "dub": null,
+        "url": "https://www.animegg.org/ueno-san-wa-bukiyou-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/94215",
+        "dub": null,
+        "url": "https://www.animegg.org/ueno-san-wa-bukiyou-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/94285",
+        "dub": null,
+        "url": "https://www.animegg.org/ueno-san-wa-bukiyou-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/94349",
+        "dub": null,
+        "url": "https://www.animegg.org/ueno-san-wa-bukiyou-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/94417",
+        "dub": null,
+        "url": "https://www.animegg.org/ueno-san-wa-bukiyou-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/94478",
+        "dub": null,
+        "url": "https://www.animegg.org/ueno-san-wa-bukiyou-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/94543",
+        "dub": null,
+        "url": "https://www.animegg.org/ueno-san-wa-bukiyou-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/94622",
+        "dub": null,
+        "url": "https://www.animegg.org/ueno-san-wa-bukiyou-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/94686",
+        "dub": null,
+        "url": "https://www.animegg.org/ueno-san-wa-bukiyou-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/94751",
+        "dub": null,
+        "url": "https://www.animegg.org/ueno-san-wa-bukiyou-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/94813",
+        "dub": null,
+        "url": "https://www.animegg.org/ueno-san-wa-bukiyou-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/94892",
+        "dub": null,
+        "url": "https://www.animegg.org/ueno-san-wa-bukiyou-episode-12"
+      }
+    ]
   }
 ]
