@@ -59242,5 +59242,51 @@
         "url": "https://www.animegg.org/no-guns-life-2nd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3806,
+    "title": "Mobile Suit Gundam: Twilight Axis",
+    "animegg_url": "https://www.animegg.org/series/mobile-suit-gundam-twilight-axis",
+    "mal_url": "https://myanimelist.net/anime/35224",
+    "mal_id": 35224,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/87372",
+        "dub": null,
+        "url": "https://www.animegg.org/mobile-suit-gundam-twilight-axis-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/87693",
+        "dub": null,
+        "url": "https://www.animegg.org/mobile-suit-gundam-twilight-axis-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/87694",
+        "dub": null,
+        "url": "https://www.animegg.org/mobile-suit-gundam-twilight-axis-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/87993",
+        "dub": null,
+        "url": "https://www.animegg.org/mobile-suit-gundam-twilight-axis-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/87994",
+        "dub": null,
+        "url": "https://www.animegg.org/mobile-suit-gundam-twilight-axis-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/88261",
+        "dub": null,
+        "url": "https://www.animegg.org/mobile-suit-gundam-twilight-axis-episode-6"
+      }
+    ]
   }
 ]
