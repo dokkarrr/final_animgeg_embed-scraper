@@ -72102,5 +72102,27 @@
         "url": "https://www.animegg.org/harukanaru-toki-no-naka-de-character-endings-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 3985,
+    "title": "Tight-rope",
+    "animegg_url": "https://www.animegg.org/series/tight-rope",
+    "mal_url": "https://myanimelist.net/anime/12695",
+    "mal_id": 12695,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/64058",
+        "dub": null,
+        "url": "https://www.animegg.org/tight-rope-episode"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/64059",
+        "dub": null,
+        "url": "https://www.animegg.org/tight-rope-episode-2"
+      }
+    ]
   }
 ]
