@@ -107044,5 +107044,21 @@
         "url": "https://www.animegg.org/boku-no-tsuma-wa-kanjou-ga-nai-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4529,
+    "title": "Suzumiya Haruhi no Shoushitsu",
+    "animegg_url": "https://www.animegg.org/series/suzumiya-haruhi-no-shoushitsu",
+    "mal_url": "https://myanimelist.net/anime/7311",
+    "mal_id": 7311,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/42870",
+        "dub": "https://www.animegg.org/embed/42871",
+        "url": "https://www.animegg.org/suzumiya-haruhi-no-shoushitsu-episode-1"
+      }
+    ]
   }
 ]
