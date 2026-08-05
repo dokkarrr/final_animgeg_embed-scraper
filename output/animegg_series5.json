@@ -28668,5 +28668,27 @@
         "url": "https://www.animegg.org/asatir-2-mirai-no-mukashi-banashi-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6084,
+    "title": "Tantei Opera Milky Holmes Alternative ONE: Kobayashi Opera to 5-Mai no Kaiga",
+    "animegg_url": "https://www.animegg.org/series/tantei-opera-milky-holmes-alternative-one-kobayashi-opera-to-5-mai-no-kaiga",
+    "mal_url": "https://myanimelist.net/anime/33206",
+    "mal_id": 33206,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/37183",
+        "dub": null,
+        "url": "https://www.animegg.org/tantei-opera-milky-holmes-alternative-one-kobayashi-opera-to-5-mai-no-kaiga-episode-2"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/37184",
+        "dub": null,
+        "url": "https://www.animegg.org/tantei-opera-milky-holmes-alternative-one-kobayashi-opera-to-5-mai-no-kaiga-episode-1"
+      }
+    ]
   }
 ]
