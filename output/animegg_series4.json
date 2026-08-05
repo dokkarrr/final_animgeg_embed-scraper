@@ -58986,5 +58986,63 @@
         "url": "https://www.animegg.org/cowboy-bebop-movie-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3802,
+    "title": "Tengoku Daimakyou",
+    "animegg_url": "https://www.animegg.org/series/tengoku-daimakyou-dub",
+    "mal_url": "https://myanimelist.net/anime/53393",
+    "mal_id": 53393,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/116909",
+        "dub": null,
+        "url": "https://www.animegg.org/tengoku-daimakyou-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/116908",
+        "dub": null,
+        "url": "https://www.animegg.org/tengoku-daimakyou-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/116907",
+        "dub": null,
+        "url": "https://www.animegg.org/tengoku-daimakyou-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/116906",
+        "dub": null,
+        "url": "https://www.animegg.org/tengoku-daimakyou-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/tengoku-daimakyou-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/116905",
+        "dub": null,
+        "url": "https://www.animegg.org/tengoku-daimakyou-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/116904",
+        "dub": null,
+        "url": "https://www.animegg.org/tengoku-daimakyou-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/tengoku-daimakyou-dub-episode-8"
+      }
+    ]
   }
 ]
