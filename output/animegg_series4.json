@@ -104882,5 +104882,87 @@
         "url": "https://www.animegg.org/is-infinite-stratos-2---hitonatsu-no-omoide-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4494,
+    "title": "Azur Lane: Bisoku Zenshin!",
+    "animegg_url": "https://www.animegg.org/series/azur-lane-bisoku-zenshin",
+    "mal_url": "https://myanimelist.net/anime/40930",
+    "mal_id": 40930,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/100473",
+        "dub": null,
+        "url": "https://www.animegg.org/azur-lane-bisoku-zenshin-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/100573",
+        "dub": null,
+        "url": "https://www.animegg.org/azur-lane-bisoku-zenshin-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/100646",
+        "dub": null,
+        "url": "https://www.animegg.org/azur-lane-bisoku-zenshin-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/100721",
+        "dub": null,
+        "url": "https://www.animegg.org/azur-lane-bisoku-zenshin-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/100790",
+        "dub": null,
+        "url": "https://www.animegg.org/azur-lane-bisoku-zenshin-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/100859",
+        "dub": null,
+        "url": "https://www.animegg.org/azur-lane-bisoku-zenshin-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/100934",
+        "dub": null,
+        "url": "https://www.animegg.org/azur-lane-bisoku-zenshin-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/101013",
+        "dub": null,
+        "url": "https://www.animegg.org/azur-lane-bisoku-zenshin-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/101084",
+        "dub": null,
+        "url": "https://www.animegg.org/azur-lane-bisoku-zenshin-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/101157",
+        "dub": null,
+        "url": "https://www.animegg.org/azur-lane-bisoku-zenshin-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/101226",
+        "dub": null,
+        "url": "https://www.animegg.org/azur-lane-bisoku-zenshin-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/101292",
+        "dub": null,
+        "url": "https://www.animegg.org/azur-lane-bisoku-zenshin-episode-12"
+      }
+    ]
   }
 ]
