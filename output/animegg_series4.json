@@ -30930,5 +30930,21 @@
         "url": "https://www.animegg.org/towa-no-quon-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 3439,
+    "title": "Kizumonogatari I: Tekketsu-hen",
+    "animegg_url": "https://www.animegg.org/series/kizumonogatari-i-tekketsu-hen",
+    "mal_url": "https://myanimelist.net/anime/9260",
+    "mal_id": 9260,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/83402",
+        "dub": null,
+        "url": "https://www.animegg.org/kizumonogatari-i-tekketsu-hen-episode-1"
+      }
+    ]
   }
 ]
