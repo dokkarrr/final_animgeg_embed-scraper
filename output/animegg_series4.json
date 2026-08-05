@@ -37704,5 +37704,21 @@
         "url": "https://www.animegg.org/vatican-kiseki-chousakan-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3511,
+    "title": "One Piece: Heart of Gold",
+    "animegg_url": "https://www.animegg.org/series/one-piece-heart-of-gold",
+    "mal_url": "https://myanimelist.net/anime/33338",
+    "mal_id": 33338,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/90289",
+        "dub": "https://www.animegg.org/embed/92558",
+        "url": "https://www.animegg.org/one-piece-heart-of-gold-episode-1"
+      }
+    ]
   }
 ]
