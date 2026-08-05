@@ -131178,5 +131178,81 @@
         "url": "https://www.animegg.org/grendizer-u-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 4900,
+    "title": "Ninja vs. Gokudo",
+    "animegg_url": "https://www.animegg.org/series/ninja-vs-gokudo",
+    "mal_url": "https://myanimelist.net/anime/61067",
+    "mal_id": 61067,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/142923",
+        "dub": "https://www.animegg.org/embed/142924",
+        "url": "https://www.animegg.org/ninja-vs-gokudo-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/143017",
+        "dub": "https://www.animegg.org/embed/143019",
+        "url": "https://www.animegg.org/ninja-vs-gokudo-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/143113",
+        "dub": "https://www.animegg.org/embed/143115",
+        "url": "https://www.animegg.org/ninja-vs-gokudo-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/143222",
+        "dub": "https://www.animegg.org/embed/143225",
+        "url": "https://www.animegg.org/ninja-vs-gokudo-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/143334",
+        "dub": "https://www.animegg.org/embed/143336",
+        "url": "https://www.animegg.org/ninja-vs-gokudo-season-1-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/143441",
+        "dub": "https://www.animegg.org/embed/143442",
+        "url": "https://www.animegg.org/ninja-vs-gokudo-season-1-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/143543",
+        "dub": null,
+        "url": "https://www.animegg.org/ninja-vs-gokudo-season-1-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/143642",
+        "dub": "https://www.animegg.org/embed/143644",
+        "url": "https://www.animegg.org/ninja-vs-gokudo-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/143747",
+        "dub": "https://www.animegg.org/embed/143749",
+        "url": "https://www.animegg.org/ninja-vs-gokudo-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/143844",
+        "dub": "https://www.animegg.org/embed/143855",
+        "url": "https://www.animegg.org/ninja-vs-gokudo-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/143974",
+        "dub": "https://www.animegg.org/embed/143975",
+        "url": "https://www.animegg.org/ninja-vs-gokudo-episode-12"
+      }
+    ]
   }
 ]
