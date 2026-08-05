@@ -101810,5 +101810,39 @@
         "url": "https://www.animegg.org/king-of-fighters-another-day-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 4431,
+    "title": "Blue Seed 2",
+    "animegg_url": "https://www.animegg.org/series/blue-seed-2",
+    "mal_url": "https://myanimelist.net/anime/999",
+    "mal_id": 999,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/49047",
+        "dub": "https://www.animegg.org/embed/68562",
+        "url": "https://www.animegg.org/blue-seed-2-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/49046",
+        "dub": "https://www.animegg.org/embed/68561",
+        "url": "https://www.animegg.org/blue-seed-2-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/68563",
+        "dub": null,
+        "url": "https://www.animegg.org/blue-seed-2-episode-15"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/49045",
+        "dub": "https://www.animegg.org/embed/68560",
+        "url": "https://www.animegg.org/blue-seed-2-episode-1"
+      }
+    ]
   }
 ]
