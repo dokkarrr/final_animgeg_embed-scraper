@@ -28786,5 +28786,75 @@
         "url": "https://www.animegg.org/aria-the-avvenire-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 3410,
+    "title": "Wake Up, Girl Zoo!",
+    "animegg_url": "https://www.animegg.org/series/wake-up-girl-zoo",
+    "mal_url": "https://myanimelist.net/anime/25875",
+    "mal_id": 25875,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66141",
+        "dub": null,
+        "url": "https://www.animegg.org/wake-up-girl-zoo-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/66142",
+        "dub": null,
+        "url": "https://www.animegg.org/wake-up-girl-zoo-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/66943",
+        "dub": null,
+        "url": "https://www.animegg.org/wake-up-girl-zoo-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/67387",
+        "dub": null,
+        "url": "https://www.animegg.org/wake-up-girl-zoo-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/67389",
+        "dub": null,
+        "url": "https://www.animegg.org/wake-up-girl-zoo-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/67777",
+        "dub": null,
+        "url": "https://www.animegg.org/wake-up-girl-zoo-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/71750",
+        "dub": null,
+        "url": "https://www.animegg.org/wake-up-girl-zoo-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/74031",
+        "dub": null,
+        "url": "https://www.animegg.org/wake-up-girl-zoo-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/74868",
+        "dub": null,
+        "url": "https://www.animegg.org/wake-up-girl-zoo-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/75115",
+        "dub": null,
+        "url": "https://www.animegg.org/wake-up-girl-zoo-episode-10"
+      }
+    ]
   }
 ]
