@@ -16844,5 +16844,87 @@
         "url": "https://www.animegg.org/island-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3270,
+    "title": "Watashi no Shiawase na Kekkon",
+    "animegg_url": "https://www.animegg.org/series/watashi-no-shiawase-na-kekkon",
+    "mal_url": "https://myanimelist.net/anime/51552",
+    "mal_id": 51552,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/130063",
+        "dub": "https://www.animegg.org/embed/130331",
+        "url": "https://www.animegg.org/watashi-no-shiawase-na-kekkon-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/130214",
+        "dub": "https://www.animegg.org/embed/130330",
+        "url": "https://www.animegg.org/watashi-no-shiawase-na-kekkon-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/130321",
+        "dub": "https://www.animegg.org/embed/130329",
+        "url": "https://www.animegg.org/watashi-no-shiawase-na-kekkon-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/130595",
+        "dub": null,
+        "url": "https://www.animegg.org/watashi-no-shiawase-na-kekkon-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/130744",
+        "dub": "https://www.animegg.org/embed/130745",
+        "url": "https://www.animegg.org/watashi-no-shiawase-na-kekkon-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/130839",
+        "dub": "https://www.animegg.org/embed/130841",
+        "url": "https://www.animegg.org/watashi-no-shiawase-na-kekkon-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/130928",
+        "dub": "https://www.animegg.org/embed/130929",
+        "url": "https://www.animegg.org/watashi-no-shiawase-na-kekkon-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/131019",
+        "dub": "https://www.animegg.org/embed/131021",
+        "url": "https://www.animegg.org/watashi-no-shiawase-na-kekkon-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/131107",
+        "dub": "https://www.animegg.org/embed/131108",
+        "url": "https://www.animegg.org/watashi-no-shiawase-na-kekkon-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/131202",
+        "dub": "https://www.animegg.org/embed/131203",
+        "url": "https://www.animegg.org/watashi-no-shiawase-na-kekkon-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/131310",
+        "dub": "https://www.animegg.org/embed/131311",
+        "url": "https://www.animegg.org/watashi-no-shiawase-na-kekkon-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/131403",
+        "dub": "https://www.animegg.org/embed/131404",
+        "url": "https://www.animegg.org/watashi-no-shiawase-na-kekkon-episode-12"
+      }
+    ]
   }
 ]
