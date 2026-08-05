@@ -79884,5 +79884,93 @@
         "url": "https://www.animegg.org/astarotte-no-omocha-ex-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4120,
+    "title": "Tenchi Souzou Design-bu",
+    "animegg_url": "https://www.animegg.org/series/tenchi-souzou-design-bu",
+    "mal_url": "https://myanimelist.net/anime/41762",
+    "mal_id": 41762,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/100429",
+        "dub": null,
+        "url": "https://www.animegg.org/tenchi-souzou-design-bu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/100510",
+        "dub": null,
+        "url": "https://www.animegg.org/tenchi-souzou-design-bu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/100596",
+        "dub": null,
+        "url": "https://www.animegg.org/tenchi-souzou-design-bu-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/100671",
+        "dub": null,
+        "url": "https://www.animegg.org/tenchi-souzou-design-bu-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/100745",
+        "dub": null,
+        "url": "https://www.animegg.org/tenchi-souzou-design-bu-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/100812",
+        "dub": null,
+        "url": "https://www.animegg.org/tenchi-souzou-design-bu-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/100886",
+        "dub": null,
+        "url": "https://www.animegg.org/tenchi-souzou-design-bu-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/100963",
+        "dub": null,
+        "url": "https://www.animegg.org/tenchi-souzou-design-bu-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/101038",
+        "dub": null,
+        "url": "https://www.animegg.org/tenchi-souzou-design-bu-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/101109",
+        "dub": null,
+        "url": "https://www.animegg.org/tenchi-souzou-design-bu-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/101182",
+        "dub": null,
+        "url": "https://www.animegg.org/tenchi-souzou-design-bu-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/101254",
+        "dub": null,
+        "url": "https://www.animegg.org/tenchi-souzou-design-bu-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/101324",
+        "dub": null,
+        "url": "https://www.animegg.org/tenchi-souzou-design-bu-episode-13"
+      }
+    ]
   }
 ]
