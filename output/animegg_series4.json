@@ -88588,5 +88588,39 @@
         "url": "https://www.animegg.org/alien-nine-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 4244,
+    "title": "Chain Chronicle: Haecceitas no Hikari Part 2",
+    "animegg_url": "https://www.animegg.org/series/chain-chronicle-haecceitas-no-hikari-part-2",
+    "mal_url": "https://myanimelist.net/anime/33729",
+    "mal_id": 33729,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/85663",
+        "dub": null,
+        "url": "https://www.animegg.org/chain-chronicle-haecceitas-no-hikari-part-2-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/85662",
+        "dub": null,
+        "url": "https://www.animegg.org/chain-chronicle-haecceitas-no-hikari-part-2-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/85661",
+        "dub": null,
+        "url": "https://www.animegg.org/chain-chronicle-haecceitas-no-hikari-part-2-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/85660",
+        "dub": null,
+        "url": "https://www.animegg.org/chain-chronicle-haecceitas-no-hikari-part-2-episode-1"
+      }
+    ]
   }
 ]
