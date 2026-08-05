@@ -12302,5 +12302,63 @@
         "url": "https://www.animegg.org/sentenced-to-be-a-hero-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3228,
+    "title": "Bubblegum Crisis",
+    "animegg_url": "https://www.animegg.org/series/bubblegum-crisis",
+    "mal_url": "https://myanimelist.net/anime/1347",
+    "mal_id": 1347,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/48884",
+        "dub": "https://www.animegg.org/embed/48885",
+        "url": "https://www.animegg.org/bubblegum-crisis-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/48886",
+        "dub": "https://www.animegg.org/embed/48887",
+        "url": "https://www.animegg.org/bubblegum-crisis-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/48888",
+        "dub": "https://www.animegg.org/embed/48889",
+        "url": "https://www.animegg.org/bubblegum-crisis-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/48890",
+        "dub": "https://www.animegg.org/embed/48891",
+        "url": "https://www.animegg.org/bubblegum-crisis-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/48892",
+        "dub": "https://www.animegg.org/embed/48893",
+        "url": "https://www.animegg.org/bubblegum-crisis-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/48894",
+        "dub": "https://www.animegg.org/embed/48895",
+        "url": "https://www.animegg.org/bubblegum-crisis-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/48896",
+        "dub": "https://www.animegg.org/embed/48897",
+        "url": "https://www.animegg.org/bubblegum-crisis-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/48898",
+        "dub": "https://www.animegg.org/embed/48899",
+        "url": "https://www.animegg.org/bubblegum-crisis-episode-8"
+      }
+    ]
   }
 ]
