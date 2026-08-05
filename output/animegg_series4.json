@@ -125268,5 +125268,33 @@
         "url": "https://www.animegg.org/gundam-chars-counterattack-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4804,
+    "title": "Memories",
+    "animegg_url": "https://www.animegg.org/series/memories",
+    "mal_url": "https://myanimelist.net/anime/1462",
+    "mal_id": 1462,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/57900",
+        "dub": null,
+        "url": "https://www.animegg.org/memories-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/57901",
+        "dub": null,
+        "url": "https://www.animegg.org/memories-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/57902",
+        "dub": null,
+        "url": "https://www.animegg.org/memories-episode-3"
+      }
+    ]
   }
 ]
