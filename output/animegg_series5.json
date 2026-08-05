@@ -14882,5 +14882,27 @@
         "url": "https://www.animegg.org/psychic-force-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 5867,
+    "title": "Sanjougattai Transformers Go! Shinobi",
+    "animegg_url": "https://www.animegg.org/series/sanjougattai-transformers-go-shinobi",
+    "mal_url": "https://myanimelist.net/anime/1675",
+    "mal_id": 1675,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/60106",
+        "dub": null,
+        "url": "https://www.animegg.org/sanjougattai-transformers-go-shinobi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/60107",
+        "dub": null,
+        "url": "https://www.animegg.org/sanjougattai-transformers-go-shinobi-episode-2"
+      }
+    ]
   }
 ]
