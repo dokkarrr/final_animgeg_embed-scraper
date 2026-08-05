@@ -11511,5 +11511,21 @@
         "url": "https://www.animegg.org/strike-witches-the-movie-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5792,
+    "title": "Lupin III: Princess of the Breeze - Hidden City in the Sky",
+    "animegg_url": "https://www.animegg.org/series/lupin-iii-princess-of-the-breeze---hidden-city-in-the-sky",
+    "mal_url": "https://myanimelist.net/anime/20141",
+    "mal_id": 20141,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/56126",
+        "dub": null,
+        "url": "https://www.animegg.org/lupin-iii-princess-of-the-breeze---hidden-city-in-the-sky-episode-1"
+      }
+    ]
   }
 ]
