@@ -116792,5 +116792,33 @@
         "url": "https://www.animegg.org/harukanaru-toki-no-naka-de-2-shiroki-ryuu-no-miko-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4692,
+    "title": "Mirage of Blaze OVA",
+    "animegg_url": "https://www.animegg.org/series/mirage-of-blaze-rebels-of-the-river-edge",
+    "mal_url": "https://myanimelist.net/anime/1020",
+    "mal_id": 1020,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/58327",
+        "dub": "https://www.animegg.org/embed/58328",
+        "url": "https://www.animegg.org/mirage-of-blaze-rebels-of-the-river-edge-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/58329",
+        "dub": "https://www.animegg.org/embed/58330",
+        "url": "https://www.animegg.org/mirage-of-blaze-rebels-of-the-river-edge-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/58331",
+        "dub": "https://www.animegg.org/embed/58332",
+        "url": "https://www.animegg.org/mirage-of-blaze-rebels-of-the-river-edge-episode-3"
+      }
+    ]
   }
 ]
