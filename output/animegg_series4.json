@@ -132596,5 +132596,87 @@
         "url": "https://www.animegg.org/the-world-god-only-knows-tenri-hen-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 4917,
+    "title": "Ramen Akaneko",
+    "animegg_url": "https://www.animegg.org/series/ramen-akaneko",
+    "mal_url": "https://myanimelist.net/anime/57325",
+    "mal_id": 57325,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/135386",
+        "dub": null,
+        "url": "https://www.animegg.org/ramen-akaneko-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/135534",
+        "dub": null,
+        "url": "https://www.animegg.org/ramen-akaneko-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/135680",
+        "dub": null,
+        "url": "https://www.animegg.org/ramen-akaneko-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/135810",
+        "dub": null,
+        "url": "https://www.animegg.org/ramen-akaneko-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/135993",
+        "dub": null,
+        "url": "https://www.animegg.org/ramen-akaneko-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/136157",
+        "dub": null,
+        "url": "https://www.animegg.org/ramen-akaneko-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/136303",
+        "dub": null,
+        "url": "https://www.animegg.org/ramen-akaneko-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/136456",
+        "dub": null,
+        "url": "https://www.animegg.org/ramen-akaneko-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/136650",
+        "dub": null,
+        "url": "https://www.animegg.org/ramen-akaneko-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/136808",
+        "dub": null,
+        "url": "https://www.animegg.org/ramen-akaneko-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/137013",
+        "dub": null,
+        "url": "https://www.animegg.org/ramen-akaneko-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/137168",
+        "dub": null,
+        "url": "https://www.animegg.org/ramen-akaneko-episode-12"
+      }
+    ]
   }
 ]
