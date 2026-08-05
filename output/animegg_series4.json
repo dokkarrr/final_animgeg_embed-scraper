@@ -121536,5 +121536,81 @@
         "url": "https://www.animegg.org/detective-conan-movie-22-zero-the-enforcer-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4753,
+    "title": "Chuubyou Gekihatsu Boy",
+    "animegg_url": "https://www.animegg.org/series/chuubyou-gekihatsu-boy",
+    "mal_url": "https://myanimelist.net/anime/38390",
+    "mal_id": 38390,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/96601",
+        "dub": null,
+        "url": "https://www.animegg.org/chuubyou-gekihatsu-boy-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/96690",
+        "dub": null,
+        "url": "https://www.animegg.org/chuubyou-gekihatsu-boy-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/96755",
+        "dub": null,
+        "url": "https://www.animegg.org/chuubyou-gekihatsu-boy-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/96823",
+        "dub": null,
+        "url": "https://www.animegg.org/chuubyou-gekihatsu-boy-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/96885",
+        "dub": null,
+        "url": "https://www.animegg.org/chuubyou-gekihatsu-boy-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/96945",
+        "dub": null,
+        "url": "https://www.animegg.org/chuubyou-gekihatsu-boy-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/97006",
+        "dub": null,
+        "url": "https://www.animegg.org/chuubyou-gekihatsu-boy-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/97071",
+        "dub": null,
+        "url": "https://www.animegg.org/chuubyou-gekihatsu-boy-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/97142",
+        "dub": null,
+        "url": "https://www.animegg.org/chuubyou-gekihatsu-boy-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/97205",
+        "dub": null,
+        "url": "https://www.animegg.org/chuubyou-gekihatsu-boy-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/97272",
+        "dub": null,
+        "url": "https://www.animegg.org/chuubyou-gekihatsu-boy-episode-11"
+      }
+    ]
   }
 ]
