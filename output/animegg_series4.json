@@ -134953,5 +134953,21 @@
     "mal_id": 23991,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 4956,
+    "title": "Slam Dunk Movie 1",
+    "animegg_url": "https://www.animegg.org/series/slam-dunk-movie-1",
+    "mal_url": "https://myanimelist.net/anime/1764",
+    "mal_id": 1764,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/61732",
+        "dub": null,
+        "url": "https://www.animegg.org/slam-dunk-movie-1-episode-1"
+      }
+    ]
   }
 ]
