@@ -69106,5 +69106,21 @@
         "url": "https://www.animegg.org/zhu-zhu-xia-meng-xiang-shou-wei-zhe-dub-episode-52"
       }
     ]
+  },
+  {
+    "serial_no": 6488,
+    "title": "The Epic Of ZektBach",
+    "animegg_url": "https://www.animegg.org/series/the-epic-of-zektbach",
+    "mal_url": "https://myanimelist.net/anime/10545",
+    "mal_id": 10545,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/37687",
+        "dub": null,
+        "url": "https://www.animegg.org/the-epic-of-zektbach-episode-1"
+      }
+    ]
   }
 ]
