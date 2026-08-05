@@ -91000,5 +91000,21 @@
         "url": "https://www.animegg.org/shin-shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4280,
+    "title": "Akame ga Kill Recap",
+    "animegg_url": "https://www.animegg.org/series/akame-ga-kill-recap",
+    "mal_url": "https://myanimelist.net/anime/26449",
+    "mal_id": 26449,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66134",
+        "dub": null,
+        "url": "https://www.animegg.org/akame-ga-kill-recap-episode-1"
+      }
+    ]
   }
 ]
