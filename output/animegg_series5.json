@@ -42865,5 +42865,87 @@
         "url": "https://www.animegg.org/suite-precure-movie-torimodose-kokoro-ga-tsunaku-kiseki-no-melody-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6248,
+    "title": "Bakumatsu",
+    "animegg_url": "https://www.animegg.org/series/bakumatsu",
+    "mal_url": "https://myanimelist.net/anime/37584",
+    "mal_id": 37584,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/98567",
+        "dub": null,
+        "url": "https://www.animegg.org/bakumatsu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/98544",
+        "dub": null,
+        "url": "https://www.animegg.org/bakumatsu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/98545",
+        "dub": null,
+        "url": "https://www.animegg.org/bakumatsu-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/98546",
+        "dub": null,
+        "url": "https://www.animegg.org/bakumatsu-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/98547",
+        "dub": null,
+        "url": "https://www.animegg.org/bakumatsu-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/98548",
+        "dub": null,
+        "url": "https://www.animegg.org/bakumatsu-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/98549",
+        "dub": null,
+        "url": "https://www.animegg.org/bakumatsu-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/98550",
+        "dub": null,
+        "url": "https://www.animegg.org/bakumatsu-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/98551",
+        "dub": null,
+        "url": "https://www.animegg.org/bakumatsu-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/98541",
+        "dub": null,
+        "url": "https://www.animegg.org/bakumatsu-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/98542",
+        "dub": null,
+        "url": "https://www.animegg.org/bakumatsu-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/98543",
+        "dub": null,
+        "url": "https://www.animegg.org/bakumatsu-episode-12"
+      }
+    ]
   }
 ]
