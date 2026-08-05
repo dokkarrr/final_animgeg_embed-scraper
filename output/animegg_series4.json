@@ -93200,5 +93200,51 @@
         "url": "https://www.animegg.org/onegai-my-melody-sukkiri-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 4305,
+    "title": "Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou",
+    "animegg_url": "https://www.animegg.org/series/yuuki-yuuna-wa-yuusha-de-aru-yuusha-no-shou",
+    "mal_url": "https://myanimelist.net/anime/34445",
+    "mal_id": 34445,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/89158",
+        "dub": null,
+        "url": "https://www.animegg.org/yuuki-yuuna-wa-yuusha-de-aru-yuusha-no-shou-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/89230",
+        "dub": null,
+        "url": "https://www.animegg.org/yuuki-yuuna-wa-yuusha-de-aru-yuusha-no-shou-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/89309",
+        "dub": null,
+        "url": "https://www.animegg.org/yuuki-yuuna-wa-yuusha-de-aru-yuusha-no-shou-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/89387",
+        "dub": null,
+        "url": "https://www.animegg.org/yuuki-yuuna-wa-yuusha-de-aru-yuusha-no-shou-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/89462",
+        "dub": null,
+        "url": "https://www.animegg.org/yuuki-yuuna-wa-yuusha-de-aru-yuusha-no-shou-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/89555",
+        "dub": null,
+        "url": "https://www.animegg.org/yuuki-yuuna-wa-yuusha-de-aru-yuusha-no-shou-episode-6"
+      }
+    ]
   }
 ]
