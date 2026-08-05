@@ -28408,5 +28408,57 @@
         "url": "https://www.animegg.org/luger-code-1951-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6073,
+    "title": "Sand Land: The Series",
+    "animegg_url": "https://www.animegg.org/series/sand-land-the-series",
+    "mal_url": "https://myanimelist.net/anime/57160",
+    "mal_id": 57160,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/133378",
+        "dub": null,
+        "url": "https://www.animegg.org/sand-land-the-series-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/133466",
+        "dub": null,
+        "url": "https://www.animegg.org/sand-land-the-series-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/sand-land-the-series-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/133594",
+        "dub": null,
+        "url": "https://www.animegg.org/sand-land-the-series-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/133678",
+        "dub": null,
+        "url": "https://www.animegg.org/sand-land-the-series-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/133766",
+        "dub": null,
+        "url": "https://www.animegg.org/sand-land-the-series-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/133860",
+        "dub": null,
+        "url": "https://www.animegg.org/sand-land-the-series-episode-13"
+      }
+    ]
   }
 ]
