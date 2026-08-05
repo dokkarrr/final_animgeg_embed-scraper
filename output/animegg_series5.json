@@ -34964,5 +34964,21 @@
         "url": "https://www.animegg.org/osomatsu-san-movie-gekijou-koukai-kinen---original-tanpen-gekijou-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 6164,
+    "title": "Ongaku Shoujo",
+    "animegg_url": "https://www.animegg.org/series/ongaku-shoujo",
+    "mal_url": "https://myanimelist.net/anime/29511",
+    "mal_id": 29511,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/75940",
+        "dub": null,
+        "url": "https://www.animegg.org/ongaku-shoujo-episode-1"
+      }
+    ]
   }
 ]
