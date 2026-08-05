@@ -56740,5 +56740,63 @@
         "url": "https://www.animegg.org/akebi-chan-no-sailor-fuku-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3764,
+    "title": "Cosprayers",
+    "animegg_url": "https://www.animegg.org/series/cosprayers",
+    "mal_url": "https://myanimelist.net/anime/112",
+    "mal_id": 112,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/47193",
+        "dub": null,
+        "url": "https://www.animegg.org/cosprayers-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/47194",
+        "dub": null,
+        "url": "https://www.animegg.org/cosprayers-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/47195",
+        "dub": null,
+        "url": "https://www.animegg.org/cosprayers-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/47196",
+        "dub": null,
+        "url": "https://www.animegg.org/cosprayers-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/47197",
+        "dub": null,
+        "url": "https://www.animegg.org/cosprayers-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/47198",
+        "dub": null,
+        "url": "https://www.animegg.org/cosprayers-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/47199",
+        "dub": null,
+        "url": "https://www.animegg.org/cosprayers-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/47200",
+        "dub": null,
+        "url": "https://www.animegg.org/cosprayers-episode-8"
+      }
+    ]
   }
 ]
