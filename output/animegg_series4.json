@@ -116304,5 +116304,21 @@
         "url": "https://www.animegg.org/angels-egg-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 4684,
+    "title": "Detective Conan: The Disappearance of Conan Edogawa, the Worst Two Days in History",
+    "animegg_url": "https://www.animegg.org/series/detective-conan-the-disappearance-of-conan-edogawa-the-worst-two-days-in-history",
+    "mal_url": "https://myanimelist.net/anime/21867",
+    "mal_id": 21867,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/76861",
+        "dub": null,
+        "url": "https://www.animegg.org/detective-conan-the-disappearance-of-conan-edogawa-the-worst-two-days-in-history-episode-1"
+      }
+    ]
   }
 ]
