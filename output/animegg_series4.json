@@ -118182,5 +118182,45 @@
         "url": "https://www.animegg.org/takopi-s-original-sin-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 4714,
+    "title": "Peacock King: Spirit Warrior",
+    "animegg_url": "https://www.animegg.org/series/peacock-king-spirit-warrior",
+    "mal_url": "https://myanimelist.net/anime/13119",
+    "mal_id": 13119,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/72439",
+        "dub": null,
+        "url": "https://www.animegg.org/peacock-king-spirit-warrior-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/72440",
+        "dub": null,
+        "url": "https://www.animegg.org/peacock-king-spirit-warrior-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/72441",
+        "dub": null,
+        "url": "https://www.animegg.org/peacock-king-spirit-warrior-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/72442",
+        "dub": null,
+        "url": "https://www.animegg.org/peacock-king-spirit-warrior-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/72443",
+        "dub": null,
+        "url": "https://www.animegg.org/peacock-king-spirit-warrior-episode-5"
+      }
+    ]
   }
 ]
