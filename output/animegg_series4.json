@@ -30962,5 +30962,51 @@
         "url": "https://www.animegg.org/hakuouki-movie-2-shikon-soukyuu-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3441,
+    "title": "Gundam 0080: War in the Pocket",
+    "animegg_url": "https://www.animegg.org/series/gundam-0080-war-in-the-pocket",
+    "mal_url": "https://myanimelist.net/anime/82",
+    "mal_id": 82,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 80,
+        "sub": "https://www.animegg.org/embed/13916",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-0080-war-in-the-pocket-episode-6"
+      },
+      {
+        "ep": 80,
+        "sub": "https://www.animegg.org/embed/13913",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-0080-war-in-the-pocket-episode-5"
+      },
+      {
+        "ep": 80,
+        "sub": "https://www.animegg.org/embed/13912",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-0080-war-in-the-pocket-episode-4"
+      },
+      {
+        "ep": 80,
+        "sub": "https://www.animegg.org/embed/13915",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-0080-war-in-the-pocket-episode-3"
+      },
+      {
+        "ep": 80,
+        "sub": "https://www.animegg.org/embed/13911",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-0080-war-in-the-pocket-episode-2"
+      },
+      {
+        "ep": 80,
+        "sub": "https://www.animegg.org/embed/13914",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-0080-war-in-the-pocket-episode-1"
+      }
+    ]
   }
 ]
