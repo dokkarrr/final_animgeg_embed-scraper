@@ -93484,5 +93484,21 @@
         "url": "https://www.animegg.org/mahoutsukai-ni-narenakatta-onnanoko-no-hanashi-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 4310,
+    "title": "Ansatsu Kyoushitsu: 365-nichi no Jikan",
+    "animegg_url": "https://www.animegg.org/series/ansatsu-kyoushitsu-365-nichi-no-jikan",
+    "mal_url": "https://myanimelist.net/anime/33513",
+    "mal_id": 33513,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 365,
+        "sub": "https://www.animegg.org/embed/88892",
+        "dub": null,
+        "url": "https://www.animegg.org/ansatsu-kyoushitsu-365-nichi-no-jikan-episode-1"
+      }
+    ]
   }
 ]
