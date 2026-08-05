@@ -80892,5 +80892,21 @@
         "url": "https://www.animegg.org/new-dominion-tank-police-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 4135,
+    "title": "Ao no Exorcist Kuro no Iede",
+    "animegg_url": "https://www.animegg.org/series/ao-no-exorcist-kuro-no-iede-ova",
+    "mal_url": "https://myanimelist.net/anime/11266",
+    "mal_id": 11266,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/1405",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-exorcist-kuro-no-iede-ova-episode-1"
+      }
+    ]
   }
 ]
