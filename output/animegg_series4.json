@@ -68474,5 +68474,21 @@
         "url": "https://www.animegg.org/tono-to-issho-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3921,
+    "title": "Hajime No Ippo: Champion Road",
+    "animegg_url": "https://www.animegg.org/series/hajime-no-ippo-champion-road",
+    "mal_url": "https://myanimelist.net/anime/264",
+    "mal_id": 264,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/15018",
+        "dub": null,
+        "url": "https://www.animegg.org/hajime-no-ippo-champion-road-episode-1"
+      }
+    ]
   }
 ]
