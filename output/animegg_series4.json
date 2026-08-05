@@ -58696,5 +58696,81 @@
         "url": "https://www.animegg.org/no-game-no-life-zero-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3794,
+    "title": "Urusei Yatsura OVA",
+    "animegg_url": "https://www.animegg.org/series/urusei-yatsura-ova",
+    "mal_url": "https://myanimelist.net/anime/1919",
+    "mal_id": 1919,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/64961",
+        "dub": null,
+        "url": "https://www.animegg.org/urusei-yatsura-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/64962",
+        "dub": null,
+        "url": "https://www.animegg.org/urusei-yatsura-ova-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/64963",
+        "dub": null,
+        "url": "https://www.animegg.org/urusei-yatsura-ova-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/64964",
+        "dub": null,
+        "url": "https://www.animegg.org/urusei-yatsura-ova-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/64965",
+        "dub": null,
+        "url": "https://www.animegg.org/urusei-yatsura-ova-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/64966",
+        "dub": null,
+        "url": "https://www.animegg.org/urusei-yatsura-ova-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/64967",
+        "dub": null,
+        "url": "https://www.animegg.org/urusei-yatsura-ova-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/64968",
+        "dub": null,
+        "url": "https://www.animegg.org/urusei-yatsura-ova-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/64969",
+        "dub": null,
+        "url": "https://www.animegg.org/urusei-yatsura-ova-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/64970",
+        "dub": null,
+        "url": "https://www.animegg.org/urusei-yatsura-ova-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/64971",
+        "dub": null,
+        "url": "https://www.animegg.org/urusei-yatsura-ova-episode-11"
+      }
+    ]
   }
 ]
