@@ -117650,5 +117650,81 @@
         "url": "https://www.animegg.org/fortune-quest-ova-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 4704,
+    "title": "Wandance",
+    "animegg_url": "https://www.animegg.org/series/wandance",
+    "mal_url": "https://myanimelist.net/anime/59623",
+    "mal_id": 59623,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/142927",
+        "dub": "https://www.animegg.org/embed/143096",
+        "url": "https://www.animegg.org/wandance-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/143021",
+        "dub": null,
+        "url": "https://www.animegg.org/wandance-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/143123",
+        "dub": "https://www.animegg.org/embed/143237",
+        "url": "https://www.animegg.org/wandance-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/143413",
+        "dub": null,
+        "url": "https://www.animegg.org/wandance-season-1-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/143350",
+        "dub": "https://www.animegg.org/embed/143505",
+        "url": "https://www.animegg.org/wandance-season-1-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/143455",
+        "dub": "https://www.animegg.org/embed/143751",
+        "url": "https://www.animegg.org/wandance-season-1-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/143874",
+        "dub": null,
+        "url": "https://www.animegg.org/wandance-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/143651",
+        "dub": "https://www.animegg.org/embed/143969",
+        "url": "https://www.animegg.org/wandance-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/143754",
+        "dub": "https://www.animegg.org/embed/144025",
+        "url": "https://www.animegg.org/wandance-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/143872",
+        "dub": "https://www.animegg.org/embed/144112",
+        "url": "https://www.animegg.org/wandance-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/143979",
+        "dub": null,
+        "url": "https://www.animegg.org/wandance-episode-12"
+      }
+    ]
   }
 ]
