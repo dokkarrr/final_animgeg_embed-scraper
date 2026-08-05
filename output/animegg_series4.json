@@ -118800,5 +118800,51 @@
         "url": "https://www.animegg.org/k-seven-stories-movie-1---rb---blaze-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4726,
+    "title": "Macross II: Lovers Again",
+    "animegg_url": "https://www.animegg.org/series/macross-ii-lovers-again",
+    "mal_url": "https://myanimelist.net/anime/1262",
+    "mal_id": 1262,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/55024",
+        "dub": "https://www.animegg.org/embed/55025",
+        "url": "https://www.animegg.org/macross-ii-lovers-again-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/55026",
+        "dub": "https://www.animegg.org/embed/55027",
+        "url": "https://www.animegg.org/macross-ii-lovers-again-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/122300",
+        "dub": null,
+        "url": "https://www.animegg.org/macross-ii-lovers-again-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/122299",
+        "dub": null,
+        "url": "https://www.animegg.org/macross-ii-lovers-again-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/122298",
+        "dub": null,
+        "url": "https://www.animegg.org/macross-ii-lovers-again-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/122297",
+        "dub": null,
+        "url": "https://www.animegg.org/macross-ii-lovers-again-episode-6"
+      }
+    ]
   }
 ]
