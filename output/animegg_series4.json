@@ -23526,5 +23526,87 @@
         "url": "https://www.animegg.org/wanmei-shijie-episode-190"
       }
     ]
+  },
+  {
+    "serial_no": 3343,
+    "title": "Okashi na Tensei",
+    "animegg_url": "https://www.animegg.org/series/okashi-na-tensei",
+    "mal_url": "https://myanimelist.net/anime/52611",
+    "mal_id": 52611,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/130053",
+        "dub": "https://www.animegg.org/embed/130423",
+        "url": "https://www.animegg.org/okashi-na-tensei-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/130054",
+        "dub": "https://www.animegg.org/embed/130422",
+        "url": "https://www.animegg.org/okashi-na-tensei-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/130124",
+        "dub": "https://www.animegg.org/embed/130548",
+        "url": "https://www.animegg.org/okashi-na-tensei-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/130295",
+        "dub": "https://www.animegg.org/embed/130733",
+        "url": "https://www.animegg.org/okashi-na-tensei-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/130545",
+        "dub": "https://www.animegg.org/embed/130831",
+        "url": "https://www.animegg.org/okashi-na-tensei-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/130732",
+        "dub": "https://www.animegg.org/embed/130922",
+        "url": "https://www.animegg.org/okashi-na-tensei-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/130830",
+        "dub": "https://www.animegg.org/embed/131007",
+        "url": "https://www.animegg.org/okashi-na-tensei-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/130919",
+        "dub": "https://www.animegg.org/embed/131098",
+        "url": "https://www.animegg.org/okashi-na-tensei-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/131005",
+        "dub": "https://www.animegg.org/embed/131189",
+        "url": "https://www.animegg.org/okashi-na-tensei-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/131096",
+        "dub": "https://www.animegg.org/embed/131298",
+        "url": "https://www.animegg.org/okashi-na-tensei-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/131187",
+        "dub": "https://www.animegg.org/embed/131387",
+        "url": "https://www.animegg.org/okashi-na-tensei-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/131296",
+        "dub": "https://www.animegg.org/embed/131490",
+        "url": "https://www.animegg.org/okashi-na-tensei-episode-12"
+      }
+    ]
   }
 ]
