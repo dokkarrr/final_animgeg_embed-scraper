@@ -19952,5 +19952,57 @@
         "url": "https://www.animegg.org/eureka-seven-hi-evolution-1-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5969,
+    "title": "With You, Our Love Will Make It Through",
+    "animegg_url": "https://www.animegg.org/series/with-you-our-love-will-make-it-through",
+    "mal_url": "https://myanimelist.net/anime/60765",
+    "mal_id": 60765,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/143746",
+        "dub": null,
+        "url": "https://www.animegg.org/with-you-our-love-will-make-it-through-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/143748",
+        "dub": null,
+        "url": "https://www.animegg.org/with-you-our-love-will-make-it-through-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/143640",
+        "dub": "https://www.animegg.org/embed/143850",
+        "url": "https://www.animegg.org/with-you-our-love-will-make-it-through-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/143743",
+        "dub": "https://www.animegg.org/embed/144081",
+        "url": "https://www.animegg.org/with-you-our-love-will-make-it-through-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/143856",
+        "dub": "https://www.animegg.org/embed/144183",
+        "url": "https://www.animegg.org/with-you-our-love-will-make-it-through-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/143968",
+        "dub": "https://www.animegg.org/embed/144283",
+        "url": "https://www.animegg.org/with-you-our-love-will-make-it-through-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/144026",
+        "dub": "https://www.animegg.org/embed/144402",
+        "url": "https://www.animegg.org/with-you-our-love-will-make-it-through-episode-12"
+      }
+    ]
   }
 ]
