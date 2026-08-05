@@ -28508,5 +28508,21 @@
         "url": "https://www.animegg.org/kiddy-girl-and-pilot-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6077,
+    "title": "Fate/stay night Movie: Heaven's Feel - III. Spring Song",
+    "animegg_url": "https://www.animegg.org/series/fatestay-night-movie-heaven-s-feel---iii-spring-song",
+    "mal_url": "https://myanimelist.net/anime/33050",
+    "mal_id": 33050,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/101321",
+        "dub": null,
+        "url": "https://www.animegg.org/fatestay-night-movie-heaven-s-feel---iii-spring-song-episode-1"
+      }
+    ]
   }
 ]
