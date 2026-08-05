@@ -59858,5 +59858,87 @@
         "url": "https://www.animegg.org/go-for-it-nakamura-episode-11"
       }
     ]
+  },
+  {
+    "serial_no": 3816,
+    "title": "Adachi to Shimamura",
+    "animegg_url": "https://www.animegg.org/series/adachi-to-shimamura",
+    "mal_url": "https://myanimelist.net/anime/39790",
+    "mal_id": 39790,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/99547",
+        "dub": null,
+        "url": "https://www.animegg.org/adachi-to-shimamura-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/99624",
+        "dub": null,
+        "url": "https://www.animegg.org/adachi-to-shimamura-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/99716",
+        "dub": null,
+        "url": "https://www.animegg.org/adachi-to-shimamura-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/99779",
+        "dub": null,
+        "url": "https://www.animegg.org/adachi-to-shimamura-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/99851",
+        "dub": null,
+        "url": "https://www.animegg.org/adachi-to-shimamura-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/99921",
+        "dub": null,
+        "url": "https://www.animegg.org/adachi-to-shimamura-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/99983",
+        "dub": null,
+        "url": "https://www.animegg.org/adachi-to-shimamura-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/100050",
+        "dub": null,
+        "url": "https://www.animegg.org/adachi-to-shimamura-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/100119",
+        "dub": null,
+        "url": "https://www.animegg.org/adachi-to-shimamura-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/100209",
+        "dub": null,
+        "url": "https://www.animegg.org/adachi-to-shimamura-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/100276",
+        "dub": null,
+        "url": "https://www.animegg.org/adachi-to-shimamura-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/100337",
+        "dub": null,
+        "url": "https://www.animegg.org/adachi-to-shimamura-episode-12"
+      }
+    ]
   }
 ]
