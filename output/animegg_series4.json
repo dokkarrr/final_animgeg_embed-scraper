@@ -57704,5 +57704,93 @@
         "url": "https://www.animegg.org/ichigo-100-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3777,
+    "title": "Uramichi Oniisan",
+    "animegg_url": "https://www.animegg.org/series/uramichi-oniisan",
+    "mal_url": "https://myanimelist.net/anime/40620",
+    "mal_id": 40620,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/102209",
+        "dub": null,
+        "url": "https://www.animegg.org/uramichi-oniisan-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/102259",
+        "dub": null,
+        "url": "https://www.animegg.org/uramichi-oniisan-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/102314",
+        "dub": null,
+        "url": "https://www.animegg.org/uramichi-oniisan-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/102368",
+        "dub": null,
+        "url": "https://www.animegg.org/uramichi-oniisan-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/102423",
+        "dub": null,
+        "url": "https://www.animegg.org/uramichi-oniisan-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/102472",
+        "dub": null,
+        "url": "https://www.animegg.org/uramichi-oniisan-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/102530",
+        "dub": null,
+        "url": "https://www.animegg.org/uramichi-oniisan-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/102584",
+        "dub": null,
+        "url": "https://www.animegg.org/uramichi-oniisan-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/102644",
+        "dub": null,
+        "url": "https://www.animegg.org/uramichi-oniisan-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/102696",
+        "dub": null,
+        "url": "https://www.animegg.org/uramichi-oniisan-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/102753",
+        "dub": null,
+        "url": "https://www.animegg.org/uramichi-oniisan-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/102809",
+        "dub": null,
+        "url": "https://www.animegg.org/uramichi-oniisan-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/102867",
+        "dub": null,
+        "url": "https://www.animegg.org/uramichi-oniisan-episode-13"
+      }
+    ]
   }
 ]
