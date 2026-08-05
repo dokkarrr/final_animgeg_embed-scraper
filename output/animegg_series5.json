@@ -75323,5 +75323,21 @@
         "url": "https://www.animegg.org/xiong-chumo-qiu-ri-tuantuanzhuan-dub-episode-50"
       }
     ]
+  },
+  {
+    "serial_no": 6532,
+    "title": "Wake Up, Girls! Seishun no Kage",
+    "animegg_url": "https://www.animegg.org/series/wake-up-girls-seishun-no-kage",
+    "mal_url": "https://myanimelist.net/anime/28841",
+    "mal_id": 28841,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/84194",
+        "dub": null,
+        "url": "https://www.animegg.org/wake-up-girls-seishun-no-kage-episode-1"
+      }
+    ]
   }
 ]
