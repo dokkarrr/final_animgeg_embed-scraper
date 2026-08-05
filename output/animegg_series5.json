@@ -119547,5 +119547,45 @@
         "url": "https://www.animegg.org/ochame-na-futago-claire-gakuin-monogatari-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 6899,
+    "title": "Goodbye, Lara",
+    "animegg_url": "https://www.animegg.org/series/goodbye-lara",
+    "mal_url": "https://myanimelist.net/anime/58878",
+    "mal_id": 58878,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/146331",
+        "dub": "https://www.animegg.org/embed/146335",
+        "url": "https://www.animegg.org/goodbye-lara-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/146402",
+        "dub": "https://www.animegg.org/embed/146405",
+        "url": "https://www.animegg.org/goodbye-lara-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/146500",
+        "dub": null,
+        "url": "https://www.animegg.org/goodbye-lara-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/146560",
+        "dub": "https://www.animegg.org/embed/146577",
+        "url": "https://www.animegg.org/goodbye-lara-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/146634",
+        "dub": null,
+        "url": "https://www.animegg.org/goodbye-lara-episode-5"
+      }
+    ]
   }
 ]
