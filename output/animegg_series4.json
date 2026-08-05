@@ -25176,5 +25176,87 @@
         "url": "https://www.animegg.org/mashle-dub-episode-7"
       }
     ]
+  },
+  {
+    "serial_no": 3364,
+    "title": "Jingai-san no Yome",
+    "animegg_url": "https://www.animegg.org/series/jingai-san-no-yome",
+    "mal_url": "https://myanimelist.net/anime/37992",
+    "mal_id": 37992,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/93068",
+        "dub": null,
+        "url": "https://www.animegg.org/jingai-san-no-yome-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/93144",
+        "dub": null,
+        "url": "https://www.animegg.org/jingai-san-no-yome-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/93222",
+        "dub": null,
+        "url": "https://www.animegg.org/jingai-san-no-yome-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/93290",
+        "dub": null,
+        "url": "https://www.animegg.org/jingai-san-no-yome-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/93384",
+        "dub": null,
+        "url": "https://www.animegg.org/jingai-san-no-yome-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/93459",
+        "dub": null,
+        "url": "https://www.animegg.org/jingai-san-no-yome-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/93544",
+        "dub": null,
+        "url": "https://www.animegg.org/jingai-san-no-yome-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/93617",
+        "dub": null,
+        "url": "https://www.animegg.org/jingai-san-no-yome-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/93687",
+        "dub": null,
+        "url": "https://www.animegg.org/jingai-san-no-yome-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/93754",
+        "dub": null,
+        "url": "https://www.animegg.org/jingai-san-no-yome-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/93843",
+        "dub": null,
+        "url": "https://www.animegg.org/jingai-san-no-yome-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/93999",
+        "dub": null,
+        "url": "https://www.animegg.org/jingai-san-no-yome-episode-12"
+      }
+    ]
   }
 ]
