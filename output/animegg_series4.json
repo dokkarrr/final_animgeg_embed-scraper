@@ -101564,5 +101564,51 @@
         "url": "https://www.animegg.org/yuru-camp-season-3-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4425,
+    "title": "Kyoshiro to Towa no Sora Specials",
+    "animegg_url": "https://www.animegg.org/series/kyoshiro-to-towa-no-sora-specials",
+    "mal_url": "https://myanimelist.net/anime/1810",
+    "mal_id": 1810,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/54548",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoshiro-to-towa-no-sora-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/54549",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoshiro-to-towa-no-sora-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/54550",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoshiro-to-towa-no-sora-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/54551",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoshiro-to-towa-no-sora-specials-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/54552",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoshiro-to-towa-no-sora-specials-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/54553",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoshiro-to-towa-no-sora-specials-episode-6"
+      }
+    ]
   }
 ]
