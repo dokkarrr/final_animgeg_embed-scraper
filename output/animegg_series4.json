@@ -9160,5 +9160,87 @@
         "url": "https://www.animegg.org/ga-geijutsuka-art-design-class-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3188,
+    "title": "Sakura Diaries",
+    "animegg_url": "https://www.animegg.org/series/sakura-diaries",
+    "mal_url": "https://myanimelist.net/anime/818",
+    "mal_id": 818,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/60317",
+        "dub": "https://www.animegg.org/embed/60318",
+        "url": "https://www.animegg.org/sakura-diaries-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/60319",
+        "dub": "https://www.animegg.org/embed/60320",
+        "url": "https://www.animegg.org/sakura-diaries-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/60321",
+        "dub": "https://www.animegg.org/embed/60322",
+        "url": "https://www.animegg.org/sakura-diaries-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/60323",
+        "dub": "https://www.animegg.org/embed/60324",
+        "url": "https://www.animegg.org/sakura-diaries-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/60325",
+        "dub": "https://www.animegg.org/embed/60326",
+        "url": "https://www.animegg.org/sakura-diaries-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/60327",
+        "dub": "https://www.animegg.org/embed/60328",
+        "url": "https://www.animegg.org/sakura-diaries-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/60329",
+        "dub": "https://www.animegg.org/embed/60330",
+        "url": "https://www.animegg.org/sakura-diaries-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/60331",
+        "dub": "https://www.animegg.org/embed/60332",
+        "url": "https://www.animegg.org/sakura-diaries-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/60333",
+        "dub": "https://www.animegg.org/embed/60334",
+        "url": "https://www.animegg.org/sakura-diaries-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/60335",
+        "dub": "https://www.animegg.org/embed/60336",
+        "url": "https://www.animegg.org/sakura-diaries-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/60337",
+        "dub": "https://www.animegg.org/embed/60338",
+        "url": "https://www.animegg.org/sakura-diaries-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/60339",
+        "dub": "https://www.animegg.org/embed/60340",
+        "url": "https://www.animegg.org/sakura-diaries-episode-12"
+      }
+    ]
   }
 ]
