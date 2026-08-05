@@ -71142,5 +71142,45 @@
         "url": "https://www.animegg.org/sonny-boy-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3970,
+    "title": "Ah! My Goddess OVA",
+    "animegg_url": "https://www.animegg.org/series/ah-my-goddess-ova",
+    "mal_url": "https://myanimelist.net/anime/49",
+    "mal_id": 49,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/58469",
+        "dub": null,
+        "url": "https://www.animegg.org/ah-my-goddess-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/58470",
+        "dub": null,
+        "url": "https://www.animegg.org/ah-my-goddess-ova-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/58471",
+        "dub": null,
+        "url": "https://www.animegg.org/ah-my-goddess-ova-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/58472",
+        "dub": null,
+        "url": "https://www.animegg.org/ah-my-goddess-ova-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/58473",
+        "dub": null,
+        "url": "https://www.animegg.org/ah-my-goddess-ova-episode-5"
+      }
+    ]
   }
 ]
