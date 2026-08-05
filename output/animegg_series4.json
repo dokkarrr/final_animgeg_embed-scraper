@@ -27938,5 +27938,87 @@
         "url": "https://www.animegg.org/ushio-to-tora-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 3399,
+    "title": "Gyagu Manga Biyori 3",
+    "animegg_url": "https://www.animegg.org/series/gyagu-manga-biyori-3",
+    "mal_url": "https://myanimelist.net/anime/4056",
+    "mal_id": 4056,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/51658",
+        "dub": null,
+        "url": "https://www.animegg.org/gyagu-manga-biyori-3-episode-12"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/51657",
+        "dub": null,
+        "url": "https://www.animegg.org/gyagu-manga-biyori-3-episode-11"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/51656",
+        "dub": null,
+        "url": "https://www.animegg.org/gyagu-manga-biyori-3-episode-10"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/51655",
+        "dub": null,
+        "url": "https://www.animegg.org/gyagu-manga-biyori-3-episode-9"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/51654",
+        "dub": null,
+        "url": "https://www.animegg.org/gyagu-manga-biyori-3-episode-8"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/51653",
+        "dub": null,
+        "url": "https://www.animegg.org/gyagu-manga-biyori-3-episode-7"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/51652",
+        "dub": null,
+        "url": "https://www.animegg.org/gyagu-manga-biyori-3-episode-6"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/51651",
+        "dub": null,
+        "url": "https://www.animegg.org/gyagu-manga-biyori-3-episode-5"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/51650",
+        "dub": null,
+        "url": "https://www.animegg.org/gyagu-manga-biyori-3-episode-4"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/51649",
+        "dub": null,
+        "url": "https://www.animegg.org/gyagu-manga-biyori-3-episode-3"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/51648",
+        "dub": null,
+        "url": "https://www.animegg.org/gyagu-manga-biyori-3-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/51647",
+        "dub": null,
+        "url": "https://www.animegg.org/gyagu-manga-biyori-3-episode-1"
+      }
+    ]
   }
 ]
