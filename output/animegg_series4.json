@@ -114286,5 +114286,39 @@
         "url": "https://www.animegg.org/double-circle-ona-episode-5"
       }
     ]
+  },
+  {
+    "serial_no": 4655,
+    "title": "El Hazard 2: The Magnificent World",
+    "animegg_url": "https://www.animegg.org/series/el-hazard-2-the-magnificent-world",
+    "mal_url": "https://myanimelist.net/anime/118",
+    "mal_id": 118,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/51275",
+        "dub": "https://www.animegg.org/embed/70035",
+        "url": "https://www.animegg.org/el-hazard-2-the-magnificent-world-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/51274",
+        "dub": "https://www.animegg.org/embed/70038",
+        "url": "https://www.animegg.org/el-hazard-2-the-magnificent-world-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/51273",
+        "dub": "https://www.animegg.org/embed/70042",
+        "url": "https://www.animegg.org/el-hazard-2-the-magnificent-world-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/51272",
+        "dub": "https://www.animegg.org/embed/70049",
+        "url": "https://www.animegg.org/el-hazard-2-the-magnificent-world-episode-1"
+      }
+    ]
   }
 ]
