@@ -15732,5 +15732,21 @@
         "url": "https://www.animegg.org/smoking-behind-the-supermarket-with-you-mini-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 5880,
+    "title": "Super Street Fighter IV",
+    "animegg_url": "https://www.animegg.org/series/super-street-fighter-iv",
+    "mal_url": "https://myanimelist.net/anime/8026",
+    "mal_id": 8026,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/36870",
+        "dub": null,
+        "url": "https://www.animegg.org/super-street-fighter-iv-episode-1"
+      }
+    ]
   }
 ]
