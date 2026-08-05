@@ -60178,5 +60178,21 @@
         "url": "https://www.animegg.org/detective-conan-movie-23-the-fist-of-blue-sapphire-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3821,
+    "title": "Detective Conan Movie 17: Private Eye in the Distant Sea",
+    "animegg_url": "https://www.animegg.org/series/detective-conan-movie-17-private-eye-in-the-distant-sea",
+    "mal_url": "https://myanimelist.net/anime/14735",
+    "mal_id": 14735,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 17,
+        "sub": "https://www.animegg.org/embed/8500",
+        "dub": null,
+        "url": "https://www.animegg.org/detective-conan-movie-17-private-eye-in-the-distant-sea-episode-1"
+      }
+    ]
   }
 ]
