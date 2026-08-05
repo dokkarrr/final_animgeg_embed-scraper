@@ -79244,5 +79244,21 @@
         "url": "https://www.animegg.org/kizumonogatari-iii-reiketsu-hen-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4107,
+    "title": "Working!!! Lord of the Takanashi",
+    "animegg_url": "https://www.animegg.org/series/working-lord-of-the-takanashi",
+    "mal_url": "https://myanimelist.net/anime/31715",
+    "mal_id": 31715,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/80495",
+        "dub": null,
+        "url": "https://www.animegg.org/working-lord-of-the-takanashi-episode-1"
+      }
+    ]
   }
 ]
