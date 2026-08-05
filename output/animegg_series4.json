@@ -42552,5 +42552,87 @@
         "url": "https://www.animegg.org/to-love-ru-darkness-2nd-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3580,
+    "title": "The New Gate",
+    "animegg_url": "https://www.animegg.org/series/the-new-gate",
+    "mal_url": "https://myanimelist.net/anime/57100",
+    "mal_id": 57100,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/133639",
+        "dub": null,
+        "url": "https://www.animegg.org/the-new-gate-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/133716",
+        "dub": null,
+        "url": "https://www.animegg.org/the-new-gate-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/133802",
+        "dub": null,
+        "url": "https://www.animegg.org/the-new-gate-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/133959",
+        "dub": null,
+        "url": "https://www.animegg.org/the-new-gate-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/134078",
+        "dub": null,
+        "url": "https://www.animegg.org/the-new-gate-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/134243",
+        "dub": null,
+        "url": "https://www.animegg.org/the-new-gate-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/135294",
+        "dub": null,
+        "url": "https://www.animegg.org/the-new-gate-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/134612",
+        "dub": null,
+        "url": "https://www.animegg.org/the-new-gate-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/134764",
+        "dub": null,
+        "url": "https://www.animegg.org/the-new-gate-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/134918",
+        "dub": null,
+        "url": "https://www.animegg.org/the-new-gate-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/135094",
+        "dub": null,
+        "url": "https://www.animegg.org/the-new-gate-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/135225",
+        "dub": null,
+        "url": "https://www.animegg.org/the-new-gate-episode-12"
+      }
+    ]
   }
 ]
