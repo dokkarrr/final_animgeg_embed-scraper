@@ -57387,5 +57387,27 @@
         "url": "https://www.animegg.org/oshiete-galko-chan-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6375,
+    "title": "Junkers Come Here",
+    "animegg_url": "https://www.animegg.org/series/junkers-come-here",
+    "mal_url": "https://myanimelist.net/anime/1116",
+    "mal_id": 1116,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/junkers-come-here-episode-1"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/junkers-come-here-episode-5"
+      }
+    ]
   }
 ]
