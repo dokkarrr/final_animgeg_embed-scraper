@@ -65433,5 +65433,21 @@
         "url": "https://www.animegg.org/yahari-ore-no-seishun-love-come-wa-machigatteiru-kan-dakara-shishunki-wa-owarazu-ni-seishun-wa-tsuzuiteiku-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6456,
+    "title": "The Story of Fifteen Boys",
+    "animegg_url": "https://www.animegg.org/series/the-story-of-fifteen-boys",
+    "mal_url": "https://myanimelist.net/anime/9095",
+    "mal_id": 9095,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/64025",
+        "dub": null,
+        "url": "https://www.animegg.org/the-story-of-fifteen-boys-episode-1"
+      }
+    ]
   }
 ]
