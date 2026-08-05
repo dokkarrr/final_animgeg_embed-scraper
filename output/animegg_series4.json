@@ -103758,5 +103758,27 @@
         "url": "https://www.animegg.org/kuroko-no-basket-movie-1-winter-cup-soushuuhen---kage-to-hikari-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4468,
+    "title": "Buddy Complex: Kanketsu-hen - Ano Sora ni Kaeru Mirai de",
+    "animegg_url": "https://www.animegg.org/series/buddy-complex-kanketsu-hen---ano-sora-ni-kaeru-mirai-de",
+    "mal_url": "https://myanimelist.net/anime/24469",
+    "mal_id": 24469,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66458",
+        "dub": null,
+        "url": "https://www.animegg.org/buddy-complex-kanketsu-hen---ano-sora-ni-kaeru-mirai-de-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/66459",
+        "dub": null,
+        "url": "https://www.animegg.org/buddy-complex-kanketsu-hen---ano-sora-ni-kaeru-mirai-de-episode-2"
+      }
+    ]
   }
 ]
