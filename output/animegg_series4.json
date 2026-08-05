@@ -76192,5 +76192,87 @@
         "url": "https://www.animegg.org/strike-witches-road-to-berlin-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4055,
+    "title": "Koisuru Asteroid",
+    "animegg_url": "https://www.animegg.org/series/koisuru-asteroid",
+    "mal_url": "https://myanimelist.net/anime/39388",
+    "mal_id": 39388,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/97444",
+        "dub": null,
+        "url": "https://www.animegg.org/koisuru-asteroid-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/97491",
+        "dub": null,
+        "url": "https://www.animegg.org/koisuru-asteroid-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/97564",
+        "dub": null,
+        "url": "https://www.animegg.org/koisuru-asteroid-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/97629",
+        "dub": null,
+        "url": "https://www.animegg.org/koisuru-asteroid-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/97698",
+        "dub": null,
+        "url": "https://www.animegg.org/koisuru-asteroid-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/97771",
+        "dub": null,
+        "url": "https://www.animegg.org/koisuru-asteroid-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/97878",
+        "dub": null,
+        "url": "https://www.animegg.org/koisuru-asteroid-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/97941",
+        "dub": null,
+        "url": "https://www.animegg.org/koisuru-asteroid-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/98004",
+        "dub": null,
+        "url": "https://www.animegg.org/koisuru-asteroid-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/98065",
+        "dub": null,
+        "url": "https://www.animegg.org/koisuru-asteroid-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/98121",
+        "dub": null,
+        "url": "https://www.animegg.org/koisuru-asteroid-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/98176",
+        "dub": null,
+        "url": "https://www.animegg.org/koisuru-asteroid-episode-12"
+      }
+    ]
   }
 ]
