@@ -136637,5 +136637,105 @@
         "url": "https://www.animegg.org/suteki-tantei-labyrinth-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 2711,
+    "title": "B'tX Neo",
+    "animegg_url": "https://www.animegg.org/series/btx-neo",
+    "mal_url": "https://myanimelist.net/anime/1736",
+    "mal_id": 1736,
+    "total_ep": 15,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/47668",
+        "dub": null,
+        "url": "https://www.animegg.org/btx-neo-episode-15"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/47654",
+        "dub": null,
+        "url": "https://www.animegg.org/btx-neo-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/47655",
+        "dub": null,
+        "url": "https://www.animegg.org/btx-neo-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/47656",
+        "dub": null,
+        "url": "https://www.animegg.org/btx-neo-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/47657",
+        "dub": null,
+        "url": "https://www.animegg.org/btx-neo-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/47658",
+        "dub": null,
+        "url": "https://www.animegg.org/btx-neo-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/47659",
+        "dub": null,
+        "url": "https://www.animegg.org/btx-neo-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/47660",
+        "dub": null,
+        "url": "https://www.animegg.org/btx-neo-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/47661",
+        "dub": null,
+        "url": "https://www.animegg.org/btx-neo-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/47663",
+        "dub": null,
+        "url": "https://www.animegg.org/btx-neo-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/47662",
+        "dub": null,
+        "url": "https://www.animegg.org/btx-neo-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/47664",
+        "dub": null,
+        "url": "https://www.animegg.org/btx-neo-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/47665",
+        "dub": null,
+        "url": "https://www.animegg.org/btx-neo-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/47666",
+        "dub": null,
+        "url": "https://www.animegg.org/btx-neo-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/47667",
+        "dub": null,
+        "url": "https://www.animegg.org/btx-neo-episode-14"
+      }
+    ]
   }
 ]
