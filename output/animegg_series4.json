@@ -83402,5 +83402,21 @@
         "url": "https://www.animegg.org/yuragi-sou-no-yuuna-san-ova-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 4158,
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Memory Snow",
+    "animegg_url": "https://www.animegg.org/series/rezero-kara-hajimeru-isekai-seikatsu---memory-snow",
+    "mal_url": "https://myanimelist.net/anime/36286",
+    "mal_id": 36286,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/95837",
+        "dub": null,
+        "url": "https://www.animegg.org/rezero-kara-hajimeru-isekai-seikatsu---memory-snow-episode-1"
+      }
+    ]
   }
 ]
