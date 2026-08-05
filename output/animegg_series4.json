@@ -97536,5 +97536,75 @@
         "url": "https://www.animegg.org/sora-wo-kakeru-shoujo-picture-drama-episode-9"
       }
     ]
+  },
+  {
+    "serial_no": 4375,
+    "title": "Food for the Soul",
+    "animegg_url": "https://www.animegg.org/series/food-for-the-soul",
+    "mal_url": "https://myanimelist.net/anime/60658",
+    "mal_id": 60658,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/140462",
+        "dub": null,
+        "url": "https://www.animegg.org/food-for-the-soul-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/140553",
+        "dub": null,
+        "url": "https://www.animegg.org/food-for-the-soul-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/140634",
+        "dub": null,
+        "url": "https://www.animegg.org/food-for-the-soul-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/140718",
+        "dub": null,
+        "url": "https://www.animegg.org/food-for-the-soul-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/140821",
+        "dub": null,
+        "url": "https://www.animegg.org/food-for-the-soul-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/140929",
+        "dub": null,
+        "url": "https://www.animegg.org/food-for-the-soul-episode-6"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/141223",
+        "dub": null,
+        "url": "https://www.animegg.org/food-for-the-soul-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/141318",
+        "dub": null,
+        "url": "https://www.animegg.org/food-for-the-soul-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/141414",
+        "dub": null,
+        "url": "https://www.animegg.org/food-for-the-soul-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/141490",
+        "dub": null,
+        "url": "https://www.animegg.org/food-for-the-soul-episode-12"
+      }
+    ]
   }
 ]
