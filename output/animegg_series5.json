@@ -77333,5 +77333,39 @@
         "url": "https://www.animegg.org/xian-wang-de-richang-shenghuo-4-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 6547,
+    "title": "Mini Yuri",
+    "animegg_url": "https://www.animegg.org/series/mini-yuri",
+    "mal_url": "https://myanimelist.net/anime/40369",
+    "mal_id": 40369,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/96561",
+        "dub": null,
+        "url": "https://www.animegg.org/mini-yuri-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/96593",
+        "dub": null,
+        "url": "https://www.animegg.org/mini-yuri-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/96743",
+        "dub": null,
+        "url": "https://www.animegg.org/mini-yuri-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/96744",
+        "dub": null,
+        "url": "https://www.animegg.org/mini-yuri-episode-4"
+      }
+    ]
   }
 ]
