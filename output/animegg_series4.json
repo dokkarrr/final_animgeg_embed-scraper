@@ -111886,5 +111886,33 @@
         "url": "https://www.animegg.org/dragon-ball-movie-3-mystical-adventure-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4607,
+    "title": "Gundam: MS IGLOO: The Hidden One Year War",
+    "animegg_url": "https://www.animegg.org/series/gundam-ms-igloo-the-hidden-one-year-war",
+    "mal_url": "https://myanimelist.net/anime/1917",
+    "mal_id": 1917,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/53116",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-ms-igloo-the-hidden-one-year-war-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/53117",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-ms-igloo-the-hidden-one-year-war-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/53118",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-ms-igloo-the-hidden-one-year-war-episode-3"
+      }
+    ]
   }
 ]
