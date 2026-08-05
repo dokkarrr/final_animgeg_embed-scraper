@@ -3478,5 +3478,21 @@
         "url": "https://www.animegg.org/pokemon-xy-z-subete-no-nazo-wo-tokiakase-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5663,
+    "title": "Tekken: Blood Vengeance",
+    "animegg_url": "https://www.animegg.org/series/tekken-blood-vengeance",
+    "mal_url": "https://myanimelist.net/anime/10702",
+    "mal_id": 10702,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/63098",
+        "dub": "https://www.animegg.org/embed/63099",
+        "url": "https://www.animegg.org/tekken-blood-vengeance-episode-1"
+      }
+    ]
   }
 ]
