@@ -73430,5 +73430,63 @@
         "url": "https://www.animegg.org/taishou-otome-otogibanashi-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4008,
+    "title": "Blue Lock vs. U-20 Japan",
+    "animegg_url": "https://www.animegg.org/series/blue-lock-vs-u-20-japan",
+    "mal_url": "https://myanimelist.net/anime/54865",
+    "mal_id": 54865,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 20,
+        "sub": "https://www.animegg.org/embed/139217",
+        "dub": null,
+        "url": "https://www.animegg.org/blue-lock-vs-u-20-japan-episode-8"
+      },
+      {
+        "ep": 20,
+        "sub": "https://www.animegg.org/embed/139036",
+        "dub": null,
+        "url": "https://www.animegg.org/blue-lock-vs-u-20-japan-episode-7"
+      },
+      {
+        "ep": 20,
+        "sub": "https://www.animegg.org/embed/138839",
+        "dub": null,
+        "url": "https://www.animegg.org/blue-lock-vs-u-20-japan-episode-6"
+      },
+      {
+        "ep": 20,
+        "sub": "https://www.animegg.org/embed/138609",
+        "dub": null,
+        "url": "https://www.animegg.org/blue-lock-vs-u-20-japan-episode-5"
+      },
+      {
+        "ep": 20,
+        "sub": "https://www.animegg.org/embed/138414",
+        "dub": null,
+        "url": "https://www.animegg.org/blue-lock-vs-u-20-japan-episode-4"
+      },
+      {
+        "ep": 20,
+        "sub": "https://www.animegg.org/embed/138177",
+        "dub": null,
+        "url": "https://www.animegg.org/blue-lock-vs-u-20-japan-episode-3"
+      },
+      {
+        "ep": 20,
+        "sub": "https://www.animegg.org/embed/137920",
+        "dub": null,
+        "url": "https://www.animegg.org/blue-lock-vs-u-20-japan-episode-2"
+      },
+      {
+        "ep": 20,
+        "sub": "https://www.animegg.org/embed/137650",
+        "dub": null,
+        "url": "https://www.animegg.org/blue-lock-vs-u-20-japan-episode-1"
+      }
+    ]
   }
 ]
