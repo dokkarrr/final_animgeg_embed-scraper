@@ -64983,5 +64983,21 @@
         "url": "https://www.animegg.org/aishang-ta-de-liyou-japanese-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 6447,
+    "title": "Tantei Opera Milky Holmes OVA",
+    "animegg_url": "https://www.animegg.org/series/tantei-opera-milky-holmes-ova",
+    "mal_url": "https://myanimelist.net/anime/7768",
+    "mal_id": 7768,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/37197",
+        "dub": null,
+        "url": "https://www.animegg.org/tantei-opera-milky-holmes-ova-episode-1"
+      }
+    ]
   }
 ]
