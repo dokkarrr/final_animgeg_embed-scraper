@@ -13629,5 +13629,21 @@
         "url": "https://www.animegg.org/toutotsu-ni-egypt-shin-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5831,
+    "title": "Prince of Tennis: Atobe Kara no Okurimono",
+    "animegg_url": "https://www.animegg.org/series/prince-of-tennis-atobe-kara-no-okurimono",
+    "mal_url": "https://myanimelist.net/anime/22",
+    "mal_id": 22,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/60714",
+        "dub": null,
+        "url": "https://www.animegg.org/prince-of-tennis-atobe-kara-no-okurimono-episode-1"
+      }
+    ]
   }
 ]
