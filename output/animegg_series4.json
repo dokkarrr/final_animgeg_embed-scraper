@@ -105144,5 +105144,87 @@
         "url": "https://www.animegg.org/taisou-zamurai-episode-11"
       }
     ]
+  },
+  {
+    "serial_no": 4498,
+    "title": "Mushikaburi-hime",
+    "animegg_url": "https://www.animegg.org/series/mushikaburi-hime",
+    "mal_url": "https://myanimelist.net/anime/50923",
+    "mal_id": 50923,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/106038",
+        "dub": null,
+        "url": "https://www.animegg.org/mushikaburi-hime-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/106104",
+        "dub": null,
+        "url": "https://www.animegg.org/mushikaburi-hime-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/106165",
+        "dub": null,
+        "url": "https://www.animegg.org/mushikaburi-hime-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/106228",
+        "dub": null,
+        "url": "https://www.animegg.org/mushikaburi-hime-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/106287",
+        "dub": null,
+        "url": "https://www.animegg.org/mushikaburi-hime-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/106347",
+        "dub": null,
+        "url": "https://www.animegg.org/mushikaburi-hime-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/106406",
+        "dub": null,
+        "url": "https://www.animegg.org/mushikaburi-hime-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/106469",
+        "dub": null,
+        "url": "https://www.animegg.org/mushikaburi-hime-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/106526",
+        "dub": null,
+        "url": "https://www.animegg.org/mushikaburi-hime-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/106581",
+        "dub": null,
+        "url": "https://www.animegg.org/mushikaburi-hime-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/106633",
+        "dub": null,
+        "url": "https://www.animegg.org/mushikaburi-hime-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/106692",
+        "dub": null,
+        "url": "https://www.animegg.org/mushikaburi-hime-episode-12"
+      }
+    ]
   }
 ]
