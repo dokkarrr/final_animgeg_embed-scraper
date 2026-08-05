@@ -109290,5 +109290,21 @@
         "url": "https://www.animegg.org/macross-specials-episode-5"
       }
     ]
+  },
+  {
+    "serial_no": 4564,
+    "title": ".hack//G.U. Trilogy",
+    "animegg_url": "https://www.animegg.org/series/hackgu-trilogy",
+    "mal_url": "https://myanimelist.net/anime/3269",
+    "mal_id": 3269,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/25060",
+        "dub": null,
+        "url": "https://www.animegg.org/movie"
+      }
+    ]
   }
 ]
