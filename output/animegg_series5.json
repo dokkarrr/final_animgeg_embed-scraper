@@ -67151,5 +67151,21 @@
         "url": "https://www.animegg.org/tenchi-muyo-mihoshi-special-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6470,
+    "title": "Shikabane Hime: Kuro Specials",
+    "animegg_url": "https://www.animegg.org/series/shikabane-hime-kuro-specials",
+    "mal_url": "https://myanimelist.net/anime/39567",
+    "mal_id": 39567,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/61068",
+        "dub": "https://www.animegg.org/embed/61069",
+        "url": "https://www.animegg.org/shikabane-hime-kuro-specials-episode-1"
+      }
+    ]
   }
 ]
