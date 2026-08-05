@@ -39348,5 +39348,87 @@
         "url": "https://www.animegg.org/umi-monogatari-anata-ga-ite-kureta-koto-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3535,
+    "title": "Teekyuu 3",
+    "animegg_url": "https://www.animegg.org/series/teekyuu-3",
+    "mal_url": "https://myanimelist.net/anime/20473",
+    "mal_id": 20473,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/46387",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-3-episode-12"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/46386",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-3-episode-11"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/46385",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-3-episode-10"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/46384",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-3-episode-9"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/46383",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-3-episode-8"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/46382",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-3-episode-7"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/46381",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-3-episode-6"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/46380",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-3-episode-5"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/46379",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-3-episode-4"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/46378",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-3-episode-3"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/46377",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-3-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/46376",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-3-episode-1"
+      }
+    ]
   }
 ]
