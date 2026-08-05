@@ -50942,5 +50942,39 @@
         "url": "https://www.animegg.org/rakuen-tsuihou-expelled-from-paradise-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3690,
+    "title": "Gundam Wing: Endless Waltz",
+    "animegg_url": "https://www.animegg.org/series/gundam-wing-endless-waltz",
+    "mal_url": "https://myanimelist.net/anime/2273",
+    "mal_id": 2273,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/52478",
+        "dub": "https://www.animegg.org/embed/52479",
+        "url": "https://www.animegg.org/gundam-wing-endless-waltz-episode-4"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/52472",
+        "dub": "https://www.animegg.org/embed/52473",
+        "url": "https://www.animegg.org/gundam-wing-endless-waltz-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/52474",
+        "dub": "https://www.animegg.org/embed/52475",
+        "url": "https://www.animegg.org/gundam-wing-endless-waltz-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/52476",
+        "dub": "https://www.animegg.org/embed/52477",
+        "url": "https://www.animegg.org/gundam-wing-endless-waltz-episode-3"
+      }
+    ]
   }
 ]
