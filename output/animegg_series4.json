@@ -98256,5 +98256,21 @@
         "url": "https://www.animegg.org/apocalypse-hotel-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4381,
+    "title": "Rescue Me!",
+    "animegg_url": "https://www.animegg.org/series/rescue-me",
+    "mal_url": "https://myanimelist.net/anime/18039",
+    "mal_id": 18039,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/31847",
+        "dub": null,
+        "url": "https://www.animegg.org/rescue-me-episode-1"
+      }
+    ]
   }
 ]
