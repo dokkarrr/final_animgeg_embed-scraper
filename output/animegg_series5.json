@@ -3510,5 +3510,21 @@
         "url": "https://www.animegg.org/city-hunter-goodbye-my-sweetheart-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5665,
+    "title": "Karakai Jouzu no Takagi-san OVA",
+    "animegg_url": "https://www.animegg.org/series/karakai-jouzu-no-takagi-san-ova",
+    "mal_url": "https://myanimelist.net/anime/38993",
+    "mal_id": 38993,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/91979",
+        "dub": null,
+        "url": "https://www.animegg.org/karakai-jouzu-no-takagi-san-ova-episode-1"
+      }
+    ]
   }
 ]
