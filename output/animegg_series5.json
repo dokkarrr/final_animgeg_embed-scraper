@@ -16372,5 +16372,21 @@
         "url": "https://www.animegg.org/xian-feng-jian-yu-lu-episode-70"
       }
     ]
+  },
+  {
+    "serial_no": 5893,
+    "title": "Cardcaptor Sakura: Leave it to Kero-chan",
+    "animegg_url": "https://www.animegg.org/series/cardcaptor-sakura-leave-it-to-kero-chan",
+    "mal_url": "https://myanimelist.net/anime/1078",
+    "mal_id": 1078,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/47970",
+        "dub": null,
+        "url": "https://www.animegg.org/cardcaptor-sakura-leave-it-to-kero-chan-episode-1"
+      }
+    ]
   }
 ]
