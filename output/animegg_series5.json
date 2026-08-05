@@ -85518,5 +85518,21 @@
         "url": "https://www.animegg.org/e-mo-di-du-chong-tian-qi-episode-49"
       }
     ]
+  },
+  {
+    "serial_no": 6627,
+    "title": "Lupin wa Ima mo Moete Iru ka?",
+    "animegg_url": "https://www.animegg.org/series/lupin-wa-ima-mo-moete-iru-ka",
+    "mal_url": "https://myanimelist.net/anime/36967",
+    "mal_id": 36967,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/94104",
+        "dub": null,
+        "url": "https://www.animegg.org/lupin-wa-ima-mo-moete-iru-ka-episode-1"
+      }
+    ]
   }
 ]
