@@ -12585,5 +12585,27 @@
         "url": "https://www.animegg.org/zoids-dub-episode-67"
       }
     ]
+  },
+  {
+    "serial_no": 5807,
+    "title": "Tsubasa: Shunraiki",
+    "animegg_url": "https://www.animegg.org/series/tsubasa-shunraiki",
+    "mal_url": "https://myanimelist.net/anime/4938",
+    "mal_id": 4938,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/64616",
+        "dub": null,
+        "url": "https://www.animegg.org/tsubasa-shunraiki-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/64617",
+        "dub": null,
+        "url": "https://www.animegg.org/tsubasa-shunraiki-episode-2"
+      }
+    ]
   }
 ]
