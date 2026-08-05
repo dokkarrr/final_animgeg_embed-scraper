@@ -85710,5 +85710,51 @@
         "url": "https://www.animegg.org/majutsushi-orphen-hagure-tabi-kimluck-hen-episode-11"
       }
     ]
+  },
+  {
+    "serial_no": 4195,
+    "title": "Musekinin Kanchou Tylor (1995)",
+    "animegg_url": "https://www.animegg.org/series/musekinin-kanchou-tylor-1995",
+    "mal_url": "https://myanimelist.net/anime/569",
+    "mal_id": 569,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1995,
+        "sub": "https://www.animegg.org/embed/56961",
+        "dub": "https://www.animegg.org/embed/56962",
+        "url": "https://www.animegg.org/musekinin-kanchou-tylor-1995-episode-6"
+      },
+      {
+        "ep": 1995,
+        "sub": "https://www.animegg.org/embed/56959",
+        "dub": "https://www.animegg.org/embed/56960",
+        "url": "https://www.animegg.org/musekinin-kanchou-tylor-1995-episode-5"
+      },
+      {
+        "ep": 1995,
+        "sub": "https://www.animegg.org/embed/56957",
+        "dub": "https://www.animegg.org/embed/56958",
+        "url": "https://www.animegg.org/musekinin-kanchou-tylor-1995-episode-4"
+      },
+      {
+        "ep": 1995,
+        "sub": "https://www.animegg.org/embed/56955",
+        "dub": "https://www.animegg.org/embed/56956",
+        "url": "https://www.animegg.org/musekinin-kanchou-tylor-1995-episode-3"
+      },
+      {
+        "ep": 1995,
+        "sub": "https://www.animegg.org/embed/56953",
+        "dub": "https://www.animegg.org/embed/56954",
+        "url": "https://www.animegg.org/musekinin-kanchou-tylor-1995-episode-2"
+      },
+      {
+        "ep": 1995,
+        "sub": "https://www.animegg.org/embed/56951",
+        "dub": "https://www.animegg.org/embed/56952",
+        "url": "https://www.animegg.org/musekinin-kanchou-tylor-1995-episode-1"
+      }
+    ]
   }
 ]
