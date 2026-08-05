@@ -109250,5 +109250,45 @@
         "url": "https://www.animegg.org/hyouka-motsubeki-mono-wa-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4563,
+    "title": "Macross Δ Specials",
+    "animegg_url": "https://www.animegg.org/series/macross-specials",
+    "mal_url": "https://myanimelist.net/anime/33806",
+    "mal_id": 33806,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/83448",
+        "dub": null,
+        "url": "https://www.animegg.org/macross-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/83792",
+        "dub": null,
+        "url": "https://www.animegg.org/macross-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/84679",
+        "dub": null,
+        "url": "https://www.animegg.org/macross-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/85901",
+        "dub": null,
+        "url": "https://www.animegg.org/macross-specials-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/85902",
+        "dub": null,
+        "url": "https://www.animegg.org/macross-specials-episode-5"
+      }
+    ]
   }
 ]
