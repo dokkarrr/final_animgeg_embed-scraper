@@ -63342,5 +63342,87 @@
         "url": "https://www.animegg.org/shounen-ashibe-go-go-goma-chan-4-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3856,
+    "title": "Futoku no Guild",
+    "animegg_url": "https://www.animegg.org/series/futoku-no-guild",
+    "mal_url": "https://myanimelist.net/anime/51212",
+    "mal_id": 51212,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/106034",
+        "dub": null,
+        "url": "https://www.animegg.org/futoku-no-guild-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/106098",
+        "dub": null,
+        "url": "https://www.animegg.org/futoku-no-guild-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/106159",
+        "dub": null,
+        "url": "https://www.animegg.org/futoku-no-guild-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/106226",
+        "dub": null,
+        "url": "https://www.animegg.org/futoku-no-guild-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/106286",
+        "dub": null,
+        "url": "https://www.animegg.org/futoku-no-guild-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/106342",
+        "dub": null,
+        "url": "https://www.animegg.org/futoku-no-guild-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/106401",
+        "dub": null,
+        "url": "https://www.animegg.org/futoku-no-guild-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/106462",
+        "dub": null,
+        "url": "https://www.animegg.org/futoku-no-guild-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/106523",
+        "dub": null,
+        "url": "https://www.animegg.org/futoku-no-guild-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/106576",
+        "dub": null,
+        "url": "https://www.animegg.org/futoku-no-guild-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/106628",
+        "dub": null,
+        "url": "https://www.animegg.org/futoku-no-guild-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/106688",
+        "dub": null,
+        "url": "https://www.animegg.org/futoku-no-guild-episode-12"
+      }
+    ]
   }
 ]
