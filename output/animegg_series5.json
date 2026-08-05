@@ -102450,5 +102450,21 @@
         "url": "https://www.animegg.org/ao-no-orchestra-season-2-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 6758,
+    "title": "Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai",
+    "animegg_url": "https://www.animegg.org/series/seishun-buta-yarou-wa-randoseru-girl-no-yume-wo-minai",
+    "mal_url": "https://myanimelist.net/anime/54870",
+    "mal_id": 54870,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/135295",
+        "dub": null,
+        "url": "https://www.animegg.org/seishun-buta-yarou-wa-randoseru-girl-no-yume-wo-minai-episode-1"
+      }
+    ]
   }
 ]
