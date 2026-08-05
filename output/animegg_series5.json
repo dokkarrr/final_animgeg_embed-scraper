@@ -6460,5 +6460,21 @@
         "url": "https://www.animegg.org/86-part-2-dub-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5714,
+    "title": "Dual Parallel! Trouble Adventures Special",
+    "animegg_url": "https://www.animegg.org/series/dual-parallel-trouble-adventures-special",
+    "mal_url": "https://myanimelist.net/anime/993",
+    "mal_id": 993,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/49310",
+        "dub": "https://www.animegg.org/embed/69657",
+        "url": "https://www.animegg.org/dual-parallel-trouble-adventures-special-episode-1"
+      }
+    ]
   }
 ]
