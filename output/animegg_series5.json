@@ -6925,5 +6925,21 @@
         "url": "https://www.animegg.org/aikatsu-movie-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5724,
+    "title": "City Hunter: Bay City Wars",
+    "animegg_url": "https://www.animegg.org/series/city-hunter-bay-city-wars",
+    "mal_url": "https://myanimelist.net/anime/1475",
+    "mal_id": 1475,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/47207",
+        "dub": "https://www.animegg.org/embed/47208",
+        "url": "https://www.animegg.org/city-hunter-bay-city-wars-episode-1"
+      }
+    ]
   }
 ]
