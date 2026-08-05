@@ -77890,5 +77890,21 @@
         "url": "https://www.animegg.org/shinya-tensai-bakabon-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4082,
+    "title": "Accel World: Infinite Burst",
+    "animegg_url": "https://www.animegg.org/series/accel-world-infinite-burst",
+    "mal_url": "https://myanimelist.net/anime/31763",
+    "mal_id": 31763,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/83288",
+        "dub": "https://www.animegg.org/embed/87773",
+        "url": "https://www.animegg.org/accel-world-infinite-burst-episode-1"
+      }
+    ]
   }
 ]
