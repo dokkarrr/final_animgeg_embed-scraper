@@ -35018,5 +35018,93 @@
         "url": "https://www.animegg.org/chained-soldier-season-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3471,
+    "title": "Mars Red",
+    "animegg_url": "https://www.animegg.org/series/mars-red",
+    "mal_url": "https://myanimelist.net/anime/41265",
+    "mal_id": 41265,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/101293",
+        "dub": null,
+        "url": "https://www.animegg.org/mars-red-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/101422",
+        "dub": null,
+        "url": "https://www.animegg.org/mars-red-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/101486",
+        "dub": null,
+        "url": "https://www.animegg.org/mars-red-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/101547",
+        "dub": null,
+        "url": "https://www.animegg.org/mars-red-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/101612",
+        "dub": null,
+        "url": "https://www.animegg.org/mars-red-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/101675",
+        "dub": null,
+        "url": "https://www.animegg.org/mars-red-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/101740",
+        "dub": null,
+        "url": "https://www.animegg.org/mars-red-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/101814",
+        "dub": null,
+        "url": "https://www.animegg.org/mars-red-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/101888",
+        "dub": null,
+        "url": "https://www.animegg.org/mars-red-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/101960",
+        "dub": null,
+        "url": "https://www.animegg.org/mars-red-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/102030",
+        "dub": null,
+        "url": "https://www.animegg.org/mars-red-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/102115",
+        "dub": null,
+        "url": "https://www.animegg.org/mars-red-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/102165",
+        "dub": null,
+        "url": "https://www.animegg.org/mars-red-episode-13"
+      }
+    ]
   }
 ]
