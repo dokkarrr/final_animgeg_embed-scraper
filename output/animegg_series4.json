@@ -39534,5 +39534,51 @@
         "url": "https://www.animegg.org/hataraku-maou-sama-2nd-season-episode-0"
       }
     ]
+  },
+  {
+    "serial_no": 3538,
+    "title": "Murder Princess",
+    "animegg_url": "https://www.animegg.org/series/murder-princess",
+    "mal_url": "https://myanimelist.net/anime/1696",
+    "mal_id": 1696,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/24812",
+        "dub": "https://www.animegg.org/embed/24813",
+        "url": "https://www.animegg.org/murder-princess-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/24816",
+        "dub": "https://www.animegg.org/embed/24817",
+        "url": "https://www.animegg.org/murder-princess-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/24814",
+        "dub": "https://www.animegg.org/embed/24815",
+        "url": "https://www.animegg.org/murder-princess-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/24810",
+        "dub": "https://www.animegg.org/embed/24811",
+        "url": "https://www.animegg.org/murder-princess-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/24808",
+        "dub": "https://www.animegg.org/embed/24809",
+        "url": "https://www.animegg.org/murder-princess-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/24818",
+        "dub": "https://www.animegg.org/embed/24819",
+        "url": "https://www.animegg.org/murder-princess-episode-6"
+      }
+    ]
   }
 ]
