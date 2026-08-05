@@ -14702,5 +14702,21 @@
         "url": "https://www.animegg.org/goshogun-the-time-etranger-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5861,
+    "title": "One Room Special",
+    "animegg_url": "https://www.animegg.org/series/one-room-special",
+    "mal_url": "https://myanimelist.net/anime/34733",
+    "mal_id": 34733,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/87270",
+        "dub": null,
+        "url": "https://www.animegg.org/one-room-special-episode-1"
+      }
+    ]
   }
 ]
