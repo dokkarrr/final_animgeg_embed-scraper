@@ -127010,5 +127010,87 @@
         "url": "https://www.animegg.org/watashi-no-oshi-wa-akuyaku-reijou-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 4833,
+    "title": "Highspeed Etoile",
+    "animegg_url": "https://www.animegg.org/series/highspeed-etoile",
+    "mal_url": "https://myanimelist.net/anime/52405",
+    "mal_id": 52405,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/highspeed-etoile-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/133620",
+        "dub": null,
+        "url": "https://www.animegg.org/highspeed-etoile-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/133705",
+        "dub": null,
+        "url": "https://www.animegg.org/highspeed-etoile-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/highspeed-etoile-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/133950",
+        "dub": null,
+        "url": "https://www.animegg.org/highspeed-etoile-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/134067",
+        "dub": null,
+        "url": "https://www.animegg.org/highspeed-etoile-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/134234",
+        "dub": null,
+        "url": "https://www.animegg.org/highspeed-etoile-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/134439",
+        "dub": null,
+        "url": "https://www.animegg.org/highspeed-etoile-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/134573",
+        "dub": null,
+        "url": "https://www.animegg.org/highspeed-etoile-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/134743",
+        "dub": null,
+        "url": "https://www.animegg.org/highspeed-etoile-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/134904",
+        "dub": null,
+        "url": "https://www.animegg.org/highspeed-etoile-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/135056",
+        "dub": null,
+        "url": "https://www.animegg.org/highspeed-etoile-episode-12"
+      }
+    ]
   }
 ]
