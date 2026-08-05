@@ -115148,5 +115148,87 @@
         "url": "https://www.animegg.org/buta-no-liver-wa-kanetsu-shiro-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4659,
+    "title": "Trigun Stargaze",
+    "animegg_url": "https://www.animegg.org/series/trigun-stargaze",
+    "mal_url": "https://myanimelist.net/anime/54863",
+    "mal_id": 54863,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/144123",
+        "dub": "https://www.animegg.org/embed/144347",
+        "url": "https://www.animegg.org/trigun-stargaze-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/144230",
+        "dub": "https://www.animegg.org/embed/144561",
+        "url": "https://www.animegg.org/trigun-stargaze-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/144336",
+        "dub": "https://www.animegg.org/embed/144560",
+        "url": "https://www.animegg.org/trigun-stargaze-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/144451",
+        "dub": "https://www.animegg.org/embed/144650",
+        "url": "https://www.animegg.org/trigun-stargaze-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/144552",
+        "dub": "https://www.animegg.org/embed/144894",
+        "url": "https://www.animegg.org/trigun-stargaze-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/144647",
+        "dub": "https://www.animegg.org/embed/144863",
+        "url": "https://www.animegg.org/trigun-stargaze-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/144746",
+        "dub": "https://www.animegg.org/embed/144977",
+        "url": "https://www.animegg.org/trigun-stargaze-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/144872",
+        "dub": "https://www.animegg.org/embed/145084",
+        "url": "https://www.animegg.org/trigun-stargaze-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/144961",
+        "dub": "https://www.animegg.org/embed/145183",
+        "url": "https://www.animegg.org/trigun-stargaze-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/145067",
+        "dub": "https://www.animegg.org/embed/145275",
+        "url": "https://www.animegg.org/trigun-stargaze-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/145181",
+        "dub": "https://www.animegg.org/embed/145374",
+        "url": "https://www.animegg.org/trigun-stargaze-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/145263",
+        "dub": null,
+        "url": "https://www.animegg.org/trigun-stargaze-episode-12"
+      }
+    ]
   }
 ]
