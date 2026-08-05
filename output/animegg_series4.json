@@ -73056,5 +73056,51 @@
         "url": "https://www.animegg.org/endro-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4000,
+    "title": "Choujikuu Seiki Orguss 02",
+    "animegg_url": "https://www.animegg.org/series/choujikuu-seiki-orguss-02",
+    "mal_url": "https://myanimelist.net/anime/2090",
+    "mal_id": 2090,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/47562",
+        "dub": "https://www.animegg.org/embed/47563",
+        "url": "https://www.animegg.org/choujikuu-seiki-orguss-02-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/47560",
+        "dub": "https://www.animegg.org/embed/47561",
+        "url": "https://www.animegg.org/choujikuu-seiki-orguss-02-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/47558",
+        "dub": "https://www.animegg.org/embed/47559",
+        "url": "https://www.animegg.org/choujikuu-seiki-orguss-02-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/47556",
+        "dub": "https://www.animegg.org/embed/47557",
+        "url": "https://www.animegg.org/choujikuu-seiki-orguss-02-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/47554",
+        "dub": "https://www.animegg.org/embed/47555",
+        "url": "https://www.animegg.org/choujikuu-seiki-orguss-02-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/47552",
+        "dub": "https://www.animegg.org/embed/47553",
+        "url": "https://www.animegg.org/choujikuu-seiki-orguss-02-episode-1"
+      }
+    ]
   }
 ]
