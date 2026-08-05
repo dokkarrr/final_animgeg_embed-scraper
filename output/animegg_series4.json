@@ -137441,5 +137441,87 @@
         "url": "https://www.animegg.org/kagaku-ninja-tai-gatchaman-ova-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 4990,
+    "title": "9: Ruler's Crown",
+    "animegg_url": "https://www.animegg.org/series/9-ruler-s-crown",
+    "mal_url": "https://myanimelist.net/anime/58957",
+    "mal_id": 58957,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/142735",
+        "dub": null,
+        "url": "https://www.animegg.org/9-ruler-s-crown-episode-13"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/142648",
+        "dub": null,
+        "url": "https://www.animegg.org/9-ruler-s-crown-episode-12"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/142548",
+        "dub": null,
+        "url": "https://www.animegg.org/9-ruler-s-crown-episode-11"
+      },
+      {
+        "ep": 9,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/9-ruler-s-crown-episode-10"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/142296",
+        "dub": null,
+        "url": "https://www.animegg.org/9-ruler-s-crown-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/142165",
+        "dub": null,
+        "url": "https://www.animegg.org/9-ruler-s-crown-episode-7"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/142028",
+        "dub": null,
+        "url": "https://www.animegg.org/9-ruler-s-crown-episode-6"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/141913",
+        "dub": null,
+        "url": "https://www.animegg.org/9-ruler-s-crown-episode-5"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/141912",
+        "dub": null,
+        "url": "https://www.animegg.org/9-ruler-s-crown-episode-4"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/141705",
+        "dub": null,
+        "url": "https://www.animegg.org/9-ruler-s-crown-episode-3"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/141594",
+        "dub": null,
+        "url": "https://www.animegg.org/9-ruler-s-crown-episode-2"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/141592",
+        "dub": null,
+        "url": "https://www.animegg.org/9-ruler-s-crown-episode-1"
+      }
+    ]
   }
 ]
