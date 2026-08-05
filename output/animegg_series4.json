@@ -105438,5 +105438,87 @@
         "url": "https://www.animegg.org/inu-ni-nattara-suki-na-hito-ni-hirowareta-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4504,
+    "title": "Once Upon a Witch's Death",
+    "animegg_url": "https://www.animegg.org/series/once-upon-a-witch-s-death",
+    "mal_url": "https://myanimelist.net/anime/59169",
+    "mal_id": 59169,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/140334",
+        "dub": "https://www.animegg.org/embed/140594",
+        "url": "https://www.animegg.org/once-upon-a-witch-s-death-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/140420",
+        "dub": "https://www.animegg.org/embed/140678",
+        "url": "https://www.animegg.org/once-upon-a-witch-s-death-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/140500",
+        "dub": "https://www.animegg.org/embed/140761",
+        "url": "https://www.animegg.org/once-upon-a-witch-s-death-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/140587",
+        "dub": "https://www.animegg.org/embed/140878",
+        "url": "https://www.animegg.org/once-upon-a-witch-s-death-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/140672",
+        "dub": "https://www.animegg.org/embed/140976",
+        "url": "https://www.animegg.org/once-upon-a-witch-s-death-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/140755",
+        "dub": "https://www.animegg.org/embed/141077",
+        "url": "https://www.animegg.org/once-upon-a-witch-s-death-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/141181",
+        "dub": null,
+        "url": "https://www.animegg.org/once-upon-a-witch-s-death-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/140970",
+        "dub": "https://www.animegg.org/embed/141278",
+        "url": "https://www.animegg.org/once-upon-a-witch-s-death-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/141076",
+        "dub": "https://www.animegg.org/embed/141375",
+        "url": "https://www.animegg.org/once-upon-a-witch-s-death-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/141175",
+        "dub": "https://www.animegg.org/embed/141439",
+        "url": "https://www.animegg.org/once-upon-a-witch-s-death-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/141262",
+        "dub": "https://www.animegg.org/embed/141530",
+        "url": "https://www.animegg.org/once-upon-a-witch-s-death-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/141368",
+        "dub": "https://www.animegg.org/embed/141628",
+        "url": "https://www.animegg.org/once-upon-a-witch-s-death-episode-12"
+      }
+    ]
   }
 ]
