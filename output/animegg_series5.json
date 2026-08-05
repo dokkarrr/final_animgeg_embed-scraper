@@ -15866,5 +15866,33 @@
         "url": "https://www.animegg.org/saenai-heroine-no-sodatekata-fine-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5888,
+    "title": "Voogie’s Angel",
+    "animegg_url": "https://www.animegg.org/series/voogie-s-angel",
+    "mal_url": "https://myanimelist.net/anime/23855",
+    "mal_id": 23855,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/69503",
+        "dub": null,
+        "url": "https://www.animegg.org/voogie-s-angel-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/69506",
+        "dub": null,
+        "url": "https://www.animegg.org/voogie-s-angel-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/69508",
+        "dub": null,
+        "url": "https://www.animegg.org/voogie-s-angel-episode-3"
+      }
+    ]
   }
 ]
