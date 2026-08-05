@@ -23628,5 +23628,21 @@
         "url": "https://www.animegg.org/mahou-no-chocolate-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6009,
+    "title": "Miss Monochrome: Supporter",
+    "animegg_url": "https://www.animegg.org/series/miss-monochrome-ova",
+    "mal_url": "https://myanimelist.net/anime/24713",
+    "mal_id": 24713,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/46373",
+        "dub": "https://www.animegg.org/embed/46374",
+        "url": "https://www.animegg.org/miss-monochrome-episode-1"
+      }
+    ]
   }
 ]
