@@ -91976,5 +91976,51 @@
         "url": "https://www.animegg.org/natsume-yuujinchou-shichi-episode-7"
       }
     ]
+  },
+  {
+    "serial_no": 4293,
+    "title": "Photon: The Idiot Adventures",
+    "animegg_url": "https://www.animegg.org/series/photon-the-idiot-adventures",
+    "mal_url": "https://myanimelist.net/anime/1944",
+    "mal_id": 1944,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/72545",
+        "dub": "https://www.animegg.org/embed/119913",
+        "url": "https://www.animegg.org/photon-the-idiot-adventures-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/72552",
+        "dub": "https://www.animegg.org/embed/119912",
+        "url": "https://www.animegg.org/photon-the-idiot-adventures-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/72554",
+        "dub": "https://www.animegg.org/embed/119911",
+        "url": "https://www.animegg.org/photon-the-idiot-adventures-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/72556",
+        "dub": "https://www.animegg.org/embed/119910",
+        "url": "https://www.animegg.org/photon-the-idiot-adventures-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/72558",
+        "dub": "https://www.animegg.org/embed/119909",
+        "url": "https://www.animegg.org/photon-the-idiot-adventures-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/72561",
+        "dub": "https://www.animegg.org/embed/104763",
+        "url": "https://www.animegg.org/photon-the-idiot-adventures-episode-6"
+      }
+    ]
   }
 ]
