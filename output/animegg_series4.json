@@ -52666,5 +52666,21 @@
         "url": "https://www.animegg.org/houkago-teibou-nisshi-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3716,
+    "title": "Kono Subarashii Sekai ni Shukufuku wo!: Kurenai Densetsu",
+    "animegg_url": "https://www.animegg.org/series/kono-subarashii-sekai-ni-shukufuku-wo-kurenai-densetsu",
+    "mal_url": "https://myanimelist.net/anime/38040",
+    "mal_id": 38040,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/98164",
+        "dub": null,
+        "url": "https://www.animegg.org/kono-subarashii-sekai-ni-shukufuku-wo-kurenai-densetsu-episode-1"
+      }
+    ]
   }
 ]
