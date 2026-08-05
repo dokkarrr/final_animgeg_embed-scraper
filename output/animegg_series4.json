@@ -49304,5 +49304,87 @@
         "url": "https://www.animegg.org/ginga-eiyuu-densetsu-die-neue-these---seiran-tv-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3666,
+    "title": "Otonari ni Ginga",
+    "animegg_url": "https://www.animegg.org/series/otonari-ni-ginga",
+    "mal_url": "https://myanimelist.net/anime/51705",
+    "mal_id": 51705,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/107677",
+        "dub": "https://www.animegg.org/embed/107895",
+        "url": "https://www.animegg.org/otonari-ni-ginga-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/107751",
+        "dub": "https://www.animegg.org/embed/120658",
+        "url": "https://www.animegg.org/otonari-ni-ginga-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/108004",
+        "dub": "https://www.animegg.org/embed/120657",
+        "url": "https://www.animegg.org/otonari-ni-ginga-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/108005",
+        "dub": "https://www.animegg.org/embed/120656",
+        "url": "https://www.animegg.org/otonari-ni-ginga-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/120655",
+        "dub": null,
+        "url": "https://www.animegg.org/otonari-ni-ginga-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/108006",
+        "dub": "https://www.animegg.org/embed/120654",
+        "url": "https://www.animegg.org/otonari-ni-ginga-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/108246",
+        "dub": "https://www.animegg.org/embed/120653",
+        "url": "https://www.animegg.org/otonari-ni-ginga-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/108381",
+        "dub": "https://www.animegg.org/embed/129789",
+        "url": "https://www.animegg.org/otonari-ni-ginga-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/108825",
+        "dub": "https://www.animegg.org/embed/129807",
+        "url": "https://www.animegg.org/otonari-ni-ginga-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/129865",
+        "dub": null,
+        "url": "https://www.animegg.org/otonari-ni-ginga-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/129864",
+        "dub": null,
+        "url": "https://www.animegg.org/otonari-ni-ginga-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/129986",
+        "dub": null,
+        "url": "https://www.animegg.org/otonari-ni-ginga-episode-12"
+      }
+    ]
   }
 ]
