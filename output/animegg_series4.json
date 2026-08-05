@@ -60692,5 +60692,69 @@
         "url": "https://www.animegg.org/mirai-nikki-redial-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3831,
+    "title": "Cat Soup Theater",
+    "animegg_url": "https://www.animegg.org/series/cat-soup-theater",
+    "mal_url": "https://myanimelist.net/anime/1062",
+    "mal_id": 1062,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/48304",
+        "dub": null,
+        "url": "https://www.animegg.org/cat-soup-theater-episode-1"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/48305",
+        "dub": null,
+        "url": "https://www.animegg.org/cat-soup-theater-episode-4"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/48306",
+        "dub": null,
+        "url": "https://www.animegg.org/cat-soup-theater-episode-7"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/48307",
+        "dub": null,
+        "url": "https://www.animegg.org/cat-soup-theater-episode-10"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/48308",
+        "dub": null,
+        "url": "https://www.animegg.org/cat-soup-theater-episode-13"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/48309",
+        "dub": null,
+        "url": "https://www.animegg.org/cat-soup-theater-episode-16"
+      },
+      {
+        "ep": 19,
+        "sub": "https://www.animegg.org/embed/48310",
+        "dub": null,
+        "url": "https://www.animegg.org/cat-soup-theater-episode-19"
+      },
+      {
+        "ep": 22,
+        "sub": "https://www.animegg.org/embed/48311",
+        "dub": null,
+        "url": "https://www.animegg.org/cat-soup-theater-episode-22"
+      },
+      {
+        "ep": 25,
+        "sub": "https://www.animegg.org/embed/48312",
+        "dub": null,
+        "url": "https://www.animegg.org/cat-soup-theater-episode-25"
+      }
+    ]
   }
 ]
