@@ -132020,5 +132020,87 @@
         "url": "https://www.animegg.org/angels-feather-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 4908,
+    "title": "Medalist",
+    "animegg_url": "https://www.animegg.org/series/medalist",
+    "mal_url": "https://myanimelist.net/anime/55318",
+    "mal_id": 55318,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/139333",
+        "dub": "https://www.animegg.org/embed/139337",
+        "url": "https://www.animegg.org/medalist-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/139449",
+        "dub": "https://www.animegg.org/embed/139450",
+        "url": "https://www.animegg.org/medalist-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/139497",
+        "dub": null,
+        "url": "https://www.animegg.org/medalist-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/139571",
+        "dub": "https://www.animegg.org/embed/139574",
+        "url": "https://www.animegg.org/medalist-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/139679",
+        "dub": "https://www.animegg.org/embed/139682",
+        "url": "https://www.animegg.org/medalist-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/139773",
+        "dub": null,
+        "url": "https://www.animegg.org/medalist-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/139855",
+        "dub": "https://www.animegg.org/embed/139861",
+        "url": "https://www.animegg.org/medalist-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/139966",
+        "dub": "https://www.animegg.org/embed/139971",
+        "url": "https://www.animegg.org/medalist-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/140064",
+        "dub": "https://www.animegg.org/embed/140067",
+        "url": "https://www.animegg.org/medalist-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/140165",
+        "dub": "https://www.animegg.org/embed/140167",
+        "url": "https://www.animegg.org/medalist-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/140229",
+        "dub": "https://www.animegg.org/embed/140231",
+        "url": "https://www.animegg.org/medalist-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/140308",
+        "dub": "https://www.animegg.org/embed/140313",
+        "url": "https://www.animegg.org/medalist-episode-13"
+      }
+    ]
   }
 ]
