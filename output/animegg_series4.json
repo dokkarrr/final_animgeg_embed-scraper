@@ -58304,5 +58304,87 @@
         "url": "https://www.animegg.org/megami-ryou-no-ryoubo-kun-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 3786,
+    "title": "Kekkon Yubiwa Monogatari",
+    "animegg_url": "https://www.animegg.org/series/kekkon-yubiwa-monogatari",
+    "mal_url": "https://myanimelist.net/anime/54265",
+    "mal_id": 54265,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/132614",
+        "dub": null,
+        "url": "https://www.animegg.org/kekkon-yubiwa-monogatari-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/132677",
+        "dub": null,
+        "url": "https://www.animegg.org/kekkon-yubiwa-monogatari-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/132760",
+        "dub": null,
+        "url": "https://www.animegg.org/kekkon-yubiwa-monogatari-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kekkon-yubiwa-monogatari-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kekkon-yubiwa-monogatari-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/132919",
+        "dub": null,
+        "url": "https://www.animegg.org/kekkon-yubiwa-monogatari-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/132994",
+        "dub": null,
+        "url": "https://www.animegg.org/kekkon-yubiwa-monogatari-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/133082",
+        "dub": null,
+        "url": "https://www.animegg.org/kekkon-yubiwa-monogatari-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/133159",
+        "dub": null,
+        "url": "https://www.animegg.org/kekkon-yubiwa-monogatari-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/133240",
+        "dub": null,
+        "url": "https://www.animegg.org/kekkon-yubiwa-monogatari-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/133323",
+        "dub": null,
+        "url": "https://www.animegg.org/kekkon-yubiwa-monogatari-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/133420",
+        "dub": null,
+        "url": "https://www.animegg.org/kekkon-yubiwa-monogatari-episode-12"
+      }
+    ]
   }
 ]
