@@ -77680,5 +77680,51 @@
         "url": "https://www.animegg.org/koukyuu-no-karasu-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 4079,
+    "title": "Dennou Boukenki Webdiver",
+    "animegg_url": "https://www.animegg.org/series/dennou-boukenki-webdiver",
+    "mal_url": "https://myanimelist.net/anime/3561",
+    "mal_id": 3561,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/50555",
+        "dub": null,
+        "url": "https://www.animegg.org/dennou-boukenki-webdiver-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/50556",
+        "dub": null,
+        "url": "https://www.animegg.org/dennou-boukenki-webdiver-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/50557",
+        "dub": null,
+        "url": "https://www.animegg.org/dennou-boukenki-webdiver-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/50558",
+        "dub": null,
+        "url": "https://www.animegg.org/dennou-boukenki-webdiver-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/50559",
+        "dub": null,
+        "url": "https://www.animegg.org/dennou-boukenki-webdiver-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/50560",
+        "dub": null,
+        "url": "https://www.animegg.org/dennou-boukenki-webdiver-episode-6"
+      }
+    ]
   }
 ]
