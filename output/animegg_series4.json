@@ -9818,5 +9818,51 @@
         "url": "https://www.animegg.org/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3198,
+    "title": "Machine-Doll wa Kizutsukanai Specials",
+    "animegg_url": "https://www.animegg.org/series/machine-doll-wa-kizutsukanai-specials",
+    "mal_url": "https://myanimelist.net/anime/21415",
+    "mal_id": 21415,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/22332",
+        "dub": "https://www.animegg.org/embed/75417",
+        "url": "https://www.animegg.org/machine-doll-wa-kizutsukanai-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/22333",
+        "dub": "https://www.animegg.org/embed/75418",
+        "url": "https://www.animegg.org/machine-doll-wa-kizutsukanai-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/22334",
+        "dub": "https://www.animegg.org/embed/75419",
+        "url": "https://www.animegg.org/machine-doll-wa-kizutsukanai-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/22336",
+        "dub": "https://www.animegg.org/embed/22337",
+        "url": "https://www.animegg.org/machine-doll-wa-kizutsukanai-specials-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/22338",
+        "dub": "https://www.animegg.org/embed/66672",
+        "url": "https://www.animegg.org/machine-doll-wa-kizutsukanai-specials-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/22335",
+        "dub": "https://www.animegg.org/embed/66845",
+        "url": "https://www.animegg.org/machine-doll-wa-kizutsukanai-specials-episode-6"
+      }
+    ]
   }
 ]
