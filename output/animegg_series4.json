@@ -66502,5 +66502,87 @@
         "url": "https://www.animegg.org/rokudou-no-onna-tachi-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3902,
+    "title": "Buddy Daddies",
+    "animegg_url": "https://www.animegg.org/series/buddy-daddies",
+    "mal_url": "https://myanimelist.net/anime/53411",
+    "mal_id": 53411,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/106783",
+        "dub": null,
+        "url": "https://www.animegg.org/buddy-daddies-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/106854",
+        "dub": null,
+        "url": "https://www.animegg.org/buddy-daddies-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/106927",
+        "dub": null,
+        "url": "https://www.animegg.org/buddy-daddies-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/106999",
+        "dub": null,
+        "url": "https://www.animegg.org/buddy-daddies-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/107071",
+        "dub": null,
+        "url": "https://www.animegg.org/buddy-daddies-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/107146",
+        "dub": null,
+        "url": "https://www.animegg.org/buddy-daddies-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/107248",
+        "dub": null,
+        "url": "https://www.animegg.org/buddy-daddies-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/107311",
+        "dub": null,
+        "url": "https://www.animegg.org/buddy-daddies-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/107442",
+        "dub": null,
+        "url": "https://www.animegg.org/buddy-daddies-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/107509",
+        "dub": null,
+        "url": "https://www.animegg.org/buddy-daddies-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/107571",
+        "dub": null,
+        "url": "https://www.animegg.org/buddy-daddies-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/107616",
+        "dub": null,
+        "url": "https://www.animegg.org/buddy-daddies-episode-12"
+      }
+    ]
   }
 ]
