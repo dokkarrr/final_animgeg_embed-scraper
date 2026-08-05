@@ -109152,5 +109152,87 @@
         "url": "https://www.animegg.org/actors-songs-connection-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4561,
+    "title": "Touring After the Apocalypse",
+    "animegg_url": "https://www.animegg.org/series/touring-after-the-apocalypse",
+    "mal_url": "https://myanimelist.net/anime/61072",
+    "mal_id": 61072,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/142809",
+        "dub": null,
+        "url": "https://www.animegg.org/touring-after-the-apocalypse-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/142866",
+        "dub": null,
+        "url": "https://www.animegg.org/touring-after-the-apocalypse-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/142966",
+        "dub": null,
+        "url": "https://www.animegg.org/touring-after-the-apocalypse-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/143069",
+        "dub": null,
+        "url": "https://www.animegg.org/touring-after-the-apocalypse-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/143180",
+        "dub": null,
+        "url": "https://www.animegg.org/touring-after-the-apocalypse-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/143290",
+        "dub": null,
+        "url": "https://www.animegg.org/touring-after-the-apocalypse-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/143396",
+        "dub": null,
+        "url": "https://www.animegg.org/touring-after-the-apocalypse-season-1-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/143506",
+        "dub": null,
+        "url": "https://www.animegg.org/touring-after-the-apocalypse-season-1-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/143570",
+        "dub": null,
+        "url": "https://www.animegg.org/touring-after-the-apocalypse-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/143695",
+        "dub": null,
+        "url": "https://www.animegg.org/touring-after-the-apocalypse-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/143823",
+        "dub": null,
+        "url": "https://www.animegg.org/touring-after-the-apocalypse-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/143936",
+        "dub": null,
+        "url": "https://www.animegg.org/touring-after-the-apocalypse-episode-12"
+      }
+    ]
   }
 ]
