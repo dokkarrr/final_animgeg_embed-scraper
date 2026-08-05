@@ -122212,5 +122212,39 @@
         "url": "https://www.animegg.org/children-who-chase-lost-voices-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4766,
+    "title": "Go! Go! 575",
+    "animegg_url": "https://www.animegg.org/series/go-go-575",
+    "mal_url": "https://myanimelist.net/anime/21267",
+    "mal_id": 21267,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 575,
+        "sub": "https://www.animegg.org/embed/13250",
+        "dub": null,
+        "url": "https://www.animegg.org/go-go-575-episode-4"
+      },
+      {
+        "ep": 575,
+        "sub": "https://www.animegg.org/embed/13249",
+        "dub": null,
+        "url": "https://www.animegg.org/go-go-575-episode-3"
+      },
+      {
+        "ep": 575,
+        "sub": "https://www.animegg.org/embed/13248",
+        "dub": null,
+        "url": "https://www.animegg.org/go-go-575-episode-2"
+      },
+      {
+        "ep": 575,
+        "sub": "https://www.animegg.org/embed/13251",
+        "dub": null,
+        "url": "https://www.animegg.org/go-go-575-episode-1"
+      }
+    ]
   }
 ]
