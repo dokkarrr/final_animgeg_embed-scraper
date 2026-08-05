@@ -70768,5 +70768,81 @@
         "url": "https://www.animegg.org/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-movie-orion-no-ya-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3965,
+    "title": "Majo to Yajuu",
+    "animegg_url": "https://www.animegg.org/series/majo-to-yajuu",
+    "mal_url": "https://myanimelist.net/anime/52816",
+    "mal_id": 52816,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/132660",
+        "dub": null,
+        "url": "https://www.animegg.org/majo-to-yajuu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/132741",
+        "dub": null,
+        "url": "https://www.animegg.org/majo-to-yajuu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/132815",
+        "dub": null,
+        "url": "https://www.animegg.org/majo-to-yajuu-episode-3"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/132902",
+        "dub": null,
+        "url": "https://www.animegg.org/majo-to-yajuu-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/132980",
+        "dub": null,
+        "url": "https://www.animegg.org/majo-to-yajuu-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/133139",
+        "dub": null,
+        "url": "https://www.animegg.org/majo-to-yajuu-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/133222",
+        "dub": null,
+        "url": "https://www.animegg.org/majo-to-yajuu-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/133303",
+        "dub": null,
+        "url": "https://www.animegg.org/majo-to-yajuu-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/133401",
+        "dub": null,
+        "url": "https://www.animegg.org/majo-to-yajuu-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/133483",
+        "dub": null,
+        "url": "https://www.animegg.org/majo-to-yajuu-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/majo-to-yajuu-episode-12"
+      }
+    ]
   }
 ]
