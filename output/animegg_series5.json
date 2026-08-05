@@ -18054,5 +18054,21 @@
         "url": "https://www.animegg.org/hikaru-no-go-new-year-special-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5922,
+    "title": "Made in Abyss Movie 3: Fukaki Tamashii no Reimei",
+    "animegg_url": "https://www.animegg.org/series/made-in-abyss-movie-3-fukaki-tamashii-no-reimei",
+    "mal_url": "https://myanimelist.net/anime/36862",
+    "mal_id": 36862,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/99400",
+        "dub": null,
+        "url": "https://www.animegg.org/made-in-abyss-movie-3-fukaki-tamashii-no-reimei-episode-1"
+      }
+    ]
   }
 ]
