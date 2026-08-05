@@ -86500,5 +86500,99 @@
         "url": "https://www.animegg.org/city-hunter-movie-shinjuku-private-eyes-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6640,
+    "title": "Long Zu",
+    "animegg_url": "https://www.animegg.org/series/long-zu-japanese-dub",
+    "mal_url": "https://myanimelist.net/anime/44408",
+    "mal_id": 44408,
+    "total_ep": 14,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/133551",
+        "dub": null,
+        "url": "https://www.animegg.org/long-zu-japanese-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/133640",
+        "dub": null,
+        "url": "https://www.animegg.org/long-zu-japanese-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/133728",
+        "dub": null,
+        "url": "https://www.animegg.org/long-zu-japanese-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/134806",
+        "dub": null,
+        "url": "https://www.animegg.org/long-zu-japanese-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/133816",
+        "dub": null,
+        "url": "https://www.animegg.org/long-zu-japanese-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/133846",
+        "dub": null,
+        "url": "https://www.animegg.org/long-zu-japanese-dub-episode-6"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/133981",
+        "dub": null,
+        "url": "https://www.animegg.org/long-zu-japanese-dub-episode-8"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/135279",
+        "dub": null,
+        "url": "https://www.animegg.org/long-zu-japanese-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/134487",
+        "dub": null,
+        "url": "https://www.animegg.org/long-zu-japanese-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/134644",
+        "dub": null,
+        "url": "https://www.animegg.org/long-zu-japanese-dub-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/134774",
+        "dub": null,
+        "url": "https://www.animegg.org/long-zu-japanese-dub-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/134936",
+        "dub": null,
+        "url": "https://www.animegg.org/long-zu-japanese-dub-episode-14"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/135133",
+        "dub": null,
+        "url": "https://www.animegg.org/long-zu-japanese-dub-episode-15"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/135229",
+        "dub": null,
+        "url": "https://www.animegg.org/long-zu-japanese-dub-episode-16"
+      }
+    ]
   }
 ]
