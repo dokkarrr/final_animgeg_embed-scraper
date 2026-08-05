@@ -24194,5 +24194,33 @@
         "url": "https://www.animegg.org/reborn-as-a-cat-season-1-episode-35"
       }
     ]
+  },
+  {
+    "serial_no": 6017,
+    "title": "Meng Qi Shi Shen",
+    "animegg_url": "https://www.animegg.org/series/meng-qi-shi-shen",
+    "mal_url": "https://myanimelist.net/anime/37618",
+    "mal_id": 37618,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/94923",
+        "dub": null,
+        "url": "https://www.animegg.org/meng-qi-shi-shen-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/94924",
+        "dub": null,
+        "url": "https://www.animegg.org/meng-qi-shi-shen-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/94925",
+        "dub": null,
+        "url": "https://www.animegg.org/meng-qi-shi-shen-episode-3"
+      }
+    ]
   }
 ]
