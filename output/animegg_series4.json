@@ -68334,5 +68334,63 @@
         "url": "https://www.animegg.org/free-eternal-summer-special-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 3919,
+    "title": "Pokemon: Twilight Wings",
+    "animegg_url": "https://www.animegg.org/series/pokemon-twilight-wings",
+    "mal_url": "https://myanimelist.net/anime/40861",
+    "mal_id": 40861,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/97550",
+        "dub": null,
+        "url": "https://www.animegg.org/pokemon-twilight-wings-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/97905",
+        "dub": null,
+        "url": "https://www.animegg.org/pokemon-twilight-wings-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/98353",
+        "dub": null,
+        "url": "https://www.animegg.org/pokemon-twilight-wings-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/98354",
+        "dub": null,
+        "url": "https://www.animegg.org/pokemon-twilight-wings-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/98692",
+        "dub": null,
+        "url": "https://www.animegg.org/pokemon-twilight-wings-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/98856",
+        "dub": null,
+        "url": "https://www.animegg.org/pokemon-twilight-wings-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/99084",
+        "dub": null,
+        "url": "https://www.animegg.org/pokemon-twilight-wings-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/99850",
+        "dub": null,
+        "url": "https://www.animegg.org/pokemon-twilight-wings-episode-8"
+      }
+    ]
   }
 ]
