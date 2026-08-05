@@ -29514,5 +29514,21 @@
         "url": "https://www.animegg.org/zatch-bell-movie-1-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6111,
+    "title": "Tamayura: Sotsugyou Shashin Part 2 - Hibiki",
+    "animegg_url": "https://www.animegg.org/series/tamayura-sotsugyou-shashin-part-2---hibiki",
+    "mal_url": "https://myanimelist.net/anime/29829",
+    "mal_id": 29829,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/79559",
+        "dub": null,
+        "url": "https://www.animegg.org/tamayura-sotsugyou-shashin-part-2---hibiki-episode-1"
+      }
+    ]
   }
 ]
