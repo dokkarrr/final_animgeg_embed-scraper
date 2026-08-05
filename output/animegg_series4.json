@@ -109306,5 +109306,63 @@
         "url": "https://www.animegg.org/movie"
       }
     ]
+  },
+  {
+    "serial_no": 4565,
+    "title": "Hataraku Saibou!!",
+    "animegg_url": "https://www.animegg.org/series/hataraku-saibou",
+    "mal_url": "https://myanimelist.net/anime/39586",
+    "mal_id": 39586,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/100430",
+        "dub": null,
+        "url": "https://www.animegg.org/hataraku-saibou-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/100511",
+        "dub": null,
+        "url": "https://www.animegg.org/hataraku-saibou-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/100599",
+        "dub": null,
+        "url": "https://www.animegg.org/hataraku-saibou-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/100672",
+        "dub": null,
+        "url": "https://www.animegg.org/hataraku-saibou-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/100747",
+        "dub": null,
+        "url": "https://www.animegg.org/hataraku-saibou-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/100813",
+        "dub": null,
+        "url": "https://www.animegg.org/hataraku-saibou-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/100887",
+        "dub": null,
+        "url": "https://www.animegg.org/hataraku-saibou-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/100964",
+        "dub": null,
+        "url": "https://www.animegg.org/hataraku-saibou-episode-8"
+      }
+    ]
   }
 ]
