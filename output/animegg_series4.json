@@ -25966,5 +25966,81 @@
         "url": "https://www.animegg.org/monster-strike-kieyuku-uchuu-hen-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3374,
+    "title": "Ristorante Paradiso",
+    "animegg_url": "https://www.animegg.org/series/ristorante-paradiso",
+    "mal_url": "https://myanimelist.net/anime/5984",
+    "mal_id": 5984,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/61736",
+        "dub": null,
+        "url": "https://www.animegg.org/ristorante-paradiso-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/61737",
+        "dub": null,
+        "url": "https://www.animegg.org/ristorante-paradiso-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/61738",
+        "dub": null,
+        "url": "https://www.animegg.org/ristorante-paradiso-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/61739",
+        "dub": null,
+        "url": "https://www.animegg.org/ristorante-paradiso-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/61740",
+        "dub": null,
+        "url": "https://www.animegg.org/ristorante-paradiso-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/61741",
+        "dub": null,
+        "url": "https://www.animegg.org/ristorante-paradiso-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/61742",
+        "dub": null,
+        "url": "https://www.animegg.org/ristorante-paradiso-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/61743",
+        "dub": null,
+        "url": "https://www.animegg.org/ristorante-paradiso-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/61744",
+        "dub": null,
+        "url": "https://www.animegg.org/ristorante-paradiso-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/61745",
+        "dub": null,
+        "url": "https://www.animegg.org/ristorante-paradiso-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/61746",
+        "dub": null,
+        "url": "https://www.animegg.org/ristorante-paradiso-episode-11"
+      }
+    ]
   }
 ]
