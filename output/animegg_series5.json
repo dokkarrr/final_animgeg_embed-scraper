@@ -50467,5 +50467,21 @@
         "url": "https://www.animegg.org/wan-jie-fa-shen-episode-54"
       }
     ]
+  },
+  {
+    "serial_no": 6316,
+    "title": "Kaitou Reinya Pilot",
+    "animegg_url": "https://www.animegg.org/series/kaitou-reinya-pilot",
+    "mal_url": "https://myanimelist.net/anime/18375",
+    "mal_id": 18375,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/55021",
+        "dub": null,
+        "url": "https://www.animegg.org/kaitou-reinya-pilot-episode-1"
+      }
+    ]
   }
 ]
