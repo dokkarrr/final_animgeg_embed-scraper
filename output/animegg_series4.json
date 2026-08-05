@@ -76028,5 +76028,87 @@
         "url": "https://www.animegg.org/himote-house-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4053,
+    "title": "City The Animation",
+    "animegg_url": "https://www.animegg.org/series/city-the-animation",
+    "mal_url": "https://myanimelist.net/anime/59898",
+    "mal_id": 59898,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/141599",
+        "dub": "https://www.animegg.org/embed/141606",
+        "url": "https://www.animegg.org/city-the-animation-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/141712",
+        "dub": "https://www.animegg.org/embed/141718",
+        "url": "https://www.animegg.org/city-the-animation-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/141826",
+        "dub": "https://www.animegg.org/embed/141829",
+        "url": "https://www.animegg.org/city-the-animation-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/141938",
+        "dub": "https://www.animegg.org/embed/141939",
+        "url": "https://www.animegg.org/city-the-animation-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/142056",
+        "dub": "https://www.animegg.org/embed/142062",
+        "url": "https://www.animegg.org/city-the-animation-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/142181",
+        "dub": "https://www.animegg.org/embed/142182",
+        "url": "https://www.animegg.org/city-the-animation-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/142292",
+        "dub": "https://www.animegg.org/embed/142300",
+        "url": "https://www.animegg.org/city-the-animation-episode-7"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/142408",
+        "dub": "https://www.animegg.org/embed/142421",
+        "url": "https://www.animegg.org/city-the-animation-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/city-the-animation-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/142556",
+        "dub": "https://www.animegg.org/embed/142564",
+        "url": "https://www.animegg.org/city-the-animation-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/142652",
+        "dub": "https://www.animegg.org/embed/142663",
+        "url": "https://www.animegg.org/city-the-animation-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/142749",
+        "dub": "https://www.animegg.org/embed/142752",
+        "url": "https://www.animegg.org/city-the-animation-episode-13"
+      }
+    ]
   }
 ]
