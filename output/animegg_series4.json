@@ -74206,5 +74206,51 @@
         "url": "https://www.animegg.org/my-home-hero-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4022,
+    "title": "Kotoura-san: Haruka no Heya",
+    "animegg_url": "https://www.animegg.org/series/kotoura-san-haruka-no-heya",
+    "mal_url": "https://myanimelist.net/anime/16636",
+    "mal_id": 16636,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/20762",
+        "dub": null,
+        "url": "https://www.animegg.org/kotoura-san-haruka-no-heya-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/20759",
+        "dub": null,
+        "url": "https://www.animegg.org/kotoura-san-haruka-no-heya-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/20758",
+        "dub": null,
+        "url": "https://www.animegg.org/kotoura-san-haruka-no-heya-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/20760",
+        "dub": null,
+        "url": "https://www.animegg.org/kotoura-san-haruka-no-heya-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/20761",
+        "dub": null,
+        "url": "https://www.animegg.org/kotoura-san-haruka-no-heya-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/20763",
+        "dub": null,
+        "url": "https://www.animegg.org/kotoura-san-haruka-no-heya-episode-6"
+      }
+    ]
   }
 ]
