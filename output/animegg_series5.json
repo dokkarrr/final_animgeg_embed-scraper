@@ -120221,5 +120221,81 @@
         "url": "https://www.animegg.org/kidou-senshi-gundam-the-origin---zenya-akai-suisei-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 6913,
+    "title": "86",
+    "animegg_url": "https://www.animegg.org/series/86-dub",
+    "mal_url": null,
+    "mal_id": null,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 86,
+        "sub": "https://www.animegg.org/embed/109252",
+        "dub": null,
+        "url": "https://www.animegg.org/86-dub-episode-11"
+      },
+      {
+        "ep": 86,
+        "sub": "https://www.animegg.org/embed/109251",
+        "dub": null,
+        "url": "https://www.animegg.org/86-dub-episode-10"
+      },
+      {
+        "ep": 86,
+        "sub": "https://www.animegg.org/embed/109260",
+        "dub": null,
+        "url": "https://www.animegg.org/86-dub-episode-9"
+      },
+      {
+        "ep": 86,
+        "sub": "https://www.animegg.org/embed/109259",
+        "dub": null,
+        "url": "https://www.animegg.org/86-dub-episode-8"
+      },
+      {
+        "ep": 86,
+        "sub": "https://www.animegg.org/embed/109258",
+        "dub": null,
+        "url": "https://www.animegg.org/86-dub-episode-7"
+      },
+      {
+        "ep": 86,
+        "sub": "https://www.animegg.org/embed/109257",
+        "dub": null,
+        "url": "https://www.animegg.org/86-dub-episode-6"
+      },
+      {
+        "ep": 86,
+        "sub": "https://www.animegg.org/embed/109256",
+        "dub": null,
+        "url": "https://www.animegg.org/86-dub-episode-5"
+      },
+      {
+        "ep": 86,
+        "sub": "https://www.animegg.org/embed/109255",
+        "dub": null,
+        "url": "https://www.animegg.org/86-dub-episode-4"
+      },
+      {
+        "ep": 86,
+        "sub": "https://www.animegg.org/embed/109254",
+        "dub": null,
+        "url": "https://www.animegg.org/86-dub-episode-3"
+      },
+      {
+        "ep": 86,
+        "sub": "https://www.animegg.org/embed/109253",
+        "dub": null,
+        "url": "https://www.animegg.org/86-dub-episode-2"
+      },
+      {
+        "ep": 86,
+        "sub": "https://www.animegg.org/embed/109250",
+        "dub": null,
+        "url": "https://www.animegg.org/86-dub-episode-1"
+      }
+    ]
   }
 ]
