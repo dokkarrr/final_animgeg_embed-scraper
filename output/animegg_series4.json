@@ -41868,5 +41868,33 @@
         "url": "https://www.animegg.org/tian-guan-ci-fu-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3568,
+    "title": "Final Fantasy VII: Advent Children",
+    "animegg_url": "https://www.animegg.org/series/final-fantasy-vii-advent-children",
+    "mal_url": "https://myanimelist.net/anime/317",
+    "mal_id": 317,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/46252",
+        "dub": "https://www.animegg.org/embed/46253",
+        "url": "https://www.animegg.org/final-fantasy-vii-advent-children-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/46254",
+        "dub": "https://www.animegg.org/embed/46255",
+        "url": "https://www.animegg.org/final-fantasy-vii-advent-children-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/46256",
+        "dub": null,
+        "url": "https://www.animegg.org/final-fantasy-vii-advent-children-episode-3"
+      }
+    ]
   }
 ]
