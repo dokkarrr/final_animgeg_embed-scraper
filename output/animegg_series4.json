@@ -7132,5 +7132,87 @@
         "url": "https://www.animegg.org/bang-dream-chan-episode-43"
       }
     ]
+  },
+  {
+    "serial_no": 3164,
+    "title": "Teekyuu",
+    "animegg_url": "https://www.animegg.org/series/teekyuu",
+    "mal_url": "https://myanimelist.net/anime/15125",
+    "mal_id": 15125,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/37355",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/37353",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/37354",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/37352",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/37351",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/37356",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/37357",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/37358",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/37359",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/37360",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/37361",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/37362",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-episode-12"
+      }
+    ]
   }
 ]
