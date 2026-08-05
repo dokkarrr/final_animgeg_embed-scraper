@@ -114060,5 +114060,33 @@
         "url": "https://www.animegg.org/chainsaw-man-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4651,
+    "title": "Gundam: MS IGLOO: Apocalypse 0079",
+    "animegg_url": "https://www.animegg.org/series/gundam-ms-igloo-apocalypse-0079",
+    "mal_url": "https://myanimelist.net/anime/1916",
+    "mal_id": 1916,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 79,
+        "sub": "https://www.animegg.org/embed/52959",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-ms-igloo-apocalypse-0079-episode-3"
+      },
+      {
+        "ep": 79,
+        "sub": "https://www.animegg.org/embed/52958",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-ms-igloo-apocalypse-0079-episode-2"
+      },
+      {
+        "ep": 79,
+        "sub": "https://www.animegg.org/embed/52957",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-ms-igloo-apocalypse-0079-episode-1"
+      }
+    ]
   }
 ]
