@@ -11008,5 +11008,81 @@
         "url": "https://www.animegg.org/potemayo-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3212,
+    "title": "Gundam Evolve",
+    "animegg_url": "https://www.animegg.org/series/gundam-evolve",
+    "mal_url": "https://myanimelist.net/anime/3288",
+    "mal_id": 3288,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/52170",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-evolve-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/52171",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-evolve-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/52172",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-evolve-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/52173",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-evolve-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/52174",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-evolve-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/52175",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-evolve-episode-6"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/52176",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-evolve-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/52177",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-evolve-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/52178",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-evolve-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/52179",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-evolve-episode-14"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/52180",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-evolve-episode-15"
+      }
+    ]
   }
 ]
