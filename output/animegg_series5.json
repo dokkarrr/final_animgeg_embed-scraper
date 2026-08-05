@@ -8291,5 +8291,27 @@
         "url": "https://www.animegg.org/guyver-out-of-control-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5749,
+    "title": "Shinryaku! Ika Musume Specials",
+    "animegg_url": "https://www.animegg.org/series/shinryaku-ika-musume-specials",
+    "mal_url": "https://myanimelist.net/anime/9888",
+    "mal_id": 9888,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/34795",
+        "dub": null,
+        "url": "https://www.animegg.org/shinryaku-ika-musume-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/34796",
+        "dub": null,
+        "url": "https://www.animegg.org/shinryaku-ika-musume-specials-episode-2"
+      }
+    ]
   }
 ]
