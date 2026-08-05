@@ -113262,5 +113262,27 @@
         "url": "https://www.animegg.org/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-tv-2nd-season-dub-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4636,
+    "title": "Nurarihyon no Mago OVA",
+    "animegg_url": "https://www.animegg.org/series/nurarihyon-no-mago-ova",
+    "mal_url": "https://myanimelist.net/anime/15959",
+    "mal_id": 15959,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/27482",
+        "dub": null,
+        "url": "https://www.animegg.org/nurarihyon-no-mago-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/27481",
+        "dub": null,
+        "url": "https://www.animegg.org/nurarihyon-no-mago-ova-episode-2"
+      }
+    ]
   }
 ]
