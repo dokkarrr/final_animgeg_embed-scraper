@@ -134824,5 +134824,21 @@
         "url": "https://www.animegg.org/champignon-witch-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4952,
+    "title": "Goblin Slayer: Goblin's Crown",
+    "animegg_url": "https://www.animegg.org/series/goblin-slayer-goblin-s-crown",
+    "mal_url": "https://myanimelist.net/anime/39576",
+    "mal_id": 39576,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/99009",
+        "dub": null,
+        "url": "https://www.animegg.org/goblin-slayer-goblin-s-crown-episode-1"
+      }
+    ]
   }
 ]
