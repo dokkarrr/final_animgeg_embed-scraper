@@ -23318,5 +23318,21 @@
         "url": "https://www.animegg.org/gyakusatsu-kikan-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6005,
+    "title": "Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?",
+    "animegg_url": "https://www.animegg.org/series/uchiage-hanabi-shita-kara-miru-ka-yoko-kara-miru-ka",
+    "mal_url": "https://myanimelist.net/anime/34498",
+    "mal_id": 34498,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/94015",
+        "dub": null,
+        "url": "https://www.animegg.org/uchiage-hanabi-shita-kara-miru-ka-yoko-kara-miru-ka-episode-1"
+      }
+    ]
   }
 ]
