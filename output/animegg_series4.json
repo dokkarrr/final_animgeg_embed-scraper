@@ -99816,5 +99816,87 @@
         "url": "https://www.animegg.org/kemurikusa-tv-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4396,
+    "title": "Gal to Kyouryuu",
+    "animegg_url": "https://www.animegg.org/series/gal-to-kyouryuu",
+    "mal_url": "https://myanimelist.net/anime/40358",
+    "mal_id": 40358,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/98235",
+        "dub": null,
+        "url": "https://www.animegg.org/gal-to-kyouryuu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/98287",
+        "dub": null,
+        "url": "https://www.animegg.org/gal-to-kyouryuu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/98335",
+        "dub": null,
+        "url": "https://www.animegg.org/gal-to-kyouryuu-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/98392",
+        "dub": null,
+        "url": "https://www.animegg.org/gal-to-kyouryuu-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/98436",
+        "dub": null,
+        "url": "https://www.animegg.org/gal-to-kyouryuu-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/98481",
+        "dub": null,
+        "url": "https://www.animegg.org/gal-to-kyouryuu-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/98512",
+        "dub": null,
+        "url": "https://www.animegg.org/gal-to-kyouryuu-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/100075",
+        "dub": null,
+        "url": "https://www.animegg.org/gal-to-kyouryuu-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/100078",
+        "dub": null,
+        "url": "https://www.animegg.org/gal-to-kyouryuu-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/100146",
+        "dub": null,
+        "url": "https://www.animegg.org/gal-to-kyouryuu-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/100234",
+        "dub": null,
+        "url": "https://www.animegg.org/gal-to-kyouryuu-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/100299",
+        "dub": null,
+        "url": "https://www.animegg.org/gal-to-kyouryuu-episode-12"
+      }
+    ]
   }
 ]
