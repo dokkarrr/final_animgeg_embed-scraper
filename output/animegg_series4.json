@@ -4328,5 +4328,21 @@
         "url": "https://www.animegg.org/yama-no-susume-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3129,
+    "title": "Noblesse: The Beginning of Destruction",
+    "animegg_url": "https://www.animegg.org/series/noblesse-the-beginning-of-destruction",
+    "mal_url": "https://myanimelist.net/anime/32566",
+    "mal_id": 32566,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/81117",
+        "dub": "https://www.animegg.org/embed/81130",
+        "url": "https://www.animegg.org/noblesse-the-beginning-of-destruction-episode-1"
+      }
+    ]
   }
 ]
