@@ -60022,5 +60022,87 @@
         "url": "https://www.animegg.org/ultraviolet-code-044-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3818,
+    "title": "Tesagure! Bukatsumono",
+    "animegg_url": "https://www.animegg.org/series/tesagure-bukatsumono",
+    "mal_url": "https://myanimelist.net/anime/19919",
+    "mal_id": 19919,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/37639",
+        "dub": null,
+        "url": "https://www.animegg.org/tesagure-bukatsumono-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/37632",
+        "dub": null,
+        "url": "https://www.animegg.org/tesagure-bukatsumono-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/37634",
+        "dub": null,
+        "url": "https://www.animegg.org/tesagure-bukatsumono-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/37633",
+        "dub": null,
+        "url": "https://www.animegg.org/tesagure-bukatsumono-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/37631",
+        "dub": null,
+        "url": "https://www.animegg.org/tesagure-bukatsumono-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/37635",
+        "dub": null,
+        "url": "https://www.animegg.org/tesagure-bukatsumono-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/37637",
+        "dub": null,
+        "url": "https://www.animegg.org/tesagure-bukatsumono-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/37638",
+        "dub": null,
+        "url": "https://www.animegg.org/tesagure-bukatsumono-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/37636",
+        "dub": null,
+        "url": "https://www.animegg.org/tesagure-bukatsumono-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/37640",
+        "dub": null,
+        "url": "https://www.animegg.org/tesagure-bukatsumono-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/37641",
+        "dub": null,
+        "url": "https://www.animegg.org/tesagure-bukatsumono-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/37642",
+        "dub": null,
+        "url": "https://www.animegg.org/tesagure-bukatsumono-episode-12"
+      }
+    ]
   }
 ]
