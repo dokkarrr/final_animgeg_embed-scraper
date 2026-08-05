@@ -42962,5 +42962,39 @@
         "url": "https://www.animegg.org/mahoutsukai-no-yome-season-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3585,
+    "title": ".hack//Liminality",
+    "animegg_url": "https://www.animegg.org/series/hackliminality",
+    "mal_url": "https://myanimelist.net/anime/299",
+    "mal_id": 299,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/112",
+        "dub": "https://www.animegg.org/embed/67886",
+        "url": "https://www.animegg.org/hackliminality-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/113",
+        "dub": "https://www.animegg.org/embed/67889",
+        "url": "https://www.animegg.org/hackliminality-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/114",
+        "dub": "https://www.animegg.org/embed/67890",
+        "url": "https://www.animegg.org/hackliminality-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/115",
+        "dub": "https://www.animegg.org/embed/67891",
+        "url": "https://www.animegg.org/hackliminality-episode-4"
+      }
+    ]
   }
 ]
