@@ -57024,5 +57024,87 @@
         "url": "https://www.animegg.org/maji-de-otaku-na-english-ribbon-chan-eigo-de-tatakau-mahou-shoujo---the-tv-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 3769,
+    "title": "Anima Yell!",
+    "animegg_url": "https://www.animegg.org/series/anima-yell",
+    "mal_url": "https://myanimelist.net/anime/37206",
+    "mal_id": 37206,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/93118",
+        "dub": null,
+        "url": "https://www.animegg.org/anima-yell-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/93196",
+        "dub": null,
+        "url": "https://www.animegg.org/anima-yell-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/93272",
+        "dub": null,
+        "url": "https://www.animegg.org/anima-yell-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/93361",
+        "dub": null,
+        "url": "https://www.animegg.org/anima-yell-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/93438",
+        "dub": null,
+        "url": "https://www.animegg.org/anima-yell-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/93516",
+        "dub": null,
+        "url": "https://www.animegg.org/anima-yell-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/93595",
+        "dub": null,
+        "url": "https://www.animegg.org/anima-yell-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/93665",
+        "dub": null,
+        "url": "https://www.animegg.org/anima-yell-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/93730",
+        "dub": null,
+        "url": "https://www.animegg.org/anima-yell-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/93813",
+        "dub": null,
+        "url": "https://www.animegg.org/anima-yell-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/93968",
+        "dub": null,
+        "url": "https://www.animegg.org/anima-yell-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/94052",
+        "dub": null,
+        "url": "https://www.animegg.org/anima-yell-episode-12"
+      }
+    ]
   }
 ]
