@@ -15290,5 +15290,27 @@
         "url": "https://www.animegg.org/psycho-pass-sinners-of-the-system-case1---tsumi-to-bachi-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5873,
+    "title": "Ronin Warriors Gaiden",
+    "animegg_url": "https://www.animegg.org/series/ronin-warriors-gaiden",
+    "mal_url": "https://myanimelist.net/anime/1265",
+    "mal_id": 1265,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/61586",
+        "dub": null,
+        "url": "https://www.animegg.org/ronin-warriors-gaiden-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/61587",
+        "dub": null,
+        "url": "https://www.animegg.org/ronin-warriors-gaiden-episode-2"
+      }
+    ]
   }
 ]
