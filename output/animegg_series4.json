@@ -68960,5 +68960,21 @@
         "url": "https://www.animegg.org/earthian-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 3930,
+    "title": "Shingeki no Kyojin Movie 1: Guren no Yumiya",
+    "animegg_url": "https://www.animegg.org/series/shingeki-no-kyojin-movie-1-guren-no-yumiya",
+    "mal_url": "https://myanimelist.net/anime/23775",
+    "mal_id": 23775,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/75846",
+        "dub": "https://www.animegg.org/embed/76707",
+        "url": "https://www.animegg.org/shingeki-no-kyojin-movie-1-guren-no-yumiya-episode-1"
+      }
+    ]
   }
 ]
