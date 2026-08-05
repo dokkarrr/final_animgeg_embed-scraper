@@ -63738,5 +63738,21 @@
         "url": "https://www.animegg.org/ketsuekigata-kun-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 3862,
+    "title": "Gintama: The Final",
+    "animegg_url": "https://www.animegg.org/series/gintama-kanketsu-hen---yorozuya-yo-eien-nare",
+    "mal_url": "https://myanimelist.net/anime/39486",
+    "mal_id": 39486,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/42797",
+        "dub": null,
+        "url": "https://www.animegg.org/gintama-kanketsu-hen---yorozuya-yo-eien-nare-episode-1"
+      }
+    ]
   }
 ]
