@@ -59297,5 +59297,21 @@
         "url": "https://www.animegg.org/ceo-s-sudden-proposal-episode-49"
       }
     ]
+  },
+  {
+    "serial_no": 6392,
+    "title": "Gravity Daze The Animation: Ouverture",
+    "animegg_url": "https://www.animegg.org/series/gravity-daze-the-animation-ouverture",
+    "mal_url": "https://myanimelist.net/anime/33697",
+    "mal_id": 33697,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/85311",
+        "dub": null,
+        "url": "https://www.animegg.org/gravity-daze-the-animation-ouverture-episode-1"
+      }
+    ]
   }
 ]
