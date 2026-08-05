@@ -5272,5 +5272,27 @@
         "url": "https://www.animegg.org/free-take-your-marks-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 5693,
+    "title": "Fushigi Yugi Eikoden",
+    "animegg_url": "https://www.animegg.org/series/fushigi-yugi-eikoden",
+    "mal_url": "https://myanimelist.net/anime/124",
+    "mal_id": 124,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/69848",
+        "dub": null,
+        "url": "https://www.animegg.org/fushigi-yugi-eikoden-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/69849",
+        "dub": null,
+        "url": "https://www.animegg.org/fushigi-yugi-eikoden-episode-2"
+      }
+    ]
   }
 ]
