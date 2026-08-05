@@ -132498,5 +132498,81 @@
         "url": "https://www.animegg.org/kamichu-specials-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 4915,
+    "title": "My Awkward Senpai",
+    "animegg_url": "https://www.animegg.org/series/my-awkward-senpai",
+    "mal_url": "https://myanimelist.net/anime/60531",
+    "mal_id": 60531,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/142782",
+        "dub": null,
+        "url": "https://www.animegg.org/my-awkward-senpai-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/142852",
+        "dub": null,
+        "url": "https://www.animegg.org/my-awkward-senpai-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/142944",
+        "dub": null,
+        "url": "https://www.animegg.org/my-awkward-senpai-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/143037",
+        "dub": null,
+        "url": "https://www.animegg.org/my-awkward-senpai-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/143130",
+        "dub": null,
+        "url": "https://www.animegg.org/my-awkward-senpai-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/143252",
+        "dub": null,
+        "url": "https://www.animegg.org/my-awkward-senpai-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/143355",
+        "dub": null,
+        "url": "https://www.animegg.org/my-awkward-senpai-season-1-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/143467",
+        "dub": null,
+        "url": "https://www.animegg.org/my-awkward-senpai-season-1-episode-8"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/143662",
+        "dub": null,
+        "url": "https://www.animegg.org/my-awkward-senpai-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/143778",
+        "dub": null,
+        "url": "https://www.animegg.org/my-awkward-senpai-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/143892",
+        "dub": null,
+        "url": "https://www.animegg.org/my-awkward-senpai-episode-12"
+      }
+    ]
   }
 ]
