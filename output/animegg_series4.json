@@ -83166,5 +83166,93 @@
         "url": "https://www.animegg.org/cestvs-the-roman-fighter-episode-11"
       }
     ]
+  },
+  {
+    "serial_no": 4153,
+    "title": "Granbelm",
+    "animegg_url": "https://www.animegg.org/series/granbelm",
+    "mal_url": "https://myanimelist.net/anime/39417",
+    "mal_id": 39417,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/95821",
+        "dub": null,
+        "url": "https://www.animegg.org/granbelm-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/95892",
+        "dub": null,
+        "url": "https://www.animegg.org/granbelm-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/95970",
+        "dub": null,
+        "url": "https://www.animegg.org/granbelm-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/96029",
+        "dub": null,
+        "url": "https://www.animegg.org/granbelm-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/96090",
+        "dub": null,
+        "url": "https://www.animegg.org/granbelm-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/96148",
+        "dub": null,
+        "url": "https://www.animegg.org/granbelm-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/96206",
+        "dub": null,
+        "url": "https://www.animegg.org/granbelm-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/96263",
+        "dub": null,
+        "url": "https://www.animegg.org/granbelm-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/96328",
+        "dub": null,
+        "url": "https://www.animegg.org/granbelm-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/96385",
+        "dub": null,
+        "url": "https://www.animegg.org/granbelm-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/96446",
+        "dub": null,
+        "url": "https://www.animegg.org/granbelm-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/96504",
+        "dub": null,
+        "url": "https://www.animegg.org/granbelm-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/96544",
+        "dub": null,
+        "url": "https://www.animegg.org/granbelm-episode-13"
+      }
+    ]
   }
 ]
