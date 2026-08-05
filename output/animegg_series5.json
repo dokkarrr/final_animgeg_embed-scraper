@@ -57835,5 +57835,21 @@
         "url": "https://www.animegg.org/sonic-night-of-the-werehog-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6382,
+    "title": "Project A-Ko 3: Cinderella Rhapsody",
+    "animegg_url": "https://www.animegg.org/series/project-a-ko-3-cinderella-rhapsody",
+    "mal_url": "https://myanimelist.net/anime/1297",
+    "mal_id": 1297,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/59766",
+        "dub": null,
+        "url": "https://www.animegg.org/project-a-ko-3-cinderella-rhapsody-episode-1"
+      }
+    ]
   }
 ]
