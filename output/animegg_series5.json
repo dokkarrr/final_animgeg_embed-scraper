@@ -20036,5 +20036,21 @@
         "url": "https://www.animegg.org/masamune-kun-no-revenge-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5972,
+    "title": "Coluboccoro",
+    "animegg_url": "https://www.animegg.org/series/coluboccoro",
+    "mal_url": "https://myanimelist.net/anime/11735",
+    "mal_id": 11735,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/81885",
+        "dub": null,
+        "url": "https://www.animegg.org/coluboccoro-episode-1"
+      }
+    ]
   }
 ]
