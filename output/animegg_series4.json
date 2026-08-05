@@ -47914,5 +47914,87 @@
         "url": "https://www.animegg.org/aikatsu-friends-kagayaki-no-jewel-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 3647,
+    "title": "Kingdom 5th Season",
+    "animegg_url": "https://www.animegg.org/series/kingdom-5th-season",
+    "mal_url": "https://myanimelist.net/anime/53223",
+    "mal_id": 53223,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/133512",
+        "dub": null,
+        "url": "https://www.animegg.org/kingdom-5th-season-episode-13"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/133434",
+        "dub": null,
+        "url": "https://www.animegg.org/kingdom-5th-season-episode-11"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/133339",
+        "dub": null,
+        "url": "https://www.animegg.org/kingdom-5th-season-episode-10"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/133253",
+        "dub": null,
+        "url": "https://www.animegg.org/kingdom-5th-season-episode-9"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/133171",
+        "dub": null,
+        "url": "https://www.animegg.org/kingdom-5th-season-episode-8"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/133092",
+        "dub": null,
+        "url": "https://www.animegg.org/kingdom-5th-season-episode-7"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/133016",
+        "dub": null,
+        "url": "https://www.animegg.org/kingdom-5th-season-episode-6"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/132931",
+        "dub": null,
+        "url": "https://www.animegg.org/kingdom-5th-season-episode-5"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kingdom-5th-season-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/132842",
+        "dub": null,
+        "url": "https://www.animegg.org/kingdom-5th-season-episode-3"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/132771",
+        "dub": null,
+        "url": "https://www.animegg.org/kingdom-5th-season-episode-2"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/132688",
+        "dub": null,
+        "url": "https://www.animegg.org/kingdom-5th-season-episode-1"
+      }
+    ]
   }
 ]
