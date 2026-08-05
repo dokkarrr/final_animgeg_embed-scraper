@@ -64324,5 +64324,63 @@
         "url": "https://www.animegg.org/ao-no-exorcist-yuki-no-hate-hen-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3869,
+    "title": "Kami no Tou: Koubou-sen",
+    "animegg_url": "https://www.animegg.org/series/kami-no-tou-koubou-sen",
+    "mal_url": "https://myanimelist.net/anime/59989",
+    "mal_id": 59989,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/137676",
+        "dub": null,
+        "url": "https://www.animegg.org/kami-no-tou-koubou-sen-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/137950",
+        "dub": null,
+        "url": "https://www.animegg.org/kami-no-tou-koubou-sen-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/138191",
+        "dub": null,
+        "url": "https://www.animegg.org/kami-no-tou-koubou-sen-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/138427",
+        "dub": null,
+        "url": "https://www.animegg.org/kami-no-tou-koubou-sen-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/138654",
+        "dub": null,
+        "url": "https://www.animegg.org/kami-no-tou-koubou-sen-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/138878",
+        "dub": null,
+        "url": "https://www.animegg.org/kami-no-tou-koubou-sen-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/139077",
+        "dub": null,
+        "url": "https://www.animegg.org/kami-no-tou-koubou-sen-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/139254",
+        "dub": null,
+        "url": "https://www.animegg.org/kami-no-tou-koubou-sen-episode-8"
+      }
+    ]
   }
 ]
