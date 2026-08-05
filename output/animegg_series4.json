@@ -70372,5 +70372,21 @@
         "url": "https://www.animegg.org/kai-byoui-ramune-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3956,
+    "title": "Bleach: Memories in the Rain",
+    "animegg_url": "https://www.animegg.org/series/bleach-memories-in-the-rain",
+    "mal_url": "https://myanimelist.net/anime/762",
+    "mal_id": 762,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/49093",
+        "dub": null,
+        "url": "https://www.animegg.org/bleach-memories-in-the-rain-episode-1"
+      }
+    ]
   }
 ]
