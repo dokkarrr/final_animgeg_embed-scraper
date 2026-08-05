@@ -100700,5 +100700,93 @@
         "url": "https://www.animegg.org/snack-basue-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 4410,
+    "title": "Code Geass: Dakkan no Rozé",
+    "animegg_url": "https://www.animegg.org/series/code-geass-dakkan-no-roz",
+    "mal_url": "https://myanimelist.net/anime/56835",
+    "mal_id": 56835,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/135047",
+        "dub": null,
+        "url": "https://www.animegg.org/code-geass-dakkan-no-roz-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/135174",
+        "dub": null,
+        "url": "https://www.animegg.org/code-geass-dakkan-no-roz-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/135400",
+        "dub": null,
+        "url": "https://www.animegg.org/code-geass-dakkan-no-roz-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/135555",
+        "dub": null,
+        "url": "https://www.animegg.org/code-geass-dakkan-no-roz-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/135688",
+        "dub": null,
+        "url": "https://www.animegg.org/code-geass-dakkan-no-roz-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/135820",
+        "dub": null,
+        "url": "https://www.animegg.org/code-geass-dakkan-no-roz-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/136001",
+        "dub": null,
+        "url": "https://www.animegg.org/code-geass-dakkan-no-roz-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/136163",
+        "dub": null,
+        "url": "https://www.animegg.org/code-geass-dakkan-no-roz-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/136311",
+        "dub": null,
+        "url": "https://www.animegg.org/code-geass-dakkan-no-roz-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/136465",
+        "dub": null,
+        "url": "https://www.animegg.org/code-geass-dakkan-no-roz-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/136661",
+        "dub": null,
+        "url": "https://www.animegg.org/code-geass-dakkan-no-roz-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/136820",
+        "dub": null,
+        "url": "https://www.animegg.org/code-geass-dakkan-no-roz-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/136821",
+        "dub": null,
+        "url": "https://www.animegg.org/code-geass-dakkan-no-roz-episode-13"
+      }
+    ]
   }
 ]
