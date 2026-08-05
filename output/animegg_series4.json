@@ -115230,5 +115230,87 @@
         "url": "https://www.animegg.org/trigun-stargaze-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4660,
+    "title": "Healer Girl",
+    "animegg_url": "https://www.animegg.org/series/healer-girl",
+    "mal_url": "https://myanimelist.net/anime/48857",
+    "mal_id": 48857,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/104339",
+        "dub": null,
+        "url": "https://www.animegg.org/healer-girl-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/104398",
+        "dub": null,
+        "url": "https://www.animegg.org/healer-girl-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/104469",
+        "dub": null,
+        "url": "https://www.animegg.org/healer-girl-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/104529",
+        "dub": null,
+        "url": "https://www.animegg.org/healer-girl-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/104584",
+        "dub": null,
+        "url": "https://www.animegg.org/healer-girl-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/104642",
+        "dub": null,
+        "url": "https://www.animegg.org/healer-girl-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/104702",
+        "dub": null,
+        "url": "https://www.animegg.org/healer-girl-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/104858",
+        "dub": null,
+        "url": "https://www.animegg.org/healer-girl-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/104918",
+        "dub": null,
+        "url": "https://www.animegg.org/healer-girl-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/104978",
+        "dub": null,
+        "url": "https://www.animegg.org/healer-girl-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/105058",
+        "dub": null,
+        "url": "https://www.animegg.org/healer-girl-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/105115",
+        "dub": null,
+        "url": "https://www.animegg.org/healer-girl-episode-12"
+      }
+    ]
   }
 ]
