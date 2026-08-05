@@ -11527,5 +11527,27 @@
         "url": "https://www.animegg.org/lupin-iii-princess-of-the-breeze---hidden-city-in-the-sky-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5793,
+    "title": "Isekai Meikyuu de Harem wo Specials",
+    "animegg_url": "https://www.animegg.org/series/isekai-meikyuu-de-harem-wo-specials",
+    "mal_url": "https://myanimelist.net/anime/52281",
+    "mal_id": 52281,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/107039",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-meikyuu-de-harem-wo-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/107040",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-meikyuu-de-harem-wo-specials-episode-2"
+      }
+    ]
   }
 ]
