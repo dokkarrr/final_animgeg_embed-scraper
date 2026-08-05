@@ -33724,5 +33724,51 @@
         "url": "https://www.animegg.org/world-fool-news-tv-part-ii-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3452,
+    "title": "Fushigi Yuugi OVA 2",
+    "animegg_url": "https://www.animegg.org/series/fushigi-yuugi-dai-ni-bu",
+    "mal_url": "https://myanimelist.net/anime/381",
+    "mal_id": 381,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/11801",
+        "dub": "https://www.animegg.org/embed/11802",
+        "url": "https://www.animegg.org/fushigi-yuugi-dai-ni-bu-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/11795",
+        "dub": "https://www.animegg.org/embed/11796",
+        "url": "https://www.animegg.org/fushigi-yuugi-dai-ni-bu-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/11791",
+        "dub": "https://www.animegg.org/embed/11792",
+        "url": "https://www.animegg.org/fushigi-yuugi-dai-ni-bu-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/11797",
+        "dub": "https://www.animegg.org/embed/69850",
+        "url": "https://www.animegg.org/fushigi-yuugi-dai-ni-bu-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/11793",
+        "dub": "https://www.animegg.org/embed/11794",
+        "url": "https://www.animegg.org/fushigi-yuugi-dai-ni-bu-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/11799",
+        "dub": "https://www.animegg.org/embed/11800",
+        "url": "https://www.animegg.org/fushigi-yuugi-dai-ni-bu-episode-1"
+      }
+    ]
   }
 ]
