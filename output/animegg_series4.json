@@ -42000,5 +42000,81 @@
         "url": "https://www.animegg.org/kanokon-ova-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 3571,
+    "title": "Nozomanu Fushi no Boukensha",
+    "animegg_url": "https://www.animegg.org/series/nozomanu-fushi-no-boukensha",
+    "mal_url": "https://myanimelist.net/anime/51648",
+    "mal_id": 51648,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/132604",
+        "dub": null,
+        "url": "https://www.animegg.org/nozomanu-fushi-no-boukensha-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/132662",
+        "dub": null,
+        "url": "https://www.animegg.org/nozomanu-fushi-no-boukensha-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/132746",
+        "dub": null,
+        "url": "https://www.animegg.org/nozomanu-fushi-no-boukensha-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/132819",
+        "dub": null,
+        "url": "https://www.animegg.org/nozomanu-fushi-no-boukensha-episode-4"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/132907",
+        "dub": null,
+        "url": "https://www.animegg.org/nozomanu-fushi-no-boukensha-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/132982",
+        "dub": null,
+        "url": "https://www.animegg.org/nozomanu-fushi-no-boukensha-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/133071",
+        "dub": null,
+        "url": "https://www.animegg.org/nozomanu-fushi-no-boukensha-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/133143",
+        "dub": null,
+        "url": "https://www.animegg.org/nozomanu-fushi-no-boukensha-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/133226",
+        "dub": null,
+        "url": "https://www.animegg.org/nozomanu-fushi-no-boukensha-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/133309",
+        "dub": null,
+        "url": "https://www.animegg.org/nozomanu-fushi-no-boukensha-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/133407",
+        "dub": null,
+        "url": "https://www.animegg.org/nozomanu-fushi-no-boukensha-episode-12"
+      }
+    ]
   }
 ]
