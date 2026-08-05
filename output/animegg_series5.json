@@ -91377,5 +91377,45 @@
         "url": "https://www.animegg.org/my-hero-academia-vigilantes-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 6679,
+    "title": "See You Tomorrow at the Food Court",
+    "animegg_url": "https://www.animegg.org/series/see-you-tomorrow-at-the-food-court",
+    "mal_url": "https://myanimelist.net/anime/60508",
+    "mal_id": 60508,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/141614",
+        "dub": null,
+        "url": "https://www.animegg.org/see-you-tomorrow-at-the-food-court-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/141726",
+        "dub": null,
+        "url": "https://www.animegg.org/see-you-tomorrow-at-the-food-court-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/141832",
+        "dub": null,
+        "url": "https://www.animegg.org/see-you-tomorrow-at-the-food-court-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/141949",
+        "dub": null,
+        "url": "https://www.animegg.org/see-you-tomorrow-at-the-food-court-episode-4"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/142191",
+        "dub": null,
+        "url": "https://www.animegg.org/see-you-tomorrow-at-the-food-court-episode-6"
+      }
+    ]
   }
 ]
