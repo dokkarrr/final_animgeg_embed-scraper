@@ -85796,5 +85796,51 @@
         "url": "https://www.animegg.org/rezero-kara-hajimeru-isekai-seikatsu-season-3-episode-9"
       }
     ]
+  },
+  {
+    "serial_no": 6632,
+    "title": "Nyaaaanvy",
+    "animegg_url": "https://www.animegg.org/series/nyaaaanvy",
+    "mal_url": "https://myanimelist.net/anime/58935",
+    "mal_id": 58935,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/134591",
+        "dub": null,
+        "url": "https://www.animegg.org/nyaaaanvy-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/134736",
+        "dub": null,
+        "url": "https://www.animegg.org/nyaaaanvy-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/134896",
+        "dub": null,
+        "url": "https://www.animegg.org/nyaaaanvy-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/135050",
+        "dub": null,
+        "url": "https://www.animegg.org/nyaaaanvy-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/135175",
+        "dub": null,
+        "url": "https://www.animegg.org/nyaaaanvy-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/135401",
+        "dub": null,
+        "url": "https://www.animegg.org/nyaaaanvy-episode-6"
+      }
+    ]
   }
 ]
