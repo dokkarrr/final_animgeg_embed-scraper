@@ -2072,5 +2072,81 @@
         "url": "https://www.animegg.org/mahoutsukai-reimeiki-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3099,
+    "title": "Pretty Rhythm: All Star Selection",
+    "animegg_url": "https://www.animegg.org/series/pretty-rhythm-all-star-selection",
+    "mal_url": "https://myanimelist.net/anime/22215",
+    "mal_id": 22215,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/43916",
+        "dub": "https://www.animegg.org/embed/43917",
+        "url": "https://www.animegg.org/pretty-rhythm-all-star-selection-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/43918",
+        "dub": "https://www.animegg.org/embed/119706",
+        "url": "https://www.animegg.org/pretty-rhythm-all-star-selection-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/43919",
+        "dub": "https://www.animegg.org/embed/119705",
+        "url": "https://www.animegg.org/pretty-rhythm-all-star-selection-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/43920",
+        "dub": "https://www.animegg.org/embed/119704",
+        "url": "https://www.animegg.org/pretty-rhythm-all-star-selection-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/43921",
+        "dub": "https://www.animegg.org/embed/119703",
+        "url": "https://www.animegg.org/pretty-rhythm-all-star-selection-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/43922",
+        "dub": "https://www.animegg.org/embed/119702",
+        "url": "https://www.animegg.org/pretty-rhythm-all-star-selection-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/43923",
+        "dub": "https://www.animegg.org/embed/119701",
+        "url": "https://www.animegg.org/pretty-rhythm-all-star-selection-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/43924",
+        "dub": "https://www.animegg.org/embed/119700",
+        "url": "https://www.animegg.org/pretty-rhythm-all-star-selection-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/43925",
+        "dub": "https://www.animegg.org/embed/119699",
+        "url": "https://www.animegg.org/pretty-rhythm-all-star-selection-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/43926",
+        "dub": "https://www.animegg.org/embed/119708",
+        "url": "https://www.animegg.org/pretty-rhythm-all-star-selection-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/43927",
+        "dub": "https://www.animegg.org/embed/119707",
+        "url": "https://www.animegg.org/pretty-rhythm-all-star-selection-episode-11"
+      }
+    ]
   }
 ]
