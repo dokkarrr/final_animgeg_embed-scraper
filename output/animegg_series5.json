@@ -102238,5 +102238,87 @@
         "url": "https://www.animegg.org/bakugan-dub-episode-52"
       }
     ]
+  },
+  {
+    "serial_no": 6756,
+    "title": "Kakegurui XX",
+    "animegg_url": "https://www.animegg.org/series/kakegurui-xx",
+    "mal_url": "https://myanimelist.net/anime/37086",
+    "mal_id": 37086,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kakegurui-xx-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/123902",
+        "dub": null,
+        "url": "https://www.animegg.org/kakegurui-xx-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/123901",
+        "dub": null,
+        "url": "https://www.animegg.org/kakegurui-xx-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/123900",
+        "dub": null,
+        "url": "https://www.animegg.org/kakegurui-xx-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/123899",
+        "dub": null,
+        "url": "https://www.animegg.org/kakegurui-xx-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/123898",
+        "dub": null,
+        "url": "https://www.animegg.org/kakegurui-xx-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/123897",
+        "dub": null,
+        "url": "https://www.animegg.org/kakegurui-xx-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/123896",
+        "dub": null,
+        "url": "https://www.animegg.org/kakegurui-xx-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/123895",
+        "dub": null,
+        "url": "https://www.animegg.org/kakegurui-xx-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/123905",
+        "dub": null,
+        "url": "https://www.animegg.org/kakegurui-xx-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/123904",
+        "dub": null,
+        "url": "https://www.animegg.org/kakegurui-xx-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/123903",
+        "dub": null,
+        "url": "https://www.animegg.org/kakegurui-xx-episode-12"
+      }
+    ]
   }
 ]
