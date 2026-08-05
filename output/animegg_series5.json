@@ -29038,5 +29038,21 @@
         "url": "https://www.animegg.org/yotsunoha-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 6094,
+    "title": "Uchuu Senkan Yamato 2199: Hoshimeguru Hakobune",
+    "animegg_url": "https://www.animegg.org/series/uchuu-senkan-yamato-2199-hoshimeguru-hakobune",
+    "mal_url": "https://myanimelist.net/anime/23249",
+    "mal_id": 23249,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2199,
+        "sub": "https://www.animegg.org/embed/77269",
+        "dub": null,
+        "url": "https://www.animegg.org/uchuu-senkan-yamato-2199-hoshimeguru-hakobune-episode-1"
+      }
+    ]
   }
 ]
