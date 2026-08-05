@@ -6957,5 +6957,21 @@
         "url": "https://www.animegg.org/mardock-scramble-the-second-combustion-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5726,
+    "title": "Senki Zesshou Symphogear GX Specials",
+    "animegg_url": "https://www.animegg.org/series/senki-zesshou-symphogear-gx-specials",
+    "mal_url": "https://myanimelist.net/anime/11751",
+    "mal_id": 11751,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/80071",
+        "dub": "https://www.animegg.org/embed/80912",
+        "url": "https://www.animegg.org/senki-zesshou-symphogear-gx-specials-episode-1"
+      }
+    ]
   }
 ]
