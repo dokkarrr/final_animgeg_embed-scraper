@@ -85394,5 +85394,87 @@
         "url": "https://www.animegg.org/re-main-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4188,
+    "title": "High Card Season 2",
+    "animegg_url": "https://www.animegg.org/series/high-card-season-2",
+    "mal_url": "https://myanimelist.net/anime/54869",
+    "mal_id": 54869,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/133450",
+        "dub": null,
+        "url": "https://www.animegg.org/high-card-season-2-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/133355",
+        "dub": null,
+        "url": "https://www.animegg.org/high-card-season-2-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/133271",
+        "dub": null,
+        "url": "https://www.animegg.org/high-card-season-2-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/133186",
+        "dub": null,
+        "url": "https://www.animegg.org/high-card-season-2-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/133111",
+        "dub": null,
+        "url": "https://www.animegg.org/high-card-season-2-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/133028",
+        "dub": null,
+        "url": "https://www.animegg.org/high-card-season-2-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/132948",
+        "dub": null,
+        "url": "https://www.animegg.org/high-card-season-2-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/high-card-season-2-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/132860",
+        "dub": null,
+        "url": "https://www.animegg.org/high-card-season-2-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/high-card-season-2-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/132700",
+        "dub": null,
+        "url": "https://www.animegg.org/high-card-season-2-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/132629",
+        "dub": null,
+        "url": "https://www.animegg.org/high-card-season-2-episode-1"
+      }
+    ]
   }
 ]
