@@ -74682,5 +74682,21 @@
         "url": "https://www.animegg.org/tesagure-bukatsumono-encore-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4030,
+    "title": "Ao no Exorcist The Movie",
+    "animegg_url": "https://www.animegg.org/series/ao-no-exorcist-the-movie",
+    "mal_url": "https://myanimelist.net/anime/11737",
+    "mal_id": 11737,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/65945",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-exorcist-the-movie-episode-1"
+      }
+    ]
   }
 ]
