@@ -71060,5 +71060,87 @@
         "url": "https://www.animegg.org/mononogatari-2nd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3969,
+    "title": "Sonny Boy",
+    "animegg_url": "https://www.animegg.org/series/sonny-boy",
+    "mal_url": "https://myanimelist.net/anime/48849",
+    "mal_id": 48849,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/102276",
+        "dub": null,
+        "url": "https://www.animegg.org/sonny-boy-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/102350",
+        "dub": null,
+        "url": "https://www.animegg.org/sonny-boy-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/102384",
+        "dub": null,
+        "url": "https://www.animegg.org/sonny-boy-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/102441",
+        "dub": null,
+        "url": "https://www.animegg.org/sonny-boy-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/102493",
+        "dub": null,
+        "url": "https://www.animegg.org/sonny-boy-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/102549",
+        "dub": null,
+        "url": "https://www.animegg.org/sonny-boy-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/102603",
+        "dub": null,
+        "url": "https://www.animegg.org/sonny-boy-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/102659",
+        "dub": null,
+        "url": "https://www.animegg.org/sonny-boy-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/102713",
+        "dub": null,
+        "url": "https://www.animegg.org/sonny-boy-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/102771",
+        "dub": null,
+        "url": "https://www.animegg.org/sonny-boy-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/102827",
+        "dub": null,
+        "url": "https://www.animegg.org/sonny-boy-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/102913",
+        "dub": null,
+        "url": "https://www.animegg.org/sonny-boy-episode-12"
+      }
+    ]
   }
 ]
