@@ -115684,5 +115684,33 @@
         "url": "https://www.animegg.org/dekin-no-mogura-the-earthbound-mole-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4670,
+    "title": "Gunsmith Cats",
+    "animegg_url": "https://www.animegg.org/series/gunsmith-cats",
+    "mal_url": "https://myanimelist.net/anime/650",
+    "mal_id": 650,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/14727",
+        "dub": null,
+        "url": "https://www.animegg.org/gunsmith-cats-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/76260",
+        "dub": null,
+        "url": "https://www.animegg.org/gunsmith-cats-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/gunsmith-cats-episode-3"
+      }
+    ]
   }
 ]
