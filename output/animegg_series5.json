@@ -15926,5 +15926,21 @@
         "url": "https://www.animegg.org/cello-hiki-no-gauche-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5891,
+    "title": "Gift: Eternal Rainbow Special",
+    "animegg_url": "https://www.animegg.org/series/gift-eternal-rainbow-special",
+    "mal_url": "https://myanimelist.net/anime/2784",
+    "mal_id": 2784,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/52538",
+        "dub": null,
+        "url": "https://www.animegg.org/gift-eternal-rainbow-special-episode-1"
+      }
+    ]
   }
 ]
