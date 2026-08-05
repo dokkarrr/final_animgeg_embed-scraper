@@ -60210,5 +60210,75 @@
         "url": "https://www.animegg.org/one-piece-glorious-island-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3823,
+    "title": "Minarai Diva",
+    "animegg_url": "https://www.animegg.org/series/minarai-diva",
+    "mal_url": "https://myanimelist.net/anime/23375",
+    "mal_id": 23375,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/65839",
+        "dub": null,
+        "url": "https://www.animegg.org/minarai-diva-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/65840",
+        "dub": "https://www.animegg.org/embed/65841",
+        "url": "https://www.animegg.org/minarai-diva-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/65842",
+        "dub": "https://www.animegg.org/embed/121823",
+        "url": "https://www.animegg.org/minarai-diva-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/65843",
+        "dub": null,
+        "url": "https://www.animegg.org/minarai-diva-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/65844",
+        "dub": null,
+        "url": "https://www.animegg.org/minarai-diva-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/65845",
+        "dub": null,
+        "url": "https://www.animegg.org/minarai-diva-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/65846",
+        "dub": null,
+        "url": "https://www.animegg.org/minarai-diva-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/65847",
+        "dub": null,
+        "url": "https://www.animegg.org/minarai-diva-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/65848",
+        "dub": null,
+        "url": "https://www.animegg.org/minarai-diva-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/minarai-diva-episode-10"
+      }
+    ]
   }
 ]
