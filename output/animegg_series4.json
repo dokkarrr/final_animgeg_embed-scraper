@@ -104246,5 +104246,39 @@
         "url": "https://www.animegg.org/kusunoki-s-garden-of-gods-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4479,
+    "title": "Nijiiro Prism Girl",
+    "animegg_url": "https://www.animegg.org/series/nijiiro-prism-girl",
+    "mal_url": "https://myanimelist.net/anime/19351",
+    "mal_id": 19351,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/43167",
+        "dub": null,
+        "url": "https://www.animegg.org/nijiiro-prism-girl-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/43169",
+        "dub": null,
+        "url": "https://www.animegg.org/nijiiro-prism-girl-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/43168",
+        "dub": null,
+        "url": "https://www.animegg.org/nijiiro-prism-girl-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/43170",
+        "dub": null,
+        "url": "https://www.animegg.org/nijiiro-prism-girl-episode-4"
+      }
+    ]
   }
 ]
