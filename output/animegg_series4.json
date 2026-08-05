@@ -45232,5 +45232,63 @@
         "url": "https://www.animegg.org/ore-wa-subete-wo-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-ni-naritai-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3611,
+    "title": "Rewrite 2nd Season",
+    "animegg_url": "https://www.animegg.org/series/rewrite-2nd-season",
+    "mal_url": "https://myanimelist.net/anime/34126",
+    "mal_id": 34126,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/87071",
+        "dub": null,
+        "url": "https://www.animegg.org/rewrite-2nd-season-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/87070",
+        "dub": null,
+        "url": "https://www.animegg.org/rewrite-2nd-season-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/87069",
+        "dub": null,
+        "url": "https://www.animegg.org/rewrite-2nd-season-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/87068",
+        "dub": null,
+        "url": "https://www.animegg.org/rewrite-2nd-season-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/85764",
+        "dub": null,
+        "url": "https://www.animegg.org/rewrite-2nd-season-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/85720",
+        "dub": null,
+        "url": "https://www.animegg.org/rewrite-2nd-season-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/85719",
+        "dub": null,
+        "url": "https://www.animegg.org/rewrite-2nd-season-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/85718",
+        "dub": null,
+        "url": "https://www.animegg.org/rewrite-2nd-season-episode-1"
+      }
+    ]
   }
 ]
