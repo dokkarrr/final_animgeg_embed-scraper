@@ -89550,5 +89550,21 @@
         "url": "https://www.animegg.org/ah-my-goddess-fighting-wings-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 4261,
+    "title": "Shokugeki no Souma: San no Sara OVA",
+    "animegg_url": "https://www.animegg.org/series/shokugeki-no-souma-san-no-sara-ova",
+    "mal_url": "https://myanimelist.net/anime/36962",
+    "mal_id": 36962,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/91235",
+        "dub": null,
+        "url": "https://www.animegg.org/shokugeki-no-souma-san-no-sara-ova-episode-1"
+      }
+    ]
   }
 ]
