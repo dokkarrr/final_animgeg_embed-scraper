@@ -114576,5 +114576,21 @@
         "url": "https://www.animegg.org/d4dj-petit-mix-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6859,
+    "title": "Yes ka No ka Hanbun ka",
+    "animegg_url": "https://www.animegg.org/series/yes-ka-no-ka-hanbun-ka",
+    "mal_url": "https://myanimelist.net/anime/40646",
+    "mal_id": 40646,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/101102",
+        "dub": null,
+        "url": "https://www.animegg.org/yes-ka-no-ka-hanbun-ka-episode-1"
+      }
+    ]
   }
 ]
