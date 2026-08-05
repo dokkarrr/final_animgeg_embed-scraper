@@ -74542,5 +74542,63 @@
         "url": "https://www.animegg.org/shin-tennis-no-oujisama-u-17-world-cup-semifinal-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4028,
+    "title": "The Animatrix",
+    "animegg_url": "https://www.animegg.org/series/the-animatrix",
+    "mal_url": "https://myanimelist.net/anime/1303",
+    "mal_id": 1303,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/61070",
+        "dub": "https://www.animegg.org/embed/61071",
+        "url": "https://www.animegg.org/the-animatrix-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/the-animatrix-episode-2"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/the-animatrix-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/the-animatrix-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/the-animatrix-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/the-animatrix-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/the-animatrix-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/the-animatrix-episode-9"
+      }
+    ]
   }
 ]
