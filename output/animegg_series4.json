@@ -93362,5 +93362,69 @@
         "url": "https://www.animegg.org/angel-tales-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4308,
+    "title": "MF Ghost",
+    "animegg_url": "https://www.animegg.org/series/mf-ghost",
+    "mal_url": "https://myanimelist.net/anime/50695",
+    "mal_id": 50695,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/131540",
+        "dub": "https://www.animegg.org/embed/131801",
+        "url": "https://www.animegg.org/mf-ghost-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/131683",
+        "dub": "https://www.animegg.org/embed/131909",
+        "url": "https://www.animegg.org/mf-ghost-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/132019",
+        "dub": null,
+        "url": "https://www.animegg.org/mf-ghost-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/131907",
+        "dub": "https://www.animegg.org/embed/132112",
+        "url": "https://www.animegg.org/mf-ghost-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/mf-ghost-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/mf-ghost-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/mf-ghost-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/mf-ghost-episode-8"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/132554",
+        "dub": null,
+        "url": "https://www.animegg.org/mf-ghost-episode-11"
+      }
+    ]
   }
 ]
