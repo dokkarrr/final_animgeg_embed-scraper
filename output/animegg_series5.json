@@ -55769,5 +55769,21 @@
         "url": "https://www.animegg.org/tabisuru-nuigurumi-traveling-daru-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6362,
+    "title": "Steins;Gate 0 Special",
+    "animegg_url": "https://www.animegg.org/series/steins-gate-0-special",
+    "mal_url": "https://myanimelist.net/anime/37492",
+    "mal_id": 37492,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/94027",
+        "dub": null,
+        "url": "https://www.animegg.org/steins-gate-0-special-episode-1"
+      }
+    ]
   }
 ]
