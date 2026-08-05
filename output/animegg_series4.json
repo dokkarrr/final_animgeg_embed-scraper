@@ -104512,5 +104512,57 @@
         "url": "https://www.animegg.org/konyaku-haki-sareta-reijou-wo-hirotta-ore-ga-ikenai-koto-wo-oshiekomu-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 4487,
+    "title": "Turning Girls",
+    "animegg_url": "https://www.animegg.org/series/turning-girls",
+    "mal_url": "https://myanimelist.net/anime/19133",
+    "mal_id": 19133,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/39118",
+        "dub": null,
+        "url": "https://www.animegg.org/turning-girls-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/39116",
+        "dub": null,
+        "url": "https://www.animegg.org/turning-girls-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/39113",
+        "dub": null,
+        "url": "https://www.animegg.org/turning-girls-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/39115",
+        "dub": null,
+        "url": "https://www.animegg.org/turning-girls-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/39114",
+        "dub": null,
+        "url": "https://www.animegg.org/turning-girls-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/39119",
+        "dub": null,
+        "url": "https://www.animegg.org/turning-girls-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/39117",
+        "dub": null,
+        "url": "https://www.animegg.org/turning-girls-episode-7"
+      }
+    ]
   }
 ]
