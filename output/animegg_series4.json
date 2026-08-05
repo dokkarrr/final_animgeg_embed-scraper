@@ -75232,5 +75232,21 @@
         "url": "https://www.animegg.org/zoids-wild-episode-50"
       }
     ]
+  },
+  {
+    "serial_no": 4037,
+    "title": "Detective Conan Movie 21: The Crimson Love Letter",
+    "animegg_url": "https://www.animegg.org/series/detective-conan-movie-21-the-crimson-love-letter",
+    "mal_url": "https://myanimelist.net/anime/34430",
+    "mal_id": 34430,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 21,
+        "sub": "https://www.animegg.org/embed/88632",
+        "dub": "https://www.animegg.org/embed/89140",
+        "url": "https://www.animegg.org/detective-conan-movie-21-the-crimson-love-letter-episode-1"
+      }
+    ]
   }
 ]
