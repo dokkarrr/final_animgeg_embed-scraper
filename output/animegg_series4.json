@@ -126078,5 +126078,21 @@
         "url": "https://www.animegg.org/gundam-build-fighters-battlogue-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 4819,
+    "title": ".hack//Versus - The Thanatos Report",
+    "animegg_url": "https://www.animegg.org/series/hackversus---the-thanatos-report",
+    "mal_url": "https://myanimelist.net/anime/15219",
+    "mal_id": 15219,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/173",
+        "dub": null,
+        "url": "https://www.animegg.org/hackversus---the-thanatos-report-episode-1"
+      }
+    ]
   }
 ]
