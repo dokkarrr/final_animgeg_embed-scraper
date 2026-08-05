@@ -54264,5 +54264,21 @@
         "url": "https://www.animegg.org/the-drops-of-god-episode-15"
       }
     ]
+  },
+  {
+    "serial_no": 3733,
+    "title": "One Piece: Episode of Luffy - Hand Island Adventure",
+    "animegg_url": "https://www.animegg.org/series/one-piece-episode-of-luffy---hand-island-adventure",
+    "mal_url": "https://myanimelist.net/anime/16239",
+    "mal_id": 16239,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/59117",
+        "dub": null,
+        "url": "https://www.animegg.org/one-piece-episode-of-luffy---hand-island-adventure-episode-1"
+      }
+    ]
   }
 ]
