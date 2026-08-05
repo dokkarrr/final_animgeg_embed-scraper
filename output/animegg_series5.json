@@ -39771,5 +39771,21 @@
         "url": "https://www.animegg.org/welcome-to-the-nhk-dub-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 6214,
+    "title": "Samurai Shodown The Motion Picture",
+    "animegg_url": "https://www.animegg.org/series/samurai-shodown-the-motion-picture",
+    "mal_url": "https://myanimelist.net/anime/2591",
+    "mal_id": 2591,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/60149",
+        "dub": null,
+        "url": "https://www.animegg.org/samurai-shodown-the-motion-picture-episode-1"
+      }
+    ]
   }
 ]
