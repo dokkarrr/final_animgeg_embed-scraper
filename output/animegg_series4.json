@@ -69494,5 +69494,27 @@
         "url": "https://www.animegg.org/puniru-wa-kawaii-slime-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 3939,
+    "title": "Queen's Blade OVA Specials",
+    "animegg_url": "https://www.animegg.org/series/queens-blade-ova-specials",
+    "mal_url": "https://myanimelist.net/anime/12065",
+    "mal_id": 12065,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/31380",
+        "dub": null,
+        "url": "https://www.animegg.org/queens-blade-ova-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/queens-blade-ova-specials-episode-2"
+      }
+    ]
   }
 ]
