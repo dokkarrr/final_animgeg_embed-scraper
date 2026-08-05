@@ -42759,5 +42759,57 @@
         "url": "https://www.animegg.org/puchimas-wakku-waku-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6244,
+    "title": "Chou Futsuu Ken Chiba Densetsu",
+    "animegg_url": "https://www.animegg.org/series/chou-futsuu-ken-chiba-densetsu",
+    "mal_url": "https://myanimelist.net/anime/54197",
+    "mal_id": 54197,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/132649",
+        "dub": null,
+        "url": "https://www.animegg.org/chou-futsuu-ken-chiba-densetsu-episode-1"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/132800",
+        "dub": null,
+        "url": "https://www.animegg.org/chou-futsuu-ken-chiba-densetsu-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/132888",
+        "dub": null,
+        "url": "https://www.animegg.org/chou-futsuu-ken-chiba-densetsu-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/132889",
+        "dub": null,
+        "url": "https://www.animegg.org/chou-futsuu-ken-chiba-densetsu-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/133068",
+        "dub": null,
+        "url": "https://www.animegg.org/chou-futsuu-ken-chiba-densetsu-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/133103",
+        "dub": null,
+        "url": "https://www.animegg.org/chou-futsuu-ken-chiba-densetsu-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/133305",
+        "dub": null,
+        "url": "https://www.animegg.org/chou-futsuu-ken-chiba-densetsu-episode-8"
+      }
+    ]
   }
 ]
