@@ -18746,5 +18746,21 @@
         "url": "https://www.animegg.org/eureka-seven-navigation-ray-out-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5936,
+    "title": "Hadashi no Gen 2",
+    "animegg_url": "https://www.animegg.org/series/hadashi-no-gen-2",
+    "mal_url": "https://myanimelist.net/anime/1825",
+    "mal_id": 1825,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/51849",
+        "dub": null,
+        "url": "https://www.animegg.org/hadashi-no-gen-2-episode-1"
+      }
+    ]
   }
 ]
