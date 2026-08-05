@@ -52096,5 +52096,57 @@
         "url": "https://www.animegg.org/thunderbolt-fantasy-sword-seekers2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3707,
+    "title": "Genius Party",
+    "animegg_url": "https://www.animegg.org/series/genius-party",
+    "mal_url": "https://myanimelist.net/anime/3508",
+    "mal_id": 3508,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/52254",
+        "dub": null,
+        "url": "https://www.animegg.org/genius-party-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/52255",
+        "dub": null,
+        "url": "https://www.animegg.org/genius-party-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/52256",
+        "dub": null,
+        "url": "https://www.animegg.org/genius-party-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/52257",
+        "dub": null,
+        "url": "https://www.animegg.org/genius-party-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/52258",
+        "dub": null,
+        "url": "https://www.animegg.org/genius-party-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/52259",
+        "dub": null,
+        "url": "https://www.animegg.org/genius-party-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/52260",
+        "dub": null,
+        "url": "https://www.animegg.org/genius-party-episode-7"
+      }
+    ]
   }
 ]
