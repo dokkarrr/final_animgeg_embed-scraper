@@ -99914,5 +99914,87 @@
         "url": "https://www.animegg.org/kindaichi-shounen-no-jikenbo-returns-akechi-keibu-no-jikenbo-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4398,
+    "title": "World Witches Hasshin Shimasu!",
+    "animegg_url": "https://www.animegg.org/series/world-witches-hasshin-shimasu",
+    "mal_url": "https://myanimelist.net/anime/42506",
+    "mal_id": 42506,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/100485",
+        "dub": null,
+        "url": "https://www.animegg.org/world-witches-hasshin-shimasu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/100581",
+        "dub": null,
+        "url": "https://www.animegg.org/world-witches-hasshin-shimasu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/100656",
+        "dub": null,
+        "url": "https://www.animegg.org/world-witches-hasshin-shimasu-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/100729",
+        "dub": null,
+        "url": "https://www.animegg.org/world-witches-hasshin-shimasu-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/100798",
+        "dub": null,
+        "url": "https://www.animegg.org/world-witches-hasshin-shimasu-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/100870",
+        "dub": null,
+        "url": "https://www.animegg.org/world-witches-hasshin-shimasu-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/100945",
+        "dub": null,
+        "url": "https://www.animegg.org/world-witches-hasshin-shimasu-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/101022",
+        "dub": null,
+        "url": "https://www.animegg.org/world-witches-hasshin-shimasu-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/101092",
+        "dub": null,
+        "url": "https://www.animegg.org/world-witches-hasshin-shimasu-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/101166",
+        "dub": null,
+        "url": "https://www.animegg.org/world-witches-hasshin-shimasu-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/101238",
+        "dub": null,
+        "url": "https://www.animegg.org/world-witches-hasshin-shimasu-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/101315",
+        "dub": null,
+        "url": "https://www.animegg.org/world-witches-hasshin-shimasu-episode-12"
+      }
+    ]
   }
 ]
