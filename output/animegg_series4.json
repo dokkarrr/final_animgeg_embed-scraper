@@ -94634,5 +94634,93 @@
         "url": "https://www.animegg.org/kaya-chan-isnt-scary-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4329,
+    "title": "Shenmue the Animation",
+    "animegg_url": "https://www.animegg.org/series/shenmue-the-animation",
+    "mal_url": "https://myanimelist.net/anime/42808",
+    "mal_id": 42808,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/103952",
+        "dub": null,
+        "url": "https://www.animegg.org/shenmue-the-animation-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/104002",
+        "dub": null,
+        "url": "https://www.animegg.org/shenmue-the-animation-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/104051",
+        "dub": null,
+        "url": "https://www.animegg.org/shenmue-the-animation-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/104100",
+        "dub": null,
+        "url": "https://www.animegg.org/shenmue-the-animation-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/104147",
+        "dub": null,
+        "url": "https://www.animegg.org/shenmue-the-animation-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/104193",
+        "dub": null,
+        "url": "https://www.animegg.org/shenmue-the-animation-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/104242",
+        "dub": null,
+        "url": "https://www.animegg.org/shenmue-the-animation-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/104286",
+        "dub": null,
+        "url": "https://www.animegg.org/shenmue-the-animation-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/104330",
+        "dub": null,
+        "url": "https://www.animegg.org/shenmue-the-animation-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/104391",
+        "dub": null,
+        "url": "https://www.animegg.org/shenmue-the-animation-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/104462",
+        "dub": null,
+        "url": "https://www.animegg.org/shenmue-the-animation-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/104523",
+        "dub": null,
+        "url": "https://www.animegg.org/shenmue-the-animation-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/104579",
+        "dub": null,
+        "url": "https://www.animegg.org/shenmue-the-animation-episode-13"
+      }
+    ]
   }
 ]
