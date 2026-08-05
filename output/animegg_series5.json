@@ -17156,5 +17156,81 @@
         "url": "https://www.animegg.org/morita-san-wa-mukuchi-specials-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 5903,
+    "title": "Celestial Bonds",
+    "animegg_url": "https://www.animegg.org/series/celestial-bonds",
+    "mal_url": "https://myanimelist.net/anime/61625",
+    "mal_id": 61625,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/141301",
+        "dub": null,
+        "url": "https://www.animegg.org/celestial-bonds-episode-1"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/141303",
+        "dub": null,
+        "url": "https://www.animegg.org/celestial-bonds-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/141398",
+        "dub": null,
+        "url": "https://www.animegg.org/celestial-bonds-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/141517",
+        "dub": null,
+        "url": "https://www.animegg.org/celestial-bonds-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/141558",
+        "dub": null,
+        "url": "https://www.animegg.org/celestial-bonds-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/141737",
+        "dub": null,
+        "url": "https://www.animegg.org/celestial-bonds-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/141781",
+        "dub": null,
+        "url": "https://www.animegg.org/celestial-bonds-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/141883",
+        "dub": null,
+        "url": "https://www.animegg.org/celestial-bonds-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/142015",
+        "dub": null,
+        "url": "https://www.animegg.org/celestial-bonds-episode-10"
+      },
+      {
+        "ep": 17,
+        "sub": "https://www.animegg.org/embed/142730",
+        "dub": null,
+        "url": "https://www.animegg.org/celestial-bonds-episode-17"
+      },
+      {
+        "ep": 18,
+        "sub": "https://www.animegg.org/embed/142761",
+        "dub": null,
+        "url": "https://www.animegg.org/celestial-bonds-episode-18"
+      }
+    ]
   }
 ]
