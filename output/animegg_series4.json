@@ -12360,5 +12360,93 @@
         "url": "https://www.animegg.org/bubblegum-crisis-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 3229,
+    "title": "Appare-Ranman!",
+    "animegg_url": "https://www.animegg.org/series/appare-ranman",
+    "mal_url": "https://myanimelist.net/anime/40532",
+    "mal_id": 40532,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/98275",
+        "dub": null,
+        "url": "https://www.animegg.org/appare-ranman-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/98324",
+        "dub": null,
+        "url": "https://www.animegg.org/appare-ranman-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/98385",
+        "dub": null,
+        "url": "https://www.animegg.org/appare-ranman-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/98979",
+        "dub": null,
+        "url": "https://www.animegg.org/appare-ranman-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/99024",
+        "dub": null,
+        "url": "https://www.animegg.org/appare-ranman-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/99085",
+        "dub": null,
+        "url": "https://www.animegg.org/appare-ranman-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/99126",
+        "dub": null,
+        "url": "https://www.animegg.org/appare-ranman-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/99167",
+        "dub": null,
+        "url": "https://www.animegg.org/appare-ranman-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/99209",
+        "dub": null,
+        "url": "https://www.animegg.org/appare-ranman-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/99250",
+        "dub": null,
+        "url": "https://www.animegg.org/appare-ranman-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/99288",
+        "dub": null,
+        "url": "https://www.animegg.org/appare-ranman-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/99371",
+        "dub": null,
+        "url": "https://www.animegg.org/appare-ranman-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/99423",
+        "dub": null,
+        "url": "https://www.animegg.org/appare-ranman-episode-13"
+      }
+    ]
   }
 ]
