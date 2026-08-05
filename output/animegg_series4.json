@@ -78282,5 +78282,51 @@
         "url": "https://www.animegg.org/mahou-shoujo-magical-destroyers-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4090,
+    "title": "Future GPX Cyber Formula 11",
+    "animegg_url": "https://www.animegg.org/series/future-gpx-cyber-formula-11",
+    "mal_url": "https://myanimelist.net/anime/1392",
+    "mal_id": 1392,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/49565",
+        "dub": null,
+        "url": "https://www.animegg.org/future-gpx-cyber-formula-11-episode-6"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/49564",
+        "dub": null,
+        "url": "https://www.animegg.org/future-gpx-cyber-formula-11-episode-5"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/49563",
+        "dub": null,
+        "url": "https://www.animegg.org/future-gpx-cyber-formula-11-episode-4"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/49562",
+        "dub": null,
+        "url": "https://www.animegg.org/future-gpx-cyber-formula-11-episode-3"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/49561",
+        "dub": null,
+        "url": "https://www.animegg.org/future-gpx-cyber-formula-11-episode-2"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/49560",
+        "dub": null,
+        "url": "https://www.animegg.org/future-gpx-cyber-formula-11-episode-1"
+      }
+    ]
   }
 ]
