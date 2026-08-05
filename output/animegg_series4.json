@@ -87536,5 +87536,75 @@
         "url": "https://www.animegg.org/ooi-tonbo-2nd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4227,
+    "title": "Private Tutor to the Duke's Daughter",
+    "animegg_url": "https://www.animegg.org/series/private-tutor-to-the-duke-s-daughter",
+    "mal_url": "https://myanimelist.net/anime/56907",
+    "mal_id": 56907,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/141492",
+        "dub": null,
+        "url": "https://www.animegg.org/private-tutor-to-the-duke-s-daughter-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/141574",
+        "dub": null,
+        "url": "https://www.animegg.org/private-tutor-to-the-duke-s-daughter-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/141688",
+        "dub": null,
+        "url": "https://www.animegg.org/private-tutor-to-the-duke-s-daughter-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/141809",
+        "dub": null,
+        "url": "https://www.animegg.org/private-tutor-to-the-duke-s-daughter-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/142034",
+        "dub": null,
+        "url": "https://www.animegg.org/private-tutor-to-the-duke-s-daughter-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/142144",
+        "dub": null,
+        "url": "https://www.animegg.org/private-tutor-to-the-duke-s-daughter-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/142273",
+        "dub": null,
+        "url": "https://www.animegg.org/private-tutor-to-the-duke-s-daughter-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/142385",
+        "dub": null,
+        "url": "https://www.animegg.org/private-tutor-to-the-duke-s-daughter-episode-8"
+      },
+      {
+        "ep": 10,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/private-tutor-to-the-duke-s-daughter-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/142535",
+        "dub": null,
+        "url": "https://www.animegg.org/private-tutor-to-the-duke-s-daughter-episode-11"
+      }
+    ]
   }
 ]
