@@ -75786,5 +75786,21 @@
         "url": "https://www.animegg.org/legend-of-the-condor-hero-iii-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 4048,
+    "title": "Summer Wars",
+    "animegg_url": "https://www.animegg.org/series/summer-wars",
+    "mal_url": "https://myanimelist.net/anime/5681",
+    "mal_id": 5681,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/45225",
+        "dub": "https://www.animegg.org/embed/45226",
+        "url": "https://www.animegg.org/summer-wars-episode-1"
+      }
+    ]
   }
 ]
