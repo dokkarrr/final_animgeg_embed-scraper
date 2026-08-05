@@ -1500,5 +1500,51 @@
         "url": "https://www.animegg.org/sd-gundam-world-heroes-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 3091,
+    "title": "Ichiban Ushiro no Daimaou Specials",
+    "animegg_url": "https://www.animegg.org/series/ichiban-ushiro-no-daimaou-specials",
+    "mal_url": "https://myanimelist.net/anime/8465",
+    "mal_id": 8465,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/17349",
+        "dub": null,
+        "url": "https://www.animegg.org/ichiban-ushiro-no-daimaou-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/17348",
+        "dub": null,
+        "url": "https://www.animegg.org/ichiban-ushiro-no-daimaou-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/17351",
+        "dub": null,
+        "url": "https://www.animegg.org/ichiban-ushiro-no-daimaou-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/17352",
+        "dub": null,
+        "url": "https://www.animegg.org/ichiban-ushiro-no-daimaou-specials-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/17350",
+        "dub": null,
+        "url": "https://www.animegg.org/ichiban-ushiro-no-daimaou-specials-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/17353",
+        "dub": null,
+        "url": "https://www.animegg.org/ichiban-ushiro-no-daimaou-specials-episode-6"
+      }
+    ]
   }
 ]
