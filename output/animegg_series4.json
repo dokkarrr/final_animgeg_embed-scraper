@@ -118340,5 +118340,21 @@
         "url": "https://www.animegg.org/boku-to-roboko-episode-28"
       }
     ]
+  },
+  {
+    "serial_no": 4716,
+    "title": "Sayonara no Asa ni Yakusoku no Hana wo Kazarou",
+    "animegg_url": "https://www.animegg.org/series/sayonara-no-asa-ni-yakusoku-no-hana-wo-kazarou",
+    "mal_url": "https://myanimelist.net/anime/35851",
+    "mal_id": 35851,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/93378",
+        "dub": null,
+        "url": "https://www.animegg.org/sayonara-no-asa-ni-yakusoku-no-hana-wo-kazarou-episode-1"
+      }
+    ]
   }
 ]
