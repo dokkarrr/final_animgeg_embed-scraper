@@ -87182,5 +87182,87 @@
         "url": "https://www.animegg.org/mugyutto-black-clover-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 4221,
+    "title": "RPG Fudousan",
+    "animegg_url": "https://www.animegg.org/series/rpg-fudousan",
+    "mal_url": "https://myanimelist.net/anime/48363",
+    "mal_id": 48363,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/104347",
+        "dub": null,
+        "url": "https://www.animegg.org/rpg-fudousan-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/104410",
+        "dub": null,
+        "url": "https://www.animegg.org/rpg-fudousan-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/104479",
+        "dub": null,
+        "url": "https://www.animegg.org/rpg-fudousan-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/104538",
+        "dub": null,
+        "url": "https://www.animegg.org/rpg-fudousan-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/104595",
+        "dub": null,
+        "url": "https://www.animegg.org/rpg-fudousan-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/104655",
+        "dub": null,
+        "url": "https://www.animegg.org/rpg-fudousan-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/104772",
+        "dub": null,
+        "url": "https://www.animegg.org/rpg-fudousan-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/104873",
+        "dub": null,
+        "url": "https://www.animegg.org/rpg-fudousan-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/104930",
+        "dub": null,
+        "url": "https://www.animegg.org/rpg-fudousan-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/104988",
+        "dub": null,
+        "url": "https://www.animegg.org/rpg-fudousan-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/105070",
+        "dub": null,
+        "url": "https://www.animegg.org/rpg-fudousan-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/105126",
+        "dub": null,
+        "url": "https://www.animegg.org/rpg-fudousan-episode-12"
+      }
+    ]
   }
 ]
