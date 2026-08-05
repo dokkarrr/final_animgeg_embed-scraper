@@ -107374,5 +107374,27 @@
         "url": "https://www.animegg.org/kingsglaive-final-fantasy-xv-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4538,
+    "title": "Ben-To Specials",
+    "animegg_url": "https://www.animegg.org/series/ben-to-specials",
+    "mal_url": "https://myanimelist.net/anime/12447",
+    "mal_id": 12447,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/244",
+        "dub": null,
+        "url": "https://www.animegg.org/ben-to-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/243",
+        "dub": null,
+        "url": "https://www.animegg.org/ben-to-specials-episode-2"
+      }
+    ]
   }
 ]
