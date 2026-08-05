@@ -16528,5 +16528,75 @@
         "url": "https://www.animegg.org/kyoukai-no-kanata-mini-theater-episode-7"
       }
     ]
+  },
+  {
+    "serial_no": 3266,
+    "title": "Rec",
+    "animegg_url": "https://www.animegg.org/series/rec",
+    "mal_url": "https://myanimelist.net/anime/710",
+    "mal_id": 710,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/31665",
+        "dub": null,
+        "url": "https://www.animegg.org/rec-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/31667",
+        "dub": null,
+        "url": "https://www.animegg.org/rec-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/31664",
+        "dub": null,
+        "url": "https://www.animegg.org/rec-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/31663",
+        "dub": null,
+        "url": "https://www.animegg.org/rec-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/31666",
+        "dub": null,
+        "url": "https://www.animegg.org/rec-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/31668",
+        "dub": null,
+        "url": "https://www.animegg.org/rec-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/31669",
+        "dub": null,
+        "url": "https://www.animegg.org/rec-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/31670",
+        "dub": null,
+        "url": "https://www.animegg.org/rec-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/31671",
+        "dub": null,
+        "url": "https://www.animegg.org/rec-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/118942",
+        "dub": null,
+        "url": "https://www.animegg.org/rec-episode-10"
+      }
+    ]
   }
 ]
