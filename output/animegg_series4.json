@@ -2148,5 +2148,87 @@
         "url": "https://www.animegg.org/pretty-rhythm-all-star-selection-episode-11"
       }
     ]
+  },
+  {
+    "serial_no": 3100,
+    "title": "Sanrio Danshi",
+    "animegg_url": "https://www.animegg.org/series/sanrio-danshi",
+    "mal_url": "https://myanimelist.net/anime/34839",
+    "mal_id": 34839,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/89565",
+        "dub": null,
+        "url": "https://www.animegg.org/sanrio-danshi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/89737",
+        "dub": null,
+        "url": "https://www.animegg.org/sanrio-danshi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/89819",
+        "dub": null,
+        "url": "https://www.animegg.org/sanrio-danshi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/89896",
+        "dub": null,
+        "url": "https://www.animegg.org/sanrio-danshi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/89981",
+        "dub": null,
+        "url": "https://www.animegg.org/sanrio-danshi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/90058",
+        "dub": null,
+        "url": "https://www.animegg.org/sanrio-danshi-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/90133",
+        "dub": null,
+        "url": "https://www.animegg.org/sanrio-danshi-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/90223",
+        "dub": null,
+        "url": "https://www.animegg.org/sanrio-danshi-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/90281",
+        "dub": null,
+        "url": "https://www.animegg.org/sanrio-danshi-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/90356",
+        "dub": null,
+        "url": "https://www.animegg.org/sanrio-danshi-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/90426",
+        "dub": null,
+        "url": "https://www.animegg.org/sanrio-danshi-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/90523",
+        "dub": null,
+        "url": "https://www.animegg.org/sanrio-danshi-episode-12"
+      }
+    ]
   }
 ]
