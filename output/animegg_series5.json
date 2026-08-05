@@ -20840,5 +20840,27 @@
         "url": "https://www.animegg.org/doki-doki-mini-mini-kakushi-dungeon-gekijou-episode-14"
       }
     ]
+  },
+  {
+    "serial_no": 5984,
+    "title": "Project A-ko: Uncivil Wars",
+    "animegg_url": "https://www.animegg.org/series/project-a-ko-uncivil-wars",
+    "mal_url": "https://myanimelist.net/anime/1295",
+    "mal_id": 1295,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/59722",
+        "dub": null,
+        "url": "https://www.animegg.org/project-a-ko-uncivil-wars-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/59723",
+        "dub": null,
+        "url": "https://www.animegg.org/project-a-ko-uncivil-wars-episode-2"
+      }
+    ]
   }
 ]
