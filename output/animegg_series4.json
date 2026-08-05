@@ -76868,5 +76868,51 @@
         "url": "https://www.animegg.org/one-room-hiatari-futsuu-tenshi-tsuki-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4065,
+    "title": "Hibike! Euphonium 2 Specials",
+    "animegg_url": "https://www.animegg.org/series/hibike-euphonium-2-specials",
+    "mal_url": "https://myanimelist.net/anime/34204",
+    "mal_id": 34204,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/87025",
+        "dub": null,
+        "url": "https://www.animegg.org/hibike-euphonium-2-specials-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/86662",
+        "dub": null,
+        "url": "https://www.animegg.org/hibike-euphonium-2-specials-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/86279",
+        "dub": null,
+        "url": "https://www.animegg.org/hibike-euphonium-2-specials-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/86278",
+        "dub": null,
+        "url": "https://www.animegg.org/hibike-euphonium-2-specials-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/85547",
+        "dub": null,
+        "url": "https://www.animegg.org/hibike-euphonium-2-specials-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/85260",
+        "dub": null,
+        "url": "https://www.animegg.org/hibike-euphonium-2-specials-episode-1"
+      }
+    ]
   }
 ]
