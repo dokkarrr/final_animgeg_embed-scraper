@@ -94862,5 +94862,39 @@
         "url": "https://www.animegg.org/blood-the-last-vampire-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4335,
+    "title": "Dominion",
+    "animegg_url": "https://www.animegg.org/series/dominion",
+    "mal_url": "https://myanimelist.net/anime/1151",
+    "mal_id": 1151,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/50179",
+        "dub": "https://www.animegg.org/embed/50180",
+        "url": "https://www.animegg.org/dominion-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/50181",
+        "dub": "https://www.animegg.org/embed/50182",
+        "url": "https://www.animegg.org/dominion-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/50183",
+        "dub": "https://www.animegg.org/embed/50184",
+        "url": "https://www.animegg.org/dominion-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/50185",
+        "dub": "https://www.animegg.org/embed/50186",
+        "url": "https://www.animegg.org/dominion-episode-4"
+      }
+    ]
   }
 ]
