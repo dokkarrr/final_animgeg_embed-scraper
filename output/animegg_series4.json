@@ -118862,5 +118862,87 @@
         "url": "https://www.animegg.org/special"
       }
     ]
+  },
+  {
+    "serial_no": 4728,
+    "title": "Rail Romanesque",
+    "animegg_url": "https://www.animegg.org/series/rail-romanesque",
+    "mal_url": "https://myanimelist.net/anime/40958",
+    "mal_id": 40958,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/99507",
+        "dub": null,
+        "url": "https://www.animegg.org/rail-romanesque-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/99557",
+        "dub": null,
+        "url": "https://www.animegg.org/rail-romanesque-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/99633",
+        "dub": null,
+        "url": "https://www.animegg.org/rail-romanesque-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/99724",
+        "dub": null,
+        "url": "https://www.animegg.org/rail-romanesque-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/99793",
+        "dub": null,
+        "url": "https://www.animegg.org/rail-romanesque-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/99864",
+        "dub": null,
+        "url": "https://www.animegg.org/rail-romanesque-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/99929",
+        "dub": null,
+        "url": "https://www.animegg.org/rail-romanesque-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/99996",
+        "dub": null,
+        "url": "https://www.animegg.org/rail-romanesque-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/100060",
+        "dub": null,
+        "url": "https://www.animegg.org/rail-romanesque-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/100127",
+        "dub": null,
+        "url": "https://www.animegg.org/rail-romanesque-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/100217",
+        "dub": null,
+        "url": "https://www.animegg.org/rail-romanesque-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/100284",
+        "dub": null,
+        "url": "https://www.animegg.org/rail-romanesque-episode-12"
+      }
+    ]
   }
 ]
