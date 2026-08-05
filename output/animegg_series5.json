@@ -46379,5 +46379,21 @@
         "url": "https://www.animegg.org/bakugan-battle-brawlers-dub-episode-52"
       }
     ]
+  },
+  {
+    "serial_no": 6285,
+    "title": "Kirakira☆Precure A La Mode Movie: Paritto! Omoide no Mille-Feuille!",
+    "animegg_url": "https://www.animegg.org/series/kirakira-precure-a-la-mode-movie-paritto-omoide-no-mille-feuille",
+    "mal_url": "https://myanimelist.net/anime/35206",
+    "mal_id": 35206,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/90405",
+        "dub": null,
+        "url": "https://www.animegg.org/kirakira-precure-a-la-mode-movie-paritto-omoide-no-mille-feuille-episode-1"
+      }
+    ]
   }
 ]
