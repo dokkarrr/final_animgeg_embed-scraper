@@ -71182,5 +71182,69 @@
         "url": "https://www.animegg.org/ah-my-goddess-ova-episode-5"
       }
     ]
+  },
+  {
+    "serial_no": 3971,
+    "title": "Acro Trip",
+    "animegg_url": "https://www.animegg.org/series/acro-trip",
+    "mal_url": "https://myanimelist.net/anime/53723",
+    "mal_id": 53723,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/137540",
+        "dub": null,
+        "url": "https://www.animegg.org/acro-trip-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/137541",
+        "dub": null,
+        "url": "https://www.animegg.org/acro-trip-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/137770",
+        "dub": null,
+        "url": "https://www.animegg.org/acro-trip-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/138040",
+        "dub": null,
+        "url": "https://www.animegg.org/acro-trip-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/138286",
+        "dub": null,
+        "url": "https://www.animegg.org/acro-trip-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/138506",
+        "dub": null,
+        "url": "https://www.animegg.org/acro-trip-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/138744",
+        "dub": null,
+        "url": "https://www.animegg.org/acro-trip-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/138942",
+        "dub": null,
+        "url": "https://www.animegg.org/acro-trip-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/139154",
+        "dub": null,
+        "url": "https://www.animegg.org/acro-trip-episode-9"
+      }
+    ]
   }
 ]
