@@ -42947,5 +42947,21 @@
         "url": "https://www.animegg.org/bakumatsu-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 6249,
+    "title": "Godzilla 3: Hoshi wo Kuu Mono",
+    "animegg_url": "https://www.animegg.org/series/godzilla-3-hoshi-wo-kuu-mono",
+    "mal_url": "https://myanimelist.net/anime/37897",
+    "mal_id": 37897,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/94164",
+        "dub": null,
+        "url": "https://www.animegg.org/godzilla-3-hoshi-wo-kuu-mono-episode-1"
+      }
+    ]
   }
 ]
