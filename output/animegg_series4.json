@@ -104200,5 +104200,51 @@
         "url": "https://www.animegg.org/mechanical-marie-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4478,
+    "title": "Kusunoki's Garden of Gods",
+    "animegg_url": "https://www.animegg.org/series/kusunoki-s-garden-of-gods",
+    "mal_url": "https://myanimelist.net/anime/62050",
+    "mal_id": 62050,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/145368",
+        "dub": null,
+        "url": "https://www.animegg.org/kusunoki-s-garden-of-gods-episode-1"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/145488",
+        "dub": null,
+        "url": "https://www.animegg.org/kusunoki-s-garden-of-gods-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/145598",
+        "dub": null,
+        "url": "https://www.animegg.org/kusunoki-s-garden-of-gods-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/145674",
+        "dub": null,
+        "url": "https://www.animegg.org/kusunoki-s-garden-of-gods-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/145795",
+        "dub": null,
+        "url": "https://www.animegg.org/kusunoki-s-garden-of-gods-episode-7"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/146167",
+        "dub": null,
+        "url": "https://www.animegg.org/kusunoki-s-garden-of-gods-episode-12"
+      }
+    ]
   }
 ]
