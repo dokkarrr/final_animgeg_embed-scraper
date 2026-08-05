@@ -36138,5 +36138,87 @@
         "url": "https://www.animegg.org/orient-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3487,
+    "title": "Meikyuu Black Company",
+    "animegg_url": "https://www.animegg.org/series/meikyuu-black-company",
+    "mal_url": "https://myanimelist.net/anime/42340",
+    "mal_id": 42340,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/102228",
+        "dub": null,
+        "url": "https://www.animegg.org/meikyuu-black-company-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/102277",
+        "dub": null,
+        "url": "https://www.animegg.org/meikyuu-black-company-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/102339",
+        "dub": null,
+        "url": "https://www.animegg.org/meikyuu-black-company-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/102387",
+        "dub": null,
+        "url": "https://www.animegg.org/meikyuu-black-company-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/102443",
+        "dub": null,
+        "url": "https://www.animegg.org/meikyuu-black-company-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/102496",
+        "dub": null,
+        "url": "https://www.animegg.org/meikyuu-black-company-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/102551",
+        "dub": null,
+        "url": "https://www.animegg.org/meikyuu-black-company-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/102606",
+        "dub": null,
+        "url": "https://www.animegg.org/meikyuu-black-company-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/102661",
+        "dub": null,
+        "url": "https://www.animegg.org/meikyuu-black-company-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/102715",
+        "dub": null,
+        "url": "https://www.animegg.org/meikyuu-black-company-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/102775",
+        "dub": null,
+        "url": "https://www.animegg.org/meikyuu-black-company-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/102830",
+        "dub": null,
+        "url": "https://www.animegg.org/meikyuu-black-company-episode-12"
+      }
+    ]
   }
 ]
