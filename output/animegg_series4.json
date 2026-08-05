@@ -102212,5 +102212,51 @@
         "url": "https://www.animegg.org/dance-dance-danseur-episode-11"
       }
     ]
+  },
+  {
+    "serial_no": 4437,
+    "title": "Dies Irae: To the Ring Reincarnation",
+    "animegg_url": "https://www.animegg.org/series/dies-irae-to-the-ring-reincarnation",
+    "mal_url": "https://myanimelist.net/anime/36515",
+    "mal_id": 36515,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/91703",
+        "dub": null,
+        "url": "https://www.animegg.org/dies-irae-to-the-ring-reincarnation-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/91704",
+        "dub": null,
+        "url": "https://www.animegg.org/dies-irae-to-the-ring-reincarnation-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/91707",
+        "dub": null,
+        "url": "https://www.animegg.org/dies-irae-to-the-ring-reincarnation-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/91708",
+        "dub": null,
+        "url": "https://www.animegg.org/dies-irae-to-the-ring-reincarnation-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/91711",
+        "dub": null,
+        "url": "https://www.animegg.org/dies-irae-to-the-ring-reincarnation-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/91709",
+        "dub": null,
+        "url": "https://www.animegg.org/dies-irae-to-the-ring-reincarnation-episode-6"
+      }
+    ]
   }
 ]
