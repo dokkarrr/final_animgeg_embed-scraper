@@ -13991,5 +13991,21 @@
         "url": "https://www.animegg.org/ojamajo-doremi-sharp-movie-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5848,
+    "title": "Crest of the Stars: Birth",
+    "animegg_url": "https://www.animegg.org/series/crest-of-the-stars-birth",
+    "mal_url": "https://myanimelist.net/anime/1124",
+    "mal_id": 1124,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/6412",
+        "dub": null,
+        "url": "https://www.animegg.org/crest-of-the-stars-birth-episode-1"
+      }
+    ]
   }
 ]
