@@ -120840,5 +120840,33 @@
         "url": "https://www.animegg.org/inuyasha-the-movie-3-swords-of-an-honorable-ruler-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4744,
+    "title": "Magic Knight Rayearth OVA",
+    "animegg_url": "https://www.animegg.org/series/magic-knight-rayearth-ova",
+    "mal_url": "https://myanimelist.net/anime/1954",
+    "mal_id": 1954,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/54320",
+        "dub": "https://www.animegg.org/embed/54321",
+        "url": "https://www.animegg.org/magic-knight-rayearth-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/54322",
+        "dub": "https://www.animegg.org/embed/54323",
+        "url": "https://www.animegg.org/magic-knight-rayearth-ova-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/54324",
+        "dub": "https://www.animegg.org/embed/54325",
+        "url": "https://www.animegg.org/magic-knight-rayearth-ova-episode-3"
+      }
+    ]
   }
 ]
