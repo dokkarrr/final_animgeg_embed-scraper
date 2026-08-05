@@ -63652,5 +63652,21 @@
         "url": "https://www.animegg.org/letter-bee-academy-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 3860,
+    "title": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+    "animegg_url": "https://www.animegg.org/series/seishun-buta-yarou-wa-yumemiru-shoujo-no-yume-wo-minai",
+    "mal_url": "https://myanimelist.net/anime/38329",
+    "mal_id": 38329,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/97157",
+        "dub": null,
+        "url": "https://www.animegg.org/seishun-buta-yarou-wa-yumemiru-shoujo-no-yume-wo-minai-episode-1"
+      }
+    ]
   }
 ]
