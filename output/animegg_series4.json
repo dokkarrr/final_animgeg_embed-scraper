@@ -109070,5 +109070,87 @@
         "url": "https://www.animegg.org/kami-kuzu-idol-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 4560,
+    "title": "Actors: Songs Connection",
+    "animegg_url": "https://www.animegg.org/series/actors-songs-connection",
+    "mal_url": "https://myanimelist.net/anime/38670",
+    "mal_id": 38670,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/96629",
+        "dub": null,
+        "url": "https://www.animegg.org/actors-songs-connection-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/96720",
+        "dub": null,
+        "url": "https://www.animegg.org/actors-songs-connection-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/96783",
+        "dub": null,
+        "url": "https://www.animegg.org/actors-songs-connection-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/96850",
+        "dub": null,
+        "url": "https://www.animegg.org/actors-songs-connection-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/96911",
+        "dub": null,
+        "url": "https://www.animegg.org/actors-songs-connection-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/96972",
+        "dub": null,
+        "url": "https://www.animegg.org/actors-songs-connection-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/97031",
+        "dub": null,
+        "url": "https://www.animegg.org/actors-songs-connection-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/97100",
+        "dub": null,
+        "url": "https://www.animegg.org/actors-songs-connection-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/97171",
+        "dub": null,
+        "url": "https://www.animegg.org/actors-songs-connection-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/97233",
+        "dub": null,
+        "url": "https://www.animegg.org/actors-songs-connection-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/97297",
+        "dub": null,
+        "url": "https://www.animegg.org/actors-songs-connection-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/97365",
+        "dub": null,
+        "url": "https://www.animegg.org/actors-songs-connection-episode-12"
+      }
+    ]
   }
 ]
