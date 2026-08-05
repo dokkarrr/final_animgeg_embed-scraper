@@ -91098,5 +91098,21 @@
         "url": "https://www.animegg.org/sabiiro-no-armor-reimei-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4282,
+    "title": "Dragon Ball Z Movie 04: Lord Slug",
+    "animegg_url": "https://www.animegg.org/series/dragon-ball-z-movie-04-lord-slug",
+    "mal_url": "https://myanimelist.net/anime/897",
+    "mal_id": 897,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/49765",
+        "dub": null,
+        "url": "https://www.animegg.org/dragon-ball-z-movie-04-lord-slug-episode-1"
+      }
+    ]
   }
 ]
