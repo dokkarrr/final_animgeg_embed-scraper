@@ -72457,5 +72457,21 @@
         "url": "https://www.animegg.org/can-ci-pin-fangzhu-xingkong-episode-16"
       }
     ]
+  },
+  {
+    "serial_no": 6513,
+    "title": "Kyochuu Rettou",
+    "animegg_url": "https://www.animegg.org/series/kyochuu-rettou",
+    "mal_url": "https://myanimelist.net/anime/38915",
+    "mal_id": 38915,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/96403",
+        "dub": null,
+        "url": "https://www.animegg.org/kyochuu-rettou-episode-1"
+      }
+    ]
   }
 ]
