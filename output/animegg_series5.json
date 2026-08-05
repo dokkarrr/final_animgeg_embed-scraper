@@ -44989,5 +44989,21 @@
         "url": "https://www.animegg.org/miss-monochrome-the-animation---manager-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6269,
+    "title": "Kuma Miko Specials",
+    "animegg_url": "https://www.animegg.org/series/kuma-miko-specials",
+    "mal_url": "https://myanimelist.net/anime/33118",
+    "mal_id": 33118,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/82855",
+        "dub": null,
+        "url": "https://www.animegg.org/kuma-miko-specials-episode-1"
+      }
+    ]
   }
 ]
