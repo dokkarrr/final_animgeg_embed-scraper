@@ -91114,5 +91114,51 @@
         "url": "https://www.animegg.org/dragon-ball-z-movie-04-lord-slug-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4283,
+    "title": "Ore dake Level Up na Ken (Korean Dub)",
+    "animegg_url": "https://www.animegg.org/series/ore-dake-level-up-na-ken-korean-dub",
+    "mal_url": "https://myanimelist.net/anime/736",
+    "mal_id": 736,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/132640",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-dake-level-up-na-ken-korean-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/132764",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-dake-level-up-na-ken-korean-dub-episode-2"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/133117",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-dake-level-up-na-ken-korean-dub-episode-4"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/133345",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-dake-level-up-na-ken-korean-dub-episode-7"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/133485",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-dake-level-up-na-ken-korean-dub-episode-9"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/133559",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-dake-level-up-na-ken-korean-dub-episode-12"
+      }
+    ]
   }
 ]
