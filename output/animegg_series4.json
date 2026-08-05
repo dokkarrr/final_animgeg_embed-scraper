@@ -85476,5 +85476,21 @@
         "url": "https://www.animegg.org/high-card-season-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4189,
+    "title": "Kuroko no Basket: Mou Ikkai Yarimasen ka",
+    "animegg_url": "https://www.animegg.org/series/kuroko-no-basket-mou-ikkai-yarimasen-ka",
+    "mal_url": "https://myanimelist.net/anime/22125",
+    "mal_id": 22125,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/80527",
+        "dub": null,
+        "url": "https://www.animegg.org/kuroko-no-basket-mou-ikkai-yarimasen-ka-episode-1"
+      }
+    ]
   }
 ]
