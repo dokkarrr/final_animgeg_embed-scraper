@@ -53420,5 +53420,39 @@
         "url": "https://www.animegg.org/shen-yin-wangzuo-episode-134"
       }
     ]
+  },
+  {
+    "serial_no": 3720,
+    "title": "Kono Danshi, Mahou ga Oshigoto Desu",
+    "animegg_url": "https://www.animegg.org/series/kono-danshi-mahou-ga-oshigoto-desu",
+    "mal_url": "https://myanimelist.net/anime/31815",
+    "mal_id": 31815,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/80996",
+        "dub": "https://www.animegg.org/embed/81003",
+        "url": "https://www.animegg.org/kono-danshi-mahou-ga-oshigoto-desu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/81095",
+        "dub": null,
+        "url": "https://www.animegg.org/kono-danshi-mahou-ga-oshigoto-desu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/81194",
+        "dub": null,
+        "url": "https://www.animegg.org/kono-danshi-mahou-ga-oshigoto-desu-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/81301",
+        "dub": null,
+        "url": "https://www.animegg.org/kono-danshi-mahou-ga-oshigoto-desu-episode-4"
+      }
+    ]
   }
 ]
