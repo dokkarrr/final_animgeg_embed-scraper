@@ -718,5 +718,21 @@
         "url": "https://www.animegg.org/origin-spirits-of-the-past-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5621,
+    "title": "Lupin III: Elusiveness of the Fog",
+    "animegg_url": "https://www.animegg.org/series/lupin-iii-elusiveness-of-the-fog",
+    "mal_url": "https://myanimelist.net/anime/3019",
+    "mal_id": 3019,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/56091",
+        "dub": null,
+        "url": "https://www.animegg.org/lupin-iii-elusiveness-of-the-fog-episode-1"
+      }
+    ]
   }
 ]
