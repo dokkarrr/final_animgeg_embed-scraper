@@ -18800,5 +18800,21 @@
         "url": "https://www.animegg.org/galaxy-express-999-can-you-love-like-a-mother-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5939,
+    "title": "Carnival Phantasm: Illya's Castle",
+    "animegg_url": "https://www.animegg.org/series/carnival-phantasm-illyas-castle",
+    "mal_url": "https://myanimelist.net/anime/10012",
+    "mal_id": 10012,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/49190",
+        "dub": null,
+        "url": "https://www.animegg.org/carnival-phantasm-illyas-castle-episode-1"
+      }
+    ]
   }
 ]
