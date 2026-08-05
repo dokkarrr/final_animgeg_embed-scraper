@@ -122029,5 +122029,21 @@
         "url": "https://www.animegg.org/b-t-x-dub-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 6930,
+    "title": "Boku ga Aishita Subete no Kimi e",
+    "animegg_url": "https://www.animegg.org/series/boku-ga-aishita-subete-no-kimi-e",
+    "mal_url": "https://myanimelist.net/anime/49834",
+    "mal_id": 49834,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/107840",
+        "dub": null,
+        "url": "https://www.animegg.org/boku-ga-aishita-subete-no-kimi-e-episode-1"
+      }
+    ]
   }
 ]
