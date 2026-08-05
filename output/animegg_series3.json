@@ -135105,5 +135105,21 @@
         "url": "https://www.animegg.org/crayon-shin-chan-dub-episode-78"
       }
     ]
+  },
+  {
+    "serial_no": 2694,
+    "title": "Nanatsu no Taizai Movie: Tenkuu no Torawarebito",
+    "animegg_url": "https://www.animegg.org/series/nanatsu-no-taizai-movie-tenkuu-no-torawarebito",
+    "mal_url": "https://myanimelist.net/anime/35946",
+    "mal_id": 35946,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/94099",
+        "dub": "https://www.animegg.org/embed/94100",
+        "url": "https://www.animegg.org/nanatsu-no-taizai-movie-tenkuu-no-torawarebito-episode-1"
+      }
+    ]
   }
 ]
