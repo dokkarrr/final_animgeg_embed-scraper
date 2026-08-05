@@ -66404,5 +66404,21 @@
         "url": "https://www.animegg.org/zoku-owarimonogatari-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 3900,
+    "title": "Berserk: Ougon Jidaihen I",
+    "animegg_url": "https://www.animegg.org/series/berserk-ougon-jidaihen-i",
+    "mal_url": "https://myanimelist.net/anime/10218",
+    "mal_id": 10218,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/48588",
+        "dub": null,
+        "url": "https://www.animegg.org/berserk-ougon-jidaihen-i-episode-1"
+      }
+    ]
   }
 ]
