@@ -54849,5 +54849,21 @@
         "url": "https://www.animegg.org/made-in-abyss-movie-2-hourou-suru-tasogare-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6351,
+    "title": "Yowamushi Pedal: Spare Bike",
+    "animegg_url": "https://www.animegg.org/series/yowamushi-pedal-spare-bike",
+    "mal_url": "https://myanimelist.net/anime/33302",
+    "mal_id": 33302,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/84959",
+        "dub": null,
+        "url": "https://www.animegg.org/yowamushi-pedal-spare-bike-episode-1-4779"
+      }
+    ]
   }
 ]
