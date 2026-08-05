@@ -25042,5 +25042,87 @@
         "url": "https://www.animegg.org/murai-no-koi-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3362,
+    "title": "Watashi ni Tenshi ga Maiorita!",
+    "animegg_url": "https://www.animegg.org/series/watashi-ni-tenshi-ga-maiorita",
+    "mal_url": "https://myanimelist.net/anime/37993",
+    "mal_id": 37993,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/94158",
+        "dub": null,
+        "url": "https://www.animegg.org/watashi-ni-tenshi-ga-maiorita-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/94238",
+        "dub": null,
+        "url": "https://www.animegg.org/watashi-ni-tenshi-ga-maiorita-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/94298",
+        "dub": null,
+        "url": "https://www.animegg.org/watashi-ni-tenshi-ga-maiorita-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/94361",
+        "dub": null,
+        "url": "https://www.animegg.org/watashi-ni-tenshi-ga-maiorita-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/94427",
+        "dub": null,
+        "url": "https://www.animegg.org/watashi-ni-tenshi-ga-maiorita-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/94495",
+        "dub": null,
+        "url": "https://www.animegg.org/watashi-ni-tenshi-ga-maiorita-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/94557",
+        "dub": null,
+        "url": "https://www.animegg.org/watashi-ni-tenshi-ga-maiorita-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/94637",
+        "dub": null,
+        "url": "https://www.animegg.org/watashi-ni-tenshi-ga-maiorita-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/94700",
+        "dub": null,
+        "url": "https://www.animegg.org/watashi-ni-tenshi-ga-maiorita-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/94763",
+        "dub": null,
+        "url": "https://www.animegg.org/watashi-ni-tenshi-ga-maiorita-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/94828",
+        "dub": null,
+        "url": "https://www.animegg.org/watashi-ni-tenshi-ga-maiorita-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/94908",
+        "dub": null,
+        "url": "https://www.animegg.org/watashi-ni-tenshi-ga-maiorita-episode-12"
+      }
+    ]
   }
 ]
