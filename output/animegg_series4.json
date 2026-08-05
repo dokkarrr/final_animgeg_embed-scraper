@@ -130696,5 +130696,33 @@
         "url": "https://www.animegg.org/kaginado-season-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4889,
+    "title": "Cardcaptor Sakura Specials",
+    "animegg_url": "https://www.animegg.org/series/cardcaptor-sakura-specials",
+    "mal_url": "https://myanimelist.net/anime/2424",
+    "mal_id": 2424,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/48075",
+        "dub": null,
+        "url": "https://www.animegg.org/cardcaptor-sakura-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/48076",
+        "dub": null,
+        "url": "https://www.animegg.org/cardcaptor-sakura-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/48077",
+        "dub": null,
+        "url": "https://www.animegg.org/cardcaptor-sakura-specials-episode-3"
+      }
+    ]
   }
 ]
