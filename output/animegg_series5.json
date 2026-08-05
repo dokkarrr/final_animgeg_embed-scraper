@@ -54495,5 +54495,21 @@
         "url": "https://www.animegg.org/the-supreme-master-episode-48"
       }
     ]
+  },
+  {
+    "serial_no": 6348,
+    "title": "Aikatsu Stars! Movie",
+    "animegg_url": "https://www.animegg.org/series/aikatsu-stars-movie",
+    "mal_url": "https://myanimelist.net/anime/31485",
+    "mal_id": 31485,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/86130",
+        "dub": null,
+        "url": "https://www.animegg.org/aikatsu-stars-movie-episode-1"
+      }
+    ]
   }
 ]
