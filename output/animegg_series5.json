@@ -2956,5 +2956,63 @@
         "url": "https://www.animegg.org/arcadia-of-my-youth-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5648,
+    "title": "Arknights: Reimei Zensou",
+    "animegg_url": "https://www.animegg.org/series/arknights-reimei-zensou",
+    "mal_url": "https://myanimelist.net/anime/50205",
+    "mal_id": 50205,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/106236",
+        "dub": null,
+        "url": "https://www.animegg.org/arknights-reimei-zensou-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/106295",
+        "dub": null,
+        "url": "https://www.animegg.org/arknights-reimei-zensou-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/106357",
+        "dub": null,
+        "url": "https://www.animegg.org/arknights-reimei-zensou-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/106414",
+        "dub": null,
+        "url": "https://www.animegg.org/arknights-reimei-zensou-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/106479",
+        "dub": null,
+        "url": "https://www.animegg.org/arknights-reimei-zensou-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/106531",
+        "dub": null,
+        "url": "https://www.animegg.org/arknights-reimei-zensou-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/106585",
+        "dub": null,
+        "url": "https://www.animegg.org/arknights-reimei-zensou-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/106641",
+        "dub": null,
+        "url": "https://www.animegg.org/arknights-reimei-zensou-episode-8"
+      }
+    ]
   }
 ]
