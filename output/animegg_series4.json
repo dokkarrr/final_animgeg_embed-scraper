@@ -129130,5 +129130,87 @@
         "url": "https://www.animegg.org/neppuu-kairiku-bushi-road-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4865,
+    "title": "High Card",
+    "animegg_url": "https://www.animegg.org/series/high-card",
+    "mal_url": "https://myanimelist.net/anime/49154",
+    "mal_id": 49154,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/106814",
+        "dub": null,
+        "url": "https://www.animegg.org/high-card-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/106887",
+        "dub": null,
+        "url": "https://www.animegg.org/high-card-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/106959",
+        "dub": null,
+        "url": "https://www.animegg.org/high-card-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/107030",
+        "dub": null,
+        "url": "https://www.animegg.org/high-card-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/107103",
+        "dub": null,
+        "url": "https://www.animegg.org/high-card-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/107179",
+        "dub": null,
+        "url": "https://www.animegg.org/high-card-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/107282",
+        "dub": null,
+        "url": "https://www.animegg.org/high-card-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/107348",
+        "dub": null,
+        "url": "https://www.animegg.org/high-card-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/107411",
+        "dub": null,
+        "url": "https://www.animegg.org/high-card-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/107480",
+        "dub": null,
+        "url": "https://www.animegg.org/high-card-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/107541",
+        "dub": null,
+        "url": "https://www.animegg.org/high-card-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/107600",
+        "dub": null,
+        "url": "https://www.animegg.org/high-card-episode-12"
+      }
+    ]
   }
 ]
