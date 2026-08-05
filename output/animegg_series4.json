@@ -66224,5 +66224,51 @@
         "url": "https://www.animegg.org/ueno-san-wa-bukiyou-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3897,
+    "title": "Inazuma Eleven: Outer Code",
+    "animegg_url": "https://www.animegg.org/series/inazuma-eleven-outer-code",
+    "mal_url": "https://myanimelist.net/anime/34178",
+    "mal_id": 34178,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/84702",
+        "dub": null,
+        "url": "https://www.animegg.org/inazuma-eleven-outer-code-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/85330",
+        "dub": null,
+        "url": "https://www.animegg.org/inazuma-eleven-outer-code-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/85610",
+        "dub": null,
+        "url": "https://www.animegg.org/inazuma-eleven-outer-code-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/87586",
+        "dub": null,
+        "url": "https://www.animegg.org/inazuma-eleven-outer-code-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/87587",
+        "dub": null,
+        "url": "https://www.animegg.org/inazuma-eleven-outer-code-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/inazuma-eleven-outer-code-episode-6"
+      }
+    ]
   }
 ]
