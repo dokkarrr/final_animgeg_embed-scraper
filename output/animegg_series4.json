@@ -86716,5 +86716,93 @@
         "url": "https://www.animegg.org/one-piece-baron-omatsuri-and-the-secret-island-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4214,
+    "title": "Godzilla: S.P",
+    "animegg_url": "https://www.animegg.org/series/godzilla-sp",
+    "mal_url": "https://myanimelist.net/anime/43229",
+    "mal_id": 43229,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/101323",
+        "dub": null,
+        "url": "https://www.animegg.org/godzilla-sp-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/101364",
+        "dub": null,
+        "url": "https://www.animegg.org/godzilla-sp-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/101503",
+        "dub": null,
+        "url": "https://www.animegg.org/godzilla-sp-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/101504",
+        "dub": null,
+        "url": "https://www.animegg.org/godzilla-sp-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/101569",
+        "dub": null,
+        "url": "https://www.animegg.org/godzilla-sp-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/101624",
+        "dub": null,
+        "url": "https://www.animegg.org/godzilla-sp-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/101692",
+        "dub": null,
+        "url": "https://www.animegg.org/godzilla-sp-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/101693",
+        "dub": null,
+        "url": "https://www.animegg.org/godzilla-sp-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/101767",
+        "dub": null,
+        "url": "https://www.animegg.org/godzilla-sp-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/101824",
+        "dub": null,
+        "url": "https://www.animegg.org/godzilla-sp-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/101907",
+        "dub": null,
+        "url": "https://www.animegg.org/godzilla-sp-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/101992",
+        "dub": null,
+        "url": "https://www.animegg.org/godzilla-sp-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/102045",
+        "dub": null,
+        "url": "https://www.animegg.org/godzilla-sp-episode-13"
+      }
+    ]
   }
 ]
