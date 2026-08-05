@@ -7863,5 +7863,63 @@
         "url": "https://www.animegg.org/jojo-no-kimyou-na-bouken-stardust-crusaders---egypt-hen-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 5738,
+    "title": "Potion, Wagami wo Tasukeru",
+    "animegg_url": "https://www.animegg.org/series/potion-wagami-wo-tasukeru",
+    "mal_url": "https://myanimelist.net/anime/62144",
+    "mal_id": 62144,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/142786",
+        "dub": null,
+        "url": "https://www.animegg.org/potion-wagami-wo-tasukeru-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/142827",
+        "dub": null,
+        "url": "https://www.animegg.org/potion-wagami-wo-tasukeru-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/142950",
+        "dub": null,
+        "url": "https://www.animegg.org/potion-wagami-wo-tasukeru-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/143051",
+        "dub": null,
+        "url": "https://www.animegg.org/potion-wagami-wo-tasukeru-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/143139",
+        "dub": null,
+        "url": "https://www.animegg.org/potion-wagami-wo-tasukeru-episode-5"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/143548",
+        "dub": null,
+        "url": "https://www.animegg.org/potion-wagami-wo-tasukeru-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/143668",
+        "dub": null,
+        "url": "https://www.animegg.org/potion-wagami-wo-tasukeru-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/143788",
+        "dub": null,
+        "url": "https://www.animegg.org/potion-wagami-wo-tasukeru-episode-11"
+      }
+    ]
   }
 ]
