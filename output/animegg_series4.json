@@ -132792,5 +132792,33 @@
         "url": "https://www.animegg.org/oretachi-ni-tsubasa-wa-nai-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4921,
+    "title": "Blue lock season 2",
+    "animegg_url": "https://www.animegg.org/series/blue-lock-season-2",
+    "mal_url": "https://myanimelist.net/anime/54865",
+    "mal_id": 54865,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/139689",
+        "dub": null,
+        "url": "https://www.animegg.org/blue-lock-season-2-episode-14"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/139586",
+        "dub": null,
+        "url": "https://www.animegg.org/blue-lock-season-2-episode-13"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/139458",
+        "dub": null,
+        "url": "https://www.animegg.org/blue-lock-season-2-episode-11"
+      }
+    ]
   }
 ]
