@@ -125296,5 +125296,33 @@
         "url": "https://www.animegg.org/memories-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 4805,
+    "title": "Suntory Minami Alps no Tennen Mizu",
+    "animegg_url": "https://www.animegg.org/series/suntory-minami-alps-no-tennen-mizu",
+    "mal_url": "https://myanimelist.net/anime/32281",
+    "mal_id": 32281,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/84052",
+        "dub": null,
+        "url": "https://www.animegg.org/suntory-minami-alps-no-tennen-mizu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/84053",
+        "dub": null,
+        "url": "https://www.animegg.org/suntory-minami-alps-no-tennen-mizu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/84054",
+        "dub": null,
+        "url": "https://www.animegg.org/suntory-minami-alps-no-tennen-mizu-episode-3"
+      }
+    ]
   }
 ]
