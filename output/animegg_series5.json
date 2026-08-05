@@ -57321,5 +57321,39 @@
         "url": "https://www.animegg.org/fist-of-the-north-star-hokuto-no-ken-episode-14"
       }
     ]
+  },
+  {
+    "serial_no": 6372,
+    "title": "Kimetsu Gakuen: Valentine-hen",
+    "animegg_url": "https://www.animegg.org/series/kimetsu-gakuen-valentine-hen",
+    "mal_url": "https://myanimelist.net/anime/47398",
+    "mal_id": 47398,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/101007",
+        "dub": null,
+        "url": "https://www.animegg.org/kimetsu-gakuen-valentine-hen-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/101024",
+        "dub": null,
+        "url": "https://www.animegg.org/kimetsu-gakuen-valentine-hen-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/101025",
+        "dub": null,
+        "url": "https://www.animegg.org/kimetsu-gakuen-valentine-hen-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/101008",
+        "dub": null,
+        "url": "https://www.animegg.org/kimetsu-gakuen-valentine-hen-episode-4"
+      }
+    ]
   }
 ]
