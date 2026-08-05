@@ -20490,5 +20490,93 @@
         "url": "https://www.animegg.org/hellsing-the-dawn-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 3316,
+    "title": "Meine Liebe",
+    "animegg_url": "https://www.animegg.org/series/meine-liebe",
+    "mal_url": "https://myanimelist.net/anime/336",
+    "mal_id": 336,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/57873",
+        "dub": null,
+        "url": "https://www.animegg.org/meine-liebe-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/57874",
+        "dub": null,
+        "url": "https://www.animegg.org/meine-liebe-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/57875",
+        "dub": null,
+        "url": "https://www.animegg.org/meine-liebe-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/57876",
+        "dub": null,
+        "url": "https://www.animegg.org/meine-liebe-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/57877",
+        "dub": null,
+        "url": "https://www.animegg.org/meine-liebe-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/57878",
+        "dub": null,
+        "url": "https://www.animegg.org/meine-liebe-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/57879",
+        "dub": null,
+        "url": "https://www.animegg.org/meine-liebe-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/57880",
+        "dub": null,
+        "url": "https://www.animegg.org/meine-liebe-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/57881",
+        "dub": null,
+        "url": "https://www.animegg.org/meine-liebe-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/57882",
+        "dub": null,
+        "url": "https://www.animegg.org/meine-liebe-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/57883",
+        "dub": null,
+        "url": "https://www.animegg.org/meine-liebe-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/57884",
+        "dub": null,
+        "url": "https://www.animegg.org/meine-liebe-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/57885",
+        "dub": null,
+        "url": "https://www.animegg.org/meine-liebe-episode-13"
+      }
+    ]
   }
 ]
