@@ -109038,5 +109038,21 @@
         "url": "https://www.animegg.org/the-quintessential-quintuplets-e2-88-bd-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6814,
+    "title": "Mahouka Koukou no Rettousei: Tsuioku-hen",
+    "animegg_url": "https://www.animegg.org/series/mahouka-koukou-no-rettousei-tsuioku-hen",
+    "mal_url": "https://myanimelist.net/anime/48375",
+    "mal_id": 48375,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/103706",
+        "dub": null,
+        "url": "https://www.animegg.org/mahouka-koukou-no-rettousei-tsuioku-hen-episode-1"
+      }
+    ]
   }
 ]
