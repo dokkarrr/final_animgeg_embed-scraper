@@ -111124,5 +111124,21 @@
         "url": "https://www.animegg.org/welcome-to-the-outcast-s-restaurant-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4589,
+    "title": "Danganronpa 3: The End of Kibougamine Gakuen - Kibou-hen",
+    "animegg_url": "https://www.animegg.org/series/danganronpa-3-the-end-of-kibougamine-gakuen---kibou-hen",
+    "mal_url": "https://myanimelist.net/anime/34103",
+    "mal_id": 34103,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/84048",
+        "dub": "https://www.animegg.org/embed/84049",
+        "url": "https://www.animegg.org/danganronpa-3-the-end-of-kibougamine-gakuen---kibou-hen-episode-1"
+      }
+    ]
   }
 ]
