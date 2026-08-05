@@ -76757,5 +76757,87 @@
         "url": "https://www.animegg.org/tasokare-hotel-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 6541,
+    "title": "5-toubun no Hanayome 2",
+    "animegg_url": "https://www.animegg.org/series/5-toubun-no-hanayome-2-dub",
+    "mal_url": "https://myanimelist.net/anime/39783",
+    "mal_id": 39783,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/109187",
+        "dub": null,
+        "url": "https://www.animegg.org/5-toubun-no-hanayome-2-dub-episode-12"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/109186",
+        "dub": null,
+        "url": "https://www.animegg.org/5-toubun-no-hanayome-2-dub-episode-11"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/109185",
+        "dub": null,
+        "url": "https://www.animegg.org/5-toubun-no-hanayome-2-dub-episode-10"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/109194",
+        "dub": null,
+        "url": "https://www.animegg.org/5-toubun-no-hanayome-2-dub-episode-9"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/109193",
+        "dub": null,
+        "url": "https://www.animegg.org/5-toubun-no-hanayome-2-dub-episode-8"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/109192",
+        "dub": null,
+        "url": "https://www.animegg.org/5-toubun-no-hanayome-2-dub-episode-7"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/109191",
+        "dub": null,
+        "url": "https://www.animegg.org/5-toubun-no-hanayome-2-dub-episode-6"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/109190",
+        "dub": null,
+        "url": "https://www.animegg.org/5-toubun-no-hanayome-2-dub-episode-5"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/109189",
+        "dub": null,
+        "url": "https://www.animegg.org/5-toubun-no-hanayome-2-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/5-toubun-no-hanayome-2-dub-episode-3"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/109188",
+        "dub": null,
+        "url": "https://www.animegg.org/5-toubun-no-hanayome-2-dub-episode-2"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/109184",
+        "dub": null,
+        "url": "https://www.animegg.org/5-toubun-no-hanayome-2-dub-episode-1"
+      }
+    ]
   }
 ]
