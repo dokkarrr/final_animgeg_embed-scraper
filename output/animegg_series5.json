@@ -28568,5 +28568,21 @@
         "url": "https://www.animegg.org/summer-days-with-coo-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6080,
+    "title": "Go! Princess Precure Movie: Go! Go!! Gouka 3-bondate!!!",
+    "animegg_url": "https://www.animegg.org/series/go-princess-precure-movie-go-go-gouka-3-bondate",
+    "mal_url": "https://myanimelist.net/anime/29868",
+    "mal_id": 29868,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/81975",
+        "dub": null,
+        "url": "https://www.animegg.org/go-princess-precure-movie-go-go-gouka-3-bondate-episode-1"
+      }
+    ]
   }
 ]
