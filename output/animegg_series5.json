@@ -35248,5 +35248,21 @@
         "url": "https://www.animegg.org/to---a-space-fantasy-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 6178,
+    "title": "Promare",
+    "animegg_url": "https://www.animegg.org/series/promare",
+    "mal_url": "https://myanimelist.net/anime/35848",
+    "mal_id": 35848,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/97752",
+        "dub": null,
+        "url": "https://www.animegg.org/promare-episode-1"
+      }
+    ]
   }
 ]
