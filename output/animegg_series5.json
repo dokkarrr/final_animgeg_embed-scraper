@@ -19546,5 +19546,21 @@
         "url": "https://www.animegg.org/ginga-e-kickoff-special-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5953,
+    "title": "Grendizer: Getter Robo G - Great Mazinger Kessen! Daikaijuu",
+    "animegg_url": "https://www.animegg.org/series/grendizer-getter-robo-g---great-mazinger-kessen-daikaijuu",
+    "mal_url": "https://myanimelist.net/anime/3481",
+    "mal_id": 3481,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/53150",
+        "dub": null,
+        "url": "https://www.animegg.org/grendizer-getter-robo-g---great-mazinger-kessen-daikaijuu-episode-1"
+      }
+    ]
   }
 ]
