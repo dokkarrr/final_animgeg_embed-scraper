@@ -135837,5 +135837,87 @@
         "url": "https://www.animegg.org/anisava-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2703,
+    "title": "Strike the Blood IV",
+    "animegg_url": "https://www.animegg.org/series/strike-the-blood-iv",
+    "mal_url": "https://myanimelist.net/anime/40485",
+    "mal_id": 40485,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/98296",
+        "dub": null,
+        "url": "https://www.animegg.org/strike-the-blood-iv-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/98297",
+        "dub": null,
+        "url": "https://www.animegg.org/strike-the-blood-iv-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/99051",
+        "dub": null,
+        "url": "https://www.animegg.org/strike-the-blood-iv-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/99349",
+        "dub": null,
+        "url": "https://www.animegg.org/strike-the-blood-iv-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/99855",
+        "dub": null,
+        "url": "https://www.animegg.org/strike-the-blood-iv-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/100113",
+        "dub": null,
+        "url": "https://www.animegg.org/strike-the-blood-iv-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/100396",
+        "dub": null,
+        "url": "https://www.animegg.org/strike-the-blood-iv-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/100397",
+        "dub": null,
+        "url": "https://www.animegg.org/strike-the-blood-iv-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/101446",
+        "dub": null,
+        "url": "https://www.animegg.org/strike-the-blood-iv-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/102174",
+        "dub": null,
+        "url": "https://www.animegg.org/strike-the-blood-iv-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/102318",
+        "dub": null,
+        "url": "https://www.animegg.org/strike-the-blood-iv-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/102363",
+        "dub": null,
+        "url": "https://www.animegg.org/strike-the-blood-iv-episode-12"
+      }
+    ]
   }
 ]
