@@ -19614,5 +19614,93 @@
         "url": "https://www.animegg.org/kitsune-no-koe-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3304,
+    "title": "Yuru Camp△ Season 2",
+    "animegg_url": "https://www.animegg.org/series/yuru-camp-season-2",
+    "mal_url": "https://myanimelist.net/anime/38474",
+    "mal_id": 38474,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/101325",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-camp-season-2-episode-13"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/101253",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-camp-season-2-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/101181",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-camp-season-2-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/101110",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-camp-season-2-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/101036",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-camp-season-2-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/100961",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-camp-season-2-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/100884",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-camp-season-2-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/100810",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-camp-season-2-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/100743",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-camp-season-2-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/100669",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-camp-season-2-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/100595",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-camp-season-2-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/100508",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-camp-season-2-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/100427",
+        "dub": "https://www.animegg.org/embed/132804",
+        "url": "https://www.animegg.org/yuru-camp-season-2-episode-1"
+      }
+    ]
   }
 ]
