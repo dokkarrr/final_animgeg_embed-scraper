@@ -102908,5 +102908,21 @@
         "url": "https://www.animegg.org/bokura-wa-minna-kawaisou-special-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4449,
+    "title": "Deadman Wonderland OVA",
+    "animegg_url": "https://www.animegg.org/series/deadman-wonderland-ova",
+    "mal_url": "https://myanimelist.net/anime/10418",
+    "mal_id": 10418,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/7408",
+        "dub": "https://www.animegg.org/embed/7409",
+        "url": "https://www.animegg.org/deadman-wonderland-ova-episode-1"
+      }
+    ]
   }
 ]
