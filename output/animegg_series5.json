@@ -14584,5 +14584,21 @@
         "url": "https://www.animegg.org/taiyou-no-kiba-dagram-episode-75"
       }
     ]
+  },
+  {
+    "serial_no": 5854,
+    "title": "Lupin III: Chi no Kokuin",
+    "animegg_url": "https://www.animegg.org/series/lupin-iii-chi-no-kokuin",
+    "mal_url": "https://myanimelist.net/anime/11777",
+    "mal_id": 11777,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/56090",
+        "dub": null,
+        "url": "https://www.animegg.org/lupin-iii-chi-no-kokuin-episode-1"
+      }
+    ]
   }
 ]
