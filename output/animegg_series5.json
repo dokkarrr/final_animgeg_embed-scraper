@@ -115122,5 +115122,27 @@
         "url": "https://www.animegg.org/mini-van-large-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 6865,
+    "title": "Jaku-Chara Tomozaki-kun Specials",
+    "animegg_url": "https://www.animegg.org/series/jaku-chara-tomozaki-kun-specials",
+    "mal_url": "https://myanimelist.net/anime/45604",
+    "mal_id": 45604,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/101901",
+        "dub": null,
+        "url": "https://www.animegg.org/jaku-chara-tomozaki-kun-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/102187",
+        "dub": null,
+        "url": "https://www.animegg.org/jaku-chara-tomozaki-kun-specials-episode-2"
+      }
+    ]
   }
 ]
