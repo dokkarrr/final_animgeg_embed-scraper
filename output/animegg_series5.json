@@ -18998,5 +18998,21 @@
         "url": "https://www.animegg.org/toaru-kagaku-no-railgun-s-daiji-na-koto-wa-zenbu-sentou-ni-osowatta-episode"
       }
     ]
+  },
+  {
+    "serial_no": 5948,
+    "title": "Iron man: Rise of Technovore",
+    "animegg_url": "https://www.animegg.org/series/ironman-rise-of-technovore",
+    "mal_url": "https://myanimelist.net/anime/15847",
+    "mal_id": 15847,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/53983",
+        "dub": null,
+        "url": "https://www.animegg.org/ironman-rise-of-technovore-episode-1"
+      }
+    ]
   }
 ]
