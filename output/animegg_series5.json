@@ -29910,5 +29910,21 @@
         "url": "https://www.animegg.org/ramen-tenshi-pretty-menma-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6117,
+    "title": "RahXephon: Harmonic Convergence",
+    "animegg_url": "https://www.animegg.org/series/rahxephon-harmonic-convergence",
+    "mal_url": "https://myanimelist.net/anime/758",
+    "mal_id": 758,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/60713",
+        "dub": null,
+        "url": "https://www.animegg.org/rahxephon-harmonic-convergence-episode-1"
+      }
+    ]
   }
 ]
