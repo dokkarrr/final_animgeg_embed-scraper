@@ -68904,5 +68904,27 @@
         "url": "https://www.animegg.org/yamada-kun-to-7-nin-no-majo-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3928,
+    "title": "Smoking Behind the Supermarket with You",
+    "animegg_url": "https://www.animegg.org/series/smoking-behind-the-supermarket-with-you",
+    "mal_url": "https://myanimelist.net/anime/62076",
+    "mal_id": 62076,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/146366",
+        "dub": "https://www.animegg.org/embed/146375",
+        "url": "https://www.animegg.org/smoking-behind-the-supermarket-with-you-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/146459",
+        "dub": null,
+        "url": "https://www.animegg.org/smoking-behind-the-supermarket-with-you-episode-2"
+      }
+    ]
   }
 ]
