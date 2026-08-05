@@ -104302,5 +104302,21 @@
         "url": "https://www.animegg.org/inuyasha-the-movie-affections-touching-across-time-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 4481,
+    "title": "Fate/Prototype",
+    "animegg_url": "https://www.animegg.org/series/fateprototype",
+    "mal_url": "https://myanimelist.net/anime/12565",
+    "mal_id": 12565,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/10846",
+        "dub": null,
+        "url": "https://www.animegg.org/fateprototype-episode-1"
+      }
+    ]
   }
 ]
