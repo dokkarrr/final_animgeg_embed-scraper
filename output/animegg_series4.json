@@ -56488,5 +56488,75 @@
         "url": "https://www.animegg.org/muv-luv-alternative-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3761,
+    "title": "Back Street Girls: Gokudolls",
+    "animegg_url": "https://www.animegg.org/series/back-street-girls-gokudolls",
+    "mal_url": "https://myanimelist.net/anime/36873",
+    "mal_id": 36873,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/91739",
+        "dub": "https://www.animegg.org/embed/91754",
+        "url": "https://www.animegg.org/back-street-girls-gokudolls-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/91957",
+        "dub": null,
+        "url": "https://www.animegg.org/back-street-girls-gokudolls-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/91983",
+        "dub": null,
+        "url": "https://www.animegg.org/back-street-girls-gokudolls-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/92084",
+        "dub": null,
+        "url": "https://www.animegg.org/back-street-girls-gokudolls-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/92141",
+        "dub": null,
+        "url": "https://www.animegg.org/back-street-girls-gokudolls-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/92306",
+        "dub": null,
+        "url": "https://www.animegg.org/back-street-girls-gokudolls-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/92307",
+        "dub": null,
+        "url": "https://www.animegg.org/back-street-girls-gokudolls-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/92522",
+        "dub": null,
+        "url": "https://www.animegg.org/back-street-girls-gokudolls-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/92699",
+        "dub": null,
+        "url": "https://www.animegg.org/back-street-girls-gokudolls-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/92888",
+        "dub": null,
+        "url": "https://www.animegg.org/back-street-girls-gokudolls-episode-10"
+      }
+    ]
   }
 ]
