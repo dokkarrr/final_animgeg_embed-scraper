@@ -91836,5 +91836,93 @@
         "url": "https://www.animegg.org/rifle-is-beautiful-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4291,
+    "title": "Cardfight!! Vanguard: Divinez",
+    "animegg_url": "https://www.animegg.org/series/cardfight-vanguard-divinez",
+    "mal_url": "https://myanimelist.net/anime/54142",
+    "mal_id": 54142,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/132671",
+        "dub": null,
+        "url": "https://www.animegg.org/cardfight-vanguard-divinez-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/132756",
+        "dub": null,
+        "url": "https://www.animegg.org/cardfight-vanguard-divinez-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/132828",
+        "dub": null,
+        "url": "https://www.animegg.org/cardfight-vanguard-divinez-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/cardfight-vanguard-divinez-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/132916",
+        "dub": null,
+        "url": "https://www.animegg.org/cardfight-vanguard-divinez-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/132991",
+        "dub": null,
+        "url": "https://www.animegg.org/cardfight-vanguard-divinez-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/133155",
+        "dub": null,
+        "url": "https://www.animegg.org/cardfight-vanguard-divinez-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/133236",
+        "dub": null,
+        "url": "https://www.animegg.org/cardfight-vanguard-divinez-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/133317",
+        "dub": null,
+        "url": "https://www.animegg.org/cardfight-vanguard-divinez-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/133416",
+        "dub": null,
+        "url": "https://www.animegg.org/cardfight-vanguard-divinez-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/133494",
+        "dub": null,
+        "url": "https://www.animegg.org/cardfight-vanguard-divinez-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/133622",
+        "dub": null,
+        "url": "https://www.animegg.org/cardfight-vanguard-divinez-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/133706",
+        "dub": null,
+        "url": "https://www.animegg.org/cardfight-vanguard-divinez-episode-13"
+      }
+    ]
   }
 ]
