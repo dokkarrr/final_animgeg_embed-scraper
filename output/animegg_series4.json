@@ -107082,5 +107082,87 @@
         "url": "https://www.animegg.org/k-on-movie-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4531,
+    "title": "Love Live! Superstar!!",
+    "animegg_url": "https://www.animegg.org/series/love-live-superstar",
+    "mal_url": "https://myanimelist.net/anime/41169",
+    "mal_id": 41169,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/102257",
+        "dub": null,
+        "url": "https://www.animegg.org/love-live-superstar-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/102312",
+        "dub": null,
+        "url": "https://www.animegg.org/love-live-superstar-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/102477",
+        "dub": null,
+        "url": "https://www.animegg.org/love-live-superstar-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/102534",
+        "dub": null,
+        "url": "https://www.animegg.org/love-live-superstar-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/102587",
+        "dub": null,
+        "url": "https://www.animegg.org/love-live-superstar-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/102699",
+        "dub": null,
+        "url": "https://www.animegg.org/love-live-superstar-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/102758",
+        "dub": null,
+        "url": "https://www.animegg.org/love-live-superstar-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/102812",
+        "dub": null,
+        "url": "https://www.animegg.org/love-live-superstar-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/102870",
+        "dub": null,
+        "url": "https://www.animegg.org/love-live-superstar-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/102955",
+        "dub": null,
+        "url": "https://www.animegg.org/love-live-superstar-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/103026",
+        "dub": null,
+        "url": "https://www.animegg.org/love-live-superstar-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/103088",
+        "dub": null,
+        "url": "https://www.animegg.org/love-live-superstar-episode-12"
+      }
+    ]
   }
 ]
