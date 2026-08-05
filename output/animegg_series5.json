@@ -119883,5 +119883,21 @@
         "url": "https://www.animegg.org/nanatsu-no-bitoku-specials-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 6908,
+    "title": "Saezuru Tori wa Habatakanai: The Clouds Gather",
+    "animegg_url": "https://www.animegg.org/series/saezuru-tori-wa-habatakanai-the-clouds-gather",
+    "mal_url": "https://myanimelist.net/anime/39761",
+    "mal_id": 39761,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/101832",
+        "dub": null,
+        "url": "https://www.animegg.org/saezuru-tori-wa-habatakanai-the-clouds-gather-episode-1"
+      }
+    ]
   }
 ]
