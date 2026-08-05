@@ -122138,5 +122138,63 @@
         "url": "https://www.animegg.org/even-a-replica-can-fall-in-love-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 4764,
+    "title": "Potion-danomi de Ikinobimasu!",
+    "animegg_url": "https://www.animegg.org/series/potion-danomi-de-ikinobimasu",
+    "mal_url": "https://myanimelist.net/anime/54616",
+    "mal_id": 54616,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/131665",
+        "dub": "https://www.animegg.org/embed/131896",
+        "url": "https://www.animegg.org/potion-danomi-de-ikinobimasu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/131787",
+        "dub": "https://www.animegg.org/embed/132011",
+        "url": "https://www.animegg.org/potion-danomi-de-ikinobimasu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/131886",
+        "dub": "https://www.animegg.org/embed/132104",
+        "url": "https://www.animegg.org/potion-danomi-de-ikinobimasu-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/132000",
+        "dub": "https://www.animegg.org/embed/132177",
+        "url": "https://www.animegg.org/potion-danomi-de-ikinobimasu-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/132288",
+        "dub": null,
+        "url": "https://www.animegg.org/potion-danomi-de-ikinobimasu-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/potion-danomi-de-ikinobimasu-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/132278",
+        "dub": null,
+        "url": "https://www.animegg.org/potion-danomi-de-ikinobimasu-episode-7"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/132535",
+        "dub": null,
+        "url": "https://www.animegg.org/potion-danomi-de-ikinobimasu-episode-12"
+      }
+    ]
   }
 ]
