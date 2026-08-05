@@ -36538,5 +36538,87 @@
         "url": "https://www.animegg.org/onii-chan-dakedo-ai-sae-areba-kankeinai-yo-ne-specials-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 3494,
+    "title": "Himiko-Den",
+    "animegg_url": "https://www.animegg.org/series/himiko-den",
+    "mal_url": "https://myanimelist.net/anime/360",
+    "mal_id": 360,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/71543",
+        "dub": "https://www.animegg.org/embed/123284",
+        "url": "https://www.animegg.org/himiko-den-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/71545",
+        "dub": "https://www.animegg.org/embed/123280",
+        "url": "https://www.animegg.org/himiko-den-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/71546",
+        "dub": "https://www.animegg.org/embed/123279",
+        "url": "https://www.animegg.org/himiko-den-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/71548",
+        "dub": "https://www.animegg.org/embed/123278",
+        "url": "https://www.animegg.org/himiko-den-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/71550",
+        "dub": "https://www.animegg.org/embed/123277",
+        "url": "https://www.animegg.org/himiko-den-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/71551",
+        "dub": "https://www.animegg.org/embed/123276",
+        "url": "https://www.animegg.org/himiko-den-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/71552",
+        "dub": "https://www.animegg.org/embed/123275",
+        "url": "https://www.animegg.org/himiko-den-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/71554",
+        "dub": "https://www.animegg.org/embed/123274",
+        "url": "https://www.animegg.org/himiko-den-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/71556",
+        "dub": "https://www.animegg.org/embed/123273",
+        "url": "https://www.animegg.org/himiko-den-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/71567",
+        "dub": "https://www.animegg.org/embed/123283",
+        "url": "https://www.animegg.org/himiko-den-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/123282",
+        "dub": null,
+        "url": "https://www.animegg.org/himiko-den-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/71581",
+        "dub": "https://www.animegg.org/embed/123281",
+        "url": "https://www.animegg.org/himiko-den-episode-12"
+      }
+    ]
   }
 ]
