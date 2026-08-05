@@ -45455,5 +45455,81 @@
         "url": "https://www.animegg.org/hikari-no-ou-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 6276,
+    "title": "New Panty & Stocking with Garterbelt",
+    "animegg_url": "https://www.animegg.org/series/new-panty-stocking-with-garterbelt",
+    "mal_url": "https://myanimelist.net/anime/52293",
+    "mal_id": 52293,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/141636",
+        "dub": "https://www.animegg.org/embed/143322",
+        "url": "https://www.animegg.org/new-panty-stocking-with-garterbelt-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/141752",
+        "dub": null,
+        "url": "https://www.animegg.org/new-panty-stocking-with-garterbelt-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/141854",
+        "dub": null,
+        "url": "https://www.animegg.org/new-panty-stocking-with-garterbelt-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/141975",
+        "dub": null,
+        "url": "https://www.animegg.org/new-panty-stocking-with-garterbelt-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/142103",
+        "dub": null,
+        "url": "https://www.animegg.org/new-panty-stocking-with-garterbelt-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/142228",
+        "dub": null,
+        "url": "https://www.animegg.org/new-panty-stocking-with-garterbelt-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/142335",
+        "dub": null,
+        "url": "https://www.animegg.org/new-panty-stocking-with-garterbelt-episode-7"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/142432",
+        "dub": null,
+        "url": "https://www.animegg.org/new-panty-stocking-with-garterbelt-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/new-panty-stocking-with-garterbelt-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/142604",
+        "dub": null,
+        "url": "https://www.animegg.org/new-panty-stocking-with-garterbelt-episode-11"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/142699",
+        "dub": "https://www.animegg.org/embed/143323",
+        "url": "https://www.animegg.org/new-panty-stocking-with-garterbelt-episode-13"
+      }
+    ]
   }
 ]
