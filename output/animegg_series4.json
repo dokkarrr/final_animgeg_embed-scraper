@@ -126560,5 +126560,27 @@
         "url": "https://www.animegg.org/100-000-levels-of-body-refining-all-the-dogs-i-raise-are-the-emperor-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4821,
+    "title": "Toaru Majutsu no Index: Endymion no Kiseki",
+    "animegg_url": "https://www.animegg.org/series/toaru-majutsu-no-index-endymion-no-kiseki",
+    "mal_url": "https://myanimelist.net/anime/20035",
+    "mal_id": 20035,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/64062",
+        "dub": null,
+        "url": "https://www.animegg.org/toaru-majutsu-no-index-endymion-no-kiseki-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/64063",
+        "dub": null,
+        "url": "https://www.animegg.org/toaru-majutsu-no-index-endymion-no-kiseki-episode-2"
+      }
+    ]
   }
 ]
