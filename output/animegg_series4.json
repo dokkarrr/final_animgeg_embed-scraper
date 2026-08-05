@@ -82172,5 +82172,21 @@
         "url": "https://www.animegg.org/future-gpx-cyber-formula-sin-episode-5"
       }
     ]
+  },
+  {
+    "serial_no": 4146,
+    "title": "Dragon Ball Z Movie 02: The World's Strongest",
+    "animegg_url": "https://www.animegg.org/series/dragon-ball-z-movie-02-the-worlds-strongest",
+    "mal_url": "https://myanimelist.net/anime/895",
+    "mal_id": 895,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/49737",
+        "dub": null,
+        "url": "https://www.animegg.org/dragon-ball-z-movie-02-the-worlds-strongest-episode-1"
+      }
+    ]
   }
 ]
