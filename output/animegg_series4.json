@@ -43996,5 +43996,39 @@
         "url": "https://www.animegg.org/tunshi-xingkong-2nd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3593,
+    "title": "RWBY Volume 3",
+    "animegg_url": "https://www.animegg.org/series/rwby-volume-3",
+    "mal_url": "https://myanimelist.net/anime/60336",
+    "mal_id": 60336,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/80124",
+        "dub": null,
+        "url": "https://www.animegg.org/rwby-volume-3-episode-4"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/79926",
+        "dub": null,
+        "url": "https://www.animegg.org/rwby-volume-3-episode-3"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/79925",
+        "dub": null,
+        "url": "https://www.animegg.org/rwby-volume-3-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/79924",
+        "dub": null,
+        "url": "https://www.animegg.org/rwby-volume-3-episode-1"
+      }
+    ]
   }
 ]
