@@ -103514,5 +103514,21 @@
         "url": "https://www.animegg.org/mahoutsukai-no-yome-season-2-part-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4461,
+    "title": "Ninja Scroll",
+    "animegg_url": "https://www.animegg.org/series/ninja-scroll",
+    "mal_url": "https://myanimelist.net/anime/617",
+    "mal_id": 617,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/59114",
+        "dub": "https://www.animegg.org/embed/59115",
+        "url": "https://www.animegg.org/ninja-scroll-episode-1"
+      }
+    ]
   }
 ]
