@@ -86544,5 +86544,75 @@
         "url": "https://www.animegg.org/dragon-ball-z-movie-06-the-return-of-cooler-episode-1-1"
       }
     ]
+  },
+  {
+    "serial_no": 4210,
+    "title": "NieR:Automata Ver1.1a",
+    "animegg_url": "https://www.animegg.org/series/nierautomata-ver11a",
+    "mal_url": "https://myanimelist.net/anime/51105",
+    "mal_id": 51105,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/130534",
+        "dub": null,
+        "url": "https://www.animegg.org/nierautomata-ver11a-episode-12"
+      },
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/nierautomata-ver11a-episode-9"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/107521",
+        "dub": null,
+        "url": "https://www.animegg.org/nierautomata-ver11a-episode-8"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/107463",
+        "dub": null,
+        "url": "https://www.animegg.org/nierautomata-ver11a-episode-7"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/107394",
+        "dub": "https://www.animegg.org/embed/107880",
+        "url": "https://www.animegg.org/nierautomata-ver11a-episode-6"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/107325",
+        "dub": "https://www.animegg.org/embed/107879",
+        "url": "https://www.animegg.org/nierautomata-ver11a-episode-5"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/107262",
+        "dub": null,
+        "url": "https://www.animegg.org/nierautomata-ver11a-episode-4"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/106939",
+        "dub": "https://www.animegg.org/embed/107878",
+        "url": "https://www.animegg.org/nierautomata-ver11a-episode-3"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/106866",
+        "dub": null,
+        "url": "https://www.animegg.org/nierautomata-ver11a-episode-2"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/106792",
+        "dub": null,
+        "url": "https://www.animegg.org/nierautomata-ver11a-episode-1"
+      }
+    ]
   }
 ]
