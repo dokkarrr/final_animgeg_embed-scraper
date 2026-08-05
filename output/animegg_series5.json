@@ -110978,5 +110978,21 @@
         "url": "https://www.animegg.org/kisaki-kyouiku-kara-nigetai-watashi-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 6834,
+    "title": "Tales of the Rays: Everlasting Destiny",
+    "animegg_url": "https://www.animegg.org/series/tales-of-the-rays-everlasting-destiny",
+    "mal_url": "https://myanimelist.net/anime/39067",
+    "mal_id": 39067,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/95865",
+        "dub": null,
+        "url": "https://www.animegg.org/tales-of-the-rays-everlasting-destiny-episode-1"
+      }
+    ]
   }
 ]
