@@ -95120,5 +95120,75 @@
         "url": "https://www.animegg.org/hakuouki-ova-episode-22"
       }
     ]
+  },
+  {
+    "serial_no": 4338,
+    "title": "Grand blue season 2",
+    "animegg_url": "https://www.animegg.org/series/grand-blue-season-2",
+    "mal_url": "https://myanimelist.net/anime/59986",
+    "mal_id": 59986,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/142673",
+        "dub": null,
+        "url": "https://www.animegg.org/grand-blue-season-2-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/142577",
+        "dub": null,
+        "url": "https://www.animegg.org/grand-blue-season-2-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/142407",
+        "dub": null,
+        "url": "https://www.animegg.org/grand-blue-season-2-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/142315",
+        "dub": null,
+        "url": "https://www.animegg.org/grand-blue-season-2-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/142197",
+        "dub": null,
+        "url": "https://www.animegg.org/grand-blue-season-2-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/142076",
+        "dub": null,
+        "url": "https://www.animegg.org/grand-blue-season-2-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/141954",
+        "dub": null,
+        "url": "https://www.animegg.org/grand-blue-season-2-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/141835",
+        "dub": null,
+        "url": "https://www.animegg.org/grand-blue-season-2-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/141728",
+        "dub": null,
+        "url": "https://www.animegg.org/grand-blue-season-2-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/141616",
+        "dub": null,
+        "url": "https://www.animegg.org/grand-blue-season-2-episode-1"
+      }
+    ]
   }
 ]
