@@ -53895,5 +53895,21 @@
         "url": "https://www.animegg.org/yama-no-susume-omoide-present-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6345,
+    "title": "Lord El-Melloi II-sei no Jikenbo",
+    "animegg_url": "https://www.animegg.org/series/lord-el-melloi-ii-sei-no-jikenbo",
+    "mal_url": "https://myanimelist.net/anime/38959",
+    "mal_id": 38959,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/94106",
+        "dub": null,
+        "url": "https://www.animegg.org/lord-el-melloi-ii-sei-no-jikenbo-episode-1"
+      }
+    ]
   }
 ]
