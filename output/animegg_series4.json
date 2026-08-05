@@ -123106,5 +123106,27 @@
         "url": "https://www.animegg.org/kemono-friends-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4781,
+    "title": "Mikakunin de Shinkoukei OVA",
+    "animegg_url": "https://www.animegg.org/series/mikakunin-de-shinkoukei-ova",
+    "mal_url": "https://myanimelist.net/anime/20541",
+    "mal_id": 20541,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/24116",
+        "dub": null,
+        "url": "https://www.animegg.org/mikakunin-de-shinkoukei-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/24117",
+        "dub": null,
+        "url": "https://www.animegg.org/mikakunin-de-shinkoukei-ova-episode-2"
+      }
+    ]
   }
 ]
