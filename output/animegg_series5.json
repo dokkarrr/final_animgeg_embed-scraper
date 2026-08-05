@@ -25778,5 +25778,21 @@
         "url": "https://www.animegg.org/pokemon-pikachus-winter-vacation-2000-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6035,
+    "title": "Harukanaru Toki no Naka de: Kokoro no Yukue",
+    "animegg_url": "https://www.animegg.org/series/harukanaru-toki-no-naka-de-kokoro-no-yukue",
+    "mal_url": "https://myanimelist.net/anime/1907",
+    "mal_id": 1907,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/53315",
+        "dub": null,
+        "url": "https://www.animegg.org/harukanaru-toki-no-naka-de-kokoro-no-yukue-episode-1"
+      }
+    ]
   }
 ]
