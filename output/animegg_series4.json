@@ -79544,5 +79544,87 @@
         "url": "https://www.animegg.org/saiyuuki-reload-zeroin-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 4113,
+    "title": "Watashi no Yuri wa Oshigoto desu!",
+    "animegg_url": "https://www.animegg.org/series/watashi-no-yuri-wa-oshigoto-desu",
+    "mal_url": "https://myanimelist.net/anime/51817",
+    "mal_id": 51817,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/107655",
+        "dub": null,
+        "url": "https://www.animegg.org/watashi-no-yuri-wa-oshigoto-desu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/107760",
+        "dub": null,
+        "url": "https://www.animegg.org/watashi-no-yuri-wa-oshigoto-desu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/107834",
+        "dub": null,
+        "url": "https://www.animegg.org/watashi-no-yuri-wa-oshigoto-desu-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/107934",
+        "dub": null,
+        "url": "https://www.animegg.org/watashi-no-yuri-wa-oshigoto-desu-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/108088",
+        "dub": null,
+        "url": "https://www.animegg.org/watashi-no-yuri-wa-oshigoto-desu-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/107936",
+        "dub": null,
+        "url": "https://www.animegg.org/watashi-no-yuri-wa-oshigoto-desu-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/108117",
+        "dub": null,
+        "url": "https://www.animegg.org/watashi-no-yuri-wa-oshigoto-desu-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/108317",
+        "dub": null,
+        "url": "https://www.animegg.org/watashi-no-yuri-wa-oshigoto-desu-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/108791",
+        "dub": null,
+        "url": "https://www.animegg.org/watashi-no-yuri-wa-oshigoto-desu-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/129843",
+        "dub": null,
+        "url": "https://www.animegg.org/watashi-no-yuri-wa-oshigoto-desu-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/129842",
+        "dub": null,
+        "url": "https://www.animegg.org/watashi-no-yuri-wa-oshigoto-desu-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/129964",
+        "dub": null,
+        "url": "https://www.animegg.org/watashi-no-yuri-wa-oshigoto-desu-episode-12"
+      }
+    ]
   }
 ]
