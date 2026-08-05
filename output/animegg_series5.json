@@ -26432,5 +26432,21 @@
         "url": "https://www.animegg.org/saint-beast-ikusen-no-hiru-to-yoru-hen-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6041,
+    "title": "Namiuchigiwa no Muromi-san OVA",
+    "animegg_url": "https://www.animegg.org/series/namiuchigiwa-no-muromi-san-ova",
+    "mal_url": "https://myanimelist.net/anime/17855",
+    "mal_id": 17855,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/25765",
+        "dub": null,
+        "url": "https://www.animegg.org/namiuchigiwa-no-muromi-san-ova-episode-1"
+      }
+    ]
   }
 ]
