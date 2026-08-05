@@ -11175,5 +11175,21 @@
         "url": "https://www.animegg.org/hana-to-alice-satsujin-jiken-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5780,
+    "title": "Street Fighter II: The Movie",
+    "animegg_url": "https://www.animegg.org/series/street-fighter-ii-the-movie",
+    "mal_url": "https://myanimelist.net/anime/1362",
+    "mal_id": 1362,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/62846",
+        "dub": "https://www.animegg.org/embed/62847",
+        "url": "https://www.animegg.org/street-fighter-ii-the-movie-episode-1"
+      }
+    ]
   }
 ]
