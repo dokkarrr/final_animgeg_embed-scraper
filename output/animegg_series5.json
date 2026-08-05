@@ -20448,5 +20448,21 @@
         "url": "https://www.animegg.org/psycho-pass-sinners-of-the-system-case2---first-guardian-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5976,
+    "title": "Yuru Camp△ Specials",
+    "animegg_url": "https://www.animegg.org/series/yuru-camp-specials",
+    "mal_url": "https://myanimelist.net/anime/37341",
+    "mal_id": 37341,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/90711",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-camp-specials-episode-1"
+      }
+    ]
   }
 ]
