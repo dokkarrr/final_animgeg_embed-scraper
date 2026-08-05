@@ -37124,5 +37124,69 @@
         "url": "https://www.animegg.org/eiyuu-kyoushitsu-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3501,
+    "title": "Motto! Majime ni Fumajime Kaiketsu Zorori",
+    "animegg_url": "https://www.animegg.org/series/motto-majime-ni-fumajime-kaiketsu-zorori",
+    "mal_url": "https://myanimelist.net/anime/40045",
+    "mal_id": 40045,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/98345",
+        "dub": null,
+        "url": "https://www.animegg.org/motto-majime-ni-fumajime-kaiketsu-zorori-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/98346",
+        "dub": null,
+        "url": "https://www.animegg.org/motto-majime-ni-fumajime-kaiketsu-zorori-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/98397",
+        "dub": null,
+        "url": "https://www.animegg.org/motto-majime-ni-fumajime-kaiketsu-zorori-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/98433",
+        "dub": null,
+        "url": "https://www.animegg.org/motto-majime-ni-fumajime-kaiketsu-zorori-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/98458",
+        "dub": null,
+        "url": "https://www.animegg.org/motto-majime-ni-fumajime-kaiketsu-zorori-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/98668",
+        "dub": null,
+        "url": "https://www.animegg.org/motto-majime-ni-fumajime-kaiketsu-zorori-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/98914",
+        "dub": null,
+        "url": "https://www.animegg.org/motto-majime-ni-fumajime-kaiketsu-zorori-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/99010",
+        "dub": null,
+        "url": "https://www.animegg.org/motto-majime-ni-fumajime-kaiketsu-zorori-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/99011",
+        "dub": null,
+        "url": "https://www.animegg.org/motto-majime-ni-fumajime-kaiketsu-zorori-episode-9"
+      }
+    ]
   }
 ]
