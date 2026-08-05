@@ -112582,5 +112582,33 @@
         "url": "https://www.animegg.org/atri-my-dear-moments-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 4619,
+    "title": "eX-Driver the Movie",
+    "animegg_url": "https://www.animegg.org/series/ex-driver-the-movie",
+    "mal_url": "https://myanimelist.net/anime/378",
+    "mal_id": 378,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/51095",
+        "dub": "https://www.animegg.org/embed/51096",
+        "url": "https://www.animegg.org/ex-driver-the-movie-episode-3"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/51091",
+        "dub": "https://www.animegg.org/embed/51092",
+        "url": "https://www.animegg.org/ex-driver-the-movie-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/51093",
+        "dub": "https://www.animegg.org/embed/51094",
+        "url": "https://www.animegg.org/ex-driver-the-movie-episode-2"
+      }
+    ]
   }
 ]
