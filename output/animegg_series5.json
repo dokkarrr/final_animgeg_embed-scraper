@@ -6941,5 +6941,21 @@
         "url": "https://www.animegg.org/city-hunter-bay-city-wars-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5725,
+    "title": "Mardock Scramble: The Second Combustion",
+    "animegg_url": "https://www.animegg.org/series/mardock-scramble-the-second-combustion",
+    "mal_url": "https://myanimelist.net/anime/10624",
+    "mal_id": 10624,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/57369",
+        "dub": "https://www.animegg.org/embed/57370",
+        "url": "https://www.animegg.org/mardock-scramble-the-second-combustion-episode-1"
+      }
+    ]
   }
 ]
