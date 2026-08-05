@@ -60123,5 +60123,21 @@
         "url": "https://www.animegg.org/wei-wo-du-shen-episode-50"
       }
     ]
+  },
+  {
+    "serial_no": 6402,
+    "title": "SD Kamen Rider",
+    "animegg_url": "https://www.animegg.org/series/sd-kamen-rider",
+    "mal_url": "https://myanimelist.net/anime/3100",
+    "mal_id": 3100,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/61019",
+        "dub": null,
+        "url": "https://www.animegg.org/sd-kamen-rider-episode-1"
+      }
+    ]
   }
 ]
