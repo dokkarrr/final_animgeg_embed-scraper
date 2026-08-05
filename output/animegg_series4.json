@@ -70730,5 +70730,27 @@
         "url": "https://www.animegg.org/sentou-yousei-yukikaze-episode-5"
       }
     ]
+  },
+  {
+    "serial_no": 3963,
+    "title": "Stand By Me Doraemon",
+    "animegg_url": "https://www.animegg.org/series/stand-by-me-doraemon",
+    "mal_url": "https://myanimelist.net/anime/21469",
+    "mal_id": 21469,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66063",
+        "dub": null,
+        "url": "https://www.animegg.org/stand-by-me-doraemon-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/66064",
+        "dub": null,
+        "url": "https://www.animegg.org/stand-by-me-doraemon-episode-2"
+      }
+    ]
   }
 ]
