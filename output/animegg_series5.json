@@ -34492,5 +34492,21 @@
         "url": "https://www.animegg.org/saki-biyori-animation-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6160,
+    "title": "Sora no Method: Aru Shoujo no Kyuujitsu★",
+    "animegg_url": "https://www.animegg.org/series/sora-no-method-aru-shoujo-no-kyuujitsu",
+    "mal_url": "https://myanimelist.net/anime/30919",
+    "mal_id": 30919,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/78124",
+        "dub": "https://www.animegg.org/embed/78182",
+        "url": "https://www.animegg.org/sora-no-method-aru-shoujo-no-kyuujitsu-episode-1"
+      }
+    ]
   }
 ]
