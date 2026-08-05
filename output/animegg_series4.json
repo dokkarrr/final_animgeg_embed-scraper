@@ -92844,5 +92844,21 @@
         "url": "https://www.animegg.org/lupiniii-2015-specials-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4297,
+    "title": "One Piece: Karakurijou no Mecha Kyohei",
+    "animegg_url": "https://www.animegg.org/series/one-piece-karakurijou-no-mecha-kyohei",
+    "mal_url": "https://myanimelist.net/anime/465",
+    "mal_id": 465,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/59110",
+        "dub": null,
+        "url": "https://www.animegg.org/one-piece-karakurijou-no-mecha-kyohei-episode-1"
+      }
+    ]
   }
 ]
