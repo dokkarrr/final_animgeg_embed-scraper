@@ -128568,5 +128568,21 @@
         "url": "https://www.animegg.org/world-fool-news-episode-18"
       }
     ]
+  },
+  {
+    "serial_no": 4852,
+    "title": "A Letter to Momo",
+    "animegg_url": "https://www.animegg.org/series/a-letter-to-momo",
+    "mal_url": "https://myanimelist.net/anime/10389",
+    "mal_id": 10389,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/65166",
+        "dub": null,
+        "url": "https://www.animegg.org/a-letter-to-momo-episode-1"
+      }
+    ]
   }
 ]
