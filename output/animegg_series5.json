@@ -82556,5 +82556,69 @@
         "url": "https://www.animegg.org/natsume-yuujinchou-dub-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 6596,
+    "title": "Ao no Exorcist: Yosuga-hen",
+    "animegg_url": "https://www.animegg.org/series/ao-no-exorcist-yosuga-hen",
+    "mal_url": "https://myanimelist.net/anime/59226",
+    "mal_id": 59226,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/139363",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-exorcist-yosuga-hen-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/139446",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-exorcist-yosuga-hen-episode-3"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/139583",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-exorcist-yosuga-hen-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/139687",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-exorcist-yosuga-hen-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/139768",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-exorcist-yosuga-hen-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/139870",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-exorcist-yosuga-hen-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/139967",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-exorcist-yosuga-hen-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/140066",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-exorcist-yosuga-hen-episode-10"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/140224",
+        "dub": null,
+        "url": "https://www.animegg.org/ao-no-exorcist-yosuga-hen-episode-12"
+      }
+    ]
   }
 ]
