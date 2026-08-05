@@ -63105,5 +63105,21 @@
         "url": "https://www.animegg.org/zuihou-de-zhaohuan-shi-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 6423,
+    "title": "Tiger & Bunny Movie 1",
+    "animegg_url": "https://www.animegg.org/series/tiger-bunny-movie-1",
+    "mal_url": "https://myanimelist.net/anime/12015",
+    "mal_id": 12015,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/63919",
+        "dub": null,
+        "url": "https://www.animegg.org/tiger-bunny-movie-1-episode-1"
+      }
+    ]
   }
 ]
