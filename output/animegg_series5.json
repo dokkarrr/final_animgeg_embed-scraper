@@ -54995,5 +54995,21 @@
         "url": "https://www.animegg.org/chou-futsuu-toshi-kashiwa-densetsu-r-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 6356,
+    "title": "Mutafukaz",
+    "animegg_url": "https://www.animegg.org/series/mutafukaz",
+    "mal_url": "https://myanimelist.net/anime/38292",
+    "mal_id": 38292,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/94576",
+        "dub": null,
+        "url": "https://www.animegg.org/mutafukaz-episode-1"
+      }
+    ]
   }
 ]
