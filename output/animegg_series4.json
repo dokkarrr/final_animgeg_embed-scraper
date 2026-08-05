@@ -128768,5 +128768,21 @@
         "url": "https://www.animegg.org/tsuyokute-new-saga-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4857,
+    "title": "Mushishi Zoku Shou: Suzu no Shizuku",
+    "animegg_url": "https://www.animegg.org/series/mushishi-zoku-shou-suzu-no-shizuku",
+    "mal_url": "https://myanimelist.net/anime/28957",
+    "mal_id": 28957,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/78346",
+        "dub": null,
+        "url": "https://www.animegg.org/mushishi-zoku-shou-suzu-no-shizuku-episode-1"
+      }
+    ]
   }
 ]
