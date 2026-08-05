@@ -94846,5 +94846,21 @@
         "url": "https://www.animegg.org/baka-to-test-to-shoukanjuu-matsuri-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 4334,
+    "title": "Blood: The Last Vampire",
+    "animegg_url": "https://www.animegg.org/series/blood-the-last-vampire",
+    "mal_url": "https://myanimelist.net/anime/405",
+    "mal_id": 405,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/4234",
+        "dub": null,
+        "url": "https://www.animegg.org/blood-the-last-vampire-episode-1"
+      }
+    ]
   }
 ]
