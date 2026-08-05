@@ -3336,5 +3336,21 @@
         "url": "https://www.animegg.org/submarine-707r-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5656,
+    "title": "Birdy The Mighty Decode: The Cipher",
+    "animegg_url": "https://www.animegg.org/series/birdy-the-mighty-decode-the-cipher",
+    "mal_url": "https://myanimelist.net/anime/3974",
+    "mal_id": 3974,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/3088",
+        "dub": null,
+        "url": "https://www.animegg.org/birdy-the-mighty-decode-the-cipher-episode-1"
+      }
+    ]
   }
 ]
