@@ -45584,5 +45584,93 @@
         "url": "https://www.animegg.org/fuyu-no-semi-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 3618,
+    "title": "Gundam Build Divers Re:Rise",
+    "animegg_url": "https://www.animegg.org/series/gundam-build-divers-rerise",
+    "mal_url": "https://myanimelist.net/anime/40192",
+    "mal_id": 40192,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/96682",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-build-divers-rerise-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/96683",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-build-divers-rerise-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/96746",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-build-divers-rerise-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/96813",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-build-divers-rerise-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/96877",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-build-divers-rerise-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/96938",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-build-divers-rerise-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/96999",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-build-divers-rerise-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/97059",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-build-divers-rerise-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/97131",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-build-divers-rerise-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/97197",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-build-divers-rerise-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/97264",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-build-divers-rerise-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/97329",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-build-divers-rerise-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/97389",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-build-divers-rerise-episode-13"
+      }
+    ]
   }
 ]
