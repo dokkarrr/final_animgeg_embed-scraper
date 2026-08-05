@@ -38421,5 +38421,75 @@
         "url": "https://www.animegg.org/x-men-evolution-episode-52"
       }
     ]
+  },
+  {
+    "serial_no": 6205,
+    "title": "Farmagia",
+    "animegg_url": "https://www.animegg.org/series/farmagia",
+    "mal_url": "https://myanimelist.net/anime/59113",
+    "mal_id": 59113,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/139423",
+        "dub": null,
+        "url": "https://www.animegg.org/farmagia-episode-2"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/139556",
+        "dub": null,
+        "url": "https://www.animegg.org/farmagia-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/139664",
+        "dub": null,
+        "url": "https://www.animegg.org/farmagia-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/139755",
+        "dub": null,
+        "url": "https://www.animegg.org/farmagia-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/139849",
+        "dub": null,
+        "url": "https://www.animegg.org/farmagia-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/139943",
+        "dub": null,
+        "url": "https://www.animegg.org/farmagia-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/140043",
+        "dub": null,
+        "url": "https://www.animegg.org/farmagia-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/140130",
+        "dub": null,
+        "url": "https://www.animegg.org/farmagia-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/140216",
+        "dub": null,
+        "url": "https://www.animegg.org/farmagia-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/140298",
+        "dub": null,
+        "url": "https://www.animegg.org/farmagia-episode-12"
+      }
+    ]
   }
 ]
