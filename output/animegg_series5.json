@@ -12607,5 +12607,27 @@
         "url": "https://www.animegg.org/tsubasa-shunraiki-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 5808,
+    "title": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai OVA",
+    "animegg_url": "https://www.animegg.org/series/ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-ova",
+    "mal_url": "https://myanimelist.net/anime/39397",
+    "mal_id": 39397,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/94761",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/94932",
+        "dub": null,
+        "url": "https://www.animegg.org/ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-ova-episode-2"
+      }
+    ]
   }
 ]
