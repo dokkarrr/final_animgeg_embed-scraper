@@ -16306,5 +16306,27 @@
         "url": "https://www.animegg.org/zettai-bouei-leviathan-mini-takibi-gekijou-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3263,
+    "title": "Eiken",
+    "animegg_url": "https://www.animegg.org/series/eiken",
+    "mal_url": "https://myanimelist.net/anime/788",
+    "mal_id": 788,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/9772",
+        "dub": "https://www.animegg.org/embed/9773",
+        "url": "https://www.animegg.org/eiken-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/9770",
+        "dub": "https://www.animegg.org/embed/9771",
+        "url": "https://www.animegg.org/eiken-episode-2"
+      }
+    ]
   }
 ]
