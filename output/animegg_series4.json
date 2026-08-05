@@ -100502,5 +100502,93 @@
         "url": "https://www.animegg.org/otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4407,
+    "title": "The Darwin Incident",
+    "animegg_url": "https://www.animegg.org/series/the-darwin-incident",
+    "mal_url": "https://myanimelist.net/anime/58886",
+    "mal_id": 58886,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/144074",
+        "dub": "https://www.animegg.org/embed/144075",
+        "url": "https://www.animegg.org/the-darwin-incident-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/144184",
+        "dub": "https://www.animegg.org/embed/144185",
+        "url": "https://www.animegg.org/the-darwin-incident-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/144278",
+        "dub": "https://www.animegg.org/embed/144280",
+        "url": "https://www.animegg.org/the-darwin-incident-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/144399",
+        "dub": "https://www.animegg.org/embed/144403",
+        "url": "https://www.animegg.org/the-darwin-incident-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/144498",
+        "dub": "https://www.animegg.org/embed/144501",
+        "url": "https://www.animegg.org/the-darwin-incident-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/144613",
+        "dub": null,
+        "url": "https://www.animegg.org/the-darwin-incident-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/144680",
+        "dub": "https://www.animegg.org/embed/144699",
+        "url": "https://www.animegg.org/the-darwin-incident-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/144802",
+        "dub": "https://www.animegg.org/embed/144803",
+        "url": "https://www.animegg.org/the-darwin-incident-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/144908",
+        "dub": "https://www.animegg.org/embed/144916",
+        "url": "https://www.animegg.org/the-darwin-incident-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/145019",
+        "dub": "https://www.animegg.org/embed/145025",
+        "url": "https://www.animegg.org/the-darwin-incident-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/145131",
+        "dub": "https://www.animegg.org/embed/145133",
+        "url": "https://www.animegg.org/the-darwin-incident-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/145220",
+        "dub": "https://www.animegg.org/embed/145222",
+        "url": "https://www.animegg.org/the-darwin-incident-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/145314",
+        "dub": "https://www.animegg.org/embed/145315",
+        "url": "https://www.animegg.org/the-darwin-incident-episode-13"
+      }
+    ]
   }
 ]
