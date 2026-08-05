@@ -51358,5 +51358,87 @@
         "url": "https://www.animegg.org/k-missing-kings-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3698,
+    "title": "Two Car",
+    "animegg_url": "https://www.animegg.org/series/two-car",
+    "mal_url": "https://myanimelist.net/anime/36009",
+    "mal_id": 36009,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/88568",
+        "dub": null,
+        "url": "https://www.animegg.org/two-car-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/88667",
+        "dub": null,
+        "url": "https://www.animegg.org/two-car-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/88741",
+        "dub": null,
+        "url": "https://www.animegg.org/two-car-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/88828",
+        "dub": null,
+        "url": "https://www.animegg.org/two-car-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/88921",
+        "dub": null,
+        "url": "https://www.animegg.org/two-car-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/89010",
+        "dub": null,
+        "url": "https://www.animegg.org/two-car-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/89094",
+        "dub": null,
+        "url": "https://www.animegg.org/two-car-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/89174",
+        "dub": null,
+        "url": "https://www.animegg.org/two-car-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/89247",
+        "dub": null,
+        "url": "https://www.animegg.org/two-car-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/89328",
+        "dub": null,
+        "url": "https://www.animegg.org/two-car-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/89404",
+        "dub": null,
+        "url": "https://www.animegg.org/two-car-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/89478",
+        "dub": null,
+        "url": "https://www.animegg.org/two-car-episode-12"
+      }
+    ]
   }
 ]
