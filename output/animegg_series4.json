@@ -4852,5 +4852,45 @@
         "url": "https://www.animegg.org/yumeria-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3137,
+    "title": "Maken-Ki! Two Specials",
+    "animegg_url": "https://www.animegg.org/series/maken-ki-two-specials",
+    "mal_url": "https://myanimelist.net/anime/23989",
+    "mal_id": 23989,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/46156",
+        "dub": null,
+        "url": "https://www.animegg.org/maken-ki-two-specials-episode"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/46157",
+        "dub": null,
+        "url": "https://www.animegg.org/maken-ki-two-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/46158",
+        "dub": "https://www.animegg.org/embed/46159",
+        "url": "https://www.animegg.org/maken-ki-two-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/46160",
+        "dub": "https://www.animegg.org/embed/46161",
+        "url": "https://www.animegg.org/maken-ki-two-specials-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/46162",
+        "dub": "https://www.animegg.org/embed/46163",
+        "url": "https://www.animegg.org/maken-ki-two-specials-episode-5"
+      }
+    ]
   }
 ]
