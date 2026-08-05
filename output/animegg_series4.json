@@ -131090,5 +131090,93 @@
         "url": "https://www.animegg.org/acchi-kocchi-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4899,
+    "title": "Grendizer U",
+    "animegg_url": "https://www.animegg.org/series/grendizer-u",
+    "mal_url": "https://myanimelist.net/anime/56189",
+    "mal_id": 56189,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/135419",
+        "dub": null,
+        "url": "https://www.animegg.org/grendizer-u-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/135570",
+        "dub": null,
+        "url": "https://www.animegg.org/grendizer-u-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/135695",
+        "dub": null,
+        "url": "https://www.animegg.org/grendizer-u-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/135861",
+        "dub": null,
+        "url": "https://www.animegg.org/grendizer-u-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/136009",
+        "dub": null,
+        "url": "https://www.animegg.org/grendizer-u-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/136189",
+        "dub": null,
+        "url": "https://www.animegg.org/grendizer-u-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/136408",
+        "dub": null,
+        "url": "https://www.animegg.org/grendizer-u-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/136470",
+        "dub": null,
+        "url": "https://www.animegg.org/grendizer-u-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/136671",
+        "dub": null,
+        "url": "https://www.animegg.org/grendizer-u-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/136827",
+        "dub": null,
+        "url": "https://www.animegg.org/grendizer-u-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/137055",
+        "dub": null,
+        "url": "https://www.animegg.org/grendizer-u-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/137214",
+        "dub": null,
+        "url": "https://www.animegg.org/grendizer-u-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/137398",
+        "dub": null,
+        "url": "https://www.animegg.org/grendizer-u-episode-13"
+      }
+    ]
   }
 ]
