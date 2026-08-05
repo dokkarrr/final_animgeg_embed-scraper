@@ -66715,5 +66715,87 @@
         "url": "https://www.animegg.org/saikyou-robot-daiouja-episode-50"
       }
     ]
+  },
+  {
+    "serial_no": 6466,
+    "title": "Bucchigiri?!",
+    "animegg_url": "https://www.animegg.org/series/bucchigiri-2",
+    "mal_url": "https://myanimelist.net/anime/55358",
+    "mal_id": 55358,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/139284",
+        "dub": null,
+        "url": "https://www.animegg.org/bucchigiri-2-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/139279",
+        "dub": null,
+        "url": "https://www.animegg.org/bucchigiri-2-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/139278",
+        "dub": null,
+        "url": "https://www.animegg.org/bucchigiri-2-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/bucchigiri-2-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/139277",
+        "dub": null,
+        "url": "https://www.animegg.org/bucchigiri-2-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/139276",
+        "dub": null,
+        "url": "https://www.animegg.org/bucchigiri-2-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/139275",
+        "dub": null,
+        "url": "https://www.animegg.org/bucchigiri-2-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/139274",
+        "dub": null,
+        "url": "https://www.animegg.org/bucchigiri-2-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/139273",
+        "dub": null,
+        "url": "https://www.animegg.org/bucchigiri-2-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/139282",
+        "dub": null,
+        "url": "https://www.animegg.org/bucchigiri-2-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/139281",
+        "dub": null,
+        "url": "https://www.animegg.org/bucchigiri-2-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/139280",
+        "dub": null,
+        "url": "https://www.animegg.org/bucchigiri-2-episode-12"
+      }
+    ]
   }
 ]
