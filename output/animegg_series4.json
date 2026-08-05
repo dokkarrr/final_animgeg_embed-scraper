@@ -23608,5 +23608,33 @@
         "url": "https://www.animegg.org/okashi-na-tensei-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3344,
+    "title": "AIKa: ZERO Picture Drama",
+    "animegg_url": "https://www.animegg.org/series/aika-zero-picture-drama",
+    "mal_url": "https://myanimelist.net/anime/7453",
+    "mal_id": 7453,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/65277",
+        "dub": null,
+        "url": "https://www.animegg.org/aika-zero-picture-drama-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/65278",
+        "dub": null,
+        "url": "https://www.animegg.org/aika-zero-picture-drama-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/65279",
+        "dub": null,
+        "url": "https://www.animegg.org/aika-zero-picture-drama-episode-3"
+      }
+    ]
   }
 ]
