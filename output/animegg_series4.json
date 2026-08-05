@@ -35842,5 +35842,51 @@
         "url": "https://www.animegg.org/kekkon-suru-tte-hontou-desu-ka-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3482,
+    "title": "Gunbuster 2",
+    "animegg_url": "https://www.animegg.org/series/gunbuster-2",
+    "mal_url": "https://myanimelist.net/anime/1002",
+    "mal_id": 1002,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/13767",
+        "dub": null,
+        "url": "https://www.animegg.org/gunbuster-2-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/13763",
+        "dub": null,
+        "url": "https://www.animegg.org/gunbuster-2-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/13765",
+        "dub": null,
+        "url": "https://www.animegg.org/gunbuster-2-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/13764",
+        "dub": null,
+        "url": "https://www.animegg.org/gunbuster-2-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/13766",
+        "dub": null,
+        "url": "https://www.animegg.org/gunbuster-2-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/13762",
+        "dub": null,
+        "url": "https://www.animegg.org/gunbuster-2-episode-1"
+      }
+    ]
   }
 ]
