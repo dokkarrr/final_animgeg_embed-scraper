@@ -61088,5 +61088,93 @@
         "url": "https://www.animegg.org/valkyria-chronicles-theater-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 3837,
+    "title": "Blade Runner: Black Lotus",
+    "animegg_url": "https://www.animegg.org/series/blade-runner-black-lotus",
+    "mal_url": "https://myanimelist.net/anime/38749",
+    "mal_id": 38749,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/103317",
+        "dub": null,
+        "url": "https://www.animegg.org/blade-runner-black-lotus-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/103318",
+        "dub": null,
+        "url": "https://www.animegg.org/blade-runner-black-lotus-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/103379",
+        "dub": null,
+        "url": "https://www.animegg.org/blade-runner-black-lotus-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/103439",
+        "dub": null,
+        "url": "https://www.animegg.org/blade-runner-black-lotus-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/103497",
+        "dub": null,
+        "url": "https://www.animegg.org/blade-runner-black-lotus-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/103574",
+        "dub": null,
+        "url": "https://www.animegg.org/blade-runner-black-lotus-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/103628",
+        "dub": null,
+        "url": "https://www.animegg.org/blade-runner-black-lotus-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/103712",
+        "dub": null,
+        "url": "https://www.animegg.org/blade-runner-black-lotus-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/103742",
+        "dub": null,
+        "url": "https://www.animegg.org/blade-runner-black-lotus-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/103790",
+        "dub": null,
+        "url": "https://www.animegg.org/blade-runner-black-lotus-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/103841",
+        "dub": null,
+        "url": "https://www.animegg.org/blade-runner-black-lotus-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/103896",
+        "dub": null,
+        "url": "https://www.animegg.org/blade-runner-black-lotus-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/103948",
+        "dub": null,
+        "url": "https://www.animegg.org/blade-runner-black-lotus-episode-13"
+      }
+    ]
   }
 ]
