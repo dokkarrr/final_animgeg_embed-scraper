@@ -27876,5 +27876,21 @@
         "url": "https://www.animegg.org/vlad-love-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 6063,
+    "title": "Great Mazinger vs. Getter Robo",
+    "animegg_url": "https://www.animegg.org/series/great-mazinger-vs-getter-robo",
+    "mal_url": "https://myanimelist.net/anime/4385",
+    "mal_id": 4385,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/53314",
+        "dub": null,
+        "url": "https://www.animegg.org/great-mazinger-vs-getter-robo-episode-1"
+      }
+    ]
   }
 ]
