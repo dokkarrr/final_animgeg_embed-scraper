@@ -12071,5 +12071,75 @@
         "url": "https://www.animegg.org/digital-devil-monogatari-megami-tensei-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5803,
+    "title": "Idolls!",
+    "animegg_url": "https://www.animegg.org/series/idolls",
+    "mal_url": "https://myanimelist.net/anime/42981",
+    "mal_id": 42981,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/100439",
+        "dub": null,
+        "url": "https://www.animegg.org/idolls-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/100520",
+        "dub": null,
+        "url": "https://www.animegg.org/idolls-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/100609",
+        "dub": null,
+        "url": "https://www.animegg.org/idolls-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/100681",
+        "dub": null,
+        "url": "https://www.animegg.org/idolls-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/100755",
+        "dub": null,
+        "url": "https://www.animegg.org/idolls-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/100822",
+        "dub": null,
+        "url": "https://www.animegg.org/idolls-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/100896",
+        "dub": null,
+        "url": "https://www.animegg.org/idolls-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/100973",
+        "dub": null,
+        "url": "https://www.animegg.org/idolls-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/101046",
+        "dub": null,
+        "url": "https://www.animegg.org/idolls-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/101118",
+        "dub": null,
+        "url": "https://www.animegg.org/idolls-episode-10"
+      }
+    ]
   }
 ]
