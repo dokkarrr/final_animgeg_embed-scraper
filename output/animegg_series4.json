@@ -37834,5 +37834,87 @@
         "url": "https://www.animegg.org/kanojo-okarishimasu-3rd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3515,
+    "title": "Meiji Tokyo Renka",
+    "animegg_url": "https://www.animegg.org/series/meiji-tokyo-renka",
+    "mal_url": "https://myanimelist.net/anime/34209",
+    "mal_id": 34209,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/94169",
+        "dub": null,
+        "url": "https://www.animegg.org/meiji-tokyo-renka-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/94242",
+        "dub": null,
+        "url": "https://www.animegg.org/meiji-tokyo-renka-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/94307",
+        "dub": null,
+        "url": "https://www.animegg.org/meiji-tokyo-renka-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/94372",
+        "dub": null,
+        "url": "https://www.animegg.org/meiji-tokyo-renka-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/94438",
+        "dub": null,
+        "url": "https://www.animegg.org/meiji-tokyo-renka-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/94502",
+        "dub": null,
+        "url": "https://www.animegg.org/meiji-tokyo-renka-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/94570",
+        "dub": null,
+        "url": "https://www.animegg.org/meiji-tokyo-renka-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/94646",
+        "dub": null,
+        "url": "https://www.animegg.org/meiji-tokyo-renka-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/94709",
+        "dub": null,
+        "url": "https://www.animegg.org/meiji-tokyo-renka-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/94770",
+        "dub": null,
+        "url": "https://www.animegg.org/meiji-tokyo-renka-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/94836",
+        "dub": null,
+        "url": "https://www.animegg.org/meiji-tokyo-renka-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/94930",
+        "dub": null,
+        "url": "https://www.animegg.org/meiji-tokyo-renka-episode-12"
+      }
+    ]
   }
 ]
