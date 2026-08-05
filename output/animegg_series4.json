@@ -112758,5 +112758,21 @@
         "url": "https://www.animegg.org/black-rock-shooter-dawn-fall-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4624,
+    "title": "Corpse Party: Missing Footage",
+    "animegg_url": "https://www.animegg.org/series/corpse-party-missing-footage",
+    "mal_url": "https://myanimelist.net/anime/13807",
+    "mal_id": 13807,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/77532",
+        "dub": null,
+        "url": "https://www.animegg.org/corpse-party-missing-footage-episode-1"
+      }
+    ]
   }
 ]
