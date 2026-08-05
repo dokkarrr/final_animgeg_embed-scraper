@@ -81980,5 +81980,21 @@
         "url": "https://www.animegg.org/xinghe-zhizun-episode-157"
       }
     ]
+  },
+  {
+    "serial_no": 4140,
+    "title": "Diabolik Lovers OVA",
+    "animegg_url": "https://www.animegg.org/series/diabolik-lovers-ova",
+    "mal_url": "https://myanimelist.net/anime/27417",
+    "mal_id": 27417,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/75239",
+        "dub": "https://www.animegg.org/embed/78187",
+        "url": "https://www.animegg.org/diabolik-lovers-ova-episode-episode-1"
+      }
+    ]
   }
 ]
