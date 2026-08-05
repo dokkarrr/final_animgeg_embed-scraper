@@ -53805,5 +53805,21 @@
         "url": "https://www.animegg.org/osomatsu-san-ouma-de-kobanashi-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6342,
+    "title": "Tsurune: Kazemai Koukou Kyuudoubu - Yabai",
+    "animegg_url": "https://www.animegg.org/series/tsurune-kazemai-koukou-kyuudoubu---yabai",
+    "mal_url": "https://myanimelist.net/anime/38921",
+    "mal_id": 38921,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/95236",
+        "dub": null,
+        "url": "https://www.animegg.org/tsurune-kazemai-koukou-kyuudoubu---yabai-episode-1"
+      }
+    ]
   }
 ]
