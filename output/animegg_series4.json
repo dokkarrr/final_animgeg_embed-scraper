@@ -58680,5 +58680,21 @@
         "url": "https://www.animegg.org/lupin-iii-vs-detective-conan-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3793,
+    "title": "No Game No Life: Zero",
+    "animegg_url": "https://www.animegg.org/series/no-game-no-life-zero",
+    "mal_url": "https://myanimelist.net/anime/33674",
+    "mal_id": 33674,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/90217",
+        "dub": null,
+        "url": "https://www.animegg.org/no-game-no-life-zero-episode-1"
+      }
+    ]
   }
 ]
