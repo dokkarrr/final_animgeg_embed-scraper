@@ -98854,5 +98854,87 @@
         "url": "https://www.animegg.org/strike-witches-501-butai-hasshin-shimasu-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4391,
+    "title": "Dead Account",
+    "animegg_url": "https://www.animegg.org/series/dead-account",
+    "mal_url": "https://myanimelist.net/anime/61196",
+    "mal_id": 61196,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/144124",
+        "dub": "https://www.animegg.org/embed/144340",
+        "url": "https://www.animegg.org/dead-account-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/144231",
+        "dub": "https://www.animegg.org/embed/144559",
+        "url": "https://www.animegg.org/dead-account-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/144345",
+        "dub": "https://www.animegg.org/embed/144556",
+        "url": "https://www.animegg.org/dead-account-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/144449",
+        "dub": "https://www.animegg.org/embed/144649",
+        "url": "https://www.animegg.org/dead-account-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/144548",
+        "dub": "https://www.animegg.org/embed/144755",
+        "url": "https://www.animegg.org/dead-account-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/144644",
+        "dub": "https://www.animegg.org/embed/144867",
+        "url": "https://www.animegg.org/dead-account-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/144748",
+        "dub": "https://www.animegg.org/embed/144971",
+        "url": "https://www.animegg.org/dead-account-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/144853",
+        "dub": "https://www.animegg.org/embed/145107",
+        "url": "https://www.animegg.org/dead-account-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/144968",
+        "dub": "https://www.animegg.org/embed/145211",
+        "url": "https://www.animegg.org/dead-account-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/145069",
+        "dub": "https://www.animegg.org/embed/145281",
+        "url": "https://www.animegg.org/dead-account-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/145178",
+        "dub": "https://www.animegg.org/embed/145377",
+        "url": "https://www.animegg.org/dead-account-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/145266",
+        "dub": null,
+        "url": "https://www.animegg.org/dead-account-episode-12"
+      }
+    ]
   }
 ]
