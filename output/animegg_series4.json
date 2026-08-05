@@ -26648,5 +26648,51 @@
         "url": "https://www.animegg.org/hakuouki-sekkaroku-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 3384,
+    "title": "Ikkitousen: Great Guardians (OVA)",
+    "animegg_url": "https://www.animegg.org/series/ikkitousen-great-guardians-ova",
+    "mal_url": "https://myanimelist.net/anime/5333",
+    "mal_id": 5333,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/17447",
+        "dub": null,
+        "url": "https://www.animegg.org/ikkitousen-great-guardians-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/17451",
+        "dub": null,
+        "url": "https://www.animegg.org/ikkitousen-great-guardians-ova-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/17448",
+        "dub": null,
+        "url": "https://www.animegg.org/ikkitousen-great-guardians-ova-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/17450",
+        "dub": null,
+        "url": "https://www.animegg.org/ikkitousen-great-guardians-ova-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/17449",
+        "dub": null,
+        "url": "https://www.animegg.org/ikkitousen-great-guardians-ova-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/17452",
+        "dub": null,
+        "url": "https://www.animegg.org/ikkitousen-great-guardians-ova-episode-6"
+      }
+    ]
   }
 ]
