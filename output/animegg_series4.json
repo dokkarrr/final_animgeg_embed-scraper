@@ -9488,5 +9488,33 @@
         "url": "https://www.animegg.org/delico-s-nursery-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3192,
+    "title": "Air Gear: Kuro no Hane to Nemuri no Mori - Break on the Sky",
+    "animegg_url": "https://www.animegg.org/series/air-gear-kuro-no-hane-to-nemuri-no-mori---break-on-the-sky",
+    "mal_url": "https://myanimelist.net/anime/9201",
+    "mal_id": 9201,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/46678",
+        "dub": null,
+        "url": "https://www.animegg.org/air-gear-kuro-no-hane-to-nemuri-no-mori---break-on-the-sky-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/46679",
+        "dub": null,
+        "url": "https://www.animegg.org/air-gear-kuro-no-hane-to-nemuri-no-mori---break-on-the-sky-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/46680",
+        "dub": null,
+        "url": "https://www.animegg.org/air-gear-kuro-no-hane-to-nemuri-no-mori---break-on-the-sky-episode-3"
+      }
+    ]
   }
 ]
