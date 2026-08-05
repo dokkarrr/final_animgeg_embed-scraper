@@ -40036,5 +40036,21 @@
         "url": "https://www.animegg.org/made-in-abyss-retsujitsu-no-ougonkyou-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3545,
+    "title": "Tenki no Ko",
+    "animegg_url": "https://www.animegg.org/series/tenki-no-ko",
+    "mal_url": "https://myanimelist.net/anime/38826",
+    "mal_id": 38826,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/98434",
+        "dub": null,
+        "url": "https://www.animegg.org/tenki-no-ko-episode-1"
+      }
+    ]
   }
 ]
