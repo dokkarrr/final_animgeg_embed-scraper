@@ -67119,5 +67119,21 @@
         "url": "https://www.animegg.org/magi-nation-dub-episode-52"
       }
     ]
+  },
+  {
+    "serial_no": 6468,
+    "title": "25-sai no Joshikousei",
+    "animegg_url": "https://www.animegg.org/series/25-sai-no-joshikousei",
+    "mal_url": "https://myanimelist.net/anime/36840",
+    "mal_id": 36840,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 25,
+        "sub": "https://www.animegg.org/embed/107199",
+        "dub": null,
+        "url": "https://www.animegg.org/25-sai-no-joshikousei-episode-7"
+      }
+    ]
   }
 ]
