@@ -7488,5 +7488,87 @@
         "url": "https://www.animegg.org/gakuen-utopia-manabi-straight-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3169,
+    "title": "Bannou Bunka Neko-Musume",
+    "animegg_url": "https://www.animegg.org/series/bannou-bunka-neko-musume",
+    "mal_url": "https://myanimelist.net/anime/373",
+    "mal_id": 373,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/69145",
+        "dub": null,
+        "url": "https://www.animegg.org/bannou-bunka-neko-musume-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/69146",
+        "dub": null,
+        "url": "https://www.animegg.org/bannou-bunka-neko-musume-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/69149",
+        "dub": null,
+        "url": "https://www.animegg.org/bannou-bunka-neko-musume-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/69152",
+        "dub": null,
+        "url": "https://www.animegg.org/bannou-bunka-neko-musume-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/69154",
+        "dub": null,
+        "url": "https://www.animegg.org/bannou-bunka-neko-musume-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/69155",
+        "dub": null,
+        "url": "https://www.animegg.org/bannou-bunka-neko-musume-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/69170",
+        "dub": null,
+        "url": "https://www.animegg.org/bannou-bunka-neko-musume-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/69158",
+        "dub": null,
+        "url": "https://www.animegg.org/bannou-bunka-neko-musume-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/69159",
+        "dub": null,
+        "url": "https://www.animegg.org/bannou-bunka-neko-musume-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/69161",
+        "dub": null,
+        "url": "https://www.animegg.org/bannou-bunka-neko-musume-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/69166",
+        "dub": null,
+        "url": "https://www.animegg.org/bannou-bunka-neko-musume-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/69168",
+        "dub": null,
+        "url": "https://www.animegg.org/bannou-bunka-neko-musume-episode-12"
+      }
+    ]
   }
 ]
