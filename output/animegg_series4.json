@@ -85230,5 +85230,87 @@
         "url": "https://www.animegg.org/futsal-boys-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4186,
+    "title": "The Marginal Service",
+    "animegg_url": "https://www.animegg.org/series/the-marginal-service",
+    "mal_url": "https://myanimelist.net/anime/53587",
+    "mal_id": 53587,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/107703",
+        "dub": null,
+        "url": "https://www.animegg.org/the-marginal-service-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/107771",
+        "dub": null,
+        "url": "https://www.animegg.org/the-marginal-service-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/107931",
+        "dub": null,
+        "url": "https://www.animegg.org/the-marginal-service-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/107932",
+        "dub": null,
+        "url": "https://www.animegg.org/the-marginal-service-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/107933",
+        "dub": null,
+        "url": "https://www.animegg.org/the-marginal-service-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/108099",
+        "dub": null,
+        "url": "https://www.animegg.org/the-marginal-service-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/108292",
+        "dub": null,
+        "url": "https://www.animegg.org/the-marginal-service-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/108719",
+        "dub": null,
+        "url": "https://www.animegg.org/the-marginal-service-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/108906",
+        "dub": null,
+        "url": "https://www.animegg.org/the-marginal-service-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/129850",
+        "dub": null,
+        "url": "https://www.animegg.org/the-marginal-service-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/129954",
+        "dub": null,
+        "url": "https://www.animegg.org/the-marginal-service-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/130008",
+        "dub": null,
+        "url": "https://www.animegg.org/the-marginal-service-episode-12"
+      }
+    ]
   }
 ]
