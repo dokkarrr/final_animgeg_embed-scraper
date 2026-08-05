@@ -79865,5 +79865,21 @@
         "url": "https://www.animegg.org/ousama-ranking-dub-episode-23"
       }
     ]
+  },
+  {
+    "serial_no": 6571,
+    "title": "Tokimeki Memorial 4 OVA",
+    "animegg_url": "https://www.animegg.org/series/tokimeki-memorial-4-ova",
+    "mal_url": "https://myanimelist.net/anime/7691",
+    "mal_id": 7691,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/64069",
+        "dub": null,
+        "url": "https://www.animegg.org/tokimeki-memorial-4-ova-episode-1"
+      }
+    ]
   }
 ]
