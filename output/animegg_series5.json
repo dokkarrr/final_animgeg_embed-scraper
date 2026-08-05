@@ -59643,5 +59643,87 @@
         "url": "https://www.animegg.org/tamayura-sotsugyou-shashin-part-3---akogare---movie-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6396,
+    "title": "Hora, Mimi ga Mieteru yo!",
+    "animegg_url": "https://www.animegg.org/series/wei-kanjian-erduo-la",
+    "mal_url": "https://myanimelist.net/anime/38217",
+    "mal_id": 38217,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/94918",
+        "dub": null,
+        "url": "https://www.animegg.org/wei-kanjian-erduo-la-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/125642",
+        "dub": null,
+        "url": "https://www.animegg.org/wei-kanjian-erduo-la-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/125641",
+        "dub": null,
+        "url": "https://www.animegg.org/wei-kanjian-erduo-la-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/125640",
+        "dub": null,
+        "url": "https://www.animegg.org/wei-kanjian-erduo-la-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/125639",
+        "dub": null,
+        "url": "https://www.animegg.org/wei-kanjian-erduo-la-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/125638",
+        "dub": null,
+        "url": "https://www.animegg.org/wei-kanjian-erduo-la-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/125637",
+        "dub": null,
+        "url": "https://www.animegg.org/wei-kanjian-erduo-la-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/125636",
+        "dub": null,
+        "url": "https://www.animegg.org/wei-kanjian-erduo-la-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/125635",
+        "dub": null,
+        "url": "https://www.animegg.org/wei-kanjian-erduo-la-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/125643",
+        "dub": null,
+        "url": "https://www.animegg.org/wei-kanjian-erduo-la-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/94921",
+        "dub": null,
+        "url": "https://www.animegg.org/wei-kanjian-erduo-la-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/94919",
+        "dub": null,
+        "url": "https://www.animegg.org/wei-kanjian-erduo-la-episode-12"
+      }
+    ]
   }
 ]
