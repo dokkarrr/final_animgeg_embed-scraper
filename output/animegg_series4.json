@@ -13326,5 +13326,93 @@
         "url": "https://www.animegg.org/ao-no-hako-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 3241,
+    "title": "NieA Under 7",
+    "animegg_url": "https://www.animegg.org/series/niea-under-7",
+    "mal_url": "https://myanimelist.net/anime/800",
+    "mal_id": 800,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/59282",
+        "dub": "https://www.animegg.org/embed/59283",
+        "url": "https://www.animegg.org/niea-under-7-episode-13"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/59280",
+        "dub": "https://www.animegg.org/embed/59281",
+        "url": "https://www.animegg.org/niea-under-7-episode-12"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/59278",
+        "dub": "https://www.animegg.org/embed/59279",
+        "url": "https://www.animegg.org/niea-under-7-episode-11"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/59276",
+        "dub": "https://www.animegg.org/embed/59277",
+        "url": "https://www.animegg.org/niea-under-7-episode-10"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/59274",
+        "dub": "https://www.animegg.org/embed/59275",
+        "url": "https://www.animegg.org/niea-under-7-episode-9"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/59272",
+        "dub": "https://www.animegg.org/embed/59273",
+        "url": "https://www.animegg.org/niea-under-7-episode-8"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/59270",
+        "dub": "https://www.animegg.org/embed/59271",
+        "url": "https://www.animegg.org/niea-under-7-episode-7"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/59284",
+        "dub": "https://www.animegg.org/embed/59285",
+        "url": "https://www.animegg.org/niea-under-7-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/59268",
+        "dub": "https://www.animegg.org/embed/59269",
+        "url": "https://www.animegg.org/niea-under-7-episode-5"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/59266",
+        "dub": "https://www.animegg.org/embed/59267",
+        "url": "https://www.animegg.org/niea-under-7-episode-4"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/59264",
+        "dub": "https://www.animegg.org/embed/59265",
+        "url": "https://www.animegg.org/niea-under-7-episode-3"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/59262",
+        "dub": "https://www.animegg.org/embed/59263",
+        "url": "https://www.animegg.org/niea-under-7-episode-2"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/59260",
+        "dub": "https://www.animegg.org/embed/59261",
+        "url": "https://www.animegg.org/niea-under-7-episode-1"
+      }
+    ]
   }
 ]
