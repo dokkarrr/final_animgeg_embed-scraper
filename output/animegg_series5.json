@@ -3424,5 +3424,21 @@
         "url": "https://www.animegg.org/kuromi-s-pretty-journey-hacha-mecha-multiverse-daidasshutsu-episode-11"
       }
     ]
+  },
+  {
+    "serial_no": 5660,
+    "title": "Aria the OVA: Arietta",
+    "animegg_url": "https://www.animegg.org/series/aria-the-ova-arietta",
+    "mal_url": "https://myanimelist.net/anime/2563",
+    "mal_id": 2563,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/65795",
+        "dub": null,
+        "url": "https://www.animegg.org/aria-the-ova-arietta-episode-1"
+      }
+    ]
   }
 ]
