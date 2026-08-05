@@ -118846,5 +118846,21 @@
         "url": "https://www.animegg.org/macross-ii-lovers-again-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 4727,
+    "title": ".hack//G.U. Trilogy: Parody Mode",
+    "animegg_url": "https://www.animegg.org/series/hackgu-trilogy-parody-mode",
+    "mal_url": "https://myanimelist.net/anime/4469",
+    "mal_id": 4469,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/25061",
+        "dub": null,
+        "url": "https://www.animegg.org/special"
+      }
+    ]
   }
 ]
