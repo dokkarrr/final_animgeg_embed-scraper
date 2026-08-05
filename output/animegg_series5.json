@@ -88122,5 +88122,21 @@
         "url": "https://www.animegg.org/xing-wu-shen-jue-episode-40"
       }
     ]
+  },
+  {
+    "serial_no": 6648,
+    "title": "Dragon Ball Z: Bardock",
+    "animegg_url": "https://www.animegg.org/series/dragon-ball-z-bardock",
+    "mal_url": "https://myanimelist.net/anime/986",
+    "mal_id": 986,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/108083",
+        "dub": "https://www.animegg.org/embed/134364",
+        "url": "https://www.animegg.org/dragon-ball-z-bardock-episode-1"
+      }
+    ]
   }
 ]
