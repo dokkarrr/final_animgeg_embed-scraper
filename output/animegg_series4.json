@@ -95376,5 +95376,33 @@
         "url": "https://www.animegg.org/akagami-no-shirayuki-hime-nandemonai-takaramono-kono-page-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4342,
+    "title": "UQ Holder! OVA",
+    "animegg_url": "https://www.animegg.org/series/uq-holder-ova",
+    "mal_url": "https://myanimelist.net/anime/33478",
+    "mal_id": 33478,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/91731",
+        "dub": null,
+        "url": "https://www.animegg.org/uq-holder-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/91732",
+        "dub": null,
+        "url": "https://www.animegg.org/uq-holder-ova-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/91730",
+        "dub": "https://www.animegg.org/embed/91771",
+        "url": "https://www.animegg.org/uq-holder-ova-episode-3"
+      }
+    ]
   }
 ]
