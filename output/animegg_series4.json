@@ -121700,5 +121700,21 @@
         "url": "https://www.animegg.org/persona-3-the-movie-4-winter-of-rebirth---movie-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4758,
+    "title": "Ookami Shoujo to Kuro Ouji OVA",
+    "animegg_url": "https://www.animegg.org/series/ookami-shoujo-to-kuro-ouji-ova",
+    "mal_url": "https://myanimelist.net/anime/23673",
+    "mal_id": 23673,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/79341",
+        "dub": null,
+        "url": "https://www.animegg.org/ookami-shoujo-to-kuro-ouji-ova-episode-1"
+      }
+    ]
   }
 ]
