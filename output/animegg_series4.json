@@ -133072,5 +133072,21 @@
         "url": "https://www.animegg.org/ame-iro-cocoa-side-g-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4928,
+    "title": "Chuunibyou demo Koi ga Shitai! Movie",
+    "animegg_url": "https://www.animegg.org/series/chuunibyou-demo-koi-ga-shitai-movie",
+    "mal_url": "https://myanimelist.net/anime/36113",
+    "mal_id": 36113,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/44059",
+        "dub": null,
+        "url": "https://www.animegg.org/chuunibyou-demo-koi-ga-shitai-movie-episode-1"
+      }
+    ]
   }
 ]
