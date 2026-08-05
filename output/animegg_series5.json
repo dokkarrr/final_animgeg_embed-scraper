@@ -83208,5 +83208,21 @@
         "url": "https://www.animegg.org/un-go-inga-ron-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6606,
+    "title": "Umi Monogatari: Anata ga Ite Kureta Koto Special",
+    "animegg_url": "https://www.animegg.org/series/umi-monogatari-anata-ga-ite-kureta-koto-special",
+    "mal_url": "https://myanimelist.net/anime/6129",
+    "mal_id": 6129,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/64954",
+        "dub": null,
+        "url": "https://www.animegg.org/umi-monogatari-anata-ga-ite-kureta-koto-special-episode-1"
+      }
+    ]
   }
 ]
