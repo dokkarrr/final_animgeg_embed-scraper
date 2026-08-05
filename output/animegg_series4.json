@@ -127588,5 +127588,87 @@
         "url": "https://www.animegg.org/null-peta-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4844,
+    "title": "Ring ni Kakero",
+    "animegg_url": "https://www.animegg.org/series/ring-ni-kakero",
+    "mal_url": "https://myanimelist.net/anime/23",
+    "mal_id": 23,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/89030",
+        "dub": null,
+        "url": "https://www.animegg.org/ring-ni-kakero-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/89031",
+        "dub": null,
+        "url": "https://www.animegg.org/ring-ni-kakero-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/89032",
+        "dub": null,
+        "url": "https://www.animegg.org/ring-ni-kakero-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/89033",
+        "dub": null,
+        "url": "https://www.animegg.org/ring-ni-kakero-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/89034",
+        "dub": null,
+        "url": "https://www.animegg.org/ring-ni-kakero-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/89035",
+        "dub": null,
+        "url": "https://www.animegg.org/ring-ni-kakero-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/89036",
+        "dub": null,
+        "url": "https://www.animegg.org/ring-ni-kakero-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/89037",
+        "dub": null,
+        "url": "https://www.animegg.org/ring-ni-kakero-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/89038",
+        "dub": null,
+        "url": "https://www.animegg.org/ring-ni-kakero-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/89039",
+        "dub": null,
+        "url": "https://www.animegg.org/ring-ni-kakero-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/89040",
+        "dub": null,
+        "url": "https://www.animegg.org/ring-ni-kakero-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/89041",
+        "dub": null,
+        "url": "https://www.animegg.org/ring-ni-kakero-episode-12"
+      }
+    ]
   }
 ]
