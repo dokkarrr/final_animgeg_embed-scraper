@@ -125252,5 +125252,21 @@
         "url": "https://www.animegg.org/wedding-peach-dx-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 4803,
+    "title": "Gundam: Char's Counterattack",
+    "animegg_url": "https://www.animegg.org/series/gundam-chars-counterattack",
+    "mal_url": "https://myanimelist.net/anime/87",
+    "mal_id": 87,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/53159",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-chars-counterattack-episode-1"
+      }
+    ]
   }
 ]
