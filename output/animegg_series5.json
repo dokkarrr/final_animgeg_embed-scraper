@@ -30364,5 +30364,21 @@
         "url": "https://www.animegg.org/osomatsu-san-special-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6121,
+    "title": "Ro-Kyu-Bu!: Tomoka no Ichigo Sundae",
+    "animegg_url": "https://www.animegg.org/series/ro-kyu-bu-tomoka-no-ichigo-sundae",
+    "mal_url": "https://myanimelist.net/anime/15807",
+    "mal_id": 15807,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/31953",
+        "dub": null,
+        "url": "https://www.animegg.org/ro-kyu-bu-tomoka-no-ichigo-sundae-episode-1"
+      }
+    ]
   }
 ]
