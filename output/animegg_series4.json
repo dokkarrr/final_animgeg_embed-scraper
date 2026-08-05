@@ -22018,5 +22018,87 @@
         "url": "https://www.animegg.org/shingeki-no-kyojin-movie-2-jiyuu-no-tsubasa-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3335,
+    "title": "The Unaware Atelier Meister",
+    "animegg_url": "https://www.animegg.org/series/the-unaware-atelier-meister",
+    "mal_url": "https://myanimelist.net/anime/60140",
+    "mal_id": 60140,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/140323",
+        "dub": "https://www.animegg.org/embed/140329",
+        "url": "https://www.animegg.org/the-unaware-atelier-meister-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/140389",
+        "dub": "https://www.animegg.org/embed/140395",
+        "url": "https://www.animegg.org/the-unaware-atelier-meister-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/140480",
+        "dub": "https://www.animegg.org/embed/140481",
+        "url": "https://www.animegg.org/the-unaware-atelier-meister-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/140574",
+        "dub": "https://www.animegg.org/embed/140584",
+        "url": "https://www.animegg.org/the-unaware-atelier-meister-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/140648",
+        "dub": "https://www.animegg.org/embed/140655",
+        "url": "https://www.animegg.org/the-unaware-atelier-meister-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/140728",
+        "dub": "https://www.animegg.org/embed/140738",
+        "url": "https://www.animegg.org/the-unaware-atelier-meister-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/140835",
+        "dub": "https://www.animegg.org/embed/140839",
+        "url": "https://www.animegg.org/the-unaware-atelier-meister-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/140945",
+        "dub": "https://www.animegg.org/embed/140950",
+        "url": "https://www.animegg.org/the-unaware-atelier-meister-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/141025",
+        "dub": null,
+        "url": "https://www.animegg.org/the-unaware-atelier-meister-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/141157",
+        "dub": "https://www.animegg.org/embed/141159",
+        "url": "https://www.animegg.org/the-unaware-atelier-meister-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/141240",
+        "dub": "https://www.animegg.org/embed/141247",
+        "url": "https://www.animegg.org/the-unaware-atelier-meister-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/141345",
+        "dub": "https://www.animegg.org/embed/141351",
+        "url": "https://www.animegg.org/the-unaware-atelier-meister-episode-12"
+      }
+    ]
   }
 ]
