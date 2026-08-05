@@ -113560,5 +113560,87 @@
         "url": "https://www.animegg.org/chain-chronicle-haecceitas-no-hikari-part-3-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4643,
+    "title": "Skate-Leading☆Stars",
+    "animegg_url": "https://www.animegg.org/series/skate-leading-stars",
+    "mal_url": "https://myanimelist.net/anime/40786",
+    "mal_id": 40786,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/100366",
+        "dub": null,
+        "url": "https://www.animegg.org/skate-leading-stars-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/100398",
+        "dub": null,
+        "url": "https://www.animegg.org/skate-leading-stars-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/100462",
+        "dub": null,
+        "url": "https://www.animegg.org/skate-leading-stars-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/100560",
+        "dub": null,
+        "url": "https://www.animegg.org/skate-leading-stars-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/100632",
+        "dub": null,
+        "url": "https://www.animegg.org/skate-leading-stars-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/100706",
+        "dub": null,
+        "url": "https://www.animegg.org/skate-leading-stars-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/100776",
+        "dub": null,
+        "url": "https://www.animegg.org/skate-leading-stars-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/100846",
+        "dub": null,
+        "url": "https://www.animegg.org/skate-leading-stars-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/100923",
+        "dub": null,
+        "url": "https://www.animegg.org/skate-leading-stars-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/101000",
+        "dub": null,
+        "url": "https://www.animegg.org/skate-leading-stars-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/101071",
+        "dub": null,
+        "url": "https://www.animegg.org/skate-leading-stars-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/101144",
+        "dub": null,
+        "url": "https://www.animegg.org/skate-leading-stars-episode-12"
+      }
+    ]
   }
 ]
