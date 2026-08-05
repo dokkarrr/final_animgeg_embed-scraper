@@ -24606,5 +24606,21 @@
         "url": "https://www.animegg.org/zan-sayonara-zetsubou-sensei-bangaichi-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 6021,
+    "title": "Binchou-tan OVA",
+    "animegg_url": "https://www.animegg.org/series/binchou-tan-ova",
+    "mal_url": "https://myanimelist.net/anime/4081",
+    "mal_id": 4081,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/49075",
+        "dub": null,
+        "url": "https://www.animegg.org/binchou-tan-ova-episode-1"
+      }
+    ]
   }
 ]
