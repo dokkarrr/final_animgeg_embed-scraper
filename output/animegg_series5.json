@@ -114608,5 +114608,21 @@
         "url": "https://www.animegg.org/kimetsu-no-yaiba-asakusa-hen-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6861,
+    "title": "Fate/Grand Order: Shuukyoku Tokuiten - Kani Jikan Shinden Solomon",
+    "animegg_url": "https://www.animegg.org/series/fategrand-order-shuukyoku-tokuiten---kani-jikan-shinden-solomon",
+    "mal_url": "https://myanimelist.net/anime/41497",
+    "mal_id": 41497,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/104036",
+        "dub": null,
+        "url": "https://www.animegg.org/fategrand-order-shuukyoku-tokuiten---kani-jikan-shinden-solomon-episode-1"
+      }
+    ]
   }
 ]
