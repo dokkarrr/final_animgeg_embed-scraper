@@ -62868,5 +62868,39 @@
         "url": "https://www.animegg.org/hypnosis-mic-division-rap-battle---rhyme-anima-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3850,
+    "title": "Dai Mahou Touge",
+    "animegg_url": "https://www.animegg.org/series/dai-mahou-touge",
+    "mal_url": "https://myanimelist.net/anime/933",
+    "mal_id": 933,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/7005",
+        "dub": "https://www.animegg.org/embed/7006",
+        "url": "https://www.animegg.org/dai-mahou-touge-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/7007",
+        "dub": "https://www.animegg.org/embed/7008",
+        "url": "https://www.animegg.org/dai-mahou-touge-episode-3"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/7009",
+        "dub": "https://www.animegg.org/embed/7010",
+        "url": "https://www.animegg.org/dai-mahou-touge-episode-5"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/7011",
+        "dub": "https://www.animegg.org/embed/7012",
+        "url": "https://www.animegg.org/dai-mahou-touge-episode-7"
+      }
+    ]
   }
 ]
