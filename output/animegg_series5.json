@@ -92957,5 +92957,27 @@
         "url": "https://www.animegg.org/asobi-asobase-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6690,
+    "title": "Youkoso jitsuryoku shijou shugi no kyoushitsu e tv season 4",
+    "animegg_url": "https://www.animegg.org/series/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-tv-season-4",
+    "mal_url": "https://myanimelist.net/anime/51096",
+    "mal_id": 51096,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/145323",
+        "dub": null,
+        "url": "https://www.animegg.org/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-tv-season-4-episode-4"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/145322",
+        "dub": null,
+        "url": "https://www.animegg.org/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-tv-season-4-episode-1"
+      }
+    ]
   }
 ]
