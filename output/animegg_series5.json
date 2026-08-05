@@ -83004,5 +83004,21 @@
         "url": "https://www.animegg.org/kyuuketsuki-sugu-shinu-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6600,
+    "title": "Tono to Issho OVA",
+    "animegg_url": "https://www.animegg.org/series/tono-to-issho-ova",
+    "mal_url": "https://myanimelist.net/anime/9794",
+    "mal_id": 9794,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/38643",
+        "dub": null,
+        "url": "https://www.animegg.org/tono-to-issho-ova-episode-1"
+      }
+    ]
   }
 ]
