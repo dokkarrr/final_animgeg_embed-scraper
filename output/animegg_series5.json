@@ -81101,5 +81101,21 @@
         "url": "https://www.animegg.org/yao-shen-ji-2nd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6580,
+    "title": "Yuyushiki: Komarasetari, Komarasaretari",
+    "animegg_url": "https://www.animegg.org/series/yuyushiki-komarasetari-komarasaretari",
+    "mal_url": "https://myanimelist.net/anime/33035",
+    "mal_id": 33035,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/86077",
+        "dub": null,
+        "url": "https://www.animegg.org/yuyushiki-komarasetari-komarasaretari-episode-1"
+      }
+    ]
   }
 ]
