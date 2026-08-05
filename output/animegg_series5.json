@@ -28600,5 +28600,21 @@
         "url": "https://www.animegg.org/project-a-ko-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6082,
+    "title": "Harukanaru Toki no Naka de 3: Owarinaki Unmei",
+    "animegg_url": "https://www.animegg.org/series/harukanaru-toki-no-naka-de-3-owarinaki-unmei",
+    "mal_url": "https://myanimelist.net/anime/7254",
+    "mal_id": 7254,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/53147",
+        "dub": null,
+        "url": "https://www.animegg.org/harukanaru-toki-no-naka-de-3-owarinaki-unmei-episode-1"
+      }
+    ]
   }
 ]
