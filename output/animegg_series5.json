@@ -13189,5 +13189,21 @@
         "url": "https://www.animegg.org/koi-sento-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5820,
+    "title": "Oblivion Island: Haruka and the Magic Mirror",
+    "animegg_url": "https://www.animegg.org/series/oblivion-island-haruka-and-the-magic-mirror",
+    "mal_url": "https://myanimelist.net/anime/5998",
+    "mal_id": 5998,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/59427",
+        "dub": "https://www.animegg.org/embed/59428",
+        "url": "https://www.animegg.org/oblivion-island-haruka-and-the-magic-mirror-episode-1"
+      }
+    ]
   }
 ]
