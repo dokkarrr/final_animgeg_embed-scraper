@@ -116282,5 +116282,27 @@
         "url": "https://www.animegg.org/gintama-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4683,
+    "title": "Angel's Egg",
+    "animegg_url": "https://www.animegg.org/series/angels-egg",
+    "mal_url": "https://myanimelist.net/anime/885",
+    "mal_id": 885,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/65523",
+        "dub": null,
+        "url": "https://www.animegg.org/angels-egg-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/65524",
+        "dub": null,
+        "url": "https://www.animegg.org/angels-egg-episode-2"
+      }
+    ]
   }
 ]
