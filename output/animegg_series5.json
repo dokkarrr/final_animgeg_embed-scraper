@@ -13831,5 +13831,21 @@
         "url": "https://www.animegg.org/megaton-kyuu-musashi-2nd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5838,
+    "title": "Hamtaro OVA 003",
+    "animegg_url": "https://www.animegg.org/series/hamtaro-ova-003",
+    "mal_url": "https://myanimelist.net/anime/508",
+    "mal_id": 508,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/52539",
+        "dub": null,
+        "url": "https://www.animegg.org/hamtaro-ova-003-episode-1"
+      }
+    ]
   }
 ]
