@@ -5750,5 +5750,21 @@
         "url": "https://www.animegg.org/c-special-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5700,
+    "title": "Pokemon XY SP: Road to Kalos",
+    "animegg_url": "https://www.animegg.org/series/pokemon-xy-sp-road-to-kalos",
+    "mal_url": "https://myanimelist.net/anime/21695",
+    "mal_id": 21695,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/61285",
+        "dub": null,
+        "url": "https://www.animegg.org/pokemon-xy-sp-road-to-kalos-episode-1"
+      }
+    ]
   }
 ]
