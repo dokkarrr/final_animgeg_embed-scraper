@@ -28476,5 +28476,21 @@
         "url": "https://www.animegg.org/mahou-shoujo-lyrical-nanoha-reflection-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6075,
+    "title": "Cosprayers Movie",
+    "animegg_url": "https://www.animegg.org/series/cosprayers-movie",
+    "mal_url": "https://myanimelist.net/anime/869",
+    "mal_id": 869,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/47263",
+        "dub": null,
+        "url": "https://www.animegg.org/cosprayers-movie-episode-1"
+      }
+    ]
   }
 ]
