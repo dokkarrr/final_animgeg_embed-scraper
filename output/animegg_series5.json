@@ -11207,5 +11207,21 @@
         "url": "https://www.animegg.org/domain-of-murder-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5782,
+    "title": "School Days ONA",
+    "animegg_url": "https://www.animegg.org/series/school-days-ona",
+    "mal_url": "https://myanimelist.net/anime/756",
+    "mal_id": 756,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/60099",
+        "dub": null,
+        "url": "https://www.animegg.org/school-days-ona-episode-1"
+      }
+    ]
   }
 ]
