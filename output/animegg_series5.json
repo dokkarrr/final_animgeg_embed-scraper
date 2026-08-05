@@ -8425,5 +8425,21 @@
         "url": "https://www.animegg.org/gundam-the-08th-ms-team---millers-report-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5757,
+    "title": "Black Jack: The Two Doctors of Darkness",
+    "animegg_url": "https://www.animegg.org/series/black-jack-the-two-doctors-of-darkness",
+    "mal_url": "https://myanimelist.net/anime/1983",
+    "mal_id": 1983,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/48990",
+        "dub": null,
+        "url": "https://www.animegg.org/black-jack-the-two-doctors-of-darkness-episode-1"
+      }
+    ]
   }
 ]
