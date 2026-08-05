@@ -24654,5 +24654,21 @@
         "url": "https://www.animegg.org/natsuiro-kiseki-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6024,
+    "title": "Taro the Dragon Boy",
+    "animegg_url": "https://www.animegg.org/series/taro-the-dragon-boy",
+    "mal_url": "https://myanimelist.net/anime/1208",
+    "mal_id": 1208,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/63063",
+        "dub": "https://www.animegg.org/embed/63064",
+        "url": "https://www.animegg.org/taro-the-dragon-boy-episode-1"
+      }
+    ]
   }
 ]
