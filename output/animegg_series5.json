@@ -110082,5 +110082,87 @@
         "url": "https://www.animegg.org/the-ghost-in-the-shell-episode-5"
       }
     ]
+  },
+  {
+    "serial_no": 6823,
+    "title": "Log Horizon: Entaku Houkai",
+    "animegg_url": "https://www.animegg.org/series/log-horizon-entaku-houkai",
+    "mal_url": "https://myanimelist.net/anime/41109",
+    "mal_id": 41109,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/122627",
+        "dub": null,
+        "url": "https://www.animegg.org/log-horizon-entaku-houkai-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/122623",
+        "dub": null,
+        "url": "https://www.animegg.org/log-horizon-entaku-houkai-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/122622",
+        "dub": null,
+        "url": "https://www.animegg.org/log-horizon-entaku-houkai-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/122621",
+        "dub": null,
+        "url": "https://www.animegg.org/log-horizon-entaku-houkai-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/122620",
+        "dub": null,
+        "url": "https://www.animegg.org/log-horizon-entaku-houkai-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/122619",
+        "dub": null,
+        "url": "https://www.animegg.org/log-horizon-entaku-houkai-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/122618",
+        "dub": null,
+        "url": "https://www.animegg.org/log-horizon-entaku-houkai-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/122617",
+        "dub": null,
+        "url": "https://www.animegg.org/log-horizon-entaku-houkai-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/122616",
+        "dub": null,
+        "url": "https://www.animegg.org/log-horizon-entaku-houkai-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/122626",
+        "dub": null,
+        "url": "https://www.animegg.org/log-horizon-entaku-houkai-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/122625",
+        "dub": null,
+        "url": "https://www.animegg.org/log-horizon-entaku-houkai-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/122624",
+        "dub": null,
+        "url": "https://www.animegg.org/log-horizon-entaku-houkai-episode-12"
+      }
+    ]
   }
 ]
