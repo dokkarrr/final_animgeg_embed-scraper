@@ -1644,5 +1644,93 @@
         "url": "https://www.animegg.org/naruto-shippuuden-sunny-side-battle-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3094,
+    "title": "Kanon (2002)",
+    "animegg_url": "https://www.animegg.org/series/kanon-2002",
+    "mal_url": "https://myanimelist.net/anime/144",
+    "mal_id": 144,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 2002,
+        "sub": "https://www.animegg.org/embed/19565",
+        "dub": null,
+        "url": "https://www.animegg.org/kanon-2002-episode-13"
+      },
+      {
+        "ep": 2002,
+        "sub": "https://www.animegg.org/embed/19566",
+        "dub": null,
+        "url": "https://www.animegg.org/kanon-2002-episode-12"
+      },
+      {
+        "ep": 2002,
+        "sub": "https://www.animegg.org/embed/19567",
+        "dub": null,
+        "url": "https://www.animegg.org/kanon-2002-episode-11"
+      },
+      {
+        "ep": 2002,
+        "sub": "https://www.animegg.org/embed/19564",
+        "dub": null,
+        "url": "https://www.animegg.org/kanon-2002-episode-10"
+      },
+      {
+        "ep": 2002,
+        "sub": "https://www.animegg.org/embed/19563",
+        "dub": null,
+        "url": "https://www.animegg.org/kanon-2002-episode-9"
+      },
+      {
+        "ep": 2002,
+        "sub": "https://www.animegg.org/embed/19560",
+        "dub": null,
+        "url": "https://www.animegg.org/kanon-2002-episode-8"
+      },
+      {
+        "ep": 2002,
+        "sub": "https://www.animegg.org/embed/19562",
+        "dub": null,
+        "url": "https://www.animegg.org/kanon-2002-episode-7"
+      },
+      {
+        "ep": 2002,
+        "sub": "https://www.animegg.org/embed/19561",
+        "dub": null,
+        "url": "https://www.animegg.org/kanon-2002-episode-6"
+      },
+      {
+        "ep": 2002,
+        "sub": "https://www.animegg.org/embed/19555",
+        "dub": null,
+        "url": "https://www.animegg.org/kanon-2002-episode-5"
+      },
+      {
+        "ep": 2002,
+        "sub": "https://www.animegg.org/embed/19559",
+        "dub": null,
+        "url": "https://www.animegg.org/kanon-2002-episode-4"
+      },
+      {
+        "ep": 2002,
+        "sub": "https://www.animegg.org/embed/19558",
+        "dub": null,
+        "url": "https://www.animegg.org/kanon-2002-episode-3"
+      },
+      {
+        "ep": 2002,
+        "sub": "https://www.animegg.org/embed/19556",
+        "dub": null,
+        "url": "https://www.animegg.org/kanon-2002-episode-2"
+      },
+      {
+        "ep": 2002,
+        "sub": "https://www.animegg.org/embed/19557",
+        "dub": null,
+        "url": "https://www.animegg.org/kanon-2002-episode-1"
+      }
+    ]
   }
 ]
