@@ -36492,5 +36492,51 @@
         "url": "https://www.animegg.org/sazae-san-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 3493,
+    "title": "Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne! Specials",
+    "animegg_url": "https://www.animegg.org/series/onii-chan-dakedo-ai-sae-areba-kankeinai-yo-ne-specials",
+    "mal_url": "https://myanimelist.net/anime/14199",
+    "mal_id": 14199,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/28669",
+        "dub": null,
+        "url": "https://www.animegg.org/onii-chan-dakedo-ai-sae-areba-kankeinai-yo-ne-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/28667",
+        "dub": null,
+        "url": "https://www.animegg.org/onii-chan-dakedo-ai-sae-areba-kankeinai-yo-ne-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/28666",
+        "dub": null,
+        "url": "https://www.animegg.org/onii-chan-dakedo-ai-sae-areba-kankeinai-yo-ne-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/28665",
+        "dub": null,
+        "url": "https://www.animegg.org/onii-chan-dakedo-ai-sae-areba-kankeinai-yo-ne-specials-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/28664",
+        "dub": null,
+        "url": "https://www.animegg.org/onii-chan-dakedo-ai-sae-areba-kankeinai-yo-ne-specials-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/28668",
+        "dub": null,
+        "url": "https://www.animegg.org/onii-chan-dakedo-ai-sae-areba-kankeinai-yo-ne-specials-episode-6"
+      }
+    ]
   }
 ]
