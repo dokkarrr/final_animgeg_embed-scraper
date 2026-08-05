@@ -122929,5 +122929,39 @@
         "url": "https://www.animegg.org/fantastic-voyage-episode-17"
       }
     ]
+  },
+  {
+    "serial_no": 6939,
+    "title": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV) Final Season - Asaki Yume no Akatsuki",
+    "animegg_url": "https://www.animegg.org/series/magia-record-mahou-shoujo-madoka-magica-gaiden-tv-final-season---asaki-yume-no-akatsuki",
+    "mal_url": "https://myanimelist.net/anime/41530",
+    "mal_id": 41530,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/104334",
+        "dub": null,
+        "url": "https://www.animegg.org/magia-record-mahou-shoujo-madoka-magica-gaiden-tv-final-season---asaki-yume-no-akatsuki-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/122160",
+        "dub": null,
+        "url": "https://www.animegg.org/magia-record-mahou-shoujo-madoka-magica-gaiden-tv-final-season---asaki-yume-no-akatsuki-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/122159",
+        "dub": null,
+        "url": "https://www.animegg.org/magia-record-mahou-shoujo-madoka-magica-gaiden-tv-final-season---asaki-yume-no-akatsuki-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/104335",
+        "dub": null,
+        "url": "https://www.animegg.org/magia-record-mahou-shoujo-madoka-magica-gaiden-tv-final-season---asaki-yume-no-akatsuki-episode-4"
+      }
+    ]
   }
 ]
