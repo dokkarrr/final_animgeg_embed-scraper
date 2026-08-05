@@ -129894,5 +129894,51 @@
         "url": "https://www.animegg.org/uchuu-senkan-yamato-2199-dub-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6999,
+    "title": "B: The Beginning Succession",
+    "animegg_url": "https://www.animegg.org/series/b-the-beginning-succession",
+    "mal_url": "https://myanimelist.net/anime/37994",
+    "mal_id": 37994,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/101176",
+        "dub": null,
+        "url": "https://www.animegg.org/b-the-beginning-succession-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/109963",
+        "dub": null,
+        "url": "https://www.animegg.org/b-the-beginning-succession-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/109964",
+        "dub": null,
+        "url": "https://www.animegg.org/b-the-beginning-succession-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/109965",
+        "dub": null,
+        "url": "https://www.animegg.org/b-the-beginning-succession-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/109966",
+        "dub": null,
+        "url": "https://www.animegg.org/b-the-beginning-succession-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/101177",
+        "dub": null,
+        "url": "https://www.animegg.org/b-the-beginning-succession-episode-6"
+      }
+    ]
   }
 ]
