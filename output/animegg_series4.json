@@ -65004,5 +65004,111 @@
         "url": "https://www.animegg.org/ame-iro-cocoa-in-hawaii-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3880,
+    "title": "Mini Dragon",
+    "animegg_url": "https://www.animegg.org/series/mini-dragon",
+    "mal_url": "https://myanimelist.net/anime/48590",
+    "mal_id": 48590,
+    "total_ep": 16,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/101378",
+        "dub": null,
+        "url": "https://www.animegg.org/mini-dragon-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/101427",
+        "dub": null,
+        "url": "https://www.animegg.org/mini-dragon-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/101491",
+        "dub": null,
+        "url": "https://www.animegg.org/mini-dragon-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/101554",
+        "dub": null,
+        "url": "https://www.animegg.org/mini-dragon-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/101617",
+        "dub": null,
+        "url": "https://www.animegg.org/mini-dragon-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/101682",
+        "dub": null,
+        "url": "https://www.animegg.org/mini-dragon-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/101760",
+        "dub": null,
+        "url": "https://www.animegg.org/mini-dragon-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/101819",
+        "dub": null,
+        "url": "https://www.animegg.org/mini-dragon-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/101900",
+        "dub": null,
+        "url": "https://www.animegg.org/mini-dragon-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/101969",
+        "dub": null,
+        "url": "https://www.animegg.org/mini-dragon-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/102039",
+        "dub": null,
+        "url": "https://www.animegg.org/mini-dragon-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/102120",
+        "dub": null,
+        "url": "https://www.animegg.org/mini-dragon-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/102173",
+        "dub": null,
+        "url": "https://www.animegg.org/mini-dragon-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/102251",
+        "dub": null,
+        "url": "https://www.animegg.org/mini-dragon-episode-14"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/102482",
+        "dub": null,
+        "url": "https://www.animegg.org/mini-dragon-episode-15"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/102727",
+        "dub": null,
+        "url": "https://www.animegg.org/mini-dragon-episode-16"
+      }
+    ]
   }
 ]
