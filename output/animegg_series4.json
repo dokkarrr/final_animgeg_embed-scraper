@@ -37042,5 +37042,87 @@
         "url": "https://www.animegg.org/watashitachi-luck-logic-bu-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3500,
+    "title": "Eiyuu Kyoushitsu",
+    "animegg_url": "https://www.animegg.org/series/eiyuu-kyoushitsu",
+    "mal_url": "https://myanimelist.net/anime/49894",
+    "mal_id": 49894,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/130100",
+        "dub": null,
+        "url": "https://www.animegg.org/eiyuu-kyoushitsu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/130270",
+        "dub": null,
+        "url": "https://www.animegg.org/eiyuu-kyoushitsu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/130537",
+        "dub": null,
+        "url": "https://www.animegg.org/eiyuu-kyoushitsu-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/eiyuu-kyoushitsu-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/130809",
+        "dub": null,
+        "url": "https://www.animegg.org/eiyuu-kyoushitsu-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/130905",
+        "dub": null,
+        "url": "https://www.animegg.org/eiyuu-kyoushitsu-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/130986",
+        "dub": null,
+        "url": "https://www.animegg.org/eiyuu-kyoushitsu-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/131072",
+        "dub": null,
+        "url": "https://www.animegg.org/eiyuu-kyoushitsu-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/131170",
+        "dub": null,
+        "url": "https://www.animegg.org/eiyuu-kyoushitsu-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/131275",
+        "dub": null,
+        "url": "https://www.animegg.org/eiyuu-kyoushitsu-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/131368",
+        "dub": null,
+        "url": "https://www.animegg.org/eiyuu-kyoushitsu-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/131474",
+        "dub": null,
+        "url": "https://www.animegg.org/eiyuu-kyoushitsu-episode-12"
+      }
+    ]
   }
 ]
