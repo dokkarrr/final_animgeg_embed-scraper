@@ -120402,5 +120402,21 @@
         "url": "https://www.animegg.org/xianwu-emperor-2021-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4735,
+    "title": "Precure All Stars Movie DX3",
+    "animegg_url": "https://www.animegg.org/series/precure-all-stars-movie-dx3",
+    "mal_url": "https://myanimelist.net/anime/9979",
+    "mal_id": 9979,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/60545",
+        "dub": null,
+        "url": "https://www.animegg.org/precure-all-stars-movie-dx3-episode-1"
+      }
+    ]
   }
 ]
