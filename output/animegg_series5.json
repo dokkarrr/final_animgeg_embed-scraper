@@ -117899,5 +117899,21 @@
         "url": "https://www.animegg.org/parappa-the-rapper-episode-30"
       }
     ]
+  },
+  {
+    "serial_no": 6886,
+    "title": "Amanchu! Special",
+    "animegg_url": "https://www.animegg.org/series/amanchu-special",
+    "mal_url": "https://myanimelist.net/anime/39709",
+    "mal_id": 39709,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/88631",
+        "dub": null,
+        "url": "https://www.animegg.org/amanchu-special-episode-1"
+      }
+    ]
   }
 ]
