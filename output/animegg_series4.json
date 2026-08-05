@@ -1002,5 +1002,87 @@
         "url": "https://www.animegg.org/shirobako-specials-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 3085,
+    "title": "Dive!!",
+    "animegg_url": "https://www.animegg.org/series/dive",
+    "mal_url": "https://myanimelist.net/anime/34543",
+    "mal_id": 34543,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/87503",
+        "dub": null,
+        "url": "https://www.animegg.org/dive-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/87583",
+        "dub": null,
+        "url": "https://www.animegg.org/dive-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/87653",
+        "dub": null,
+        "url": "https://www.animegg.org/dive-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/87724",
+        "dub": null,
+        "url": "https://www.animegg.org/dive-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/87814",
+        "dub": null,
+        "url": "https://www.animegg.org/dive-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/87888",
+        "dub": null,
+        "url": "https://www.animegg.org/dive-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/88019",
+        "dub": null,
+        "url": "https://www.animegg.org/dive-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/88051",
+        "dub": null,
+        "url": "https://www.animegg.org/dive-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/88123",
+        "dub": null,
+        "url": "https://www.animegg.org/dive-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/88209",
+        "dub": null,
+        "url": "https://www.animegg.org/dive-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/88282",
+        "dub": null,
+        "url": "https://www.animegg.org/dive-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/88376",
+        "dub": null,
+        "url": "https://www.animegg.org/dive-episode-12"
+      }
+    ]
   }
 ]
