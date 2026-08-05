@@ -119757,5 +119757,39 @@
         "url": "https://www.animegg.org/hanyou-no-yashahime-sengoku-otogizoushi-dub-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 6902,
+    "title": "Sabaku no Kaizoku! Captain Kuppa",
+    "animegg_url": "https://www.animegg.org/series/sabaku-no-kaizoku-captain-kuppa",
+    "mal_url": "https://myanimelist.net/anime/4940",
+    "mal_id": 4940,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/132845",
+        "dub": null,
+        "url": "https://www.animegg.org/sabaku-no-kaizoku-captain-kuppa-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/133127",
+        "dub": null,
+        "url": "https://www.animegg.org/sabaku-no-kaizoku-captain-kuppa-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/134569",
+        "dub": null,
+        "url": "https://www.animegg.org/sabaku-no-kaizoku-captain-kuppa-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/137020",
+        "dub": null,
+        "url": "https://www.animegg.org/sabaku-no-kaizoku-captain-kuppa-episode-4"
+      }
+    ]
   }
 ]
