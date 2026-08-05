@@ -132574,5 +132574,27 @@
         "url": "https://www.animegg.org/my-awkward-senpai-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4916,
+    "title": "The World God Only Knows: Tenri-hen",
+    "animegg_url": "https://www.animegg.org/series/the-world-god-only-knows-tenri-hen",
+    "mal_url": "https://myanimelist.net/anime/8525",
+    "mal_id": 8525,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/38040",
+        "dub": null,
+        "url": "https://www.animegg.org/the-world-god-only-knows-tenri-hen-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/38039",
+        "dub": null,
+        "url": "https://www.animegg.org/the-world-god-only-knows-tenri-hen-episode-2"
+      }
+    ]
   }
 ]
