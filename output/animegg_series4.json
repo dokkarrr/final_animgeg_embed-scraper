@@ -18714,5 +18714,87 @@
         "url": "https://www.animegg.org/ochibi-san-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 3292,
+    "title": "Kujibiki♥Unbalance(TV)",
+    "animegg_url": "https://www.animegg.org/series/kujibiki-unbalance",
+    "mal_url": "https://myanimelist.net/anime/1591",
+    "mal_id": 1591,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/54951",
+        "dub": "https://www.animegg.org/embed/54952",
+        "url": "https://www.animegg.org/kujibiki-unbalance-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/54953",
+        "dub": "https://www.animegg.org/embed/54954",
+        "url": "https://www.animegg.org/kujibiki-unbalance-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/54955",
+        "dub": "https://www.animegg.org/embed/54956",
+        "url": "https://www.animegg.org/kujibiki-unbalance-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/54957",
+        "dub": "https://www.animegg.org/embed/54958",
+        "url": "https://www.animegg.org/kujibiki-unbalance-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/54959",
+        "dub": "https://www.animegg.org/embed/54960",
+        "url": "https://www.animegg.org/kujibiki-unbalance-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/54961",
+        "dub": "https://www.animegg.org/embed/54962",
+        "url": "https://www.animegg.org/kujibiki-unbalance-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/54963",
+        "dub": "https://www.animegg.org/embed/54964",
+        "url": "https://www.animegg.org/kujibiki-unbalance-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/54965",
+        "dub": "https://www.animegg.org/embed/54966",
+        "url": "https://www.animegg.org/kujibiki-unbalance-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/54967",
+        "dub": "https://www.animegg.org/embed/54968",
+        "url": "https://www.animegg.org/kujibiki-unbalance-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/54969",
+        "dub": "https://www.animegg.org/embed/54970",
+        "url": "https://www.animegg.org/kujibiki-unbalance-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/54971",
+        "dub": "https://www.animegg.org/embed/54972",
+        "url": "https://www.animegg.org/kujibiki-unbalance-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/54973",
+        "dub": "https://www.animegg.org/embed/54974",
+        "url": "https://www.animegg.org/kujibiki-unbalance-episode-12"
+      }
+    ]
   }
 ]
