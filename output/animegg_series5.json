@@ -110246,5 +110246,39 @@
         "url": "https://www.animegg.org/saint-seiya-knights-of-the-zodiac---battle-for-sanctuary-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 6825,
+    "title": "Kujima: Why Sing, When You Can Warble?",
+    "animegg_url": "https://www.animegg.org/series/kujima-why-sing-when-you-can-warble-",
+    "mal_url": "https://myanimelist.net/anime/58832",
+    "mal_id": 58832,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/145576",
+        "dub": null,
+        "url": "https://www.animegg.org/kujima-why-sing-when-you-can-warble--episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/145667",
+        "dub": null,
+        "url": "https://www.animegg.org/kujima-why-sing-when-you-can-warble--episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/145764",
+        "dub": null,
+        "url": "https://www.animegg.org/kujima-why-sing-when-you-can-warble--episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/145879",
+        "dub": null,
+        "url": "https://www.animegg.org/kujima-why-sing-when-you-can-warble--episode-7"
+      }
+    ]
   }
 ]
