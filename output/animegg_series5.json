@@ -15312,5 +15312,21 @@
         "url": "https://www.animegg.org/ronin-warriors-gaiden-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 5874,
+    "title": "Computer Kakumei: Saikyou x Saisoku no Zunou Tanjou",
+    "animegg_url": "https://www.animegg.org/series/computer-kakumei-saikyou-x-saisoku-no-zunou-tanjou",
+    "mal_url": "https://myanimelist.net/anime/14317",
+    "mal_id": 14317,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/6257",
+        "dub": null,
+        "url": "https://www.animegg.org/computer-kakumei-saikyou-x-saisoku-no-zunou-tanjou-episode-1"
+      }
+    ]
   }
 ]
