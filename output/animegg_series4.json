@@ -79158,5 +79158,75 @@
         "url": "https://www.animegg.org/perfect-blue-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4105,
+    "title": "UN-GO: Inga Nikki",
+    "animegg_url": "https://www.animegg.org/series/un-go-inga-nikki",
+    "mal_url": "https://myanimelist.net/anime/12411",
+    "mal_id": 12411,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/64790",
+        "dub": null,
+        "url": "https://www.animegg.org/un-go-inga-nikki-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/64791",
+        "dub": null,
+        "url": "https://www.animegg.org/un-go-inga-nikki-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/64792",
+        "dub": null,
+        "url": "https://www.animegg.org/un-go-inga-nikki-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/64793",
+        "dub": null,
+        "url": "https://www.animegg.org/un-go-inga-nikki-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/64794",
+        "dub": null,
+        "url": "https://www.animegg.org/un-go-inga-nikki-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/64795",
+        "dub": null,
+        "url": "https://www.animegg.org/un-go-inga-nikki-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/64796",
+        "dub": null,
+        "url": "https://www.animegg.org/un-go-inga-nikki-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/64797",
+        "dub": null,
+        "url": "https://www.animegg.org/un-go-inga-nikki-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/64798",
+        "dub": null,
+        "url": "https://www.animegg.org/un-go-inga-nikki-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/64799",
+        "dub": null,
+        "url": "https://www.animegg.org/un-go-inga-nikki-episode-10"
+      }
+    ]
   }
 ]
