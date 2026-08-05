@@ -686,5 +686,21 @@
         "url": "https://www.animegg.org/fresh-precure-movie-omocha-no-kuni-wa-himitsu-ga-ippai-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5619,
+    "title": "Black Jack the Movie",
+    "animegg_url": "https://www.animegg.org/series/black-jack-the-movie",
+    "mal_url": "https://myanimelist.net/anime/1521",
+    "mal_id": 1521,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/48962",
+        "dub": "https://www.animegg.org/embed/48963",
+        "url": "https://www.animegg.org/black-jack-the-movie-episode-1"
+      }
+    ]
   }
 ]
