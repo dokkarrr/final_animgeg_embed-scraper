@@ -122598,5 +122598,21 @@
         "url": "https://www.animegg.org/yama-no-susume-2nd-season-special-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4771,
+    "title": "Today We Start Our Love",
+    "animegg_url": "https://www.animegg.org/series/today-we-start-our-love",
+    "mal_url": "https://myanimelist.net/anime/8560",
+    "mal_id": 8560,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/38360",
+        "dub": null,
+        "url": "https://www.animegg.org/today-we-start-our-love-episode-1"
+      }
+    ]
   }
 ]
