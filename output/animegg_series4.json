@@ -100788,5 +100788,87 @@
         "url": "https://www.animegg.org/code-geass-dakkan-no-roz-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 4411,
+    "title": "Sakugan",
+    "animegg_url": "https://www.animegg.org/series/sakugan",
+    "mal_url": "https://myanimelist.net/anime/38192",
+    "mal_id": 38192,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/102971",
+        "dub": null,
+        "url": "https://www.animegg.org/sakugan-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/103039",
+        "dub": null,
+        "url": "https://www.animegg.org/sakugan-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/103101",
+        "dub": null,
+        "url": "https://www.animegg.org/sakugan-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/103165",
+        "dub": null,
+        "url": "https://www.animegg.org/sakugan-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/103220",
+        "dub": null,
+        "url": "https://www.animegg.org/sakugan-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/103288",
+        "dub": null,
+        "url": "https://www.animegg.org/sakugan-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/103347",
+        "dub": null,
+        "url": "https://www.animegg.org/sakugan-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/103407",
+        "dub": null,
+        "url": "https://www.animegg.org/sakugan-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/103467",
+        "dub": null,
+        "url": "https://www.animegg.org/sakugan-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/103544",
+        "dub": null,
+        "url": "https://www.animegg.org/sakugan-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/103599",
+        "dub": null,
+        "url": "https://www.animegg.org/sakugan-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/103655",
+        "dub": null,
+        "url": "https://www.animegg.org/sakugan-episode-12"
+      }
+    ]
   }
 ]
