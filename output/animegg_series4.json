@@ -129848,5 +129848,21 @@
         "url": "https://www.animegg.org/le-portrait-de-petit-cossette-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 4881,
+    "title": "Zero no Tsukaima: Princess No Rondo OVA",
+    "animegg_url": "https://www.animegg.org/series/zero-no-tsukaima-princess-no-rondo-ova",
+    "mal_url": "https://myanimelist.net/anime/5764",
+    "mal_id": 5764,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/42650",
+        "dub": null,
+        "url": "https://www.animegg.org/zero-no-tsukaima-princess-no-rondo-ova-episode-1"
+      }
+    ]
   }
 ]
