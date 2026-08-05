@@ -6855,5 +6855,27 @@
         "url": "https://www.animegg.org/natsume-yuujinchou-go-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5720,
+    "title": "Galaxy Fraulein Yuna",
+    "animegg_url": "https://www.animegg.org/series/galaxy-fraulein-yuna",
+    "mal_url": "https://myanimelist.net/anime/2473",
+    "mal_id": 2473,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/69954",
+        "dub": null,
+        "url": "https://www.animegg.org/galaxy-fraulein-yuna-episode"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/69955",
+        "dub": null,
+        "url": "https://www.animegg.org/galaxy-fraulein-yuna-episode-2"
+      }
+    ]
   }
 ]
