@@ -25794,5 +25794,21 @@
         "url": "https://www.animegg.org/harukanaru-toki-no-naka-de-kokoro-no-yukue-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6036,
+    "title": "Saint Seiya: The Battle with Eris",
+    "animegg_url": "https://www.animegg.org/series/saint-seiya-the-battle-with-eris",
+    "mal_url": "https://myanimelist.net/anime/1256",
+    "mal_id": 1256,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/60553",
+        "dub": null,
+        "url": "https://www.animegg.org/saint-seiya-the-battle-with-eris-episode-1"
+      }
+    ]
   }
 ]
