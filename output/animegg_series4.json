@@ -62152,5 +62152,87 @@
         "url": "https://www.animegg.org/ranma-dub-episode-161"
       }
     ]
+  },
+  {
+    "serial_no": 3839,
+    "title": "Kumichou Musume to Sewagakari",
+    "animegg_url": "https://www.animegg.org/series/kumichou-musume-to-sewagakari",
+    "mal_url": "https://myanimelist.net/anime/49776",
+    "mal_id": 49776,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/105228",
+        "dub": null,
+        "url": "https://www.animegg.org/kumichou-musume-to-sewagakari-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/105290",
+        "dub": null,
+        "url": "https://www.animegg.org/kumichou-musume-to-sewagakari-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/105348",
+        "dub": null,
+        "url": "https://www.animegg.org/kumichou-musume-to-sewagakari-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/105404",
+        "dub": null,
+        "url": "https://www.animegg.org/kumichou-musume-to-sewagakari-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/105477",
+        "dub": null,
+        "url": "https://www.animegg.org/kumichou-musume-to-sewagakari-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/105540",
+        "dub": null,
+        "url": "https://www.animegg.org/kumichou-musume-to-sewagakari-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/105606",
+        "dub": null,
+        "url": "https://www.animegg.org/kumichou-musume-to-sewagakari-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/105668",
+        "dub": null,
+        "url": "https://www.animegg.org/kumichou-musume-to-sewagakari-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/105732",
+        "dub": null,
+        "url": "https://www.animegg.org/kumichou-musume-to-sewagakari-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/105793",
+        "dub": null,
+        "url": "https://www.animegg.org/kumichou-musume-to-sewagakari-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/105862",
+        "dub": null,
+        "url": "https://www.animegg.org/kumichou-musume-to-sewagakari-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/105925",
+        "dub": null,
+        "url": "https://www.animegg.org/kumichou-musume-to-sewagakari-episode-12"
+      }
+    ]
   }
 ]
