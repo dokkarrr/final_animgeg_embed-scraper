@@ -44270,5 +44270,21 @@
         "url": "https://www.animegg.org/yandere-dark-elf-she-chased-me-all-the-way-from-another-world-season-1-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3597,
+    "title": "Grisaia no Meikyuu",
+    "animegg_url": "https://www.animegg.org/series/grisaia-no-meikyuu",
+    "mal_url": "https://myanimelist.net/anime/29093",
+    "mal_id": 29093,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/76184",
+        "dub": "https://www.animegg.org/embed/76186",
+        "url": "https://www.animegg.org/grisaia-no-meikyuu-episode-1"
+      }
+    ]
   }
 ]
