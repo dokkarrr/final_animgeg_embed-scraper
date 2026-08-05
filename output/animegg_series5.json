@@ -53345,5 +53345,21 @@
         "url": "https://www.animegg.org/soutai-sekai-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 6338,
+    "title": "Ginga Kikoutai Majestic Prince Movie: Kakusei no Idenshi",
+    "animegg_url": "https://www.animegg.org/series/ginga-kikoutai-majestic-prince-movie-kakusei-no-idenshi",
+    "mal_url": "https://myanimelist.net/anime/33025",
+    "mal_id": 33025,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/86352",
+        "dub": null,
+        "url": "https://www.animegg.org/ginga-kikoutai-majestic-prince-movie-kakusei-no-idenshi-episode-1"
+      }
+    ]
   }
 ]
