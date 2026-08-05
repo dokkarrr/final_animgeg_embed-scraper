@@ -35170,5 +35170,21 @@
         "url": "https://www.animegg.org/ushinawareta-mirai-wo-motomete-ushinawareta-natsuyasumi-wo-motomete-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6175,
+    "title": "Garo Movie: Divine Flame",
+    "animegg_url": "https://www.animegg.org/series/garo-movie-divine-flame",
+    "mal_url": "https://myanimelist.net/anime/28539",
+    "mal_id": 28539,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/85253",
+        "dub": null,
+        "url": "https://www.animegg.org/garo-movie-divine-flame-episode-1"
+      }
+    ]
   }
 ]
