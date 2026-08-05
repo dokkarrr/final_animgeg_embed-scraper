@@ -112064,5 +112064,87 @@
         "url": "https://www.animegg.org/gundam-seed-msv-astray-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 4611,
+    "title": "Shuumatsu Train Doko e Iku?",
+    "animegg_url": "https://www.animegg.org/series/shuumatsu-train-doko-e-iku-",
+    "mal_url": "https://myanimelist.net/anime/53356",
+    "mal_id": 53356,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/133516",
+        "dub": null,
+        "url": "https://www.animegg.org/shuumatsu-train-doko-e-iku--episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/133580",
+        "dub": null,
+        "url": "https://www.animegg.org/shuumatsu-train-doko-e-iku--episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/133658",
+        "dub": null,
+        "url": "https://www.animegg.org/shuumatsu-train-doko-e-iku--episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/133745",
+        "dub": null,
+        "url": "https://www.animegg.org/shuumatsu-train-doko-e-iku--episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/shuumatsu-train-doko-e-iku--episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/134000",
+        "dub": null,
+        "url": "https://www.animegg.org/shuumatsu-train-doko-e-iku--episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/134119",
+        "dub": null,
+        "url": "https://www.animegg.org/shuumatsu-train-doko-e-iku--episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/shuumatsu-train-doko-e-iku--episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/134465",
+        "dub": null,
+        "url": "https://www.animegg.org/shuumatsu-train-doko-e-iku--episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/134651",
+        "dub": null,
+        "url": "https://www.animegg.org/shuumatsu-train-doko-e-iku--episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/134796",
+        "dub": null,
+        "url": "https://www.animegg.org/shuumatsu-train-doko-e-iku--episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/135115",
+        "dub": null,
+        "url": "https://www.animegg.org/shuumatsu-train-doko-e-iku--episode-12"
+      }
+    ]
   }
 ]
