@@ -77906,5 +77906,51 @@
         "url": "https://www.animegg.org/accel-world-infinite-burst-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4083,
+    "title": "Kamisama Dolls Specials",
+    "animegg_url": "https://www.animegg.org/series/kamisama-dolls-specials",
+    "mal_url": "https://myanimelist.net/anime/11715",
+    "mal_id": 11715,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/19401",
+        "dub": null,
+        "url": "https://www.animegg.org/kamisama-dolls-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/19403",
+        "dub": null,
+        "url": "https://www.animegg.org/kamisama-dolls-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/19402",
+        "dub": null,
+        "url": "https://www.animegg.org/kamisama-dolls-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/19405",
+        "dub": null,
+        "url": "https://www.animegg.org/kamisama-dolls-specials-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/19400",
+        "dub": null,
+        "url": "https://www.animegg.org/kamisama-dolls-specials-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/19404",
+        "dub": null,
+        "url": "https://www.animegg.org/kamisama-dolls-specials-episode-6"
+      }
+    ]
   }
 ]
