@@ -105356,5 +105356,21 @@
         "url": "https://www.animegg.org/tate-no-yuusha-no-nariagari-season-4-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6778,
+    "title": "Digimon Adventure: Last Evolution Kizuna",
+    "animegg_url": "https://www.animegg.org/series/digimon-adventure-last-evolution-kizuna",
+    "mal_url": "https://myanimelist.net/anime/38088",
+    "mal_id": 38088,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/99481",
+        "dub": null,
+        "url": "https://www.animegg.org/digimon-adventure-last-evolution-kizuna-episode-1"
+      }
+    ]
   }
 ]
