@@ -105572,5 +105572,21 @@
         "url": "https://www.animegg.org/love-live-superstar-3rd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4506,
+    "title": "Ajin Part 1: Shoudou",
+    "animegg_url": "https://www.animegg.org/series/ajin-part-1-shoudou",
+    "mal_url": "https://myanimelist.net/anime/30868",
+    "mal_id": 30868,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/80667",
+        "dub": "https://www.animegg.org/embed/80743",
+        "url": "https://www.animegg.org/ajin-part-1-shoudou-episode-1"
+      }
+    ]
   }
 ]
