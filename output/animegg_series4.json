@@ -128970,5 +128970,39 @@
         "url": "https://www.animegg.org/cardfight-vanguard-divinez-season-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4861,
+    "title": "Tamayura",
+    "animegg_url": "https://www.animegg.org/series/tamayura",
+    "mal_url": "https://myanimelist.net/anime/9055",
+    "mal_id": 9055,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/37128",
+        "dub": null,
+        "url": "https://www.animegg.org/tamayura-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/37127",
+        "dub": null,
+        "url": "https://www.animegg.org/tamayura-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/37126",
+        "dub": null,
+        "url": "https://www.animegg.org/tamayura-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/37125",
+        "dub": null,
+        "url": "https://www.animegg.org/tamayura-episode-4"
+      }
+    ]
   }
 ]
