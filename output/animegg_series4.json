@@ -133088,5 +133088,45 @@
         "url": "https://www.animegg.org/chuunibyou-demo-koi-ga-shitai-movie-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4929,
+    "title": "There She Is!!",
+    "animegg_url": "https://www.animegg.org/series/there-she-is",
+    "mal_url": "https://myanimelist.net/anime/160",
+    "mal_id": 160,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/63893",
+        "dub": null,
+        "url": "https://www.animegg.org/there-she-is-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/63894",
+        "dub": null,
+        "url": "https://www.animegg.org/there-she-is-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/63895",
+        "dub": null,
+        "url": "https://www.animegg.org/there-she-is-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/63896",
+        "dub": null,
+        "url": "https://www.animegg.org/there-she-is-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/63897",
+        "dub": null,
+        "url": "https://www.animegg.org/there-she-is-episode-5"
+      }
+    ]
   }
 ]
