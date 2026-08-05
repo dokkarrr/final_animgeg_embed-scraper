@@ -125324,5 +125324,45 @@
         "url": "https://www.animegg.org/suntory-minami-alps-no-tennen-mizu-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 4806,
+    "title": "Wonder Momo",
+    "animegg_url": "https://www.animegg.org/series/wonder-momo",
+    "mal_url": "https://myanimelist.net/anime/22377",
+    "mal_id": 22377,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/63658",
+        "dub": null,
+        "url": "https://www.animegg.org/wonder-momo-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/63659",
+        "dub": null,
+        "url": "https://www.animegg.org/wonder-momo-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/63660",
+        "dub": null,
+        "url": "https://www.animegg.org/wonder-momo-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/63661",
+        "dub": null,
+        "url": "https://www.animegg.org/wonder-momo-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/63662",
+        "dub": null,
+        "url": "https://www.animegg.org/wonder-momo-episode-5"
+      }
+    ]
   }
 ]
