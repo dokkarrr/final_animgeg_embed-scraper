@@ -83752,5 +83752,21 @@
         "url": "https://www.animegg.org/kouya-no-kotobuki-hikoutai-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4163,
+    "title": "Dragon Ball Z Movie 01: The Dead Zone",
+    "animegg_url": "https://www.animegg.org/series/dragon-ball-z-movie-01-the-dead-zone",
+    "mal_url": "https://myanimelist.net/anime/894",
+    "mal_id": 894,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/49710",
+        "dub": null,
+        "url": "https://www.animegg.org/dragon-ball-z-movie-01-the-dead-zone-episode-1-1"
+      }
+    ]
   }
 ]
