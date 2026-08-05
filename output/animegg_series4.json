@@ -576,5 +576,21 @@
         "url": "https://www.animegg.org/cutie-honey-universe-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3079,
+    "title": "Haikyuu!!: Jump Festa 2014 Special",
+    "animegg_url": "https://www.animegg.org/series/haikyuu-jump-festa-2014-special",
+    "mal_url": "https://myanimelist.net/anime/25303",
+    "mal_id": 25303,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2014,
+        "sub": "https://www.animegg.org/embed/75460",
+        "dub": "https://www.animegg.org/embed/75565",
+        "url": "https://www.animegg.org/haikyuu-jump-festa-2014-special-episode-episode-1"
+      }
+    ]
   }
 ]
