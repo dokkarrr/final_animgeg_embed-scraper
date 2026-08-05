@@ -57912,5 +57912,87 @@
         "url": "https://www.animegg.org/kara-no-kyoukai-1-fukan-fuukei-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3781,
+    "title": "Senyoku no Sigrdrifa",
+    "animegg_url": "https://www.animegg.org/series/senyoku-no-sigrdrifa",
+    "mal_url": "https://myanimelist.net/anime/41372",
+    "mal_id": 41372,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/99522",
+        "dub": null,
+        "url": "https://www.animegg.org/senyoku-no-sigrdrifa-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/99574",
+        "dub": null,
+        "url": "https://www.animegg.org/senyoku-no-sigrdrifa-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/99646",
+        "dub": null,
+        "url": "https://www.animegg.org/senyoku-no-sigrdrifa-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/99737",
+        "dub": null,
+        "url": "https://www.animegg.org/senyoku-no-sigrdrifa-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/99801",
+        "dub": null,
+        "url": "https://www.animegg.org/senyoku-no-sigrdrifa-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/99879",
+        "dub": null,
+        "url": "https://www.animegg.org/senyoku-no-sigrdrifa-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/99944",
+        "dub": null,
+        "url": "https://www.animegg.org/senyoku-no-sigrdrifa-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/100010",
+        "dub": null,
+        "url": "https://www.animegg.org/senyoku-no-sigrdrifa-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/100143",
+        "dub": null,
+        "url": "https://www.animegg.org/senyoku-no-sigrdrifa-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/100231",
+        "dub": null,
+        "url": "https://www.animegg.org/senyoku-no-sigrdrifa-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/100296",
+        "dub": null,
+        "url": "https://www.animegg.org/senyoku-no-sigrdrifa-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/100353",
+        "dub": null,
+        "url": "https://www.animegg.org/senyoku-no-sigrdrifa-episode-12"
+      }
+    ]
   }
 ]
