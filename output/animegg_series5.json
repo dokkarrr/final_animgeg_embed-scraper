@@ -86484,5 +86484,21 @@
         "url": "https://www.animegg.org/shura-sword-sovereign-episode-155"
       }
     ]
+  },
+  {
+    "serial_no": 6639,
+    "title": "City Hunter Movie: Shinjuku Private Eyes",
+    "animegg_url": "https://www.animegg.org/series/city-hunter-movie-shinjuku-private-eyes",
+    "mal_url": "https://myanimelist.net/anime/37516",
+    "mal_id": 37516,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/96982",
+        "dub": null,
+        "url": "https://www.animegg.org/city-hunter-movie-shinjuku-private-eyes-episode-1"
+      }
+    ]
   }
 ]
