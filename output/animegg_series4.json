@@ -135997,5 +135997,21 @@
         "url": "https://www.animegg.org/pokemon-arceus-and-the-jewel-of-life-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4968,
+    "title": "Call Me Tonight",
+    "animegg_url": "https://www.animegg.org/series/call-me-tonight",
+    "mal_url": "https://myanimelist.net/anime/2147",
+    "mal_id": 2147,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/48586",
+        "dub": null,
+        "url": "https://www.animegg.org/call-me-tonight-episode-1"
+      }
+    ]
   }
 ]
