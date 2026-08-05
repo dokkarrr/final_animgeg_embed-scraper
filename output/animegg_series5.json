@@ -2140,5 +2140,21 @@
         "url": "https://www.animegg.org/jiu-tian-xuan-di-jue-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5639,
+    "title": "Children of Ether",
+    "animegg_url": "https://www.animegg.org/series/children-of-ether",
+    "mal_url": "https://myanimelist.net/anime/37981",
+    "mal_id": 37981,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/87726",
+        "dub": null,
+        "url": "https://www.animegg.org/children-of-ether-episode-1"
+      }
+    ]
   }
 ]
