@@ -88710,5 +88710,39 @@
         "url": "https://www.animegg.org/hibike-euphonium-3-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4246,
+    "title": "Blue Submarine No. 6",
+    "animegg_url": "https://www.animegg.org/series/blue-submarine-no-6",
+    "mal_url": "https://myanimelist.net/anime/1051",
+    "mal_id": 1051,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/49065",
+        "dub": null,
+        "url": "https://www.animegg.org/blue-submarine-no-6-episode-4"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/49064",
+        "dub": null,
+        "url": "https://www.animegg.org/blue-submarine-no-6-episode-3"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/49063",
+        "dub": null,
+        "url": "https://www.animegg.org/blue-submarine-no-6-episode-2"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/49062",
+        "dub": null,
+        "url": "https://www.animegg.org/blue-submarine-no-6-episode-1"
+      }
+    ]
   }
 ]
