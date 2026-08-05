@@ -119548,5 +119548,33 @@
         "url": "https://www.animegg.org/katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4733,
+    "title": "Tales of Symphonia: Sekai Tougou Hen",
+    "animegg_url": "https://www.animegg.org/series/tales-of-symphonia-sekai-tougou-hen",
+    "mal_url": "https://myanimelist.net/anime/1731",
+    "mal_id": 1731,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/37070",
+        "dub": null,
+        "url": "https://www.animegg.org/tales-of-symphonia-sekai-tougou-hen-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/37069",
+        "dub": null,
+        "url": "https://www.animegg.org/tales-of-symphonia-sekai-tougou-hen-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/37068",
+        "dub": null,
+        "url": "https://www.animegg.org/tales-of-symphonia-sekai-tougou-hen-episode-3"
+      }
+    ]
   }
 ]
