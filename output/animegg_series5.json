@@ -13077,5 +13077,21 @@
         "url": "https://www.animegg.org/tengen-toppa-gurren-lagann-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5813,
+    "title": "Ebiten: Kouritsu Ebisugawa Koukou Tenmonbu OVA",
+    "animegg_url": "https://www.animegg.org/series/ebiten-kouritsu-ebisugawa-koukou-tenmonbu-ova",
+    "mal_url": "https://myanimelist.net/anime/14889",
+    "mal_id": 14889,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/9732",
+        "dub": null,
+        "url": "https://www.animegg.org/ebiten-kouritsu-ebisugawa-koukou-tenmonbu-ova-episode-1"
+      }
+    ]
   }
 ]
