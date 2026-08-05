@@ -119807,5 +119807,21 @@
         "url": "https://www.animegg.org/tonikaku-kawaii-sns-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6904,
+    "title": "Steel Ball Run: JoJo's Bizarre Adventure",
+    "animegg_url": "https://www.animegg.org/series/steel-ball-run-jojo-s-bizarre-adventure",
+    "mal_url": "https://myanimelist.net/anime/61469",
+    "mal_id": 61469,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/145150",
+        "dub": "https://www.animegg.org/embed/145153",
+        "url": "https://www.animegg.org/steel-ball-run-jojo-s-bizarre-adventure-episode-1"
+      }
+    ]
   }
 ]
