@@ -102892,5 +102892,21 @@
         "url": "https://www.animegg.org/ryman-s-club-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4448,
+    "title": "Bokura wa Minna Kawaisou: Hajimete no",
+    "animegg_url": "https://www.animegg.org/series/bokura-wa-minna-kawaisou-special",
+    "mal_url": "https://myanimelist.net/anime/34403",
+    "mal_id": 34403,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/74710",
+        "dub": null,
+        "url": "https://www.animegg.org/bokura-wa-minna-kawaisou-special-episode-1"
+      }
+    ]
   }
 ]
