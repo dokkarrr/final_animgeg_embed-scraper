@@ -85198,5 +85198,21 @@
         "url": "https://www.animegg.org/devils-line-anytime-anywhere-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6625,
+    "title": "Under the Dog",
+    "animegg_url": "https://www.animegg.org/series/under-the-dog",
+    "mal_url": "https://myanimelist.net/anime/27387",
+    "mal_id": 27387,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/115983",
+        "dub": null,
+        "url": "https://www.animegg.org/under-the-dog-episode-1"
+      }
+    ]
   }
 ]
