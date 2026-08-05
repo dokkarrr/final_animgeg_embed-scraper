@@ -88258,5 +88258,21 @@
         "url": "https://www.animegg.org/one-punch-man-season-3-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4238,
+    "title": "Kuroko no Basket: Oshaberi Shiyokka",
+    "animegg_url": "https://www.animegg.org/series/kuroko-no-basket-oshaberi-shiyokka",
+    "mal_url": "https://myanimelist.net/anime/17259",
+    "mal_id": 17259,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/20906",
+        "dub": null,
+        "url": "https://www.animegg.org/kuroko-no-basket-oshaberi-shiyokka-episode-1"
+      }
+    ]
   }
 ]
