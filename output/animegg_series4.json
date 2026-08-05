@@ -26980,5 +26980,93 @@
         "url": "https://www.animegg.org/itsudatte-bokura-no-koi-wa-10-cm-datta-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3389,
+    "title": "Double Decker! Doug & Kirill",
+    "animegg_url": "https://www.animegg.org/series/double-decker-doug-kirill",
+    "mal_url": "https://myanimelist.net/anime/37496",
+    "mal_id": 37496,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/92734",
+        "dub": null,
+        "url": "https://www.animegg.org/double-decker-doug-kirill-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/93043",
+        "dub": null,
+        "url": "https://www.animegg.org/double-decker-doug-kirill-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/93116",
+        "dub": null,
+        "url": "https://www.animegg.org/double-decker-doug-kirill-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/93194",
+        "dub": null,
+        "url": "https://www.animegg.org/double-decker-doug-kirill-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/93270",
+        "dub": null,
+        "url": "https://www.animegg.org/double-decker-doug-kirill-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/93359",
+        "dub": null,
+        "url": "https://www.animegg.org/double-decker-doug-kirill-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/93436",
+        "dub": null,
+        "url": "https://www.animegg.org/double-decker-doug-kirill-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/93514",
+        "dub": null,
+        "url": "https://www.animegg.org/double-decker-doug-kirill-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/93593",
+        "dub": null,
+        "url": "https://www.animegg.org/double-decker-doug-kirill-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/93663",
+        "dub": null,
+        "url": "https://www.animegg.org/double-decker-doug-kirill-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/93811",
+        "dub": null,
+        "url": "https://www.animegg.org/double-decker-doug-kirill-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/93965",
+        "dub": null,
+        "url": "https://www.animegg.org/double-decker-doug-kirill-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/94049",
+        "dub": null,
+        "url": "https://www.animegg.org/double-decker-doug-kirill-episode-13"
+      }
+    ]
   }
 ]
