@@ -50926,5 +50926,21 @@
         "url": "https://www.animegg.org/dekiru-neko-wa-kyou-mo-yuuutsu-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3689,
+    "title": "Rakuen Tsuihou: Expelled From Paradise",
+    "animegg_url": "https://www.animegg.org/series/rakuen-tsuihou-expelled-from-paradise",
+    "mal_url": "https://myanimelist.net/anime/13391",
+    "mal_id": 13391,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66946",
+        "dub": "https://www.animegg.org/embed/67689",
+        "url": "https://www.animegg.org/rakuen-tsuihou-expelled-from-paradise-episode-1"
+      }
+    ]
   }
 ]
