@@ -78664,5 +78664,87 @@
         "url": "https://www.animegg.org/tenchi-muyou-ryo-ohki-3-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4097,
+    "title": "Sentai Daishikkaku",
+    "animegg_url": "https://www.animegg.org/series/sentai-daishikkaku",
+    "mal_url": "https://myanimelist.net/anime/53770",
+    "mal_id": 53770,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/133558",
+        "dub": null,
+        "url": "https://www.animegg.org/sentai-daishikkaku-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/133647",
+        "dub": null,
+        "url": "https://www.animegg.org/sentai-daishikkaku-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/133737",
+        "dub": null,
+        "url": "https://www.animegg.org/sentai-daishikkaku-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/sentai-daishikkaku-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/sentai-daishikkaku-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/134252",
+        "dub": null,
+        "url": "https://www.animegg.org/sentai-daishikkaku-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/134452",
+        "dub": null,
+        "url": "https://www.animegg.org/sentai-daishikkaku-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/134621",
+        "dub": null,
+        "url": "https://www.animegg.org/sentai-daishikkaku-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/134783",
+        "dub": null,
+        "url": "https://www.animegg.org/sentai-daishikkaku-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/134947",
+        "dub": null,
+        "url": "https://www.animegg.org/sentai-daishikkaku-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/135101",
+        "dub": null,
+        "url": "https://www.animegg.org/sentai-daishikkaku-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/135234",
+        "dub": "https://www.animegg.org/embed/136326",
+        "url": "https://www.animegg.org/sentai-daishikkaku-episode-12"
+      }
+    ]
   }
 ]
