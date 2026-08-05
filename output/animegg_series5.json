@@ -83224,5 +83224,21 @@
         "url": "https://www.animegg.org/umi-monogatari-anata-ga-ite-kureta-koto-special-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6607,
+    "title": "Tetsujin 28: Morning Moon of Mid-day",
+    "animegg_url": "https://www.animegg.org/series/tetsujin-28-morning-moon-of-mid-day",
+    "mal_url": "https://myanimelist.net/anime/10005",
+    "mal_id": 10005,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 28,
+        "sub": "https://www.animegg.org/embed/61186",
+        "dub": null,
+        "url": "https://www.animegg.org/tetsujin-28-morning-moon-of-mid-day-episode-1"
+      }
+    ]
   }
 ]
