@@ -25374,5 +25374,81 @@
         "url": "https://www.animegg.org/no-money-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 3367,
+    "title": "Marriage Toxin",
+    "animegg_url": "https://www.animegg.org/series/marriage-toxin",
+    "mal_url": "https://myanimelist.net/anime/62601",
+    "mal_id": 62601,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/145439",
+        "dub": "https://www.animegg.org/embed/145539",
+        "url": "https://www.animegg.org/marriage-toxin-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/145643",
+        "dub": null,
+        "url": "https://www.animegg.org/marriage-toxin-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/145533",
+        "dub": "https://www.animegg.org/embed/145729",
+        "url": "https://www.animegg.org/marriage-toxin-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/145645",
+        "dub": "https://www.animegg.org/embed/145842",
+        "url": "https://www.animegg.org/marriage-toxin-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/145720",
+        "dub": "https://www.animegg.org/embed/145954",
+        "url": "https://www.animegg.org/marriage-toxin-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/145839",
+        "dub": "https://www.animegg.org/embed/146001",
+        "url": "https://www.animegg.org/marriage-toxin-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/145946",
+        "dub": "https://www.animegg.org/embed/146068",
+        "url": "https://www.animegg.org/marriage-toxin-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/145983",
+        "dub": null,
+        "url": "https://www.animegg.org/marriage-toxin-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/146067",
+        "dub": null,
+        "url": "https://www.animegg.org/marriage-toxin-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/146108",
+        "dub": "https://www.animegg.org/embed/146288",
+        "url": "https://www.animegg.org/marriage-toxin-episode-11"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/146267",
+        "dub": "https://www.animegg.org/embed/146446",
+        "url": "https://www.animegg.org/marriage-toxin-episode-13"
+      }
+    ]
   }
 ]
