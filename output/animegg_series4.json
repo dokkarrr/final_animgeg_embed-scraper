@@ -130774,5 +130774,75 @@
         "url": "https://www.animegg.org/black-rock-shooter-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4892,
+    "title": "16bit Sensation: Another Layer",
+    "animegg_url": "https://www.animegg.org/series/16bit-sensation",
+    "mal_url": "https://myanimelist.net/anime/54041",
+    "mal_id": 54041,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/132574",
+        "dub": null,
+        "url": "https://www.animegg.org/16bit-sensation-episode-13"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/132533",
+        "dub": null,
+        "url": "https://www.animegg.org/16bit-sensation-episode-12"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/132471",
+        "dub": null,
+        "url": "https://www.animegg.org/16bit-sensation-episode-8"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/132234",
+        "dub": null,
+        "url": "https://www.animegg.org/16bit-sensation-episode-7"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/132140",
+        "dub": null,
+        "url": "https://www.animegg.org/16bit-sensation-episode-6"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/132061",
+        "dub": null,
+        "url": "https://www.animegg.org/16bit-sensation-episode-5"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/131949",
+        "dub": null,
+        "url": "https://www.animegg.org/16bit-sensation-episode-4"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/131836",
+        "dub": null,
+        "url": "https://www.animegg.org/16bit-sensation-episode-3"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/131716",
+        "dub": null,
+        "url": "https://www.animegg.org/16bit-sensation-episode-2"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/131613",
+        "dub": null,
+        "url": "https://www.animegg.org/16bit-sensation-episode-1"
+      }
+    ]
   }
 ]
