@@ -85102,5 +85102,51 @@
         "url": "https://www.animegg.org/the-villainess-is-adored-by-the-prince-of-the-neighbor-kingdom-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4184,
+    "title": "Digital Juice",
+    "animegg_url": "https://www.animegg.org/series/digital-juice",
+    "mal_url": "https://myanimelist.net/anime/1105",
+    "mal_id": 1105,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/50446",
+        "dub": null,
+        "url": "https://www.animegg.org/digital-juice-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/50447",
+        "dub": null,
+        "url": "https://www.animegg.org/digital-juice-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/50448",
+        "dub": null,
+        "url": "https://www.animegg.org/digital-juice-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/50449",
+        "dub": null,
+        "url": "https://www.animegg.org/digital-juice-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/50450",
+        "dub": null,
+        "url": "https://www.animegg.org/digital-juice-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/50451",
+        "dub": null,
+        "url": "https://www.animegg.org/digital-juice-episode-6"
+      }
+    ]
   }
 ]
