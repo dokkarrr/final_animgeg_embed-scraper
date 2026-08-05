@@ -132464,5 +132464,39 @@
         "url": "https://www.animegg.org/mono-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4914,
+    "title": "Kamichu! Specials",
+    "animegg_url": "https://www.animegg.org/series/kamichu-specials",
+    "mal_url": "https://myanimelist.net/anime/3449",
+    "mal_id": 3449,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/19330",
+        "dub": null,
+        "url": "https://www.animegg.org/kamichu-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/19327",
+        "dub": null,
+        "url": "https://www.animegg.org/kamichu-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/19328",
+        "dub": null,
+        "url": "https://www.animegg.org/kamichu-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/19329",
+        "dub": null,
+        "url": "https://www.animegg.org/kamichu-specials-episode-4"
+      }
+    ]
   }
 ]
