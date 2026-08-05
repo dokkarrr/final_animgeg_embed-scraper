@@ -118108,5 +118108,39 @@
         "url": "https://www.animegg.org/selection-project-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 4712,
+    "title": "Tales of Phantasia",
+    "animegg_url": "https://www.animegg.org/series/tales-of-phantasia",
+    "mal_url": "https://myanimelist.net/anime/391",
+    "mal_id": 391,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/37063",
+        "dub": "https://www.animegg.org/embed/117308",
+        "url": "https://www.animegg.org/tales-of-phantasia-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/37061",
+        "dub": "https://www.animegg.org/embed/117307",
+        "url": "https://www.animegg.org/tales-of-phantasia-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/37060",
+        "dub": "https://www.animegg.org/embed/117306",
+        "url": "https://www.animegg.org/tales-of-phantasia-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/37062",
+        "dub": "https://www.animegg.org/embed/117305",
+        "url": "https://www.animegg.org/tales-of-phantasia-episode-4"
+      }
+    ]
   }
 ]
