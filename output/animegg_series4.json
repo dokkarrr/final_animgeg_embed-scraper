@@ -137523,5 +137523,87 @@
         "url": "https://www.animegg.org/9-ruler-s-crown-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4991,
+    "title": "Kusoge tte Iuna! Animation",
+    "animegg_url": "https://www.animegg.org/series/kusoge-tte-iuna-animation",
+    "mal_url": "https://myanimelist.net/anime/42946",
+    "mal_id": 42946,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/99831",
+        "dub": null,
+        "url": "https://www.animegg.org/kusoge-tte-iuna-animation-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/99836",
+        "dub": null,
+        "url": "https://www.animegg.org/kusoge-tte-iuna-animation-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/99905",
+        "dub": null,
+        "url": "https://www.animegg.org/kusoge-tte-iuna-animation-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/99969",
+        "dub": null,
+        "url": "https://www.animegg.org/kusoge-tte-iuna-animation-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/100102",
+        "dub": null,
+        "url": "https://www.animegg.org/kusoge-tte-iuna-animation-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/100103",
+        "dub": null,
+        "url": "https://www.animegg.org/kusoge-tte-iuna-animation-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/100169",
+        "dub": null,
+        "url": "https://www.animegg.org/kusoge-tte-iuna-animation-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/100261",
+        "dub": null,
+        "url": "https://www.animegg.org/kusoge-tte-iuna-animation-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/100323",
+        "dub": null,
+        "url": "https://www.animegg.org/kusoge-tte-iuna-animation-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/100375",
+        "dub": null,
+        "url": "https://www.animegg.org/kusoge-tte-iuna-animation-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/100410",
+        "dub": null,
+        "url": "https://www.animegg.org/kusoge-tte-iuna-animation-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/100477",
+        "dub": null,
+        "url": "https://www.animegg.org/kusoge-tte-iuna-animation-episode-12"
+      }
+    ]
   }
 ]
