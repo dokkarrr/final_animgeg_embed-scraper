@@ -76740,5 +76740,51 @@
         "url": "https://www.animegg.org/kunoichi-tsubaki-no-mune-no-uchi-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 4063,
+    "title": "Dororon Enma-kun",
+    "animegg_url": "https://www.animegg.org/series/dororon-enma-kun",
+    "mal_url": "https://myanimelist.net/anime/1337",
+    "mal_id": 1337,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/49801",
+        "dub": null,
+        "url": "https://www.animegg.org/dororon-enma-kun-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/49802",
+        "dub": null,
+        "url": "https://www.animegg.org/dororon-enma-kun-episode-2"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/49803",
+        "dub": null,
+        "url": "https://www.animegg.org/dororon-enma-kun-episode-5"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/49804",
+        "dub": null,
+        "url": "https://www.animegg.org/dororon-enma-kun-episode-10"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/49805",
+        "dub": null,
+        "url": "https://www.animegg.org/dororon-enma-kun-episode-15"
+      },
+      {
+        "ep": 18,
+        "sub": "https://www.animegg.org/embed/49806",
+        "dub": null,
+        "url": "https://www.animegg.org/dororon-enma-kun-episode-18"
+      }
+    ]
   }
 ]
