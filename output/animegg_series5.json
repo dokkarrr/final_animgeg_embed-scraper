@@ -8345,5 +8345,21 @@
         "url": "https://www.animegg.org/california-crisis-gun-salvo-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5752,
+    "title": "Ace wo Nerae! (1979)",
+    "animegg_url": "https://www.animegg.org/series/ace-wo-nerae-1979",
+    "mal_url": "https://myanimelist.net/anime/313",
+    "mal_id": 313,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1979,
+        "sub": "https://www.animegg.org/embed/65431",
+        "dub": null,
+        "url": "https://www.animegg.org/ace-wo-nerae-1979-episode-1"
+      }
+    ]
   }
 ]
