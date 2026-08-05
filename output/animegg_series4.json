@@ -18012,5 +18012,87 @@
         "url": "https://www.animegg.org/eizouken-ni-wa-te-wo-dasu-na-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3283,
+    "title": "Otona no Bouguya-san",
+    "animegg_url": "https://www.animegg.org/series/otona-no-bouguya-san",
+    "mal_url": "https://myanimelist.net/anime/38395",
+    "mal_id": 38395,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/93136",
+        "dub": null,
+        "url": "https://www.animegg.org/otona-no-bouguya-san-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/93285",
+        "dub": null,
+        "url": "https://www.animegg.org/otona-no-bouguya-san-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/93286",
+        "dub": null,
+        "url": "https://www.animegg.org/otona-no-bouguya-san-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/93534",
+        "dub": null,
+        "url": "https://www.animegg.org/otona-no-bouguya-san-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/93535",
+        "dub": null,
+        "url": "https://www.animegg.org/otona-no-bouguya-san-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/93536",
+        "dub": null,
+        "url": "https://www.animegg.org/otona-no-bouguya-san-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/93684",
+        "dub": null,
+        "url": "https://www.animegg.org/otona-no-bouguya-san-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/93685",
+        "dub": null,
+        "url": "https://www.animegg.org/otona-no-bouguya-san-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/93748",
+        "dub": null,
+        "url": "https://www.animegg.org/otona-no-bouguya-san-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/93838",
+        "dub": null,
+        "url": "https://www.animegg.org/otona-no-bouguya-san-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/94001",
+        "dub": null,
+        "url": "https://www.animegg.org/otona-no-bouguya-san-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/94066",
+        "dub": null,
+        "url": "https://www.animegg.org/otona-no-bouguya-san-episode-12"
+      }
+    ]
   }
 ]
