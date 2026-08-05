@@ -58772,5 +58772,21 @@
         "url": "https://www.animegg.org/urusei-yatsura-ova-episode-11"
       }
     ]
+  },
+  {
+    "serial_no": 3795,
+    "title": "Naruto: Finally a Clash!! Jounin vs. Genin!",
+    "animegg_url": "https://www.animegg.org/series/naruto-finally-a-clash-jounin-vs-genin",
+    "mal_url": "https://myanimelist.net/anime/1074",
+    "mal_id": 1074,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/58742",
+        "dub": null,
+        "url": "https://www.animegg.org/naruto-finally-a-clash-jounin-vs-genin-episode-1"
+      }
+    ]
   }
 ]
