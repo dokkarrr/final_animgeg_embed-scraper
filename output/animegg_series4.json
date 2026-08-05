@@ -30324,5 +30324,87 @@
         "url": "https://www.animegg.org/misaki-chronicles-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3430,
+    "title": "Machikado Mazoku",
+    "animegg_url": "https://www.animegg.org/series/machikado-mazoku",
+    "mal_url": "https://myanimelist.net/anime/39071",
+    "mal_id": 39071,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/95882",
+        "dub": null,
+        "url": "https://www.animegg.org/machikado-mazoku-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/95958",
+        "dub": null,
+        "url": "https://www.animegg.org/machikado-mazoku-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/96018",
+        "dub": null,
+        "url": "https://www.animegg.org/machikado-mazoku-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/96080",
+        "dub": null,
+        "url": "https://www.animegg.org/machikado-mazoku-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/96139",
+        "dub": null,
+        "url": "https://www.animegg.org/machikado-mazoku-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/96196",
+        "dub": null,
+        "url": "https://www.animegg.org/machikado-mazoku-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/96255",
+        "dub": null,
+        "url": "https://www.animegg.org/machikado-mazoku-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/96317",
+        "dub": null,
+        "url": "https://www.animegg.org/machikado-mazoku-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/96378",
+        "dub": null,
+        "url": "https://www.animegg.org/machikado-mazoku-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/96435",
+        "dub": null,
+        "url": "https://www.animegg.org/machikado-mazoku-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/96490",
+        "dub": null,
+        "url": "https://www.animegg.org/machikado-mazoku-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/96543",
+        "dub": null,
+        "url": "https://www.animegg.org/machikado-mazoku-episode-12"
+      }
+    ]
   }
 ]
