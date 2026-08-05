@@ -5244,5 +5244,123 @@
         "url": "https://www.animegg.org/pikaia-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3142,
+    "title": "MapleStory",
+    "animegg_url": "https://www.animegg.org/series/maplestory",
+    "mal_url": "https://myanimelist.net/anime/2719",
+    "mal_id": 2719,
+    "total_ep": 18,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/57098",
+        "dub": null,
+        "url": "https://www.animegg.org/maplestory-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/57099",
+        "dub": null,
+        "url": "https://www.animegg.org/maplestory-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/57100",
+        "dub": null,
+        "url": "https://www.animegg.org/maplestory-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/57101",
+        "dub": null,
+        "url": "https://www.animegg.org/maplestory-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/57102",
+        "dub": null,
+        "url": "https://www.animegg.org/maplestory-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/57103",
+        "dub": null,
+        "url": "https://www.animegg.org/maplestory-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/57104",
+        "dub": null,
+        "url": "https://www.animegg.org/maplestory-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/57105",
+        "dub": null,
+        "url": "https://www.animegg.org/maplestory-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/57106",
+        "dub": null,
+        "url": "https://www.animegg.org/maplestory-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/57107",
+        "dub": null,
+        "url": "https://www.animegg.org/maplestory-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/57108",
+        "dub": null,
+        "url": "https://www.animegg.org/maplestory-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/57109",
+        "dub": null,
+        "url": "https://www.animegg.org/maplestory-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/57110",
+        "dub": null,
+        "url": "https://www.animegg.org/maplestory-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/57111",
+        "dub": null,
+        "url": "https://www.animegg.org/maplestory-episode-14"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/57112",
+        "dub": null,
+        "url": "https://www.animegg.org/maplestory-episode-15"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/99323",
+        "dub": null,
+        "url": "https://www.animegg.org/maplestory-episode-16"
+      },
+      {
+        "ep": 22,
+        "sub": "https://www.animegg.org/embed/99324",
+        "dub": null,
+        "url": "https://www.animegg.org/maplestory-episode-22"
+      },
+      {
+        "ep": 26,
+        "sub": "https://www.animegg.org/embed/99325",
+        "dub": null,
+        "url": "https://www.animegg.org/maplestory-episode-26"
+      }
+    ]
   }
 ]
