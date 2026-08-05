@@ -75706,5 +75706,39 @@
         "url": "https://www.animegg.org/eiyuuou-bu-wo-kiwameru-tame-tenseisu-soshite-sekai-saikyou-no-minarai-kishi-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4046,
+    "title": "Kimi ga Nozomu Eien: Next Season",
+    "animegg_url": "https://www.animegg.org/series/kimi-ga-nozomu-eien-next-season",
+    "mal_url": "https://myanimelist.net/anime/3318",
+    "mal_id": 3318,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/56525",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-ga-nozomu-eien-next-season-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/56526",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-ga-nozomu-eien-next-season-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/56527",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-ga-nozomu-eien-next-season-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/56528",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-ga-nozomu-eien-next-season-episode-4"
+      }
+    ]
   }
 ]
