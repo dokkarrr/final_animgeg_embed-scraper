@@ -106274,5 +106274,93 @@
         "url": "https://www.animegg.org/gintama-jump-anime-tour-2008-special-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4518,
+    "title": "Kageki Shoujo!!",
+    "animegg_url": "https://www.animegg.org/series/kageki-shoujo",
+    "mal_url": "https://myanimelist.net/anime/43691",
+    "mal_id": 43691,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/102192",
+        "dub": null,
+        "url": "https://www.animegg.org/kageki-shoujo-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/102241",
+        "dub": null,
+        "url": "https://www.animegg.org/kageki-shoujo-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/102293",
+        "dub": null,
+        "url": "https://www.animegg.org/kageki-shoujo-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/102332",
+        "dub": null,
+        "url": "https://www.animegg.org/kageki-shoujo-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/102403",
+        "dub": null,
+        "url": "https://www.animegg.org/kageki-shoujo-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/102453",
+        "dub": null,
+        "url": "https://www.animegg.org/kageki-shoujo-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/102508",
+        "dub": null,
+        "url": "https://www.animegg.org/kageki-shoujo-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/102568",
+        "dub": null,
+        "url": "https://www.animegg.org/kageki-shoujo-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/102622",
+        "dub": null,
+        "url": "https://www.animegg.org/kageki-shoujo-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/102675",
+        "dub": null,
+        "url": "https://www.animegg.org/kageki-shoujo-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/102733",
+        "dub": null,
+        "url": "https://www.animegg.org/kageki-shoujo-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/102788",
+        "dub": null,
+        "url": "https://www.animegg.org/kageki-shoujo-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/102839",
+        "dub": null,
+        "url": "https://www.animegg.org/kageki-shoujo-episode-13"
+      }
+    ]
   }
 ]
