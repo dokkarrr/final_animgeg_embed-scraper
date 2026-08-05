@@ -5900,5 +5900,21 @@
         "url": "https://www.animegg.org/spy-x-family-part-2-dub-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5703,
+    "title": "Lupin III: Kutabare! Nostradamus",
+    "animegg_url": "https://www.animegg.org/series/lupin-iii-kutabare-nostradamus",
+    "mal_url": "https://myanimelist.net/anime/1419",
+    "mal_id": 1419,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/56119",
+        "dub": "https://www.animegg.org/embed/56120",
+        "url": "https://www.animegg.org/lupin-iii-kutabare-nostradamus-episode-1"
+      }
+    ]
   }
 ]
