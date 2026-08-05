@@ -106114,5 +106114,21 @@
         "url": "https://www.animegg.org/potemayo-specials-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 4514,
+    "title": "Hajime No Ippo: Mashiba Vs. Kimura",
+    "animegg_url": "https://www.animegg.org/series/hajime-no-ippo-mashiba-vs-kimura",
+    "mal_url": "https://myanimelist.net/anime/265",
+    "mal_id": 265,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/15019",
+        "dub": null,
+        "url": "https://www.animegg.org/hajime-no-ippo-mashiba-vs-kimura-episode-1"
+      }
+    ]
   }
 ]
