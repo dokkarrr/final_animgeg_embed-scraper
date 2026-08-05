@@ -86176,5 +86176,21 @@
         "url": "https://www.animegg.org/spring-and-chaos-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6637,
+    "title": "Non Non Biyori Movie: Vacation",
+    "animegg_url": "https://www.animegg.org/series/non-non-biyori-movie-vacation",
+    "mal_url": "https://myanimelist.net/anime/36990",
+    "mal_id": 36990,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/94759",
+        "dub": null,
+        "url": "https://www.animegg.org/non-non-biyori-movie-vacation-episode-1"
+      }
+    ]
   }
 ]
