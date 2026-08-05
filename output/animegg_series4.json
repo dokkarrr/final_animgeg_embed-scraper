@@ -34594,5 +34594,33 @@
         "url": "https://www.animegg.org/party-kara-tsuihou-sareta-sono-chiyushi-jitsu-wa-saikyou-ni-tsuki-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 3464,
+    "title": "Byousoku 5 Centimeter",
+    "animegg_url": "https://www.animegg.org/series/byousoku-5-centimeter",
+    "mal_url": "https://myanimelist.net/anime/1689",
+    "mal_id": 1689,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/45543",
+        "dub": null,
+        "url": "https://www.animegg.org/byousoku-5-centimeter-episode-3"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/45542",
+        "dub": null,
+        "url": "https://www.animegg.org/byousoku-5-centimeter-episode-2"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/45540",
+        "dub": "https://www.animegg.org/embed/45541",
+        "url": "https://www.animegg.org/byousoku-5-centimeter-episode-1"
+      }
+    ]
   }
 ]
