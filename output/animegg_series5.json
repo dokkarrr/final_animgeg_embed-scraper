@@ -120977,5 +120977,45 @@
         "url": "https://www.animegg.org/hakuouki-ova-2021-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6919,
+    "title": "Vampire in the Garden",
+    "animegg_url": "https://www.animegg.org/series/vampire-in-the-garden",
+    "mal_url": "https://myanimelist.net/anime/39518",
+    "mal_id": 39518,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/104786",
+        "dub": null,
+        "url": "https://www.animegg.org/vampire-in-the-garden-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/104810",
+        "dub": null,
+        "url": "https://www.animegg.org/vampire-in-the-garden-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/104811",
+        "dub": null,
+        "url": "https://www.animegg.org/vampire-in-the-garden-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/104812",
+        "dub": null,
+        "url": "https://www.animegg.org/vampire-in-the-garden-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/104787",
+        "dub": null,
+        "url": "https://www.animegg.org/vampire-in-the-garden-episode-5"
+      }
+    ]
   }
 ]
