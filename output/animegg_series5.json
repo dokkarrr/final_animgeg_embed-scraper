@@ -82148,5 +82148,21 @@
         "url": "https://www.animegg.org/candy-caries-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 6593,
+    "title": "Sora no Aosa wo Shiru Hito yo",
+    "animegg_url": "https://www.animegg.org/series/sora-no-aosa-wo-shiru-hito-yo",
+    "mal_url": "https://myanimelist.net/anime/39569",
+    "mal_id": 39569,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/98731",
+        "dub": null,
+        "url": "https://www.animegg.org/sora-no-aosa-wo-shiru-hito-yo-episode-1"
+      }
+    ]
   }
 ]
