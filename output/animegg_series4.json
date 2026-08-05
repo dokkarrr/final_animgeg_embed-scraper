@@ -112994,5 +112994,87 @@
         "url": "https://www.animegg.org/major-the-ball-of-friendship-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4632,
+    "title": "Z/X: Code Reunion",
+    "animegg_url": "https://www.animegg.org/series/zx-code-reunion",
+    "mal_url": "https://myanimelist.net/anime/37268",
+    "mal_id": 37268,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/96644",
+        "dub": null,
+        "url": "https://www.animegg.org/zx-code-reunion-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/96731",
+        "dub": null,
+        "url": "https://www.animegg.org/zx-code-reunion-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/96795",
+        "dub": null,
+        "url": "https://www.animegg.org/zx-code-reunion-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/96862",
+        "dub": null,
+        "url": "https://www.animegg.org/zx-code-reunion-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/96923",
+        "dub": null,
+        "url": "https://www.animegg.org/zx-code-reunion-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/96984",
+        "dub": null,
+        "url": "https://www.animegg.org/zx-code-reunion-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/97049",
+        "dub": null,
+        "url": "https://www.animegg.org/zx-code-reunion-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/97114",
+        "dub": null,
+        "url": "https://www.animegg.org/zx-code-reunion-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/97184",
+        "dub": null,
+        "url": "https://www.animegg.org/zx-code-reunion-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/97248",
+        "dub": null,
+        "url": "https://www.animegg.org/zx-code-reunion-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/97317",
+        "dub": null,
+        "url": "https://www.animegg.org/zx-code-reunion-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/97377",
+        "dub": null,
+        "url": "https://www.animegg.org/zx-code-reunion-episode-12"
+      }
+    ]
   }
 ]
