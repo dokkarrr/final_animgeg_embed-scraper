@@ -30348,5 +30348,21 @@
         "url": "https://www.animegg.org/ginga-eiyuu-densetsu-die-neue-these---sakubou-s4-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 6120,
+    "title": "Osomatsu-san Special",
+    "animegg_url": "https://www.animegg.org/series/osomatsu-san-special",
+    "mal_url": "https://myanimelist.net/anime/32026",
+    "mal_id": 32026,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/83368",
+        "dub": null,
+        "url": "https://www.animegg.org/osomatsu-san-special-episode-1"
+      }
+    ]
   }
 ]
