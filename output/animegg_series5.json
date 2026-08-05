@@ -54881,5 +54881,21 @@
         "url": "https://www.animegg.org/hataraku-saibou-kaze-shoukougun-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6353,
+    "title": "Natsu e no Tunnel, Sayonara no Deguchi",
+    "animegg_url": "https://www.animegg.org/series/natsu-e-no-tunnel-sayonara-no-deguchi",
+    "mal_url": "https://myanimelist.net/anime/50593",
+    "mal_id": 50593,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/108726",
+        "dub": null,
+        "url": "https://www.animegg.org/natsu-e-no-tunnel-sayonara-no-deguchi-episode-1"
+      }
+    ]
   }
 ]
