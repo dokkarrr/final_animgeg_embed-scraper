@@ -84294,5 +84294,27 @@
         "url": "https://www.animegg.org/gintama-aizome-kaori-hen-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 4174,
+    "title": "Holy Knight",
+    "animegg_url": "https://www.animegg.org/series/holy-knight",
+    "mal_url": "https://myanimelist.net/anime/11005",
+    "mal_id": 11005,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/16675",
+        "dub": "https://www.animegg.org/embed/75252",
+        "url": "https://www.animegg.org/holy-knight-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/16674",
+        "dub": "https://www.animegg.org/embed/75253",
+        "url": "https://www.animegg.org/holy-knight-episode-2"
+      }
+    ]
   }
 ]
