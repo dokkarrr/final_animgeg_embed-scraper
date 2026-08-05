@@ -51440,5 +51440,87 @@
         "url": "https://www.animegg.org/two-car-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3699,
+    "title": "Mashiro no Oto",
+    "animegg_url": "https://www.animegg.org/series/mashiro-no-oto",
+    "mal_url": "https://myanimelist.net/anime/42590",
+    "mal_id": 42590,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/101331",
+        "dub": null,
+        "url": "https://www.animegg.org/mashiro-no-oto-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/101382",
+        "dub": null,
+        "url": "https://www.animegg.org/mashiro-no-oto-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/101449",
+        "dub": null,
+        "url": "https://www.animegg.org/mashiro-no-oto-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/101511",
+        "dub": null,
+        "url": "https://www.animegg.org/mashiro-no-oto-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/101576",
+        "dub": null,
+        "url": "https://www.animegg.org/mashiro-no-oto-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/101638",
+        "dub": null,
+        "url": "https://www.animegg.org/mashiro-no-oto-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/101705",
+        "dub": null,
+        "url": "https://www.animegg.org/mashiro-no-oto-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/101782",
+        "dub": null,
+        "url": "https://www.animegg.org/mashiro-no-oto-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/101849",
+        "dub": null,
+        "url": "https://www.animegg.org/mashiro-no-oto-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/101926",
+        "dub": null,
+        "url": "https://www.animegg.org/mashiro-no-oto-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/101990",
+        "dub": null,
+        "url": "https://www.animegg.org/mashiro-no-oto-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/102073",
+        "dub": null,
+        "url": "https://www.animegg.org/mashiro-no-oto-episode-12"
+      }
+    ]
   }
 ]
