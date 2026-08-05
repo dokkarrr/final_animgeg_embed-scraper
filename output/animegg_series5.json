@@ -13157,5 +13157,21 @@
         "url": "https://www.animegg.org/da-capo-dc-i-ii-psp-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5818,
+    "title": "Ring of Gundam",
+    "animegg_url": "https://www.animegg.org/series/ring-of-gundam",
+    "mal_url": "https://myanimelist.net/anime/7060",
+    "mal_id": 7060,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/75318",
+        "dub": null,
+        "url": "https://www.animegg.org/ring-of-gundam-episode-1"
+      }
+    ]
   }
 ]
