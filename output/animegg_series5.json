@@ -27282,5 +27282,33 @@
         "url": "https://www.animegg.org/mameshiba-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6054,
+    "title": "Wind: A Breath of Heart OVA",
+    "animegg_url": "https://www.animegg.org/series/wind-a-breath-of-heart-ova",
+    "mal_url": "https://myanimelist.net/anime/547",
+    "mal_id": 547,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/63786",
+        "dub": null,
+        "url": "https://www.animegg.org/wind-a-breath-of-heart-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/63787",
+        "dub": null,
+        "url": "https://www.animegg.org/wind-a-breath-of-heart-ova-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/63788",
+        "dub": null,
+        "url": "https://www.animegg.org/wind-a-breath-of-heart-ova-episode-3"
+      }
+    ]
   }
 ]
