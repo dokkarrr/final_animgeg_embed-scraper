@@ -15748,5 +15748,21 @@
         "url": "https://www.animegg.org/super-street-fighter-iv-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5881,
+    "title": "Saint☆Onii-san (Movie)",
+    "animegg_url": "https://www.animegg.org/series/saint-onii-san-movie",
+    "mal_url": "https://myanimelist.net/anime/15771",
+    "mal_id": 15771,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/60516",
+        "dub": null,
+        "url": "https://www.animegg.org/saint-onii-san-movie-episode-1"
+      }
+    ]
   }
 ]
