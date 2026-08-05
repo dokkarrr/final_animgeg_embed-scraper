@@ -19186,5 +19186,93 @@
         "url": "https://www.animegg.org/bleach-memories-of-nobody-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3299,
+    "title": "Ray The Animation",
+    "animegg_url": "https://www.animegg.org/series/ray-the-animation",
+    "mal_url": "https://myanimelist.net/anime/919",
+    "mal_id": 919,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/60744",
+        "dub": null,
+        "url": "https://www.animegg.org/ray-the-animation-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/60745",
+        "dub": null,
+        "url": "https://www.animegg.org/ray-the-animation-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/60746",
+        "dub": null,
+        "url": "https://www.animegg.org/ray-the-animation-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/60747",
+        "dub": null,
+        "url": "https://www.animegg.org/ray-the-animation-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/60748",
+        "dub": null,
+        "url": "https://www.animegg.org/ray-the-animation-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/60749",
+        "dub": null,
+        "url": "https://www.animegg.org/ray-the-animation-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/60750",
+        "dub": null,
+        "url": "https://www.animegg.org/ray-the-animation-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/60751",
+        "dub": null,
+        "url": "https://www.animegg.org/ray-the-animation-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/60752",
+        "dub": null,
+        "url": "https://www.animegg.org/ray-the-animation-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/60753",
+        "dub": null,
+        "url": "https://www.animegg.org/ray-the-animation-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/60754",
+        "dub": null,
+        "url": "https://www.animegg.org/ray-the-animation-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/60755",
+        "dub": null,
+        "url": "https://www.animegg.org/ray-the-animation-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/60756",
+        "dub": null,
+        "url": "https://www.animegg.org/ray-the-animation-episode-13"
+      }
+    ]
   }
 ]
