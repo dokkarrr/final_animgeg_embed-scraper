@@ -69578,5 +69578,21 @@
         "url": "https://www.animegg.org/gatekeepers-21-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3942,
+    "title": "Kono Subarashii Sekai ni Shukufuku wo! OVA",
+    "animegg_url": "https://www.animegg.org/series/kono-subarashii-sekai-ni-shukufuku-wo-ova",
+    "mal_url": "https://myanimelist.net/anime/30831",
+    "mal_id": 30831,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/82812",
+        "dub": null,
+        "url": "https://www.animegg.org/kono-subarashii-sekai-ni-shukufuku-wo-ova-episode-1"
+      }
+    ]
   }
 ]
