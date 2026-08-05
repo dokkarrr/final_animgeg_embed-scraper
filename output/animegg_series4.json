@@ -123880,5 +123880,87 @@
         "url": "https://www.animegg.org/book-girl-memoire-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 4796,
+    "title": "Seiyuu Radio no Uraomote",
+    "animegg_url": "https://www.animegg.org/series/seiyuu-radio-no-uraomote",
+    "mal_url": "https://myanimelist.net/anime/53912",
+    "mal_id": 53912,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/133596",
+        "dub": null,
+        "url": "https://www.animegg.org/seiyuu-radio-no-uraomote-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/133679",
+        "dub": null,
+        "url": "https://www.animegg.org/seiyuu-radio-no-uraomote-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/seiyuu-radio-no-uraomote-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/133862",
+        "dub": null,
+        "url": "https://www.animegg.org/seiyuu-radio-no-uraomote-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/134047",
+        "dub": null,
+        "url": "https://www.animegg.org/seiyuu-radio-no-uraomote-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/134165",
+        "dub": null,
+        "url": "https://www.animegg.org/seiyuu-radio-no-uraomote-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/134351",
+        "dub": null,
+        "url": "https://www.animegg.org/seiyuu-radio-no-uraomote-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/134510",
+        "dub": null,
+        "url": "https://www.animegg.org/seiyuu-radio-no-uraomote-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/134672",
+        "dub": null,
+        "url": "https://www.animegg.org/seiyuu-radio-no-uraomote-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/134850",
+        "dub": null,
+        "url": "https://www.animegg.org/seiyuu-radio-no-uraomote-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/134992",
+        "dub": null,
+        "url": "https://www.animegg.org/seiyuu-radio-no-uraomote-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/135152",
+        "dub": null,
+        "url": "https://www.animegg.org/seiyuu-radio-no-uraomote-episode-12"
+      }
+    ]
   }
 ]
