@@ -28616,5 +28616,57 @@
         "url": "https://www.animegg.org/harukanaru-toki-no-naka-de-3-owarinaki-unmei-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6083,
+    "title": "Asatir 2: Mirai no Mukashi Banashi",
+    "animegg_url": "https://www.animegg.org/series/asatir-2-mirai-no-mukashi-banashi",
+    "mal_url": "https://myanimelist.net/anime/59499",
+    "mal_id": 59499,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/139613",
+        "dub": null,
+        "url": "https://www.animegg.org/asatir-2-mirai-no-mukashi-banashi-episode-13"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/139489",
+        "dub": null,
+        "url": "https://www.animegg.org/asatir-2-mirai-no-mukashi-banashi-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/139473",
+        "dub": null,
+        "url": "https://www.animegg.org/asatir-2-mirai-no-mukashi-banashi-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/139386",
+        "dub": null,
+        "url": "https://www.animegg.org/asatir-2-mirai-no-mukashi-banashi-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/139084",
+        "dub": null,
+        "url": "https://www.animegg.org/asatir-2-mirai-no-mukashi-banashi-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/138886",
+        "dub": null,
+        "url": "https://www.animegg.org/asatir-2-mirai-no-mukashi-banashi-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/138696",
+        "dub": null,
+        "url": "https://www.animegg.org/asatir-2-mirai-no-mukashi-banashi-episode-1"
+      }
+    ]
   }
 ]
