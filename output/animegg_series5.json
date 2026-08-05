@@ -23948,5 +23948,75 @@
         "url": "https://www.animegg.org/toaru-majutsu-no-index-ii-specials-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 6014,
+    "title": "Ani ni Tsukeru Kusuri wa Nai! 5",
+    "animegg_url": "https://www.animegg.org/series/ani-ni-tsukeru-kusuri-wa-nai-5",
+    "mal_url": "https://myanimelist.net/anime/49599",
+    "mal_id": 49599,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/106110",
+        "dub": null,
+        "url": "https://www.animegg.org/ani-ni-tsukeru-kusuri-wa-nai-5-episode-12"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/106049",
+        "dub": null,
+        "url": "https://www.animegg.org/ani-ni-tsukeru-kusuri-wa-nai-5-episode-11"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/106015",
+        "dub": null,
+        "url": "https://www.animegg.org/ani-ni-tsukeru-kusuri-wa-nai-5-episode-10"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/105931",
+        "dub": null,
+        "url": "https://www.animegg.org/ani-ni-tsukeru-kusuri-wa-nai-5-episode-9"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/105930",
+        "dub": null,
+        "url": "https://www.animegg.org/ani-ni-tsukeru-kusuri-wa-nai-5-episode-8"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/105807",
+        "dub": null,
+        "url": "https://www.animegg.org/ani-ni-tsukeru-kusuri-wa-nai-5-episode-7"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/105643",
+        "dub": null,
+        "url": "https://www.animegg.org/ani-ni-tsukeru-kusuri-wa-nai-5-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/105549",
+        "dub": null,
+        "url": "https://www.animegg.org/ani-ni-tsukeru-kusuri-wa-nai-5-episode-3"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/105547",
+        "dub": null,
+        "url": "https://www.animegg.org/ani-ni-tsukeru-kusuri-wa-nai-5-episode-2"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/105546",
+        "dub": null,
+        "url": "https://www.animegg.org/ani-ni-tsukeru-kusuri-wa-nai-5-episode-1"
+      }
+    ]
   }
 ]
