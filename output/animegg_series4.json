@@ -44030,5 +44030,51 @@
         "url": "https://www.animegg.org/rwby-volume-3-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3594,
+    "title": "Ikkitousen: Xtreme Xecutor Specials",
+    "animegg_url": "https://www.animegg.org/series/ikkitousen-xtreme-xecutor-specials",
+    "mal_url": "https://myanimelist.net/anime/8507",
+    "mal_id": 8507,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/54036",
+        "dub": null,
+        "url": "https://www.animegg.org/ikkitousen-xtreme-xecutor-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/54037",
+        "dub": null,
+        "url": "https://www.animegg.org/ikkitousen-xtreme-xecutor-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/54038",
+        "dub": null,
+        "url": "https://www.animegg.org/ikkitousen-xtreme-xecutor-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/54039",
+        "dub": null,
+        "url": "https://www.animegg.org/ikkitousen-xtreme-xecutor-specials-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/54040",
+        "dub": null,
+        "url": "https://www.animegg.org/ikkitousen-xtreme-xecutor-specials-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/54041",
+        "dub": null,
+        "url": "https://www.animegg.org/ikkitousen-xtreme-xecutor-specials-episode-6"
+      }
+    ]
   }
 ]
