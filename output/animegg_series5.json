@@ -25762,5 +25762,21 @@
         "url": "https://www.animegg.org/my-apprentice-is-female-emperor-episode-71"
       }
     ]
+  },
+  {
+    "serial_no": 6034,
+    "title": "Pokemon: Pikachu's Winter Vacation (2000)",
+    "animegg_url": "https://www.animegg.org/series/pokemon-pikachus-winter-vacation-2000",
+    "mal_url": "https://myanimelist.net/anime/10916",
+    "mal_id": 10916,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2000,
+        "sub": "https://www.animegg.org/embed/61252",
+        "dub": null,
+        "url": "https://www.animegg.org/pokemon-pikachus-winter-vacation-2000-episode-1"
+      }
+    ]
   }
 ]
