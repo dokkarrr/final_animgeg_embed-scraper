@@ -13943,5 +13943,21 @@
         "url": "https://www.animegg.org/persona-4-the-golden-animation-thank-you-mr-accomplice-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5845,
+    "title": "Trigun: Badlands Rumble",
+    "animegg_url": "https://www.animegg.org/series/trigun-badlands-rumble",
+    "mal_url": "https://myanimelist.net/anime/4106",
+    "mal_id": 4106,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/64565",
+        "dub": null,
+        "url": "https://www.animegg.org/trigun-badlands-rumble-episode-1"
+      }
+    ]
   }
 ]
