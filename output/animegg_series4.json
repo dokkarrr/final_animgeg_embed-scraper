@@ -111706,5 +111706,87 @@
         "url": "https://www.animegg.org/hana-kimi-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4604,
+    "title": "Night Head 2041",
+    "animegg_url": "https://www.animegg.org/series/night-head-2041",
+    "mal_url": "https://myanimelist.net/anime/43767",
+    "mal_id": 43767,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 2041,
+        "sub": "https://www.animegg.org/embed/102879",
+        "dub": null,
+        "url": "https://www.animegg.org/night-head-2041-episode-12"
+      },
+      {
+        "ep": 2041,
+        "sub": "https://www.animegg.org/embed/102821",
+        "dub": null,
+        "url": "https://www.animegg.org/night-head-2041-episode-11"
+      },
+      {
+        "ep": 2041,
+        "sub": "https://www.animegg.org/embed/102764",
+        "dub": null,
+        "url": "https://www.animegg.org/night-head-2041-episode-10"
+      },
+      {
+        "ep": 2041,
+        "sub": "https://www.animegg.org/embed/102706",
+        "dub": null,
+        "url": "https://www.animegg.org/night-head-2041-episode-9"
+      },
+      {
+        "ep": 2041,
+        "sub": "https://www.animegg.org/embed/102653",
+        "dub": null,
+        "url": "https://www.animegg.org/night-head-2041-episode-8"
+      },
+      {
+        "ep": 2041,
+        "sub": "https://www.animegg.org/embed/102596",
+        "dub": null,
+        "url": "https://www.animegg.org/night-head-2041-episode-7"
+      },
+      {
+        "ep": 2041,
+        "sub": "https://www.animegg.org/embed/102542",
+        "dub": null,
+        "url": "https://www.animegg.org/night-head-2041-episode-6"
+      },
+      {
+        "ep": 2041,
+        "sub": "https://www.animegg.org/embed/102487",
+        "dub": null,
+        "url": "https://www.animegg.org/night-head-2041-episode-5"
+      },
+      {
+        "ep": 2041,
+        "sub": "https://www.animegg.org/embed/102434",
+        "dub": null,
+        "url": "https://www.animegg.org/night-head-2041-episode-4"
+      },
+      {
+        "ep": 2041,
+        "sub": "https://www.animegg.org/embed/102378",
+        "dub": null,
+        "url": "https://www.animegg.org/night-head-2041-episode-3"
+      },
+      {
+        "ep": 2041,
+        "sub": "https://www.animegg.org/embed/102341",
+        "dub": null,
+        "url": "https://www.animegg.org/night-head-2041-episode-2"
+      },
+      {
+        "ep": 2041,
+        "sub": "https://www.animegg.org/embed/102270",
+        "dub": null,
+        "url": "https://www.animegg.org/night-head-2041-episode-1"
+      }
+    ]
   }
 ]
