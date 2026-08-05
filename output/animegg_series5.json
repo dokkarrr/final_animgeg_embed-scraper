@@ -702,5 +702,21 @@
         "url": "https://www.animegg.org/black-jack-the-movie-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5620,
+    "title": "Origin: Spirits of the Past",
+    "animegg_url": "https://www.animegg.org/series/origin-spirits-of-the-past",
+    "mal_url": "https://myanimelist.net/anime/1140",
+    "mal_id": 1140,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/58700",
+        "dub": null,
+        "url": "https://www.animegg.org/origin-spirits-of-the-past-episode-1"
+      }
+    ]
   }
 ]
