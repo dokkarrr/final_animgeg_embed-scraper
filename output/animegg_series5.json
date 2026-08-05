@@ -65715,5 +65715,39 @@
         "url": "https://www.animegg.org/shinshaku-sanada-juuyuushi-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6459,
+    "title": "Skeleton knight in another world season 2",
+    "animegg_url": "https://www.animegg.org/series/skeleton-knight-in-another-world-season-2",
+    "mal_url": "https://myanimelist.net/anime/42203",
+    "mal_id": 42203,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/146624",
+        "dub": "https://www.animegg.org/embed/146625",
+        "url": "https://www.animegg.org/skeleton-knight-in-another-world-season-2-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/146587",
+        "dub": null,
+        "url": "https://www.animegg.org/skeleton-knight-in-another-world-season-2-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/146432",
+        "dub": "https://www.animegg.org/embed/146442",
+        "url": "https://www.animegg.org/skeleton-knight-in-another-world-season-2-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/skeleton-knight-in-another-world-season-2-episode-1"
+      }
+    ]
   }
 ]
