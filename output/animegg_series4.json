@@ -69196,5 +69196,87 @@
         "url": "https://www.animegg.org/kirepapa-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 3935,
+    "title": "Hatena☆Illusion",
+    "animegg_url": "https://www.animegg.org/series/hatena-illusion",
+    "mal_url": "https://myanimelist.net/anime/35252",
+    "mal_id": 35252,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/97482",
+        "dub": null,
+        "url": "https://www.animegg.org/hatena-illusion-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/97554",
+        "dub": null,
+        "url": "https://www.animegg.org/hatena-illusion-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/97619",
+        "dub": null,
+        "url": "https://www.animegg.org/hatena-illusion-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/97689",
+        "dub": null,
+        "url": "https://www.animegg.org/hatena-illusion-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/97754",
+        "dub": null,
+        "url": "https://www.animegg.org/hatena-illusion-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/97819",
+        "dub": null,
+        "url": "https://www.animegg.org/hatena-illusion-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/97932",
+        "dub": null,
+        "url": "https://www.animegg.org/hatena-illusion-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/97988",
+        "dub": null,
+        "url": "https://www.animegg.org/hatena-illusion-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/98053",
+        "dub": null,
+        "url": "https://www.animegg.org/hatena-illusion-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/98111",
+        "dub": null,
+        "url": "https://www.animegg.org/hatena-illusion-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/98167",
+        "dub": null,
+        "url": "https://www.animegg.org/hatena-illusion-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/98686",
+        "dub": null,
+        "url": "https://www.animegg.org/hatena-illusion-episode-12"
+      }
+    ]
   }
 ]
