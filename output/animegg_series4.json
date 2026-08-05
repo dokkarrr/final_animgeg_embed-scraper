@@ -117770,5 +117770,87 @@
         "url": "https://www.animegg.org/amagi-brilliant-park-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4707,
+    "title": "The Dinner Table Detective",
+    "animegg_url": "https://www.animegg.org/series/the-dinner-table-detective",
+    "mal_url": "https://myanimelist.net/anime/60377",
+    "mal_id": 60377,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/140368",
+        "dub": "https://www.animegg.org/embed/140370",
+        "url": "https://www.animegg.org/the-dinner-table-detective-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/140451",
+        "dub": "https://www.animegg.org/embed/140453",
+        "url": "https://www.animegg.org/the-dinner-table-detective-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/140541",
+        "dub": "https://www.animegg.org/embed/140545",
+        "url": "https://www.animegg.org/the-dinner-table-detective-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/140632",
+        "dub": "https://www.animegg.org/embed/140633",
+        "url": "https://www.animegg.org/the-dinner-table-detective-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/140716",
+        "dub": "https://www.animegg.org/embed/140741",
+        "url": "https://www.animegg.org/the-dinner-table-detective-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/140809",
+        "dub": null,
+        "url": "https://www.animegg.org/the-dinner-table-detective-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/140913",
+        "dub": "https://www.animegg.org/embed/140927",
+        "url": "https://www.animegg.org/the-dinner-table-detective-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/141026",
+        "dub": null,
+        "url": "https://www.animegg.org/the-dinner-table-detective-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/141117",
+        "dub": "https://www.animegg.org/embed/141133",
+        "url": "https://www.animegg.org/the-dinner-table-detective-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/141246",
+        "dub": null,
+        "url": "https://www.animegg.org/the-dinner-table-detective-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/141307",
+        "dub": "https://www.animegg.org/embed/141308",
+        "url": "https://www.animegg.org/the-dinner-table-detective-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/141404",
+        "dub": "https://www.animegg.org/embed/141405",
+        "url": "https://www.animegg.org/the-dinner-table-detective-episode-12"
+      }
+    ]
   }
 ]
