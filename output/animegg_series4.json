@@ -28758,5 +28758,33 @@
         "url": "https://www.animegg.org/hero-without-a-class-who-even-needs-skills--episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3409,
+    "title": "Aria The Avvenire",
+    "animegg_url": "https://www.animegg.org/series/aria-the-avvenire",
+    "mal_url": "https://myanimelist.net/anime/29893",
+    "mal_id": 29893,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/80531",
+        "dub": "https://www.animegg.org/embed/80533",
+        "url": "https://www.animegg.org/aria-the-avvenire-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/81689",
+        "dub": "https://www.animegg.org/embed/81837",
+        "url": "https://www.animegg.org/aria-the-avvenire-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/83022",
+        "dub": null,
+        "url": "https://www.animegg.org/aria-the-avvenire-episode-3"
+      }
+    ]
   }
 ]
