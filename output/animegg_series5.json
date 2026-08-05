@@ -24960,5 +24960,45 @@
         "url": "https://www.animegg.org/rakudai-kishi-no-cavalry-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 6030,
+    "title": "Jaadugar: A Witch in Mongolia",
+    "animegg_url": "https://www.animegg.org/series/jaadugar-a-witch-in-mongolia",
+    "mal_url": "https://myanimelist.net/anime/61483",
+    "mal_id": 61483,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/146320",
+        "dub": "https://www.animegg.org/embed/146482",
+        "url": "https://www.animegg.org/jaadugar-a-witch-in-mongolia-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/146308",
+        "dub": "https://www.animegg.org/embed/146484",
+        "url": "https://www.animegg.org/jaadugar-a-witch-in-mongolia-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/146399",
+        "dub": "https://www.animegg.org/embed/146551",
+        "url": "https://www.animegg.org/jaadugar-a-witch-in-mongolia-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/146476",
+        "dub": "https://www.animegg.org/embed/146610",
+        "url": "https://www.animegg.org/jaadugar-a-witch-in-mongolia-episode-4"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/146606",
+        "dub": null,
+        "url": "https://www.animegg.org/jaadugar-a-witch-in-mongolia-episode-6"
+      }
+    ]
   }
 ]
