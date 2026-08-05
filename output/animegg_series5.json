@@ -28872,5 +28872,21 @@
         "url": "https://www.animegg.org/shoujo-kakumei-utena-adolescence-mokushiroku-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6087,
+    "title": "Patlabor 3: The Movie",
+    "animegg_url": "https://www.animegg.org/series/patlabor-3-the-movie",
+    "mal_url": "https://myanimelist.net/anime/1290",
+    "mal_id": 1290,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/59959",
+        "dub": null,
+        "url": "https://www.animegg.org/patlabor-3-the-movie-episode-1"
+      }
+    ]
   }
 ]
