@@ -97606,5 +97606,87 @@
         "url": "https://www.animegg.org/food-for-the-soul-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4376,
+    "title": "Build Divide: Code Black",
+    "animegg_url": "https://www.animegg.org/series/build-divide-code-black",
+    "mal_url": "https://myanimelist.net/anime/48776",
+    "mal_id": 48776,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/102989",
+        "dub": null,
+        "url": "https://www.animegg.org/build-divide-code-black-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/103057",
+        "dub": null,
+        "url": "https://www.animegg.org/build-divide-code-black-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/103120",
+        "dub": null,
+        "url": "https://www.animegg.org/build-divide-code-black-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/103182",
+        "dub": null,
+        "url": "https://www.animegg.org/build-divide-code-black-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/103248",
+        "dub": null,
+        "url": "https://www.animegg.org/build-divide-code-black-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/103306",
+        "dub": null,
+        "url": "https://www.animegg.org/build-divide-code-black-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/103367",
+        "dub": null,
+        "url": "https://www.animegg.org/build-divide-code-black-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/103428",
+        "dub": null,
+        "url": "https://www.animegg.org/build-divide-code-black-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/103487",
+        "dub": null,
+        "url": "https://www.animegg.org/build-divide-code-black-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/103563",
+        "dub": null,
+        "url": "https://www.animegg.org/build-divide-code-black-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/103617",
+        "dub": null,
+        "url": "https://www.animegg.org/build-divide-code-black-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/103667",
+        "dub": null,
+        "url": "https://www.animegg.org/build-divide-code-black-episode-12"
+      }
+    ]
   }
 ]
