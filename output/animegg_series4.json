@@ -60194,5 +60194,21 @@
         "url": "https://www.animegg.org/detective-conan-movie-17-private-eye-in-the-distant-sea-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3822,
+    "title": "One Piece: Glorious Island",
+    "animegg_url": "https://www.animegg.org/series/one-piece-glorious-island",
+    "mal_url": "https://myanimelist.net/anime/16468",
+    "mal_id": 16468,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/59111",
+        "dub": null,
+        "url": "https://www.animegg.org/one-piece-glorious-island-episode-1"
+      }
+    ]
   }
 ]
