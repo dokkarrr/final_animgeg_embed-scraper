@@ -23084,5 +23084,39 @@
         "url": "https://www.animegg.org/levius-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 5996,
+    "title": "Punirunes 2",
+    "animegg_url": "https://www.animegg.org/series/punirunes-2",
+    "mal_url": "https://myanimelist.net/anime/52935",
+    "mal_id": 52935,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/139227",
+        "dub": null,
+        "url": "https://www.animegg.org/punirunes-2-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/138205",
+        "dub": null,
+        "url": "https://www.animegg.org/punirunes-2-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/137955",
+        "dub": null,
+        "url": "https://www.animegg.org/punirunes-2-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/137667",
+        "dub": null,
+        "url": "https://www.animegg.org/punirunes-2-episode-1"
+      }
+    ]
   }
 ]
