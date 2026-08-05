@@ -131998,5 +131998,27 @@
         "url": "https://www.animegg.org/fatestay-night-tv-reproduction-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 4907,
+    "title": "Angel's Feather",
+    "animegg_url": "https://www.animegg.org/series/angels-feather",
+    "mal_url": "https://myanimelist.net/anime/1640",
+    "mal_id": 1640,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/65529",
+        "dub": null,
+        "url": "https://www.animegg.org/angels-feather-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/65530",
+        "dub": null,
+        "url": "https://www.animegg.org/angels-feather-episode-2"
+      }
+    ]
   }
 ]
