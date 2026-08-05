@@ -103336,5 +103336,21 @@
         "url": "https://www.animegg.org/ikoku-meiro-no-crois-e-specials-yune-alice-episode-7"
       }
     ]
+  },
+  {
+    "serial_no": 4457,
+    "title": "Pokemon: The Movie 2000",
+    "animegg_url": "https://www.animegg.org/series/pokemon-the-movie-2000",
+    "mal_url": "https://myanimelist.net/anime/528",
+    "mal_id": 528,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2000,
+        "sub": "https://www.animegg.org/embed/61223",
+        "dub": "https://www.animegg.org/embed/75954",
+        "url": "https://www.animegg.org/pokemon-the-movie-2000-episode-1"
+      }
+    ]
   }
 ]
