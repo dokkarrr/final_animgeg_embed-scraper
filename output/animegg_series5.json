@@ -77649,5 +77649,21 @@
         "url": "https://www.animegg.org/rwby-volume-6-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6551,
+    "title": "Oushitsu Kyoushi Heine Movie",
+    "animegg_url": "https://www.animegg.org/series/oushitsu-kyoushi-heine-movie",
+    "mal_url": "https://myanimelist.net/anime/38313",
+    "mal_id": 38313,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/94537",
+        "dub": null,
+        "url": "https://www.animegg.org/oushitsu-kyoushi-heine-movie-episode-1"
+      }
+    ]
   }
 ]
