@@ -83062,5 +83062,33 @@
         "url": "https://www.animegg.org/pass-the-monster-meat-milady-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4151,
+    "title": "Strike Witches: Operation Victory Arrow",
+    "animegg_url": "https://www.animegg.org/series/strike-witches-operation-victory-arrow",
+    "mal_url": "https://myanimelist.net/anime/23725",
+    "mal_id": 23725,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/67696",
+        "dub": "https://www.animegg.org/embed/67705",
+        "url": "https://www.animegg.org/strike-witches-operation-victory-arrow-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/75697",
+        "dub": "https://www.animegg.org/embed/75738",
+        "url": "https://www.animegg.org/strike-witches-operation-victory-arrow-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/78273",
+        "dub": null,
+        "url": "https://www.animegg.org/strike-witches-operation-victory-arrow-episode-3"
+      }
+    ]
   }
 ]
