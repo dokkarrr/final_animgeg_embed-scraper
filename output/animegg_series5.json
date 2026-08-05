@@ -58317,5 +58317,21 @@
         "url": "https://www.animegg.org/beyond-twilight-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 6387,
+    "title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+    "animegg_url": "https://www.animegg.org/series/evangelion-3010-thrice-upon-a-time",
+    "mal_url": "https://myanimelist.net/anime/3786",
+    "mal_id": 3786,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/102510",
+        "dub": null,
+        "url": "https://www.animegg.org/evangelion-3010-thrice-upon-a-time-episode-1"
+      }
+    ]
   }
 ]
