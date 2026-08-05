@@ -58664,5 +58664,21 @@
         "url": "https://www.animegg.org/undead-girl-murder-farce-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3792,
+    "title": "Lupin III vs. Detective Conan",
+    "animegg_url": "https://www.animegg.org/series/lupin-iii-vs-detective-conan",
+    "mal_url": "https://myanimelist.net/anime/6115",
+    "mal_id": 6115,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/56088",
+        "dub": null,
+        "url": "https://www.animegg.org/lupin-iii-vs-detective-conan-episode-1"
+      }
+    ]
   }
 ]
