@@ -67135,5 +67135,21 @@
         "url": "https://www.animegg.org/25-sai-no-joshikousei-episode-7"
       }
     ]
+  },
+  {
+    "serial_no": 6469,
+    "title": "Tenchi Muyo! Mihoshi Special",
+    "animegg_url": "https://www.animegg.org/series/tenchi-muyo-mihoshi-special",
+    "mal_url": "https://myanimelist.net/anime/2725",
+    "mal_id": 2725,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/63160",
+        "dub": null,
+        "url": "https://www.animegg.org/tenchi-muyo-mihoshi-special-episode-1"
+      }
+    ]
   }
 ]
