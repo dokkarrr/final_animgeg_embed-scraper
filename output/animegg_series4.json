@@ -75802,5 +75802,51 @@
         "url": "https://www.animegg.org/summer-wars-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4049,
+    "title": "Softenni Specials",
+    "animegg_url": "https://www.animegg.org/series/softenni-specials",
+    "mal_url": "https://myanimelist.net/anime/10796",
+    "mal_id": 10796,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/35729",
+        "dub": null,
+        "url": "https://www.animegg.org/softenni-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/35728",
+        "dub": null,
+        "url": "https://www.animegg.org/softenni-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/35727",
+        "dub": null,
+        "url": "https://www.animegg.org/softenni-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/35726",
+        "dub": null,
+        "url": "https://www.animegg.org/softenni-specials-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/35725",
+        "dub": null,
+        "url": "https://www.animegg.org/softenni-specials-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/35730",
+        "dub": null,
+        "url": "https://www.animegg.org/softenni-specials-episode-6"
+      }
+    ]
   }
 ]
