@@ -90004,5 +90004,21 @@
         "url": "https://www.animegg.org/poketoon-episode-16"
       }
     ]
+  },
+  {
+    "serial_no": 4268,
+    "title": "Kaze no Tani no Nausicaa",
+    "animegg_url": "https://www.animegg.org/series/kaze-no-tani-no-nausicaa",
+    "mal_url": "https://myanimelist.net/anime/572",
+    "mal_id": 572,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/45211",
+        "dub": "https://www.animegg.org/embed/45212",
+        "url": "https://www.animegg.org/kaze-no-tani-no-nausicaa-episode-1-1"
+      }
+    ]
   }
 ]
