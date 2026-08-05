@@ -79881,5 +79881,87 @@
         "url": "https://www.animegg.org/tokimeki-memorial-4-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6572,
+    "title": "Detective Conan: Hannin no Hanzawa-san",
+    "animegg_url": "https://www.animegg.org/series/detective-conan-hannin-no-hanzawa-san",
+    "mal_url": "https://myanimelist.net/anime/50010",
+    "mal_id": 50010,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/106088",
+        "dub": null,
+        "url": "https://www.animegg.org/detective-conan-hannin-no-hanzawa-san-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/106146",
+        "dub": null,
+        "url": "https://www.animegg.org/detective-conan-hannin-no-hanzawa-san-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/106147",
+        "dub": null,
+        "url": "https://www.animegg.org/detective-conan-hannin-no-hanzawa-san-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/106284",
+        "dub": null,
+        "url": "https://www.animegg.org/detective-conan-hannin-no-hanzawa-san-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/106285",
+        "dub": null,
+        "url": "https://www.animegg.org/detective-conan-hannin-no-hanzawa-san-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/106332",
+        "dub": null,
+        "url": "https://www.animegg.org/detective-conan-hannin-no-hanzawa-san-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/106464",
+        "dub": null,
+        "url": "https://www.animegg.org/detective-conan-hannin-no-hanzawa-san-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/106465",
+        "dub": null,
+        "url": "https://www.animegg.org/detective-conan-hannin-no-hanzawa-san-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/106568",
+        "dub": null,
+        "url": "https://www.animegg.org/detective-conan-hannin-no-hanzawa-san-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/106567",
+        "dub": null,
+        "url": "https://www.animegg.org/detective-conan-hannin-no-hanzawa-san-episode-10-1"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/106673",
+        "dub": null,
+        "url": "https://www.animegg.org/detective-conan-hannin-no-hanzawa-san-episode-11-1"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/106681",
+        "dub": null,
+        "url": "https://www.animegg.org/detective-conan-hannin-no-hanzawa-san-episode-12"
+      }
+    ]
   }
 ]
