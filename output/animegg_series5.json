@@ -90257,5 +90257,27 @@
         "url": "https://www.animegg.org/shouwa-monogatari-movie-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6666,
+    "title": "Majimoji Rurumo: Kanketsu-hen",
+    "animegg_url": "https://www.animegg.org/series/majimoji-rurumo-kanketsu-hen",
+    "mal_url": "https://myanimelist.net/anime/38357",
+    "mal_id": 38357,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/95857",
+        "dub": null,
+        "url": "https://www.animegg.org/majimoji-rurumo-kanketsu-hen-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/95859",
+        "dub": null,
+        "url": "https://www.animegg.org/majimoji-rurumo-kanketsu-hen-episode-2"
+      }
+    ]
   }
 ]
