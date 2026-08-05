@@ -40195,5 +40195,21 @@
         "url": "https://www.animegg.org/shin-koihime-musou-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6218,
+    "title": "Planzet",
+    "animegg_url": "https://www.animegg.org/series/planzet",
+    "mal_url": "https://myanimelist.net/anime/8297",
+    "mal_id": 8297,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/60102",
+        "dub": null,
+        "url": "https://www.animegg.org/planzet-episode-1"
+      }
+    ]
   }
 ]
