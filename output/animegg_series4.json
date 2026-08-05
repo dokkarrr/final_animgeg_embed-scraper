@@ -17522,5 +17522,99 @@
         "url": "https://www.animegg.org/pururun-shizuku-chan-episode-51"
       }
     ]
+  },
+  {
+    "serial_no": 3276,
+    "title": "Petit Gargantia",
+    "animegg_url": "https://www.animegg.org/series/petit-gargantia",
+    "mal_url": "https://myanimelist.net/anime/18413",
+    "mal_id": 18413,
+    "total_ep": 14,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/29405",
+        "dub": null,
+        "url": "https://www.animegg.org/petit-gargantia-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/29411",
+        "dub": null,
+        "url": "https://www.animegg.org/petit-gargantia-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/29403",
+        "dub": null,
+        "url": "https://www.animegg.org/petit-gargantia-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/29404",
+        "dub": null,
+        "url": "https://www.animegg.org/petit-gargantia-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/29406",
+        "dub": null,
+        "url": "https://www.animegg.org/petit-gargantia-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/29408",
+        "dub": null,
+        "url": "https://www.animegg.org/petit-gargantia-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/29409",
+        "dub": null,
+        "url": "https://www.animegg.org/petit-gargantia-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/29407",
+        "dub": null,
+        "url": "https://www.animegg.org/petit-gargantia-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/29410",
+        "dub": null,
+        "url": "https://www.animegg.org/petit-gargantia-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/29412",
+        "dub": null,
+        "url": "https://www.animegg.org/petit-gargantia-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/29413",
+        "dub": null,
+        "url": "https://www.animegg.org/petit-gargantia-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/29414",
+        "dub": null,
+        "url": "https://www.animegg.org/petit-gargantia-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/29415",
+        "dub": null,
+        "url": "https://www.animegg.org/petit-gargantia-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/29416",
+        "dub": null,
+        "url": "https://www.animegg.org/petit-gargantia-episode-14"
+      }
+    ]
   }
 ]
