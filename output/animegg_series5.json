@@ -37694,5 +37694,21 @@
         "url": "https://www.animegg.org/pokemon-movie-22-mewtwo-no-gyakushuu-evolution-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6194,
+    "title": "Toriko: Jump Super Anime Tour 2009 Special",
+    "animegg_url": "https://www.animegg.org/series/toriko-jump-super-anime-tour-2009-special",
+    "mal_url": "https://myanimelist.net/anime/6941",
+    "mal_id": 6941,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2009,
+        "sub": "https://www.animegg.org/embed/64123",
+        "dub": null,
+        "url": "https://www.animegg.org/toriko-jump-super-anime-tour-2009-special-episode-1"
+      }
+    ]
   }
 ]
