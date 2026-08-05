@@ -3672,5 +3672,27 @@
         "url": "https://www.animegg.org/amefuri-kozou-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5671,
+    "title": "To Heart 2 AD",
+    "animegg_url": "https://www.animegg.org/series/to-heart-2-ad",
+    "mal_url": "https://myanimelist.net/anime/4166",
+    "mal_id": 4166,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/38215",
+        "dub": null,
+        "url": "https://www.animegg.org/to-heart-2-ad-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/38216",
+        "dub": null,
+        "url": "https://www.animegg.org/to-heart-2-ad-episode-1"
+      }
+    ]
   }
 ]
