@@ -18762,5 +18762,27 @@
         "url": "https://www.animegg.org/hadashi-no-gen-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5937,
+    "title": "Super Atragon",
+    "animegg_url": "https://www.animegg.org/series/super-atragon",
+    "mal_url": "https://myanimelist.net/anime/1938",
+    "mal_id": 1938,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/73206",
+        "dub": null,
+        "url": "https://www.animegg.org/super-atragon-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/73207",
+        "dub": null,
+        "url": "https://www.animegg.org/super-atragon-episode-2"
+      }
+    ]
   }
 ]
