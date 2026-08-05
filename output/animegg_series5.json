@@ -18132,5 +18132,21 @@
         "url": "https://www.animegg.org/loups-garous-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5925,
+    "title": "Magical Star Kanon 100%",
+    "animegg_url": "https://www.animegg.org/series/magical-9734-star-kanon-100",
+    "mal_url": "https://myanimelist.net/anime/17725",
+    "mal_id": 17725,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 100,
+        "sub": "https://www.animegg.org/embed/22530",
+        "dub": null,
+        "url": "https://www.animegg.org/magical-9734-star-kanon-100-episode-1"
+      }
+    ]
   }
 ]
