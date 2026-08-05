@@ -125744,5 +125744,87 @@
         "url": "https://www.animegg.org/himitsukessha-taka-no-tsume-golden-spell-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4812,
+    "title": "Zenshu",
+    "animegg_url": "https://www.animegg.org/series/sekai-douwa-anime-zenshuu",
+    "mal_url": "https://myanimelist.net/anime/58502",
+    "mal_id": 58502,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/139330",
+        "dub": null,
+        "url": "https://www.animegg.org/sekai-douwa-anime-zenshuu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/139360",
+        "dub": null,
+        "url": "https://www.animegg.org/sekai-douwa-anime-zenshuu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/139467",
+        "dub": null,
+        "url": "https://www.animegg.org/sekai-douwa-anime-zenshuu-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/139494",
+        "dub": null,
+        "url": "https://www.animegg.org/sekai-douwa-anime-zenshuu-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/139601",
+        "dub": null,
+        "url": "https://www.animegg.org/sekai-douwa-anime-zenshuu-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/139710",
+        "dub": null,
+        "url": "https://www.animegg.org/sekai-douwa-anime-zenshuu-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/139775",
+        "dub": null,
+        "url": "https://www.animegg.org/sekai-douwa-anime-zenshuu-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/139883",
+        "dub": null,
+        "url": "https://www.animegg.org/sekai-douwa-anime-zenshuu-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/139983",
+        "dub": null,
+        "url": "https://www.animegg.org/sekai-douwa-anime-zenshuu-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/140076",
+        "dub": null,
+        "url": "https://www.animegg.org/sekai-douwa-anime-zenshuu-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/140161",
+        "dub": null,
+        "url": "https://www.animegg.org/sekai-douwa-anime-zenshuu-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/140250",
+        "dub": null,
+        "url": "https://www.animegg.org/sekai-douwa-anime-zenshuu-episode-12"
+      }
+    ]
   }
 ]
