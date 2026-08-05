@@ -11626,5 +11626,51 @@
         "url": "https://www.animegg.org/isekai-shokudou-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3221,
+    "title": "Queen's Blade: Rebellion Specials",
+    "animegg_url": "https://www.animegg.org/series/queens-blade-rebellion-specials",
+    "mal_url": "https://myanimelist.net/anime/13855",
+    "mal_id": 13855,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/31383",
+        "dub": "https://www.animegg.org/embed/31384",
+        "url": "https://www.animegg.org/queens-blade-rebellion-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/31387",
+        "dub": "https://www.animegg.org/embed/31388",
+        "url": "https://www.animegg.org/queens-blade-rebellion-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/31385",
+        "dub": "https://www.animegg.org/embed/31386",
+        "url": "https://www.animegg.org/queens-blade-rebellion-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/31381",
+        "dub": "https://www.animegg.org/embed/31382",
+        "url": "https://www.animegg.org/queens-blade-rebellion-specials-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/31389",
+        "dub": "https://www.animegg.org/embed/31390",
+        "url": "https://www.animegg.org/queens-blade-rebellion-specials-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/31391",
+        "dub": "https://www.animegg.org/embed/31392",
+        "url": "https://www.animegg.org/queens-blade-rebellion-specials-episode-6"
+      }
+    ]
   }
 ]
