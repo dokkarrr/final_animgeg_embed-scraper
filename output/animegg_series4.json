@@ -105068,5 +105068,81 @@
         "url": "https://www.animegg.org/akane-banashi-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4497,
+    "title": "Taisou Zamurai",
+    "animegg_url": "https://www.animegg.org/series/taisou-zamurai",
+    "mal_url": "https://myanimelist.net/anime/42668",
+    "mal_id": 42668,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/99577",
+        "dub": null,
+        "url": "https://www.animegg.org/taisou-zamurai-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/99649",
+        "dub": null,
+        "url": "https://www.animegg.org/taisou-zamurai-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/99740",
+        "dub": null,
+        "url": "https://www.animegg.org/taisou-zamurai-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/99804",
+        "dub": null,
+        "url": "https://www.animegg.org/taisou-zamurai-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/99882",
+        "dub": null,
+        "url": "https://www.animegg.org/taisou-zamurai-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/99947",
+        "dub": null,
+        "url": "https://www.animegg.org/taisou-zamurai-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/100014",
+        "dub": null,
+        "url": "https://www.animegg.org/taisou-zamurai-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/100077",
+        "dub": null,
+        "url": "https://www.animegg.org/taisou-zamurai-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/100148",
+        "dub": null,
+        "url": "https://www.animegg.org/taisou-zamurai-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/100235",
+        "dub": null,
+        "url": "https://www.animegg.org/taisou-zamurai-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/100298",
+        "dub": null,
+        "url": "https://www.animegg.org/taisou-zamurai-episode-11"
+      }
+    ]
   }
 ]
