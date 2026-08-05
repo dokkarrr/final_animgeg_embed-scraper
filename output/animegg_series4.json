@@ -100322,5 +100322,75 @@
         "url": "https://www.animegg.org/i-m-the-evil-lord-of-an-intergalactic-empire-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4404,
+    "title": "Ousama Ranking: Yuuki no Takarabako",
+    "animegg_url": "https://www.animegg.org/series/ousama-ranking-yuuki-no-takarabako",
+    "mal_url": "https://myanimelist.net/anime/52657",
+    "mal_id": 52657,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/107752",
+        "dub": "https://www.animegg.org/embed/107882",
+        "url": "https://www.animegg.org/ousama-ranking-yuuki-no-takarabako-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/107838",
+        "dub": null,
+        "url": "https://www.animegg.org/ousama-ranking-yuuki-no-takarabako-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/107881",
+        "dub": null,
+        "url": "https://www.animegg.org/ousama-ranking-yuuki-no-takarabako-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/107940",
+        "dub": null,
+        "url": "https://www.animegg.org/ousama-ranking-yuuki-no-takarabako-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/107941",
+        "dub": null,
+        "url": "https://www.animegg.org/ousama-ranking-yuuki-no-takarabako-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/108122",
+        "dub": null,
+        "url": "https://www.animegg.org/ousama-ranking-yuuki-no-takarabako-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/108322",
+        "dub": null,
+        "url": "https://www.animegg.org/ousama-ranking-yuuki-no-takarabako-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/108797",
+        "dub": null,
+        "url": "https://www.animegg.org/ousama-ranking-yuuki-no-takarabako-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/129862",
+        "dub": null,
+        "url": "https://www.animegg.org/ousama-ranking-yuuki-no-takarabako-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/129863",
+        "dub": null,
+        "url": "https://www.animegg.org/ousama-ranking-yuuki-no-takarabako-episode-10"
+      }
+    ]
   }
 ]
