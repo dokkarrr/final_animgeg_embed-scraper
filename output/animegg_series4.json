@@ -42240,5 +42240,87 @@
         "url": "https://www.animegg.org/isekai-wa-smartphone-to-tomo-ni-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3574,
+    "title": "Kizuna no Allele",
+    "animegg_url": "https://www.animegg.org/series/kizuna-no-allele",
+    "mal_url": "https://myanimelist.net/anime/51139",
+    "mal_id": 51139,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/107647",
+        "dub": null,
+        "url": "https://www.animegg.org/kizuna-no-allele-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/107698",
+        "dub": null,
+        "url": "https://www.animegg.org/kizuna-no-allele-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/107741",
+        "dub": null,
+        "url": "https://www.animegg.org/kizuna-no-allele-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/108079",
+        "dub": null,
+        "url": "https://www.animegg.org/kizuna-no-allele-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/108080",
+        "dub": null,
+        "url": "https://www.animegg.org/kizuna-no-allele-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/108081",
+        "dub": null,
+        "url": "https://www.animegg.org/kizuna-no-allele-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/108082",
+        "dub": null,
+        "url": "https://www.animegg.org/kizuna-no-allele-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/108286",
+        "dub": null,
+        "url": "https://www.animegg.org/kizuna-no-allele-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/108702",
+        "dub": null,
+        "url": "https://www.animegg.org/kizuna-no-allele-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/108889",
+        "dub": null,
+        "url": "https://www.animegg.org/kizuna-no-allele-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/129897",
+        "dub": null,
+        "url": "https://www.animegg.org/kizuna-no-allele-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kizuna-no-allele-episode-12"
+      }
+    ]
   }
 ]
