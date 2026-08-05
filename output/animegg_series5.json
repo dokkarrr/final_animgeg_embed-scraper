@@ -28552,5 +28552,21 @@
         "url": "https://www.animegg.org/hero-mask-episode-15"
       }
     ]
+  },
+  {
+    "serial_no": 6079,
+    "title": "Summer Days with Coo",
+    "animegg_url": "https://www.animegg.org/series/summer-days-with-coo",
+    "mal_url": "https://myanimelist.net/anime/2848",
+    "mal_id": 2848,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/62979",
+        "dub": null,
+        "url": "https://www.animegg.org/summer-days-with-coo-episode-1"
+      }
+    ]
   }
 ]
