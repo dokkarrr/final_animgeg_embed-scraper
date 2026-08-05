@@ -61018,5 +61018,75 @@
         "url": "https://www.animegg.org/mobile-suit-gundam-thunderbolt-2nd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3836,
+    "title": "Valkyria Chronicles: Theater",
+    "animegg_url": "https://www.animegg.org/series/valkyria-chronicles-theater",
+    "mal_url": "https://myanimelist.net/anime/7016",
+    "mal_id": 7016,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/64555",
+        "dub": null,
+        "url": "https://www.animegg.org/valkyria-chronicles-theater-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/64556",
+        "dub": null,
+        "url": "https://www.animegg.org/valkyria-chronicles-theater-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/64557",
+        "dub": null,
+        "url": "https://www.animegg.org/valkyria-chronicles-theater-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/64558",
+        "dub": null,
+        "url": "https://www.animegg.org/valkyria-chronicles-theater-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/64559",
+        "dub": null,
+        "url": "https://www.animegg.org/valkyria-chronicles-theater-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/64560",
+        "dub": null,
+        "url": "https://www.animegg.org/valkyria-chronicles-theater-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/64561",
+        "dub": null,
+        "url": "https://www.animegg.org/valkyria-chronicles-theater-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/64562",
+        "dub": null,
+        "url": "https://www.animegg.org/valkyria-chronicles-theater-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/64563",
+        "dub": null,
+        "url": "https://www.animegg.org/valkyria-chronicles-theater-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/64564",
+        "dub": null,
+        "url": "https://www.animegg.org/valkyria-chronicles-theater-episode-10"
+      }
+    ]
   }
 ]
