@@ -64794,5 +64794,51 @@
         "url": "https://www.animegg.org/the-strongest-job-is-apparently-not-a-hero-or-a-sage-but-an-appraiser-provisional-episode-9"
       }
     ]
+  },
+  {
+    "serial_no": 3877,
+    "title": "Katte ni Kaizou",
+    "animegg_url": "https://www.animegg.org/series/katte-ni-kaizou",
+    "mal_url": "https://myanimelist.net/anime/10191",
+    "mal_id": 10191,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/19895",
+        "dub": null,
+        "url": "https://www.animegg.org/katte-ni-kaizou-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/19892",
+        "dub": null,
+        "url": "https://www.animegg.org/katte-ni-kaizou-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/19891",
+        "dub": null,
+        "url": "https://www.animegg.org/katte-ni-kaizou-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/19893",
+        "dub": null,
+        "url": "https://www.animegg.org/katte-ni-kaizou-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/19894",
+        "dub": null,
+        "url": "https://www.animegg.org/katte-ni-kaizou-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/19896",
+        "dub": null,
+        "url": "https://www.animegg.org/katte-ni-kaizou-episode-6"
+      }
+    ]
   }
 ]
