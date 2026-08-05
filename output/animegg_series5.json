@@ -23612,5 +23612,21 @@
         "url": "https://www.animegg.org/fanren-xiu-xian-chuan-3rd-season-episode-5"
       }
     ]
+  },
+  {
+    "serial_no": 6008,
+    "title": "Mahou no Chocolate",
+    "animegg_url": "https://www.animegg.org/series/mahou-no-chocolate",
+    "mal_url": "https://myanimelist.net/anime/1949",
+    "mal_id": 1949,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/56866",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-no-chocolate-episode-1"
+      }
+    ]
   }
 ]
