@@ -16388,5 +16388,21 @@
         "url": "https://www.animegg.org/cardcaptor-sakura-leave-it-to-kero-chan-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5894,
+    "title": "Mobile Suit Gundam Thunderbolt: Bandit Flower",
+    "animegg_url": "https://www.animegg.org/series/mobile-suit-gundam-thunderbolt-bandit-flower",
+    "mal_url": "https://myanimelist.net/anime/35949",
+    "mal_id": 35949,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/90214",
+        "dub": null,
+        "url": "https://www.animegg.org/mobile-suit-gundam-thunderbolt-bandit-flower-episode-1"
+      }
+    ]
   }
 ]
