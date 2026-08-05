@@ -5134,5 +5134,21 @@
         "url": "https://www.animegg.org/xingji-biaoche-wang-dub-episode-52"
       }
     ]
+  },
+  {
+    "serial_no": 5690,
+    "title": "Phantom of the Kill: Zero kara no Hangyaku",
+    "animegg_url": "https://www.animegg.org/series/phantom-of-the-kill-zero-kara-no-hangyaku",
+    "mal_url": "https://myanimelist.net/anime/31927",
+    "mal_id": 31927,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/83367",
+        "dub": null,
+        "url": "https://www.animegg.org/phantom-of-the-kill-zero-kara-no-hangyaku-episode-1"
+      }
+    ]
   }
 ]
