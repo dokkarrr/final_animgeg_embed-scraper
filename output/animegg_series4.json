@@ -111156,5 +111156,87 @@
         "url": "https://www.animegg.org/from-up-on-poppy-hill-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4591,
+    "title": "Shikizakura",
+    "animegg_url": "https://www.animegg.org/series/shikizakura",
+    "mal_url": "https://myanimelist.net/anime/38440",
+    "mal_id": 38440,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/103008",
+        "dub": null,
+        "url": "https://www.animegg.org/shikizakura-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/103068",
+        "dub": null,
+        "url": "https://www.animegg.org/shikizakura-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/103130",
+        "dub": null,
+        "url": "https://www.animegg.org/shikizakura-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/103192",
+        "dub": null,
+        "url": "https://www.animegg.org/shikizakura-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/103257",
+        "dub": null,
+        "url": "https://www.animegg.org/shikizakura-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/103316",
+        "dub": null,
+        "url": "https://www.animegg.org/shikizakura-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/103374",
+        "dub": null,
+        "url": "https://www.animegg.org/shikizakura-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/103437",
+        "dub": null,
+        "url": "https://www.animegg.org/shikizakura-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/103496",
+        "dub": null,
+        "url": "https://www.animegg.org/shikizakura-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/103569",
+        "dub": null,
+        "url": "https://www.animegg.org/shikizakura-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/103627",
+        "dub": null,
+        "url": "https://www.animegg.org/shikizakura-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/103676",
+        "dub": null,
+        "url": "https://www.animegg.org/shikizakura-episode-12"
+      }
+    ]
   }
 ]
