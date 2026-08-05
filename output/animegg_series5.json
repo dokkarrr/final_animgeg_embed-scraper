@@ -45171,5 +45171,21 @@
         "url": "https://www.animegg.org/kaichou-wa-maid-sama-dub-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 6271,
+    "title": "New Game!: Watashi, Shain Ryokou tte Hajimete nano de...",
+    "animegg_url": "https://www.animegg.org/series/new-game-watashi-shain-ryokou-tte-hajimete-nano-de",
+    "mal_url": "https://myanimelist.net/anime/34277",
+    "mal_id": 34277,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/86924",
+        "dub": null,
+        "url": "https://www.animegg.org/new-game-watashi-shain-ryokou-tte-hajimete-nano-de-episode-1"
+      }
+    ]
   }
 ]
