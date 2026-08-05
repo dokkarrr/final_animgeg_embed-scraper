@@ -314,5 +314,21 @@
         "url": "https://www.animegg.org/micchiri-neko-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3075,
+    "title": "One Piece x Toriko x Dragon Ball Z Crossover",
+    "animegg_url": "https://www.animegg.org/series/one-piece-x-toriko-x-dragon-ball-z-crossover",
+    "mal_url": "https://myanimelist.net/anime/6033",
+    "mal_id": 6033,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/59184",
+        "dub": null,
+        "url": "https://www.animegg.org/one-piece-x-toriko-x-dragon-ball-z-crossover-episode-1"
+      }
+    ]
   }
 ]
