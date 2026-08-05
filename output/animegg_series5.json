@@ -29178,5 +29178,21 @@
         "url": "https://www.animegg.org/mobile-suit-gundam-nt-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6102,
+    "title": "Minami-ke Betsubara (OVA)",
+    "animegg_url": "https://www.animegg.org/series/minami-ke-betsubara-ova",
+    "mal_url": "https://myanimelist.net/anime/5713",
+    "mal_id": 5713,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/24131",
+        "dub": null,
+        "url": "https://www.animegg.org/minami-ke-betsubara-ova-episode-1"
+      }
+    ]
   }
 ]
