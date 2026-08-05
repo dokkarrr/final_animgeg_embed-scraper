@@ -131282,5 +131282,21 @@
         "url": "https://www.animegg.org/burn-the-witch-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 4902,
+    "title": "Ghost in the Shell 2.0",
+    "animegg_url": "https://www.animegg.org/series/ghost-in-the-shell-20",
+    "mal_url": "https://myanimelist.net/anime/4672",
+    "mal_id": 4672,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/51865",
+        "dub": null,
+        "url": "https://www.animegg.org/ghost-in-the-shell-20-episode-1"
+      }
+    ]
   }
 ]
