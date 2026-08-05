@@ -98808,5 +98808,33 @@
         "url": "https://www.animegg.org/ao-no-exorcist-kyoto-fujouou-hen-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 6731,
+    "title": "Yano-kun's Ordinary Days",
+    "animegg_url": "https://www.animegg.org/series/yano-kun-s-ordinary-days",
+    "mal_url": "https://myanimelist.net/anime/60254",
+    "mal_id": 60254,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/143645",
+        "dub": null,
+        "url": "https://www.animegg.org/yano-kun-s-ordinary-days-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/143745",
+        "dub": null,
+        "url": "https://www.animegg.org/yano-kun-s-ordinary-days-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/143852",
+        "dub": null,
+        "url": "https://www.animegg.org/yano-kun-s-ordinary-days-episode-12"
+      }
+    ]
   }
 ]
