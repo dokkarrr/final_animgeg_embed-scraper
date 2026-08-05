@@ -97070,5 +97070,63 @@
         "url": "https://www.animegg.org/bakumatsu-crisis-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4368,
+    "title": "Castlevania Season 2",
+    "animegg_url": "https://www.animegg.org/series/castlevania-season-2",
+    "mal_url": "https://myanimelist.net/anime/513",
+    "mal_id": 513,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/93357",
+        "dub": null,
+        "url": "https://www.animegg.org/castlevania-season-2-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/93358",
+        "dub": null,
+        "url": "https://www.animegg.org/castlevania-season-2-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/castlevania-season-2-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/128800",
+        "dub": null,
+        "url": "https://www.animegg.org/castlevania-season-2-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/128801",
+        "dub": null,
+        "url": "https://www.animegg.org/castlevania-season-2-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/128802",
+        "dub": null,
+        "url": "https://www.animegg.org/castlevania-season-2-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/128803",
+        "dub": null,
+        "url": "https://www.animegg.org/castlevania-season-2-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/93356",
+        "dub": null,
+        "url": "https://www.animegg.org/castlevania-season-2-episode-1"
+      }
+    ]
   }
 ]
