@@ -3052,5 +3052,21 @@
         "url": "https://www.animegg.org/tokyo-marble-chocolate-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 5651,
+    "title": "Metal Fight Beyblade vs. Taiyou: Shakunetsu no Shinryakusha Sol Blaze",
+    "animegg_url": "https://www.animegg.org/series/metal-fight-beyblade-vs-taiyou-shakunetsu-no-shinryakusha-sol-blaze",
+    "mal_url": "https://myanimelist.net/anime/8245",
+    "mal_id": 8245,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/58394",
+        "dub": null,
+        "url": "https://www.animegg.org/metal-fight-beyblade-vs-taiyou-shakunetsu-no-shinryakusha-sol-blaze-episode-1"
+      }
+    ]
   }
 ]
