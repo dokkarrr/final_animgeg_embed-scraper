@@ -59126,5 +59126,39 @@
         "url": "https://www.animegg.org/rougo-ni-sonaete-isekai-de-8-manmai-no-kinka-wo-tamemasu-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3804,
+    "title": "Toradora! SOS!",
+    "animegg_url": "https://www.animegg.org/series/toradora-special",
+    "mal_url": "https://myanimelist.net/anime/6127",
+    "mal_id": 6127,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/38673",
+        "dub": "https://www.animegg.org/embed/74084",
+        "url": "https://www.animegg.org/toradora-special-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/38671",
+        "dub": "https://www.animegg.org/embed/74085",
+        "url": "https://www.animegg.org/toradora-special-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/38670",
+        "dub": "https://www.animegg.org/embed/74086",
+        "url": "https://www.animegg.org/toradora-special-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/38672",
+        "dub": "https://www.animegg.org/embed/74087",
+        "url": "https://www.animegg.org/toradora-special-episode-4"
+      }
+    ]
   }
 ]
