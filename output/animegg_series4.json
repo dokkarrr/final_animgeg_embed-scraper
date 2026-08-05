@@ -136983,5 +136983,27 @@
         "url": "https://www.animegg.org/hamtaro-ova-001-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4979,
+    "title": "Blood Reign",
+    "animegg_url": "https://www.animegg.org/series/blood-reign",
+    "mal_url": "https://myanimelist.net/anime/1484",
+    "mal_id": 1484,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/49091",
+        "dub": "https://www.animegg.org/embed/68505",
+        "url": "https://www.animegg.org/blood-reign-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/49092",
+        "dub": "https://www.animegg.org/embed/68507",
+        "url": "https://www.animegg.org/blood-reign-episode-2"
+      }
+    ]
   }
 ]
