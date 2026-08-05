@@ -27310,5 +27310,21 @@
         "url": "https://www.animegg.org/wind-a-breath-of-heart-ova-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 6055,
+    "title": "Onegai Twins OVA",
+    "animegg_url": "https://www.animegg.org/series/onegai-twins-ova",
+    "mal_url": "https://myanimelist.net/anime/196",
+    "mal_id": 196,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/58840",
+        "dub": null,
+        "url": "https://www.animegg.org/onegai-twins-ova-episode-1"
+      }
+    ]
   }
 ]
