@@ -131159,5 +131159,27 @@
         "url": "https://www.animegg.org/zhu-tian-ji-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 7011,
+    "title": "Artiswitch",
+    "animegg_url": "https://www.animegg.org/series/artiswitch",
+    "mal_url": "https://myanimelist.net/anime/49066",
+    "mal_id": 49066,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/102065",
+        "dub": null,
+        "url": "https://www.animegg.org/artiswitch-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/102066",
+        "dub": null,
+        "url": "https://www.animegg.org/artiswitch-episode-2"
+      }
+    ]
   }
 ]
