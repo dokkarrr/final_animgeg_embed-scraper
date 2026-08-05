@@ -107164,5 +107164,51 @@
         "url": "https://www.animegg.org/love-live-superstar-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4532,
+    "title": "Prism Ark Specials",
+    "animegg_url": "https://www.animegg.org/series/prism-ark-specials",
+    "mal_url": "https://myanimelist.net/anime/4566",
+    "mal_id": 4566,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/61333",
+        "dub": null,
+        "url": "https://www.animegg.org/prism-ark-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/61334",
+        "dub": null,
+        "url": "https://www.animegg.org/prism-ark-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/61335",
+        "dub": null,
+        "url": "https://www.animegg.org/prism-ark-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/61336",
+        "dub": null,
+        "url": "https://www.animegg.org/prism-ark-specials-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/61337",
+        "dub": null,
+        "url": "https://www.animegg.org/prism-ark-specials-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/61338",
+        "dub": null,
+        "url": "https://www.animegg.org/prism-ark-specials-episode-6"
+      }
+    ]
   }
 ]
