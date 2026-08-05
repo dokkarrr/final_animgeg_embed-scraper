@@ -80658,5 +80658,87 @@
         "url": "https://www.animegg.org/jojo-no-kimyou-na-bouken-diamond-wa-kudakenai-episode-39"
       }
     ]
+  },
+  {
+    "serial_no": 4129,
+    "title": "SSSS.Dynazenon",
+    "animegg_url": "https://www.animegg.org/series/ssssdynazenon",
+    "mal_url": "https://myanimelist.net/anime/40870",
+    "mal_id": 40870,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/101327",
+        "dub": null,
+        "url": "https://www.animegg.org/ssssdynazenon-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/101376",
+        "dub": null,
+        "url": "https://www.animegg.org/ssssdynazenon-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/101444",
+        "dub": null,
+        "url": "https://www.animegg.org/ssssdynazenon-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/101506",
+        "dub": null,
+        "url": "https://www.animegg.org/ssssdynazenon-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/101571",
+        "dub": null,
+        "url": "https://www.animegg.org/ssssdynazenon-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/101633",
+        "dub": null,
+        "url": "https://www.animegg.org/ssssdynazenon-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/101698",
+        "dub": null,
+        "url": "https://www.animegg.org/ssssdynazenon-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/101777",
+        "dub": null,
+        "url": "https://www.animegg.org/ssssdynazenon-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/101844",
+        "dub": null,
+        "url": "https://www.animegg.org/ssssdynazenon-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/101921",
+        "dub": null,
+        "url": "https://www.animegg.org/ssssdynazenon-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/101986",
+        "dub": null,
+        "url": "https://www.animegg.org/ssssdynazenon-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/102064",
+        "dub": null,
+        "url": "https://www.animegg.org/ssssdynazenon-episode-12"
+      }
+    ]
   }
 ]
