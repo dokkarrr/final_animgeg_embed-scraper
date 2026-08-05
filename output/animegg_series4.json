@@ -93664,5 +93664,21 @@
         "url": "https://www.animegg.org/tadaima-okaeri-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4313,
+    "title": "Yu-Gi-Oh!: Pyramid of Light",
+    "animegg_url": "https://www.animegg.org/series/yu-gi-oh-pyramid-of-light",
+    "mal_url": "https://myanimelist.net/anime/1894",
+    "mal_id": 1894,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/62981",
+        "dub": "https://www.animegg.org/embed/62982",
+        "url": "https://www.animegg.org/yu-gi-oh-pyramid-of-light-episode-1"
+      }
+    ]
   }
 ]
