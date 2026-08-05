@@ -26514,5 +26514,93 @@
         "url": "https://www.animegg.org/future-gpx-cyber-formula-saga-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 3382,
+    "title": "Monkey Magic",
+    "animegg_url": "https://www.animegg.org/series/monkey-magic",
+    "mal_url": "https://myanimelist.net/anime/1139",
+    "mal_id": 1139,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/57860",
+        "dub": null,
+        "url": "https://www.animegg.org/monkey-magic-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/57861",
+        "dub": null,
+        "url": "https://www.animegg.org/monkey-magic-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/57862",
+        "dub": null,
+        "url": "https://www.animegg.org/monkey-magic-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/57863",
+        "dub": null,
+        "url": "https://www.animegg.org/monkey-magic-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/57864",
+        "dub": null,
+        "url": "https://www.animegg.org/monkey-magic-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/57865",
+        "dub": null,
+        "url": "https://www.animegg.org/monkey-magic-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/57866",
+        "dub": null,
+        "url": "https://www.animegg.org/monkey-magic-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/57867",
+        "dub": null,
+        "url": "https://www.animegg.org/monkey-magic-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/57868",
+        "dub": null,
+        "url": "https://www.animegg.org/monkey-magic-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/57869",
+        "dub": null,
+        "url": "https://www.animegg.org/monkey-magic-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/57870",
+        "dub": null,
+        "url": "https://www.animegg.org/monkey-magic-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/57871",
+        "dub": null,
+        "url": "https://www.animegg.org/monkey-magic-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/57872",
+        "dub": null,
+        "url": "https://www.animegg.org/monkey-magic-episode-13"
+      }
+    ]
   }
 ]
