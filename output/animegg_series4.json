@@ -84162,5 +84162,87 @@
         "url": "https://www.animegg.org/dragon-ball-movie-4-the-path-to-power-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4171,
+    "title": "Teogonia",
+    "animegg_url": "https://www.animegg.org/series/teogonia",
+    "mal_url": "https://myanimelist.net/anime/58614",
+    "mal_id": 58614,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/140445",
+        "dub": "https://www.animegg.org/embed/140609",
+        "url": "https://www.animegg.org/teogonia-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/140530",
+        "dub": "https://www.animegg.org/embed/140703",
+        "url": "https://www.animegg.org/teogonia-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/140615",
+        "dub": "https://www.animegg.org/embed/140799",
+        "url": "https://www.animegg.org/teogonia-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/140698",
+        "dub": "https://www.animegg.org/embed/140892",
+        "url": "https://www.animegg.org/teogonia-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/140780",
+        "dub": "https://www.animegg.org/embed/141010",
+        "url": "https://www.animegg.org/teogonia-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/140889",
+        "dub": "https://www.animegg.org/embed/141115",
+        "url": "https://www.animegg.org/teogonia-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/141004",
+        "dub": "https://www.animegg.org/embed/141210",
+        "url": "https://www.animegg.org/teogonia-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/141112",
+        "dub": "https://www.animegg.org/embed/141302",
+        "url": "https://www.animegg.org/teogonia-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/141204",
+        "dub": "https://www.animegg.org/embed/141476",
+        "url": "https://www.animegg.org/teogonia-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/141298",
+        "dub": "https://www.animegg.org/embed/141567",
+        "url": "https://www.animegg.org/teogonia-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/141397",
+        "dub": "https://www.animegg.org/embed/141676",
+        "url": "https://www.animegg.org/teogonia-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/141473",
+        "dub": "https://www.animegg.org/embed/141791",
+        "url": "https://www.animegg.org/teogonia-episode-12"
+      }
+    ]
   }
 ]
