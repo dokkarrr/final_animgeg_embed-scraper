@@ -26456,5 +26456,63 @@
         "url": "https://www.animegg.org/nanaka-617-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3381,
+    "title": "Future GPX Cyber Formula Saga",
+    "animegg_url": "https://www.animegg.org/series/future-gpx-cyber-formula-saga",
+    "mal_url": "https://myanimelist.net/anime/1394",
+    "mal_id": 1394,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/49550",
+        "dub": null,
+        "url": "https://www.animegg.org/future-gpx-cyber-formula-saga-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/49551",
+        "dub": null,
+        "url": "https://www.animegg.org/future-gpx-cyber-formula-saga-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/49552",
+        "dub": null,
+        "url": "https://www.animegg.org/future-gpx-cyber-formula-saga-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/49553",
+        "dub": null,
+        "url": "https://www.animegg.org/future-gpx-cyber-formula-saga-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/49554",
+        "dub": null,
+        "url": "https://www.animegg.org/future-gpx-cyber-formula-saga-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/49555",
+        "dub": null,
+        "url": "https://www.animegg.org/future-gpx-cyber-formula-saga-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/49556",
+        "dub": null,
+        "url": "https://www.animegg.org/future-gpx-cyber-formula-saga-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/49557",
+        "dub": null,
+        "url": "https://www.animegg.org/future-gpx-cyber-formula-saga-episode-8"
+      }
+    ]
   }
 ]
