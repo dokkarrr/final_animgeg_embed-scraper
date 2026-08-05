@@ -70180,5 +70180,27 @@
         "url": "https://www.animegg.org/genjitsu-no-yohane-sunshine-in-the-mirror-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3953,
+    "title": "Ikkitousen: Extravaganza Epoch",
+    "animegg_url": "https://www.animegg.org/series/ikkitousen-extravaganza-epoch",
+    "mal_url": "https://myanimelist.net/anime/26183",
+    "mal_id": 26183,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/67695",
+        "dub": "https://www.animegg.org/embed/77667",
+        "url": "https://www.animegg.org/ikkitousen-extravaganza-epoch-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/67780",
+        "dub": "https://www.animegg.org/embed/77668",
+        "url": "https://www.animegg.org/ikkitousen-extravaganza-epoch-episode-2"
+      }
+    ]
   }
 ]
