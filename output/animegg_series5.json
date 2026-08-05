@@ -9999,5 +9999,75 @@
         "url": "https://www.animegg.org/yowamushi-pedal-special-ride-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5771,
+    "title": "Super Dragon Ball Heroes Ultra God Mission",
+    "animegg_url": "https://www.animegg.org/series/super-dragon-ball-heroes-ultra-god-mission",
+    "mal_url": "https://myanimelist.net/anime/36946",
+    "mal_id": 36946,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/117550",
+        "dub": null,
+        "url": "https://www.animegg.org/super-dragon-ball-heroes-ultra-god-mission-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/117549",
+        "dub": null,
+        "url": "https://www.animegg.org/super-dragon-ball-heroes-ultra-god-mission-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/super-dragon-ball-heroes-ultra-god-mission-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/117548",
+        "dub": null,
+        "url": "https://www.animegg.org/super-dragon-ball-heroes-ultra-god-mission-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/117547",
+        "dub": null,
+        "url": "https://www.animegg.org/super-dragon-ball-heroes-ultra-god-mission-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/117546",
+        "dub": null,
+        "url": "https://www.animegg.org/super-dragon-ball-heroes-ultra-god-mission-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/117545",
+        "dub": null,
+        "url": "https://www.animegg.org/super-dragon-ball-heroes-ultra-god-mission-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/117544",
+        "dub": null,
+        "url": "https://www.animegg.org/super-dragon-ball-heroes-ultra-god-mission-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/131044",
+        "dub": null,
+        "url": "https://www.animegg.org/super-dragon-ball-heroes-ultra-god-mission-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/131045",
+        "dub": null,
+        "url": "https://www.animegg.org/super-dragon-ball-heroes-ultra-god-mission-episode-10"
+      }
+    ]
   }
 ]
