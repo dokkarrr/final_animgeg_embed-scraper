@@ -1546,5 +1546,87 @@
         "url": "https://www.animegg.org/ichiban-ushiro-no-daimaou-specials-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 3092,
+    "title": "Long Riders!",
+    "animegg_url": "https://www.animegg.org/series/long-riders",
+    "mal_url": "https://myanimelist.net/anime/30652",
+    "mal_id": 30652,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/84166",
+        "dub": null,
+        "url": "https://www.animegg.org/long-riders-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/84277",
+        "dub": null,
+        "url": "https://www.animegg.org/long-riders-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/84475",
+        "dub": null,
+        "url": "https://www.animegg.org/long-riders-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/84580",
+        "dub": null,
+        "url": "https://www.animegg.org/long-riders-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/84786",
+        "dub": null,
+        "url": "https://www.animegg.org/long-riders-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/84870",
+        "dub": null,
+        "url": "https://www.animegg.org/long-riders-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/85046",
+        "dub": null,
+        "url": "https://www.animegg.org/long-riders-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/85047",
+        "dub": null,
+        "url": "https://www.animegg.org/long-riders-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/85152",
+        "dub": null,
+        "url": "https://www.animegg.org/long-riders-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/85268",
+        "dub": null,
+        "url": "https://www.animegg.org/long-riders-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/85786",
+        "dub": null,
+        "url": "https://www.animegg.org/long-riders-episode"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/85787",
+        "dub": null,
+        "url": "https://www.animegg.org/long-riders-episode-12"
+      }
+    ]
   }
 ]
