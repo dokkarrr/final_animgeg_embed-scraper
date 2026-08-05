@@ -35186,5 +35186,45 @@
         "url": "https://www.animegg.org/garo-movie-divine-flame-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6176,
+    "title": "Pokemon Evolutions",
+    "animegg_url": "https://www.animegg.org/series/pokemon-evolutions",
+    "mal_url": "https://myanimelist.net/anime/49730",
+    "mal_id": 49730,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/102714",
+        "dub": null,
+        "url": "https://www.animegg.org/pokemon-evolutions-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/102828",
+        "dub": null,
+        "url": "https://www.animegg.org/pokemon-evolutions-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/102973",
+        "dub": null,
+        "url": "https://www.animegg.org/pokemon-evolutions-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/103686",
+        "dub": null,
+        "url": "https://www.animegg.org/pokemon-evolutions-episode-4"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/103687",
+        "dub": null,
+        "url": "https://www.animegg.org/pokemon-evolutions-episode-8"
+      }
+    ]
   }
 ]
