@@ -107232,5 +107232,39 @@
         "url": "https://www.animegg.org/drifters-specials-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 4534,
+    "title": "Kuragehime Specials",
+    "animegg_url": "https://www.animegg.org/series/kuragehime-specials",
+    "mal_url": "https://myanimelist.net/anime/9754",
+    "mal_id": 9754,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/20824",
+        "dub": null,
+        "url": "https://www.animegg.org/kuragehime-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/20822",
+        "dub": null,
+        "url": "https://www.animegg.org/kuragehime-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/20823",
+        "dub": null,
+        "url": "https://www.animegg.org/kuragehime-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/20825",
+        "dub": null,
+        "url": "https://www.animegg.org/kuragehime-specials-episode-4"
+      }
+    ]
   }
 ]
