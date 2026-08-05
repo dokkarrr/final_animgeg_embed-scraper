@@ -7459,5 +7459,21 @@
         "url": "https://www.animegg.org/kimetsu-no-yaiba-recap-movie-2-mt-natagumo-arc-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5730,
+    "title": "Ayane-chan High Kick!",
+    "animegg_url": "https://www.animegg.org/series/ayane-chan-high-kick",
+    "mal_url": "https://myanimelist.net/anime/2183",
+    "mal_id": 2183,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/64765",
+        "dub": "https://www.animegg.org/embed/64766",
+        "url": "https://www.animegg.org/ayane-chan-high-kick-episode-1"
+      }
+    ]
   }
 ]
