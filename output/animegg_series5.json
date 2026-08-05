@@ -3526,5 +3526,21 @@
         "url": "https://www.animegg.org/karakai-jouzu-no-takagi-san-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5666,
+    "title": "Ashita no Joe 2 (Movie)",
+    "animegg_url": "https://www.animegg.org/series/ashita-no-joe-2-movie",
+    "mal_url": "https://myanimelist.net/anime/2922",
+    "mal_id": 2922,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/65195",
+        "dub": null,
+        "url": "https://www.animegg.org/ashita-no-joe-2-movie-episode-1"
+      }
+    ]
   }
 ]
