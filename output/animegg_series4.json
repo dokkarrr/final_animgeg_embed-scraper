@@ -19858,5 +19858,51 @@
         "url": "https://www.animegg.org/benriya-saitou-san-isekai-ni-iku-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3308,
+    "title": "Guyver",
+    "animegg_url": "https://www.animegg.org/series/guyver",
+    "mal_url": "https://myanimelist.net/anime/1374",
+    "mal_id": 1374,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/14781",
+        "dub": "https://www.animegg.org/embed/71046",
+        "url": "https://www.animegg.org/guyver-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/14783",
+        "dub": "https://www.animegg.org/embed/71047",
+        "url": "https://www.animegg.org/guyver-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/14784",
+        "dub": "https://www.animegg.org/embed/71048",
+        "url": "https://www.animegg.org/guyver-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/14780",
+        "dub": "https://www.animegg.org/embed/71050",
+        "url": "https://www.animegg.org/guyver-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/14782",
+        "dub": "https://www.animegg.org/embed/71053",
+        "url": "https://www.animegg.org/guyver-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/14785",
+        "dub": "https://www.animegg.org/embed/71054",
+        "url": "https://www.animegg.org/guyver-episode-6"
+      }
+    ]
   }
 ]
