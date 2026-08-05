@@ -2764,5 +2764,27 @@
         "url": "https://www.animegg.org/tanoshii-muumin-ikka-episode-78"
       }
     ]
+  },
+  {
+    "serial_no": 5645,
+    "title": "Majokko Shimai no Yoyo to Nene",
+    "animegg_url": "https://www.animegg.org/series/majokko-shimai-no-yoyo-to-nene",
+    "mal_url": "https://myanimelist.net/anime/15813",
+    "mal_id": 15813,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/49187",
+        "dub": null,
+        "url": "https://www.animegg.org/majokko-shimai-no-yoyo-to-nene-episode"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/49188",
+        "dub": null,
+        "url": "https://www.animegg.org/majokko-shimai-no-yoyo-to-nene-episode-2"
+      }
+    ]
   }
 ]
