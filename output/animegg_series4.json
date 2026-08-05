@@ -101306,5 +101306,93 @@
         "url": "https://www.animegg.org/goku-sayonara-zetsubou-sensei-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 4422,
+    "title": "Hotel Inhumans",
+    "animegg_url": "https://www.animegg.org/series/hotel-inhumans",
+    "mal_url": "https://myanimelist.net/anime/60260",
+    "mal_id": 60260,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/141603",
+        "dub": null,
+        "url": "https://www.animegg.org/hotel-inhumans-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/141715",
+        "dub": null,
+        "url": "https://www.animegg.org/hotel-inhumans-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/141821",
+        "dub": null,
+        "url": "https://www.animegg.org/hotel-inhumans-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/141933",
+        "dub": null,
+        "url": "https://www.animegg.org/hotel-inhumans-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/142057",
+        "dub": null,
+        "url": "https://www.animegg.org/hotel-inhumans-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/142183",
+        "dub": null,
+        "url": "https://www.animegg.org/hotel-inhumans-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/142299",
+        "dub": null,
+        "url": "https://www.animegg.org/hotel-inhumans-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/142399",
+        "dub": null,
+        "url": "https://www.animegg.org/hotel-inhumans-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/hotel-inhumans-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/hotel-inhumans-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/142553",
+        "dub": null,
+        "url": "https://www.animegg.org/hotel-inhumans-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/142660",
+        "dub": null,
+        "url": "https://www.animegg.org/hotel-inhumans-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/142741",
+        "dub": null,
+        "url": "https://www.animegg.org/hotel-inhumans-episode-13"
+      }
+    ]
   }
 ]
