@@ -114370,5 +114370,45 @@
         "url": "https://www.animegg.org/ancient-martial-artist-in-the-city-3nd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6857,
+    "title": "Bikkurimen",
+    "animegg_url": "https://www.animegg.org/series/bikkurimen",
+    "mal_url": "https://myanimelist.net/anime/54914",
+    "mal_id": 54914,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/131911",
+        "dub": null,
+        "url": "https://www.animegg.org/bikkurimen-episode-1"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/131912",
+        "dub": null,
+        "url": "https://www.animegg.org/bikkurimen-episode-3"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/132147",
+        "dub": null,
+        "url": "https://www.animegg.org/bikkurimen-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/132149",
+        "dub": null,
+        "url": "https://www.animegg.org/bikkurimen-episode-6"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/132551",
+        "dub": null,
+        "url": "https://www.animegg.org/bikkurimen-episode-12"
+      }
+    ]
   }
 ]
