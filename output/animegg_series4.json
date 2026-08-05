@@ -46972,5 +46972,75 @@
         "url": "https://www.animegg.org/rideback-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3635,
+    "title": "Kimi wa Meido-sama.",
+    "animegg_url": "https://www.animegg.org/series/kimi-wa-meido-sama",
+    "mal_url": "https://myanimelist.net/anime/57611",
+    "mal_id": 57611,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/137656",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-wa-meido-sama-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/137926",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-wa-meido-sama-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/138183",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-wa-meido-sama-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/138422",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-wa-meido-sama-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/138618",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-wa-meido-sama-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/138844",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-wa-meido-sama-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/139044",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-wa-meido-sama-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/139223",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-wa-meido-sama-episode-8"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/139456",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-wa-meido-sama-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/139504",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-wa-meido-sama-episode-12"
+      }
+    ]
   }
 ]
