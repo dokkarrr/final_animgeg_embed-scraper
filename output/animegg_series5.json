@@ -43719,5 +43719,21 @@
         "url": "https://www.animegg.org/tsumiki-no-ie-episode"
       }
     ]
+  },
+  {
+    "serial_no": 6259,
+    "title": "Tenjou-jin to Akuto-jin Saigo no Tatakai",
+    "animegg_url": "https://www.animegg.org/series/tenjou-jin-to-akuto-jin-saigo-no-tatakai",
+    "mal_url": "https://myanimelist.net/anime/6169",
+    "mal_id": 6169,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/63255",
+        "dub": null,
+        "url": "https://www.animegg.org/tenjou-jin-to-akuto-jin-saigo-no-tatakai-episode-1"
+      }
+    ]
   }
 ]
