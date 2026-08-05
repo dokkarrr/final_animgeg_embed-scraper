@@ -48140,5 +48140,21 @@
         "url": "https://www.animegg.org/xian-wang-de-richang-shenghuo-2-dub-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6298,
+    "title": "Tactical Roar Special",
+    "animegg_url": "https://www.animegg.org/series/tactical-roar-special",
+    "mal_url": "https://myanimelist.net/anime/1790",
+    "mal_id": 1790,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/61748",
+        "dub": null,
+        "url": "https://www.animegg.org/tactical-roar-special-episode-1"
+      }
+    ]
   }
 ]
