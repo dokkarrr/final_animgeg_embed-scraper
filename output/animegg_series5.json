@@ -59725,5 +59725,21 @@
         "url": "https://www.animegg.org/wei-kanjian-erduo-la-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 6397,
+    "title": "Selector Destructed WIXOSS Movie",
+    "animegg_url": "https://www.animegg.org/series/selector-destructed-wixoss-movie",
+    "mal_url": "https://myanimelist.net/anime/31280",
+    "mal_id": 31280,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/84549",
+        "dub": null,
+        "url": "https://www.animegg.org/selector-destructed-wixoss-movie-episode-1"
+      }
+    ]
   }
 ]
