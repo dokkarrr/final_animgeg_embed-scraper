@@ -45547,5 +45547,69 @@
         "url": "https://www.animegg.org/shakugan-no-shana-movie-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6278,
+    "title": "Ghost Concert: Missing Songs",
+    "animegg_url": "https://www.animegg.org/series/ghost-concert-missing-songs",
+    "mal_url": "https://myanimelist.net/anime/62852",
+    "mal_id": 62852,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/145514",
+        "dub": null,
+        "url": "https://www.animegg.org/ghost-concert-missing-songs-episode-1"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/145513",
+        "dub": null,
+        "url": "https://www.animegg.org/ghost-concert-missing-songs-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/145512",
+        "dub": null,
+        "url": "https://www.animegg.org/ghost-concert-missing-songs-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/145620",
+        "dub": null,
+        "url": "https://www.animegg.org/ghost-concert-missing-songs-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/145714",
+        "dub": null,
+        "url": "https://www.animegg.org/ghost-concert-missing-songs-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/145815",
+        "dub": null,
+        "url": "https://www.animegg.org/ghost-concert-missing-songs-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/145930",
+        "dub": null,
+        "url": "https://www.animegg.org/ghost-concert-missing-songs-episode-8"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/146043",
+        "dub": null,
+        "url": "https://www.animegg.org/ghost-concert-missing-songs-episode-10"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/146185",
+        "dub": null,
+        "url": "https://www.animegg.org/ghost-concert-missing-songs-episode-12"
+      }
+    ]
   }
 ]
