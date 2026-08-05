@@ -72290,5 +72290,51 @@
         "url": "https://www.animegg.org/accel-world-ova-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 3990,
+    "title": "Video Girl Ai",
+    "animegg_url": "https://www.animegg.org/series/video-girl-ai",
+    "mal_url": "https://myanimelist.net/anime/201",
+    "mal_id": 201,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/39963",
+        "dub": "https://www.animegg.org/embed/39964",
+        "url": "https://www.animegg.org/video-girl-ai-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/39965",
+        "dub": "https://www.animegg.org/embed/39966",
+        "url": "https://www.animegg.org/video-girl-ai-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/39967",
+        "dub": "https://www.animegg.org/embed/39968",
+        "url": "https://www.animegg.org/video-girl-ai-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/39969",
+        "dub": "https://www.animegg.org/embed/39970",
+        "url": "https://www.animegg.org/video-girl-ai-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/39971",
+        "dub": "https://www.animegg.org/embed/39972",
+        "url": "https://www.animegg.org/video-girl-ai-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/39973",
+        "dub": "https://www.animegg.org/embed/39974",
+        "url": "https://www.animegg.org/video-girl-ai-episode-6"
+      }
+    ]
   }
 ]
