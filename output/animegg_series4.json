@@ -15692,5 +15692,93 @@
         "url": "https://www.animegg.org/gunbuster-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 3255,
+    "title": "Miami Guns",
+    "animegg_url": "https://www.animegg.org/series/miami-guns",
+    "mal_url": "https://myanimelist.net/anime/783",
+    "mal_id": 783,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/24067",
+        "dub": "https://www.animegg.org/embed/24068",
+        "url": "https://www.animegg.org/miami-guns-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/24064",
+        "dub": "https://www.animegg.org/embed/24065",
+        "url": "https://www.animegg.org/miami-guns-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/24066",
+        "dub": null,
+        "url": "https://www.animegg.org/miami-guns-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/miami-guns-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/miami-guns-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/miami-guns-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/miami-guns-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/miami-guns-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/miami-guns-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/miami-guns-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/miami-guns-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/miami-guns-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/miami-guns-episode-13"
+      }
+    ]
   }
 ]
