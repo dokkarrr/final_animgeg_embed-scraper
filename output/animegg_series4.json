@@ -102340,5 +102340,39 @@
         "url": "https://www.animegg.org/chou-kadou-girl-amazing-stranger-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4439,
+    "title": "Shakugan No Shana S",
+    "animegg_url": "https://www.animegg.org/series/shakugan-no-shana-s",
+    "mal_url": "https://myanimelist.net/anime/6572",
+    "mal_id": 6572,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/34227",
+        "dub": "https://www.animegg.org/embed/71850",
+        "url": "https://www.animegg.org/shakugan-no-shana-s-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/34224",
+        "dub": "https://www.animegg.org/embed/71854",
+        "url": "https://www.animegg.org/shakugan-no-shana-s-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/34225",
+        "dub": "https://www.animegg.org/embed/71858",
+        "url": "https://www.animegg.org/shakugan-no-shana-s-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/34226",
+        "dub": "https://www.animegg.org/embed/71860",
+        "url": "https://www.animegg.org/shakugan-no-shana-s-episode-4"
+      }
+    ]
   }
 ]
