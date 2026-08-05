@@ -110464,5 +110464,87 @@
         "url": "https://www.animegg.org/yatogame-chan-kansatsu-nikki-2nd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4577,
+    "title": "Yoru no Kurage wa Oyogenai",
+    "animegg_url": "https://www.animegg.org/series/yoru-no-kurage-wa-oyogenai",
+    "mal_url": "https://myanimelist.net/anime/54839",
+    "mal_id": 54839,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/133549",
+        "dub": null,
+        "url": "https://www.animegg.org/yoru-no-kurage-wa-oyogenai-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/133637",
+        "dub": null,
+        "url": "https://www.animegg.org/yoru-no-kurage-wa-oyogenai-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/133715",
+        "dub": null,
+        "url": "https://www.animegg.org/yoru-no-kurage-wa-oyogenai-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/133799",
+        "dub": null,
+        "url": "https://www.animegg.org/yoru-no-kurage-wa-oyogenai-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/133957",
+        "dub": null,
+        "url": "https://www.animegg.org/yoru-no-kurage-wa-oyogenai-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/134077",
+        "dub": null,
+        "url": "https://www.animegg.org/yoru-no-kurage-wa-oyogenai-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/134245",
+        "dub": null,
+        "url": "https://www.animegg.org/yoru-no-kurage-wa-oyogenai-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/yoru-no-kurage-wa-oyogenai-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/134610",
+        "dub": null,
+        "url": "https://www.animegg.org/yoru-no-kurage-wa-oyogenai-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/134763",
+        "dub": null,
+        "url": "https://www.animegg.org/yoru-no-kurage-wa-oyogenai-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/134915",
+        "dub": null,
+        "url": "https://www.animegg.org/yoru-no-kurage-wa-oyogenai-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/135093",
+        "dub": null,
+        "url": "https://www.animegg.org/yoru-no-kurage-wa-oyogenai-episode-12"
+      }
+    ]
   }
 ]
