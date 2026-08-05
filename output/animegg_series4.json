@@ -36034,5 +36034,27 @@
         "url": "https://www.animegg.org/nekopara-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3485,
+    "title": "Suisei no Gargantia: Meguru Kouro, Haruka",
+    "animegg_url": "https://www.animegg.org/series/suisei-no-gargantia-meguru-kouro-haruka",
+    "mal_url": "https://myanimelist.net/anime/23319",
+    "mal_id": 23319,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66456",
+        "dub": "https://www.animegg.org/embed/66522",
+        "url": "https://www.animegg.org/suisei-no-gargantia-meguru-kouro-haruka-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/76075",
+        "dub": "https://www.animegg.org/embed/77233",
+        "url": "https://www.animegg.org/suisei-no-gargantia-meguru-kouro-haruka-episode-2"
+      }
+    ]
   }
 ]
