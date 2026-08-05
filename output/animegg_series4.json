@@ -122728,5 +122728,87 @@
         "url": "https://www.animegg.org/hentatsu-tv-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4775,
+    "title": "Rinkai!",
+    "animegg_url": "https://www.animegg.org/series/rinkai",
+    "mal_url": "https://myanimelist.net/anime/54859",
+    "mal_id": 54859,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/133590",
+        "dub": null,
+        "url": "https://www.animegg.org/rinkai-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/133672",
+        "dub": null,
+        "url": "https://www.animegg.org/rinkai-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/133764",
+        "dub": null,
+        "url": "https://www.animegg.org/rinkai-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/rinkai-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/rinkai-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/134163",
+        "dub": null,
+        "url": "https://www.animegg.org/rinkai-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/134311",
+        "dub": null,
+        "url": "https://www.animegg.org/rinkai-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/134502",
+        "dub": null,
+        "url": "https://www.animegg.org/rinkai-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/134664",
+        "dub": null,
+        "url": "https://www.animegg.org/rinkai-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/134842",
+        "dub": null,
+        "url": "https://www.animegg.org/rinkai-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/134990",
+        "dub": null,
+        "url": "https://www.animegg.org/rinkai-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/135147",
+        "dub": null,
+        "url": "https://www.animegg.org/rinkai-episode-12"
+      }
+    ]
   }
 ]
