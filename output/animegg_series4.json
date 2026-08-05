@@ -135287,5 +135287,21 @@
         "url": "https://www.animegg.org/starmyu-3rd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4963,
+    "title": "Guilty Crown: Lost Christmas",
+    "animegg_url": "https://www.animegg.org/series/guilty-crown-lost-christmas",
+    "mal_url": "https://myanimelist.net/anime/13411",
+    "mal_id": 13411,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/13703",
+        "dub": null,
+        "url": "https://www.animegg.org/guilty-crown-lost-christmas-episode-1"
+      }
+    ]
   }
 ]
