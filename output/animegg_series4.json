@@ -86,5 +86,57 @@
         "url": "https://www.animegg.org/lazarus-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3072,
+    "title": "Amagami SS+ plus Specials",
+    "animegg_url": "https://www.animegg.org/series/amagami-ss-plus-specials",
+    "mal_url": "https://myanimelist.net/anime/37596",
+    "mal_id": 37596,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/1060",
+        "dub": null,
+        "url": "https://www.animegg.org/amagami-ss-plus-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/1056",
+        "dub": null,
+        "url": "https://www.animegg.org/amagami-ss-plus-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/1057",
+        "dub": null,
+        "url": "https://www.animegg.org/amagami-ss-plus-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/1058",
+        "dub": null,
+        "url": "https://www.animegg.org/amagami-ss-plus-specials-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/1059",
+        "dub": null,
+        "url": "https://www.animegg.org/amagami-ss-plus-specials-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/1061",
+        "dub": null,
+        "url": "https://www.animegg.org/amagami-ss-plus-specials-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/1062",
+        "dub": null,
+        "url": "https://www.animegg.org/amagami-ss-plus-specials-episode-7"
+      }
+    ]
   }
 ]
