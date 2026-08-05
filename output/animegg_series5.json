@@ -64383,5 +64383,57 @@
         "url": "https://www.animegg.org/gundam-vs-hello-kitty-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 6438,
+    "title": "Aikatsu Planet!",
+    "animegg_url": "https://www.animegg.org/series/aikatsu-planet",
+    "mal_url": "https://myanimelist.net/anime/42653",
+    "mal_id": 42653,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/101894",
+        "dub": null,
+        "url": "https://www.animegg.org/aikatsu-planet-episode-1"
+      },
+      {
+        "ep": 20,
+        "sub": "https://www.animegg.org/embed/101895",
+        "dub": null,
+        "url": "https://www.animegg.org/aikatsu-planet-episode-20"
+      },
+      {
+        "ep": 21,
+        "sub": "https://www.animegg.org/embed/101899",
+        "dub": null,
+        "url": "https://www.animegg.org/aikatsu-planet-episode-21"
+      },
+      {
+        "ep": 22,
+        "sub": "https://www.animegg.org/embed/101968",
+        "dub": null,
+        "url": "https://www.animegg.org/aikatsu-planet-episode-22"
+      },
+      {
+        "ep": 23,
+        "sub": "https://www.animegg.org/embed/102038",
+        "dub": null,
+        "url": "https://www.animegg.org/aikatsu-planet-episode-23"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/102119",
+        "dub": null,
+        "url": "https://www.animegg.org/aikatsu-planet-episode-24"
+      },
+      {
+        "ep": 25,
+        "sub": "https://www.animegg.org/embed/102169",
+        "dub": null,
+        "url": "https://www.animegg.org/aikatsu-planet-episode-25"
+      }
+    ]
   }
 ]
