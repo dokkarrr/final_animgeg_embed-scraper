@@ -10026,5 +10026,87 @@
         "url": "https://www.animegg.org/little-busters-ex-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 3202,
+    "title": "Hoshiai no Sora",
+    "animegg_url": "https://www.animegg.org/series/hoshiai-no-sora",
+    "mal_url": "https://myanimelist.net/anime/37972",
+    "mal_id": 37972,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/96560",
+        "dub": "https://www.animegg.org/embed/96687",
+        "url": "https://www.animegg.org/hoshiai-no-sora-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/96749",
+        "dub": null,
+        "url": "https://www.animegg.org/hoshiai-no-sora-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/96818",
+        "dub": null,
+        "url": "https://www.animegg.org/hoshiai-no-sora-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/96882",
+        "dub": null,
+        "url": "https://www.animegg.org/hoshiai-no-sora-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/96955",
+        "dub": null,
+        "url": "https://www.animegg.org/hoshiai-no-sora-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/97004",
+        "dub": null,
+        "url": "https://www.animegg.org/hoshiai-no-sora-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/97067",
+        "dub": null,
+        "url": "https://www.animegg.org/hoshiai-no-sora-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/97137",
+        "dub": null,
+        "url": "https://www.animegg.org/hoshiai-no-sora-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/97203",
+        "dub": null,
+        "url": "https://www.animegg.org/hoshiai-no-sora-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/97270",
+        "dub": null,
+        "url": "https://www.animegg.org/hoshiai-no-sora-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/97333",
+        "dub": null,
+        "url": "https://www.animegg.org/hoshiai-no-sora-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/97395",
+        "dub": null,
+        "url": "https://www.animegg.org/hoshiai-no-sora-episode-12"
+      }
+    ]
   }
 ]
