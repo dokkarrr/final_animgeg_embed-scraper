@@ -76444,5 +76444,87 @@
         "url": "https://www.animegg.org/cardfight-vanguard-willdress-season-3-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4058,
+    "title": "Kochouki: Wakaki Nobunaga",
+    "animegg_url": "https://www.animegg.org/series/kochouki-wakaki-nobunaga",
+    "mal_url": "https://myanimelist.net/anime/38920",
+    "mal_id": 38920,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/95852",
+        "dub": null,
+        "url": "https://www.animegg.org/kochouki-wakaki-nobunaga-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/95914",
+        "dub": null,
+        "url": "https://www.animegg.org/kochouki-wakaki-nobunaga-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/95998",
+        "dub": null,
+        "url": "https://www.animegg.org/kochouki-wakaki-nobunaga-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/96061",
+        "dub": null,
+        "url": "https://www.animegg.org/kochouki-wakaki-nobunaga-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/96115",
+        "dub": null,
+        "url": "https://www.animegg.org/kochouki-wakaki-nobunaga-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/96175",
+        "dub": null,
+        "url": "https://www.animegg.org/kochouki-wakaki-nobunaga-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/96231",
+        "dub": null,
+        "url": "https://www.animegg.org/kochouki-wakaki-nobunaga-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/96288",
+        "dub": null,
+        "url": "https://www.animegg.org/kochouki-wakaki-nobunaga-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/96354",
+        "dub": null,
+        "url": "https://www.animegg.org/kochouki-wakaki-nobunaga-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/96416",
+        "dub": null,
+        "url": "https://www.animegg.org/kochouki-wakaki-nobunaga-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/96470",
+        "dub": null,
+        "url": "https://www.animegg.org/kochouki-wakaki-nobunaga-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/96531",
+        "dub": null,
+        "url": "https://www.animegg.org/kochouki-wakaki-nobunaga-episode-12"
+      }
+    ]
   }
 ]
