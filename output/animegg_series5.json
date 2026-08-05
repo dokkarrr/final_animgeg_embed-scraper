@@ -37710,5 +37710,33 @@
         "url": "https://www.animegg.org/toriko-jump-super-anime-tour-2009-special-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6195,
+    "title": "Soukyuu no Fafner: Dead Aggressor - The Beyond",
+    "animegg_url": "https://www.animegg.org/series/soukyuu-no-fafner-dead-aggressor---the-beyond",
+    "mal_url": "https://myanimelist.net/anime/34649",
+    "mal_id": 34649,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/97151",
+        "dub": null,
+        "url": "https://www.animegg.org/soukyuu-no-fafner-dead-aggressor---the-beyond-episode-1-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/97152",
+        "dub": null,
+        "url": "https://www.animegg.org/soukyuu-no-fafner-dead-aggressor---the-beyond-episode-2-1"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/97153",
+        "dub": null,
+        "url": "https://www.animegg.org/soukyuu-no-fafner-dead-aggressor---the-beyond-episode-3-1"
+      }
+    ]
   }
 ]
