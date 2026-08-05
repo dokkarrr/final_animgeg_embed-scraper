@@ -28492,5 +28492,21 @@
         "url": "https://www.animegg.org/cosprayers-movie-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6076,
+    "title": "Kiddy Girl-and Pilot",
+    "animegg_url": "https://www.animegg.org/series/kiddy-girl-and-pilot",
+    "mal_url": "https://myanimelist.net/anime/5859",
+    "mal_id": 5859,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/56424",
+        "dub": null,
+        "url": "https://www.animegg.org/kiddy-girl-and-pilot-episode-1"
+      }
+    ]
   }
 ]
