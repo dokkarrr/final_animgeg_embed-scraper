@@ -65183,5 +65183,21 @@
         "url": "https://www.animegg.org/izure-saikyou-no-renkinjutsushi-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 6452,
+    "title": "Vexille",
+    "animegg_url": "https://www.animegg.org/series/vexille",
+    "mal_url": "https://myanimelist.net/anime/2746",
+    "mal_id": 2746,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/64334",
+        "dub": "https://www.animegg.org/embed/64335",
+        "url": "https://www.animegg.org/vexille-episode-1"
+      }
+    ]
   }
 ]
