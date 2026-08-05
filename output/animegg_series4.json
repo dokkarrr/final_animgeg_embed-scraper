@@ -116266,5 +116266,21 @@
         "url": "https://www.animegg.org/d-cide-traumerei-the-animation-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 4682,
+    "title": "Gintama OVA",
+    "animegg_url": "https://www.animegg.org/series/gintama-ova",
+    "mal_url": "https://myanimelist.net/anime/35843",
+    "mal_id": 35843,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/76078",
+        "dub": null,
+        "url": "https://www.animegg.org/gintama-ova-episode-1"
+      }
+    ]
   }
 ]
