@@ -13205,5 +13205,21 @@
         "url": "https://www.animegg.org/oblivion-island-haruka-and-the-magic-mirror-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5821,
+    "title": "Street Fighter IV: The Ties That Bind",
+    "animegg_url": "https://www.animegg.org/series/street-fighter-iv-the-ties-that-bind",
+    "mal_url": "https://myanimelist.net/anime/5369",
+    "mal_id": 5369,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/36641",
+        "dub": null,
+        "url": "https://www.animegg.org/street-fighter-iv-the-ties-that-bind-episode-1"
+      }
+    ]
   }
 ]
