@@ -110740,5 +110740,87 @@
         "url": "https://www.animegg.org/flcl-progressive-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 4583,
+    "title": "Senpai wa Otokonoko",
+    "animegg_url": "https://www.animegg.org/series/senpai-wa-otokonoko",
+    "mal_url": "https://myanimelist.net/anime/54855",
+    "mal_id": 54855,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/135392",
+        "dub": null,
+        "url": "https://www.animegg.org/senpai-wa-otokonoko-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/135538",
+        "dub": null,
+        "url": "https://www.animegg.org/senpai-wa-otokonoko-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/135684",
+        "dub": null,
+        "url": "https://www.animegg.org/senpai-wa-otokonoko-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/135815",
+        "dub": null,
+        "url": "https://www.animegg.org/senpai-wa-otokonoko-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/135997",
+        "dub": null,
+        "url": "https://www.animegg.org/senpai-wa-otokonoko-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/136307",
+        "dub": null,
+        "url": "https://www.animegg.org/senpai-wa-otokonoko-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/136461",
+        "dub": null,
+        "url": "https://www.animegg.org/senpai-wa-otokonoko-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/136655",
+        "dub": null,
+        "url": "https://www.animegg.org/senpai-wa-otokonoko-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/136813",
+        "dub": null,
+        "url": "https://www.animegg.org/senpai-wa-otokonoko-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/137018",
+        "dub": null,
+        "url": "https://www.animegg.org/senpai-wa-otokonoko-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/137172",
+        "dub": null,
+        "url": "https://www.animegg.org/senpai-wa-otokonoko-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/137364",
+        "dub": null,
+        "url": "https://www.animegg.org/senpai-wa-otokonoko-episode-12"
+      }
+    ]
   }
 ]
