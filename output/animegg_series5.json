@@ -43505,5 +43505,21 @@
         "url": "https://www.animegg.org/tantei-gakuen-q-episode-45"
       }
     ]
+  },
+  {
+    "serial_no": 6255,
+    "title": "Seitokai no Ichizon Lv.2: Watasu Seitokai",
+    "animegg_url": "https://www.animegg.org/series/seitokai-no-ichizon-lv2-watasu-seitokai",
+    "mal_url": "https://myanimelist.net/anime/15963",
+    "mal_id": 15963,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/43977",
+        "dub": null,
+        "url": "https://www.animegg.org/seitokai-no-ichizon-lv2-watasu-seitokai-episode-1"
+      }
+    ]
   }
 ]
