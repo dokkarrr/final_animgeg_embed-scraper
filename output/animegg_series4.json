@@ -37736,5 +37736,21 @@
         "url": "https://www.animegg.org/owari-no-seraph-kyuuketsuki-shahar-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3513,
+    "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka OVA",
+    "animegg_url": "https://www.animegg.org/series/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ova",
+    "mal_url": "https://myanimelist.net/anime/32801",
+    "mal_id": 32801,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/85024",
+        "dub": "https://www.animegg.org/embed/85115",
+        "url": "https://www.animegg.org/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ova-episode-1"
+      }
+    ]
   }
 ]
