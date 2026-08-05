@@ -48578,5 +48578,87 @@
         "url": "https://www.animegg.org/bakemono-no-ko-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3657,
+    "title": "Megami no Café Terrace",
+    "animegg_url": "https://www.animegg.org/series/megami-no-caf-terrace",
+    "mal_url": "https://myanimelist.net/anime/52973",
+    "mal_id": 52973,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/107666",
+        "dub": null,
+        "url": "https://www.animegg.org/megami-no-caf-terrace-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/107746",
+        "dub": null,
+        "url": "https://www.animegg.org/megami-no-caf-terrace-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/107847",
+        "dub": null,
+        "url": "https://www.animegg.org/megami-no-caf-terrace-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/107980",
+        "dub": null,
+        "url": "https://www.animegg.org/megami-no-caf-terrace-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/107981",
+        "dub": null,
+        "url": "https://www.animegg.org/megami-no-caf-terrace-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/107982",
+        "dub": null,
+        "url": "https://www.animegg.org/megami-no-caf-terrace-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/108128",
+        "dub": null,
+        "url": "https://www.animegg.org/megami-no-caf-terrace-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/108331",
+        "dub": null,
+        "url": "https://www.animegg.org/megami-no-caf-terrace-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/108807",
+        "dub": null,
+        "url": "https://www.animegg.org/megami-no-caf-terrace-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/129877",
+        "dub": null,
+        "url": "https://www.animegg.org/megami-no-caf-terrace-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/129876",
+        "dub": null,
+        "url": "https://www.animegg.org/megami-no-caf-terrace-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/129975",
+        "dub": null,
+        "url": "https://www.animegg.org/megami-no-caf-terrace-episode-12"
+      }
+    ]
   }
 ]
