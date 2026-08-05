@@ -31590,5 +31590,45 @@
         "url": "https://www.animegg.org/peeping-life-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6132,
+    "title": "Super Dragon Ball Heroes Meteor Mission",
+    "animegg_url": "https://www.animegg.org/series/super-dragon-ball-heroes-meteor-mission",
+    "mal_url": "https://myanimelist.net/anime/36946",
+    "mal_id": 36946,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/131923",
+        "dub": null,
+        "url": "https://www.animegg.org/super-dragon-ball-heroes-meteor-mission-episode-1"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/133037",
+        "dub": null,
+        "url": "https://www.animegg.org/super-dragon-ball-heroes-meteor-mission-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/133613",
+        "dub": null,
+        "url": "https://www.animegg.org/super-dragon-ball-heroes-meteor-mission-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/134795",
+        "dub": null,
+        "url": "https://www.animegg.org/super-dragon-ball-heroes-meteor-mission-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/136164",
+        "dub": null,
+        "url": "https://www.animegg.org/super-dragon-ball-heroes-meteor-mission-episode-6"
+      }
+    ]
   }
 ]
