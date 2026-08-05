@@ -127884,5 +127884,21 @@
         "url": "https://www.animegg.org/idol-land-pripara-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 4849,
+    "title": "New Initial D Movie: Legend 1",
+    "animegg_url": "https://www.animegg.org/series/new-initial-d-movie-legend-1",
+    "mal_url": "https://myanimelist.net/anime/19613",
+    "mal_id": 19613,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/69685",
+        "dub": "https://www.animegg.org/embed/73605",
+        "url": "https://www.animegg.org/new-initial-d-movie-legend-1-episode-1"
+      }
+    ]
   }
 ]
