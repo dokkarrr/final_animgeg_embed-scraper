@@ -25258,5 +25258,87 @@
         "url": "https://www.animegg.org/jingai-san-no-yome-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3365,
+    "title": "Koihime†Musou",
+    "animegg_url": "https://www.animegg.org/series/koihime-musou",
+    "mal_url": "https://myanimelist.net/anime/4262",
+    "mal_id": 4262,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/55192",
+        "dub": null,
+        "url": "https://www.animegg.org/koihime-musou-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/55193",
+        "dub": null,
+        "url": "https://www.animegg.org/koihime-musou-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/55194",
+        "dub": null,
+        "url": "https://www.animegg.org/koihime-musou-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/55195",
+        "dub": null,
+        "url": "https://www.animegg.org/koihime-musou-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/55196",
+        "dub": null,
+        "url": "https://www.animegg.org/koihime-musou-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/55197",
+        "dub": null,
+        "url": "https://www.animegg.org/koihime-musou-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/55198",
+        "dub": null,
+        "url": "https://www.animegg.org/koihime-musou-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/55199",
+        "dub": null,
+        "url": "https://www.animegg.org/koihime-musou-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/55200",
+        "dub": null,
+        "url": "https://www.animegg.org/koihime-musou-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/55201",
+        "dub": null,
+        "url": "https://www.animegg.org/koihime-musou-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/55202",
+        "dub": null,
+        "url": "https://www.animegg.org/koihime-musou-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/55203",
+        "dub": null,
+        "url": "https://www.animegg.org/koihime-musou-episode-12"
+      }
+    ]
   }
 ]
