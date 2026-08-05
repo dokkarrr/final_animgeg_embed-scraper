@@ -129004,5 +129004,93 @@
         "url": "https://www.animegg.org/tamayura-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 4862,
+    "title": "Jantama Kan!!",
+    "animegg_url": "https://www.animegg.org/series/jantama-kan",
+    "mal_url": "https://myanimelist.net/anime/57753",
+    "mal_id": 57753,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/133781",
+        "dub": null,
+        "url": "https://www.animegg.org/jantama-kan-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/133904",
+        "dub": null,
+        "url": "https://www.animegg.org/jantama-kan-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/jantama-kan-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/134260",
+        "dub": null,
+        "url": "https://www.animegg.org/jantama-kan-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/jantama-kan-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/134517",
+        "dub": null,
+        "url": "https://www.animegg.org/jantama-kan-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/134724",
+        "dub": null,
+        "url": "https://www.animegg.org/jantama-kan-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/134858",
+        "dub": null,
+        "url": "https://www.animegg.org/jantama-kan-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/134998",
+        "dub": null,
+        "url": "https://www.animegg.org/jantama-kan-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/135168",
+        "dub": null,
+        "url": "https://www.animegg.org/jantama-kan-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/135382",
+        "dub": null,
+        "url": "https://www.animegg.org/jantama-kan-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/135539",
+        "dub": null,
+        "url": "https://www.animegg.org/jantama-kan-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/135676",
+        "dub": null,
+        "url": "https://www.animegg.org/jantama-kan-episode-13"
+      }
+    ]
   }
 ]
