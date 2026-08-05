@@ -116014,5 +116014,21 @@
         "url": "https://www.animegg.org/the-wings-of-rean-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 4676,
+    "title": "Aura: Maryuuinkouga Saigo no Tatakai",
+    "animegg_url": "https://www.animegg.org/series/aura-maryuuinkouga-saigo-no-tatakai",
+    "mal_url": "https://myanimelist.net/anime/14669",
+    "mal_id": 14669,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/64801",
+        "dub": null,
+        "url": "https://www.animegg.org/aura-maryuuinkouga-saigo-no-tatakai-episode-1"
+      }
+    ]
   }
 ]
