@@ -101758,5 +101758,21 @@
         "url": "https://www.animegg.org/fragtime-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6753,
+    "title": "Dorohedoro: Ma no Omake",
+    "animegg_url": "https://www.animegg.org/series/dorohedoro-ma-no-omake",
+    "mal_url": "https://myanimelist.net/anime/41053",
+    "mal_id": 41053,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/98789",
+        "dub": null,
+        "url": "https://www.animegg.org/dorohedoro-ma-no-omake-episode-1"
+      }
+    ]
   }
 ]
