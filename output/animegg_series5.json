@@ -69732,5 +69732,21 @@
         "url": "https://www.animegg.org/h2-tv-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6493,
+    "title": "Tsukuyomi: Moon Phase Special",
+    "animegg_url": "https://www.animegg.org/series/tsukuyomi-moon-phase-special",
+    "mal_url": "https://myanimelist.net/anime/2580",
+    "mal_id": 2580,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/64668",
+        "dub": "https://www.animegg.org/embed/64669",
+        "url": "https://www.animegg.org/tsukuyomi-moon-phase-special-episode-1"
+      }
+    ]
   }
 ]
