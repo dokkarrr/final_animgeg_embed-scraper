@@ -64156,5 +64156,87 @@
         "url": "https://www.animegg.org/hackquantum-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 3866,
+    "title": "Koi to Producer: EVOL×LOVE",
+    "animegg_url": "https://www.animegg.org/series/koi-to-producer-evol-love",
+    "mal_url": "https://myanimelist.net/anime/40075",
+    "mal_id": 40075,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/98934",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-to-producer-evol-love-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/98973",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-to-producer-evol-love-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/99018",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-to-producer-evol-love-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/99068",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-to-producer-evol-love-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/99119",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-to-producer-evol-love-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/99162",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-to-producer-evol-love-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/99202",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-to-producer-evol-love-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/99246",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-to-producer-evol-love-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/99284",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-to-producer-evol-love-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/99363",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-to-producer-evol-love-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/99419",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-to-producer-evol-love-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/99493",
+        "dub": null,
+        "url": "https://www.animegg.org/koi-to-producer-evol-love-episode-12"
+      }
+    ]
   }
 ]
