@@ -21634,5 +21634,93 @@
         "url": "https://www.animegg.org/new-getter-robo-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3329,
+    "title": "Kurayami Santa",
+    "animegg_url": "https://www.animegg.org/series/kurayami-santa",
+    "mal_url": "https://myanimelist.net/anime/30947",
+    "mal_id": 30947,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/77806",
+        "dub": null,
+        "url": "https://www.animegg.org/kurayami-santa-episode-1"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/123435",
+        "dub": null,
+        "url": "https://www.animegg.org/kurayami-santa-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/123434",
+        "dub": null,
+        "url": "https://www.animegg.org/kurayami-santa-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/123433",
+        "dub": null,
+        "url": "https://www.animegg.org/kurayami-santa-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/123432",
+        "dub": null,
+        "url": "https://www.animegg.org/kurayami-santa-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/123431",
+        "dub": null,
+        "url": "https://www.animegg.org/kurayami-santa-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/123430",
+        "dub": null,
+        "url": "https://www.animegg.org/kurayami-santa-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/123429",
+        "dub": null,
+        "url": "https://www.animegg.org/kurayami-santa-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/123438",
+        "dub": null,
+        "url": "https://www.animegg.org/kurayami-santa-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/123437",
+        "dub": null,
+        "url": "https://www.animegg.org/kurayami-santa-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/123436",
+        "dub": null,
+        "url": "https://www.animegg.org/kurayami-santa-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/87134",
+        "dub": null,
+        "url": "https://www.animegg.org/kurayami-santa-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/87158",
+        "dub": null,
+        "url": "https://www.animegg.org/kurayami-santa-episode-14"
+      }
+    ]
   }
 ]
