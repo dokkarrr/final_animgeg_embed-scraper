@@ -69444,5 +69444,21 @@
         "url": "https://www.animegg.org/pac-world-dub-episode-52"
       }
     ]
+  },
+  {
+    "serial_no": 6490,
+    "title": "Yurumates",
+    "animegg_url": "https://www.animegg.org/series/yurumates",
+    "mal_url": "https://myanimelist.net/anime/6148",
+    "mal_id": 6148,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/62977",
+        "dub": null,
+        "url": "https://www.animegg.org/yurumates-episode-1"
+      }
+    ]
   }
 ]
