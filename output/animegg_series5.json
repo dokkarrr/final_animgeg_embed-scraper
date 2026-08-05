@@ -64355,5 +64355,33 @@
         "url": "https://www.animegg.org/wangu-jian-shen-episode-38"
       }
     ]
+  },
+  {
+    "serial_no": 6437,
+    "title": "Gundam vs Hello Kitty",
+    "animegg_url": "https://www.animegg.org/series/gundam-vs-hello-kitty",
+    "mal_url": "https://myanimelist.net/anime/39674",
+    "mal_id": 39674,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/95869",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-vs-hello-kitty-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/95870",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-vs-hello-kitty-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/97542",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-vs-hello-kitty-episode-3"
+      }
+    ]
   }
 ]
