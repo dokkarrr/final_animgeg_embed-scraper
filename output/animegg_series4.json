@@ -78612,5 +78612,57 @@
         "url": "https://www.animegg.org/chou-yuu-sekai-being-the-reality-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 4096,
+    "title": "Tenchi Muyou! Ryo-Ohki 3",
+    "animegg_url": "https://www.animegg.org/series/tenchi-muyou-ryo-ohki-3",
+    "mal_url": "https://myanimelist.net/anime/539",
+    "mal_id": 539,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/75533",
+        "dub": null,
+        "url": "https://www.animegg.org/tenchi-muyou-ryo-ohki-3-episode-7"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/75532",
+        "dub": null,
+        "url": "https://www.animegg.org/tenchi-muyou-ryo-ohki-3-episode-6"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/75531",
+        "dub": null,
+        "url": "https://www.animegg.org/tenchi-muyou-ryo-ohki-3-episode-5"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/75530",
+        "dub": null,
+        "url": "https://www.animegg.org/tenchi-muyou-ryo-ohki-3-episode-4"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/75529",
+        "dub": null,
+        "url": "https://www.animegg.org/tenchi-muyou-ryo-ohki-3-episode-3"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/75528",
+        "dub": null,
+        "url": "https://www.animegg.org/tenchi-muyou-ryo-ohki-3-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/75527",
+        "dub": null,
+        "url": "https://www.animegg.org/tenchi-muyou-ryo-ohki-3-episode-1"
+      }
+    ]
   }
 ]
