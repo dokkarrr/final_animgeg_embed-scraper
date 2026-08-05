@@ -77592,5 +77592,93 @@
         "url": "https://www.animegg.org/getsuyoubi-no-tawawa-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4078,
+    "title": "Koukyuu no Karasu",
+    "animegg_url": "https://www.animegg.org/series/koukyuu-no-karasu",
+    "mal_url": "https://myanimelist.net/anime/50590",
+    "mal_id": 50590,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/105997",
+        "dub": null,
+        "url": "https://www.animegg.org/koukyuu-no-karasu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/106061",
+        "dub": null,
+        "url": "https://www.animegg.org/koukyuu-no-karasu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/106125",
+        "dub": null,
+        "url": "https://www.animegg.org/koukyuu-no-karasu-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/106182",
+        "dub": null,
+        "url": "https://www.animegg.org/koukyuu-no-karasu-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/106247",
+        "dub": null,
+        "url": "https://www.animegg.org/koukyuu-no-karasu-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/106309",
+        "dub": null,
+        "url": "https://www.animegg.org/koukyuu-no-karasu-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/106374",
+        "dub": null,
+        "url": "https://www.animegg.org/koukyuu-no-karasu-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/106429",
+        "dub": null,
+        "url": "https://www.animegg.org/koukyuu-no-karasu-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/106494",
+        "dub": null,
+        "url": "https://www.animegg.org/koukyuu-no-karasu-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/106544",
+        "dub": null,
+        "url": "https://www.animegg.org/koukyuu-no-karasu-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/106599",
+        "dub": null,
+        "url": "https://www.animegg.org/koukyuu-no-karasu-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/106658",
+        "dub": null,
+        "url": "https://www.animegg.org/koukyuu-no-karasu-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/106718",
+        "dub": null,
+        "url": "https://www.animegg.org/koukyuu-no-karasu-episode-13"
+      }
+    ]
   }
 ]
