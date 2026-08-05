@@ -126614,5 +126614,21 @@
     "mal_id": 41688,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 6968,
+    "title": "Ashita Sekai ga Owaru toshitemo",
+    "animegg_url": "https://www.animegg.org/series/ashita-sekai-ga-owaru-toshitemo",
+    "mal_url": "https://myanimelist.net/anime/38464",
+    "mal_id": 38464,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/98456",
+        "dub": null,
+        "url": "https://www.animegg.org/ashita-sekai-ga-owaru-toshitemo-episode-1"
+      }
+    ]
   }
 ]
