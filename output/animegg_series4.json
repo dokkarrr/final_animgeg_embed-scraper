@@ -136649,5 +136649,21 @@
         "url": "https://www.animegg.org/mondaiji-tachi-ga-isekai-kara-kuru-sou-desu-yo-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4972,
+    "title": "Doraemon: Nobita's Secret Gadget Museum",
+    "animegg_url": "https://www.animegg.org/series/doraemon-nobitas-secret-gadget-museum",
+    "mal_url": "https://myanimelist.net/anime/15925",
+    "mal_id": 15925,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/49812",
+        "dub": null,
+        "url": "https://www.animegg.org/doraemon-nobitas-secret-gadget-museum-episode-1"
+      }
+    ]
   }
 ]
