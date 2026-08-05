@@ -115308,5 +115308,63 @@
         "url": "https://www.animegg.org/a-disguised-princess-episode-20"
       }
     ]
+  },
+  {
+    "serial_no": 6868,
+    "title": "Medalist season 2",
+    "animegg_url": "https://www.animegg.org/series/medalist-season-2",
+    "mal_url": "https://myanimelist.net/anime/61335",
+    "mal_id": 61335,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/145085",
+        "dub": null,
+        "url": "https://www.animegg.org/medalist-season-2-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/144998",
+        "dub": "https://www.animegg.org/embed/145316",
+        "url": "https://www.animegg.org/medalist-season-2-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/144852",
+        "dub": "https://www.animegg.org/embed/145130",
+        "url": "https://www.animegg.org/medalist-season-2-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/144783",
+        "dub": "https://www.animegg.org/embed/144973",
+        "url": "https://www.animegg.org/medalist-season-2-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/144654",
+        "dub": "https://www.animegg.org/embed/144795",
+        "url": "https://www.animegg.org/medalist-season-2-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/144562",
+        "dub": "https://www.animegg.org/embed/144565",
+        "url": "https://www.animegg.org/medalist-season-2-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/144450",
+        "dub": "https://www.animegg.org/embed/144455",
+        "url": "https://www.animegg.org/medalist-season-2-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/144342",
+        "dub": "https://www.animegg.org/embed/144348",
+        "url": "https://www.animegg.org/medalist-season-2-episode-1"
+      }
+    ]
   }
 ]
