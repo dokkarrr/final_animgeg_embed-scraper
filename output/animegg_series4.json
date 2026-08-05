@@ -89566,5 +89566,87 @@
         "url": "https://www.animegg.org/shokugeki-no-souma-san-no-sara-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4262,
+    "title": "Egao no Daika",
+    "animegg_url": "https://www.animegg.org/series/egao-no-daika",
+    "mal_url": "https://myanimelist.net/anime/38544",
+    "mal_id": 38544,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/94124",
+        "dub": null,
+        "url": "https://www.animegg.org/egao-no-daika-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/94186",
+        "dub": null,
+        "url": "https://www.animegg.org/egao-no-daika-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/94257",
+        "dub": null,
+        "url": "https://www.animegg.org/egao-no-daika-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/94320",
+        "dub": null,
+        "url": "https://www.animegg.org/egao-no-daika-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/94386",
+        "dub": null,
+        "url": "https://www.animegg.org/egao-no-daika-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/94451",
+        "dub": null,
+        "url": "https://www.animegg.org/egao-no-daika-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/94514",
+        "dub": null,
+        "url": "https://www.animegg.org/egao-no-daika-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/94589",
+        "dub": null,
+        "url": "https://www.animegg.org/egao-no-daika-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/94658",
+        "dub": null,
+        "url": "https://www.animegg.org/egao-no-daika-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/94725",
+        "dub": null,
+        "url": "https://www.animegg.org/egao-no-daika-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/94784",
+        "dub": null,
+        "url": "https://www.animegg.org/egao-no-daika-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/94865",
+        "dub": null,
+        "url": "https://www.animegg.org/egao-no-daika-episode-12"
+      }
+    ]
   }
 ]
