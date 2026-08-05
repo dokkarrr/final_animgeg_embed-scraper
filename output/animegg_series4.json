@@ -30884,5 +30884,51 @@
         "url": "https://www.animegg.org/the-fated-magical-princess-who-made-me-a-princess-episode-16"
       }
     ]
+  },
+  {
+    "serial_no": 3438,
+    "title": "Towa no Quon",
+    "animegg_url": "https://www.animegg.org/series/towa-no-quon",
+    "mal_url": "https://myanimelist.net/anime/10717",
+    "mal_id": 10717,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/38856",
+        "dub": "https://www.animegg.org/embed/70774",
+        "url": "https://www.animegg.org/towa-no-quon-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/38855",
+        "dub": null,
+        "url": "https://www.animegg.org/towa-no-quon-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/38853",
+        "dub": null,
+        "url": "https://www.animegg.org/towa-no-quon-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/38854",
+        "dub": null,
+        "url": "https://www.animegg.org/towa-no-quon-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/38857",
+        "dub": "https://www.animegg.org/embed/38858",
+        "url": "https://www.animegg.org/towa-no-quon-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/38859",
+        "dub": null,
+        "url": "https://www.animegg.org/towa-no-quon-episode-6"
+      }
+    ]
   }
 ]
