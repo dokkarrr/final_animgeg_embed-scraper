@@ -133128,5 +133128,87 @@
         "url": "https://www.animegg.org/there-she-is-episode-5"
       }
     ]
+  },
+  {
+    "serial_no": 4930,
+    "title": "King of Prism: Shiny Seven Stars",
+    "animegg_url": "https://www.animegg.org/series/king-of-prism-shiny-seven-stars",
+    "mal_url": "https://myanimelist.net/anime/39699",
+    "mal_id": 39699,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/95099",
+        "dub": null,
+        "url": "https://www.animegg.org/king-of-prism-shiny-seven-stars-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/95162",
+        "dub": null,
+        "url": "https://www.animegg.org/king-of-prism-shiny-seven-stars-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/95282",
+        "dub": null,
+        "url": "https://www.animegg.org/king-of-prism-shiny-seven-stars-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/95283",
+        "dub": null,
+        "url": "https://www.animegg.org/king-of-prism-shiny-seven-stars-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/95350",
+        "dub": null,
+        "url": "https://www.animegg.org/king-of-prism-shiny-seven-stars-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/95408",
+        "dub": null,
+        "url": "https://www.animegg.org/king-of-prism-shiny-seven-stars-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/95468",
+        "dub": null,
+        "url": "https://www.animegg.org/king-of-prism-shiny-seven-stars-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/95538",
+        "dub": null,
+        "url": "https://www.animegg.org/king-of-prism-shiny-seven-stars-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/95610",
+        "dub": null,
+        "url": "https://www.animegg.org/king-of-prism-shiny-seven-stars-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/95681",
+        "dub": null,
+        "url": "https://www.animegg.org/king-of-prism-shiny-seven-stars-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/95739",
+        "dub": null,
+        "url": "https://www.animegg.org/king-of-prism-shiny-seven-stars-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/95797",
+        "dub": null,
+        "url": "https://www.animegg.org/king-of-prism-shiny-seven-stars-episode-12"
+      }
+    ]
   }
 ]
