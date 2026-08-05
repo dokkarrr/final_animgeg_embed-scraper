@@ -127250,5 +127250,87 @@
         "url": "https://www.animegg.org/hanayaka-nari-waga-ichizoku-kinetograph-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 4839,
+    "title": "Onipan!",
+    "animegg_url": "https://www.animegg.org/series/onipan",
+    "mal_url": "https://myanimelist.net/anime/50955",
+    "mal_id": 50955,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/104413",
+        "dub": null,
+        "url": "https://www.animegg.org/onipan-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/120698",
+        "dub": null,
+        "url": "https://www.animegg.org/onipan-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/104414",
+        "dub": null,
+        "url": "https://www.animegg.org/onipan-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/104415",
+        "dub": null,
+        "url": "https://www.animegg.org/onipan-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/104667",
+        "dub": null,
+        "url": "https://www.animegg.org/onipan-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/104822",
+        "dub": null,
+        "url": "https://www.animegg.org/onipan-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/104884",
+        "dub": null,
+        "url": "https://www.animegg.org/onipan-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/104941",
+        "dub": null,
+        "url": "https://www.animegg.org/onipan-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/105023",
+        "dub": null,
+        "url": "https://www.animegg.org/onipan-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/105079",
+        "dub": null,
+        "url": "https://www.animegg.org/onipan-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/105139",
+        "dub": null,
+        "url": "https://www.animegg.org/onipan-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/105184",
+        "dub": null,
+        "url": "https://www.animegg.org/onipan-episode-12"
+      }
+    ]
   }
 ]
