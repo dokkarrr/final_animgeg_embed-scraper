@@ -70882,5 +70882,21 @@
         "url": "https://www.animegg.org/double-decker-doug-kirill-extra-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 6503,
+    "title": "91 Days Special",
+    "animegg_url": "https://www.animegg.org/series/91-days-special",
+    "mal_url": "https://myanimelist.net/anime/34777",
+    "mal_id": 34777,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 91,
+        "sub": "https://www.animegg.org/embed/88188",
+        "dub": null,
+        "url": "https://www.animegg.org/91-days-special-episode-1"
+      }
+    ]
   }
 ]
