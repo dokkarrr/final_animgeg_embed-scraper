@@ -132776,5 +132776,21 @@
         "url": "https://www.animegg.org/nierautomata-ver11a-part-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4920,
+    "title": "Oretachi ni Tsubasa wa Nai OVA",
+    "animegg_url": "https://www.animegg.org/series/oretachi-ni-tsubasa-wa-nai-ova",
+    "mal_url": "https://myanimelist.net/anime/10547",
+    "mal_id": 10547,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/28816",
+        "dub": "https://www.animegg.org/embed/28817",
+        "url": "https://www.animegg.org/oretachi-ni-tsubasa-wa-nai-ova-episode-1"
+      }
+    ]
   }
 ]
