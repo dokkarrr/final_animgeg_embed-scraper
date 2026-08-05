@@ -71246,5 +71246,87 @@
         "url": "https://www.animegg.org/acro-trip-episode-9"
       }
     ]
+  },
+  {
+    "serial_no": 3972,
+    "title": "Fate/strange Fake",
+    "animegg_url": "https://www.animegg.org/series/fate-strange-fake",
+    "mal_url": "https://myanimelist.net/anime/55830",
+    "mal_id": 55830,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/144130",
+        "dub": "https://www.animegg.org/embed/144142",
+        "url": "https://www.animegg.org/fate-strange-fake-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/144228",
+        "dub": "https://www.animegg.org/embed/144242",
+        "url": "https://www.animegg.org/fate-strange-fake-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/144344",
+        "dub": "https://www.animegg.org/embed/144346",
+        "url": "https://www.animegg.org/fate-strange-fake-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/144453",
+        "dub": "https://www.animegg.org/embed/144459",
+        "url": "https://www.animegg.org/fate-strange-fake-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/144547",
+        "dub": "https://www.animegg.org/embed/144564",
+        "url": "https://www.animegg.org/fate-strange-fake-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/144643",
+        "dub": "https://www.animegg.org/embed/144651",
+        "url": "https://www.animegg.org/fate-strange-fake-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/144749",
+        "dub": "https://www.animegg.org/embed/144754",
+        "url": "https://www.animegg.org/fate-strange-fake-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/144857",
+        "dub": "https://www.animegg.org/embed/144858",
+        "url": "https://www.animegg.org/fate-strange-fake-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/144969",
+        "dub": "https://www.animegg.org/embed/144974",
+        "url": "https://www.animegg.org/fate-strange-fake-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/145066",
+        "dub": "https://www.animegg.org/embed/145082",
+        "url": "https://www.animegg.org/fate-strange-fake-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/145177",
+        "dub": "https://www.animegg.org/embed/145182",
+        "url": "https://www.animegg.org/fate-strange-fake-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/145273",
+        "dub": "https://www.animegg.org/embed/145286",
+        "url": "https://www.animegg.org/fate-strange-fake-episode-13"
+      }
+    ]
   }
 ]
