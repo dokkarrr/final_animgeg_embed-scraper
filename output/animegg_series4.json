@@ -8762,5 +8762,87 @@
         "url": "https://www.animegg.org/shounen-hollywood-holly-stage-for-49-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3183,
+    "title": "Kaminaki Sekai no Kamisama Katsudou",
+    "animegg_url": "https://www.animegg.org/series/kaminaki-sekai-no-kamisama-katsudou",
+    "mal_url": "https://myanimelist.net/anime/51693",
+    "mal_id": 51693,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/107654",
+        "dub": null,
+        "url": "https://www.animegg.org/kaminaki-sekai-no-kamisama-katsudou-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/107715",
+        "dub": "https://www.animegg.org/embed/123679",
+        "url": "https://www.animegg.org/kaminaki-sekai-no-kamisama-katsudou-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/107827",
+        "dub": "https://www.animegg.org/embed/123678",
+        "url": "https://www.animegg.org/kaminaki-sekai-no-kamisama-katsudou-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/107915",
+        "dub": "https://www.animegg.org/embed/123677",
+        "url": "https://www.animegg.org/kaminaki-sekai-no-kamisama-katsudou-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/107916",
+        "dub": "https://www.animegg.org/embed/123676",
+        "url": "https://www.animegg.org/kaminaki-sekai-no-kamisama-katsudou-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/107917",
+        "dub": "https://www.animegg.org/embed/123674",
+        "url": "https://www.animegg.org/kaminaki-sekai-no-kamisama-katsudou-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/108113",
+        "dub": "https://www.animegg.org/embed/123675",
+        "url": "https://www.animegg.org/kaminaki-sekai-no-kamisama-katsudou-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/108729",
+        "dub": "https://www.animegg.org/embed/129798",
+        "url": "https://www.animegg.org/kaminaki-sekai-no-kamisama-katsudou-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/108913",
+        "dub": "https://www.animegg.org/embed/130447",
+        "url": "https://www.animegg.org/kaminaki-sekai-no-kamisama-katsudou-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/129914",
+        "dub": "https://www.animegg.org/embed/130450",
+        "url": "https://www.animegg.org/kaminaki-sekai-no-kamisama-katsudou-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/130014",
+        "dub": "https://www.animegg.org/embed/130449",
+        "url": "https://www.animegg.org/kaminaki-sekai-no-kamisama-katsudou-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/130065",
+        "dub": "https://www.animegg.org/embed/130448",
+        "url": "https://www.animegg.org/kaminaki-sekai-no-kamisama-katsudou-episode-12"
+      }
+    ]
   }
 ]
