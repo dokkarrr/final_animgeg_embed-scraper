@@ -8377,5 +8377,21 @@
         "url": "https://www.animegg.org/dragonaut-the-resonance-special-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5754,
+    "title": "Pokemon: Pichu to Pikachu",
+    "animegg_url": "https://www.animegg.org/series/pokemon-pichu-to-pikachu",
+    "mal_url": "https://myanimelist.net/anime/4793",
+    "mal_id": 4793,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/81150",
+        "dub": null,
+        "url": "https://www.animegg.org/pokemon-pichu-to-pikachu-episode-1"
+      }
+    ]
   }
 ]
