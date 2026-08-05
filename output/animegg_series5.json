@@ -7921,5 +7921,21 @@
         "url": "https://www.animegg.org/potion-wagami-wo-tasukeru-episode-11"
       }
     ]
+  },
+  {
+    "serial_no": 5739,
+    "title": "Gundam Zeta: A New Translation III - Love is the Pulse of the Stars",
+    "animegg_url": "https://www.animegg.org/series/gundam-zeta-a-new-translation-iii---love-is-the-pulse-of-the-stars",
+    "mal_url": "https://myanimelist.net/anime/1969",
+    "mal_id": 1969,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/53373",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-zeta-a-new-translation-iii---love-is-the-pulse-of-the-stars-episode-1"
+      }
+    ]
   }
 ]
