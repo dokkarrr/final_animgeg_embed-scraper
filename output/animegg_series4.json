@@ -60280,5 +60280,21 @@
         "url": "https://www.animegg.org/minarai-diva-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 3824,
+    "title": "Date A Live Movie: Mayuri Judgment",
+    "animegg_url": "https://www.animegg.org/series/date-a-live-movie-mayuri-judgment",
+    "mal_url": "https://myanimelist.net/anime/24655",
+    "mal_id": 24655,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/81291",
+        "dub": "https://www.animegg.org/embed/81450",
+        "url": "https://www.animegg.org/date-a-live-movie-mayuri-judgment-episode-1"
+      }
+    ]
   }
 ]
