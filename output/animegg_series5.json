@@ -6476,5 +6476,21 @@
         "url": "https://www.animegg.org/dual-parallel-trouble-adventures-special-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5715,
+    "title": "Lupin III: The Last Job",
+    "animegg_url": "https://www.animegg.org/series/lupin-iii-the-last-job",
+    "mal_url": "https://myanimelist.net/anime/8097",
+    "mal_id": 8097,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/56133",
+        "dub": null,
+        "url": "https://www.animegg.org/lupin-iii-the-last-job-episode-1"
+      }
+    ]
   }
 ]
