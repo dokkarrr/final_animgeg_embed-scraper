@@ -19030,5 +19030,27 @@
         "url": "https://www.animegg.org/hamtaro-movie-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5950,
+    "title": "Stella no Mahou Specials",
+    "animegg_url": "https://www.animegg.org/series/stella-no-mahou-specials",
+    "mal_url": "https://myanimelist.net/anime/35522",
+    "mal_id": 35522,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/87415",
+        "dub": null,
+        "url": "https://www.animegg.org/stella-no-mahou-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/87417",
+        "dub": null,
+        "url": "https://www.animegg.org/stella-no-mahou-specials-episode-2"
+      }
+    ]
   }
 ]
