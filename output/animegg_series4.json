@@ -131954,5 +131954,27 @@
         "url": "https://www.animegg.org/vicky-and-johnny-dub-episode-104"
       }
     ]
+  },
+  {
+    "serial_no": 4905,
+    "title": "Eiyuu Densetsu: Sora no Kiseki",
+    "animegg_url": "https://www.animegg.org/series/eiyuu-densetsu-sora-no-kiseki",
+    "mal_url": "https://myanimelist.net/anime/10260",
+    "mal_id": 10260,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/9788",
+        "dub": null,
+        "url": "https://www.animegg.org/eiyuu-densetsu-sora-no-kiseki-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/9789",
+        "dub": null,
+        "url": "https://www.animegg.org/eiyuu-densetsu-sora-no-kiseki-episode-2"
+      }
+    ]
   }
 ]
