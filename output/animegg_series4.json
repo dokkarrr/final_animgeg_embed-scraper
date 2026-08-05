@@ -118702,5 +118702,87 @@
         "url": "https://www.animegg.org/dark-moon-the-blood-altar-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4724,
+    "title": "Nyaight of the Living Cat",
+    "animegg_url": "https://www.animegg.org/series/nyaight-of-the-living-cat",
+    "mal_url": "https://myanimelist.net/anime/58197",
+    "mal_id": 58197,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/141605",
+        "dub": "https://www.animegg.org/embed/141827",
+        "url": "https://www.animegg.org/nyaight-of-the-living-cat-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/141706",
+        "dub": "https://www.animegg.org/embed/141937",
+        "url": "https://www.animegg.org/nyaight-of-the-living-cat-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/141823",
+        "dub": "https://www.animegg.org/embed/142072",
+        "url": "https://www.animegg.org/nyaight-of-the-living-cat-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/141921",
+        "dub": "https://www.animegg.org/embed/142190",
+        "url": "https://www.animegg.org/nyaight-of-the-living-cat-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/142052",
+        "dub": "https://www.animegg.org/embed/142302",
+        "url": "https://www.animegg.org/nyaight-of-the-living-cat-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/142178",
+        "dub": null,
+        "url": "https://www.animegg.org/nyaight-of-the-living-cat-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/142284",
+        "dub": "https://www.animegg.org/embed/142439",
+        "url": "https://www.animegg.org/nyaight-of-the-living-cat-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/142392",
+        "dub": null,
+        "url": "https://www.animegg.org/nyaight-of-the-living-cat-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/142560",
+        "dub": null,
+        "url": "https://www.animegg.org/nyaight-of-the-living-cat-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/142661",
+        "dub": null,
+        "url": "https://www.animegg.org/nyaight-of-the-living-cat-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/142559",
+        "dub": "https://www.animegg.org/embed/142754",
+        "url": "https://www.animegg.org/nyaight-of-the-living-cat-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/142664",
+        "dub": null,
+        "url": "https://www.animegg.org/nyaight-of-the-living-cat-episode-12"
+      }
+    ]
   }
 ]
