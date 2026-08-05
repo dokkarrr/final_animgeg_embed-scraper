@@ -110244,5 +110244,39 @@
         "url": "https://www.animegg.org/a-hundred-scenes-of-awajima-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4573,
+    "title": "Black Torch",
+    "animegg_url": "https://www.animegg.org/series/black-torch",
+    "mal_url": "https://myanimelist.net/anime/61169",
+    "mal_id": 61169,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/146305",
+        "dub": "https://www.animegg.org/embed/146319",
+        "url": "https://www.animegg.org/black-torch-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/146388",
+        "dub": null,
+        "url": "https://www.animegg.org/black-torch-episode-2"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/146547",
+        "dub": null,
+        "url": "https://www.animegg.org/black-torch-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/146601",
+        "dub": null,
+        "url": "https://www.animegg.org/black-torch-episode-5"
+      }
+    ]
   }
 ]
