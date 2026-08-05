@@ -5916,5 +5916,21 @@
         "url": "https://www.animegg.org/lupin-iii-kutabare-nostradamus-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5704,
+    "title": "Da Yu Hai Tang",
+    "animegg_url": "https://www.animegg.org/series/da-yu-hai-tang",
+    "mal_url": "https://myanimelist.net/anime/39264",
+    "mal_id": 39264,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/91997",
+        "dub": "https://www.animegg.org/embed/91998",
+        "url": "https://www.animegg.org/da-yu-hai-tang-episode-1"
+      }
+    ]
   }
 ]
