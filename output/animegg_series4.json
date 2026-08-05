@@ -83090,5 +83090,81 @@
         "url": "https://www.animegg.org/strike-witches-operation-victory-arrow-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 4152,
+    "title": "Cestvs: The Roman Fighter",
+    "animegg_url": "https://www.animegg.org/series/cestvs-the-roman-fighter",
+    "mal_url": "https://myanimelist.net/anime/43763",
+    "mal_id": 43763,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/101432",
+        "dub": null,
+        "url": "https://www.animegg.org/cestvs-the-roman-fighter-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/101496",
+        "dub": null,
+        "url": "https://www.animegg.org/cestvs-the-roman-fighter-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/101559",
+        "dub": null,
+        "url": "https://www.animegg.org/cestvs-the-roman-fighter-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/101622",
+        "dub": null,
+        "url": "https://www.animegg.org/cestvs-the-roman-fighter-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/101683",
+        "dub": null,
+        "url": "https://www.animegg.org/cestvs-the-roman-fighter-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/101765",
+        "dub": null,
+        "url": "https://www.animegg.org/cestvs-the-roman-fighter-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/101826",
+        "dub": null,
+        "url": "https://www.animegg.org/cestvs-the-roman-fighter-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/101906",
+        "dub": null,
+        "url": "https://www.animegg.org/cestvs-the-roman-fighter-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/101976",
+        "dub": null,
+        "url": "https://www.animegg.org/cestvs-the-roman-fighter-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/102044",
+        "dub": null,
+        "url": "https://www.animegg.org/cestvs-the-roman-fighter-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/102125",
+        "dub": null,
+        "url": "https://www.animegg.org/cestvs-the-roman-fighter-episode-11"
+      }
+    ]
   }
 ]
