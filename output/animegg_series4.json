@@ -84054,5 +84054,63 @@
         "url": "https://www.animegg.org/rod-ova-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 4168,
+    "title": "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou",
+    "animegg_url": "https://www.animegg.org/series/yuuki-yuuna-wa-yuusha-de-aru-washio-sumi-no-shou",
+    "mal_url": "https://myanimelist.net/anime/34284",
+    "mal_id": 34284,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/88548",
+        "dub": null,
+        "url": "https://www.animegg.org/yuuki-yuuna-wa-yuusha-de-aru-washio-sumi-no-shou-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/88646",
+        "dub": null,
+        "url": "https://www.animegg.org/yuuki-yuuna-wa-yuusha-de-aru-washio-sumi-no-shou-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/88724",
+        "dub": null,
+        "url": "https://www.animegg.org/yuuki-yuuna-wa-yuusha-de-aru-washio-sumi-no-shou-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/88813",
+        "dub": null,
+        "url": "https://www.animegg.org/yuuki-yuuna-wa-yuusha-de-aru-washio-sumi-no-shou-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/88901",
+        "dub": null,
+        "url": "https://www.animegg.org/yuuki-yuuna-wa-yuusha-de-aru-washio-sumi-no-shou-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/88987",
+        "dub": null,
+        "url": "https://www.animegg.org/yuuki-yuuna-wa-yuusha-de-aru-washio-sumi-no-shou-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/89079",
+        "dub": null,
+        "url": "https://www.animegg.org/yuuki-yuuna-wa-yuusha-de-aru-washio-sumi-no-shou-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/89153",
+        "dub": null,
+        "url": "https://www.animegg.org/yuuki-yuuna-wa-yuusha-de-aru-washio-sumi-no-shou-episode-8"
+      }
+    ]
   }
 ]
