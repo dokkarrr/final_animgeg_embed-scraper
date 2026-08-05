@@ -63668,5 +63668,75 @@
         "url": "https://www.animegg.org/seishun-buta-yarou-wa-yumemiru-shoujo-no-yume-wo-minai-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3861,
+    "title": "Ketsuekigata-kun!",
+    "animegg_url": "https://www.animegg.org/series/ketsuekigata-kun",
+    "mal_url": "https://myanimelist.net/anime/17731",
+    "mal_id": 17731,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/20135",
+        "dub": null,
+        "url": "https://www.animegg.org/ketsuekigata-kun-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/20132",
+        "dub": null,
+        "url": "https://www.animegg.org/ketsuekigata-kun-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/20131",
+        "dub": null,
+        "url": "https://www.animegg.org/ketsuekigata-kun-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/20134",
+        "dub": null,
+        "url": "https://www.animegg.org/ketsuekigata-kun-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/20130",
+        "dub": null,
+        "url": "https://www.animegg.org/ketsuekigata-kun-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/20133",
+        "dub": null,
+        "url": "https://www.animegg.org/ketsuekigata-kun-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ketsuekigata-kun-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ketsuekigata-kun-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ketsuekigata-kun-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ketsuekigata-kun-episode-10"
+      }
+    ]
   }
 ]
