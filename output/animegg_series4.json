@@ -127168,5 +127168,21 @@
         "url": "https://www.animegg.org/plus-sized-misadventures-in-love-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4835,
+    "title": "Beelzebub OVA",
+    "animegg_url": "https://www.animegg.org/series/beelzebub-ova",
+    "mal_url": "https://myanimelist.net/anime/37716",
+    "mal_id": 37716,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/2924",
+        "dub": null,
+        "url": "https://www.animegg.org/beelzebub-ova-episode-1"
+      }
+    ]
   }
 ]
