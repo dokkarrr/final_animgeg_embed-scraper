@@ -29464,5 +29464,87 @@
         "url": "https://www.animegg.org/dealing-with-mikadono-sisters-is-a-breeze-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3419,
+    "title": "Kaizoku Oujo",
+    "animegg_url": "https://www.animegg.org/series/kaizoku-oujo",
+    "mal_url": "https://myanimelist.net/anime/42544",
+    "mal_id": 42544,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/102520",
+        "dub": null,
+        "url": "https://www.animegg.org/kaizoku-oujo-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/102521",
+        "dub": null,
+        "url": "https://www.animegg.org/kaizoku-oujo-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/102574",
+        "dub": null,
+        "url": "https://www.animegg.org/kaizoku-oujo-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/102630",
+        "dub": null,
+        "url": "https://www.animegg.org/kaizoku-oujo-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/102688",
+        "dub": null,
+        "url": "https://www.animegg.org/kaizoku-oujo-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/102744",
+        "dub": null,
+        "url": "https://www.animegg.org/kaizoku-oujo-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/102799",
+        "dub": null,
+        "url": "https://www.animegg.org/kaizoku-oujo-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/102849",
+        "dub": null,
+        "url": "https://www.animegg.org/kaizoku-oujo-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/102937",
+        "dub": null,
+        "url": "https://www.animegg.org/kaizoku-oujo-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/103005",
+        "dub": null,
+        "url": "https://www.animegg.org/kaizoku-oujo-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/103069",
+        "dub": null,
+        "url": "https://www.animegg.org/kaizoku-oujo-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/103132",
+        "dub": null,
+        "url": "https://www.animegg.org/kaizoku-oujo-episode-12"
+      }
+    ]
   }
 ]
