@@ -80930,5 +80930,21 @@
         "url": "https://www.animegg.org/kore-wa-zombie-desu-ka-ova-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 4137,
+    "title": "Date A Live OVA",
+    "animegg_url": "https://www.animegg.org/series/date-a-live-ova",
+    "mal_url": "https://myanimelist.net/anime/17641",
+    "mal_id": 17641,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/7368",
+        "dub": "https://www.animegg.org/embed/7369",
+        "url": "https://www.animegg.org/date-a-live-ova-episode-1"
+      }
+    ]
   }
 ]
