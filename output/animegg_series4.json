@@ -88622,5 +88622,93 @@
         "url": "https://www.animegg.org/chain-chronicle-haecceitas-no-hikari-part-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4245,
+    "title": "Hibike! Euphonium 3",
+    "animegg_url": "https://www.animegg.org/series/hibike-euphonium-3",
+    "mal_url": "https://myanimelist.net/anime/39894",
+    "mal_id": 39894,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/hibike-euphonium-3-episode-13"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/135103",
+        "dub": null,
+        "url": "https://www.animegg.org/hibike-euphonium-3-episode-12"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/134951",
+        "dub": null,
+        "url": "https://www.animegg.org/hibike-euphonium-3-episode-11"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/134785",
+        "dub": null,
+        "url": "https://www.animegg.org/hibike-euphonium-3-episode-10"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/134623",
+        "dub": null,
+        "url": "https://www.animegg.org/hibike-euphonium-3-episode-9"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/134455",
+        "dub": null,
+        "url": "https://www.animegg.org/hibike-euphonium-3-episode-8"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/134254",
+        "dub": null,
+        "url": "https://www.animegg.org/hibike-euphonium-3-episode-7"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/134085",
+        "dub": null,
+        "url": "https://www.animegg.org/hibike-euphonium-3-episode-6"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/133987",
+        "dub": null,
+        "url": "https://www.animegg.org/hibike-euphonium-3-episode-5"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/hibike-euphonium-3-episode-4"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/133739",
+        "dub": null,
+        "url": "https://www.animegg.org/hibike-euphonium-3-episode-3"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/hibike-euphonium-3-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/133525",
+        "dub": null,
+        "url": "https://www.animegg.org/hibike-euphonium-3-episode-1"
+      }
+    ]
   }
 ]
