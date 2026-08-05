@@ -16476,5 +16476,57 @@
         "url": "https://www.animegg.org/rurouni-kenshin-meiji-kenkaku-romantan---kyoto-douran-episode-23"
       }
     ]
+  },
+  {
+    "serial_no": 3265,
+    "title": "Kyoukai no Kanata: Mini Theater",
+    "animegg_url": "https://www.animegg.org/series/kyoukai-no-kanata-mini-theater",
+    "mal_url": "https://myanimelist.net/anime/20909",
+    "mal_id": 20909,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/73634",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoukai-no-kanata-mini-theater-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/73635",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoukai-no-kanata-mini-theater-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/73636",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoukai-no-kanata-mini-theater-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/73637",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoukai-no-kanata-mini-theater-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/73638",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoukai-no-kanata-mini-theater-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/73639",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoukai-no-kanata-mini-theater-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/73693",
+        "dub": null,
+        "url": "https://www.animegg.org/kyoukai-no-kanata-mini-theater-episode-7"
+      }
+    ]
   }
 ]
