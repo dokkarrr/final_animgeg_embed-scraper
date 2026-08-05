@@ -37811,5 +37811,21 @@
     "mal_id": 37450,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 6201,
+    "title": "Meitantei Conan vs. Kaitou Kid",
+    "animegg_url": "https://www.animegg.org/series/meitantei-conan-vs-kaitou-kid",
+    "mal_url": "https://myanimelist.net/anime/57441",
+    "mal_id": 57441,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/meitantei-conan-vs-kaitou-kid-episode-1"
+      }
+    ]
   }
 ]
