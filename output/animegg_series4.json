@@ -121362,5 +121362,81 @@
         "url": "https://www.animegg.org/a-channel-smile-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 4750,
+    "title": "Catch Me at the Ballpark!",
+    "animegg_url": "https://www.animegg.org/series/catch-me-at-the-ballpark",
+    "mal_url": "https://myanimelist.net/anime/60293",
+    "mal_id": 60293,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/140335",
+        "dub": null,
+        "url": "https://www.animegg.org/catch-me-at-the-ballpark-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/140416",
+        "dub": null,
+        "url": "https://www.animegg.org/catch-me-at-the-ballpark-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/140501",
+        "dub": null,
+        "url": "https://www.animegg.org/catch-me-at-the-ballpark-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/140592",
+        "dub": null,
+        "url": "https://www.animegg.org/catch-me-at-the-ballpark-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/140674",
+        "dub": null,
+        "url": "https://www.animegg.org/catch-me-at-the-ballpark-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/140760",
+        "dub": null,
+        "url": "https://www.animegg.org/catch-me-at-the-ballpark-episode-6"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/140972",
+        "dub": null,
+        "url": "https://www.animegg.org/catch-me-at-the-ballpark-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/141072",
+        "dub": null,
+        "url": "https://www.animegg.org/catch-me-at-the-ballpark-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/141176",
+        "dub": null,
+        "url": "https://www.animegg.org/catch-me-at-the-ballpark-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/141265",
+        "dub": null,
+        "url": "https://www.animegg.org/catch-me-at-the-ballpark-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/141371",
+        "dub": null,
+        "url": "https://www.animegg.org/catch-me-at-the-ballpark-episode-12"
+      }
+    ]
   }
 ]
