@@ -45385,5 +45385,75 @@
         "url": "https://www.animegg.org/sentou-yousei-shoujo-tasukete-mave-chan-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6275,
+    "title": "Hikari no Ou",
+    "animegg_url": "https://www.animegg.org/series/hikari-no-ou",
+    "mal_url": "https://myanimelist.net/anime/43760",
+    "mal_id": 43760,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/106864",
+        "dub": null,
+        "url": "https://www.animegg.org/hikari-no-ou-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/106937",
+        "dub": null,
+        "url": "https://www.animegg.org/hikari-no-ou-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/107009",
+        "dub": null,
+        "url": "https://www.animegg.org/hikari-no-ou-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/107081",
+        "dub": null,
+        "url": "https://www.animegg.org/hikari-no-ou-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/107140",
+        "dub": null,
+        "url": "https://www.animegg.org/hikari-no-ou-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/107260",
+        "dub": null,
+        "url": "https://www.animegg.org/hikari-no-ou-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/107324",
+        "dub": null,
+        "url": "https://www.animegg.org/hikari-no-ou-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/107391",
+        "dub": null,
+        "url": "https://www.animegg.org/hikari-no-ou-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/107455",
+        "dub": null,
+        "url": "https://www.animegg.org/hikari-no-ou-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/107517",
+        "dub": null,
+        "url": "https://www.animegg.org/hikari-no-ou-episode-10"
+      }
+    ]
   }
 ]
