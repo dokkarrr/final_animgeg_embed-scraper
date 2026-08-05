@@ -66420,5 +66420,87 @@
         "url": "https://www.animegg.org/berserk-ougon-jidaihen-i-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3901,
+    "title": "Rokudou no Onna-tachi",
+    "animegg_url": "https://www.animegg.org/series/rokudou-no-onna-tachi",
+    "mal_url": "https://myanimelist.net/anime/54259",
+    "mal_id": 54259,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/107665",
+        "dub": null,
+        "url": "https://www.animegg.org/rokudou-no-onna-tachi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/107755",
+        "dub": null,
+        "url": "https://www.animegg.org/rokudou-no-onna-tachi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/107848",
+        "dub": null,
+        "url": "https://www.animegg.org/rokudou-no-onna-tachi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/107899",
+        "dub": null,
+        "url": "https://www.animegg.org/rokudou-no-onna-tachi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/107975",
+        "dub": null,
+        "url": "https://www.animegg.org/rokudou-no-onna-tachi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/107976",
+        "dub": null,
+        "url": "https://www.animegg.org/rokudou-no-onna-tachi-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/108126",
+        "dub": null,
+        "url": "https://www.animegg.org/rokudou-no-onna-tachi-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/108329",
+        "dub": null,
+        "url": "https://www.animegg.org/rokudou-no-onna-tachi-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/rokudou-no-onna-tachi-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/129860",
+        "dub": null,
+        "url": "https://www.animegg.org/rokudou-no-onna-tachi-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/129859",
+        "dub": null,
+        "url": "https://www.animegg.org/rokudou-no-onna-tachi-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/129974",
+        "dub": null,
+        "url": "https://www.animegg.org/rokudou-no-onna-tachi-episode-12"
+      }
+    ]
   }
 ]
