@@ -46330,5 +46330,75 @@
         "url": "https://www.animegg.org/idolish7-second-beat-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3626,
+    "title": "Flone of the Mysterious Island",
+    "animegg_url": "https://www.animegg.org/series/flone-of-the-mysterious-island-episode",
+    "mal_url": "https://myanimelist.net/anime/2544",
+    "mal_id": 2544,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/75297",
+        "dub": null,
+        "url": "https://www.animegg.org/flone-of-the-mysterious-island-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/75298",
+        "dub": null,
+        "url": "https://www.animegg.org/flone-of-the-mysterious-island-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/75299",
+        "dub": null,
+        "url": "https://www.animegg.org/flone-of-the-mysterious-island-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/75300",
+        "dub": null,
+        "url": "https://www.animegg.org/flone-of-the-mysterious-island-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/75301",
+        "dub": null,
+        "url": "https://www.animegg.org/flone-of-the-mysterious-island-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/75302",
+        "dub": null,
+        "url": "https://www.animegg.org/flone-of-the-mysterious-island-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/75303",
+        "dub": null,
+        "url": "https://www.animegg.org/flone-of-the-mysterious-island-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/75304",
+        "dub": null,
+        "url": "https://www.animegg.org/flone-of-the-mysterious-island-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/75305",
+        "dub": null,
+        "url": "https://www.animegg.org/flone-of-the-mysterious-island-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/75316",
+        "dub": null,
+        "url": "https://www.animegg.org/flone-of-the-mysterious-island-episode-10"
+      }
+    ]
   }
 ]
