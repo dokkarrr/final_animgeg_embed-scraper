@@ -15344,5 +15344,39 @@
         "url": "https://www.animegg.org/tekkon-kinkreet-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5876,
+    "title": "Saint Seiya: Knights of the Zodiac",
+    "animegg_url": "https://www.animegg.org/series/saint-seiya-knights-of-the-zodiac",
+    "mal_url": "https://myanimelist.net/anime/36040",
+    "mal_id": 36040,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/95961",
+        "dub": null,
+        "url": "https://www.animegg.org/saint-seiya-knights-of-the-zodiac-episode-1"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/95962",
+        "dub": null,
+        "url": "https://www.animegg.org/saint-seiya-knights-of-the-zodiac-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/97770",
+        "dub": null,
+        "url": "https://www.animegg.org/saint-seiya-knights-of-the-zodiac-episode-7"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/97769",
+        "dub": null,
+        "url": "https://www.animegg.org/saint-seiya-knights-of-the-zodiac-episode-12"
+      }
+    ]
   }
 ]
