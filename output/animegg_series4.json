@@ -117534,5 +117534,87 @@
         "url": "https://www.animegg.org/sora-no-manimani-specials-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 4702,
+    "title": "Mini Toji",
+    "animegg_url": "https://www.animegg.org/series/mini-toji",
+    "mal_url": "https://myanimelist.net/anime/38673",
+    "mal_id": 38673,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/94140",
+        "dub": null,
+        "url": "https://www.animegg.org/mini-toji-episode-00"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/94204",
+        "dub": null,
+        "url": "https://www.animegg.org/mini-toji-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/94275",
+        "dub": null,
+        "url": "https://www.animegg.org/mini-toji-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/94340",
+        "dub": null,
+        "url": "https://www.animegg.org/mini-toji-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/94406",
+        "dub": null,
+        "url": "https://www.animegg.org/mini-toji-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/94470",
+        "dub": null,
+        "url": "https://www.animegg.org/mini-toji-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/94532",
+        "dub": null,
+        "url": "https://www.animegg.org/mini-toji-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/94607",
+        "dub": null,
+        "url": "https://www.animegg.org/mini-toji-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/94676",
+        "dub": null,
+        "url": "https://www.animegg.org/mini-toji-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/94741",
+        "dub": null,
+        "url": "https://www.animegg.org/mini-toji-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/94803",
+        "dub": null,
+        "url": "https://www.animegg.org/mini-toji-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/mini-toji-episode-11"
+      }
+    ]
   }
 ]
