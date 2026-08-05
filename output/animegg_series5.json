@@ -18600,5 +18600,21 @@
         "url": "https://www.animegg.org/harbor-light-monogatari-fashion-lala-yori-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5931,
+    "title": "Precure All Stars Movie: Haru no Carnival♪",
+    "animegg_url": "https://www.animegg.org/series/precure-all-stars-movie-haru-no-carnival",
+    "mal_url": "https://myanimelist.net/anime/28511",
+    "mal_id": 28511,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/78293",
+        "dub": null,
+        "url": "https://www.animegg.org/precure-all-stars-movie-haru-no-carnival-episode-1"
+      }
+    ]
   }
 ]
