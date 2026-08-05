@@ -60104,5 +60104,63 @@
         "url": "https://www.animegg.org/tesagure-bukatsumono-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3819,
+    "title": "Boushoku no Berserk",
+    "animegg_url": "https://www.animegg.org/series/boushoku-no-berserk",
+    "mal_url": "https://myanimelist.net/anime/53439",
+    "mal_id": 53439,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/131555",
+        "dub": null,
+        "url": "https://www.animegg.org/boushoku-no-berserk-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/131682",
+        "dub": null,
+        "url": "https://www.animegg.org/boushoku-no-berserk-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/131798",
+        "dub": null,
+        "url": "https://www.animegg.org/boushoku-no-berserk-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/131906",
+        "dub": null,
+        "url": "https://www.animegg.org/boushoku-no-berserk-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/boushoku-no-berserk-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/boushoku-no-berserk-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/132195",
+        "dub": null,
+        "url": "https://www.animegg.org/boushoku-no-berserk-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/132306",
+        "dub": null,
+        "url": "https://www.animegg.org/boushoku-no-berserk-episode-8"
+      }
+    ]
   }
 ]
