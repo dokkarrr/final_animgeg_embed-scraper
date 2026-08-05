@@ -89320,5 +89320,21 @@
         "url": "https://www.animegg.org/ajin-ova-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 4256,
+    "title": "One Piece Film: Gold Episode 0 - 711 ver.",
+    "animegg_url": "https://www.animegg.org/series/one-piece-film-gold-episode-0---711-ver",
+    "mal_url": "https://myanimelist.net/anime/33606",
+    "mal_id": 33606,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/85344",
+        "dub": null,
+        "url": "https://www.animegg.org/one-piece-film-gold-episode-0---711-ver-episode-1"
+      }
+    ]
   }
 ]
