@@ -100904,5 +100904,87 @@
         "url": "https://www.animegg.org/ajimu-beach-story-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 4413,
+    "title": "Mononogatari",
+    "animegg_url": "https://www.animegg.org/series/mononogatari",
+    "mal_url": "https://myanimelist.net/anime/50384",
+    "mal_id": 50384,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/106817",
+        "dub": null,
+        "url": "https://www.animegg.org/mononogatari-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/106889",
+        "dub": null,
+        "url": "https://www.animegg.org/mononogatari-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/106961",
+        "dub": null,
+        "url": "https://www.animegg.org/mononogatari-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/107033",
+        "dub": null,
+        "url": "https://www.animegg.org/mononogatari-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/107108",
+        "dub": null,
+        "url": "https://www.animegg.org/mononogatari-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/107181",
+        "dub": null,
+        "url": "https://www.animegg.org/mononogatari-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/107284",
+        "dub": null,
+        "url": "https://www.animegg.org/mononogatari-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/107350",
+        "dub": null,
+        "url": "https://www.animegg.org/mononogatari-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/107414",
+        "dub": null,
+        "url": "https://www.animegg.org/mononogatari-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/107483",
+        "dub": null,
+        "url": "https://www.animegg.org/mononogatari-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/107544",
+        "dub": null,
+        "url": "https://www.animegg.org/mononogatari-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/107604",
+        "dub": null,
+        "url": "https://www.animegg.org/mononogatari-episode-12"
+      }
+    ]
   }
 ]
