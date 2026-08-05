@@ -1628,5 +1628,21 @@
         "url": "https://www.animegg.org/long-riders-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3093,
+    "title": "Naruto Shippuuden: Sunny Side Battle",
+    "animegg_url": "https://www.animegg.org/series/naruto-shippuuden-sunny-side-battle",
+    "mal_url": "https://myanimelist.net/anime/19511",
+    "mal_id": 19511,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66485",
+        "dub": null,
+        "url": "https://www.animegg.org/naruto-shippuuden-sunny-side-battle-episode-1"
+      }
+    ]
   }
 ]
