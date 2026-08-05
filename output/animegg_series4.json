@@ -78968,5 +78968,39 @@
         "url": "https://www.animegg.org/machikado-mazoku-2-choume-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4101,
+    "title": "Fushigi Yuugi: Eikouden",
+    "animegg_url": "https://www.animegg.org/series/fushigi-yuugi-eikouden",
+    "mal_url": "https://myanimelist.net/anime/124",
+    "mal_id": 124,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/11807",
+        "dub": "https://www.animegg.org/embed/11808",
+        "url": "https://www.animegg.org/fushigi-yuugi-eikouden-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/11809",
+        "dub": "https://www.animegg.org/embed/11810",
+        "url": "https://www.animegg.org/fushigi-yuugi-eikouden-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/11805",
+        "dub": "https://www.animegg.org/embed/11806",
+        "url": "https://www.animegg.org/fushigi-yuugi-eikouden-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/11803",
+        "dub": "https://www.animegg.org/embed/11804",
+        "url": "https://www.animegg.org/fushigi-yuugi-eikouden-episode-4"
+      }
+    ]
   }
 ]
