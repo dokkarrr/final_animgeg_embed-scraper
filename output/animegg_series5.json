@@ -19762,5 +19762,81 @@
         "url": "https://www.animegg.org/choujuu-kishin-dancougar-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5962,
+    "title": "Magic Maker: Isekai Mahou no Tsukurikata",
+    "animegg_url": "https://www.animegg.org/series/magic-maker-isekai-mahou-no-tsukurikata",
+    "mal_url": "https://myanimelist.net/anime/59265",
+    "mal_id": 59265,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/139411",
+        "dub": null,
+        "url": "https://www.animegg.org/magic-maker-isekai-mahou-no-tsukurikata-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/139410",
+        "dub": null,
+        "url": "https://www.animegg.org/magic-maker-isekai-mahou-no-tsukurikata-episode-2"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/139530",
+        "dub": "https://www.animegg.org/embed/139531",
+        "url": "https://www.animegg.org/magic-maker-isekai-mahou-no-tsukurikata-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/139528",
+        "dub": "https://www.animegg.org/embed/139640",
+        "url": "https://www.animegg.org/magic-maker-isekai-mahou-no-tsukurikata-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/139739",
+        "dub": null,
+        "url": "https://www.animegg.org/magic-maker-isekai-mahou-no-tsukurikata-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/139812",
+        "dub": "https://www.animegg.org/embed/139821",
+        "url": "https://www.animegg.org/magic-maker-isekai-mahou-no-tsukurikata-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/139925",
+        "dub": null,
+        "url": "https://www.animegg.org/magic-maker-isekai-mahou-no-tsukurikata-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/140014",
+        "dub": "https://www.animegg.org/embed/140018",
+        "url": "https://www.animegg.org/magic-maker-isekai-mahou-no-tsukurikata-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/140100",
+        "dub": "https://www.animegg.org/embed/140107",
+        "url": "https://www.animegg.org/magic-maker-isekai-mahou-no-tsukurikata-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/140194",
+        "dub": null,
+        "url": "https://www.animegg.org/magic-maker-isekai-mahou-no-tsukurikata-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/140272",
+        "dub": "https://www.animegg.org/embed/140276",
+        "url": "https://www.animegg.org/magic-maker-isekai-mahou-no-tsukurikata-episode-12"
+      }
+    ]
   }
 ]
