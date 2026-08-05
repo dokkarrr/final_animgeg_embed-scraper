@@ -27944,5 +27944,27 @@
         "url": "https://www.animegg.org/muu-no-hakugei-episode-7"
       }
     ]
+  },
+  {
+    "serial_no": 6065,
+    "title": "Peeping Life Specials",
+    "animegg_url": "https://www.animegg.org/series/peeping-life-specials",
+    "mal_url": "https://myanimelist.net/anime/17159",
+    "mal_id": 17159,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/60001",
+        "dub": null,
+        "url": "https://www.animegg.org/peeping-life-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/60002",
+        "dub": null,
+        "url": "https://www.animegg.org/peeping-life-specials-episode-2"
+      }
+    ]
   }
 ]
