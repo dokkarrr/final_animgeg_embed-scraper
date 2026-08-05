@@ -11447,5 +11447,21 @@
         "url": "https://www.animegg.org/tenshi-no-drop-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5788,
+    "title": "Futsuu no Joshikousei ga [Locodol] Yatte Mita.: Nagarekawa, Annai Shite Mita.",
+    "animegg_url": "https://www.animegg.org/series/futsuu-no-joshikousei-ga-locodol-yatte-mita-nagarekawa-annai-shite-mita",
+    "mal_url": "https://myanimelist.net/anime/25719",
+    "mal_id": 25719,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66445",
+        "dub": "https://www.animegg.org/embed/66446",
+        "url": "https://www.animegg.org/futsuu-no-joshikousei-ga-locodol-yatte-mita-nagarekawa-annai-shite-mita-episode-1"
+      }
+    ]
   }
 ]
