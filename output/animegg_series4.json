@@ -37240,5 +37240,21 @@
         "url": "https://www.animegg.org/sabagebu-specials-episode-7"
       }
     ]
+  },
+  {
+    "serial_no": 3503,
+    "title": "One Piece: Strong World Episode 0",
+    "animegg_url": "https://www.animegg.org/series/one-piece-strong-world-episode-0",
+    "mal_url": "https://myanimelist.net/anime/4155",
+    "mal_id": 4155,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/59083",
+        "dub": null,
+        "url": "https://www.animegg.org/one-piece-strong-world-episode-0-episode-1"
+      }
+    ]
   }
 ]
