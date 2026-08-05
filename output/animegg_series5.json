@@ -82104,5 +82104,21 @@
         "url": "https://www.animegg.org/suzume-no-tojimari-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6591,
+    "title": "Natsume Yuujinchou Movie: Utsusemi ni Musubu",
+    "animegg_url": "https://www.animegg.org/series/natsume-yuujinchou-movie-utsusemi-ni-musubu",
+    "mal_url": "https://myanimelist.net/anime/36538",
+    "mal_id": 36538,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/97540",
+        "dub": null,
+        "url": "https://www.animegg.org/natsume-yuujinchou-movie-utsusemi-ni-musubu-episode-1"
+      }
+    ]
   }
 ]
