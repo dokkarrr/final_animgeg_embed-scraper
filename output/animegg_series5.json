@@ -18838,5 +18838,21 @@
         "url": "https://www.animegg.org/joker-game-kuroneko-yoru-no-bouken-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 5941,
+    "title": "Jarinko Chie (Movie)",
+    "animegg_url": "https://www.animegg.org/series/jarinko-chie-movie",
+    "mal_url": "https://myanimelist.net/anime/3946",
+    "mal_id": 3946,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/53648",
+        "dub": null,
+        "url": "https://www.animegg.org/jarinko-chie-movie-episode-1"
+      }
+    ]
   }
 ]
