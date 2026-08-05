@@ -59430,5 +59430,63 @@
         "url": "https://www.animegg.org/punirunes-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 3808,
+    "title": "High Score",
+    "animegg_url": "https://www.animegg.org/series/high-score",
+    "mal_url": "https://myanimelist.net/anime/10958",
+    "mal_id": 10958,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/16132",
+        "dub": null,
+        "url": "https://www.animegg.org/high-score-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/16130",
+        "dub": null,
+        "url": "https://www.animegg.org/high-score-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/16129",
+        "dub": null,
+        "url": "https://www.animegg.org/high-score-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/16131",
+        "dub": null,
+        "url": "https://www.animegg.org/high-score-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/16128",
+        "dub": null,
+        "url": "https://www.animegg.org/high-score-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/16135",
+        "dub": null,
+        "url": "https://www.animegg.org/high-score-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/16133",
+        "dub": null,
+        "url": "https://www.animegg.org/high-score-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/16134",
+        "dub": null,
+        "url": "https://www.animegg.org/high-score-episode-8"
+      }
+    ]
   }
 ]
