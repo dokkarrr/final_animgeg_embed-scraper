@@ -37622,5 +37622,27 @@
         "url": "https://www.animegg.org/i-am-the-monster-overlord-episode-65"
       }
     ]
+  },
+  {
+    "serial_no": 6191,
+    "title": "Teekyuu 2 Specials",
+    "animegg_url": "https://www.animegg.org/series/teekyuu-2-specials",
+    "mal_url": "https://myanimelist.net/anime/21201",
+    "mal_id": 21201,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/37349",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-2-specials-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/37350",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-2-specials-episode-1"
+      }
+    ]
   }
 ]
