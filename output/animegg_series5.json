@@ -83176,5 +83176,21 @@
         "url": "https://www.animegg.org/yakitori-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 6604,
+    "title": "Thermae Romae Specials",
+    "animegg_url": "https://www.animegg.org/series/thermae-romae-specials",
+    "mal_url": "https://myanimelist.net/anime/12727",
+    "mal_id": 12727,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/38044",
+        "dub": null,
+        "url": "https://www.animegg.org/thermae-romae-specials-episode-1"
+      }
+    ]
   }
 ]
