@@ -14600,5 +14600,21 @@
         "url": "https://www.animegg.org/lupin-iii-chi-no-kokuin-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5855,
+    "title": "Motto! Ojamajo Doremi: Secret of the Frog Stone",
+    "animegg_url": "https://www.animegg.org/series/motto-ojamajo-doremi-secret-of-the-frog-stone",
+    "mal_url": "https://myanimelist.net/anime/350",
+    "mal_id": 350,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/57219",
+        "dub": null,
+        "url": "https://www.animegg.org/motto-ojamajo-doremi-secret-of-the-frog-stone-episode-1"
+      }
+    ]
   }
 ]
