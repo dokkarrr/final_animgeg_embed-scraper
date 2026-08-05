@@ -24702,5 +24702,93 @@
         "url": "https://www.animegg.org/shinkon-gattai-godannar-2nd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3358,
+    "title": "Mahouka Koukou no Yuutousei",
+    "animegg_url": "https://www.animegg.org/series/mahouka-koukou-no-yuutousei",
+    "mal_url": "https://myanimelist.net/anime/45572",
+    "mal_id": 45572,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/102193",
+        "dub": null,
+        "url": "https://www.animegg.org/mahouka-koukou-no-yuutousei-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/102242",
+        "dub": null,
+        "url": "https://www.animegg.org/mahouka-koukou-no-yuutousei-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/102294",
+        "dub": null,
+        "url": "https://www.animegg.org/mahouka-koukou-no-yuutousei-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/102335",
+        "dub": null,
+        "url": "https://www.animegg.org/mahouka-koukou-no-yuutousei-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/102402",
+        "dub": null,
+        "url": "https://www.animegg.org/mahouka-koukou-no-yuutousei-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/102454",
+        "dub": null,
+        "url": "https://www.animegg.org/mahouka-koukou-no-yuutousei-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/102509",
+        "dub": null,
+        "url": "https://www.animegg.org/mahouka-koukou-no-yuutousei-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/102565",
+        "dub": null,
+        "url": "https://www.animegg.org/mahouka-koukou-no-yuutousei-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/102623",
+        "dub": null,
+        "url": "https://www.animegg.org/mahouka-koukou-no-yuutousei-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/102677",
+        "dub": null,
+        "url": "https://www.animegg.org/mahouka-koukou-no-yuutousei-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/102734",
+        "dub": null,
+        "url": "https://www.animegg.org/mahouka-koukou-no-yuutousei-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/102789",
+        "dub": null,
+        "url": "https://www.animegg.org/mahouka-koukou-no-yuutousei-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/102840",
+        "dub": null,
+        "url": "https://www.animegg.org/mahouka-koukou-no-yuutousei-episode-13"
+      }
+    ]
   }
 ]
