@@ -113510,5 +113510,21 @@
         "url": "https://www.animegg.org/cyborg-009-vs-devilman-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4641,
+    "title": "Kore wa Zombie Desu ka? of the Dead OVA",
+    "animegg_url": "https://www.animegg.org/series/kore-wa-zombie-desu-ka-of-the-dead-ova",
+    "mal_url": "https://myanimelist.net/anime/8841",
+    "mal_id": 8841,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/20733",
+        "dub": null,
+        "url": "https://www.animegg.org/kore-wa-zombie-desu-ka-of-the-dead-ova-episode-1"
+      }
+    ]
   }
 ]
