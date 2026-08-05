@@ -74753,5 +74753,39 @@
         "url": "https://www.animegg.org/xi-xing-ji-episode-38"
       }
     ]
+  },
+  {
+    "serial_no": 6529,
+    "title": "The Cat and the Dragon",
+    "animegg_url": "https://www.animegg.org/series/the-cat-and-the-dragon",
+    "mal_url": "https://myanimelist.net/anime/61048",
+    "mal_id": 61048,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/146250",
+        "dub": null,
+        "url": "https://www.animegg.org/the-cat-and-the-dragon-episode-1"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/146389",
+        "dub": null,
+        "url": "https://www.animegg.org/the-cat-and-the-dragon-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/146489",
+        "dub": null,
+        "url": "https://www.animegg.org/the-cat-and-the-dragon-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/146554",
+        "dub": null,
+        "url": "https://www.animegg.org/the-cat-and-the-dragon-episode-5"
+      }
+    ]
   }
 ]
