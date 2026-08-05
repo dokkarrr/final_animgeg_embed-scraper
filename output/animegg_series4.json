@@ -135027,5 +135027,27 @@
         "url": "https://www.animegg.org/dead-mount-death-play-part-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4958,
+    "title": "Inuyasha the Movie 4: Fire on the Mystic Island",
+    "animegg_url": "https://www.animegg.org/series/inuyasha-the-movie-4-fire-on-the-mystic-island",
+    "mal_url": "https://myanimelist.net/anime/449",
+    "mal_id": 449,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/54053",
+        "dub": null,
+        "url": "https://www.animegg.org/inuyasha-the-movie-4-fire-on-the-mystic-island-episode-2"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/54052",
+        "dub": null,
+        "url": "https://www.animegg.org/inuyasha-the-movie-4-fire-on-the-mystic-island-episode-1"
+      }
+    ]
   }
 ]
