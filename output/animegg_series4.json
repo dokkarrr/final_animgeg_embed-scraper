@@ -54782,5 +54782,51 @@
         "url": "https://www.animegg.org/action-heroine-cheer-fruits-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3741,
+    "title": "eX-Driver",
+    "animegg_url": "https://www.animegg.org/series/ex-driver",
+    "mal_url": "https://myanimelist.net/anime/377",
+    "mal_id": 377,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/51097",
+        "dub": "https://www.animegg.org/embed/51098",
+        "url": "https://www.animegg.org/ex-driver-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/51099",
+        "dub": "https://www.animegg.org/embed/51100",
+        "url": "https://www.animegg.org/ex-driver-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/51101",
+        "dub": "https://www.animegg.org/embed/51102",
+        "url": "https://www.animegg.org/ex-driver-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/51103",
+        "dub": "https://www.animegg.org/embed/51104",
+        "url": "https://www.animegg.org/ex-driver-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/51105",
+        "dub": "https://www.animegg.org/embed/51106",
+        "url": "https://www.animegg.org/ex-driver-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/51107",
+        "dub": "https://www.animegg.org/embed/51108",
+        "url": "https://www.animegg.org/ex-driver-episode-6"
+      }
+    ]
   }
 ]
