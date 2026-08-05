@@ -49386,5 +49386,87 @@
         "url": "https://www.animegg.org/otonari-ni-ginga-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3667,
+    "title": "In the Clear Moonlit Dusk",
+    "animegg_url": "https://www.animegg.org/series/in-the-clear-moonlit-dusk",
+    "mal_url": "https://myanimelist.net/anime/61663",
+    "mal_id": 61663,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/144153",
+        "dub": "https://www.animegg.org/embed/144373",
+        "url": "https://www.animegg.org/in-the-clear-moonlit-dusk-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/144244",
+        "dub": "https://www.animegg.org/embed/144483",
+        "url": "https://www.animegg.org/in-the-clear-moonlit-dusk-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/144367",
+        "dub": "https://www.animegg.org/embed/144586",
+        "url": "https://www.animegg.org/in-the-clear-moonlit-dusk-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/144471",
+        "dub": "https://www.animegg.org/embed/144691",
+        "url": "https://www.animegg.org/in-the-clear-moonlit-dusk-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/144571",
+        "dub": "https://www.animegg.org/embed/144765",
+        "url": "https://www.animegg.org/in-the-clear-moonlit-dusk-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/144663",
+        "dub": "https://www.animegg.org/embed/144889",
+        "url": "https://www.animegg.org/in-the-clear-moonlit-dusk-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/144771",
+        "dub": "https://www.animegg.org/embed/145006",
+        "url": "https://www.animegg.org/in-the-clear-moonlit-dusk-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/144877",
+        "dub": "https://www.animegg.org/embed/145104",
+        "url": "https://www.animegg.org/in-the-clear-moonlit-dusk-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/144989",
+        "dub": "https://www.animegg.org/embed/145199",
+        "url": "https://www.animegg.org/in-the-clear-moonlit-dusk-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/145089",
+        "dub": "https://www.animegg.org/embed/145297",
+        "url": "https://www.animegg.org/in-the-clear-moonlit-dusk-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/145386",
+        "dub": null,
+        "url": "https://www.animegg.org/in-the-clear-moonlit-dusk-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/145287",
+        "dub": null,
+        "url": "https://www.animegg.org/in-the-clear-moonlit-dusk-episode-12"
+      }
+    ]
   }
 ]
