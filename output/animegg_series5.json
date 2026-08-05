@@ -6877,5 +6877,21 @@
         "url": "https://www.animegg.org/galaxy-fraulein-yuna-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 5721,
+    "title": "Toaru Hikuushi e no Tsuioku",
+    "animegg_url": "https://www.animegg.org/series/toaru-hikuushi-e-no-tsuioku",
+    "mal_url": "https://myanimelist.net/anime/9000",
+    "mal_id": 9000,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/44052",
+        "dub": null,
+        "url": "https://www.animegg.org/toaru-hikuushi-e-no-tsuioku-episode-1"
+      }
+    ]
   }
 ]
