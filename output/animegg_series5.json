@@ -121591,5 +121591,21 @@
         "url": "https://www.animegg.org/hakugei-densetsu-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 6924,
+    "title": "Haikyuu!! Movie: Gomisuteba no Kessen",
+    "animegg_url": "https://www.animegg.org/series/haikyuu-movie-gomisuteba-no-kessen",
+    "mal_url": "https://myanimelist.net/anime/52742",
+    "mal_id": 52742,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/138533",
+        "dub": null,
+        "url": "https://www.animegg.org/haikyuu-movie-gomisuteba-no-kessen-episode-1"
+      }
+    ]
   }
 ]
