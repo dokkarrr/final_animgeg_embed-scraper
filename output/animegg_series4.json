@@ -85838,5 +85838,27 @@
         "url": "https://www.animegg.org/joshikausei-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4197,
+    "title": "Ai no Kusabi",
+    "animegg_url": "https://www.animegg.org/series/ai-no-kusabi",
+    "mal_url": "https://myanimelist.net/anime/719",
+    "mal_id": 719,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/65713",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-no-kusabi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/65714",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-no-kusabi-episode-2"
+      }
+    ]
   }
 ]
