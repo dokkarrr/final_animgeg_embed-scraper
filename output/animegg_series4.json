@@ -105308,5 +105308,21 @@
         "url": "https://www.animegg.org/classic-stars-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 4500,
+    "title": "Gintama: Shinyaku Benizakura-hen",
+    "animegg_url": "https://www.animegg.org/series/gintama-shinyaku-benizakura-hen",
+    "mal_url": "https://myanimelist.net/anime/9735",
+    "mal_id": 9735,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/45079",
+        "dub": "https://www.animegg.org/embed/45080",
+        "url": "https://www.animegg.org/gintama-shinyaku-benizakura-hen-episode-1"
+      }
+    ]
   }
 ]
