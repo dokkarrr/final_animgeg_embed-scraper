@@ -123008,5 +123008,21 @@
         "url": "https://www.animegg.org/mazinkaiser-skl-ova-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 4779,
+    "title": "Porco Rosso",
+    "animegg_url": "https://www.animegg.org/series/porco-rosso",
+    "mal_url": "https://myanimelist.net/anime/416",
+    "mal_id": 416,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/60404",
+        "dub": "https://www.animegg.org/embed/60405",
+        "url": "https://www.animegg.org/porco-rosso-episode-1"
+      }
+    ]
   }
 ]
