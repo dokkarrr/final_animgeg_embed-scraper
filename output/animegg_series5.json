@@ -11581,5 +11581,21 @@
         "url": "https://www.animegg.org/azuki-chan-the-movie-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5796,
+    "title": "Z-Kai: Cross Road",
+    "animegg_url": "https://www.animegg.org/series/z-kai-cross-road",
+    "mal_url": "https://myanimelist.net/anime/1539",
+    "mal_id": 1539,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/25125",
+        "dub": null,
+        "url": "https://www.animegg.org/z-kai-cross-road-episode-1"
+      }
+    ]
   }
 ]
