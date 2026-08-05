@@ -100240,5 +100240,21 @@
         "url": "https://www.animegg.org/legend-of-xianwu-2nd-season-episode-14"
       }
     ]
+  },
+  {
+    "serial_no": 6741,
+    "title": "Peace Maker Kurogane Movie",
+    "animegg_url": "https://www.animegg.org/series/peace-maker-kurogane-movie-1-omou-michi",
+    "mal_url": "https://myanimelist.net/anime/33185",
+    "mal_id": 33185,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/94927",
+        "dub": null,
+        "url": "https://www.animegg.org/peace-maker-kurogane-movie-1-omou-michi-episode-1"
+      }
+    ]
   }
 ]
