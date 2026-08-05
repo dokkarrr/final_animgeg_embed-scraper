@@ -78426,5 +78426,63 @@
         "url": "https://www.animegg.org/pokemon-movie-20-kimi-ni-kimeta-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4093,
+    "title": "True Tears Specials",
+    "animegg_url": "https://www.animegg.org/series/true-tears-specials",
+    "mal_url": "https://myanimelist.net/anime/37596",
+    "mal_id": 37596,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/64606",
+        "dub": null,
+        "url": "https://www.animegg.org/true-tears-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/64607",
+        "dub": null,
+        "url": "https://www.animegg.org/true-tears-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/64608",
+        "dub": null,
+        "url": "https://www.animegg.org/true-tears-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/64609",
+        "dub": null,
+        "url": "https://www.animegg.org/true-tears-specials-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/64610",
+        "dub": null,
+        "url": "https://www.animegg.org/true-tears-specials-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/64611",
+        "dub": null,
+        "url": "https://www.animegg.org/true-tears-specials-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/64612",
+        "dub": null,
+        "url": "https://www.animegg.org/true-tears-specials-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/64613",
+        "dub": null,
+        "url": "https://www.animegg.org/true-tears-specials-episode-8"
+      }
+    ]
   }
 ]
