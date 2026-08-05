@@ -79963,5 +79963,21 @@
         "url": "https://www.animegg.org/detective-conan-hannin-no-hanzawa-san-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 6573,
+    "title": "Yama no Susume: Kabette Kowakunai no?",
+    "animegg_url": "https://www.animegg.org/series/yama-no-susume-kabette-kowakunai-no",
+    "mal_url": "https://myanimelist.net/anime/17341",
+    "mal_id": 17341,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/40935",
+        "dub": null,
+        "url": "https://www.animegg.org/yama-no-susume-kabette-kowakunai-no-episode-1"
+      }
+    ]
   }
 ]
