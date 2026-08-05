@@ -94344,5 +94344,69 @@
         "url": "https://www.animegg.org/sasaki-to-pii-chan-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4324,
+    "title": "My Ribdiculous Reincarnation",
+    "animegg_url": "https://www.animegg.org/series/my-ribdiculous-reincarnation",
+    "mal_url": "https://myanimelist.net/anime/63376",
+    "mal_id": 63376,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/145405",
+        "dub": null,
+        "url": "https://www.animegg.org/my-ribdiculous-reincarnation-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/145434",
+        "dub": null,
+        "url": "https://www.animegg.org/my-ribdiculous-reincarnation-episode-2"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/145540",
+        "dub": null,
+        "url": "https://www.animegg.org/my-ribdiculous-reincarnation-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/145647",
+        "dub": null,
+        "url": "https://www.animegg.org/my-ribdiculous-reincarnation-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/145728",
+        "dub": null,
+        "url": "https://www.animegg.org/my-ribdiculous-reincarnation-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/145841",
+        "dub": null,
+        "url": "https://www.animegg.org/my-ribdiculous-reincarnation-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/145952",
+        "dub": null,
+        "url": "https://www.animegg.org/my-ribdiculous-reincarnation-episode-8"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/146126",
+        "dub": null,
+        "url": "https://www.animegg.org/my-ribdiculous-reincarnation-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/146201",
+        "dub": null,
+        "url": "https://www.animegg.org/my-ribdiculous-reincarnation-episode-12"
+      }
+    ]
   }
 ]
