@@ -22002,5 +22002,21 @@
         "url": "https://www.animegg.org/q-transformers-kaette-kita-convoy-no-nazo-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3334,
+    "title": "Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa",
+    "animegg_url": "https://www.animegg.org/series/shingeki-no-kyojin-movie-2-jiyuu-no-tsubasa",
+    "mal_url": "https://myanimelist.net/anime/23777",
+    "mal_id": 23777,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/80478",
+        "dub": null,
+        "url": "https://www.animegg.org/shingeki-no-kyojin-movie-2-jiyuu-no-tsubasa-episode-1"
+      }
+    ]
   }
 ]
