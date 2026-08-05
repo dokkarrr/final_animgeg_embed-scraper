@@ -17792,5 +17792,27 @@
         "url": "https://www.animegg.org/rezero-starting-life-in-another-world-season-4-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5915,
+    "title": "Sukeban Deka",
+    "animegg_url": "https://www.animegg.org/series/sukeban-deka",
+    "mal_url": "https://myanimelist.net/anime/2726",
+    "mal_id": 2726,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/73195",
+        "dub": null,
+        "url": "https://www.animegg.org/sukeban-deka-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/73199",
+        "dub": null,
+        "url": "https://www.animegg.org/sukeban-deka-episode-2"
+      }
+    ]
   }
 ]
