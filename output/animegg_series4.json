@@ -52148,5 +52148,87 @@
         "url": "https://www.animegg.org/genius-party-episode-7"
       }
     ]
+  },
+  {
+    "serial_no": 3708,
+    "title": "Yuusha ga Shinda!",
+    "animegg_url": "https://www.animegg.org/series/yuusha-ga-shinda",
+    "mal_url": "https://myanimelist.net/anime/51706",
+    "mal_id": 51706,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/107659",
+        "dub": "https://www.animegg.org/embed/111290",
+        "url": "https://www.animegg.org/yuusha-ga-shinda-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/107763",
+        "dub": "https://www.animegg.org/embed/111289",
+        "url": "https://www.animegg.org/yuusha-ga-shinda-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/107839",
+        "dub": "https://www.animegg.org/embed/111288",
+        "url": "https://www.animegg.org/yuusha-ga-shinda-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/107937",
+        "dub": "https://www.animegg.org/embed/111287",
+        "url": "https://www.animegg.org/yuusha-ga-shinda-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/107938",
+        "dub": "https://www.animegg.org/embed/111286",
+        "url": "https://www.animegg.org/yuusha-ga-shinda-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/107939",
+        "dub": "https://www.animegg.org/embed/111285",
+        "url": "https://www.animegg.org/yuusha-ga-shinda-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/108121",
+        "dub": "https://www.animegg.org/embed/111284",
+        "url": "https://www.animegg.org/yuusha-ga-shinda-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/108324",
+        "dub": "https://www.animegg.org/embed/111283",
+        "url": "https://www.animegg.org/yuusha-ga-shinda-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/108799",
+        "dub": "https://www.animegg.org/embed/129785",
+        "url": "https://www.animegg.org/yuusha-ga-shinda-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/129838",
+        "dub": null,
+        "url": "https://www.animegg.org/yuusha-ga-shinda-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/129834",
+        "dub": null,
+        "url": "https://www.animegg.org/yuusha-ga-shinda-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/129968",
+        "dub": null,
+        "url": "https://www.animegg.org/yuusha-ga-shinda-episode-12"
+      }
+    ]
   }
 ]
