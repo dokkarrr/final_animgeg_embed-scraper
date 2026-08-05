@@ -111054,5 +111054,75 @@
         "url": "https://www.animegg.org/shinigami-bocchan-to-kuro-maid-3rd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4588,
+    "title": "Welcome to the Outcast's Restaurant!",
+    "animegg_url": "https://www.animegg.org/series/welcome-to-the-outcast-s-restaurant",
+    "mal_url": "https://myanimelist.net/anime/60523",
+    "mal_id": 60523,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/141545",
+        "dub": null,
+        "url": "https://www.animegg.org/welcome-to-the-outcast-s-restaurant-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/141661",
+        "dub": null,
+        "url": "https://www.animegg.org/welcome-to-the-outcast-s-restaurant-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/141770",
+        "dub": null,
+        "url": "https://www.animegg.org/welcome-to-the-outcast-s-restaurant-episode-3"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/141987",
+        "dub": null,
+        "url": "https://www.animegg.org/welcome-to-the-outcast-s-restaurant-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/142114",
+        "dub": null,
+        "url": "https://www.animegg.org/welcome-to-the-outcast-s-restaurant-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/142234",
+        "dub": null,
+        "url": "https://www.animegg.org/welcome-to-the-outcast-s-restaurant-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/142351",
+        "dub": null,
+        "url": "https://www.animegg.org/welcome-to-the-outcast-s-restaurant-episode-8"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/142449",
+        "dub": null,
+        "url": "https://www.animegg.org/welcome-to-the-outcast-s-restaurant-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/142491",
+        "dub": null,
+        "url": "https://www.animegg.org/welcome-to-the-outcast-s-restaurant-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/142615",
+        "dub": null,
+        "url": "https://www.animegg.org/welcome-to-the-outcast-s-restaurant-episode-12"
+      }
+    ]
   }
 ]
