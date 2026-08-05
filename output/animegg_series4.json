@@ -117226,5 +117226,81 @@
         "url": "https://www.animegg.org/akiba-maid-sensou-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4697,
+    "title": "Maebashi Witches",
+    "animegg_url": "https://www.animegg.org/series/maebashi-witches",
+    "mal_url": "https://myanimelist.net/anime/59744",
+    "mal_id": 59744,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/140393",
+        "dub": null,
+        "url": "https://www.animegg.org/maebashi-witches-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/140478",
+        "dub": null,
+        "url": "https://www.animegg.org/maebashi-witches-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/140567",
+        "dub": null,
+        "url": "https://www.animegg.org/maebashi-witches-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/140650",
+        "dub": null,
+        "url": "https://www.animegg.org/maebashi-witches-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/140737",
+        "dub": null,
+        "url": "https://www.animegg.org/maebashi-witches-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/140838",
+        "dub": null,
+        "url": "https://www.animegg.org/maebashi-witches-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/140946",
+        "dub": null,
+        "url": "https://www.animegg.org/maebashi-witches-episode-7"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/141152",
+        "dub": null,
+        "url": "https://www.animegg.org/maebashi-witches-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/141231",
+        "dub": null,
+        "url": "https://www.animegg.org/maebashi-witches-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/141343",
+        "dub": null,
+        "url": "https://www.animegg.org/maebashi-witches-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/141434",
+        "dub": null,
+        "url": "https://www.animegg.org/maebashi-witches-episode-12"
+      }
+    ]
   }
 ]
