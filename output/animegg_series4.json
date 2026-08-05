@@ -63594,5 +63594,63 @@
         "url": "https://www.animegg.org/kami-tachi-ni-hirowareta-otoko-2nd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3859,
+    "title": "Letter Bee Academy",
+    "animegg_url": "https://www.animegg.org/series/letter-bee-academy",
+    "mal_url": "https://myanimelist.net/anime/8022",
+    "mal_id": 8022,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/21641",
+        "dub": null,
+        "url": "https://www.animegg.org/letter-bee-academy-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/21638",
+        "dub": null,
+        "url": "https://www.animegg.org/letter-bee-academy-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/21640",
+        "dub": null,
+        "url": "https://www.animegg.org/letter-bee-academy-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/21639",
+        "dub": null,
+        "url": "https://www.animegg.org/letter-bee-academy-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/21642",
+        "dub": null,
+        "url": "https://www.animegg.org/letter-bee-academy-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/21643",
+        "dub": null,
+        "url": "https://www.animegg.org/letter-bee-academy-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/21644",
+        "dub": null,
+        "url": "https://www.animegg.org/letter-bee-academy-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/21645",
+        "dub": null,
+        "url": "https://www.animegg.org/letter-bee-academy-episode-8"
+      }
+    ]
   }
 ]
