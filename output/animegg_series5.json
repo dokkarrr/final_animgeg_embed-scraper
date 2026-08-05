@@ -64435,5 +64435,39 @@
         "url": "https://www.animegg.org/aikatsu-planet-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 6439,
+    "title": "Uma Musume: Pretty Derby - Road to the Top",
+    "animegg_url": "https://www.animegg.org/series/uma-musume-pretty-derby---road-to-the-top",
+    "mal_url": "https://myanimelist.net/anime/51761",
+    "mal_id": 51761,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/uma-musume-pretty-derby---road-to-the-top-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/130234",
+        "dub": null,
+        "url": "https://www.animegg.org/uma-musume-pretty-derby---road-to-the-top-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/130233",
+        "dub": null,
+        "url": "https://www.animegg.org/uma-musume-pretty-derby---road-to-the-top-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/130235",
+        "dub": null,
+        "url": "https://www.animegg.org/uma-musume-pretty-derby---road-to-the-top-episode-4"
+      }
+    ]
   }
 ]
