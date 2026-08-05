@@ -105734,5 +105734,87 @@
         "url": "https://www.animegg.org/wave-surfing-yappe-tv-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4509,
+    "title": "One Room Third Season",
+    "animegg_url": "https://www.animegg.org/series/one-room-third-season",
+    "mal_url": "https://myanimelist.net/anime/41364",
+    "mal_id": 41364,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/99534",
+        "dub": null,
+        "url": "https://www.animegg.org/one-room-third-season-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/99593",
+        "dub": null,
+        "url": "https://www.animegg.org/one-room-third-season-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/99678",
+        "dub": null,
+        "url": "https://www.animegg.org/one-room-third-season-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/99761",
+        "dub": null,
+        "url": "https://www.animegg.org/one-room-third-season-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/99828",
+        "dub": null,
+        "url": "https://www.animegg.org/one-room-third-season-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/99902",
+        "dub": null,
+        "url": "https://www.animegg.org/one-room-third-season-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/99966",
+        "dub": null,
+        "url": "https://www.animegg.org/one-room-third-season-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/100034",
+        "dub": null,
+        "url": "https://www.animegg.org/one-room-third-season-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/100099",
+        "dub": null,
+        "url": "https://www.animegg.org/one-room-third-season-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/100166",
+        "dub": null,
+        "url": "https://www.animegg.org/one-room-third-season-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/100260",
+        "dub": null,
+        "url": "https://www.animegg.org/one-room-third-season-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/100321",
+        "dub": null,
+        "url": "https://www.animegg.org/one-room-third-season-episode-12"
+      }
+    ]
   }
 ]
