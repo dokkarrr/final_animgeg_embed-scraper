@@ -110546,5 +110546,39 @@
         "url": "https://www.animegg.org/yoru-no-kurage-wa-oyogenai-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4578,
+    "title": "Babel Nisei (1992)",
+    "animegg_url": "https://www.animegg.org/series/babel-nisei-1992",
+    "mal_url": "https://myanimelist.net/anime/1665",
+    "mal_id": 1665,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1992,
+        "sub": "https://www.animegg.org/embed/65835",
+        "dub": null,
+        "url": "https://www.animegg.org/babel-nisei-1992-episode-4"
+      },
+      {
+        "ep": 1992,
+        "sub": "https://www.animegg.org/embed/65834",
+        "dub": null,
+        "url": "https://www.animegg.org/babel-nisei-1992-episode-3"
+      },
+      {
+        "ep": 1992,
+        "sub": "https://www.animegg.org/embed/65833",
+        "dub": null,
+        "url": "https://www.animegg.org/babel-nisei-1992-episode-2"
+      },
+      {
+        "ep": 1992,
+        "sub": "https://www.animegg.org/embed/65832",
+        "dub": null,
+        "url": "https://www.animegg.org/babel-nisei-1992-episode-1"
+      }
+    ]
   }
 ]
