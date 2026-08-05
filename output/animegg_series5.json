@@ -105168,5 +105168,117 @@
         "url": "https://www.animegg.org/precure-super-stars-movie-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6776,
+    "title": "Kagejitsu!",
+    "animegg_url": "https://www.animegg.org/series/kagejitsu",
+    "mal_url": "https://myanimelist.net/anime/53406",
+    "mal_id": 53406,
+    "total_ep": 17,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/124064",
+        "dub": null,
+        "url": "https://www.animegg.org/kagejitsu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/124054",
+        "dub": null,
+        "url": "https://www.animegg.org/kagejitsu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/124055",
+        "dub": null,
+        "url": "https://www.animegg.org/kagejitsu-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/124053",
+        "dub": null,
+        "url": "https://www.animegg.org/kagejitsu-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/124052",
+        "dub": null,
+        "url": "https://www.animegg.org/kagejitsu-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/124051",
+        "dub": null,
+        "url": "https://www.animegg.org/kagejitsu-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/124050",
+        "dub": null,
+        "url": "https://www.animegg.org/kagejitsu-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/124049",
+        "dub": null,
+        "url": "https://www.animegg.org/kagejitsu-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/124047",
+        "dub": null,
+        "url": "https://www.animegg.org/kagejitsu-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/124063",
+        "dub": null,
+        "url": "https://www.animegg.org/kagejitsu-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/124062",
+        "dub": null,
+        "url": "https://www.animegg.org/kagejitsu-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/124061",
+        "dub": null,
+        "url": "https://www.animegg.org/kagejitsu-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/124060",
+        "dub": null,
+        "url": "https://www.animegg.org/kagejitsu-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/124059",
+        "dub": null,
+        "url": "https://www.animegg.org/kagejitsu-episode-14"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/124058",
+        "dub": null,
+        "url": "https://www.animegg.org/kagejitsu-episode-15"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/124057",
+        "dub": null,
+        "url": "https://www.animegg.org/kagejitsu-episode-16"
+      },
+      {
+        "ep": 17,
+        "sub": "https://www.animegg.org/embed/124056",
+        "dub": null,
+        "url": "https://www.animegg.org/kagejitsu-episode-17"
+      }
+    ]
   }
 ]
