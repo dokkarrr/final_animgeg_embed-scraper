@@ -64382,5 +64382,99 @@
         "url": "https://www.animegg.org/kami-no-tou-koubou-sen-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 3870,
+    "title": "RWBY Volume 8",
+    "animegg_url": "https://www.animegg.org/series/rwby-volume-8",
+    "mal_url": "https://myanimelist.net/anime/38400",
+    "mal_id": 38400,
+    "total_ep": 14,
+    "episodes": [
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/101348",
+        "dub": null,
+        "url": "https://www.animegg.org/rwby-volume-8-episode-14"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/101347",
+        "dub": null,
+        "url": "https://www.animegg.org/rwby-volume-8-episode-13"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/101237",
+        "dub": null,
+        "url": "https://www.animegg.org/rwby-volume-8-episode-12"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/101136",
+        "dub": null,
+        "url": "https://www.animegg.org/rwby-volume-8-episode-11"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/101061",
+        "dub": null,
+        "url": "https://www.animegg.org/rwby-volume-8-episode-10"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/100913",
+        "dub": null,
+        "url": "https://www.animegg.org/rwby-volume-8-episode-9"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/100912",
+        "dub": null,
+        "url": "https://www.animegg.org/rwby-volume-8-episode-8"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/100356",
+        "dub": null,
+        "url": "https://www.animegg.org/rwby-volume-8-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/100300",
+        "dub": null,
+        "url": "https://www.animegg.org/rwby-volume-8-episode-6"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/100230",
+        "dub": null,
+        "url": "https://www.animegg.org/rwby-volume-8-episode-5"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/100145",
+        "dub": null,
+        "url": "https://www.animegg.org/rwby-volume-8-episode-4"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/100080",
+        "dub": null,
+        "url": "https://www.animegg.org/rwby-volume-8-episode-3"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/100013",
+        "dub": null,
+        "url": "https://www.animegg.org/rwby-volume-8-episode-2"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/99948",
+        "dub": null,
+        "url": "https://www.animegg.org/rwby-volume-8-episode-1"
+      }
+    ]
   }
 ]
