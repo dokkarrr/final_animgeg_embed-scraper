@@ -136741,5 +136741,21 @@
         "url": "https://www.animegg.org/guraburu-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4974,
+    "title": "Code Geass: Nunnally in Wonderland",
+    "animegg_url": "https://www.animegg.org/series/code-geass-nunnally-in-wonderland",
+    "mal_url": "https://myanimelist.net/anime/2274",
+    "mal_id": 2274,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/6215",
+        "dub": null,
+        "url": "https://www.animegg.org/code-geass-nunnally-in-wonderland-episode-1"
+      }
+    ]
   }
 ]
