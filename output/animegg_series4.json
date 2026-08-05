@@ -3540,5 +3540,87 @@
         "url": "https://www.animegg.org/urusei-yatsura-2022-2nd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3118,
+    "title": "Meganebu!",
+    "animegg_url": "https://www.animegg.org/series/meganebu",
+    "mal_url": "https://myanimelist.net/anime/19257",
+    "mal_id": 19257,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/58522",
+        "dub": null,
+        "url": "https://www.animegg.org/meganebu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/58523",
+        "dub": null,
+        "url": "https://www.animegg.org/meganebu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/58524",
+        "dub": null,
+        "url": "https://www.animegg.org/meganebu-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/58525",
+        "dub": null,
+        "url": "https://www.animegg.org/meganebu-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/58526",
+        "dub": null,
+        "url": "https://www.animegg.org/meganebu-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/58527",
+        "dub": null,
+        "url": "https://www.animegg.org/meganebu-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/58528",
+        "dub": null,
+        "url": "https://www.animegg.org/meganebu-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/58529",
+        "dub": null,
+        "url": "https://www.animegg.org/meganebu-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/58530",
+        "dub": null,
+        "url": "https://www.animegg.org/meganebu-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/58531",
+        "dub": null,
+        "url": "https://www.animegg.org/meganebu-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/58532",
+        "dub": null,
+        "url": "https://www.animegg.org/meganebu-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/58533",
+        "dub": null,
+        "url": "https://www.animegg.org/meganebu-episode-12"
+      }
+    ]
   }
 ]
