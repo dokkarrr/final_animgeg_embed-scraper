@@ -25124,5 +25124,57 @@
         "url": "https://www.animegg.org/watashi-ni-tenshi-ga-maiorita-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3363,
+    "title": "Mashle",
+    "animegg_url": "https://www.animegg.org/series/mashle-dub",
+    "mal_url": "https://myanimelist.net/anime/52211",
+    "mal_id": 52211,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/121881",
+        "dub": "https://www.animegg.org/embed/130646",
+        "url": "https://www.animegg.org/mashle-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/121882",
+        "dub": "https://www.animegg.org/embed/130645",
+        "url": "https://www.animegg.org/mashle-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/121880",
+        "dub": "https://www.animegg.org/embed/130644",
+        "url": "https://www.animegg.org/mashle-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/129812",
+        "dub": "https://www.animegg.org/embed/130643",
+        "url": "https://www.animegg.org/mashle-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/130642",
+        "dub": null,
+        "url": "https://www.animegg.org/mashle-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/130641",
+        "dub": null,
+        "url": "https://www.animegg.org/mashle-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/130640",
+        "dub": null,
+        "url": "https://www.animegg.org/mashle-dub-episode-7"
+      }
+    ]
   }
 ]
