@@ -21760,5 +21760,21 @@
         "url": "https://www.animegg.org/zhongguo-jingqi-xiansheng-episode-63"
       }
     ]
+  },
+  {
+    "serial_no": 5989,
+    "title": "Uchuu Senkan Yamato: Fukkatsu-hen",
+    "animegg_url": "https://www.animegg.org/series/uchuu-senkan-yamato-fukkatsu-hen",
+    "mal_url": "https://myanimelist.net/anime/7144",
+    "mal_id": 7144,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/62983",
+        "dub": null,
+        "url": "https://www.animegg.org/uchuu-senkan-yamato-fukkatsu-hen-episode-1"
+      }
+    ]
   }
 ]
