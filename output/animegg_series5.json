@@ -18546,5 +18546,27 @@
         "url": "https://www.animegg.org/renjian-zui-deyi-episode-60"
       }
     ]
+  },
+  {
+    "serial_no": 5928,
+    "title": "Sorcerer on the Rocks",
+    "animegg_url": "https://www.animegg.org/series/sorcerer-on-the-rocks",
+    "mal_url": "https://myanimelist.net/anime/1228",
+    "mal_id": 1228,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/62234",
+        "dub": null,
+        "url": "https://www.animegg.org/sorcerer-on-the-rocks-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/62235",
+        "dub": null,
+        "url": "https://www.animegg.org/sorcerer-on-the-rocks-episode-2"
+      }
+    ]
   }
 ]
