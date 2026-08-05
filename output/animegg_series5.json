@@ -100256,5 +100256,87 @@
         "url": "https://www.animegg.org/peace-maker-kurogane-movie-1-omou-michi-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6742,
+    "title": "Goblin Slayer",
+    "animegg_url": "https://www.animegg.org/series/goblin-slayer-dub",
+    "mal_url": "https://myanimelist.net/anime/37349",
+    "mal_id": 37349,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/126333",
+        "dub": null,
+        "url": "https://www.animegg.org/goblin-slayer-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/126329",
+        "dub": null,
+        "url": "https://www.animegg.org/goblin-slayer-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/126328",
+        "dub": null,
+        "url": "https://www.animegg.org/goblin-slayer-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/126327",
+        "dub": null,
+        "url": "https://www.animegg.org/goblin-slayer-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/126326",
+        "dub": null,
+        "url": "https://www.animegg.org/goblin-slayer-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/126325",
+        "dub": null,
+        "url": "https://www.animegg.org/goblin-slayer-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/126324",
+        "dub": null,
+        "url": "https://www.animegg.org/goblin-slayer-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/126323",
+        "dub": null,
+        "url": "https://www.animegg.org/goblin-slayer-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/126322",
+        "dub": null,
+        "url": "https://www.animegg.org/goblin-slayer-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/126332",
+        "dub": null,
+        "url": "https://www.animegg.org/goblin-slayer-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/126331",
+        "dub": null,
+        "url": "https://www.animegg.org/goblin-slayer-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/126330",
+        "dub": null,
+        "url": "https://www.animegg.org/goblin-slayer-dub-episode-12"
+      }
+    ]
   }
 ]
