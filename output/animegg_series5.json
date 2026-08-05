@@ -57371,5 +57371,21 @@
         "url": "https://www.animegg.org/aikatsu-nerawareta-mahou-no-aikatsu-card-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6374,
+    "title": "Oshiete! Galko-chan OVA",
+    "animegg_url": "https://www.animegg.org/series/oshiete-galko-chan-ova",
+    "mal_url": "https://myanimelist.net/anime/33949",
+    "mal_id": 33949,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/86120",
+        "dub": null,
+        "url": "https://www.animegg.org/oshiete-galko-chan-ova-episode-1"
+      }
+    ]
   }
 ]
