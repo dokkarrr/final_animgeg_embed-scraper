@@ -133958,5 +133958,39 @@
         "url": "https://www.animegg.org/zenonzard-the-animation-episode-9"
       }
     ]
+  },
+  {
+    "serial_no": 4935,
+    "title": "Hikyou Tanken Fam & Ihrlie",
+    "animegg_url": "https://www.animegg.org/series/hikyou-tanken-fam-ihrlie",
+    "mal_url": "https://myanimelist.net/anime/1181",
+    "mal_id": 1181,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/73302",
+        "dub": null,
+        "url": "https://www.animegg.org/hikyou-tanken-fam-ihrlie-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/73301",
+        "dub": null,
+        "url": "https://www.animegg.org/hikyou-tanken-fam-ihrlie-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/73300",
+        "dub": null,
+        "url": "https://www.animegg.org/hikyou-tanken-fam-ihrlie-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/73299",
+        "dub": null,
+        "url": "https://www.animegg.org/hikyou-tanken-fam-ihrlie-episode-4"
+      }
+    ]
   }
 ]
