@@ -21776,5 +21776,21 @@
         "url": "https://www.animegg.org/uchuu-senkan-yamato-fukkatsu-hen-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5990,
+    "title": "Mai no Mahou to Katei no Hi",
+    "animegg_url": "https://www.animegg.org/series/mai-no-mahou-to-katei-no-hi",
+    "mal_url": "https://myanimelist.net/anime/9940",
+    "mal_id": 9940,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/22786",
+        "dub": null,
+        "url": "https://www.animegg.org/mai-no-mahou-to-katei-no-hi-episode-1"
+      }
+    ]
   }
 ]
