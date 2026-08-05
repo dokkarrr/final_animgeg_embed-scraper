@@ -13847,5 +13847,21 @@
         "url": "https://www.animegg.org/hamtaro-ova-003-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5839,
+    "title": "eX-Driver: Nina & Rei Danger Zone",
+    "animegg_url": "https://www.animegg.org/series/ex-driver-nina-rei-danger-zone",
+    "mal_url": "https://myanimelist.net/anime/1733",
+    "mal_id": 1733,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/51089",
+        "dub": "https://www.animegg.org/embed/51090",
+        "url": "https://www.animegg.org/ex-driver-nina-rei-danger-zone-episode-1"
+      }
+    ]
   }
 ]
