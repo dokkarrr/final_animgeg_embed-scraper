@@ -46400,5 +46400,51 @@
         "url": "https://www.animegg.org/flone-of-the-mysterious-island-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 3627,
+    "title": "The Heroic Legend of Arslan",
+    "animegg_url": "https://www.animegg.org/series/the-heroic-legend-of-arslan",
+    "mal_url": "https://myanimelist.net/anime/28249",
+    "mal_id": 28249,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/63297",
+        "dub": null,
+        "url": "https://www.animegg.org/the-heroic-legend-of-arslan-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/63298",
+        "dub": null,
+        "url": "https://www.animegg.org/the-heroic-legend-of-arslan-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/63299",
+        "dub": null,
+        "url": "https://www.animegg.org/the-heroic-legend-of-arslan-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/63300",
+        "dub": null,
+        "url": "https://www.animegg.org/the-heroic-legend-of-arslan-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/63301",
+        "dub": null,
+        "url": "https://www.animegg.org/the-heroic-legend-of-arslan-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/63302",
+        "dub": "https://www.animegg.org/embed/78219",
+        "url": "https://www.animegg.org/the-heroic-legend-of-arslan-episode-6"
+      }
+    ]
   }
 ]
