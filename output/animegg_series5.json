@@ -17706,5 +17706,21 @@
         "url": "https://www.animegg.org/ultimate-soldier-episode-61"
       }
     ]
+  },
+  {
+    "serial_no": 5913,
+    "title": "Library War the Movie",
+    "animegg_url": "https://www.animegg.org/series/library-war-the-movie",
+    "mal_url": "https://myanimelist.net/anime/3613",
+    "mal_id": 3613,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/55646",
+        "dub": null,
+        "url": "https://www.animegg.org/library-war-the-movie-episode-1"
+      }
+    ]
   }
 ]
