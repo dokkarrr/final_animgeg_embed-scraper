@@ -27266,5 +27266,21 @@
         "url": "https://www.animegg.org/asobi-asobase-specials-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 6053,
+    "title": "Mameshiba",
+    "animegg_url": "https://www.animegg.org/series/mameshiba",
+    "mal_url": "https://myanimelist.net/anime/7261",
+    "mal_id": 7261,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/22980",
+        "dub": null,
+        "url": "https://www.animegg.org/mameshiba-episode-1"
+      }
+    ]
   }
 ]
