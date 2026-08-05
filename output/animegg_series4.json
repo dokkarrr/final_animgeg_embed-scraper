@@ -34168,5 +34168,57 @@
         "url": "https://www.animegg.org/tate-no-yuusha-no-nariagari-3rd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3458,
+    "title": "K-ON Special",
+    "animegg_url": "https://www.animegg.org/series/k-on-special",
+    "mal_url": "https://myanimelist.net/anime/7017",
+    "mal_id": 7017,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/18840",
+        "dub": null,
+        "url": "https://www.animegg.org/k-on-special-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/18838",
+        "dub": null,
+        "url": "https://www.animegg.org/k-on-special-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/18839",
+        "dub": null,
+        "url": "https://www.animegg.org/k-on-special-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/18837",
+        "dub": null,
+        "url": "https://www.animegg.org/k-on-special-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/18836",
+        "dub": null,
+        "url": "https://www.animegg.org/k-on-special-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/18841",
+        "dub": null,
+        "url": "https://www.animegg.org/k-on-special-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/18842",
+        "dub": null,
+        "url": "https://www.animegg.org/k-on-special-episode-7"
+      }
+    ]
   }
 ]
