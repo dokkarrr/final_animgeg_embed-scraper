@@ -42436,5 +42436,87 @@
         "url": "https://www.animegg.org/dragon-ball-z-movie-10-broly---second-coming-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3578,
+    "title": "Let's Go! Tamagotchi",
+    "animegg_url": "https://www.animegg.org/series/lets-go-tamagotchi",
+    "mal_url": "https://myanimelist.net/anime/6798",
+    "mal_id": 6798,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/55452",
+        "dub": null,
+        "url": "https://www.animegg.org/lets-go-tamagotchi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/55453",
+        "dub": null,
+        "url": "https://www.animegg.org/lets-go-tamagotchi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/55454",
+        "dub": null,
+        "url": "https://www.animegg.org/lets-go-tamagotchi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/55455",
+        "dub": null,
+        "url": "https://www.animegg.org/lets-go-tamagotchi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/55456",
+        "dub": null,
+        "url": "https://www.animegg.org/lets-go-tamagotchi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/55457",
+        "dub": null,
+        "url": "https://www.animegg.org/lets-go-tamagotchi-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/55458",
+        "dub": null,
+        "url": "https://www.animegg.org/lets-go-tamagotchi-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/55459",
+        "dub": null,
+        "url": "https://www.animegg.org/lets-go-tamagotchi-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/55460",
+        "dub": null,
+        "url": "https://www.animegg.org/lets-go-tamagotchi-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/55461",
+        "dub": null,
+        "url": "https://www.animegg.org/lets-go-tamagotchi-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/55462",
+        "dub": null,
+        "url": "https://www.animegg.org/lets-go-tamagotchi-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/55463",
+        "dub": null,
+        "url": "https://www.animegg.org/lets-go-tamagotchi-episode-12"
+      }
+    ]
   }
 ]
