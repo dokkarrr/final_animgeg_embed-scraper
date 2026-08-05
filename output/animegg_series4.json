@@ -104030,5 +104030,21 @@
         "url": "https://www.animegg.org/yu-gi-oh-3d-bonds-beyond-time-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4473,
+    "title": "The Secret World of Arrietty",
+    "animegg_url": "https://www.animegg.org/series/the-secret-world-of-arrietty",
+    "mal_url": "https://myanimelist.net/anime/7711",
+    "mal_id": 7711,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/63905",
+        "dub": "https://www.animegg.org/embed/63906",
+        "url": "https://www.animegg.org/the-secret-world-of-arrietty-episode-1"
+      }
+    ]
   }
 ]
