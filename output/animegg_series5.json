@@ -17248,5 +17248,21 @@
         "url": "https://www.animegg.org/genshiken-nidaime-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5905,
+    "title": "Street Fighter Alpha: Generations",
+    "animegg_url": "https://www.animegg.org/series/street-fighter-alpha-generations",
+    "mal_url": "https://myanimelist.net/anime/950",
+    "mal_id": 950,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/62844",
+        "dub": "https://www.animegg.org/embed/62845",
+        "url": "https://www.animegg.org/street-fighter-alpha-generations-episode-1"
+      }
+    ]
   }
 ]
