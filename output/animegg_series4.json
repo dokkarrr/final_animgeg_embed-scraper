@@ -47298,5 +47298,51 @@
         "url": "https://www.animegg.org/hyakka-ryouran-samurai-after-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 3640,
+    "title": "Fate/Zero: Onegai! Einzbern Soudanshitsu",
+    "animegg_url": "https://www.animegg.org/series/fate-zero-onegai-einzbern-soudanshitsu",
+    "mal_url": "https://myanimelist.net/anime/13263",
+    "mal_id": 13263,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/10826",
+        "dub": null,
+        "url": "https://www.animegg.org/fate-zero-onegai-einzbern-soudanshitsu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/10828",
+        "dub": null,
+        "url": "https://www.animegg.org/fate-zero-onegai-einzbern-soudanshitsu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/10827",
+        "dub": null,
+        "url": "https://www.animegg.org/fate-zero-onegai-einzbern-soudanshitsu-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/10825",
+        "dub": null,
+        "url": "https://www.animegg.org/fate-zero-onegai-einzbern-soudanshitsu-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/10824",
+        "dub": null,
+        "url": "https://www.animegg.org/fate-zero-onegai-einzbern-soudanshitsu-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/10829",
+        "dub": null,
+        "url": "https://www.animegg.org/fate-zero-onegai-einzbern-soudanshitsu-episode-6"
+      }
+    ]
   }
 ]
