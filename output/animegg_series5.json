@@ -2940,5 +2940,21 @@
         "url": "https://www.animegg.org/tokyo-revengers-uncensored-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 5647,
+    "title": "Arcadia of My Youth",
+    "animegg_url": "https://www.animegg.org/series/arcadia-of-my-youth",
+    "mal_url": "https://myanimelist.net/anime/2202",
+    "mal_id": 2202,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/65767",
+        "dub": null,
+        "url": "https://www.animegg.org/arcadia-of-my-youth-episode-1"
+      }
+    ]
   }
 ]
