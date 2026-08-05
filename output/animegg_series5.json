@@ -1204,5 +1204,21 @@
         "url": "https://www.animegg.org/macross-plus-movie-edition-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5633,
+    "title": "Resident Evil: Damnation",
+    "animegg_url": "https://www.animegg.org/series/resident-evil-damnation",
+    "mal_url": "https://myanimelist.net/anime/9544",
+    "mal_id": 9544,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/61701",
+        "dub": null,
+        "url": "https://www.animegg.org/resident-evil-damnation-episode-1"
+      }
+    ]
   }
 ]
