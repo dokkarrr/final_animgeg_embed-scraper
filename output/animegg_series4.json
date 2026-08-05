@@ -38486,5 +38486,93 @@
         "url": "https://www.animegg.org/kanojo-mo-kanojo-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3525,
+    "title": "Tokyo Tribe",
+    "animegg_url": "https://www.animegg.org/series/tokyo-tribe",
+    "mal_url": "https://myanimelist.net/anime/1703",
+    "mal_id": 1703,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/64110",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-tribe-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/64111",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-tribe-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/64112",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-tribe-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/64113",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-tribe-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/64114",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-tribe-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/64115",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-tribe-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/64116",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-tribe-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/64117",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-tribe-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/64118",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-tribe-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/64119",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-tribe-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/64120",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-tribe-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/64121",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-tribe-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/64122",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-tribe-episode-13"
+      }
+    ]
   }
 ]
