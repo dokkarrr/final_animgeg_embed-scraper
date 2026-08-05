@@ -42518,5 +42518,39 @@
         "url": "https://www.animegg.org/lets-go-tamagotchi-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3579,
+    "title": "To LOVE-Ru Darkness 2nd OVA",
+    "animegg_url": "https://www.animegg.org/series/to-love-ru-darkness-2nd-ova",
+    "mal_url": "https://myanimelist.net/anime/31380",
+    "mal_id": 31380,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/89173",
+        "dub": null,
+        "url": "https://www.animegg.org/to-love-ru-darkness-2nd-ova-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/85314",
+        "dub": null,
+        "url": "https://www.animegg.org/to-love-ru-darkness-2nd-ova-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/85313",
+        "dub": null,
+        "url": "https://www.animegg.org/to-love-ru-darkness-2nd-ova-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/85312",
+        "dub": null,
+        "url": "https://www.animegg.org/to-love-ru-darkness-2nd-ova-episode-1"
+      }
+    ]
   }
 ]
