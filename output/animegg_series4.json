@@ -36056,5 +36056,87 @@
         "url": "https://www.animegg.org/suisei-no-gargantia-meguru-kouro-haruka-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 3486,
+    "title": "Orient",
+    "animegg_url": "https://www.animegg.org/series/orient",
+    "mal_url": "https://myanimelist.net/anime/45560",
+    "mal_id": 45560,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/103716",
+        "dub": null,
+        "url": "https://www.animegg.org/orient-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/103757",
+        "dub": null,
+        "url": "https://www.animegg.org/orient-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/103807",
+        "dub": null,
+        "url": "https://www.animegg.org/orient-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/103861",
+        "dub": null,
+        "url": "https://www.animegg.org/orient-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/103918",
+        "dub": null,
+        "url": "https://www.animegg.org/orient-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/103973",
+        "dub": null,
+        "url": "https://www.animegg.org/orient-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/104022",
+        "dub": null,
+        "url": "https://www.animegg.org/orient-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/104067",
+        "dub": null,
+        "url": "https://www.animegg.org/orient-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/104117",
+        "dub": null,
+        "url": "https://www.animegg.org/orient-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/104164",
+        "dub": null,
+        "url": "https://www.animegg.org/orient-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/104214",
+        "dub": null,
+        "url": "https://www.animegg.org/orient-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/104261",
+        "dub": null,
+        "url": "https://www.animegg.org/orient-episode-12"
+      }
+    ]
   }
 ]
