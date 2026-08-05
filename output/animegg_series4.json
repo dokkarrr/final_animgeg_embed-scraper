@@ -82188,5 +82188,27 @@
         "url": "https://www.animegg.org/dragon-ball-z-movie-02-the-worlds-strongest-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4147,
+    "title": "Rurouni Kenshin: Seisouhen",
+    "animegg_url": "https://www.animegg.org/series/samurai-x-reflection",
+    "mal_url": "https://myanimelist.net/anime/401",
+    "mal_id": 401,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/33355",
+        "dub": null,
+        "url": "https://www.animegg.org/samurai-x-reflection-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/33356",
+        "dub": null,
+        "url": "https://www.animegg.org/samurai-x-reflection-episode-2"
+      }
+    ]
   }
 ]
