@@ -42335,5 +42335,27 @@
         "url": "https://www.animegg.org/king-of-prism-by-pretty-rhythm---movie-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6237,
+    "title": "Yurumates 3D OVA",
+    "animegg_url": "https://www.animegg.org/series/yurumates-3d-ova",
+    "mal_url": "https://myanimelist.net/anime/14949",
+    "mal_id": 14949,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/42224",
+        "dub": null,
+        "url": "https://www.animegg.org/yurumates-3d-ova-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/42225",
+        "dub": null,
+        "url": "https://www.animegg.org/yurumates-3d-ova-episode-1"
+      }
+    ]
   }
 ]
