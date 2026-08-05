@@ -82036,5 +82036,51 @@
         "url": "https://www.animegg.org/genius-party-beyond-episode-5"
       }
     ]
+  },
+  {
+    "serial_no": 4142,
+    "title": "Knights of Ramune",
+    "animegg_url": "https://www.animegg.org/series/knights-of-ramune",
+    "mal_url": "https://myanimelist.net/anime/1411",
+    "mal_id": 1411,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/55601",
+        "dub": null,
+        "url": "https://www.animegg.org/knights-of-ramune-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/55602",
+        "dub": null,
+        "url": "https://www.animegg.org/knights-of-ramune-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/55603",
+        "dub": null,
+        "url": "https://www.animegg.org/knights-of-ramune-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/55604",
+        "dub": null,
+        "url": "https://www.animegg.org/knights-of-ramune-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/55605",
+        "dub": null,
+        "url": "https://www.animegg.org/knights-of-ramune-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/55606",
+        "dub": null,
+        "url": "https://www.animegg.org/knights-of-ramune-episode-6"
+      }
+    ]
   }
 ]
