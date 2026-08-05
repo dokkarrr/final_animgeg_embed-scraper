@@ -134140,5 +134140,87 @@
         "url": "https://www.animegg.org/gundam-f91-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4940,
+    "title": "Hetalia World★Stars",
+    "animegg_url": "https://www.animegg.org/series/hetalia-world-stars",
+    "mal_url": "https://myanimelist.net/anime/43591",
+    "mal_id": 43591,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/101320",
+        "dub": null,
+        "url": "https://www.animegg.org/hetalia-world-stars-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/101367",
+        "dub": null,
+        "url": "https://www.animegg.org/hetalia-world-stars-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/101431",
+        "dub": null,
+        "url": "https://www.animegg.org/hetalia-world-stars-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/101495",
+        "dub": null,
+        "url": "https://www.animegg.org/hetalia-world-stars-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/101558",
+        "dub": null,
+        "url": "https://www.animegg.org/hetalia-world-stars-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/101621",
+        "dub": null,
+        "url": "https://www.animegg.org/hetalia-world-stars-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/101684",
+        "dub": null,
+        "url": "https://www.animegg.org/hetalia-world-stars-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/101764",
+        "dub": null,
+        "url": "https://www.animegg.org/hetalia-world-stars-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/101825",
+        "dub": null,
+        "url": "https://www.animegg.org/hetalia-world-stars-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/101905",
+        "dub": null,
+        "url": "https://www.animegg.org/hetalia-world-stars-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/101974",
+        "dub": null,
+        "url": "https://www.animegg.org/hetalia-world-stars-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/102042",
+        "dub": null,
+        "url": "https://www.animegg.org/hetalia-world-stars-episode-12"
+      }
+    ]
   }
 ]
