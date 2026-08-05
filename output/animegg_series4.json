@@ -86636,5 +86636,69 @@
         "url": "https://www.animegg.org/amagami-ss-ova-episode-28"
       }
     ]
+  },
+  {
+    "serial_no": 4212,
+    "title": "Kabushikigaisha Magi-Lumière",
+    "animegg_url": "https://www.animegg.org/series/kabushikigaisha-magi-lumi-re",
+    "mal_url": "https://myanimelist.net/anime/57360",
+    "mal_id": 57360,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/137605",
+        "dub": null,
+        "url": "https://www.animegg.org/kabushikigaisha-magi-lumi-re-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/137876",
+        "dub": null,
+        "url": "https://www.animegg.org/kabushikigaisha-magi-lumi-re-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/138135",
+        "dub": null,
+        "url": "https://www.animegg.org/kabushikigaisha-magi-lumi-re-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/138401",
+        "dub": null,
+        "url": "https://www.animegg.org/kabushikigaisha-magi-lumi-re-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/138577",
+        "dub": null,
+        "url": "https://www.animegg.org/kabushikigaisha-magi-lumi-re-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/138821",
+        "dub": null,
+        "url": "https://www.animegg.org/kabushikigaisha-magi-lumi-re-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/138997",
+        "dub": null,
+        "url": "https://www.animegg.org/kabushikigaisha-magi-lumi-re-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/139190",
+        "dub": null,
+        "url": "https://www.animegg.org/kabushikigaisha-magi-lumi-re-episode-8"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/139359",
+        "dub": null,
+        "url": "https://www.animegg.org/kabushikigaisha-magi-lumi-re-episode-12"
+      }
+    ]
   }
 ]
