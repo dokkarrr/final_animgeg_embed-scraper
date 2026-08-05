@@ -25538,5 +25538,93 @@
         "url": "https://www.animegg.org/nomad-megalo-box-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3369,
+    "title": "Panyo Panyo Di Gi Charat",
+    "animegg_url": "https://www.animegg.org/series/panyo-panyo-di-gi-charat",
+    "mal_url": "https://myanimelist.net/anime/1597",
+    "mal_id": 1597,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/59595",
+        "dub": "https://www.animegg.org/embed/59596",
+        "url": "https://www.animegg.org/panyo-panyo-di-gi-charat-episode-1"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/59597",
+        "dub": "https://www.animegg.org/embed/59598",
+        "url": "https://www.animegg.org/panyo-panyo-di-gi-charat-episode-5"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/59599",
+        "dub": "https://www.animegg.org/embed/59600",
+        "url": "https://www.animegg.org/panyo-panyo-di-gi-charat-episode-9"
+      },
+      {
+        "ep": 12,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/panyo-panyo-di-gi-charat-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/59601",
+        "dub": "https://www.animegg.org/embed/59602",
+        "url": "https://www.animegg.org/panyo-panyo-di-gi-charat-episode-13"
+      },
+      {
+        "ep": 17,
+        "sub": "https://www.animegg.org/embed/59603",
+        "dub": "https://www.animegg.org/embed/59604",
+        "url": "https://www.animegg.org/panyo-panyo-di-gi-charat-episode-17"
+      },
+      {
+        "ep": 21,
+        "sub": "https://www.animegg.org/embed/59605",
+        "dub": "https://www.animegg.org/embed/59606",
+        "url": "https://www.animegg.org/panyo-panyo-di-gi-charat-episode-21"
+      },
+      {
+        "ep": 25,
+        "sub": "https://www.animegg.org/embed/59607",
+        "dub": "https://www.animegg.org/embed/59608",
+        "url": "https://www.animegg.org/panyo-panyo-di-gi-charat-episode-25"
+      },
+      {
+        "ep": 29,
+        "sub": "https://www.animegg.org/embed/59609",
+        "dub": "https://www.animegg.org/embed/59610",
+        "url": "https://www.animegg.org/panyo-panyo-di-gi-charat-episode-29"
+      },
+      {
+        "ep": 33,
+        "sub": "https://www.animegg.org/embed/59611",
+        "dub": "https://www.animegg.org/embed/59612",
+        "url": "https://www.animegg.org/panyo-panyo-di-gi-charat-episode-33"
+      },
+      {
+        "ep": 37,
+        "sub": "https://www.animegg.org/embed/59613",
+        "dub": "https://www.animegg.org/embed/59614",
+        "url": "https://www.animegg.org/panyo-panyo-di-gi-charat-episode-37"
+      },
+      {
+        "ep": 41,
+        "sub": "https://www.animegg.org/embed/59615",
+        "dub": "https://www.animegg.org/embed/59616",
+        "url": "https://www.animegg.org/panyo-panyo-di-gi-charat-episode-41"
+      },
+      {
+        "ep": 45,
+        "sub": "https://www.animegg.org/embed/59617",
+        "dub": "https://www.animegg.org/embed/59618",
+        "url": "https://www.animegg.org/panyo-panyo-di-gi-charat-episode-45"
+      }
+    ]
   }
 ]
