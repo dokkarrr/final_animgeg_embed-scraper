@@ -47276,5 +47276,27 @@
         "url": "https://www.animegg.org/sono-bisque-doll-wa-koi-wo-suru-season-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3639,
+    "title": "Hyakka Ryouran: Samurai After",
+    "animegg_url": "https://www.animegg.org/series/hyakka-ryouran-samurai-after",
+    "mal_url": "https://myanimelist.net/anime/25689",
+    "mal_id": 25689,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/75287",
+        "dub": null,
+        "url": "https://www.animegg.org/hyakka-ryouran-samurai-after-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/77713",
+        "dub": "https://www.animegg.org/embed/78050",
+        "url": "https://www.animegg.org/hyakka-ryouran-samurai-after-episode-2"
+      }
+    ]
   }
 ]
