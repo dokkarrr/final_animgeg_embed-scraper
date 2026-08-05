@@ -90551,5 +90551,21 @@
         "url": "https://www.animegg.org/brave-witches-petersburg-daisenryaku-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6669,
+    "title": "Uchuu Kyoudai: Apo's Dream",
+    "animegg_url": "https://www.animegg.org/series/uchuu-kyoudai-apos-dream",
+    "mal_url": "https://myanimelist.net/anime/13479",
+    "mal_id": 13479,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66050",
+        "dub": null,
+        "url": "https://www.animegg.org/uchuu-kyoudai-apos-dream-episode-1"
+      }
+    ]
   }
 ]
