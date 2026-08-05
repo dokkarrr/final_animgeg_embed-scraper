@@ -101742,5 +101742,21 @@
         "url": "https://www.animegg.org/my-little-pony-friendship-is-magic-season-4-dub-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6752,
+    "title": "Fragtime",
+    "animegg_url": "https://www.animegg.org/series/fragtime",
+    "mal_url": "https://myanimelist.net/anime/39545",
+    "mal_id": 39545,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/98484",
+        "dub": null,
+        "url": "https://www.animegg.org/fragtime-episode-1"
+      }
+    ]
   }
 ]
