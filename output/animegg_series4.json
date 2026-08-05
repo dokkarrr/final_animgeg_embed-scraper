@@ -34022,5 +34022,87 @@
         "url": "https://www.animegg.org/odd-taxi-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3456,
+    "title": "Sabikui Bisco",
+    "animegg_url": "https://www.animegg.org/series/sabikui-bisco",
+    "mal_url": "https://myanimelist.net/anime/48414",
+    "mal_id": 48414,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/103751",
+        "dub": null,
+        "url": "https://www.animegg.org/sabikui-bisco-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/103800",
+        "dub": null,
+        "url": "https://www.animegg.org/sabikui-bisco-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/103854",
+        "dub": null,
+        "url": "https://www.animegg.org/sabikui-bisco-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/103909",
+        "dub": null,
+        "url": "https://www.animegg.org/sabikui-bisco-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/103961",
+        "dub": null,
+        "url": "https://www.animegg.org/sabikui-bisco-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/104012",
+        "dub": null,
+        "url": "https://www.animegg.org/sabikui-bisco-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/104061",
+        "dub": null,
+        "url": "https://www.animegg.org/sabikui-bisco-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/104109",
+        "dub": null,
+        "url": "https://www.animegg.org/sabikui-bisco-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/104156",
+        "dub": null,
+        "url": "https://www.animegg.org/sabikui-bisco-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/104204",
+        "dub": null,
+        "url": "https://www.animegg.org/sabikui-bisco-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/104252",
+        "dub": null,
+        "url": "https://www.animegg.org/sabikui-bisco-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/104297",
+        "dub": null,
+        "url": "https://www.animegg.org/sabikui-bisco-episode-12"
+      }
+    ]
   }
 ]
