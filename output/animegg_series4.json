@@ -103644,5 +103644,21 @@
         "url": "https://www.animegg.org/ochikobore-fruit-tart-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4465,
+    "title": "Fate/stay night: Unlimited Blade Works (TV) 2nd Season - Sunny Day",
+    "animegg_url": "https://www.animegg.org/series/fatestay-night-unlimited-blade-works-tv-2nd-season---sunny-day",
+    "mal_url": "https://myanimelist.net/anime/22297",
+    "mal_id": 22297,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/79436",
+        "dub": null,
+        "url": "https://www.animegg.org/fatestay-night-unlimited-blade-works-tv-2nd-season---sunny-day-episode-1"
+      }
+    ]
   }
 ]
