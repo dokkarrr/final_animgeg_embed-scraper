@@ -9968,5 +9968,63 @@
         "url": "https://www.animegg.org/fairy-tail-x-rave-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3201,
+    "title": "Little Busters!: EX",
+    "animegg_url": "https://www.animegg.org/series/little-busters-ex",
+    "mal_url": "https://myanimelist.net/anime/20517",
+    "mal_id": 20517,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/42687",
+        "dub": null,
+        "url": "https://www.animegg.org/little-busters-ex-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/42688",
+        "dub": null,
+        "url": "https://www.animegg.org/little-busters-ex-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/42689",
+        "dub": null,
+        "url": "https://www.animegg.org/little-busters-ex-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/42690",
+        "dub": null,
+        "url": "https://www.animegg.org/little-busters-ex-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/42691",
+        "dub": "https://www.animegg.org/embed/42692",
+        "url": "https://www.animegg.org/little-busters-ex-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/42693",
+        "dub": "https://www.animegg.org/embed/42694",
+        "url": "https://www.animegg.org/little-busters-ex-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/42695",
+        "dub": "https://www.animegg.org/embed/42696",
+        "url": "https://www.animegg.org/little-busters-ex-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/42697",
+        "dub": "https://www.animegg.org/embed/42698",
+        "url": "https://www.animegg.org/little-busters-ex-episode-8"
+      }
+    ]
   }
 ]
