@@ -79440,5 +79440,21 @@
         "url": "https://www.animegg.org/hyakushou-kizoku-episode-14"
       }
     ]
+  },
+  {
+    "serial_no": 4111,
+    "title": "Laputa: Castle in the Sky",
+    "animegg_url": "https://www.animegg.org/series/laputa-castle-in-the-sky",
+    "mal_url": "https://myanimelist.net/anime/513",
+    "mal_id": 513,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/54554",
+        "dub": "https://www.animegg.org/embed/54555",
+        "url": "https://www.animegg.org/laputa-castle-in-the-sky-episode-1"
+      }
+    ]
   }
 ]
