@@ -16762,5 +16762,87 @@
         "url": "https://www.animegg.org/hortensia-saga-tv-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3269,
+    "title": "Island",
+    "animegg_url": "https://www.animegg.org/series/island",
+    "mal_url": "https://myanimelist.net/anime/33012",
+    "mal_id": 33012,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/91744",
+        "dub": null,
+        "url": "https://www.animegg.org/island-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/91794",
+        "dub": null,
+        "url": "https://www.animegg.org/island-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/91862",
+        "dub": null,
+        "url": "https://www.animegg.org/island-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/91987",
+        "dub": null,
+        "url": "https://www.animegg.org/island-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/92076",
+        "dub": null,
+        "url": "https://www.animegg.org/island-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/92188",
+        "dub": null,
+        "url": "https://www.animegg.org/island-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/92265",
+        "dub": null,
+        "url": "https://www.animegg.org/island-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/92425",
+        "dub": null,
+        "url": "https://www.animegg.org/island-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/92607",
+        "dub": null,
+        "url": "https://www.animegg.org/island-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/92730",
+        "dub": null,
+        "url": "https://www.animegg.org/island-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/92804",
+        "dub": null,
+        "url": "https://www.animegg.org/island-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/92879",
+        "dub": null,
+        "url": "https://www.animegg.org/island-episode-12"
+      }
+    ]
   }
 ]
