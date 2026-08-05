@@ -110886,5 +110886,21 @@
         "url": "https://www.animegg.org/ijiranaide-nagatoro-san-2nd-attack-dub-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6832,
+    "title": "Mahou Shoujo Lyrical Nanoha: Detonation",
+    "animegg_url": "https://www.animegg.org/series/mahou-shoujo-lyrical-nanoha-detonation",
+    "mal_url": "https://myanimelist.net/anime/35984",
+    "mal_id": 35984,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/95741",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-shoujo-lyrical-nanoha-detonation-episode-1"
+      }
+    ]
   }
 ]
