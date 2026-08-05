@@ -29000,5 +29000,21 @@
         "url": "https://www.animegg.org/kinnikuman-special-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6092,
+    "title": "Koihime†Musou OVA",
+    "animegg_url": "https://www.animegg.org/series/koihime-musou-ova",
+    "mal_url": "https://myanimelist.net/anime/4262",
+    "mal_id": 4262,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/55191",
+        "dub": null,
+        "url": "https://www.animegg.org/koihime-musou-ova-episode-1"
+      }
+    ]
   }
 ]
