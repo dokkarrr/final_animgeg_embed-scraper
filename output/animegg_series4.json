@@ -57658,5 +57658,51 @@
         "url": "https://www.animegg.org/enen-no-shouboutai-san-no-shou-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 3776,
+    "title": "Ichigo 100% OVA",
+    "animegg_url": "https://www.animegg.org/series/ichigo-100-ova",
+    "mal_url": "https://myanimelist.net/anime/981",
+    "mal_id": 981,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 100,
+        "sub": "https://www.animegg.org/embed/17371",
+        "dub": null,
+        "url": "https://www.animegg.org/ichigo-100-ova-episode-6"
+      },
+      {
+        "ep": 100,
+        "sub": "https://www.animegg.org/embed/17372",
+        "dub": null,
+        "url": "https://www.animegg.org/ichigo-100-ova-episode-5"
+      },
+      {
+        "ep": 100,
+        "sub": "https://www.animegg.org/embed/17369",
+        "dub": null,
+        "url": "https://www.animegg.org/ichigo-100-ova-episode-4"
+      },
+      {
+        "ep": 100,
+        "sub": "https://www.animegg.org/embed/17370",
+        "dub": null,
+        "url": "https://www.animegg.org/ichigo-100-ova-episode-3"
+      },
+      {
+        "ep": 100,
+        "sub": "https://www.animegg.org/embed/17367",
+        "dub": null,
+        "url": "https://www.animegg.org/ichigo-100-ova-episode-2"
+      },
+      {
+        "ep": 100,
+        "sub": "https://www.animegg.org/embed/17368",
+        "dub": null,
+        "url": "https://www.animegg.org/ichigo-100-ova-episode-1"
+      }
+    ]
   }
 ]
