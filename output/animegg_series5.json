@@ -47163,5 +47163,21 @@
         "url": "https://www.animegg.org/sf-saiyuuki-starzinger-episode-72"
       }
     ]
+  },
+  {
+    "serial_no": 6289,
+    "title": "Red Garden: Dead Girls",
+    "animegg_url": "https://www.animegg.org/series/red-garden-dead-girls",
+    "mal_url": "https://myanimelist.net/anime/2267",
+    "mal_id": 2267,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/61627",
+        "dub": "https://www.animegg.org/embed/61628",
+        "url": "https://www.animegg.org/red-garden-dead-girls-episode-1"
+      }
+    ]
   }
 ]
