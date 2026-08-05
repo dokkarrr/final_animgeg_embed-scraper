@@ -89928,5 +89928,81 @@
         "url": "https://www.animegg.org/b-the-beginning-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4267,
+    "title": "Poketoon",
+    "animegg_url": "https://www.animegg.org/series/poketoon",
+    "mal_url": "https://myanimelist.net/anime/42161",
+    "mal_id": 42161,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/101970",
+        "dub": null,
+        "url": "https://www.animegg.org/poketoon-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/102994",
+        "dub": null,
+        "url": "https://www.animegg.org/poketoon-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/102995",
+        "dub": null,
+        "url": "https://www.animegg.org/poketoon-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/102996",
+        "dub": null,
+        "url": "https://www.animegg.org/poketoon-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/102997",
+        "dub": null,
+        "url": "https://www.animegg.org/poketoon-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/102998",
+        "dub": null,
+        "url": "https://www.animegg.org/poketoon-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/102986",
+        "dub": null,
+        "url": "https://www.animegg.org/poketoon-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/103690",
+        "dub": null,
+        "url": "https://www.animegg.org/poketoon-episode-8"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/137346",
+        "dub": null,
+        "url": "https://www.animegg.org/poketoon-episode-10"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/139164",
+        "dub": null,
+        "url": "https://www.animegg.org/poketoon-episode-14"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/139165",
+        "dub": null,
+        "url": "https://www.animegg.org/poketoon-episode-16"
+      }
+    ]
   }
 ]
