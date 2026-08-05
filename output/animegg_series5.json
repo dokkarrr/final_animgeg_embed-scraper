@@ -88298,5 +88298,57 @@
         "url": "https://www.animegg.org/magi-the-labyrinth-of-magic-dub-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 6650,
+    "title": "Atashin'chi NEXT",
+    "animegg_url": "https://www.animegg.org/series/atashin-chi-next",
+    "mal_url": "https://myanimelist.net/anime/57822",
+    "mal_id": 57822,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/134699",
+        "dub": null,
+        "url": "https://www.animegg.org/atashin-chi-next-episode-1"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/143529",
+        "dub": null,
+        "url": "https://www.animegg.org/atashinchi-next-season-1-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/135428",
+        "dub": null,
+        "url": "https://www.animegg.org/atashin-chi-next-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/136083",
+        "dub": null,
+        "url": "https://www.animegg.org/atashin-chi-next-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/136814",
+        "dub": null,
+        "url": "https://www.animegg.org/atashin-chi-next-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/137640",
+        "dub": null,
+        "url": "https://www.animegg.org/atashin-chi-next-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/143532",
+        "dub": null,
+        "url": "https://www.animegg.org/atashinchi-next-season-1-episode-6"
+      }
+    ]
   }
 ]
