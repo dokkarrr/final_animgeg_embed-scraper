@@ -1714,5 +1714,21 @@
         "url": "https://www.animegg.org/the-legend-of-sword-domain-3rd-season-episode-17"
       }
     ]
+  },
+  {
+    "serial_no": 5636,
+    "title": "Arashi no Yoru ni",
+    "animegg_url": "https://www.animegg.org/series/arashi-no-yoru-ni",
+    "mal_url": "https://myanimelist.net/anime/1961",
+    "mal_id": 1961,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/65796",
+        "dub": null,
+        "url": "https://www.animegg.org/arashi-no-yoru-ni-episode-1"
+      }
+    ]
   }
 ]
