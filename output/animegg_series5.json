@@ -29352,5 +29352,21 @@
         "url": "https://www.animegg.org/to-heart-2-adnext-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6105,
+    "title": "Taifuu no Noruda",
+    "animegg_url": "https://www.animegg.org/series/taifuu-no-noruda",
+    "mal_url": "https://myanimelist.net/anime/30585",
+    "mal_id": 30585,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/78923",
+        "dub": null,
+        "url": "https://www.animegg.org/taifuu-no-noruda-episode-1"
+      }
+    ]
   }
 ]
