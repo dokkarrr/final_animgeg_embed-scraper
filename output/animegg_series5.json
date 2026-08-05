@@ -15910,5 +15910,21 @@
         "url": "https://www.animegg.org/little-busters-sekai-no-saitou-wa-ore-ga-mamoru-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5890,
+    "title": "Cello Hiki no Gauche",
+    "animegg_url": "https://www.animegg.org/series/cello-hiki-no-gauche",
+    "mal_url": "https://myanimelist.net/anime/33344",
+    "mal_id": 33344,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/75985",
+        "dub": null,
+        "url": "https://www.animegg.org/cello-hiki-no-gauche-episode-1"
+      }
+    ]
   }
 ]
