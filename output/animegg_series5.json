@@ -53079,5 +53079,21 @@
         "url": "https://www.animegg.org/zhen-wu-dianfeng-episode-40"
       }
     ]
+  },
+  {
+    "serial_no": 6330,
+    "title": "Josee to Tora to Sakana-tachi",
+    "animegg_url": "https://www.animegg.org/series/josee-to-tora-to-sakana-tachi",
+    "mal_url": "https://myanimelist.net/anime/40787",
+    "mal_id": 40787,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/102633",
+        "dub": null,
+        "url": "https://www.animegg.org/josee-to-tora-to-sakana-tachi-episode-1"
+      }
+    ]
   }
 ]
