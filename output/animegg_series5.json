@@ -64885,5 +64885,33 @@
         "url": "https://www.animegg.org/kiniro-mosaic-pretty-days-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6445,
+    "title": "Hero Mask (2019)",
+    "animegg_url": "https://www.animegg.org/series/hero-mask-2019",
+    "mal_url": "https://myanimelist.net/anime/40154",
+    "mal_id": 40154,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 2019,
+        "sub": "https://www.animegg.org/embed/96302",
+        "dub": null,
+        "url": "https://www.animegg.org/hero-mask-2019-episode-9"
+      },
+      {
+        "ep": 2019,
+        "sub": "https://www.animegg.org/embed/99339",
+        "dub": null,
+        "url": "https://www.animegg.org/hero-mask-2019-episode-8"
+      },
+      {
+        "ep": 2019,
+        "sub": "https://www.animegg.org/embed/96301",
+        "dub": null,
+        "url": "https://www.animegg.org/hero-mask-2019-episode-1"
+      }
+    ]
   }
 ]
