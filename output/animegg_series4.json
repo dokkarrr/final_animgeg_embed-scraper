@@ -103284,5 +103284,57 @@
         "url": "https://www.animegg.org/tenka-hyakken-meiji-kan-e-youkoso-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4456,
+    "title": "Ikoku Meiro no Croisée Specials: Yune & Alice",
+    "animegg_url": "https://www.animegg.org/series/ikoku-meiro-no-crois-e-specials-yune-alice",
+    "mal_url": "https://myanimelist.net/anime/10832",
+    "mal_id": 10832,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/17491",
+        "dub": null,
+        "url": "https://www.animegg.org/ikoku-meiro-no-crois-e-specials-yune-alice-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ikoku-meiro-no-crois-e-specials-yune-alice-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ikoku-meiro-no-crois-e-specials-yune-alice-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ikoku-meiro-no-crois-e-specials-yune-alice-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ikoku-meiro-no-crois-e-specials-yune-alice-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ikoku-meiro-no-crois-e-specials-yune-alice-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ikoku-meiro-no-crois-e-specials-yune-alice-episode-7"
+      }
+    ]
   }
 ]
