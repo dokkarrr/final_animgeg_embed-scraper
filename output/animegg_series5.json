@@ -57409,5 +57409,21 @@
         "url": "https://www.animegg.org/junkers-come-here-episode-5"
       }
     ]
+  },
+  {
+    "serial_no": 6376,
+    "title": "Smile Precure! Movie: Ehon no Naka wa Minna Chiguhagu!",
+    "animegg_url": "https://www.animegg.org/series/smile-precure-movie-ehon-no-naka-wa-minna-chiguhagu",
+    "mal_url": "https://myanimelist.net/anime/15307",
+    "mal_id": 15307,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/61796",
+        "dub": null,
+        "url": "https://www.animegg.org/smile-precure-movie-ehon-no-naka-wa-minna-chiguhagu-episode-1"
+      }
+    ]
   }
 ]
