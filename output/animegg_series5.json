@@ -13927,5 +13927,21 @@
         "url": "https://www.animegg.org/tales-of-vesperia-the-first-strike-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5844,
+    "title": "Persona 4 The Golden Animation: Thank you Mr. Accomplice",
+    "animegg_url": "https://www.animegg.org/series/persona-4-the-golden-animation-thank-you-mr-accomplice",
+    "mal_url": "https://myanimelist.net/anime/26359",
+    "mal_id": 26359,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/79447",
+        "dub": null,
+        "url": "https://www.animegg.org/persona-4-the-golden-animation-thank-you-mr-accomplice-episode-1"
+      }
+    ]
   }
 ]
