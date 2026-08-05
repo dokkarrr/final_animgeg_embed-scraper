@@ -101666,5 +101666,27 @@
         "url": "https://www.animegg.org/akane-iro-ni-somaru-saka-hardcore-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4428,
+    "title": "Tomb Raider King",
+    "animegg_url": "https://www.animegg.org/series/tomb-raider-king",
+    "mal_url": "https://myanimelist.net/anime/63316",
+    "mal_id": 63316,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/146350",
+        "dub": null,
+        "url": "https://www.animegg.org/tomb-raider-king-episode-1"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/146592",
+        "dub": null,
+        "url": "https://www.animegg.org/tomb-raider-king-episode-4"
+      }
+    ]
   }
 ]
