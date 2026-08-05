@@ -88124,5 +88124,57 @@
         "url": "https://www.animegg.org/boku-wa-imouto-ni-koi-wo-suru-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4236,
+    "title": "Hoshifuru Oukoku no Nina",
+    "animegg_url": "https://www.animegg.org/series/hoshifuru-oukoku-no-nina",
+    "mal_url": "https://myanimelist.net/anime/57362",
+    "mal_id": 57362,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/137711",
+        "dub": null,
+        "url": "https://www.animegg.org/hoshifuru-oukoku-no-nina-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/137980",
+        "dub": null,
+        "url": "https://www.animegg.org/hoshifuru-oukoku-no-nina-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/138197",
+        "dub": null,
+        "url": "https://www.animegg.org/hoshifuru-oukoku-no-nina-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/138434",
+        "dub": null,
+        "url": "https://www.animegg.org/hoshifuru-oukoku-no-nina-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/138661",
+        "dub": null,
+        "url": "https://www.animegg.org/hoshifuru-oukoku-no-nina-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/138885",
+        "dub": null,
+        "url": "https://www.animegg.org/hoshifuru-oukoku-no-nina-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/139083",
+        "dub": null,
+        "url": "https://www.animegg.org/hoshifuru-oukoku-no-nina-episode-7"
+      }
+    ]
   }
 ]
