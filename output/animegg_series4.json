@@ -106610,5 +106610,27 @@
         "url": "https://www.animegg.org/gintama---mr-ginpachi-s-zany-class-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4521,
+    "title": "Gravitation: Lyrics of Love",
+    "animegg_url": "https://www.animegg.org/series/gravitation-lyrics-of-love",
+    "mal_url": "https://myanimelist.net/anime/507",
+    "mal_id": 507,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/53263",
+        "dub": "https://www.animegg.org/embed/53264",
+        "url": "https://www.animegg.org/gravitation-lyrics-of-love-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/53265",
+        "dub": "https://www.animegg.org/embed/53266",
+        "url": "https://www.animegg.org/gravitation-lyrics-of-love-episode-2"
+      }
+    ]
   }
 ]
