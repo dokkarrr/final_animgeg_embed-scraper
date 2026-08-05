@@ -32166,5 +32166,21 @@
         "url": "https://www.animegg.org/you-are-umasou-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6138,
+    "title": "Tengen Toppa Gurren Lagann Special",
+    "animegg_url": "https://www.animegg.org/series/tengen-toppa-gurren-lagann-special",
+    "mal_url": "https://myanimelist.net/anime/3352",
+    "mal_id": 3352,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/63250",
+        "dub": null,
+        "url": "https://www.animegg.org/tengen-toppa-gurren-lagann-special-episode-1"
+      }
+    ]
   }
 ]
