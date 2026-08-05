@@ -42711,5 +42711,21 @@
         "url": "https://www.animegg.org/princess-resurrection-special-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6241,
+    "title": "Mahou no Star Magical Emi: Semishigure",
+    "animegg_url": "https://www.animegg.org/series/mahou-no-star-magical-emi-semishigure",
+    "mal_url": "https://myanimelist.net/anime/8443",
+    "mal_id": 8443,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/56867",
+        "dub": null,
+        "url": "https://www.animegg.org/mahou-no-star-magical-emi-semishigure-episode-1"
+      }
+    ]
   }
 ]
