@@ -17344,5 +17344,21 @@
         "url": "https://www.animegg.org/i-became-a-legend-after-my-10-year-long-last-stand-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5911,
+    "title": "Hamtaro Movie 3",
+    "animegg_url": "https://www.animegg.org/series/hamtaro-movie-3",
+    "mal_url": "https://myanimelist.net/anime/508",
+    "mal_id": 508,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/52508",
+        "dub": null,
+        "url": "https://www.animegg.org/hamtaro-movie-3-episode-1"
+      }
+    ]
   }
 ]
