@@ -3368,5 +3368,21 @@
         "url": "https://www.animegg.org/liz-to-aoi-tori-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5658,
+    "title": "Giovanni no Shima",
+    "animegg_url": "https://www.animegg.org/series/giovanni-no-shima",
+    "mal_url": "https://myanimelist.net/anime/19115",
+    "mal_id": 19115,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/53028",
+        "dub": null,
+        "url": "https://www.animegg.org/giovanni-no-shima-episode-1"
+      }
+    ]
   }
 ]
