@@ -110026,5 +110026,21 @@
         "url": "https://www.animegg.org/gregory-horror-show-the-second-guest-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 6821,
+    "title": "Penguin Highway",
+    "animegg_url": "https://www.animegg.org/series/penguin-highway",
+    "mal_url": "https://myanimelist.net/anime/37407",
+    "mal_id": 37407,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/97374",
+        "dub": null,
+        "url": "https://www.animegg.org/penguin-highway-episode-1"
+      }
+    ]
   }
 ]
