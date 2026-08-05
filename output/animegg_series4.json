@@ -115934,5 +115934,39 @@
         "url": "https://www.animegg.org/aico-incarnation-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4674,
+    "title": "Otona Joshi no Anime Time",
+    "animegg_url": "https://www.animegg.org/series/otona-joshi-no-anime-time",
+    "mal_url": "https://myanimelist.net/anime/10178",
+    "mal_id": 10178,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/58589",
+        "dub": null,
+        "url": "https://www.animegg.org/otona-joshi-no-anime-time-episode-0"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/58586",
+        "dub": null,
+        "url": "https://www.animegg.org/otona-joshi-no-anime-time-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/58587",
+        "dub": null,
+        "url": "https://www.animegg.org/otona-joshi-no-anime-time-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/58588",
+        "dub": null,
+        "url": "https://www.animegg.org/otona-joshi-no-anime-time-episode-3"
+      }
+    ]
   }
 ]
