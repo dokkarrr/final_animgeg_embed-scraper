@@ -39430,5 +39430,21 @@
         "url": "https://www.animegg.org/teekyuu-3-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3536,
+    "title": "11eyes OVA",
+    "animegg_url": "https://www.animegg.org/series/11eyes-ova",
+    "mal_url": "https://myanimelist.net/anime/7739",
+    "mal_id": 7739,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/86",
+        "dub": null,
+        "url": "https://www.animegg.org/11eyes-ova-episode-1"
+      }
+    ]
   }
 ]
