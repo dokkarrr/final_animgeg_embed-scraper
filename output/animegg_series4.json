@@ -75864,5 +75864,87 @@
         "url": "https://www.animegg.org/persona-3-the-movie-3-falling-down-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4051,
+    "title": "Tribe Nine",
+    "animegg_url": "https://www.animegg.org/series/tribe-nine",
+    "mal_url": "https://myanimelist.net/anime/49969",
+    "mal_id": 49969,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/103750",
+        "dub": null,
+        "url": "https://www.animegg.org/tribe-nine-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/103799",
+        "dub": null,
+        "url": "https://www.animegg.org/tribe-nine-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/103853",
+        "dub": null,
+        "url": "https://www.animegg.org/tribe-nine-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/103906",
+        "dub": null,
+        "url": "https://www.animegg.org/tribe-nine-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/103960",
+        "dub": null,
+        "url": "https://www.animegg.org/tribe-nine-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/104011",
+        "dub": null,
+        "url": "https://www.animegg.org/tribe-nine-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/104062",
+        "dub": null,
+        "url": "https://www.animegg.org/tribe-nine-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/104108",
+        "dub": null,
+        "url": "https://www.animegg.org/tribe-nine-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/104155",
+        "dub": null,
+        "url": "https://www.animegg.org/tribe-nine-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/104203",
+        "dub": null,
+        "url": "https://www.animegg.org/tribe-nine-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/104251",
+        "dub": null,
+        "url": "https://www.animegg.org/tribe-nine-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/104294",
+        "dub": null,
+        "url": "https://www.animegg.org/tribe-nine-episode-12"
+      }
+    ]
   }
 ]
