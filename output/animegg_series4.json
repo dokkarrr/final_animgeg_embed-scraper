@@ -103742,5 +103742,21 @@
         "url": "https://www.animegg.org/build-divide-code-white-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4467,
+    "title": "Kuroko no Basket Movie 1: Winter Cup Soushuuhen - Kage to Hikari",
+    "animegg_url": "https://www.animegg.org/series/kuroko-no-basket-movie-1-winter-cup-soushuuhen---kage-to-hikari",
+    "mal_url": "https://myanimelist.net/anime/32869",
+    "mal_id": 32869,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/84556",
+        "dub": null,
+        "url": "https://www.animegg.org/kuroko-no-basket-movie-1-winter-cup-soushuuhen---kage-to-hikari-episode-1"
+      }
+    ]
   }
 ]
