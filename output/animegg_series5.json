@@ -914,5 +914,21 @@
         "url": "https://www.animegg.org/180-byou-de-kimi-no-mimi-wo-shiawase-ni-dekiru-ka--episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5625,
+    "title": "Bungaku Shoujo",
+    "animegg_url": "https://www.animegg.org/series/bungaku-shoujo",
+    "mal_url": "https://myanimelist.net/anime/39323",
+    "mal_id": 39323,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/49185",
+        "dub": null,
+        "url": "https://www.animegg.org/bungaku-shoujo-episode-1"
+      }
+    ]
   }
 ]
