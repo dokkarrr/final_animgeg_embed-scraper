@@ -57194,5 +57194,75 @@
         "url": "https://www.animegg.org/space-pirate-captain-herlock-the-endless-odyssey-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3771,
+    "title": "MF Ghost 2nd Season",
+    "animegg_url": "https://www.animegg.org/series/mf-ghost-2nd-season",
+    "mal_url": "https://myanimelist.net/anime/57559",
+    "mal_id": 57559,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/139502",
+        "dub": null,
+        "url": "https://www.animegg.org/mf-ghost-2nd-season-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/139471",
+        "dub": null,
+        "url": "https://www.animegg.org/mf-ghost-2nd-season-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/139257",
+        "dub": null,
+        "url": "https://www.animegg.org/mf-ghost-2nd-season-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/139079",
+        "dub": null,
+        "url": "https://www.animegg.org/mf-ghost-2nd-season-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/138881",
+        "dub": null,
+        "url": "https://www.animegg.org/mf-ghost-2nd-season-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/138656",
+        "dub": null,
+        "url": "https://www.animegg.org/mf-ghost-2nd-season-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/138430",
+        "dub": null,
+        "url": "https://www.animegg.org/mf-ghost-2nd-season-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/138195",
+        "dub": null,
+        "url": "https://www.animegg.org/mf-ghost-2nd-season-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/137954",
+        "dub": null,
+        "url": "https://www.animegg.org/mf-ghost-2nd-season-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/137680",
+        "dub": null,
+        "url": "https://www.animegg.org/mf-ghost-2nd-season-episode-1"
+      }
+    ]
   }
 ]
