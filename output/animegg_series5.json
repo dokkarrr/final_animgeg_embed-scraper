@@ -28584,5 +28584,21 @@
         "url": "https://www.animegg.org/go-princess-precure-movie-go-go-gouka-3-bondate-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6081,
+    "title": "Project A-Ko",
+    "animegg_url": "https://www.animegg.org/series/project-a-ko",
+    "mal_url": "https://myanimelist.net/anime/212",
+    "mal_id": 212,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/61380",
+        "dub": null,
+        "url": "https://www.animegg.org/project-a-ko-episode-1"
+      }
+    ]
   }
 ]
