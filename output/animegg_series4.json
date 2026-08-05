@@ -69532,5 +69532,51 @@
         "url": "https://www.animegg.org/detective-conan-movie-18-the-sniper-from-another-dimension-episode-18"
       }
     ]
+  },
+  {
+    "serial_no": 3941,
+    "title": "Gatekeepers 21",
+    "animegg_url": "https://www.animegg.org/series/gatekeepers-21",
+    "mal_url": "https://myanimelist.net/anime/128",
+    "mal_id": 128,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 21,
+        "sub": "https://www.animegg.org/embed/52519",
+        "dub": "https://www.animegg.org/embed/52520",
+        "url": "https://www.animegg.org/gatekeepers-21-episode-6"
+      },
+      {
+        "ep": 21,
+        "sub": "https://www.animegg.org/embed/52517",
+        "dub": "https://www.animegg.org/embed/52518",
+        "url": "https://www.animegg.org/gatekeepers-21-episode-5"
+      },
+      {
+        "ep": 21,
+        "sub": "https://www.animegg.org/embed/52515",
+        "dub": "https://www.animegg.org/embed/52516",
+        "url": "https://www.animegg.org/gatekeepers-21-episode-4"
+      },
+      {
+        "ep": 21,
+        "sub": "https://www.animegg.org/embed/52513",
+        "dub": "https://www.animegg.org/embed/52514",
+        "url": "https://www.animegg.org/gatekeepers-21-episode-3"
+      },
+      {
+        "ep": 21,
+        "sub": "https://www.animegg.org/embed/52511",
+        "dub": "https://www.animegg.org/embed/52512",
+        "url": "https://www.animegg.org/gatekeepers-21-episode-2"
+      },
+      {
+        "ep": 21,
+        "sub": "https://www.animegg.org/embed/52509",
+        "dub": "https://www.animegg.org/embed/52510",
+        "url": "https://www.animegg.org/gatekeepers-21-episode-1"
+      }
+    ]
   }
 ]
