@@ -19666,5 +19666,21 @@
         "url": "https://www.animegg.org/nasu-summer-in-andalusia-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5956,
+    "title": "Kiniro no Corda: Secondo Passo",
+    "animegg_url": "https://www.animegg.org/series/kiniro-no-corda-secondo-passo",
+    "mal_url": "https://myanimelist.net/anime/5717",
+    "mal_id": 5717,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/44005",
+        "dub": null,
+        "url": "https://www.animegg.org/kiniro-no-corda-secondo-passo-episode-1"
+      }
+    ]
   }
 ]
