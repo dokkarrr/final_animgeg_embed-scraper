@@ -85574,5 +85574,33 @@
         "url": "https://www.animegg.org/hataraku-onii-san-no-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4191,
+    "title": "Mobile Suit Gundam: The 08th MS Team - A Battle with the Third Dimension",
+    "animegg_url": "https://www.animegg.org/series/mobile-suit-gundam-the-08th-ms-team---a-battle-with-the-third-dimension",
+    "mal_url": "https://myanimelist.net/anime/17717",
+    "mal_id": 17717,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/79535",
+        "dub": null,
+        "url": "https://www.animegg.org/mobile-suit-gundam-the-08th-ms-team---a-battle-with-the-third-dimension-episode-3"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/79430",
+        "dub": null,
+        "url": "https://www.animegg.org/mobile-suit-gundam-the-08th-ms-team---a-battle-with-the-third-dimension-episode-2"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/53317",
+        "dub": null,
+        "url": "https://www.animegg.org/mobile-suit-gundam-the-08th-ms-team---a-battle-with-the-third-dimension-episode-1"
+      }
+    ]
   }
 ]
