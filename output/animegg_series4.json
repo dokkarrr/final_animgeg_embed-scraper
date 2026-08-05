@@ -65558,5 +65558,39 @@
         "url": "https://www.animegg.org/genocyber-episode-5"
       }
     ]
+  },
+  {
+    "serial_no": 3888,
+    "title": "Anime Mirai 2014",
+    "animegg_url": "https://www.animegg.org/series/anime-mirai-2014",
+    "mal_url": "https://myanimelist.net/anime/20903",
+    "mal_id": 20903,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 2014,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/anime-mirai-2014-episode-4"
+      },
+      {
+        "ep": 2014,
+        "sub": "https://www.animegg.org/embed/1241",
+        "dub": null,
+        "url": "https://www.animegg.org/anime-mirai-2014-episode-3"
+      },
+      {
+        "ep": 2014,
+        "sub": "https://www.animegg.org/embed/1240",
+        "dub": null,
+        "url": "https://www.animegg.org/anime-mirai-2014-episode-2"
+      },
+      {
+        "ep": 2014,
+        "sub": "https://www.animegg.org/embed/1239",
+        "dub": null,
+        "url": "https://www.animegg.org/anime-mirai-2014-episode-1"
+      }
+    ]
   }
 ]
