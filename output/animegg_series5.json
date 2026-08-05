@@ -26416,5 +26416,21 @@
         "url": "https://www.animegg.org/kimikiss-pure-rouge-special-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6040,
+    "title": "Saint Beast: Ikusen no Hiru to Yoru Hen",
+    "animegg_url": "https://www.animegg.org/series/saint-beast-ikusen-no-hiru-to-yoru-hen",
+    "mal_url": "https://myanimelist.net/anime/3004",
+    "mal_id": 3004,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/60593",
+        "dub": null,
+        "url": "https://www.animegg.org/saint-beast-ikusen-no-hiru-to-yoru-hen-episode-1"
+      }
+    ]
   }
 ]
