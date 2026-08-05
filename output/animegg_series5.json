@@ -105372,5 +105372,21 @@
         "url": "https://www.animegg.org/digimon-adventure-last-evolution-kizuna-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6779,
+    "title": "Precure Miracle Universe Movie",
+    "animegg_url": "https://www.animegg.org/series/precure-miracle-universe-movie",
+    "mal_url": "https://myanimelist.net/anime/38672",
+    "mal_id": 38672,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/95987",
+        "dub": null,
+        "url": "https://www.animegg.org/precure-miracle-universe-movie-episode-1"
+      }
+    ]
   }
 ]
