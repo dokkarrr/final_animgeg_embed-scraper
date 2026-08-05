@@ -29086,5 +29086,21 @@
         "url": "https://www.animegg.org/sacred-seven-shirogane-no-tsubasa-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6097,
+    "title": "Munto 2: Beyond the Walls of Time",
+    "animegg_url": "https://www.animegg.org/series/munto-2-beyond-the-walls-of-time",
+    "mal_url": "https://myanimelist.net/anime/1135",
+    "mal_id": 1135,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/57023",
+        "dub": null,
+        "url": "https://www.animegg.org/munto-2-beyond-the-walls-of-time-episode-1"
+      }
+    ]
   }
 ]
