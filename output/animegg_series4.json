@@ -37720,5 +37720,21 @@
         "url": "https://www.animegg.org/one-piece-heart-of-gold-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3512,
+    "title": "Owari no Seraph: Kyuuketsuki Shahar",
+    "animegg_url": "https://www.animegg.org/series/owari-no-seraph-kyuuketsuki-shahar",
+    "mal_url": "https://myanimelist.net/anime/31378",
+    "mal_id": 31378,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/82154",
+        "dub": "https://www.animegg.org/embed/83385",
+        "url": "https://www.animegg.org/owari-no-seraph-kyuuketsuki-shahar-episode-1"
+      }
+    ]
   }
 ]
