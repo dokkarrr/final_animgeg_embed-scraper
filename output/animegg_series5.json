@@ -3542,5 +3542,21 @@
         "url": "https://www.animegg.org/ashita-no-joe-2-movie-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5667,
+    "title": "Hulk Vs Wolverine",
+    "animegg_url": "https://www.animegg.org/series/hulk-vs-wolverine",
+    "mal_url": "https://myanimelist.net/anime/6918",
+    "mal_id": 6918,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/76858",
+        "dub": null,
+        "url": "https://www.animegg.org/hulk-vs-wolverine-episode-1"
+      }
+    ]
   }
 ]
