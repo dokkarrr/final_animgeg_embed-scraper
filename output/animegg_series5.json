@@ -18730,5 +18730,21 @@
         "url": "https://www.animegg.org/da-wang-rao-ming-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 5935,
+    "title": "Eureka Seven: Navigation ray=out",
+    "animegg_url": "https://www.animegg.org/series/eureka-seven-navigation-ray-out",
+    "mal_url": "https://myanimelist.net/anime/237",
+    "mal_id": 237,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/51238",
+        "dub": null,
+        "url": "https://www.animegg.org/eureka-seven-navigation-ray-out-episode-1"
+      }
+    ]
   }
 ]
