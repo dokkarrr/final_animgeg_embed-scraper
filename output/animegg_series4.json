@@ -120818,5 +120818,27 @@
         "url": "https://www.animegg.org/sugar-apple-fairy-tale-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4743,
+    "title": "InuYasha The Movie 3: Swords of an Honorable Ruler",
+    "animegg_url": "https://www.animegg.org/series/inuyasha-the-movie-3-swords-of-an-honorable-ruler",
+    "mal_url": "https://myanimelist.net/anime/451",
+    "mal_id": 451,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/54055",
+        "dub": null,
+        "url": "https://www.animegg.org/inuyasha-the-movie-3-swords-of-an-honorable-ruler-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/54054",
+        "dub": null,
+        "url": "https://www.animegg.org/inuyasha-the-movie-3-swords-of-an-honorable-ruler-episode-1"
+      }
+    ]
   }
 ]
