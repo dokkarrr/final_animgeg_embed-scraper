@@ -8211,5 +8211,21 @@
         "url": "https://www.animegg.org/dororo-dub-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 5744,
+    "title": "Eternal Family",
+    "animegg_url": "https://www.animegg.org/series/eternal-family",
+    "mal_url": "https://myanimelist.net/anime/1106",
+    "mal_id": 1106,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/51276",
+        "dub": null,
+        "url": "https://www.animegg.org/eternal-family-episode-1"
+      }
+    ]
   }
 ]
