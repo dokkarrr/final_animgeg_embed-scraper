@@ -12629,5 +12629,21 @@
         "url": "https://www.animegg.org/ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-ova-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 5809,
+    "title": "Kakurenbo",
+    "animegg_url": "https://www.animegg.org/series/kakurenbo",
+    "mal_url": "https://myanimelist.net/anime/1192",
+    "mal_id": 1192,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/55118",
+        "dub": "https://www.animegg.org/embed/55119",
+        "url": "https://www.animegg.org/kakurenbo-episode-1"
+      }
+    ]
   }
 ]
