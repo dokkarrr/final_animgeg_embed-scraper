@@ -113366,5 +113366,39 @@
         "url": "https://www.animegg.org/vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4638,
+    "title": "Armored Trooper Votoms Recaps",
+    "animegg_url": "https://www.animegg.org/series/armored-trooper-votoms-recaps",
+    "mal_url": "https://myanimelist.net/anime/12337",
+    "mal_id": 12337,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/65525",
+        "dub": null,
+        "url": "https://www.animegg.org/armored-trooper-votoms-recaps-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/65526",
+        "dub": null,
+        "url": "https://www.animegg.org/armored-trooper-votoms-recaps-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/65527",
+        "dub": null,
+        "url": "https://www.animegg.org/armored-trooper-votoms-recaps-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/65528",
+        "dub": null,
+        "url": "https://www.animegg.org/armored-trooper-votoms-recaps-episode-4"
+      }
+    ]
   }
 ]
