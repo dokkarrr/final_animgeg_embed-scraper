@@ -115312,5 +115312,27 @@
         "url": "https://www.animegg.org/healer-girl-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4661,
+    "title": "Gunnm",
+    "animegg_url": "https://www.animegg.org/series/gunnm",
+    "mal_url": "https://myanimelist.net/anime/1016",
+    "mal_id": 1016,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/53319",
+        "dub": "https://www.animegg.org/embed/68204",
+        "url": "https://www.animegg.org/gunnm-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/53320",
+        "dub": "https://www.animegg.org/embed/68208",
+        "url": "https://www.animegg.org/gunnm-episode-2"
+      }
+    ]
   }
 ]
