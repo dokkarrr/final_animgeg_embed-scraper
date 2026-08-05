@@ -62622,5 +62622,51 @@
         "url": "https://www.animegg.org/maou-2099-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3847,
+    "title": "Crying Freeman",
+    "animegg_url": "https://www.animegg.org/series/crying-freeman",
+    "mal_url": "https://myanimelist.net/anime/1153",
+    "mal_id": 1153,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/crying-freeman-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/crying-freeman-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/crying-freeman-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/crying-freeman-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/crying-freeman-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/crying-freeman-episode-6"
+      }
+    ]
   }
 ]
