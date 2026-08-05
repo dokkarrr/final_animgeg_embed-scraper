@@ -51768,5 +51768,81 @@
         "url": "https://www.animegg.org/rockmanexe-axess-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3703,
+    "title": "Senjuushi",
+    "animegg_url": "https://www.animegg.org/series/senjuushi",
+    "mal_url": "https://myanimelist.net/anime/37571",
+    "mal_id": 37571,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/91737",
+        "dub": null,
+        "url": "https://www.animegg.org/senjuushi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/91822",
+        "dub": null,
+        "url": "https://www.animegg.org/senjuushi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/91885",
+        "dub": null,
+        "url": "https://www.animegg.org/senjuushi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/92015",
+        "dub": null,
+        "url": "https://www.animegg.org/senjuushi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/92112",
+        "dub": null,
+        "url": "https://www.animegg.org/senjuushi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/92214",
+        "dub": null,
+        "url": "https://www.animegg.org/senjuushi-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/92289",
+        "dub": null,
+        "url": "https://www.animegg.org/senjuushi-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/92446",
+        "dub": null,
+        "url": "https://www.animegg.org/senjuushi-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/92629",
+        "dub": null,
+        "url": "https://www.animegg.org/senjuushi-episode-9"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/92907",
+        "dub": null,
+        "url": "https://www.animegg.org/senjuushi-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/93007",
+        "dub": null,
+        "url": "https://www.animegg.org/senjuushi-episode-12"
+      }
+    ]
   }
 ]
