@@ -5684,5 +5684,57 @@
         "url": "https://www.animegg.org/amanchu-advance-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3147,
+    "title": "Amagi Brilliant Park Specials",
+    "animegg_url": "https://www.animegg.org/series/amagi-brilliant-park-specials",
+    "mal_url": "https://myanimelist.net/anime/30056",
+    "mal_id": 30056,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/74968",
+        "dub": null,
+        "url": "https://www.animegg.org/amagi-brilliant-park-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/74969",
+        "dub": null,
+        "url": "https://www.animegg.org/amagi-brilliant-park-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/75657",
+        "dub": null,
+        "url": "https://www.animegg.org/amagi-brilliant-park-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/77418",
+        "dub": null,
+        "url": "https://www.animegg.org/amagi-brilliant-park-specials-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/77438",
+        "dub": null,
+        "url": "https://www.animegg.org/amagi-brilliant-park-specials-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/77472",
+        "dub": null,
+        "url": "https://www.animegg.org/amagi-brilliant-park-specials-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/77781",
+        "dub": null,
+        "url": "https://www.animegg.org/amagi-brilliant-park-specials-episode-7"
+      }
+    ]
   }
 ]
