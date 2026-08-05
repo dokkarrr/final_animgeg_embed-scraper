@@ -126936,5 +126936,21 @@
         "url": "https://www.animegg.org/gokushufudou-episode-5"
       }
     ]
+  },
+  {
+    "serial_no": 4831,
+    "title": "Pokemon 3: The Movie - Spell of the Unown",
+    "animegg_url": "https://www.animegg.org/series/pokemon-3-the-movie---spell-of-the-unown",
+    "mal_url": "https://myanimelist.net/anime/528",
+    "mal_id": 528,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/60201",
+        "dub": null,
+        "url": "https://www.animegg.org/pokemon-3-the-movie---spell-of-the-unown-episode-1"
+      }
+    ]
   }
 ]
