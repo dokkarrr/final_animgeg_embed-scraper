@@ -21832,5 +21832,87 @@
         "url": "https://www.animegg.org/tsukipro-the-animation-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3332,
+    "title": "Popotan",
+    "animegg_url": "https://www.animegg.org/series/popotan",
+    "mal_url": "https://myanimelist.net/anime/610",
+    "mal_id": 610,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/30517",
+        "dub": "https://www.animegg.org/embed/30518",
+        "url": "https://www.animegg.org/popotan-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/30513",
+        "dub": "https://www.animegg.org/embed/30514",
+        "url": "https://www.animegg.org/popotan-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/30515",
+        "dub": "https://www.animegg.org/embed/30516",
+        "url": "https://www.animegg.org/popotan-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/30509",
+        "dub": "https://www.animegg.org/embed/30510",
+        "url": "https://www.animegg.org/popotan-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/30511",
+        "dub": "https://www.animegg.org/embed/30512",
+        "url": "https://www.animegg.org/popotan-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/30527",
+        "dub": "https://www.animegg.org/embed/30528",
+        "url": "https://www.animegg.org/popotan-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/30521",
+        "dub": "https://www.animegg.org/embed/30522",
+        "url": "https://www.animegg.org/popotan-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/30523",
+        "dub": "https://www.animegg.org/embed/30524",
+        "url": "https://www.animegg.org/popotan-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/30519",
+        "dub": "https://www.animegg.org/embed/30520",
+        "url": "https://www.animegg.org/popotan-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/30525",
+        "dub": "https://www.animegg.org/embed/30526",
+        "url": "https://www.animegg.org/popotan-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/30531",
+        "dub": "https://www.animegg.org/embed/30532",
+        "url": "https://www.animegg.org/popotan-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/30529",
+        "dub": "https://www.animegg.org/embed/30530",
+        "url": "https://www.animegg.org/popotan-episode-12"
+      }
+    ]
   }
 ]
