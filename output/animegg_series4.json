@@ -72974,5 +72974,87 @@
         "url": "https://www.animegg.org/synduality-noir-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 3999,
+    "title": "Endro~!",
+    "animegg_url": "https://www.animegg.org/series/endro",
+    "mal_url": "https://myanimelist.net/anime/38062",
+    "mal_id": 38062,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/94203",
+        "dub": null,
+        "url": "https://www.animegg.org/endro-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/94274",
+        "dub": null,
+        "url": "https://www.animegg.org/endro-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/94339",
+        "dub": null,
+        "url": "https://www.animegg.org/endro-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/94405",
+        "dub": null,
+        "url": "https://www.animegg.org/endro-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/94469",
+        "dub": null,
+        "url": "https://www.animegg.org/endro-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/94531",
+        "dub": null,
+        "url": "https://www.animegg.org/endro-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/94606",
+        "dub": null,
+        "url": "https://www.animegg.org/endro-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/94675",
+        "dub": null,
+        "url": "https://www.animegg.org/endro-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/94740",
+        "dub": null,
+        "url": "https://www.animegg.org/endro-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/94801",
+        "dub": null,
+        "url": "https://www.animegg.org/endro-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/94881",
+        "dub": null,
+        "url": "https://www.animegg.org/endro-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/94960",
+        "dub": null,
+        "url": "https://www.animegg.org/endro-episode-12"
+      }
+    ]
   }
 ]
