@@ -87264,5 +87264,39 @@
         "url": "https://www.animegg.org/rpg-fudousan-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4222,
+    "title": "Dogs: Bullets & Carnage",
+    "animegg_url": "https://www.animegg.org/series/dogs-bullets-carnage",
+    "mal_url": "https://myanimelist.net/anime/5593",
+    "mal_id": 5593,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/8955",
+        "dub": null,
+        "url": "https://www.animegg.org/dogs-bullets-carnage-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/8956",
+        "dub": null,
+        "url": "https://www.animegg.org/dogs-bullets-carnage-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/8957",
+        "dub": null,
+        "url": "https://www.animegg.org/dogs-bullets-carnage-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/8958",
+        "dub": null,
+        "url": "https://www.animegg.org/dogs-bullets-carnage-episode-4"
+      }
+    ]
   }
 ]
