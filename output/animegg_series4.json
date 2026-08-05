@@ -38294,5 +38294,93 @@
         "url": "https://www.animegg.org/marvel-future-avengers-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 3522,
+    "title": "Pugyuru",
+    "animegg_url": "https://www.animegg.org/series/pugyuru",
+    "mal_url": "https://myanimelist.net/anime/786",
+    "mal_id": 786,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/59546",
+        "dub": null,
+        "url": "https://www.animegg.org/pugyuru-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/59547",
+        "dub": null,
+        "url": "https://www.animegg.org/pugyuru-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/59548",
+        "dub": null,
+        "url": "https://www.animegg.org/pugyuru-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/59549",
+        "dub": null,
+        "url": "https://www.animegg.org/pugyuru-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/59550",
+        "dub": null,
+        "url": "https://www.animegg.org/pugyuru-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/59551",
+        "dub": null,
+        "url": "https://www.animegg.org/pugyuru-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/59552",
+        "dub": null,
+        "url": "https://www.animegg.org/pugyuru-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/59553",
+        "dub": null,
+        "url": "https://www.animegg.org/pugyuru-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/59554",
+        "dub": null,
+        "url": "https://www.animegg.org/pugyuru-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/59555",
+        "dub": null,
+        "url": "https://www.animegg.org/pugyuru-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/59556",
+        "dub": null,
+        "url": "https://www.animegg.org/pugyuru-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/59557",
+        "dub": null,
+        "url": "https://www.animegg.org/pugyuru-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/59558",
+        "dub": null,
+        "url": "https://www.animegg.org/pugyuru-episode-13"
+      }
+    ]
   }
 ]
