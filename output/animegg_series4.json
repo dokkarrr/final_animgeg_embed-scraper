@@ -136665,5 +136665,81 @@
         "url": "https://www.animegg.org/doraemon-nobitas-secret-gadget-museum-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4973,
+    "title": "Guraburu!",
+    "animegg_url": "https://www.animegg.org/series/guraburu",
+    "mal_url": "https://myanimelist.net/anime/41574",
+    "mal_id": 41574,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/99545",
+        "dub": null,
+        "url": "https://www.animegg.org/guraburu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/99622",
+        "dub": null,
+        "url": "https://www.animegg.org/guraburu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/99712",
+        "dub": null,
+        "url": "https://www.animegg.org/guraburu-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/99777",
+        "dub": null,
+        "url": "https://www.animegg.org/guraburu-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/99848",
+        "dub": null,
+        "url": "https://www.animegg.org/guraburu-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/99919",
+        "dub": null,
+        "url": "https://www.animegg.org/guraburu-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/99981",
+        "dub": null,
+        "url": "https://www.animegg.org/guraburu-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/100048",
+        "dub": null,
+        "url": "https://www.animegg.org/guraburu-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/100116",
+        "dub": null,
+        "url": "https://www.animegg.org/guraburu-episode-9"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/100274",
+        "dub": null,
+        "url": "https://www.animegg.org/guraburu-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/100335",
+        "dub": null,
+        "url": "https://www.animegg.org/guraburu-episode-12"
+      }
+    ]
   }
 ]
