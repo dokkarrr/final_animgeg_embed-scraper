@@ -29118,5 +29118,33 @@
         "url": "https://www.animegg.org/di-gi-charat-kuchi-kara-bazooka-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6099,
+    "title": "Another World",
+    "animegg_url": "https://www.animegg.org/series/another-world",
+    "mal_url": "https://myanimelist.net/anime/40295",
+    "mal_id": 40295,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/98538",
+        "dub": null,
+        "url": "https://www.animegg.org/another-world-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/98539",
+        "dub": null,
+        "url": "https://www.animegg.org/another-world-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/98540",
+        "dub": null,
+        "url": "https://www.animegg.org/another-world-episode-3"
+      }
+    ]
   }
 ]
