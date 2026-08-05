@@ -1730,5 +1730,87 @@
         "url": "https://www.animegg.org/arashi-no-yoru-ni-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5637,
+    "title": "Human Bug Daigaku",
+    "animegg_url": "https://www.animegg.org/series/human-bug-daigaku",
+    "mal_url": "https://myanimelist.net/anime/53012",
+    "mal_id": 53012,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/106032",
+        "dub": null,
+        "url": "https://www.animegg.org/human-bug-daigaku-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/106096",
+        "dub": null,
+        "url": "https://www.animegg.org/human-bug-daigaku-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/106156",
+        "dub": null,
+        "url": "https://www.animegg.org/human-bug-daigaku-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/106219",
+        "dub": null,
+        "url": "https://www.animegg.org/human-bug-daigaku-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/106277",
+        "dub": null,
+        "url": "https://www.animegg.org/human-bug-daigaku-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/106339",
+        "dub": null,
+        "url": "https://www.animegg.org/human-bug-daigaku-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/106398",
+        "dub": null,
+        "url": "https://www.animegg.org/human-bug-daigaku-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/106458",
+        "dub": null,
+        "url": "https://www.animegg.org/human-bug-daigaku-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/106519",
+        "dub": null,
+        "url": "https://www.animegg.org/human-bug-daigaku-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/106572",
+        "dub": null,
+        "url": "https://www.animegg.org/human-bug-daigaku-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/106624",
+        "dub": null,
+        "url": "https://www.animegg.org/human-bug-daigaku-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/106685",
+        "dub": null,
+        "url": "https://www.animegg.org/human-bug-daigaku-episode-12"
+      }
+    ]
   }
 ]
