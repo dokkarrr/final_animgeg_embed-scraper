@@ -11248,5 +11248,21 @@
         "url": "https://www.animegg.org/kyoto-teramachi-sanjou-no-holmes-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3215,
+    "title": "Tokyo Ghoul: \"Pinto\"",
+    "animegg_url": "https://www.animegg.org/series/tokyo-ghoul-pinto",
+    "mal_url": "https://myanimelist.net/anime/31297",
+    "mal_id": 31297,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/80494",
+        "dub": "https://www.animegg.org/embed/80532",
+        "url": "https://www.animegg.org/tokyo-ghoul-pinto-episode-1"
+      }
+    ]
   }
 ]
