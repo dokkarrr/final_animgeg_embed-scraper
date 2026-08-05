@@ -57896,5 +57896,21 @@
         "url": "https://www.animegg.org/ninja-collection-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3780,
+    "title": "Kara no Kyoukai 1: Fukan Fuukei",
+    "animegg_url": "https://www.animegg.org/series/kara-no-kyoukai-1-fukan-fuukei",
+    "mal_url": "https://myanimelist.net/anime/2593",
+    "mal_id": 2593,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/43070",
+        "dub": null,
+        "url": "https://www.animegg.org/kara-no-kyoukai-1-fukan-fuukei-episode-1"
+      }
+    ]
   }
 ]
