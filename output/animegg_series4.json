@@ -75568,5 +75568,27 @@
         "url": "https://www.animegg.org/hetalia-axis-powers-specials-episode-33"
       }
     ]
+  },
+  {
+    "serial_no": 4043,
+    "title": "Angel Densetsu",
+    "animegg_url": "https://www.animegg.org/series/angel-densetsu",
+    "mal_url": "https://myanimelist.net/anime/5251",
+    "mal_id": 5251,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/65829",
+        "dub": null,
+        "url": "https://www.animegg.org/angel-densetsu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/65830",
+        "dub": null,
+        "url": "https://www.animegg.org/angel-densetsu-episode-2"
+      }
+    ]
   }
 ]
