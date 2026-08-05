@@ -93012,5 +93012,81 @@
         "url": "https://www.animegg.org/gunjou-no-fanfare-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 4300,
+    "title": "Uglymug, Epicfighter",
+    "animegg_url": "https://www.animegg.org/series/uglymug-epicfighter",
+    "mal_url": "https://myanimelist.net/anime/60316",
+    "mal_id": 60316,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/141593",
+        "dub": null,
+        "url": "https://www.animegg.org/uglymug-epicfighter-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/141719",
+        "dub": null,
+        "url": "https://www.animegg.org/uglymug-epicfighter-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/141822",
+        "dub": null,
+        "url": "https://www.animegg.org/uglymug-epicfighter-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/141935",
+        "dub": null,
+        "url": "https://www.animegg.org/uglymug-epicfighter-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/142061",
+        "dub": null,
+        "url": "https://www.animegg.org/uglymug-epicfighter-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/142179",
+        "dub": null,
+        "url": "https://www.animegg.org/uglymug-epicfighter-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/142293",
+        "dub": null,
+        "url": "https://www.animegg.org/uglymug-epicfighter-episode-7"
+      },
+      {
+        "ep": 9,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/uglymug-epicfighter-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/uglymug-epicfighter-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/142547",
+        "dub": null,
+        "url": "https://www.animegg.org/uglymug-epicfighter-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/142670",
+        "dub": null,
+        "url": "https://www.animegg.org/uglymug-epicfighter-episode-12"
+      }
+    ]
   }
 ]
