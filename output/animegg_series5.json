@@ -69786,5 +69786,21 @@
         "url": "https://www.animegg.org/the-frontier-lord-begins-with-zero-subjects-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 6496,
+    "title": "Santa Company",
+    "animegg_url": "https://www.animegg.org/series/santa-company",
+    "mal_url": "https://myanimelist.net/anime/16381",
+    "mal_id": 16381,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/73729",
+        "dub": null,
+        "url": "https://www.animegg.org/santa-company-episode-1"
+      }
+    ]
   }
 ]
