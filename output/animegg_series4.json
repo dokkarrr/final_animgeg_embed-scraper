@@ -72268,5 +72268,27 @@
         "url": "https://www.animegg.org/angel-cop-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 3989,
+    "title": "Accel World OVA",
+    "animegg_url": "https://www.animegg.org/series/accel-world-ova",
+    "mal_url": "https://myanimelist.net/anime/13939",
+    "mal_id": 13939,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/386",
+        "dub": null,
+        "url": "https://www.animegg.org/accel-world-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/385",
+        "dub": null,
+        "url": "https://www.animegg.org/accel-world-ova-episode-2"
+      }
+    ]
   }
 ]
