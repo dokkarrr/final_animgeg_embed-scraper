@@ -127506,5 +127506,87 @@
         "url": "https://www.animegg.org/the-invisible-man-and-his-soon-to-be-wife-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4843,
+    "title": "Null Peta",
+    "animegg_url": "https://www.animegg.org/series/null-peta",
+    "mal_url": "https://myanimelist.net/anime/40178",
+    "mal_id": 40178,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/96603",
+        "dub": null,
+        "url": "https://www.animegg.org/null-peta-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/96692",
+        "dub": null,
+        "url": "https://www.animegg.org/null-peta-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/96756",
+        "dub": null,
+        "url": "https://www.animegg.org/null-peta-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/96824",
+        "dub": null,
+        "url": "https://www.animegg.org/null-peta-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/96887",
+        "dub": null,
+        "url": "https://www.animegg.org/null-peta-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/96947",
+        "dub": null,
+        "url": "https://www.animegg.org/null-peta-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/97008",
+        "dub": null,
+        "url": "https://www.animegg.org/null-peta-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/97074",
+        "dub": null,
+        "url": "https://www.animegg.org/null-peta-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/97144",
+        "dub": null,
+        "url": "https://www.animegg.org/null-peta-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/97207",
+        "dub": null,
+        "url": "https://www.animegg.org/null-peta-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/97275",
+        "dub": null,
+        "url": "https://www.animegg.org/null-peta-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/97337",
+        "dub": null,
+        "url": "https://www.animegg.org/null-peta-episode-12"
+      }
+    ]
   }
 ]
