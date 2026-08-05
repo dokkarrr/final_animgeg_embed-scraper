@@ -103118,5 +103118,21 @@
         "url": "https://www.animegg.org/already-invincible-at-the-beginning-episode-116"
       }
     ]
+  },
+  {
+    "serial_no": 6763,
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Memory Snow (Dub)",
+    "animegg_url": "https://www.animegg.org/series/rezero-kara-hajimeru-isekai-seikatsu---memory-snow-dub",
+    "mal_url": "https://myanimelist.net/anime/31240",
+    "mal_id": 31240,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/118581",
+        "dub": null,
+        "url": "https://www.animegg.org/rezero-kara-hajimeru-isekai-seikatsu---memory-snow-dub-episode-1"
+      }
+    ]
   }
 ]
