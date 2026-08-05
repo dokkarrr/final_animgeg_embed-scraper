@@ -122196,5 +122196,21 @@
         "url": "https://www.animegg.org/potion-danomi-de-ikinobimasu-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4765,
+    "title": "Children who Chase Lost Voices",
+    "animegg_url": "https://www.animegg.org/series/children-who-chase-lost-voices",
+    "mal_url": "https://myanimelist.net/anime/9760",
+    "mal_id": 9760,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/47733",
+        "dub": "https://www.animegg.org/embed/47734",
+        "url": "https://www.animegg.org/children-who-chase-lost-voices-episode-1"
+      }
+    ]
   }
 ]
