@@ -37188,5 +37188,57 @@
         "url": "https://www.animegg.org/motto-majime-ni-fumajime-kaiketsu-zorori-episode-9"
       }
     ]
+  },
+  {
+    "serial_no": 3502,
+    "title": "Sabagebu! Specials",
+    "animegg_url": "https://www.animegg.org/series/sabagebu-specials",
+    "mal_url": "https://myanimelist.net/anime/20709",
+    "mal_id": 20709,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/66510",
+        "dub": "https://www.animegg.org/embed/66608",
+        "url": "https://www.animegg.org/sabagebu-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/75264",
+        "dub": "https://www.animegg.org/embed/75475",
+        "url": "https://www.animegg.org/sabagebu-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/75455",
+        "dub": "https://www.animegg.org/embed/77006",
+        "url": "https://www.animegg.org/sabagebu-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/75456",
+        "dub": "https://www.animegg.org/embed/77035",
+        "url": "https://www.animegg.org/sabagebu-specials-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/75457",
+        "dub": "https://www.animegg.org/embed/77036",
+        "url": "https://www.animegg.org/sabagebu-specials-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/75458",
+        "dub": "https://www.animegg.org/embed/77032",
+        "url": "https://www.animegg.org/sabagebu-specials-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/sabagebu-specials-episode-7"
+      }
+    ]
   }
 ]
