@@ -100612,5 +100612,93 @@
         "url": "https://www.animegg.org/haiyore-nyaruko-san-f-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 4409,
+    "title": "Snack Basue",
+    "animegg_url": "https://www.animegg.org/series/snack-basue",
+    "mal_url": "https://myanimelist.net/anime/55636",
+    "mal_id": 55636,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/132669",
+        "dub": null,
+        "url": "https://www.animegg.org/snack-basue-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/132754",
+        "dub": null,
+        "url": "https://www.animegg.org/snack-basue-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/132825",
+        "dub": null,
+        "url": "https://www.animegg.org/snack-basue-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/snack-basue-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/132911",
+        "dub": null,
+        "url": "https://www.animegg.org/snack-basue-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/132988",
+        "dub": null,
+        "url": "https://www.animegg.org/snack-basue-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/133077",
+        "dub": null,
+        "url": "https://www.animegg.org/snack-basue-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/133152",
+        "dub": null,
+        "url": "https://www.animegg.org/snack-basue-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/133231",
+        "dub": null,
+        "url": "https://www.animegg.org/snack-basue-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/133313",
+        "dub": null,
+        "url": "https://www.animegg.org/snack-basue-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/133413",
+        "dub": null,
+        "url": "https://www.animegg.org/snack-basue-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/133492",
+        "dub": null,
+        "url": "https://www.animegg.org/snack-basue-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/snack-basue-episode-13"
+      }
+    ]
   }
 ]
