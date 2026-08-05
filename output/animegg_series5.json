@@ -68440,5 +68440,75 @@
         "url": "https://www.animegg.org/yami-shibai-9th-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6485,
+    "title": "Momentary Lily",
+    "animegg_url": "https://www.animegg.org/series/momentary-lily",
+    "mal_url": "https://myanimelist.net/anime/58739",
+    "mal_id": 58739,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/139413",
+        "dub": null,
+        "url": "https://www.animegg.org/momentary-lily-episode-3"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/139549",
+        "dub": null,
+        "url": "https://www.animegg.org/momentary-lily-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/139654",
+        "dub": null,
+        "url": "https://www.animegg.org/momentary-lily-episode-6"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/139826",
+        "dub": null,
+        "url": "https://www.animegg.org/momentary-lily-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/139932",
+        "dub": null,
+        "url": "https://www.animegg.org/momentary-lily-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/140031",
+        "dub": null,
+        "url": "https://www.animegg.org/momentary-lily-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/140123",
+        "dub": null,
+        "url": "https://www.animegg.org/momentary-lily-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/140188",
+        "dub": null,
+        "url": "https://www.animegg.org/momentary-lily-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/140283",
+        "dub": null,
+        "url": "https://www.animegg.org/momentary-lily-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/140348",
+        "dub": null,
+        "url": "https://www.animegg.org/momentary-lily-episode-14"
+      }
+    ]
   }
 ]
