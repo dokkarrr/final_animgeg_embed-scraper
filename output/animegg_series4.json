@@ -127228,5 +127228,27 @@
         "url": "https://www.animegg.org/bungaku-shoujo-memoire-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 4838,
+    "title": "Hanayaka Nari, Waga Ichizoku: Kinetograph",
+    "animegg_url": "https://www.animegg.org/series/hanayaka-nari-waga-ichizoku-kinetograph",
+    "mal_url": "https://myanimelist.net/anime/14145",
+    "mal_id": 14145,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/15347",
+        "dub": null,
+        "url": "https://www.animegg.org/hanayaka-nari-waga-ichizoku-kinetograph-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/15346",
+        "dub": null,
+        "url": "https://www.animegg.org/hanayaka-nari-waga-ichizoku-kinetograph-episode-2"
+      }
+    ]
   }
 ]
