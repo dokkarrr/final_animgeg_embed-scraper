@@ -89730,5 +89730,39 @@
         "url": "https://www.animegg.org/koori-zokusei-danshi-to-cool-na-douryou-joshi-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4264,
+    "title": "Armitage III",
+    "animegg_url": "https://www.animegg.org/series/armitage-iii",
+    "mal_url": "https://myanimelist.net/anime/1079",
+    "mal_id": 1079,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/65666",
+        "dub": "https://www.animegg.org/embed/68731",
+        "url": "https://www.animegg.org/armitage-iii-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/65667",
+        "dub": "https://www.animegg.org/embed/68729",
+        "url": "https://www.animegg.org/armitage-iii-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/65668",
+        "dub": "https://www.animegg.org/embed/68727",
+        "url": "https://www.animegg.org/armitage-iii-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/65669",
+        "dub": "https://www.animegg.org/embed/68726",
+        "url": "https://www.animegg.org/armitage-iii-episode-4"
+      }
+    ]
   }
 ]
