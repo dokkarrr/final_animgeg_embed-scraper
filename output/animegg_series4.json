@@ -86990,5 +86990,93 @@
         "url": "https://www.animegg.org/yami-shibai-12-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4218,
+    "title": "Journal with Witch",
+    "animegg_url": "https://www.animegg.org/series/journal-with-witch",
+    "mal_url": "https://myanimelist.net/anime/58788",
+    "mal_id": 58788,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/144063",
+        "dub": null,
+        "url": "https://www.animegg.org/journal-with-witch-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/144171",
+        "dub": null,
+        "url": "https://www.animegg.org/journal-with-witch-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/144261",
+        "dub": null,
+        "url": "https://www.animegg.org/journal-with-witch-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/144372",
+        "dub": null,
+        "url": "https://www.animegg.org/journal-with-witch-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/144469",
+        "dub": null,
+        "url": "https://www.animegg.org/journal-with-witch-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/144577",
+        "dub": null,
+        "url": "https://www.animegg.org/journal-with-witch-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/144671",
+        "dub": null,
+        "url": "https://www.animegg.org/journal-with-witch-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/144779",
+        "dub": null,
+        "url": "https://www.animegg.org/journal-with-witch-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/144874",
+        "dub": null,
+        "url": "https://www.animegg.org/journal-with-witch-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/144996",
+        "dub": null,
+        "url": "https://www.animegg.org/journal-with-witch-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/145098",
+        "dub": null,
+        "url": "https://www.animegg.org/journal-with-witch-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/145188",
+        "dub": null,
+        "url": "https://www.animegg.org/journal-with-witch-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/145294",
+        "dub": null,
+        "url": "https://www.animegg.org/journal-with-witch-episode-13"
+      }
+    ]
   }
 ]
