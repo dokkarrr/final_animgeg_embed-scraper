@@ -75740,5 +75740,51 @@
         "url": "https://www.animegg.org/kimi-ga-nozomu-eien-next-season-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 4047,
+    "title": "Legend of the Condor Hero III",
+    "animegg_url": "https://www.animegg.org/series/legend-of-the-condor-hero-iii",
+    "mal_url": "https://myanimelist.net/anime/5854",
+    "mal_id": 5854,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/55244",
+        "dub": null,
+        "url": "https://www.animegg.org/legend-of-the-condor-hero-iii-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/55245",
+        "dub": null,
+        "url": "https://www.animegg.org/legend-of-the-condor-hero-iii-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/55246",
+        "dub": null,
+        "url": "https://www.animegg.org/legend-of-the-condor-hero-iii-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/55247",
+        "dub": null,
+        "url": "https://www.animegg.org/legend-of-the-condor-hero-iii-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/55248",
+        "dub": null,
+        "url": "https://www.animegg.org/legend-of-the-condor-hero-iii-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/55249",
+        "dub": null,
+        "url": "https://www.animegg.org/legend-of-the-condor-hero-iii-episode-6"
+      }
+    ]
   }
 ]
