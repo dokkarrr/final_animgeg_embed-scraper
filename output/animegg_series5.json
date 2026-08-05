@@ -64469,5 +64469,21 @@
         "url": "https://www.animegg.org/uma-musume-pretty-derby---road-to-the-top-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 6440,
+    "title": "Urusei Yatsura Movie 2: Beautiful Dreamer",
+    "animegg_url": "https://www.animegg.org/series/urusei-yatsura-movie-2-beautiful-dreamer",
+    "mal_url": "https://myanimelist.net/anime/1921",
+    "mal_id": 1921,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/64956",
+        "dub": null,
+        "url": "https://www.animegg.org/urusei-yatsura-movie-2-beautiful-dreamer-episode-1"
+      }
+    ]
   }
 ]
