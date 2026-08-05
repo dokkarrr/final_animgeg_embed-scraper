@@ -76274,5 +76274,87 @@
         "url": "https://www.animegg.org/koisuru-asteroid-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4056,
+    "title": "Teekyuu 9",
+    "animegg_url": "https://www.animegg.org/series/teekyuu-9",
+    "mal_url": "https://myanimelist.net/anime/35370",
+    "mal_id": 35370,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/88454",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-9-episode-12"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/88369",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-9-episode-11"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/88275",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-9-episode-10"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/88199",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-9-episode-9"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/88116",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-9-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/88044",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-9-episode-7"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/87955",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-9-episode-6"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/87881",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-9-episode-5"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/87809",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-9-episode-4"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/87716",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-9-episode-3"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/87649",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-9-episode-2"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/87577",
+        "dub": null,
+        "url": "https://www.animegg.org/teekyuu-9-episode-1"
+      }
+    ]
   }
 ]
