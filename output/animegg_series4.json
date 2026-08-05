@@ -35888,5 +35888,69 @@
         "url": "https://www.animegg.org/gunbuster-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3483,
+    "title": "Tokyo Revengers: Tenjiku-hen",
+    "animegg_url": "https://www.animegg.org/series/tokyo-revengers-tenjiku-hen",
+    "mal_url": "https://myanimelist.net/anime/54918",
+    "mal_id": 54918,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/131604",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-revengers-tenjiku-hen-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/131707",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-revengers-tenjiku-hen-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/131822",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-revengers-tenjiku-hen-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/131934",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-revengers-tenjiku-hen-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/132042",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-revengers-tenjiku-hen-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/132125",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-revengers-tenjiku-hen-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/132223",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-revengers-tenjiku-hen-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/132460",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-revengers-tenjiku-hen-episode-8"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/132568",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-revengers-tenjiku-hen-episode-13"
+      }
+    ]
   }
 ]
