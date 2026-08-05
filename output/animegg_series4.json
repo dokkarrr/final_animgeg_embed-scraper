@@ -133894,5 +133894,69 @@
         "url": "https://www.animegg.org/akazukin-chacha-ova-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 4934,
+    "title": "Zenonzard The Animation",
+    "animegg_url": "https://www.animegg.org/series/zenonzard-the-animation",
+    "mal_url": "https://myanimelist.net/anime/40940",
+    "mal_id": 40940,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/99433",
+        "dub": null,
+        "url": "https://www.animegg.org/zenonzard-the-animation-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/99454",
+        "dub": null,
+        "url": "https://www.animegg.org/zenonzard-the-animation-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/99455",
+        "dub": null,
+        "url": "https://www.animegg.org/zenonzard-the-animation-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/99456",
+        "dub": null,
+        "url": "https://www.animegg.org/zenonzard-the-animation-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/99457",
+        "dub": null,
+        "url": "https://www.animegg.org/zenonzard-the-animation-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/99458",
+        "dub": null,
+        "url": "https://www.animegg.org/zenonzard-the-animation-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/99432",
+        "dub": null,
+        "url": "https://www.animegg.org/zenonzard-the-animation-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/99494",
+        "dub": null,
+        "url": "https://www.animegg.org/zenonzard-the-animation-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/99822",
+        "dub": null,
+        "url": "https://www.animegg.org/zenonzard-the-animation-episode-9"
+      }
+    ]
   }
 ]
