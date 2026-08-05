@@ -98592,5 +98592,21 @@
         "url": "https://www.animegg.org/b-project-zecchou-emotion-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4387,
+    "title": "Redline",
+    "animegg_url": "https://www.animegg.org/series/redline",
+    "mal_url": "https://myanimelist.net/anime/6675",
+    "mal_id": 6675,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/44881",
+        "dub": "https://www.animegg.org/embed/44882",
+        "url": "https://www.animegg.org/redline-episode-1"
+      }
+    ]
   }
 ]
