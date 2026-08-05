@@ -111782,5 +111782,27 @@
         "url": "https://www.animegg.org/black-butler-emerald-witch-arc-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 6840,
+    "title": "Arifureta Shokugyou de Sekai Saikyou 2nd Season Specials",
+    "animegg_url": "https://www.animegg.org/series/arifureta-shokugyou-de-sekai-saikyou-2nd-season-specials",
+    "mal_url": "https://myanimelist.net/anime/36882",
+    "mal_id": 36882,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/105960",
+        "dub": null,
+        "url": "https://www.animegg.org/arifureta-shokugyou-de-sekai-saikyou-2nd-season-specials-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/105959",
+        "dub": null,
+        "url": "https://www.animegg.org/arifureta-shokugyou-de-sekai-saikyou-2nd-season-specials-episode-1"
+      }
+    ]
   }
 ]
