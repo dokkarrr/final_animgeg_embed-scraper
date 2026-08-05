@@ -105340,5 +105340,21 @@
         "url": "https://www.animegg.org/one-piece-episode-of-sorajima-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4502,
+    "title": "Stranger: Mukou Hadan",
+    "animegg_url": "https://www.animegg.org/series/stranger-mukou-hadan",
+    "mal_url": "https://myanimelist.net/anime/2418",
+    "mal_id": 2418,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/45431",
+        "dub": "https://www.animegg.org/embed/45432",
+        "url": "https://www.animegg.org/stranger-mukou-hadan-episode-1"
+      }
+    ]
   }
 ]
