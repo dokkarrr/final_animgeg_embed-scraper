@@ -70752,5 +70752,21 @@
         "url": "https://www.animegg.org/stand-by-me-doraemon-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 3964,
+    "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Movie: Orion no Ya",
+    "animegg_url": "https://www.animegg.org/series/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-movie-orion-no-ya",
+    "mal_url": "https://myanimelist.net/anime/37348",
+    "mal_id": 37348,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/95823",
+        "dub": null,
+        "url": "https://www.animegg.org/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-movie-orion-no-ya-episode-1"
+      }
+    ]
   }
 ]
