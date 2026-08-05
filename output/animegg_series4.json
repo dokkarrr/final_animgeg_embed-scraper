@@ -94470,5 +94470,87 @@
         "url": "https://www.animegg.org/aru-tabibito-no-nikki-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 4327,
+    "title": "Ganbare Douki-chan",
+    "animegg_url": "https://www.animegg.org/series/ganbare-douki-chan",
+    "mal_url": "https://myanimelist.net/anime/49605",
+    "mal_id": 49605,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/102810",
+        "dub": null,
+        "url": "https://www.animegg.org/ganbare-douki-chan-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/102863",
+        "dub": null,
+        "url": "https://www.animegg.org/ganbare-douki-chan-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/102947",
+        "dub": null,
+        "url": "https://www.animegg.org/ganbare-douki-chan-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/103016",
+        "dub": null,
+        "url": "https://www.animegg.org/ganbare-douki-chan-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/103078",
+        "dub": null,
+        "url": "https://www.animegg.org/ganbare-douki-chan-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/103140",
+        "dub": null,
+        "url": "https://www.animegg.org/ganbare-douki-chan-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/103199",
+        "dub": null,
+        "url": "https://www.animegg.org/ganbare-douki-chan-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/103266",
+        "dub": null,
+        "url": "https://www.animegg.org/ganbare-douki-chan-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/103326",
+        "dub": null,
+        "url": "https://www.animegg.org/ganbare-douki-chan-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/103384",
+        "dub": null,
+        "url": "https://www.animegg.org/ganbare-douki-chan-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/103448",
+        "dub": null,
+        "url": "https://www.animegg.org/ganbare-douki-chan-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/103507",
+        "dub": null,
+        "url": "https://www.animegg.org/ganbare-douki-chan-episode-12"
+      }
+    ]
   }
 ]
