@@ -45556,5 +45556,33 @@
         "url": "https://www.animegg.org/plastic-nee-san-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3617,
+    "title": "Fuyu no Semi",
+    "animegg_url": "https://www.animegg.org/series/fuyu-no-semi",
+    "mal_url": "https://myanimelist.net/anime/2238",
+    "mal_id": 2238,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/49507",
+        "dub": null,
+        "url": "https://www.animegg.org/fuyu-no-semi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/49508",
+        "dub": null,
+        "url": "https://www.animegg.org/fuyu-no-semi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/49509",
+        "dub": null,
+        "url": "https://www.animegg.org/fuyu-no-semi-episode-3"
+      }
+    ]
   }
 ]
