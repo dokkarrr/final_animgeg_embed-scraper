@@ -55178,5 +55178,87 @@
         "url": "https://www.animegg.org/mahouka-koukou-no-rettousei-3rd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3750,
+    "title": "Liar Liar",
+    "animegg_url": "https://www.animegg.org/series/liar-liar",
+    "mal_url": "https://myanimelist.net/anime/48633",
+    "mal_id": 48633,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/130117",
+        "dub": "https://www.animegg.org/embed/130514",
+        "url": "https://www.animegg.org/liar-liar-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/130088",
+        "dub": "https://www.animegg.org/embed/130515",
+        "url": "https://www.animegg.org/liar-liar-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/130254",
+        "dub": "https://www.animegg.org/embed/130680",
+        "url": "https://www.animegg.org/liar-liar-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/130503",
+        "dub": "https://www.animegg.org/embed/130804",
+        "url": "https://www.animegg.org/liar-liar-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/130672",
+        "dub": "https://www.animegg.org/embed/130897",
+        "url": "https://www.animegg.org/liar-liar-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/130793",
+        "dub": "https://www.animegg.org/embed/130975",
+        "url": "https://www.animegg.org/liar-liar-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/130886",
+        "dub": "https://www.animegg.org/embed/131067",
+        "url": "https://www.animegg.org/liar-liar-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/130963",
+        "dub": "https://www.animegg.org/embed/131164",
+        "url": "https://www.animegg.org/liar-liar-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/131056",
+        "dub": "https://www.animegg.org/embed/131264",
+        "url": "https://www.animegg.org/liar-liar-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/131148",
+        "dub": "https://www.animegg.org/embed/131361",
+        "url": "https://www.animegg.org/liar-liar-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/131254",
+        "dub": "https://www.animegg.org/embed/131468",
+        "url": "https://www.animegg.org/liar-liar-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/131350",
+        "dub": "https://www.animegg.org/embed/131544",
+        "url": "https://www.animegg.org/liar-liar-episode-12"
+      }
+    ]
   }
 ]
