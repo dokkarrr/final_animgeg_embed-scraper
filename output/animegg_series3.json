@@ -134475,5 +134475,75 @@
         "url": "https://www.animegg.org/nanatsu-no-taizai-ova-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 2691,
+    "title": "Bottom Biting Bug 4",
+    "animegg_url": "https://www.animegg.org/series/oshiri-kajiri-mushi-4",
+    "mal_url": "https://myanimelist.net/anime/31747",
+    "mal_id": 31747,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/80251",
+        "dub": null,
+        "url": "https://www.animegg.org/oshiri-kajiri-mushi-4-episode-10"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/80127",
+        "dub": null,
+        "url": "https://www.animegg.org/oshiri-kajiri-mushi-4-episode-9"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/80026",
+        "dub": null,
+        "url": "https://www.animegg.org/oshiri-kajiri-mushi-4-episode-8"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/79928",
+        "dub": null,
+        "url": "https://www.animegg.org/oshiri-kajiri-mushi-4-episode-7"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/79838",
+        "dub": null,
+        "url": "https://www.animegg.org/oshiri-kajiri-mushi-4-episode-6"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/79751",
+        "dub": null,
+        "url": "https://www.animegg.org/oshiri-kajiri-mushi-4-episode-5"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/79667",
+        "dub": null,
+        "url": "https://www.animegg.org/oshiri-kajiri-mushi-4-episode-4"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/79549",
+        "dub": null,
+        "url": "https://www.animegg.org/oshiri-kajiri-mushi-4-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/79444",
+        "dub": null,
+        "url": "https://www.animegg.org/oshiri-kajiri-mushi-4-episode-2"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/79316",
+        "dub": null,
+        "url": "https://www.animegg.org/oshiri-kajiri-mushi-4-episode-1"
+      }
+    ]
   }
 ]
