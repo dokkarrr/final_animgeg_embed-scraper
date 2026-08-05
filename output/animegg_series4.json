@@ -90658,5 +90658,21 @@
         "url": "https://www.animegg.org/pokemon-movie-18-ring-no-choumajin-hoopa-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4277,
+    "title": "Love Stage!! OVA",
+    "animegg_url": "https://www.animegg.org/series/love-stage-ova",
+    "mal_url": "https://myanimelist.net/anime/23441",
+    "mal_id": 23441,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/67171",
+        "dub": null,
+        "url": "https://www.animegg.org/love-stage-ova-episode-1"
+      }
+    ]
   }
 ]
