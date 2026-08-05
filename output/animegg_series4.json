@@ -110012,5 +110012,93 @@
         "url": "https://www.animegg.org/yu-gi-oh-sevens-dub-episode-89"
       }
     ]
+  },
+  {
+    "serial_no": 4569,
+    "title": "Tonari no Youkai-san",
+    "animegg_url": "https://www.animegg.org/series/tonari-no-youkai-san",
+    "mal_url": "https://myanimelist.net/anime/51461",
+    "mal_id": 51461,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/133553",
+        "dub": null,
+        "url": "https://www.animegg.org/tonari-no-youkai-san-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/133642",
+        "dub": null,
+        "url": "https://www.animegg.org/tonari-no-youkai-san-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/133719",
+        "dub": null,
+        "url": "https://www.animegg.org/tonari-no-youkai-san-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/133803",
+        "dub": null,
+        "url": "https://www.animegg.org/tonari-no-youkai-san-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/tonari-no-youkai-san-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/134082",
+        "dub": null,
+        "url": "https://www.animegg.org/tonari-no-youkai-san-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/134248",
+        "dub": null,
+        "url": "https://www.animegg.org/tonari-no-youkai-san-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/134449",
+        "dub": null,
+        "url": "https://www.animegg.org/tonari-no-youkai-san-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/134614",
+        "dub": null,
+        "url": "https://www.animegg.org/tonari-no-youkai-san-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/134766",
+        "dub": null,
+        "url": "https://www.animegg.org/tonari-no-youkai-san-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/134920",
+        "dub": null,
+        "url": "https://www.animegg.org/tonari-no-youkai-san-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/135097",
+        "dub": null,
+        "url": "https://www.animegg.org/tonari-no-youkai-san-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/135226",
+        "dub": null,
+        "url": "https://www.animegg.org/tonari-no-youkai-san-episode-13"
+      }
+    ]
   }
 ]
