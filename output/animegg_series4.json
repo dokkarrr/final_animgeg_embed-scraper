@@ -35952,5 +35952,87 @@
         "url": "https://www.animegg.org/tokyo-revengers-tenjiku-hen-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3484,
+    "title": "Nekopara",
+    "animegg_url": "https://www.animegg.org/series/nekopara",
+    "mal_url": "https://myanimelist.net/anime/38924",
+    "mal_id": 38924,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/97481",
+        "dub": null,
+        "url": "https://www.animegg.org/nekopara-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/97553",
+        "dub": null,
+        "url": "https://www.animegg.org/nekopara-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/97617",
+        "dub": null,
+        "url": "https://www.animegg.org/nekopara-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/97688",
+        "dub": null,
+        "url": "https://www.animegg.org/nekopara-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/97753",
+        "dub": null,
+        "url": "https://www.animegg.org/nekopara-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/97818",
+        "dub": null,
+        "url": "https://www.animegg.org/nekopara-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/97870",
+        "dub": null,
+        "url": "https://www.animegg.org/nekopara-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/97931",
+        "dub": null,
+        "url": "https://www.animegg.org/nekopara-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/97987",
+        "dub": null,
+        "url": "https://www.animegg.org/nekopara-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/98057",
+        "dub": null,
+        "url": "https://www.animegg.org/nekopara-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/98110",
+        "dub": null,
+        "url": "https://www.animegg.org/nekopara-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/98166",
+        "dub": null,
+        "url": "https://www.animegg.org/nekopara-episode-12"
+      }
+    ]
   }
 ]
