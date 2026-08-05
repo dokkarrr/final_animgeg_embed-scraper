@@ -135981,5 +135981,21 @@
         "url": "https://www.animegg.org/virtual-san-wa-miteiru-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4967,
+    "title": "Pokemon: Arceus and the Jewel of Life",
+    "animegg_url": "https://www.animegg.org/series/pokemon-arceus-and-the-jewel-of-life",
+    "mal_url": "https://myanimelist.net/anime/6178",
+    "mal_id": 6178,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/61277",
+        "dub": null,
+        "url": "https://www.animegg.org/pokemon-arceus-and-the-jewel-of-life-episode-1"
+      }
+    ]
   }
 ]
