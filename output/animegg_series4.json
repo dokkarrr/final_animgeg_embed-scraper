@@ -84272,5 +84272,27 @@
         "url": "https://www.animegg.org/mokei-senshi-gunpla-builders-beginning-g-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 4173,
+    "title": "Gintama: Aizome Kaori-hen",
+    "animegg_url": "https://www.animegg.org/series/gintama-aizome-kaori-hen",
+    "mal_url": "https://myanimelist.net/anime/32366",
+    "mal_id": 32366,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/83532",
+        "dub": null,
+        "url": "https://www.animegg.org/gintama-aizome-kaori-hen-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/85012",
+        "dub": "https://www.animegg.org/embed/85018",
+        "url": "https://www.animegg.org/gintama-aizome-kaori-hen-episode-2"
+      }
+    ]
   }
 ]
