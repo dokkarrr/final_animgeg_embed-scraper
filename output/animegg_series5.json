@@ -14102,5 +14102,33 @@
     "mal_id": 19645,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 5852,
+    "title": "Psycho-Pass 3: First Inspector",
+    "animegg_url": "https://www.animegg.org/series/psycho-pass-3-first-inspector",
+    "mal_url": "https://myanimelist.net/anime/40858",
+    "mal_id": 40858,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/98181",
+        "dub": "https://www.animegg.org/embed/141463",
+        "url": "https://www.animegg.org/psycho-pass-3-first-inspector-episode-3"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/98180",
+        "dub": null,
+        "url": "https://www.animegg.org/psycho-pass-3-first-inspector-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/98179",
+        "dub": "https://www.animegg.org/embed/141458",
+        "url": "https://www.animegg.org/psycho-pass-3-first-inspector-episode-1"
+      }
+    ]
   }
 ]
