@@ -26252,5 +26252,39 @@
         "url": "https://www.animegg.org/nyoro-n-churuya-san-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3378,
+    "title": "Vanquished Queens Specials",
+    "animegg_url": "https://www.animegg.org/series/vanquished-queens-specials",
+    "mal_url": "https://myanimelist.net/anime/18231",
+    "mal_id": 18231,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/39938",
+        "dub": null,
+        "url": "https://www.animegg.org/vanquished-queens-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/39937",
+        "dub": null,
+        "url": "https://www.animegg.org/vanquished-queens-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/84245",
+        "dub": null,
+        "url": "https://www.animegg.org/vanquished-queens-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/84246",
+        "dub": null,
+        "url": "https://www.animegg.org/vanquished-queens-specials-episode-4"
+      }
+    ]
   }
 ]
