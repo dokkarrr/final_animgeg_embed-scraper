@@ -23166,5 +23166,27 @@
         "url": "https://www.animegg.org/kaiketsu-zorori-da-da-da-daibouken-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6000,
+    "title": "Boku no Hero Academia (ONA)",
+    "animegg_url": "https://www.animegg.org/series/boku-no-hero-academia-ona",
+    "mal_url": "https://myanimelist.net/anime/51781",
+    "mal_id": 51781,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/105449",
+        "dub": null,
+        "url": "https://www.animegg.org/boku-no-hero-academia-ona-episode-1-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/105453",
+        "dub": null,
+        "url": "https://www.animegg.org/boku-no-hero-academia-ona-episode-2-1"
+      }
+    ]
   }
 ]
