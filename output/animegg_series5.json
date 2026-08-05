@@ -57851,5 +57851,21 @@
         "url": "https://www.animegg.org/project-a-ko-3-cinderella-rhapsody-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6383,
+    "title": "Sakura Internet",
+    "animegg_url": "https://www.animegg.org/series/sakura-internet",
+    "mal_url": "https://myanimelist.net/anime/34818",
+    "mal_id": 34818,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/86401",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-internet-episode-1"
+      }
+    ]
   }
 ]
