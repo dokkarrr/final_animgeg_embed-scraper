@@ -74332,5 +74332,57 @@
         "url": "https://www.animegg.org/tenchi-muyo-ryo-ohki-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4025,
+    "title": "PES: Peace Eco Smile",
+    "animegg_url": "https://www.animegg.org/series/pes-peace-eco-smile",
+    "mal_url": "https://myanimelist.net/anime/13427",
+    "mal_id": 13427,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/29388",
+        "dub": null,
+        "url": "https://www.animegg.org/pes-peace-eco-smile-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/29389",
+        "dub": null,
+        "url": "https://www.animegg.org/pes-peace-eco-smile-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/29393",
+        "dub": null,
+        "url": "https://www.animegg.org/pes-peace-eco-smile-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/29390",
+        "dub": null,
+        "url": "https://www.animegg.org/pes-peace-eco-smile-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/29391",
+        "dub": null,
+        "url": "https://www.animegg.org/pes-peace-eco-smile-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/29392",
+        "dub": null,
+        "url": "https://www.animegg.org/pes-peace-eco-smile-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/29394",
+        "dub": null,
+        "url": "https://www.animegg.org/pes-peace-eco-smile-episode-7"
+      }
+    ]
   }
 ]
