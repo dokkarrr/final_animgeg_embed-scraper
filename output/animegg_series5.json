@@ -34008,5 +34008,87 @@
         "url": "https://www.animegg.org/keroro-gunsou-movie-4-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6156,
+    "title": "Quanzhi Fashi VI",
+    "animegg_url": "https://www.animegg.org/series/quanzhi-fashi-vi",
+    "mal_url": "https://myanimelist.net/anime/49572",
+    "mal_id": 49572,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/108818",
+        "dub": null,
+        "url": "https://www.animegg.org/quanzhi-fashi-vi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/119302",
+        "dub": null,
+        "url": "https://www.animegg.org/quanzhi-fashi-vi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/119301",
+        "dub": null,
+        "url": "https://www.animegg.org/quanzhi-fashi-vi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/119300",
+        "dub": null,
+        "url": "https://www.animegg.org/quanzhi-fashi-vi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/119299",
+        "dub": null,
+        "url": "https://www.animegg.org/quanzhi-fashi-vi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/quanzhi-fashi-vi-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/119298",
+        "dub": null,
+        "url": "https://www.animegg.org/quanzhi-fashi-vi-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/119297",
+        "dub": null,
+        "url": "https://www.animegg.org/quanzhi-fashi-vi-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/quanzhi-fashi-vi-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/119305",
+        "dub": null,
+        "url": "https://www.animegg.org/quanzhi-fashi-vi-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/119304",
+        "dub": null,
+        "url": "https://www.animegg.org/quanzhi-fashi-vi-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/119303",
+        "dub": null,
+        "url": "https://www.animegg.org/quanzhi-fashi-vi-episode-12"
+      }
+    ]
   }
 ]
