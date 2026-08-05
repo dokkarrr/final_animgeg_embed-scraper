@@ -87078,5 +87078,51 @@
         "url": "https://www.animegg.org/journal-with-witch-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 4219,
+    "title": "Koitabi: True Tours Nanto",
+    "animegg_url": "https://www.animegg.org/series/koitabi-true-tours-nanto",
+    "mal_url": "https://myanimelist.net/anime/17635",
+    "mal_id": 17635,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/20638",
+        "dub": null,
+        "url": "https://www.animegg.org/koitabi-true-tours-nanto-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/20639",
+        "dub": null,
+        "url": "https://www.animegg.org/koitabi-true-tours-nanto-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/20637",
+        "dub": null,
+        "url": "https://www.animegg.org/koitabi-true-tours-nanto-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/20635",
+        "dub": null,
+        "url": "https://www.animegg.org/koitabi-true-tours-nanto-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/20636",
+        "dub": null,
+        "url": "https://www.animegg.org/koitabi-true-tours-nanto-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/20640",
+        "dub": null,
+        "url": "https://www.animegg.org/koitabi-true-tours-nanto-episode-6"
+      }
+    ]
   }
 ]
