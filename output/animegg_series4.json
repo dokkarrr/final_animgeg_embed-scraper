@@ -59788,5 +59788,75 @@
         "url": "https://www.animegg.org/birdy-the-mighty-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 3815,
+    "title": "Go For It, Nakamura!",
+    "animegg_url": "https://www.animegg.org/series/go-for-it-nakamura",
+    "mal_url": "https://myanimelist.net/anime/59551",
+    "mal_id": 59551,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/145324",
+        "dub": "https://www.animegg.org/embed/145336",
+        "url": "https://www.animegg.org/go-for-it-nakamura-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/145330",
+        "dub": "https://www.animegg.org/embed/145331",
+        "url": "https://www.animegg.org/go-for-it-nakamura-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/145418",
+        "dub": null,
+        "url": "https://www.animegg.org/go-for-it-nakamura-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/145443",
+        "dub": null,
+        "url": "https://www.animegg.org/go-for-it-nakamura-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/145483",
+        "dub": null,
+        "url": "https://www.animegg.org/go-for-it-nakamura-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/145544",
+        "dub": "https://www.animegg.org/embed/145558",
+        "url": "https://www.animegg.org/go-for-it-nakamura-episode-6"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/145734",
+        "dub": "https://www.animegg.org/embed/145744",
+        "url": "https://www.animegg.org/go-for-it-nakamura-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/145854",
+        "dub": "https://www.animegg.org/embed/145867",
+        "url": "https://www.animegg.org/go-for-it-nakamura-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/145961",
+        "dub": "https://www.animegg.org/embed/145971",
+        "url": "https://www.animegg.org/go-for-it-nakamura-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/146027",
+        "dub": null,
+        "url": "https://www.animegg.org/go-for-it-nakamura-episode-11"
+      }
+    ]
   }
 ]
