@@ -137413,5 +137413,33 @@
         "url": "https://www.animegg.org/bucchigire-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4989,
+    "title": "Kagaku Ninja-Tai Gatchaman (OVA)",
+    "animegg_url": "https://www.animegg.org/series/kagaku-ninja-tai-gatchaman-ova",
+    "mal_url": "https://myanimelist.net/anime/3154",
+    "mal_id": 3154,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/54865",
+        "dub": "https://www.animegg.org/embed/54866",
+        "url": "https://www.animegg.org/kagaku-ninja-tai-gatchaman-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/54867",
+        "dub": "https://www.animegg.org/embed/54868",
+        "url": "https://www.animegg.org/kagaku-ninja-tai-gatchaman-ova-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/54869",
+        "dub": "https://www.animegg.org/embed/54870",
+        "url": "https://www.animegg.org/kagaku-ninja-tai-gatchaman-ova-episode-3"
+      }
+    ]
   }
 ]
