@@ -60312,5 +60312,87 @@
         "url": "https://www.animegg.org/code-geass-lelouch-of-the-rebellion-r2-special-edition-zero-requiem-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3826,
+    "title": "Shakunetsu Kabaddi",
+    "animegg_url": "https://www.animegg.org/series/shakunetsu-kabaddi",
+    "mal_url": "https://myanimelist.net/anime/42395",
+    "mal_id": 42395,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/101332",
+        "dub": null,
+        "url": "https://www.animegg.org/shakunetsu-kabaddi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/101381",
+        "dub": null,
+        "url": "https://www.animegg.org/shakunetsu-kabaddi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/101448",
+        "dub": null,
+        "url": "https://www.animegg.org/shakunetsu-kabaddi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/101510",
+        "dub": null,
+        "url": "https://www.animegg.org/shakunetsu-kabaddi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/101575",
+        "dub": null,
+        "url": "https://www.animegg.org/shakunetsu-kabaddi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/101637",
+        "dub": null,
+        "url": "https://www.animegg.org/shakunetsu-kabaddi-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/101704",
+        "dub": null,
+        "url": "https://www.animegg.org/shakunetsu-kabaddi-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/101781",
+        "dub": null,
+        "url": "https://www.animegg.org/shakunetsu-kabaddi-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/101848",
+        "dub": null,
+        "url": "https://www.animegg.org/shakunetsu-kabaddi-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/101925",
+        "dub": null,
+        "url": "https://www.animegg.org/shakunetsu-kabaddi-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/101997",
+        "dub": null,
+        "url": "https://www.animegg.org/shakunetsu-kabaddi-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/102071",
+        "dub": null,
+        "url": "https://www.animegg.org/shakunetsu-kabaddi-episode-12"
+      }
+    ]
   }
 ]
