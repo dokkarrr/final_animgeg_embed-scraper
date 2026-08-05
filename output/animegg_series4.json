@@ -55426,5 +55426,33 @@
         "url": "https://www.animegg.org/uchuu-senkan-yamato-2202-ai-no-senshi-tachi-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3752,
+    "title": "Free! Specials",
+    "animegg_url": "https://www.animegg.org/series/free-specials",
+    "mal_url": "https://myanimelist.net/anime/37596",
+    "mal_id": 37596,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/11201",
+        "dub": null,
+        "url": "https://www.animegg.org/free-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/11200",
+        "dub": null,
+        "url": "https://www.animegg.org/free-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/11202",
+        "dub": null,
+        "url": "https://www.animegg.org/free-specials-episode-3"
+      }
+    ]
   }
 ]
