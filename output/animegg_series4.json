@@ -94216,5 +94216,57 @@
         "url": "https://www.animegg.org/denpa-teki-na-kanojo-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 4322,
+    "title": "Lamune Specials",
+    "animegg_url": "https://www.animegg.org/series/lamune-specials",
+    "mal_url": "https://myanimelist.net/anime/42822",
+    "mal_id": 42822,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/54542",
+        "dub": null,
+        "url": "https://www.animegg.org/lamune-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/54543",
+        "dub": null,
+        "url": "https://www.animegg.org/lamune-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/54544",
+        "dub": null,
+        "url": "https://www.animegg.org/lamune-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/54545",
+        "dub": null,
+        "url": "https://www.animegg.org/lamune-specials-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/54546",
+        "dub": null,
+        "url": "https://www.animegg.org/lamune-specials-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/54547",
+        "dub": null,
+        "url": "https://www.animegg.org/lamune-specials-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/lamune-specials-episode-7"
+      }
+    ]
   }
 ]
