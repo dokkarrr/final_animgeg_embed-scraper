@@ -30454,5 +30454,21 @@
         "url": "https://www.animegg.org/keroro-gunsou-movie-3-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6124,
+    "title": "This Boy Can Fight Aliens",
+    "animegg_url": "https://www.animegg.org/series/this-boy-can-fight-aliens",
+    "mal_url": "https://myanimelist.net/anime/11355",
+    "mal_id": 11355,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/63899",
+        "dub": "https://www.animegg.org/embed/63900",
+        "url": "https://www.animegg.org/this-boy-can-fight-aliens-episode-1"
+      }
+    ]
   }
 ]
