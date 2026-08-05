@@ -96068,5 +96068,39 @@
         "url": "https://www.animegg.org/hangyakusei-million-arthur-2nd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4356,
+    "title": "Vampire Hunter",
+    "animegg_url": "https://www.animegg.org/series/vampire-hunter",
+    "mal_url": "https://myanimelist.net/anime/1952",
+    "mal_id": 1952,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/64507",
+        "dub": "https://www.animegg.org/embed/64508",
+        "url": "https://www.animegg.org/vampire-hunter-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/64509",
+        "dub": "https://www.animegg.org/embed/64510",
+        "url": "https://www.animegg.org/vampire-hunter-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/64511",
+        "dub": "https://www.animegg.org/embed/64512",
+        "url": "https://www.animegg.org/vampire-hunter-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/64513",
+        "dub": "https://www.animegg.org/embed/64514",
+        "url": "https://www.animegg.org/vampire-hunter-episode-4"
+      }
+    ]
   }
 ]
