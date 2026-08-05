@@ -116030,5 +116030,81 @@
         "url": "https://www.animegg.org/aura-maryuuinkouga-saigo-no-tatakai-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4677,
+    "title": "Yuuki Bakuhatsu Bang Bravern",
+    "animegg_url": "https://www.animegg.org/series/yuuki-bakuhatsu-bang-bravern",
+    "mal_url": "https://myanimelist.net/anime/55528",
+    "mal_id": 55528,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/yuuki-bakuhatsu-bang-bravern-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/132743",
+        "dub": null,
+        "url": "https://www.animegg.org/yuuki-bakuhatsu-bang-bravern-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/132813",
+        "dub": null,
+        "url": "https://www.animegg.org/yuuki-bakuhatsu-bang-bravern-episode-3"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/132901",
+        "dub": null,
+        "url": "https://www.animegg.org/yuuki-bakuhatsu-bang-bravern-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/132978",
+        "dub": null,
+        "url": "https://www.animegg.org/yuuki-bakuhatsu-bang-bravern-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/133060",
+        "dub": null,
+        "url": "https://www.animegg.org/yuuki-bakuhatsu-bang-bravern-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/133136",
+        "dub": null,
+        "url": "https://www.animegg.org/yuuki-bakuhatsu-bang-bravern-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/yuuki-bakuhatsu-bang-bravern-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/133301",
+        "dub": null,
+        "url": "https://www.animegg.org/yuuki-bakuhatsu-bang-bravern-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/133397",
+        "dub": null,
+        "url": "https://www.animegg.org/yuuki-bakuhatsu-bang-bravern-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/yuuki-bakuhatsu-bang-bravern-episode-12"
+      }
+    ]
   }
 ]
