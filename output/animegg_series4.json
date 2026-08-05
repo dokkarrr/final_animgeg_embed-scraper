@@ -132678,5 +132678,21 @@
         "url": "https://www.animegg.org/ramen-akaneko-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4918,
+    "title": "Code Geass: Hangyaku no Lelouch - Kiseki no Birthday Picture Drama",
+    "animegg_url": "https://www.animegg.org/series/code-geass-hangyaku-no-lelouch---kiseki-no-birthday-picture-drama",
+    "mal_url": "https://myanimelist.net/anime/1575",
+    "mal_id": 1575,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/47113",
+        "dub": null,
+        "url": "https://www.animegg.org/code-geass-hangyaku-no-lelouch---kiseki-no-birthday-picture-drama-episode-1"
+      }
+    ]
   }
 ]
