@@ -14638,5 +14638,21 @@
         "url": "https://www.animegg.org/toaru-majutsu-no-index-specials-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 5857,
+    "title": "Mardock Scramble: The Third Exhaust",
+    "animegg_url": "https://www.animegg.org/series/mardock-scramble-the-third-exhaust",
+    "mal_url": "https://myanimelist.net/anime/12053",
+    "mal_id": 12053,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/57384",
+        "dub": "https://www.animegg.org/embed/57385",
+        "url": "https://www.animegg.org/mardock-scramble-the-third-exhaust-episode-1"
+      }
+    ]
   }
 ]
