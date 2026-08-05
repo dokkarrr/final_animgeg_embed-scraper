@@ -62413,5 +62413,21 @@
         "url": "https://www.animegg.org/taiyou-no-yuusha-figh-bird-episode-48"
       }
     ]
+  },
+  {
+    "serial_no": 6418,
+    "title": "Urusei Yatsura Movie 1: Only You",
+    "animegg_url": "https://www.animegg.org/series/urusei-yatsura-movie-1-only-you",
+    "mal_url": "https://myanimelist.net/anime/1920",
+    "mal_id": 1920,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/64955",
+        "dub": null,
+        "url": "https://www.animegg.org/urusei-yatsura-movie-1-only-you-episode-1"
+      }
+    ]
   }
 ]
