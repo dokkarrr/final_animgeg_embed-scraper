@@ -43160,5 +43160,33 @@
         "url": "https://www.animegg.org/tensei-oujo-to-tensai-reijou-no-mahou-kakumei-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3588,
+    "title": "Chainsmoker Cat",
+    "animegg_url": "https://www.animegg.org/series/chainsmoker-cat",
+    "mal_url": "https://myanimelist.net/anime/63403",
+    "mal_id": 63403,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/146286",
+        "dub": "https://www.animegg.org/embed/146458",
+        "url": "https://www.animegg.org/chainsmoker-cat-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/146361",
+        "dub": null,
+        "url": "https://www.animegg.org/chainsmoker-cat-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/146455",
+        "dub": null,
+        "url": "https://www.animegg.org/chainsmoker-cat-episode-3"
+      }
+    ]
   }
 ]
