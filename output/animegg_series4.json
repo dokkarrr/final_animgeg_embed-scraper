@@ -88176,5 +88176,87 @@
         "url": "https://www.animegg.org/hoshifuru-oukoku-no-nina-episode-7"
       }
     ]
+  },
+  {
+    "serial_no": 4237,
+    "title": "One punch man season 3",
+    "animegg_url": "https://www.animegg.org/series/one-punch-man-season-3",
+    "mal_url": "https://myanimelist.net/anime/52807",
+    "mal_id": 52807,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/144014",
+        "dub": "https://www.animegg.org/embed/144682",
+        "url": "https://www.animegg.org/one-punch-man-season-3-episode-12"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/143941",
+        "dub": "https://www.animegg.org/embed/144581",
+        "url": "https://www.animegg.org/one-punch-man-season-3-episode-11"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/143831",
+        "dub": "https://www.animegg.org/embed/144476",
+        "url": "https://www.animegg.org/one-punch-man-season-3-episode-10"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/143726",
+        "dub": "https://www.animegg.org/embed/144394",
+        "url": "https://www.animegg.org/one-punch-man-season-3-episode-9"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/143621",
+        "dub": "https://www.animegg.org/embed/144255",
+        "url": "https://www.animegg.org/one-punch-man-season-3-episode-8"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/144155",
+        "dub": null,
+        "url": "https://www.animegg.org/one-punch-man-season-3-episode-7"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/143420",
+        "dub": "https://www.animegg.org/embed/144058",
+        "url": "https://www.animegg.org/one-punch-man-english-subbed-season-3-episode-6"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/143312",
+        "dub": "https://www.animegg.org/embed/144020",
+        "url": "https://www.animegg.org/one-punch-man-season-3-episode-5"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/143194",
+        "dub": "https://www.animegg.org/embed/143955",
+        "url": "https://www.animegg.org/one-punch-man-season-3-episode-4"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/143090",
+        "dub": "https://www.animegg.org/embed/143867",
+        "url": "https://www.animegg.org/one-punch-man-season-3-episode-3"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/142991",
+        "dub": "https://www.animegg.org/embed/143722",
+        "url": "https://www.animegg.org/one-punch-man-season-3-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/142903",
+        "dub": null,
+        "url": "https://www.animegg.org/one-punch-man-season-3-episode-1"
+      }
+    ]
   }
 ]
