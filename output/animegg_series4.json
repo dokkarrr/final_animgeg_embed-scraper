@@ -108242,5 +108242,27 @@
         "url": "https://www.animegg.org/yu-gi-oh-5ds-evolving-duel-stardust-vs-red-daemons-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4545,
+    "title": "Kampfer Fur Die Liebe",
+    "animegg_url": "https://www.animegg.org/series/kampfer-fur-die-liebe",
+    "mal_url": "https://myanimelist.net/anime/10076",
+    "mal_id": 10076,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/19471",
+        "dub": null,
+        "url": "https://www.animegg.org/kampfer-fur-die-liebe-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/19470",
+        "dub": null,
+        "url": "https://www.animegg.org/kampfer-fur-die-liebe-episode-14"
+      }
+    ]
   }
 ]
