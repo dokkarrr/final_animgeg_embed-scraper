@@ -129820,5 +129820,33 @@
         "url": "https://www.animegg.org/saihate-no-paladin-tetsusabi-no-yama-no-ou-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4880,
+    "title": "Le Portrait de Petit Cossette",
+    "animegg_url": "https://www.animegg.org/series/le-portrait-de-petit-cossette",
+    "mal_url": "https://myanimelist.net/anime/514",
+    "mal_id": 514,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/21456",
+        "dub": null,
+        "url": "https://www.animegg.org/le-portrait-de-petit-cossette-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/21455",
+        "dub": null,
+        "url": "https://www.animegg.org/le-portrait-de-petit-cossette-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/21457",
+        "dub": null,
+        "url": "https://www.animegg.org/le-portrait-de-petit-cossette-episode-3"
+      }
+    ]
   }
 ]
