@@ -75028,5 +75028,33 @@
         "url": "https://www.animegg.org/gimai-seikatsu-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4034,
+    "title": "Papa no Iukoto wo Kikinasai! OVA",
+    "animegg_url": "https://www.animegg.org/series/papa-no-iukoto-wo-kikinasai-ova",
+    "mal_url": "https://myanimelist.net/anime/17875",
+    "mal_id": 17875,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/29153",
+        "dub": null,
+        "url": "https://www.animegg.org/papa-no-iukoto-wo-kikinasai-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/75857",
+        "dub": "https://www.animegg.org/embed/76045",
+        "url": "https://www.animegg.org/papa-no-iukoto-wo-kikinasai-ova-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/papa-no-iukoto-wo-kikinasai-ova-episode-3"
+      }
+    ]
   }
 ]
