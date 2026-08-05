@@ -54828,5 +54828,21 @@
         "url": "https://www.animegg.org/ex-driver-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 3742,
+    "title": "Ghost in the Shell",
+    "animegg_url": "https://www.animegg.org/series/ghost-in-the-shell",
+    "mal_url": "https://myanimelist.net/anime/43",
+    "mal_id": 43,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/51866",
+        "dub": null,
+        "url": "https://www.animegg.org/ghost-in-the-shell-episode-1"
+      }
+    ]
   }
 ]
