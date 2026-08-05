@@ -112332,5 +112332,21 @@
         "url": "https://www.animegg.org/i-am-the-strongest-hero-episode-45"
       }
     ]
+  },
+  {
+    "serial_no": 6844,
+    "title": "BanG Dream! Special",
+    "animegg_url": "https://www.animegg.org/series/bang-dream-special",
+    "mal_url": "https://myanimelist.net/anime/34870",
+    "mal_id": 34870,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/89278",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-special-episode-1"
+      }
+    ]
   }
 ]
