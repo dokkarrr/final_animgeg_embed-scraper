@@ -106068,5 +106068,51 @@
         "url": "https://www.animegg.org/natsunagu-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4513,
+    "title": "Potemayo Specials",
+    "animegg_url": "https://www.animegg.org/series/potemayo-specials",
+    "mal_url": "https://myanimelist.net/anime/3292",
+    "mal_id": 3292,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/30547",
+        "dub": null,
+        "url": "https://www.animegg.org/potemayo-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/30549",
+        "dub": null,
+        "url": "https://www.animegg.org/potemayo-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/30546",
+        "dub": null,
+        "url": "https://www.animegg.org/potemayo-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/30548",
+        "dub": null,
+        "url": "https://www.animegg.org/potemayo-specials-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/30545",
+        "dub": null,
+        "url": "https://www.animegg.org/potemayo-specials-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/30550",
+        "dub": null,
+        "url": "https://www.animegg.org/potemayo-specials-episode-6"
+      }
+    ]
   }
 ]
