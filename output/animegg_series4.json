@@ -74384,5 +74384,87 @@
         "url": "https://www.animegg.org/pes-peace-eco-smile-episode-7"
       }
     ]
+  },
+  {
+    "serial_no": 4026,
+    "title": "Kyuujitsu no Warumono-san",
+    "animegg_url": "https://www.animegg.org/series/kyuujitsu-no-warumono-san",
+    "mal_url": "https://myanimelist.net/anime/54617",
+    "mal_id": 54617,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/132624",
+        "dub": null,
+        "url": "https://www.animegg.org/kyuujitsu-no-warumono-san-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/132694",
+        "dub": null,
+        "url": "https://www.animegg.org/kyuujitsu-no-warumono-san-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kyuujitsu-no-warumono-san-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/132857",
+        "dub": null,
+        "url": "https://www.animegg.org/kyuujitsu-no-warumono-san-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kyuujitsu-no-warumono-san-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/132945",
+        "dub": null,
+        "url": "https://www.animegg.org/kyuujitsu-no-warumono-san-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/133022",
+        "dub": null,
+        "url": "https://www.animegg.org/kyuujitsu-no-warumono-san-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/133109",
+        "dub": null,
+        "url": "https://www.animegg.org/kyuujitsu-no-warumono-san-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/133182",
+        "dub": null,
+        "url": "https://www.animegg.org/kyuujitsu-no-warumono-san-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/133263",
+        "dub": null,
+        "url": "https://www.animegg.org/kyuujitsu-no-warumono-san-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/133351",
+        "dub": null,
+        "url": "https://www.animegg.org/kyuujitsu-no-warumono-san-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/133445",
+        "dub": null,
+        "url": "https://www.animegg.org/kyuujitsu-no-warumono-san-episode-12"
+      }
+    ]
   }
 ]
