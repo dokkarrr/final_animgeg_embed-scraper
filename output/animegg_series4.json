@@ -110198,5 +110198,51 @@
         "url": "https://www.animegg.org/dimension-high-school-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4572,
+    "title": "A Hundred Scenes of Awajima",
+    "animegg_url": "https://www.animegg.org/series/a-hundred-scenes-of-awajima",
+    "mal_url": "https://myanimelist.net/anime/58820",
+    "mal_id": 58820,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/145414",
+        "dub": null,
+        "url": "https://www.animegg.org/a-hundred-scenes-of-awajima-episode-1"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/145579",
+        "dub": null,
+        "url": "https://www.animegg.org/a-hundred-scenes-of-awajima-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/145660",
+        "dub": null,
+        "url": "https://www.animegg.org/a-hundred-scenes-of-awajima-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/145755",
+        "dub": null,
+        "url": "https://www.animegg.org/a-hundred-scenes-of-awajima-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/145875",
+        "dub": null,
+        "url": "https://www.animegg.org/a-hundred-scenes-of-awajima-episode-7"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/146215",
+        "dub": null,
+        "url": "https://www.animegg.org/a-hundred-scenes-of-awajima-episode-12"
+      }
+    ]
   }
 ]
