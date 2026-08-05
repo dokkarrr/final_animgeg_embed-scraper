@@ -53454,5 +53454,51 @@
         "url": "https://www.animegg.org/kono-danshi-mahou-ga-oshigoto-desu-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 3721,
+    "title": "I''s Pure",
+    "animegg_url": "https://www.animegg.org/series/i",
+    "mal_url": "https://myanimelist.net/anime/811",
+    "mal_id": 811,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/17332",
+        "dub": "https://www.animegg.org/embed/70591",
+        "url": "https://www.animegg.org/i-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/17330",
+        "dub": "https://www.animegg.org/embed/70589",
+        "url": "https://www.animegg.org/i-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/17333",
+        "dub": "https://www.animegg.org/embed/70587",
+        "url": "https://www.animegg.org/i-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/17331",
+        "dub": "https://www.animegg.org/embed/70585",
+        "url": "https://www.animegg.org/i-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/17334",
+        "dub": "https://www.animegg.org/embed/70583",
+        "url": "https://www.animegg.org/i-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/17335",
+        "dub": "https://www.animegg.org/embed/70574",
+        "url": "https://www.animegg.org/i-episode-6"
+      }
+    ]
   }
 ]
