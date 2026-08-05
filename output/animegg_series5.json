@@ -19920,5 +19920,21 @@
         "url": "https://www.animegg.org/keroro-gunsou-movie-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5967,
+    "title": "Mary to Majo no Hana",
+    "animegg_url": "https://www.animegg.org/series/mary-to-majo-no-hana",
+    "mal_url": "https://myanimelist.net/anime/34541",
+    "mal_id": 34541,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/90490",
+        "dub": null,
+        "url": "https://www.animegg.org/mary-to-majo-no-hana-episode-1"
+      }
+    ]
   }
 ]
