@@ -8844,5 +8844,39 @@
         "url": "https://www.animegg.org/kaminaki-sekai-no-kamisama-katsudou-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3184,
+    "title": "Darker Than Black: Kuro No Keiyakusha Gaiden",
+    "animegg_url": "https://www.animegg.org/series/darker-than-black-kuro-no-keiyakusha-gaiden",
+    "mal_url": "https://myanimelist.net/anime/7338",
+    "mal_id": 7338,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/7306",
+        "dub": "https://www.animegg.org/embed/7307",
+        "url": "https://www.animegg.org/darker-than-black-kuro-no-keiyakusha-gaiden-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/7301",
+        "dub": "https://www.animegg.org/embed/69094",
+        "url": "https://www.animegg.org/darker-than-black-kuro-no-keiyakusha-gaiden-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/7302",
+        "dub": "https://www.animegg.org/embed/7303",
+        "url": "https://www.animegg.org/darker-than-black-kuro-no-keiyakusha-gaiden-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/7304",
+        "dub": "https://www.animegg.org/embed/7305",
+        "url": "https://www.animegg.org/darker-than-black-kuro-no-keiyakusha-gaiden-episode-4"
+      }
+    ]
   }
 ]
