@@ -95628,5 +95628,87 @@
         "url": "https://www.animegg.org/sankaku-mado-no-sotogawa-wa-yoru-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4348,
+    "title": "BNA",
+    "animegg_url": "https://www.animegg.org/series/bna-brand-new-animal",
+    "mal_url": "https://myanimelist.net/anime/40060",
+    "mal_id": 40060,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/98147",
+        "dub": null,
+        "url": "https://www.animegg.org/bna-brand-new-animal-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/129561",
+        "dub": null,
+        "url": "https://www.animegg.org/bna-brand-new-animal-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/129560",
+        "dub": null,
+        "url": "https://www.animegg.org/bna-brand-new-animal-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/129559",
+        "dub": null,
+        "url": "https://www.animegg.org/bna-brand-new-animal-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/129558",
+        "dub": null,
+        "url": "https://www.animegg.org/bna-brand-new-animal-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/98148",
+        "dub": null,
+        "url": "https://www.animegg.org/bna-brand-new-animal-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/98457",
+        "dub": null,
+        "url": "https://www.animegg.org/bna-brand-new-animal-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/98459",
+        "dub": null,
+        "url": "https://www.animegg.org/bna-brand-new-animal-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/98460",
+        "dub": null,
+        "url": "https://www.animegg.org/bna-brand-new-animal-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/98465",
+        "dub": null,
+        "url": "https://www.animegg.org/bna-brand-new-animal-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/98466",
+        "dub": null,
+        "url": "https://www.animegg.org/bna-brand-new-animal-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/98470",
+        "dub": null,
+        "url": "https://www.animegg.org/bna-brand-new-animal-episode-12"
+      }
+    ]
   }
 ]
