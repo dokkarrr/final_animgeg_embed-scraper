@@ -77236,5 +77236,39 @@
         "url": "https://www.animegg.org/queens-blade-grimoire-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 4073,
+    "title": "Tabi Machi Late Show",
+    "animegg_url": "https://www.animegg.org/series/tabi-machi-late-show",
+    "mal_url": "https://myanimelist.net/anime/32309",
+    "mal_id": 32309,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/80597",
+        "dub": "https://www.animegg.org/embed/80604",
+        "url": "https://www.animegg.org/tabi-machi-late-show-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/80691",
+        "dub": null,
+        "url": "https://www.animegg.org/tabi-machi-late-show-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/80796",
+        "dub": null,
+        "url": "https://www.animegg.org/tabi-machi-late-show-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/80902",
+        "dub": null,
+        "url": "https://www.animegg.org/tabi-machi-late-show-episode-4"
+      }
+    ]
   }
 ]
