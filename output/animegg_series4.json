@@ -94552,5 +94552,87 @@
         "url": "https://www.animegg.org/ganbare-douki-chan-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4328,
+    "title": "Kaya-chan Isn't Scary",
+    "animegg_url": "https://www.animegg.org/series/kaya-chan-isnt-scary",
+    "mal_url": "https://myanimelist.net/anime/60223",
+    "mal_id": 60223,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/144150",
+        "dub": "https://www.animegg.org/embed/144165",
+        "url": "https://www.animegg.org/kaya-chan-isnt-scary-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/144245",
+        "dub": "https://www.animegg.org/embed/144262",
+        "url": "https://www.animegg.org/kaya-chan-isnt-scary-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/144365",
+        "dub": "https://www.animegg.org/embed/144375",
+        "url": "https://www.animegg.org/kaya-chan-isnt-scary-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/144467",
+        "dub": "https://www.animegg.org/embed/144482",
+        "url": "https://www.animegg.org/kaya-chan-isnt-scary-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/144566",
+        "dub": "https://www.animegg.org/embed/144583",
+        "url": "https://www.animegg.org/kaya-chan-isnt-scary-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/144672",
+        "dub": "https://www.animegg.org/embed/144702",
+        "url": "https://www.animegg.org/kaya-chan-isnt-scary-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/144761",
+        "dub": "https://www.animegg.org/embed/144763",
+        "url": "https://www.animegg.org/kaya-chan-isnt-scary-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/144876",
+        "dub": "https://www.animegg.org/embed/144895",
+        "url": "https://www.animegg.org/kaya-chan-isnt-scary-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/144991",
+        "dub": "https://www.animegg.org/embed/145004",
+        "url": "https://www.animegg.org/kaya-chan-isnt-scary-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/145100",
+        "dub": "https://www.animegg.org/embed/145105",
+        "url": "https://www.animegg.org/kaya-chan-isnt-scary-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/145187",
+        "dub": null,
+        "url": "https://www.animegg.org/kaya-chan-isnt-scary-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/145290",
+        "dub": "https://www.animegg.org/embed/145298",
+        "url": "https://www.animegg.org/kaya-chan-isnt-scary-episode-12"
+      }
+    ]
   }
 ]
