@@ -109234,5 +109234,21 @@
         "url": "https://www.animegg.org/touring-after-the-apocalypse-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4562,
+    "title": "Hyouka: Motsubeki Mono wa",
+    "animegg_url": "https://www.animegg.org/series/hyouka-motsubeki-mono-wa",
+    "mal_url": "https://myanimelist.net/anime/13469",
+    "mal_id": 13469,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/17303",
+        "dub": null,
+        "url": "https://www.animegg.org/hyouka-motsubeki-mono-wa-episode-1"
+      }
+    ]
   }
 ]
