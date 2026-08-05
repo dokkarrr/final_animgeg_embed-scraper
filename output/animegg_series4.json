@@ -63090,5 +63090,21 @@
         "url": "https://www.animegg.org/gaogaigar-final-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 3853,
+    "title": "Fullmetal Alchemist: The Conqueror of Shamballa",
+    "animegg_url": "https://www.animegg.org/series/fullmetal-alchemist-the-conqueror-of-shamballa",
+    "mal_url": "https://myanimelist.net/anime/430",
+    "mal_id": 430,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/46164",
+        "dub": "https://www.animegg.org/embed/75546",
+        "url": "https://www.animegg.org/fullmetal-alchemist-the-conqueror-of-shamballa-episode-1"
+      }
+    ]
   }
 ]
