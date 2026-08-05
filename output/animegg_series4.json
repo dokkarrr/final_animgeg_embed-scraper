@@ -73250,5 +73250,21 @@
         "url": "https://www.animegg.org/owarimonogatari-2nd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4005,
+    "title": "Dragon Ball Z Movie 11: Bio-Broly",
+    "animegg_url": "https://www.animegg.org/series/dragon-ball-z-movie-11-bio-broly",
+    "mal_url": "https://myanimelist.net/anime/904",
+    "mal_id": 904,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/49772",
+        "dub": null,
+        "url": "https://www.animegg.org/dragon-ball-z-movie-11-bio-broly-episode-1"
+      }
+    ]
   }
 ]
