@@ -18616,5 +18616,21 @@
         "url": "https://www.animegg.org/precure-all-stars-movie-haru-no-carnival-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5932,
+    "title": "Mitsuwano",
+    "animegg_url": "https://www.animegg.org/series/mitsuwano",
+    "mal_url": "https://myanimelist.net/anime/21649",
+    "mal_id": 21649,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/65837",
+        "dub": "https://www.animegg.org/embed/65838",
+        "url": "https://www.animegg.org/mitsuwano-episode-1"
+      }
+    ]
   }
 ]
