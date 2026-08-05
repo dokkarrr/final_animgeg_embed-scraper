@@ -32150,5 +32150,21 @@
         "url": "https://www.animegg.org/mf-ghost-season-3-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6137,
+    "title": "You Are Umasou",
+    "animegg_url": "https://www.animegg.org/series/you-are-umasou",
+    "mal_url": "https://myanimelist.net/anime/9204",
+    "mal_id": 9204,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/63083",
+        "dub": null,
+        "url": "https://www.animegg.org/you-are-umasou-episode-1"
+      }
+    ]
   }
 ]
