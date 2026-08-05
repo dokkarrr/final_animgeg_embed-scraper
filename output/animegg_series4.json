@@ -111238,5 +111238,27 @@
         "url": "https://www.animegg.org/shikizakura-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4592,
+    "title": "Arslan Senki (TV) OVA",
+    "animegg_url": "https://www.animegg.org/series/arslan-senki-tv-ova",
+    "mal_url": "https://myanimelist.net/anime/33254",
+    "mal_id": 33254,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/82854",
+        "dub": null,
+        "url": "https://www.animegg.org/arslan-senki-tv-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/84720",
+        "dub": null,
+        "url": "https://www.animegg.org/arslan-senki-tv-ova-episode-2"
+      }
+    ]
   }
 ]
