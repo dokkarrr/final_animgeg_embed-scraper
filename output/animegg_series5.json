@@ -106870,5 +106870,27 @@
         "url": "https://www.animegg.org/grand-blue-dreaming-season-3-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 6792,
+    "title": "Cooking with Valkyries",
+    "animegg_url": "https://www.animegg.org/series/cooking-with-valkyries",
+    "mal_url": "https://myanimelist.net/anime/42206",
+    "mal_id": 42206,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/96396",
+        "dub": null,
+        "url": "https://www.animegg.org/cooking-with-valkyries-episode-1"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/96397",
+        "dub": null,
+        "url": "https://www.animegg.org/cooking-with-valkyries-episode-10"
+      }
+    ]
   }
 ]
