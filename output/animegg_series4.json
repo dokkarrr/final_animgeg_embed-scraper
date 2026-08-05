@@ -137669,5 +137669,21 @@
         "url": "https://www.animegg.org/detectives-these-days-are-crazy-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 4993,
+    "title": "Kara no Kyoukai 2: Satsujin Kousatsu (Part 1)",
+    "animegg_url": "https://www.animegg.org/series/kara-no-kyoukai-2-satsujin-kousatsu-part-1",
+    "mal_url": "https://myanimelist.net/anime/3782",
+    "mal_id": 3782,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/43069",
+        "dub": null,
+        "url": "https://www.animegg.org/kara-no-kyoukai-2-satsujin-kousatsu-part-1-episode-1"
+      }
+    ]
   }
 ]
