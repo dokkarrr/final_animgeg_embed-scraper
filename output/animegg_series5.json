@@ -35116,5 +35116,21 @@
         "url": "https://www.animegg.org/planetarium-uchuu-kyoudai-itten-no-hikari-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6172,
+    "title": "Kira Kira 5th Anniversary Live Anime: Kick Start Generation",
+    "animegg_url": "https://www.animegg.org/series/kira-kira-5th-anniversary-live-anime-kick-start-generation",
+    "mal_url": "https://myanimelist.net/anime/15279",
+    "mal_id": 15279,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/55779",
+        "dub": null,
+        "url": "https://www.animegg.org/kira-kira-5th-anniversary-live-anime-kick-start-generation-episode-1"
+      }
+    ]
   }
 ]
