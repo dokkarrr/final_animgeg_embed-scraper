@@ -13109,5 +13109,21 @@
         "url": "https://www.animegg.org/toriko-movie-bishokushin-no-special-menu-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5815,
+    "title": "Daimajuu Gekitou Hagane no Oni",
+    "animegg_url": "https://www.animegg.org/series/daimajuu-gekitou-hagane-no-oni",
+    "mal_url": "https://myanimelist.net/anime/1819",
+    "mal_id": 1819,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/49971",
+        "dub": null,
+        "url": "https://www.animegg.org/daimajuu-gekitou-hagane-no-oni-episode-1"
+      }
+    ]
   }
 ]
