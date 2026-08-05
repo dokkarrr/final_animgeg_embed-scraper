@@ -10533,5 +10533,21 @@
         "url": "https://www.animegg.org/highlander-vengeance-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5774,
+    "title": "Patlabor 2: The Movie",
+    "animegg_url": "https://www.animegg.org/series/patlabor-2-the-movie",
+    "mal_url": "https://myanimelist.net/anime/1096",
+    "mal_id": 1096,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/59958",
+        "dub": null,
+        "url": "https://www.animegg.org/patlabor-2-the-movie-episode-1"
+      }
+    ]
   }
 ]
