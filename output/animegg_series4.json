@@ -125218,5 +125218,39 @@
         "url": "https://www.animegg.org/the-holy-grail-of-eris-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4802,
+    "title": "Wedding Peach DX",
+    "animegg_url": "https://www.animegg.org/series/wedding-peach-dx",
+    "mal_url": "https://myanimelist.net/anime/1957",
+    "mal_id": 1957,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/64005",
+        "dub": "https://www.animegg.org/embed/64006",
+        "url": "https://www.animegg.org/wedding-peach-dx-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/64007",
+        "dub": "https://www.animegg.org/embed/64008",
+        "url": "https://www.animegg.org/wedding-peach-dx-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/64009",
+        "dub": "https://www.animegg.org/embed/64010",
+        "url": "https://www.animegg.org/wedding-peach-dx-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/64011",
+        "dub": "https://www.animegg.org/embed/64012",
+        "url": "https://www.animegg.org/wedding-peach-dx-episode-4"
+      }
+    ]
   }
 ]
