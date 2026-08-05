@@ -110712,5 +110712,33 @@
         "url": "https://www.animegg.org/cobra-the-animation-the-psycho-gun-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 4582,
+    "title": "FLCL Progressive",
+    "animegg_url": "https://www.animegg.org/series/flcl-progressive",
+    "mal_url": "https://myanimelist.net/anime/33010",
+    "mal_id": 33010,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/91802",
+        "dub": "https://www.animegg.org/embed/126844",
+        "url": "https://www.animegg.org/flcl-progressive-episode-1"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/91804",
+        "dub": null,
+        "url": "https://www.animegg.org/flcl-progressive-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/91803",
+        "dub": null,
+        "url": "https://www.animegg.org/flcl-progressive-episode-6"
+      }
+    ]
   }
 ]
