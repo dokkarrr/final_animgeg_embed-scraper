@@ -21518,5 +21518,33 @@
         "url": "https://www.animegg.org/solo-camping-for-two-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 3327,
+    "title": "Mobile Suit Gundam Thunderbolt",
+    "animegg_url": "https://www.animegg.org/series/mobile-suit-gundam-thunderbolt",
+    "mal_url": "https://myanimelist.net/anime/31973",
+    "mal_id": 31973,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/80451",
+        "dub": null,
+        "url": "https://www.animegg.org/mobile-suit-gundam-thunderbolt-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/81075",
+        "dub": null,
+        "url": "https://www.animegg.org/mobile-suit-gundam-thunderbolt-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/81930",
+        "dub": null,
+        "url": "https://www.animegg.org/mobile-suit-gundam-thunderbolt-episode-3"
+      }
+    ]
   }
 ]
