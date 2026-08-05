@@ -86330,5 +86330,33 @@
         "url": "https://www.animegg.org/the-dark-history-of-the-reincarnated-villainess-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4206,
+    "title": "Kodomo No Jikan OVA",
+    "animegg_url": "https://www.animegg.org/series/kodomo-no-jikan-ova",
+    "mal_url": "https://myanimelist.net/anime/3121",
+    "mal_id": 3121,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/20612",
+        "dub": null,
+        "url": "https://www.animegg.org/kodomo-no-jikan-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/20611",
+        "dub": null,
+        "url": "https://www.animegg.org/kodomo-no-jikan-ova-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/20613",
+        "dub": null,
+        "url": "https://www.animegg.org/kodomo-no-jikan-ova-episode-3"
+      }
+    ]
   }
 ]
