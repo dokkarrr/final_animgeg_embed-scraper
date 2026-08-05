@@ -100986,5 +100986,33 @@
         "url": "https://www.animegg.org/mononogatari-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4414,
+    "title": "Otome wa Boku ni Koishiteru: Futari no Elder",
+    "animegg_url": "https://www.animegg.org/series/otome-wa-boku-ni-koishiteru-futari-no-elder",
+    "mal_url": "https://myanimelist.net/anime/9988",
+    "mal_id": 9988,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/28860",
+        "dub": null,
+        "url": "https://www.animegg.org/otome-wa-boku-ni-koishiteru-futari-no-elder-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/28859",
+        "dub": null,
+        "url": "https://www.animegg.org/otome-wa-boku-ni-koishiteru-futari-no-elder-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/28858",
+        "dub": null,
+        "url": "https://www.animegg.org/otome-wa-boku-ni-koishiteru-futari-no-elder-episode-3"
+      }
+    ]
   }
 ]
