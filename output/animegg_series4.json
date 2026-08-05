@@ -129618,5 +129618,87 @@
         "url": "https://www.animegg.org/digimon-adventure-the-movie-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4876,
+    "title": "Nijiyon Animation 2",
+    "animegg_url": "https://www.animegg.org/series/nijiyon-animation-2",
+    "mal_url": "https://myanimelist.net/anime/57623",
+    "mal_id": 57623,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/nijiyon-animation-2-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/134895",
+        "dub": null,
+        "url": "https://www.animegg.org/nijiyon-animation-2-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/134735",
+        "dub": null,
+        "url": "https://www.animegg.org/nijiyon-animation-2-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/134565",
+        "dub": null,
+        "url": "https://www.animegg.org/nijiyon-animation-2-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/134432",
+        "dub": null,
+        "url": "https://www.animegg.org/nijiyon-animation-2-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/134211",
+        "dub": null,
+        "url": "https://www.animegg.org/nijiyon-animation-2-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/134062",
+        "dub": null,
+        "url": "https://www.animegg.org/nijiyon-animation-2-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/133943",
+        "dub": null,
+        "url": "https://www.animegg.org/nijiyon-animation-2-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/133785",
+        "dub": null,
+        "url": "https://www.animegg.org/nijiyon-animation-2-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/133698",
+        "dub": null,
+        "url": "https://www.animegg.org/nijiyon-animation-2-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/133612",
+        "dub": null,
+        "url": "https://www.animegg.org/nijiyon-animation-2-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/133537",
+        "dub": null,
+        "url": "https://www.animegg.org/nijiyon-animation-2-episode-1"
+      }
+    ]
   }
 ]
