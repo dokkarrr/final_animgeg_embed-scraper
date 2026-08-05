@@ -110116,5 +110116,87 @@
         "url": "https://www.animegg.org/bungou-stray-dogs-dead-apple-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4571,
+    "title": "Dimension High School",
+    "animegg_url": "https://www.animegg.org/series/dimension-high-school",
+    "mal_url": "https://myanimelist.net/anime/38449",
+    "mal_id": 38449,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/94182",
+        "dub": null,
+        "url": "https://www.animegg.org/dimension-high-school-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/94246",
+        "dub": null,
+        "url": "https://www.animegg.org/dimension-high-school-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/94313",
+        "dub": null,
+        "url": "https://www.animegg.org/dimension-high-school-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/94377",
+        "dub": null,
+        "url": "https://www.animegg.org/dimension-high-school-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/94444",
+        "dub": null,
+        "url": "https://www.animegg.org/dimension-high-school-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/94506",
+        "dub": null,
+        "url": "https://www.animegg.org/dimension-high-school-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/94574",
+        "dub": null,
+        "url": "https://www.animegg.org/dimension-high-school-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/94650",
+        "dub": null,
+        "url": "https://www.animegg.org/dimension-high-school-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/94712",
+        "dub": null,
+        "url": "https://www.animegg.org/dimension-high-school-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/94776",
+        "dub": null,
+        "url": "https://www.animegg.org/dimension-high-school-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/94845",
+        "dub": null,
+        "url": "https://www.animegg.org/dimension-high-school-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/94935",
+        "dub": null,
+        "url": "https://www.animegg.org/dimension-high-school-episode-12"
+      }
+    ]
   }
 ]
