@@ -61789,5 +61789,21 @@
         "url": "https://www.animegg.org/nana-dub-episode-47"
       }
     ]
+  },
+  {
+    "serial_no": 6415,
+    "title": "Cure Miracle to Mofurun no Mahou Lesson",
+    "animegg_url": "https://www.animegg.org/series/cure-miracle-to-mofurun-no-mahou-lesson",
+    "mal_url": "https://myanimelist.net/anime/33669",
+    "mal_id": 33669,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/86146",
+        "dub": null,
+        "url": "https://www.animegg.org/cure-miracle-to-mofurun-no-mahou-lesson-episode-1"
+      }
+    ]
   }
 ]
