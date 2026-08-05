@@ -55074,5 +55074,21 @@
         "url": "https://www.animegg.org/tune-in-to-the-midnight-heart-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3748,
+    "title": "Hybrid Child",
+    "animegg_url": "https://www.animegg.org/series/hybrid-child",
+    "mal_url": "https://myanimelist.net/anime/11135",
+    "mal_id": 11135,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/67108",
+        "dub": null,
+        "url": "https://www.animegg.org/hybrid-child-episode-1"
+      }
+    ]
   }
 ]
