@@ -118522,5 +118522,87 @@
         "url": "https://www.animegg.org/clannad-movie-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4721,
+    "title": "Dungeon People",
+    "animegg_url": "https://www.animegg.org/series/dungeon-no-naka-no-hito",
+    "mal_url": "https://myanimelist.net/anime/56348",
+    "mal_id": 56348,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/135414",
+        "dub": null,
+        "url": "https://www.animegg.org/dungeon-no-naka-no-hito-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/135567",
+        "dub": null,
+        "url": "https://www.animegg.org/dungeon-no-naka-no-hito-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/135693",
+        "dub": null,
+        "url": "https://www.animegg.org/dungeon-no-naka-no-hito-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/135862",
+        "dub": null,
+        "url": "https://www.animegg.org/dungeon-no-naka-no-hito-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/136183",
+        "dub": null,
+        "url": "https://www.animegg.org/dungeon-no-naka-no-hito-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/136337",
+        "dub": "https://www.animegg.org/embed/139335",
+        "url": "https://www.animegg.org/dungeon-no-naka-no-hito-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/136471",
+        "dub": "https://www.animegg.org/embed/139388",
+        "url": "https://www.animegg.org/dungeon-no-naka-no-hito-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/136666",
+        "dub": null,
+        "url": "https://www.animegg.org/dungeon-no-naka-no-hito-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/136826",
+        "dub": "https://www.animegg.org/embed/139529",
+        "url": "https://www.animegg.org/dungeon-no-naka-no-hito-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/137028",
+        "dub": "https://www.animegg.org/embed/139641",
+        "url": "https://www.animegg.org/dungeon-no-naka-no-hito-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/137204",
+        "dub": "https://www.animegg.org/embed/139738",
+        "url": "https://www.animegg.org/dungeon-no-naka-no-hito-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/137399",
+        "dub": "https://www.animegg.org/embed/139823",
+        "url": "https://www.animegg.org/dungeon-no-naka-no-hito-episode-12"
+      }
+    ]
   }
 ]
