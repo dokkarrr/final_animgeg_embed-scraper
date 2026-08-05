@@ -28030,5 +28030,21 @@
         "url": "https://www.animegg.org/babanbabanban-vampire-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 6067,
+    "title": "Yowamushi Pedal: Re:RIDE - MOVIE",
+    "animegg_url": "https://www.animegg.org/series/yowamushi-pedal-reride---movie",
+    "mal_url": "https://myanimelist.net/anime/30413",
+    "mal_id": 30413,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/81235",
+        "dub": null,
+        "url": "https://www.animegg.org/yowamushi-pedal-reride---movie-episode-1-5521"
+      }
+    ]
   }
 ]
