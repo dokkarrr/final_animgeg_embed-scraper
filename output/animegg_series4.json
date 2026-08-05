@@ -137021,5 +137021,21 @@
         "url": "https://www.animegg.org/code-geass-hangyaku-no-lelouch-ii---handou-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4981,
+    "title": "Eyeshield 21: The Illusionary Golden Bowl",
+    "animegg_url": "https://www.animegg.org/series/eyeshield-21-the-illusionary-golden-bowl",
+    "mal_url": "https://myanimelist.net/anime/31859",
+    "mal_id": 31859,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 21,
+        "sub": "https://www.animegg.org/embed/51088",
+        "dub": null,
+        "url": "https://www.animegg.org/eyeshield-21-the-illusionary-golden-bowl-episode-1"
+      }
+    ]
   }
 ]
