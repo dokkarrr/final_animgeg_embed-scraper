@@ -40824,5 +40824,39 @@
         "url": "https://www.animegg.org/koroshi-ai-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3553,
+    "title": "ReLIFE: Kanketsu-hen",
+    "animegg_url": "https://www.animegg.org/series/relife-kanketsu-hen",
+    "mal_url": "https://myanimelist.net/anime/35466",
+    "mal_id": 35466,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/90479",
+        "dub": null,
+        "url": "https://www.animegg.org/relife-kanketsu-hen-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/90480",
+        "dub": null,
+        "url": "https://www.animegg.org/relife-kanketsu-hen-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/90481",
+        "dub": null,
+        "url": "https://www.animegg.org/relife-kanketsu-hen-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/90482",
+        "dub": null,
+        "url": "https://www.animegg.org/relife-kanketsu-hen-episode-4"
+      }
+    ]
   }
 ]
