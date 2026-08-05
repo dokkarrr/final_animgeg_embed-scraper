@@ -3014,5 +3014,21 @@
         "url": "https://www.animegg.org/arknights-reimei-zensou-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 5649,
+    "title": "Miyamoto Musashi: Souken ni Haseru Yume",
+    "animegg_url": "https://www.animegg.org/series/miyamoto-musashi-souken-ni-haseru-yume",
+    "mal_url": "https://myanimelist.net/anime/5386",
+    "mal_id": 5386,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/58191",
+        "dub": null,
+        "url": "https://www.animegg.org/miyamoto-musashi-souken-ni-haseru-yume-episode-1"
+      }
+    ]
   }
 ]
