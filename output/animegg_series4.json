@@ -2416,5 +2416,93 @@
         "url": "https://www.animegg.org/sasami-san-ganbaranai-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3104,
+    "title": "Minna Atsumare! Falcom Gakuen",
+    "animegg_url": "https://www.animegg.org/series/minna-atsumare-falcom-gakuen",
+    "mal_url": "https://myanimelist.net/anime/21427",
+    "mal_id": 21427,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/24177",
+        "dub": null,
+        "url": "https://www.animegg.org/minna-atsumare-falcom-gakuen-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/24176",
+        "dub": null,
+        "url": "https://www.animegg.org/minna-atsumare-falcom-gakuen-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/24175",
+        "dub": null,
+        "url": "https://www.animegg.org/minna-atsumare-falcom-gakuen-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/24174",
+        "dub": null,
+        "url": "https://www.animegg.org/minna-atsumare-falcom-gakuen-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/24173",
+        "dub": null,
+        "url": "https://www.animegg.org/minna-atsumare-falcom-gakuen-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/24178",
+        "dub": null,
+        "url": "https://www.animegg.org/minna-atsumare-falcom-gakuen-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/24179",
+        "dub": "https://www.animegg.org/embed/24180",
+        "url": "https://www.animegg.org/minna-atsumare-falcom-gakuen-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/24183",
+        "dub": "https://www.animegg.org/embed/24184",
+        "url": "https://www.animegg.org/minna-atsumare-falcom-gakuen-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/24181",
+        "dub": "https://www.animegg.org/embed/24182",
+        "url": "https://www.animegg.org/minna-atsumare-falcom-gakuen-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/24185",
+        "dub": "https://www.animegg.org/embed/24186",
+        "url": "https://www.animegg.org/minna-atsumare-falcom-gakuen-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/24187",
+        "dub": "https://www.animegg.org/embed/24188",
+        "url": "https://www.animegg.org/minna-atsumare-falcom-gakuen-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/24189",
+        "dub": "https://www.animegg.org/embed/24190",
+        "url": "https://www.animegg.org/minna-atsumare-falcom-gakuen-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/24191",
+        "dub": null,
+        "url": "https://www.animegg.org/minna-atsumare-falcom-gakuen-episode-13"
+      }
+    ]
   }
 ]
