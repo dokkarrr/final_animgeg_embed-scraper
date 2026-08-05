@@ -29146,5 +29146,21 @@
         "url": "https://www.animegg.org/another-world-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 6100,
+    "title": "Hamtaro OVA 002",
+    "animegg_url": "https://www.animegg.org/series/hamtaro-ova-002",
+    "mal_url": "https://myanimelist.net/anime/508",
+    "mal_id": 508,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/52525",
+        "dub": null,
+        "url": "https://www.animegg.org/hamtaro-ova-002-episode-1"
+      }
+    ]
   }
 ]
