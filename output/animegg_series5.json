@@ -29054,5 +29054,21 @@
         "url": "https://www.animegg.org/uchuu-senkan-yamato-2199-hoshimeguru-hakobune-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6095,
+    "title": "Shisha no Teikoku",
+    "animegg_url": "https://www.animegg.org/series/shisha-no-teikoku-movie",
+    "mal_url": "https://myanimelist.net/anime/28625",
+    "mal_id": 28625,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/81346",
+        "dub": "https://www.animegg.org/embed/92559",
+        "url": "https://www.animegg.org/shisha-no-teikoku-episode-10"
+      }
+    ]
   }
 ]
