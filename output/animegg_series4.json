@@ -4630,5 +4630,39 @@
         "url": "https://www.animegg.org/kaijuu-girls-ultra-kaijuu-gijinka-keikaku-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3134,
+    "title": "Tsukimonogatari",
+    "animegg_url": "https://www.animegg.org/series/tsukimonogatari",
+    "mal_url": "https://myanimelist.net/anime/28025",
+    "mal_id": 28025,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/67806",
+        "dub": "https://www.animegg.org/embed/67813",
+        "url": "https://www.animegg.org/tsukimonogatari-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/67807",
+        "dub": "https://www.animegg.org/embed/67822",
+        "url": "https://www.animegg.org/tsukimonogatari-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/67808",
+        "dub": "https://www.animegg.org/embed/67823",
+        "url": "https://www.animegg.org/tsukimonogatari-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/67809",
+        "dub": "https://www.animegg.org/embed/67824",
+        "url": "https://www.animegg.org/tsukimonogatari-episode-4"
+      }
+    ]
   }
 ]
