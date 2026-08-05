@@ -113482,5 +113482,33 @@
         "url": "https://www.animegg.org/bishounen-tanteidan-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4640,
+    "title": "Cyborg 009 VS Devilman",
+    "animegg_url": "https://www.animegg.org/series/cyborg-009-vs-devilman",
+    "mal_url": "https://myanimelist.net/anime/31050",
+    "mal_id": 31050,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/81928",
+        "dub": null,
+        "url": "https://www.animegg.org/cyborg-009-vs-devilman-episode-3"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/81927",
+        "dub": null,
+        "url": "https://www.animegg.org/cyborg-009-vs-devilman-episode-2"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/81926",
+        "dub": null,
+        "url": "https://www.animegg.org/cyborg-009-vs-devilman-episode-1"
+      }
+    ]
   }
 ]
