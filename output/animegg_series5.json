@@ -67394,5 +67394,21 @@
     "mal_id": 29722,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 6477,
+    "title": "Tiger & Bunny Pilot",
+    "animegg_url": "https://www.animegg.org/series/tiger-bunny-pilot",
+    "mal_url": "https://myanimelist.net/anime/11099",
+    "mal_id": 11099,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/63926",
+        "dub": null,
+        "url": "https://www.animegg.org/tiger-bunny-pilot-episode-1"
+      }
+    ]
   }
 ]
