@@ -121992,5 +121992,75 @@
         "url": "https://www.animegg.org/lupin-iii-part-vi-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 4762,
+    "title": "The All-devouring Whale: Homecoming",
+    "animegg_url": "https://www.animegg.org/series/the-all-devouring-whale-homecoming",
+    "mal_url": "https://myanimelist.net/anime/60572",
+    "mal_id": 60572,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/140877",
+        "dub": null,
+        "url": "https://www.animegg.org/the-all-devouring-whale-homecoming-episode-1"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/140886",
+        "dub": null,
+        "url": "https://www.animegg.org/the-all-devouring-whale-homecoming-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/140918",
+        "dub": null,
+        "url": "https://www.animegg.org/the-all-devouring-whale-homecoming-episode-4"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/141124",
+        "dub": null,
+        "url": "https://www.animegg.org/the-all-devouring-whale-homecoming-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/141218",
+        "dub": null,
+        "url": "https://www.animegg.org/the-all-devouring-whale-homecoming-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/141312",
+        "dub": null,
+        "url": "https://www.animegg.org/the-all-devouring-whale-homecoming-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/141403",
+        "dub": null,
+        "url": "https://www.animegg.org/the-all-devouring-whale-homecoming-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/141482",
+        "dub": null,
+        "url": "https://www.animegg.org/the-all-devouring-whale-homecoming-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/141568",
+        "dub": null,
+        "url": "https://www.animegg.org/the-all-devouring-whale-homecoming-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/141679",
+        "dub": null,
+        "url": "https://www.animegg.org/the-all-devouring-whale-homecoming-episode-12"
+      }
+    ]
   }
 ]
