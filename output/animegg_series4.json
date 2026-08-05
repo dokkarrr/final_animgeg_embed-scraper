@@ -19992,5 +19992,75 @@
         "url": "https://www.animegg.org/raimuiro-ryuukitan-x-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3310,
+    "title": "The Summer Hikaru Died",
+    "animegg_url": "https://www.animegg.org/series/the-summer-hikaru-died",
+    "mal_url": "https://myanimelist.net/anime/58913",
+    "mal_id": 58913,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/141581",
+        "dub": "https://www.animegg.org/embed/144204",
+        "url": "https://www.animegg.org/the-summer-hikaru-died-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/141690",
+        "dub": null,
+        "url": "https://www.animegg.org/the-summer-hikaru-died-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/141787",
+        "dub": null,
+        "url": "https://www.animegg.org/the-summer-hikaru-died-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/141910",
+        "dub": null,
+        "url": "https://www.animegg.org/the-summer-hikaru-died-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/142037",
+        "dub": null,
+        "url": "https://www.animegg.org/the-summer-hikaru-died-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/142157",
+        "dub": null,
+        "url": "https://www.animegg.org/the-summer-hikaru-died-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/142268",
+        "dub": null,
+        "url": "https://www.animegg.org/the-summer-hikaru-died-episode-7"
+      },
+      {
+        "ep": 9,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/the-summer-hikaru-died-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/142538",
+        "dub": null,
+        "url": "https://www.animegg.org/the-summer-hikaru-died-episode-10"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/142723",
+        "dub": "https://www.animegg.org/embed/144205",
+        "url": "https://www.animegg.org/the-summer-hikaru-died-episode-12"
+      }
+    ]
   }
 ]
