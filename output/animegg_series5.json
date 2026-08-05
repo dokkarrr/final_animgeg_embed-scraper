@@ -10937,5 +10937,21 @@
         "url": "https://www.animegg.org/the-miracle-doctor-episode-70"
       }
     ]
+  },
+  {
+    "serial_no": 5776,
+    "title": "Patlabor: The Movie",
+    "animegg_url": "https://www.animegg.org/series/patlabor-the-movie",
+    "mal_url": "https://myanimelist.net/anime/1095",
+    "mal_id": 1095,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/59956",
+        "dub": null,
+        "url": "https://www.animegg.org/patlabor-the-movie-episode-1"
+      }
+    ]
   }
 ]
