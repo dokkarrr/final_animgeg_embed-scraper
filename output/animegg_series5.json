@@ -119823,5 +119823,27 @@
         "url": "https://www.animegg.org/steel-ball-run-jojo-s-bizarre-adventure-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6905,
+    "title": "Yamato yo, Towa ni: Rebel 3199",
+    "animegg_url": "https://www.animegg.org/series/yamato-yo-towa-ni-rebel-3199",
+    "mal_url": "https://myanimelist.net/anime/50855",
+    "mal_id": 50855,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 3199,
+        "sub": "https://www.animegg.org/embed/135865",
+        "dub": null,
+        "url": "https://www.animegg.org/yamato-yo-towa-ni-rebel-3199-episode-2"
+      },
+      {
+        "ep": 3199,
+        "sub": "https://www.animegg.org/embed/135864",
+        "dub": null,
+        "url": "https://www.animegg.org/yamato-yo-towa-ni-rebel-3199-episode-1"
+      }
+    ]
   }
 ]
