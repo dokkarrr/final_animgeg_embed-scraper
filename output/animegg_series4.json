@@ -12728,5 +12728,87 @@
         "url": "https://www.animegg.org/the-idolm-ster-side-m-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3234,
+    "title": "Makeruna!! Aku no Gundan!",
+    "animegg_url": "https://www.animegg.org/series/makeruna-aku-no-gundan",
+    "mal_url": "https://myanimelist.net/anime/34888",
+    "mal_id": 34888,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/86544",
+        "dub": null,
+        "url": "https://www.animegg.org/makeruna-aku-no-gundan-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/86557",
+        "dub": null,
+        "url": "https://www.animegg.org/makeruna-aku-no-gundan-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/86642",
+        "dub": null,
+        "url": "https://www.animegg.org/makeruna-aku-no-gundan-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/86730",
+        "dub": null,
+        "url": "https://www.animegg.org/makeruna-aku-no-gundan-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/86811",
+        "dub": null,
+        "url": "https://www.animegg.org/makeruna-aku-no-gundan-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/86885",
+        "dub": null,
+        "url": "https://www.animegg.org/makeruna-aku-no-gundan-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/86963",
+        "dub": null,
+        "url": "https://www.animegg.org/makeruna-aku-no-gundan-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/87046",
+        "dub": null,
+        "url": "https://www.animegg.org/makeruna-aku-no-gundan-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/87136",
+        "dub": null,
+        "url": "https://www.animegg.org/makeruna-aku-no-gundan-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/87217",
+        "dub": null,
+        "url": "https://www.animegg.org/makeruna-aku-no-gundan-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/87283",
+        "dub": null,
+        "url": "https://www.animegg.org/makeruna-aku-no-gundan-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/87353",
+        "dub": null,
+        "url": "https://www.animegg.org/makeruna-aku-no-gundan-episode-12"
+      }
+    ]
   }
 ]
