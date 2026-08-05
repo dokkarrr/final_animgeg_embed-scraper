@@ -73102,5 +73102,27 @@
         "url": "https://www.animegg.org/choujikuu-seiki-orguss-02-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4001,
+    "title": "Haikyuu!!: Riku vs. Kuu",
+    "animegg_url": "https://www.animegg.org/series/haikyuu-riku-vs-kuu",
+    "mal_url": "https://myanimelist.net/anime/40262",
+    "mal_id": 40262,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/97500",
+        "dub": null,
+        "url": "https://www.animegg.org/haikyuu-riku-vs-kuu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/97501",
+        "dub": null,
+        "url": "https://www.animegg.org/haikyuu-riku-vs-kuu-episode-2"
+      }
+    ]
   }
 ]
