@@ -48036,5 +48036,27 @@
     "mal_id": 29715,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 6296,
+    "title": "5-toubun no Hanayome∽",
+    "animegg_url": "https://www.animegg.org/series/5-toubun-no-hanayome",
+    "mal_url": "https://myanimelist.net/anime/54915",
+    "mal_id": 54915,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/5-toubun-no-hanayome-episode-2"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/5-toubun-no-hanayome-episode-1"
+      }
+    ]
   }
 ]
