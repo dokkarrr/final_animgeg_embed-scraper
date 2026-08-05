@@ -5812,5 +5812,93 @@
         "url": "https://www.animegg.org/kill-blue-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3149,
+    "title": "Futakoi Alternative",
+    "animegg_url": "https://www.animegg.org/series/futakoi-alternative",
+    "mal_url": "https://myanimelist.net/anime/126",
+    "mal_id": 126,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/50257",
+        "dub": null,
+        "url": "https://www.animegg.org/futakoi-alternative-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/50258",
+        "dub": null,
+        "url": "https://www.animegg.org/futakoi-alternative-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/50259",
+        "dub": null,
+        "url": "https://www.animegg.org/futakoi-alternative-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/50260",
+        "dub": null,
+        "url": "https://www.animegg.org/futakoi-alternative-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/50261",
+        "dub": null,
+        "url": "https://www.animegg.org/futakoi-alternative-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/50262",
+        "dub": null,
+        "url": "https://www.animegg.org/futakoi-alternative-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/50263",
+        "dub": null,
+        "url": "https://www.animegg.org/futakoi-alternative-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/50264",
+        "dub": null,
+        "url": "https://www.animegg.org/futakoi-alternative-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/50265",
+        "dub": null,
+        "url": "https://www.animegg.org/futakoi-alternative-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/50266",
+        "dub": null,
+        "url": "https://www.animegg.org/futakoi-alternative-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/50267",
+        "dub": null,
+        "url": "https://www.animegg.org/futakoi-alternative-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/50268",
+        "dub": null,
+        "url": "https://www.animegg.org/futakoi-alternative-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/50269",
+        "dub": null,
+        "url": "https://www.animegg.org/futakoi-alternative-episode-13"
+      }
+    ]
   }
 ]
