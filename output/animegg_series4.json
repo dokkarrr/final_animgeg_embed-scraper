@@ -24960,5 +24960,87 @@
         "url": "https://www.animegg.org/maria-sama-ga-miteru-4th-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3361,
+    "title": "Murai no Koi",
+    "animegg_url": "https://www.animegg.org/series/murai-no-koi",
+    "mal_url": "https://myanimelist.net/anime/52080",
+    "mal_id": 52080,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/136792",
+        "dub": null,
+        "url": "https://www.animegg.org/murai-no-koi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/136964",
+        "dub": null,
+        "url": "https://www.animegg.org/murai-no-koi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/137150",
+        "dub": null,
+        "url": "https://www.animegg.org/murai-no-koi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/137312",
+        "dub": null,
+        "url": "https://www.animegg.org/murai-no-koi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/137530",
+        "dub": null,
+        "url": "https://www.animegg.org/murai-no-koi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/137769",
+        "dub": null,
+        "url": "https://www.animegg.org/murai-no-koi-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/138038",
+        "dub": null,
+        "url": "https://www.animegg.org/murai-no-koi-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/138285",
+        "dub": null,
+        "url": "https://www.animegg.org/murai-no-koi-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/138505",
+        "dub": null,
+        "url": "https://www.animegg.org/murai-no-koi-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/138743",
+        "dub": null,
+        "url": "https://www.animegg.org/murai-no-koi-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/138941",
+        "dub": null,
+        "url": "https://www.animegg.org/murai-no-koi-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/139152",
+        "dub": null,
+        "url": "https://www.animegg.org/murai-no-koi-episode-12"
+      }
+    ]
   }
 ]
