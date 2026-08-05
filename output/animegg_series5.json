@@ -39569,5 +39569,21 @@
         "url": "https://www.animegg.org/red-baron-episode-49"
       }
     ]
+  },
+  {
+    "serial_no": 6210,
+    "title": "Bokutachi wa Benkyou ga Dekinai OVA",
+    "animegg_url": "https://www.animegg.org/series/bokutachi-wa-benkyou-ga-dekinai-ova",
+    "mal_url": "https://myanimelist.net/anime/39819",
+    "mal_id": 39819,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/96926",
+        "dub": null,
+        "url": "https://www.animegg.org/bokutachi-wa-benkyou-ga-dekinai-ova-episode-1"
+      }
+    ]
   }
 ]
