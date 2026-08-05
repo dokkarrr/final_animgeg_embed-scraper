@@ -23910,5 +23910,21 @@
         "url": "https://www.animegg.org/the-wizard-of-oz-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6012,
+    "title": "Gauche the Cellist",
+    "animegg_url": "https://www.animegg.org/series/gauche-the-cellist",
+    "mal_url": "https://myanimelist.net/anime/1049",
+    "mal_id": 1049,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/52524",
+        "dub": null,
+        "url": "https://www.animegg.org/gauche-the-cellist-episode-1"
+      }
+    ]
   }
 ]
