@@ -113818,5 +113818,33 @@
         "url": "https://www.animegg.org/ooi-tonbo-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 4646,
+    "title": "3x3 Eyes: Seima Densetsu",
+    "animegg_url": "https://www.animegg.org/series/3x3-eyes-seima-densetsu",
+    "mal_url": "https://myanimelist.net/anime/1225",
+    "mal_id": 1225,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/25124",
+        "dub": null,
+        "url": "https://www.animegg.org/3x3-eyes-seima-densetsu-episode-3"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/25123",
+        "dub": null,
+        "url": "https://www.animegg.org/3x3-eyes-seima-densetsu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/25122",
+        "dub": null,
+        "url": "https://www.animegg.org/3x3-eyes-seima-densetsu-episode-1"
+      }
+    ]
   }
 ]
