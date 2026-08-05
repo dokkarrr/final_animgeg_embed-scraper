@@ -82132,5 +82132,45 @@
         "url": "https://www.animegg.org/anime-mirai-2013-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4145,
+    "title": "Future GPX Cyber Formula Sin",
+    "animegg_url": "https://www.animegg.org/series/future-gpx-cyber-formula-sin",
+    "mal_url": "https://myanimelist.net/anime/1395",
+    "mal_id": 1395,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/49545",
+        "dub": null,
+        "url": "https://www.animegg.org/future-gpx-cyber-formula-sin-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/49546",
+        "dub": null,
+        "url": "https://www.animegg.org/future-gpx-cyber-formula-sin-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/49547",
+        "dub": null,
+        "url": "https://www.animegg.org/future-gpx-cyber-formula-sin-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/49548",
+        "dub": null,
+        "url": "https://www.animegg.org/future-gpx-cyber-formula-sin-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/49549",
+        "dub": null,
+        "url": "https://www.animegg.org/future-gpx-cyber-formula-sin-episode-5"
+      }
+    ]
   }
 ]
