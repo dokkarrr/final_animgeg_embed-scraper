@@ -132102,5 +132102,21 @@
         "url": "https://www.animegg.org/medalist-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 4909,
+    "title": "Seikon no Qwaser: Jotei no Shouzou",
+    "animegg_url": "https://www.animegg.org/series/seikon-no-qwaser-jotei-no-shouzou",
+    "mal_url": "https://myanimelist.net/anime/9202",
+    "mal_id": 9202,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/33686",
+        "dub": null,
+        "url": "https://www.animegg.org/seikon-no-qwaser-jotei-no-shouzou-episode-1"
+      }
+    ]
   }
 ]
