@@ -32344,5 +32344,57 @@
         "url": "https://www.animegg.org/kiratto-pri-chan-episode-17"
       }
     ]
+  },
+  {
+    "serial_no": 3446,
+    "title": "Gals Can't Be Kind to Otaku!?",
+    "animegg_url": "https://www.animegg.org/series/gals-can-t-be-kind-to-otaku--",
+    "mal_url": "https://myanimelist.net/anime/62604",
+    "mal_id": 62604,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/145559",
+        "dub": null,
+        "url": "https://www.animegg.org/gals-can-t-be-kind-to-otaku---episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/145652",
+        "dub": null,
+        "url": "https://www.animegg.org/gals-can-t-be-kind-to-otaku---episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/145730",
+        "dub": null,
+        "url": "https://www.animegg.org/gals-can-t-be-kind-to-otaku---episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/145850",
+        "dub": null,
+        "url": "https://www.animegg.org/gals-can-t-be-kind-to-otaku---episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/145964",
+        "dub": null,
+        "url": "https://www.animegg.org/gals-can-t-be-kind-to-otaku---episode-8"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/146128",
+        "dub": null,
+        "url": "https://www.animegg.org/gals-can-t-be-kind-to-otaku---episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/146219",
+        "dub": null,
+        "url": "https://www.animegg.org/gals-can-t-be-kind-to-otaku---episode-12"
+      }
+    ]
   }
 ]
