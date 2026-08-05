@@ -62518,5 +62518,39 @@
         "url": "https://www.animegg.org/sugar-apple-fairy-tale-part-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3845,
+    "title": "Nogizaka Haruka no Himitsu: Finale",
+    "animegg_url": "https://www.animegg.org/series/nogizaka-haruka-no-himitsu-finale",
+    "mal_url": "https://myanimelist.net/anime/10928",
+    "mal_id": 10928,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/27338",
+        "dub": null,
+        "url": "https://www.animegg.org/nogizaka-haruka-no-himitsu-finale-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/27337",
+        "dub": null,
+        "url": "https://www.animegg.org/nogizaka-haruka-no-himitsu-finale-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/27336",
+        "dub": null,
+        "url": "https://www.animegg.org/nogizaka-haruka-no-himitsu-finale-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/27339",
+        "dub": null,
+        "url": "https://www.animegg.org/nogizaka-haruka-no-himitsu-finale-episode-4"
+      }
+    ]
   }
 ]
