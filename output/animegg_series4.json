@@ -131976,5 +131976,27 @@
         "url": "https://www.animegg.org/eiyuu-densetsu-sora-no-kiseki-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 4906,
+    "title": "Fate/stay night TV reproduction",
+    "animegg_url": "https://www.animegg.org/series/fatestay-night-tv-reproduction",
+    "mal_url": "https://myanimelist.net/anime/7559",
+    "mal_id": 7559,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/51424",
+        "dub": null,
+        "url": "https://www.animegg.org/fatestay-night-tv-reproduction-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/51425",
+        "dub": null,
+        "url": "https://www.animegg.org/fatestay-night-tv-reproduction-episode-2"
+      }
+    ]
   }
 ]
