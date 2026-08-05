@@ -63424,5 +63424,93 @@
         "url": "https://www.animegg.org/futoku-no-guild-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3857,
+    "title": "Project Scard: Praeter no Kizu",
+    "animegg_url": "https://www.animegg.org/series/project-scard-praeter-no-kizu",
+    "mal_url": "https://myanimelist.net/anime/42825",
+    "mal_id": 42825,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/100443",
+        "dub": null,
+        "url": "https://www.animegg.org/project-scard-praeter-no-kizu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/100526",
+        "dub": null,
+        "url": "https://www.animegg.org/project-scard-praeter-no-kizu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/100614",
+        "dub": null,
+        "url": "https://www.animegg.org/project-scard-praeter-no-kizu-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/100686",
+        "dub": null,
+        "url": "https://www.animegg.org/project-scard-praeter-no-kizu-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/100760",
+        "dub": null,
+        "url": "https://www.animegg.org/project-scard-praeter-no-kizu-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/100827",
+        "dub": null,
+        "url": "https://www.animegg.org/project-scard-praeter-no-kizu-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/100900",
+        "dub": null,
+        "url": "https://www.animegg.org/project-scard-praeter-no-kizu-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/100978",
+        "dub": null,
+        "url": "https://www.animegg.org/project-scard-praeter-no-kizu-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/101051",
+        "dub": null,
+        "url": "https://www.animegg.org/project-scard-praeter-no-kizu-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/101123",
+        "dub": null,
+        "url": "https://www.animegg.org/project-scard-praeter-no-kizu-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/101197",
+        "dub": null,
+        "url": "https://www.animegg.org/project-scard-praeter-no-kizu-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/101268",
+        "dub": null,
+        "url": "https://www.animegg.org/project-scard-praeter-no-kizu-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/101329",
+        "dub": null,
+        "url": "https://www.animegg.org/project-scard-praeter-no-kizu-episode-13"
+      }
+    ]
   }
 ]
