@@ -73630,5 +73630,21 @@
         "url": "https://www.animegg.org/k-seven-stories-movie-2---sideblue---tenrou-no-gotoku-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4013,
+    "title": "IS: Infinite Stratos OVA",
+    "animegg_url": "https://www.animegg.org/series/is-infinite-stratos-ova",
+    "mal_url": "https://myanimelist.net/anime/18247",
+    "mal_id": 18247,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/18374",
+        "dub": null,
+        "url": "https://www.animegg.org/is-infinite-stratos-ova-episode-1"
+      }
+    ]
   }
 ]
