@@ -122658,5 +122658,75 @@
         "url": "https://www.animegg.org/mai-otome-0-sifr-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4774,
+    "title": "Hentatsu (TV)",
+    "animegg_url": "https://www.animegg.org/series/hentatsu-tv",
+    "mal_url": "https://myanimelist.net/anime/40995",
+    "mal_id": 40995,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/97492",
+        "dub": null,
+        "url": "https://www.animegg.org/hentatsu-tv-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/97518",
+        "dub": null,
+        "url": "https://www.animegg.org/hentatsu-tv-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/97653",
+        "dub": null,
+        "url": "https://www.animegg.org/hentatsu-tv-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/97654",
+        "dub": null,
+        "url": "https://www.animegg.org/hentatsu-tv-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/97919",
+        "dub": null,
+        "url": "https://www.animegg.org/hentatsu-tv-episode-5"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/97920",
+        "dub": null,
+        "url": "https://www.animegg.org/hentatsu-tv-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/97953",
+        "dub": null,
+        "url": "https://www.animegg.org/hentatsu-tv-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/98027",
+        "dub": null,
+        "url": "https://www.animegg.org/hentatsu-tv-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/98087",
+        "dub": null,
+        "url": "https://www.animegg.org/hentatsu-tv-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/98189",
+        "dub": null,
+        "url": "https://www.animegg.org/hentatsu-tv-episode-12"
+      }
+    ]
   }
 ]
