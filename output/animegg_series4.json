@@ -18434,5 +18434,21 @@
         "url": "https://www.animegg.org/sugar-apple-fairy-tale-dub-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3288,
+    "title": "Mahouka Koukou no Rettousei Movie: Hoshi wo Yobu Shoujo",
+    "animegg_url": "https://www.animegg.org/series/mahouka-koukou-no-rettousei-movie-hoshi-wo-yobu-shoujo",
+    "mal_url": "https://myanimelist.net/anime/32900",
+    "mal_id": 32900,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/89865",
+        "dub": "https://www.animegg.org/embed/89969",
+        "url": "https://www.animegg.org/mahouka-koukou-no-rettousei-movie-hoshi-wo-yobu-shoujo-episode-1"
+      }
+    ]
   }
 ]
