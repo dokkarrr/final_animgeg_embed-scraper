@@ -4344,5 +4344,45 @@
         "url": "https://www.animegg.org/noblesse-the-beginning-of-destruction-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3130,
+    "title": "Planetarian: Chiisana Hoshi no Yume",
+    "animegg_url": "https://www.animegg.org/series/planetarian-chiisana-hoshi-no-yume",
+    "mal_url": "https://myanimelist.net/anime/33091",
+    "mal_id": 33091,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/82979",
+        "dub": null,
+        "url": "https://www.animegg.org/planetarian-chiisana-hoshi-no-yume-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/83063",
+        "dub": null,
+        "url": "https://www.animegg.org/planetarian-chiisana-hoshi-no-yume-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/83170",
+        "dub": null,
+        "url": "https://www.animegg.org/planetarian-chiisana-hoshi-no-yume-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/83280",
+        "dub": null,
+        "url": "https://www.animegg.org/planetarian-chiisana-hoshi-no-yume-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/83356",
+        "dub": null,
+        "url": "https://www.animegg.org/planetarian-chiisana-hoshi-no-yume-episode-5"
+      }
+    ]
   }
 ]
