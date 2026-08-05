@@ -88554,5 +88554,39 @@
         "url": "https://www.animegg.org/kandagawa-jet-girls-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4243,
+    "title": "Alien Nine",
+    "animegg_url": "https://www.animegg.org/series/alien-nine",
+    "mal_url": "https://myanimelist.net/anime/1177",
+    "mal_id": 1177,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/65797",
+        "dub": "https://www.animegg.org/embed/68303",
+        "url": "https://www.animegg.org/alien-nine-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/65798",
+        "dub": "https://www.animegg.org/embed/68311",
+        "url": "https://www.animegg.org/alien-nine-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/65799",
+        "dub": "https://www.animegg.org/embed/68314",
+        "url": "https://www.animegg.org/alien-nine-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/65800",
+        "dub": "https://www.animegg.org/embed/68317",
+        "url": "https://www.animegg.org/alien-nine-episode-4"
+      }
+    ]
   }
 ]
