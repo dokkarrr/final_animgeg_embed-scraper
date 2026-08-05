@@ -106194,5 +106194,63 @@
         "url": "https://www.animegg.org/kanojo-mo-kanojo-season-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4516,
+    "title": "Haibara's Teenage New Game+",
+    "animegg_url": "https://www.animegg.org/series/haibara-s-teenage-new-game",
+    "mal_url": "https://myanimelist.net/anime/61943",
+    "mal_id": 61943,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/145350",
+        "dub": null,
+        "url": "https://www.animegg.org/haibara-s-teenage-new-game-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/145411",
+        "dub": null,
+        "url": "https://www.animegg.org/haibara-s-teenage-new-game-episode-2"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/145471",
+        "dub": null,
+        "url": "https://www.animegg.org/haibara-s-teenage-new-game-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/145573",
+        "dub": null,
+        "url": "https://www.animegg.org/haibara-s-teenage-new-game-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/145664",
+        "dub": null,
+        "url": "https://www.animegg.org/haibara-s-teenage-new-game-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/145751",
+        "dub": null,
+        "url": "https://www.animegg.org/haibara-s-teenage-new-game-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/145873",
+        "dub": null,
+        "url": "https://www.animegg.org/haibara-s-teenage-new-game-episode-8"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/146132",
+        "dub": null,
+        "url": "https://www.animegg.org/haibara-s-teenage-new-game-episode-12"
+      }
+    ]
   }
 ]
