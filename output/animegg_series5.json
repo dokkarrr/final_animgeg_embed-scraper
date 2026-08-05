@@ -79621,5 +79621,57 @@
         "url": "https://www.animegg.org/offside-tv-episode-39"
       }
     ]
+  },
+  {
+    "serial_no": 6567,
+    "title": "Rezero starting life in another world season 3",
+    "animegg_url": "https://www.animegg.org/series/rezero-starting-life-in-another-world-season-3",
+    "mal_url": "https://myanimelist.net/anime/31240",
+    "mal_id": 31240,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/140433",
+        "dub": null,
+        "url": "https://www.animegg.org/rezero-starting-life-in-another-world-season-3-episode-16"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/140343",
+        "dub": null,
+        "url": "https://www.animegg.org/rezero-starting-life-in-another-world-season-3-episode-15"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/140278",
+        "dub": null,
+        "url": "https://www.animegg.org/rezero-starting-life-in-another-world-season-3-episode-14"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/140206",
+        "dub": null,
+        "url": "https://www.animegg.org/rezero-starting-life-in-another-world-season-3-episode-13"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/140112",
+        "dub": null,
+        "url": "https://www.animegg.org/rezero-starting-life-in-another-world-season-3-episode-12"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/140025",
+        "dub": null,
+        "url": "https://www.animegg.org/rezero-starting-life-in-another-world-season-3-episode-11"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/139926",
+        "dub": null,
+        "url": "https://www.animegg.org/rezero-starting-life-in-another-world-season-3-episode-9"
+      }
+    ]
   }
 ]
