@@ -44828,5 +44828,87 @@
         "url": "https://www.animegg.org/boku-no-kokoro-no-yabai-yatsu-season-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3606,
+    "title": "Bungou Stray Dogs Wan!",
+    "animegg_url": "https://www.animegg.org/series/bungou-stray-dogs-wan",
+    "mal_url": "https://myanimelist.net/anime/42250",
+    "mal_id": 42250,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/100486",
+        "dub": null,
+        "url": "https://www.animegg.org/bungou-stray-dogs-wan-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/100582",
+        "dub": null,
+        "url": "https://www.animegg.org/bungou-stray-dogs-wan-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/100657",
+        "dub": null,
+        "url": "https://www.animegg.org/bungou-stray-dogs-wan-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/100730",
+        "dub": null,
+        "url": "https://www.animegg.org/bungou-stray-dogs-wan-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/100799",
+        "dub": null,
+        "url": "https://www.animegg.org/bungou-stray-dogs-wan-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/100871",
+        "dub": null,
+        "url": "https://www.animegg.org/bungou-stray-dogs-wan-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/100944",
+        "dub": null,
+        "url": "https://www.animegg.org/bungou-stray-dogs-wan-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/101023",
+        "dub": null,
+        "url": "https://www.animegg.org/bungou-stray-dogs-wan-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/101093",
+        "dub": null,
+        "url": "https://www.animegg.org/bungou-stray-dogs-wan-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/101164",
+        "dub": null,
+        "url": "https://www.animegg.org/bungou-stray-dogs-wan-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/101236",
+        "dub": null,
+        "url": "https://www.animegg.org/bungou-stray-dogs-wan-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/101313",
+        "dub": null,
+        "url": "https://www.animegg.org/bungou-stray-dogs-wan-episode-12"
+      }
+    ]
   }
 ]
