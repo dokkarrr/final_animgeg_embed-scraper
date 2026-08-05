@@ -18532,5 +18532,57 @@
         "url": "https://www.animegg.org/chio-chan-no-tsuugakuro-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3290,
+    "title": "Daily Lives of High School Boys Specials",
+    "animegg_url": "https://www.animegg.org/series/daily-lives-of-high-school-boys-specials",
+    "mal_url": "https://myanimelist.net/anime/12893",
+    "mal_id": 12893,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/7026",
+        "dub": null,
+        "url": "https://www.animegg.org/daily-lives-of-high-school-boys-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/7029",
+        "dub": null,
+        "url": "https://www.animegg.org/daily-lives-of-high-school-boys-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/7025",
+        "dub": null,
+        "url": "https://www.animegg.org/daily-lives-of-high-school-boys-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/7028",
+        "dub": null,
+        "url": "https://www.animegg.org/daily-lives-of-high-school-boys-specials-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/7027",
+        "dub": null,
+        "url": "https://www.animegg.org/daily-lives-of-high-school-boys-specials-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/7030",
+        "dub": null,
+        "url": "https://www.animegg.org/daily-lives-of-high-school-boys-specials-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/7031",
+        "dub": null,
+        "url": "https://www.animegg.org/daily-lives-of-high-school-boys-specials-episode-7"
+      }
+    ]
   }
 ]
