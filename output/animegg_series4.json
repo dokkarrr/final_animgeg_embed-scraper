@@ -106252,5 +106252,27 @@
         "url": "https://www.animegg.org/haibara-s-teenage-new-game-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4517,
+    "title": "Gintama: Jump Anime Tour 2008 Special",
+    "animegg_url": "https://www.animegg.org/series/gintama-jump-anime-tour-2008-special",
+    "mal_url": "https://myanimelist.net/anime/6945",
+    "mal_id": 6945,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 2008,
+        "sub": "https://www.animegg.org/embed/45027",
+        "dub": null,
+        "url": "https://www.animegg.org/gintama-jump-anime-tour-2008-special-episode-2"
+      },
+      {
+        "ep": 2008,
+        "sub": "https://www.animegg.org/embed/45026",
+        "dub": null,
+        "url": "https://www.animegg.org/gintama-jump-anime-tour-2008-special-episode-1"
+      }
+    ]
   }
 ]
