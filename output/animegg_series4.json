@@ -98164,5 +98164,21 @@
         "url": "https://www.animegg.org/mahou-shoujo-madoka-9733-magica-movie-3-hangyaku-no-monogatari-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4379,
+    "title": "Kuroshitsuji Movie: Book of the Atlantic",
+    "animegg_url": "https://www.animegg.org/series/kuroshitsuji-movie-book-of-the-atlantic",
+    "mal_url": "https://myanimelist.net/anime/31812",
+    "mal_id": 31812,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/88128",
+        "dub": "https://www.animegg.org/embed/89530",
+        "url": "https://www.animegg.org/kuroshitsuji-movie-book-of-the-atlantic-episode-1"
+      }
+    ]
   }
 ]
