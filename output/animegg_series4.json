@@ -132820,5 +132820,87 @@
         "url": "https://www.animegg.org/blue-lock-season-2-episode-11"
       }
     ]
+  },
+  {
+    "serial_no": 4922,
+    "title": "Do It Yourself!!",
+    "animegg_url": "https://www.animegg.org/series/do-it-yourself",
+    "mal_url": "https://myanimelist.net/anime/48542",
+    "mal_id": 48542,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/106037",
+        "dub": null,
+        "url": "https://www.animegg.org/do-it-yourself-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/106102",
+        "dub": null,
+        "url": "https://www.animegg.org/do-it-yourself-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/106162",
+        "dub": null,
+        "url": "https://www.animegg.org/do-it-yourself-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/106224",
+        "dub": null,
+        "url": "https://www.animegg.org/do-it-yourself-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/106282",
+        "dub": null,
+        "url": "https://www.animegg.org/do-it-yourself-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/106345",
+        "dub": null,
+        "url": "https://www.animegg.org/do-it-yourself-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/106404",
+        "dub": null,
+        "url": "https://www.animegg.org/do-it-yourself-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/106466",
+        "dub": null,
+        "url": "https://www.animegg.org/do-it-yourself-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/106524",
+        "dub": null,
+        "url": "https://www.animegg.org/do-it-yourself-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/106578",
+        "dub": null,
+        "url": "https://www.animegg.org/do-it-yourself-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/106630",
+        "dub": null,
+        "url": "https://www.animegg.org/do-it-yourself-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/106690",
+        "dub": null,
+        "url": "https://www.animegg.org/do-it-yourself-episode-12"
+      }
+    ]
   }
 ]
