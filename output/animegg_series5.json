@@ -59627,5 +59627,21 @@
         "url": "https://www.animegg.org/cardfight-vanguard-g-dub-episode-48"
       }
     ]
+  },
+  {
+    "serial_no": 6395,
+    "title": "Tamayura: Sotsugyou Shashin Part 3 - Akogare - MOVIE",
+    "animegg_url": "https://www.animegg.org/series/tamayura-sotsugyou-shashin-part-3---akogare---movie",
+    "mal_url": "https://myanimelist.net/anime/29830",
+    "mal_id": 29830,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/81446",
+        "dub": null,
+        "url": "https://www.animegg.org/tamayura-sotsugyou-shashin-part-3---akogare---movie-episode-1"
+      }
+    ]
   }
 ]
