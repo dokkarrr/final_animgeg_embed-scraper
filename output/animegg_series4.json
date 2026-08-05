@@ -46006,5 +46006,87 @@
         "url": "https://www.animegg.org/alice-gear-aegis-expansion-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3623,
+    "title": "Giji Harem",
+    "animegg_url": "https://www.animegg.org/series/giji-harem",
+    "mal_url": "https://myanimelist.net/anime/54968",
+    "mal_id": 54968,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/135385",
+        "dub": null,
+        "url": "https://www.animegg.org/giji-harem-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/135533",
+        "dub": null,
+        "url": "https://www.animegg.org/giji-harem-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/135679",
+        "dub": null,
+        "url": "https://www.animegg.org/giji-harem-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/135811",
+        "dub": null,
+        "url": "https://www.animegg.org/giji-harem-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/135992",
+        "dub": null,
+        "url": "https://www.animegg.org/giji-harem-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/136156",
+        "dub": null,
+        "url": "https://www.animegg.org/giji-harem-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/136302",
+        "dub": null,
+        "url": "https://www.animegg.org/giji-harem-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/136455",
+        "dub": null,
+        "url": "https://www.animegg.org/giji-harem-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/136648",
+        "dub": null,
+        "url": "https://www.animegg.org/giji-harem-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/136809",
+        "dub": null,
+        "url": "https://www.animegg.org/giji-harem-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/137014",
+        "dub": null,
+        "url": "https://www.animegg.org/giji-harem-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/137167",
+        "dub": null,
+        "url": "https://www.animegg.org/giji-harem-episode-12"
+      }
+    ]
   }
 ]
