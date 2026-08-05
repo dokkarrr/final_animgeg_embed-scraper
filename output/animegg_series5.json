@@ -120949,5 +120949,33 @@
         "url": "https://www.animegg.org/dae-jang-geum-jang-geum-s-dream-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6918,
+    "title": "Hakuouki OVA (2021)",
+    "animegg_url": "https://www.animegg.org/series/hakuouki-ova-2021",
+    "mal_url": "https://myanimelist.net/anime/49338",
+    "mal_id": 49338,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 2021,
+        "sub": "https://www.animegg.org/embed/103895",
+        "dub": null,
+        "url": "https://www.animegg.org/hakuouki-ova-2021-episode-3"
+      },
+      {
+        "ep": 2021,
+        "sub": "https://www.animegg.org/embed/103766",
+        "dub": null,
+        "url": "https://www.animegg.org/hakuouki-ova-2021-episode-2"
+      },
+      {
+        "ep": 2021,
+        "sub": "https://www.animegg.org/embed/103765",
+        "dub": null,
+        "url": "https://www.animegg.org/hakuouki-ova-2021-episode-1"
+      }
+    ]
   }
 ]
