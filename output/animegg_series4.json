@@ -92822,5 +92822,27 @@
         "url": "https://www.animegg.org/elf-san-wa-yaserarenai-uncensored-episode-14"
       }
     ]
+  },
+  {
+    "serial_no": 4296,
+    "title": "Lupin III (2015) Specials",
+    "animegg_url": "https://www.animegg.org/series/lupin-iii-2015-specials",
+    "mal_url": "https://myanimelist.net/anime/33074",
+    "mal_id": 33074,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 2015,
+        "sub": "https://www.animegg.org/embed/82136",
+        "dub": null,
+        "url": "https://www.animegg.org/lupiniii-2015-specials-episode-2"
+      },
+      {
+        "ep": 2015,
+        "sub": "https://www.animegg.org/embed/82135",
+        "dub": null,
+        "url": "https://www.animegg.org/lupiniii-2015-specials-episode-1"
+      }
+    ]
   }
 ]
