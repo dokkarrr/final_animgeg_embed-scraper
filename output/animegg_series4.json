@@ -105986,5 +105986,87 @@
         "url": "https://www.animegg.org/soredemo-ayumu-wa-yosetekuru-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4512,
+    "title": "Natsunagu!",
+    "animegg_url": "https://www.animegg.org/series/natsunagu",
+    "mal_url": "https://myanimelist.net/anime/40738",
+    "mal_id": 40738,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/97471",
+        "dub": "https://www.animegg.org/embed/97505",
+        "url": "https://www.animegg.org/natsunagu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/97538",
+        "dub": null,
+        "url": "https://www.animegg.org/natsunagu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/97697",
+        "dub": null,
+        "url": "https://www.animegg.org/natsunagu-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/97734",
+        "dub": null,
+        "url": "https://www.animegg.org/natsunagu-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/97742",
+        "dub": null,
+        "url": "https://www.animegg.org/natsunagu-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/97811",
+        "dub": null,
+        "url": "https://www.animegg.org/natsunagu-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/97928",
+        "dub": null,
+        "url": "https://www.animegg.org/natsunagu-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/97929",
+        "dub": null,
+        "url": "https://www.animegg.org/natsunagu-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/97978",
+        "dub": null,
+        "url": "https://www.animegg.org/natsunagu-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/98046",
+        "dub": null,
+        "url": "https://www.animegg.org/natsunagu-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/98190",
+        "dub": null,
+        "url": "https://www.animegg.org/natsunagu-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/98191",
+        "dub": null,
+        "url": "https://www.animegg.org/natsunagu-episode-12"
+      }
+    ]
   }
 ]
