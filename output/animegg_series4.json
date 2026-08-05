@@ -118472,5 +118472,39 @@
         "url": "https://www.animegg.org/thunderbolt-fantasy-sword-seekers-3-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4719,
+    "title": "Di Gi Charat Natsuyasumi Special",
+    "animegg_url": "https://www.animegg.org/series/di-gi-charat-natsuyasumi-special",
+    "mal_url": "https://myanimelist.net/anime/1756",
+    "mal_id": 1756,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/50980",
+        "dub": null,
+        "url": "https://www.animegg.org/di-gi-charat-natsuyasumi-special-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/50981",
+        "dub": null,
+        "url": "https://www.animegg.org/di-gi-charat-natsuyasumi-special-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/50982",
+        "dub": null,
+        "url": "https://www.animegg.org/di-gi-charat-natsuyasumi-special-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/50983",
+        "dub": null,
+        "url": "https://www.animegg.org/di-gi-charat-natsuyasumi-special-episode-4"
+      }
+    ]
   }
 ]
