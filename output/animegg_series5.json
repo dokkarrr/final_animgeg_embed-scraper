@@ -13431,5 +13431,27 @@
         "url": "https://www.animegg.org/hacksign-dub-episode-28"
       }
     ]
+  },
+  {
+    "serial_no": 5825,
+    "title": "Switch",
+    "animegg_url": "https://www.animegg.org/series/switch",
+    "mal_url": "https://myanimelist.net/anime/3574",
+    "mal_id": 3574,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/62612",
+        "dub": null,
+        "url": "https://www.animegg.org/switch-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/62613",
+        "dub": null,
+        "url": "https://www.animegg.org/switch-episode-2"
+      }
+    ]
   }
 ]
