@@ -13543,5 +13543,21 @@
         "url": "https://www.animegg.org/touken-ranbu-kai-kyoden-moyuru-honnouji-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 5829,
+    "title": "Doggy Poo",
+    "animegg_url": "https://www.animegg.org/series/doggy-poo",
+    "mal_url": "https://myanimelist.net/anime/4147",
+    "mal_id": 4147,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/50322",
+        "dub": "https://www.animegg.org/embed/50323",
+        "url": "https://www.animegg.org/doggy-poo-episode-1"
+      }
+    ]
   }
 ]
