@@ -135049,5 +135049,81 @@
         "url": "https://www.animegg.org/inuyasha-the-movie-4-fire-on-the-mystic-island-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4959,
+    "title": "ARP Backstage Pass",
+    "animegg_url": "https://www.animegg.org/series/arp-backstage-pass",
+    "mal_url": "https://myanimelist.net/anime/40137",
+    "mal_id": 40137,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/97532",
+        "dub": null,
+        "url": "https://www.animegg.org/arp-backstage-pass-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/97597",
+        "dub": null,
+        "url": "https://www.animegg.org/arp-backstage-pass-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/97666",
+        "dub": null,
+        "url": "https://www.animegg.org/arp-backstage-pass-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/97799",
+        "dub": null,
+        "url": "https://www.animegg.org/arp-backstage-pass-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/97854",
+        "dub": null,
+        "url": "https://www.animegg.org/arp-backstage-pass-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/97909",
+        "dub": null,
+        "url": "https://www.animegg.org/arp-backstage-pass-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/98025",
+        "dub": null,
+        "url": "https://www.animegg.org/arp-backstage-pass-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/98092",
+        "dub": null,
+        "url": "https://www.animegg.org/arp-backstage-pass-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/98151",
+        "dub": null,
+        "url": "https://www.animegg.org/arp-backstage-pass-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/98206",
+        "dub": null,
+        "url": "https://www.animegg.org/arp-backstage-pass-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/98922",
+        "dub": null,
+        "url": "https://www.animegg.org/arp-backstage-pass-episode-11"
+      }
+    ]
   }
 ]
