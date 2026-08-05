@@ -3808,5 +3808,87 @@
         "url": "https://www.animegg.org/mahou-shoujo-ni-akogarete-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3122,
+    "title": "Gibiate",
+    "animegg_url": "https://www.animegg.org/series/gibiate",
+    "mal_url": "https://myanimelist.net/anime/40074",
+    "mal_id": 40074,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/98931",
+        "dub": null,
+        "url": "https://www.animegg.org/gibiate-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/98970",
+        "dub": null,
+        "url": "https://www.animegg.org/gibiate-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/99015",
+        "dub": null,
+        "url": "https://www.animegg.org/gibiate-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/99065",
+        "dub": null,
+        "url": "https://www.animegg.org/gibiate-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/99116",
+        "dub": null,
+        "url": "https://www.animegg.org/gibiate-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/99159",
+        "dub": null,
+        "url": "https://www.animegg.org/gibiate-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/99199",
+        "dub": null,
+        "url": "https://www.animegg.org/gibiate-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/99243",
+        "dub": null,
+        "url": "https://www.animegg.org/gibiate-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/99279",
+        "dub": null,
+        "url": "https://www.animegg.org/gibiate-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/99360",
+        "dub": null,
+        "url": "https://www.animegg.org/gibiate-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/99416",
+        "dub": null,
+        "url": "https://www.animegg.org/gibiate-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/99491",
+        "dub": null,
+        "url": "https://www.animegg.org/gibiate-episode-12"
+      }
+    ]
   }
 ]
