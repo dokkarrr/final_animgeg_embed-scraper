@@ -110488,5 +110488,21 @@
         "url": "https://www.animegg.org/xiong-bing-lian-episode-33"
       }
     ]
+  },
+  {
+    "serial_no": 6827,
+    "title": "Nakitai Watashi wa Neko wo Kaburu",
+    "animegg_url": "https://www.animegg.org/series/nakitai-watashi-wa-neko-wo-kaburu",
+    "mal_url": "https://myanimelist.net/anime/41168",
+    "mal_id": 41168,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/102188",
+        "dub": null,
+        "url": "https://www.animegg.org/nakitai-watashi-wa-neko-wo-kaburu-episode-1"
+      }
+    ]
   }
 ]
