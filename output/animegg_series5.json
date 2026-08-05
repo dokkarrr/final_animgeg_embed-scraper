@@ -29368,5 +29368,21 @@
         "url": "https://www.animegg.org/taifuu-no-noruda-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6106,
+    "title": "Goldfish Warning! The Movie",
+    "animegg_url": "https://www.animegg.org/series/goldfish-warning-the-movie",
+    "mal_url": "https://myanimelist.net/anime/3155",
+    "mal_id": 3155,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/52687",
+        "dub": null,
+        "url": "https://www.animegg.org/goldfish-warning-the-movie-episode-1"
+      }
+    ]
   }
 ]
