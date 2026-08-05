@@ -101610,5 +101610,45 @@
         "url": "https://www.animegg.org/kyoshiro-to-towa-no-sora-specials-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 4426,
+    "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season",
+    "animegg_url": "https://www.animegg.org/series/nanatsu-no-taizai-mokushiroku-no-yonkishi-2nd-season",
+    "mal_url": "https://myanimelist.net/anime/58511",
+    "mal_id": 58511,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/139163",
+        "dub": null,
+        "url": "https://www.animegg.org/nanatsu-no-taizai-mokushiroku-no-yonkishi-2nd-season-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/138706",
+        "dub": null,
+        "url": "https://www.animegg.org/nanatsu-no-taizai-mokushiroku-no-yonkishi-2nd-season-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/138369",
+        "dub": null,
+        "url": "https://www.animegg.org/nanatsu-no-taizai-mokushiroku-no-yonkishi-2nd-season-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/138067",
+        "dub": null,
+        "url": "https://www.animegg.org/nanatsu-no-taizai-mokushiroku-no-yonkishi-2nd-season-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/137850",
+        "dub": null,
+        "url": "https://www.animegg.org/nanatsu-no-taizai-mokushiroku-no-yonkishi-2nd-season-episode-1"
+      }
+    ]
   }
 ]
