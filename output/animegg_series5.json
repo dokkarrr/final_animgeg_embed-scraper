@@ -99928,5 +99928,21 @@
         "url": "https://www.animegg.org/fake-identity-episode-50"
       }
     ]
+  },
+  {
+    "serial_no": 6738,
+    "title": "Kimi wa Kanata",
+    "animegg_url": "https://www.animegg.org/series/kimi-wa-kanata",
+    "mal_url": "https://myanimelist.net/anime/41379",
+    "mal_id": 41379,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/103116",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-wa-kanata-episode-1"
+      }
+    ]
   }
 ]
