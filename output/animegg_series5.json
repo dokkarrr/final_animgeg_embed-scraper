@@ -14904,5 +14904,21 @@
         "url": "https://www.animegg.org/sanjougattai-transformers-go-shinobi-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 5868,
+    "title": "Blackfox",
+    "animegg_url": "https://www.animegg.org/series/blackfox",
+    "mal_url": "https://myanimelist.net/anime/37498",
+    "mal_id": 37498,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/96604",
+        "dub": null,
+        "url": "https://www.animegg.org/blackfox-episode-1"
+      }
+    ]
   }
 ]
