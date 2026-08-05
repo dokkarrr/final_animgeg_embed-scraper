@@ -5074,5 +5074,87 @@
         "url": "https://www.animegg.org/kingdom-4-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3140,
+    "title": "Rokuhoudou Yotsuiro Biyori",
+    "animegg_url": "https://www.animegg.org/series/rokuhoudou-yotsuiro-biyori",
+    "mal_url": "https://myanimelist.net/anime/36513",
+    "mal_id": 36513,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/90720",
+        "dub": null,
+        "url": "https://www.animegg.org/rokuhoudou-yotsuiro-biyori-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/90809",
+        "dub": null,
+        "url": "https://www.animegg.org/rokuhoudou-yotsuiro-biyori-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/90902",
+        "dub": null,
+        "url": "https://www.animegg.org/rokuhoudou-yotsuiro-biyori-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/90989",
+        "dub": null,
+        "url": "https://www.animegg.org/rokuhoudou-yotsuiro-biyori-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/91087",
+        "dub": null,
+        "url": "https://www.animegg.org/rokuhoudou-yotsuiro-biyori-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/91168",
+        "dub": null,
+        "url": "https://www.animegg.org/rokuhoudou-yotsuiro-biyori-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/91255",
+        "dub": null,
+        "url": "https://www.animegg.org/rokuhoudou-yotsuiro-biyori-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/91337",
+        "dub": null,
+        "url": "https://www.animegg.org/rokuhoudou-yotsuiro-biyori-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/91421",
+        "dub": null,
+        "url": "https://www.animegg.org/rokuhoudou-yotsuiro-biyori-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/91507",
+        "dub": null,
+        "url": "https://www.animegg.org/rokuhoudou-yotsuiro-biyori-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/91590",
+        "dub": null,
+        "url": "https://www.animegg.org/rokuhoudou-yotsuiro-biyori-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/91664",
+        "dub": null,
+        "url": "https://www.animegg.org/rokuhoudou-yotsuiro-biyori-episode-12"
+      }
+    ]
   }
 ]
