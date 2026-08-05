@@ -88274,5 +88274,39 @@
         "url": "https://www.animegg.org/kuroko-no-basket-oshaberi-shiyokka-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4239,
+    "title": "Digimon Adventure tri. 5: Kyousei",
+    "animegg_url": "https://www.animegg.org/series/digimon-adventure-tri-5-kyousei",
+    "mal_url": "https://myanimelist.net/anime/34962",
+    "mal_id": 34962,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/88420",
+        "dub": null,
+        "url": "https://www.animegg.org/digimon-adventure-tri-5-kyousei-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/88419",
+        "dub": null,
+        "url": "https://www.animegg.org/digimon-adventure-tri-5-kyousei-episode-3"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/88418",
+        "dub": null,
+        "url": "https://www.animegg.org/digimon-adventure-tri-5-kyousei-episode-2"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/88417",
+        "dub": null,
+        "url": "https://www.animegg.org/digimon-adventure-tri-5-kyousei-episode-1"
+      }
+    ]
   }
 ]
