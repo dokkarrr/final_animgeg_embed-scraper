@@ -62286,5 +62286,27 @@
         "url": "https://www.animegg.org/copihan-episode-7"
       }
     ]
+  },
+  {
+    "serial_no": 3841,
+    "title": "Cyberpunk: Edgerunners",
+    "animegg_url": "https://www.animegg.org/series/cyberpunk-edgerunners",
+    "mal_url": "https://myanimelist.net/anime/42310",
+    "mal_id": 42310,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/105847",
+        "dub": null,
+        "url": "https://www.animegg.org/cyberpunk-edgerunners-episode-1"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/105848",
+        "dub": null,
+        "url": "https://www.animegg.org/cyberpunk-edgerunners-episode-10"
+      }
+    ]
   }
 ]
