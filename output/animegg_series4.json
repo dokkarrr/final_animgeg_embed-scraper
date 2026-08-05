@@ -29200,5 +29200,87 @@
         "url": "https://www.animegg.org/dragon-ball-episode-of-bardock-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3416,
+    "title": "Harukana Receive",
+    "animegg_url": "https://www.animegg.org/series/harukana-receive",
+    "mal_url": "https://myanimelist.net/anime/35983",
+    "mal_id": 35983,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/91767",
+        "dub": null,
+        "url": "https://www.animegg.org/harukana-receive-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/91933",
+        "dub": null,
+        "url": "https://www.animegg.org/harukana-receive-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/91932",
+        "dub": null,
+        "url": "https://www.animegg.org/harukana-receive-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/92040",
+        "dub": null,
+        "url": "https://www.animegg.org/harukana-receive-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/92156",
+        "dub": null,
+        "url": "https://www.animegg.org/harukana-receive-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/92232",
+        "dub": null,
+        "url": "https://www.animegg.org/harukana-receive-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/92391",
+        "dub": null,
+        "url": "https://www.animegg.org/harukana-receive-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/92524",
+        "dub": null,
+        "url": "https://www.animegg.org/harukana-receive-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/92680",
+        "dub": null,
+        "url": "https://www.animegg.org/harukana-receive-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/92778",
+        "dub": null,
+        "url": "https://www.animegg.org/harukana-receive-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/92849",
+        "dub": null,
+        "url": "https://www.animegg.org/harukana-receive-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/92925",
+        "dub": null,
+        "url": "https://www.animegg.org/harukana-receive-episode-12"
+      }
+    ]
   }
 ]
