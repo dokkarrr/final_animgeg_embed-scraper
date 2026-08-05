@@ -91267,5 +91267,27 @@
         "url": "https://www.animegg.org/yankee-hamster-episode-110"
       }
     ]
+  },
+  {
+    "serial_no": 6677,
+    "title": "The Forsaken Saintess and her Foodie Roadtrip in Another World",
+    "animegg_url": "https://www.animegg.org/series/the-forsaken-saintess-and-her-foodie-roadtrip-in-another-world",
+    "mal_url": "https://myanimelist.net/anime/63752",
+    "mal_id": 63752,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/146332",
+        "dub": null,
+        "url": "https://www.animegg.org/the-forsaken-saintess-and-her-foodie-roadtrip-in-another-world-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/146411",
+        "dub": null,
+        "url": "https://www.animegg.org/the-forsaken-saintess-and-her-foodie-roadtrip-in-another-world-episode-2"
+      }
+    ]
   }
 ]
