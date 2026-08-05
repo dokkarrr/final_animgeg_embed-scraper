@@ -29384,5 +29384,21 @@
         "url": "https://www.animegg.org/goldfish-warning-the-movie-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6107,
+    "title": "Genesis Climber Mospeada: Love, Live, Alive",
+    "animegg_url": "https://www.animegg.org/series/genesis-climber-mospeada-love-live-alive",
+    "mal_url": "https://myanimelist.net/anime/3671",
+    "mal_id": 3671,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/52286",
+        "dub": null,
+        "url": "https://www.animegg.org/genesis-climber-mospeada-love-live-alive-episode-1"
+      }
+    ]
   }
 ]
