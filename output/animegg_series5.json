@@ -11143,5 +11143,21 @@
         "url": "https://www.animegg.org/yoru-wa-neko-to-issho-episode-30"
       }
     ]
+  },
+  {
+    "serial_no": 5778,
+    "title": "Sakamoto desu ga? Special",
+    "animegg_url": "https://www.animegg.org/series/sakamoto-desu-ga-special",
+    "mal_url": "https://myanimelist.net/anime/33524",
+    "mal_id": 33524,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/84037",
+        "dub": null,
+        "url": "https://www.animegg.org/sakamoto-desu-ga-special-episode-1"
+      }
+    ]
   }
 ]
