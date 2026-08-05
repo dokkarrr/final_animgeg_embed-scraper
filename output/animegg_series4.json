@@ -121520,5 +121520,21 @@
         "url": "https://www.animegg.org/otona-no-bouguya-san-2nd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4752,
+    "title": "Detective Conan Movie 22: Zero The Enforcer",
+    "animegg_url": "https://www.animegg.org/series/detective-conan-movie-22-zero-the-enforcer",
+    "mal_url": "https://myanimelist.net/anime/35798",
+    "mal_id": 35798,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 22,
+        "sub": "https://www.animegg.org/embed/93472",
+        "dub": null,
+        "url": "https://www.animegg.org/detective-conan-movie-22-zero-the-enforcer-episode-1"
+      }
+    ]
   }
 ]
