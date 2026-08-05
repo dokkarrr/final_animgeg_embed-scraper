@@ -136113,5 +136113,111 @@
         "url": "https://www.animegg.org/shin-strange-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 2706,
+    "title": "Great Pretender",
+    "animegg_url": "https://www.animegg.org/series/great-pretender",
+    "mal_url": "https://myanimelist.net/anime/40052",
+    "mal_id": 40052,
+    "total_ep": 16,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/98697",
+        "dub": null,
+        "url": "https://www.animegg.org/great-pretender-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/98698",
+        "dub": null,
+        "url": "https://www.animegg.org/great-pretender-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/98699",
+        "dub": null,
+        "url": "https://www.animegg.org/great-pretender-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/98718",
+        "dub": null,
+        "url": "https://www.animegg.org/great-pretender-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/98719",
+        "dub": null,
+        "url": "https://www.animegg.org/great-pretender-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/98736",
+        "dub": null,
+        "url": "https://www.animegg.org/great-pretender-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/98754",
+        "dub": null,
+        "url": "https://www.animegg.org/great-pretender-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/98756",
+        "dub": null,
+        "url": "https://www.animegg.org/great-pretender-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/98766",
+        "dub": null,
+        "url": "https://www.animegg.org/great-pretender-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/98765",
+        "dub": null,
+        "url": "https://www.animegg.org/great-pretender-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/98774",
+        "dub": null,
+        "url": "https://www.animegg.org/great-pretender-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/98779",
+        "dub": null,
+        "url": "https://www.animegg.org/great-pretender-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/98783",
+        "dub": null,
+        "url": "https://www.animegg.org/great-pretender-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/98790",
+        "dub": null,
+        "url": "https://www.animegg.org/great-pretender-episode-14"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/99414",
+        "dub": null,
+        "url": "https://www.animegg.org/great-pretender-episode-15"
+      },
+      {
+        "ep": 23,
+        "sub": "https://www.animegg.org/embed/99415",
+        "dub": null,
+        "url": "https://www.animegg.org/great-pretender-episode-23"
+      }
+    ]
   }
 ]
