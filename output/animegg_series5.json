@@ -41545,5 +41545,21 @@
         "url": "https://www.animegg.org/get-ride-amdriver-episode-14"
       }
     ]
+  },
+  {
+    "serial_no": 6230,
+    "title": "Starship Troopers: Invasion",
+    "animegg_url": "https://www.animegg.org/series/starship-troopers-invasion",
+    "mal_url": "https://myanimelist.net/anime/14629",
+    "mal_id": 14629,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/62224",
+        "dub": null,
+        "url": "https://www.animegg.org/starship-troopers-invasion-episode-1"
+      }
+    ]
   }
 ]
