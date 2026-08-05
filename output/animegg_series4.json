@@ -95490,5 +95490,45 @@
         "url": "https://www.animegg.org/dakara-boku-wa-h-ga-dekinai-ova-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4345,
+    "title": "The Exiled Heavy Knight Knows How to Game the System",
+    "animegg_url": "https://www.animegg.org/series/the-exiled-heavy-knight-knows-how-to-game-the-system",
+    "mal_url": "https://myanimelist.net/anime/59741",
+    "mal_id": 59741,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/146291",
+        "dub": null,
+        "url": "https://www.animegg.org/the-exiled-heavy-knight-knows-how-to-game-the-system-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/146362",
+        "dub": "https://www.animegg.org/embed/146549",
+        "url": "https://www.animegg.org/the-exiled-heavy-knight-knows-how-to-game-the-system-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/146463",
+        "dub": "https://www.animegg.org/embed/146608",
+        "url": "https://www.animegg.org/the-exiled-heavy-knight-knows-how-to-game-the-system-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/146532",
+        "dub": null,
+        "url": "https://www.animegg.org/the-exiled-heavy-knight-knows-how-to-game-the-system-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/146595",
+        "dub": null,
+        "url": "https://www.animegg.org/the-exiled-heavy-knight-knows-how-to-game-the-system-episode-5"
+      }
+    ]
   }
 ]
