@@ -28904,5 +28904,21 @@
         "url": "https://www.animegg.org/hamtaro-movie-4-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6089,
+    "title": "Haguregumo",
+    "animegg_url": "https://www.animegg.org/series/haguregumo",
+    "mal_url": "https://myanimelist.net/anime/8500",
+    "mal_id": 8500,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/89203",
+        "dub": null,
+        "url": "https://www.animegg.org/haguregumo-episode-1"
+      }
+    ]
   }
 ]
