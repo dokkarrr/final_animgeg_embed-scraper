@@ -77952,5 +77952,27 @@
         "url": "https://www.animegg.org/kamisama-dolls-specials-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 4084,
+    "title": "Major: Message",
+    "animegg_url": "https://www.animegg.org/series/major-message",
+    "mal_url": "https://myanimelist.net/anime/9890",
+    "mal_id": 9890,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/45029",
+        "dub": null,
+        "url": "https://www.animegg.org/major-message-episode"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/99347",
+        "dub": null,
+        "url": "https://www.animegg.org/major-message-episode-1"
+      }
+    ]
   }
 ]
