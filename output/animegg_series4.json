@@ -18258,5 +18258,93 @@
         "url": "https://www.animegg.org/mamahaha-no-tsurego-ga-motokano-datta-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 3286,
+    "title": "SoulTaker",
+    "animegg_url": "https://www.animegg.org/series/soultaker",
+    "mal_url": "https://myanimelist.net/anime/1048",
+    "mal_id": 1048,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/61783",
+        "dub": null,
+        "url": "https://www.animegg.org/soultaker-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/61784",
+        "dub": null,
+        "url": "https://www.animegg.org/soultaker-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/61785",
+        "dub": null,
+        "url": "https://www.animegg.org/soultaker-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/61786",
+        "dub": null,
+        "url": "https://www.animegg.org/soultaker-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/61787",
+        "dub": null,
+        "url": "https://www.animegg.org/soultaker-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/61788",
+        "dub": null,
+        "url": "https://www.animegg.org/soultaker-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/61789",
+        "dub": null,
+        "url": "https://www.animegg.org/soultaker-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/61790",
+        "dub": null,
+        "url": "https://www.animegg.org/soultaker-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/61791",
+        "dub": null,
+        "url": "https://www.animegg.org/soultaker-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/61792",
+        "dub": null,
+        "url": "https://www.animegg.org/soultaker-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/61793",
+        "dub": null,
+        "url": "https://www.animegg.org/soultaker-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/61794",
+        "dub": null,
+        "url": "https://www.animegg.org/soultaker-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/61795",
+        "dub": null,
+        "url": "https://www.animegg.org/soultaker-episode-13"
+      }
+    ]
   }
 ]
