@@ -60296,5 +60296,21 @@
         "url": "https://www.animegg.org/date-a-live-movie-mayuri-judgment-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3825,
+    "title": "Code Geass: Lelouch of the Rebellion R2 Special Edition Zero Requiem",
+    "animegg_url": "https://www.animegg.org/series/code-geass-lelouch-of-the-rebellion-r2-special-edition-zero-requiem",
+    "mal_url": "https://myanimelist.net/anime/6768",
+    "mal_id": 6768,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/6213",
+        "dub": null,
+        "url": "https://www.animegg.org/code-geass-lelouch-of-the-rebellion-r2-special-edition-zero-requiem-episode-1"
+      }
+    ]
   }
 ]
