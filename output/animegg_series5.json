@@ -5980,5 +5980,33 @@
         "url": "https://www.animegg.org/minami-kamakura-koukou-joshi-jitensha-bu-kita-yo-taiwan-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5708,
+    "title": "Sugar*Soldier",
+    "animegg_url": "https://www.animegg.org/series/sugar-soldier",
+    "mal_url": "https://myanimelist.net/anime/21773",
+    "mal_id": 21773,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/62973",
+        "dub": null,
+        "url": "https://www.animegg.org/sugar-soldier-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/62974",
+        "dub": null,
+        "url": "https://www.animegg.org/sugar-soldier-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/62975",
+        "dub": null,
+        "url": "https://www.animegg.org/sugar-soldier-episode-3"
+      }
+    ]
   }
 ]
