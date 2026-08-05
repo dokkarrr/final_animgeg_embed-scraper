@@ -29610,5 +29610,69 @@
         "url": "https://www.animegg.org/flying-witch-petit-episode-9"
       }
     ]
+  },
+  {
+    "serial_no": 3421,
+    "title": "Dr. Stone: New World (Dub)",
+    "animegg_url": "https://www.animegg.org/series/dr-stone-new-world-dub",
+    "mal_url": "https://myanimelist.net/anime/48549",
+    "mal_id": 48549,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/127737",
+        "dub": null,
+        "url": "https://www.animegg.org/dr-stone-new-world-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/127735",
+        "dub": null,
+        "url": "https://www.animegg.org/dr-stone-new-world-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/127736",
+        "dub": null,
+        "url": "https://www.animegg.org/dr-stone-new-world-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/127734",
+        "dub": null,
+        "url": "https://www.animegg.org/dr-stone-new-world-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/127732",
+        "dub": null,
+        "url": "https://www.animegg.org/dr-stone-new-world-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/127731",
+        "dub": null,
+        "url": "https://www.animegg.org/dr-stone-new-world-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/127733",
+        "dub": null,
+        "url": "https://www.animegg.org/dr-stone-new-world-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/127730",
+        "dub": null,
+        "url": "https://www.animegg.org/dr-stone-new-world-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/129795",
+        "dub": null,
+        "url": "https://www.animegg.org/dr-stone-new-world-dub-episode-9"
+      }
+    ]
   }
 ]
