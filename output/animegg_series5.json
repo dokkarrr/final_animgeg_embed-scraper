@@ -44941,5 +44941,21 @@
         "url": "https://www.animegg.org/chiryokumaru-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 6266,
+    "title": "SKET Dance OVA",
+    "animegg_url": "https://www.animegg.org/series/sket-dance-ova",
+    "mal_url": "https://myanimelist.net/anime/16395",
+    "mal_id": 16395,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/35334",
+        "dub": null,
+        "url": "https://www.animegg.org/sket-dance-ova-episode-1"
+      }
+    ]
   }
 ]
