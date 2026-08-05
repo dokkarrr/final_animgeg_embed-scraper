@@ -29894,5 +29894,21 @@
         "url": "https://www.animegg.org/tonikaku-kawaii-joshikou-hen-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 6116,
+    "title": "Ramen Tenshi Pretty Menma",
+    "animegg_url": "https://www.animegg.org/series/ramen-tenshi-pretty-menma",
+    "mal_url": "https://myanimelist.net/anime/7882",
+    "mal_id": 7882,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/60742",
+        "dub": "https://www.animegg.org/embed/60743",
+        "url": "https://www.animegg.org/ramen-tenshi-pretty-menma-episode-1"
+      }
+    ]
   }
 ]
