@@ -106130,5 +106130,69 @@
         "url": "https://www.animegg.org/hajime-no-ippo-mashiba-vs-kimura-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4515,
+    "title": "Kanojo mo Kanojo Season 2",
+    "animegg_url": "https://www.animegg.org/series/kanojo-mo-kanojo-season-2",
+    "mal_url": "https://myanimelist.net/anime/53040",
+    "mal_id": 53040,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/132515",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-mo-kanojo-season-2-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/132495",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-mo-kanojo-season-2-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/132256",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-mo-kanojo-season-2-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/132164",
+        "dub": null,
+        "url": "https://www.animegg.org/kanojo-mo-kanojo-season-2-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/132082",
+        "dub": "https://www.animegg.org/embed/132265",
+        "url": "https://www.animegg.org/kanojo-mo-kanojo-season-2-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/131976",
+        "dub": "https://www.animegg.org/embed/132172",
+        "url": "https://www.animegg.org/kanojo-mo-kanojo-season-2-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/131866",
+        "dub": "https://www.animegg.org/embed/132087",
+        "url": "https://www.animegg.org/kanojo-mo-kanojo-season-2-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/131763",
+        "dub": "https://www.animegg.org/embed/131982",
+        "url": "https://www.animegg.org/kanojo-mo-kanojo-season-2-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/131643",
+        "dub": "https://www.animegg.org/embed/131872",
+        "url": "https://www.animegg.org/kanojo-mo-kanojo-season-2-episode-1"
+      }
+    ]
   }
 ]
