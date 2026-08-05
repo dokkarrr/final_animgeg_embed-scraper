@@ -54876,5 +54876,33 @@
         "url": "https://www.animegg.org/shinmai-maou-no-testament-departures-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 3745,
+    "title": "AIKa: ZERO",
+    "animegg_url": "https://www.animegg.org/series/aika-zero",
+    "mal_url": "https://myanimelist.net/anime/6443",
+    "mal_id": 6443,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/65246",
+        "dub": null,
+        "url": "https://www.animegg.org/aika-zero-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/65247",
+        "dub": null,
+        "url": "https://www.animegg.org/aika-zero-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/65248",
+        "dub": null,
+        "url": "https://www.animegg.org/aika-zero-episode-3"
+      }
+    ]
   }
 ]
