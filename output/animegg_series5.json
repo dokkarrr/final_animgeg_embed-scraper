@@ -2156,5 +2156,21 @@
         "url": "https://www.animegg.org/children-of-ether-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 5640,
+    "title": "Higurashi no Naku Koro ni Special: Nekogoroshi-hen",
+    "animegg_url": "https://www.animegg.org/series/higurashi-no-naku-koro-ni-special-nekogoroshi-hen",
+    "mal_url": "https://myanimelist.net/anime/2899",
+    "mal_id": 2899,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/53434",
+        "dub": null,
+        "url": "https://www.animegg.org/higurashi-no-naku-koro-ni-special-nekogoroshi-hen-episode-1"
+      }
+    ]
   }
 ]
