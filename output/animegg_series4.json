@@ -129428,5 +129428,21 @@
         "url": "https://www.animegg.org/yuyushiki-nyanyashiki-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 4869,
+    "title": "Blame! Movie",
+    "animegg_url": "https://www.animegg.org/series/blame-movie",
+    "mal_url": "https://myanimelist.net/anime/32086",
+    "mal_id": 32086,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/86996",
+        "dub": null,
+        "url": "https://www.animegg.org/blame-movie-episode-1"
+      }
+    ]
   }
 ]
