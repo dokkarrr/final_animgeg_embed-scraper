@@ -135121,5 +135121,51 @@
         "url": "https://www.animegg.org/nanatsu-no-taizai-movie-tenkuu-no-torawarebito-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 2695,
+    "title": "Freezing Vibration Specials",
+    "animegg_url": "https://www.animegg.org/series/freezing-vibration-specials",
+    "mal_url": "https://myanimelist.net/anime/21373",
+    "mal_id": 21373,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/11247",
+        "dub": null,
+        "url": "https://www.animegg.org/freezing-vibration-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/11246",
+        "dub": null,
+        "url": "https://www.animegg.org/freezing-vibration-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/11245",
+        "dub": null,
+        "url": "https://www.animegg.org/freezing-vibration-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/11252",
+        "dub": "https://www.animegg.org/embed/11253",
+        "url": "https://www.animegg.org/freezing-vibration-specials-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/11250",
+        "dub": "https://www.animegg.org/embed/11251",
+        "url": "https://www.animegg.org/freezing-vibration-specials-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/11248",
+        "dub": "https://www.animegg.org/embed/11249",
+        "url": "https://www.animegg.org/freezing-vibration-specials-episode-6"
+      }
+    ]
   }
 ]
