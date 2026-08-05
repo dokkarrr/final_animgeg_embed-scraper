@@ -70854,5 +70854,33 @@
         "url": "https://www.animegg.org/wo-de-yi-jie-zhi-lu-episode-40"
       }
     ]
+  },
+  {
+    "serial_no": 6502,
+    "title": "Double Decker! Doug & Kirill: Extra",
+    "animegg_url": "https://www.animegg.org/series/double-decker-doug-kirill-extra",
+    "mal_url": "https://myanimelist.net/anime/38895",
+    "mal_id": 38895,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/94488",
+        "dub": null,
+        "url": "https://www.animegg.org/double-decker-doug-kirill-extra-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/94747",
+        "dub": null,
+        "url": "https://www.animegg.org/double-decker-doug-kirill-extra-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/95051",
+        "dub": null,
+        "url": "https://www.animegg.org/double-decker-doug-kirill-extra-episode-3"
+      }
+    ]
   }
 ]
