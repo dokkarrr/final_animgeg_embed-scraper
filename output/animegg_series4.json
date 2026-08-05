@@ -98510,5 +98510,87 @@
         "url": "https://www.animegg.org/tsubasa-tokyo-revelations-episode-5"
       }
     ]
+  },
+  {
+    "serial_no": 4386,
+    "title": "B-Project: Zecchou*Emotion",
+    "animegg_url": "https://www.animegg.org/series/b-project-zecchou-emotion",
+    "mal_url": "https://myanimelist.net/anime/36483",
+    "mal_id": 36483,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/94189",
+        "dub": null,
+        "url": "https://www.animegg.org/b-project-zecchou-emotion-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/94260",
+        "dub": null,
+        "url": "https://www.animegg.org/b-project-zecchou-emotion-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/94325",
+        "dub": null,
+        "url": "https://www.animegg.org/b-project-zecchou-emotion-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/94389",
+        "dub": null,
+        "url": "https://www.animegg.org/b-project-zecchou-emotion-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/94454",
+        "dub": null,
+        "url": "https://www.animegg.org/b-project-zecchou-emotion-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/94516",
+        "dub": null,
+        "url": "https://www.animegg.org/b-project-zecchou-emotion-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/94592",
+        "dub": null,
+        "url": "https://www.animegg.org/b-project-zecchou-emotion-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/94662",
+        "dub": null,
+        "url": "https://www.animegg.org/b-project-zecchou-emotion-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/94723",
+        "dub": null,
+        "url": "https://www.animegg.org/b-project-zecchou-emotion-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/94786",
+        "dub": null,
+        "url": "https://www.animegg.org/b-project-zecchou-emotion-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/94867",
+        "dub": null,
+        "url": "https://www.animegg.org/b-project-zecchou-emotion-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/94944",
+        "dub": null,
+        "url": "https://www.animegg.org/b-project-zecchou-emotion-episode-12"
+      }
+    ]
   }
 ]
