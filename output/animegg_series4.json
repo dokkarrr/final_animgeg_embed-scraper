@@ -116144,5 +116144,39 @@
         "url": "https://www.animegg.org/bludgeoning-angel-dokuro-chan-season-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 4680,
+    "title": "Houkago no Pleiades",
+    "animegg_url": "https://www.animegg.org/series/houkago-no-pleiades",
+    "mal_url": "https://myanimelist.net/anime/9911",
+    "mal_id": 9911,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/16767",
+        "dub": null,
+        "url": "https://www.animegg.org/houkago-no-pleiades-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/16765",
+        "dub": null,
+        "url": "https://www.animegg.org/houkago-no-pleiades-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/16764",
+        "dub": null,
+        "url": "https://www.animegg.org/houkago-no-pleiades-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/16766",
+        "dub": null,
+        "url": "https://www.animegg.org/houkago-no-pleiades-episode-4"
+      }
+    ]
   }
 ]
