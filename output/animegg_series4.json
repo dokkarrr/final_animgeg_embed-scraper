@@ -5736,5 +5736,81 @@
         "url": "https://www.animegg.org/amagi-brilliant-park-specials-episode-7"
       }
     ]
+  },
+  {
+    "serial_no": 3148,
+    "title": "Kill Blue",
+    "animegg_url": "https://www.animegg.org/series/kill-blue",
+    "mal_url": "https://myanimelist.net/anime/62391",
+    "mal_id": 62391,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/145493",
+        "dub": null,
+        "url": "https://www.animegg.org/kill-blue-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/145492",
+        "dub": "https://www.animegg.org/embed/145609",
+        "url": "https://www.animegg.org/kill-blue-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/145593",
+        "dub": "https://www.animegg.org/embed/145659",
+        "url": "https://www.animegg.org/kill-blue-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/145684",
+        "dub": "https://www.animegg.org/embed/145783",
+        "url": "https://www.animegg.org/kill-blue-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/145792",
+        "dub": "https://www.animegg.org/embed/145904",
+        "url": "https://www.animegg.org/kill-blue-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/145898",
+        "dub": "https://www.animegg.org/embed/146030",
+        "url": "https://www.animegg.org/kill-blue-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/146152",
+        "dub": null,
+        "url": "https://www.animegg.org/kill-blue-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/146217",
+        "dub": null,
+        "url": "https://www.animegg.org/kill-blue-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/146281",
+        "dub": null,
+        "url": "https://www.animegg.org/kill-blue-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/146170",
+        "dub": "https://www.animegg.org/embed/146340",
+        "url": "https://www.animegg.org/kill-blue-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/146246",
+        "dub": null,
+        "url": "https://www.animegg.org/kill-blue-episode-12"
+      }
+    ]
   }
 ]
