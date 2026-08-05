@@ -115144,5 +115144,39 @@
         "url": "https://www.animegg.org/jaku-chara-tomozaki-kun-specials-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 6866,
+    "title": "Houkago Shounen Hanako-kun",
+    "animegg_url": "https://www.animegg.org/series/houkago-shounen-hanako-kun",
+    "mal_url": "https://myanimelist.net/anime/56425",
+    "mal_id": 56425,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/131705",
+        "dub": "https://www.animegg.org/embed/131939",
+        "url": "https://www.animegg.org/houkago-shounen-hanako-kun-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/131820",
+        "dub": "https://www.animegg.org/embed/132044",
+        "url": "https://www.animegg.org/houkago-shounen-hanako-kun-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/132127",
+        "dub": null,
+        "url": "https://www.animegg.org/houkago-shounen-hanako-kun-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/132040",
+        "dub": "https://www.animegg.org/embed/132221",
+        "url": "https://www.animegg.org/houkago-shounen-hanako-kun-episode-4"
+      }
+    ]
   }
 ]
