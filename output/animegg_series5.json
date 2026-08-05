@@ -42811,5 +42811,21 @@
         "url": "https://www.animegg.org/chou-futsuu-ken-chiba-densetsu-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 6245,
+    "title": "Tonari no Seki-kun OVA",
+    "animegg_url": "https://www.animegg.org/series/tonari-no-seki-kun-ova",
+    "mal_url": "https://myanimelist.net/anime/20977",
+    "mal_id": 20977,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/44863",
+        "dub": null,
+        "url": "https://www.animegg.org/tonari-no-seki-kun-ova-episode-1"
+      }
+    ]
   }
 ]
