@@ -34820,5 +34820,39 @@
         "url": "https://www.animegg.org/engage-kiss-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3468,
+    "title": "Hoozuki no Reitetsu OVA",
+    "animegg_url": "https://www.animegg.org/series/hoozuki-no-reitetsu-ova",
+    "mal_url": "https://myanimelist.net/anime/24471",
+    "mal_id": 24471,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/75240",
+        "dub": "https://www.animegg.org/embed/78592",
+        "url": "https://www.animegg.org/hoozuki-no-reitetsu-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/76936",
+        "dub": "https://www.animegg.org/embed/78593",
+        "url": "https://www.animegg.org/hoozuki-no-reitetsu-ova-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/81488",
+        "dub": null,
+        "url": "https://www.animegg.org/hoozuki-no-reitetsu-ova-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/94555",
+        "dub": null,
+        "url": "https://www.animegg.org/hoozuki-no-reitetsu-ova-episode-4"
+      }
+    ]
   }
 ]
