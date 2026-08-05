@@ -78410,5 +78410,21 @@
         "url": "https://www.animegg.org/ao-no-exorcist-shimane-illuminati-hen-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4092,
+    "title": "Pokemon Movie 20: Kimi ni Kimeta!",
+    "animegg_url": "https://www.animegg.org/series/pokemon-movie-20-kimi-ni-kimeta",
+    "mal_url": "https://myanimelist.net/anime/34540",
+    "mal_id": 34540,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 20,
+        "sub": "https://www.animegg.org/embed/89188",
+        "dub": "https://www.animegg.org/embed/90959",
+        "url": "https://www.animegg.org/pokemon-movie-20-kimi-ni-kimeta-episode-1"
+      }
+    ]
   }
 ]
