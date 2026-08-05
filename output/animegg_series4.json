@@ -44606,5 +44606,93 @@
         "url": "https://www.animegg.org/usavich-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 3603,
+    "title": "Hataraku Saibou Black (TV)",
+    "animegg_url": "https://www.animegg.org/series/hataraku-saibou-black-tv",
+    "mal_url": "https://myanimelist.net/anime/41694",
+    "mal_id": 41694,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/100431",
+        "dub": null,
+        "url": "https://www.animegg.org/hataraku-saibou-black-tv-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/100513",
+        "dub": null,
+        "url": "https://www.animegg.org/hataraku-saibou-black-tv-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/100552",
+        "dub": null,
+        "url": "https://www.animegg.org/hataraku-saibou-black-tv-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/100553",
+        "dub": null,
+        "url": "https://www.animegg.org/hataraku-saibou-black-tv-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/100601",
+        "dub": null,
+        "url": "https://www.animegg.org/hataraku-saibou-black-tv-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/100674",
+        "dub": null,
+        "url": "https://www.animegg.org/hataraku-saibou-black-tv-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/100748",
+        "dub": null,
+        "url": "https://www.animegg.org/hataraku-saibou-black-tv-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/100815",
+        "dub": null,
+        "url": "https://www.animegg.org/hataraku-saibou-black-tv-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/100889",
+        "dub": null,
+        "url": "https://www.animegg.org/hataraku-saibou-black-tv-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/100965",
+        "dub": null,
+        "url": "https://www.animegg.org/hataraku-saibou-black-tv-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/101040",
+        "dub": null,
+        "url": "https://www.animegg.org/hataraku-saibou-black-tv-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/101105",
+        "dub": null,
+        "url": "https://www.animegg.org/hataraku-saibou-black-tv-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/101185",
+        "dub": null,
+        "url": "https://www.animegg.org/hataraku-saibou-black-tv-episode-13"
+      }
+    ]
   }
 ]
