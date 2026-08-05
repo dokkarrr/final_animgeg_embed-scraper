@@ -115968,5 +115968,51 @@
         "url": "https://www.animegg.org/otona-joshi-no-anime-time-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 4675,
+    "title": "The Wings of Rean",
+    "animegg_url": "https://www.animegg.org/series/the-wings-of-rean",
+    "mal_url": "https://myanimelist.net/anime/574",
+    "mal_id": 574,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/63727",
+        "dub": null,
+        "url": "https://www.animegg.org/the-wings-of-rean-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/63728",
+        "dub": null,
+        "url": "https://www.animegg.org/the-wings-of-rean-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/63729",
+        "dub": null,
+        "url": "https://www.animegg.org/the-wings-of-rean-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/63730",
+        "dub": null,
+        "url": "https://www.animegg.org/the-wings-of-rean-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/63731",
+        "dub": null,
+        "url": "https://www.animegg.org/the-wings-of-rean-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/63732",
+        "dub": null,
+        "url": "https://www.animegg.org/the-wings-of-rean-episode-6"
+      }
+    ]
   }
 ]
