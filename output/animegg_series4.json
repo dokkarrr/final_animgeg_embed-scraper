@@ -128866,5 +128866,21 @@
         "url": "https://www.animegg.org/bermuda-triangle-colorful-pastrale-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 4859,
+    "title": "Green Green OVA",
+    "animegg_url": "https://www.animegg.org/series/green-green-ova",
+    "mal_url": "https://myanimelist.net/anime/881",
+    "mal_id": 881,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/13507",
+        "dub": null,
+        "url": "https://www.animegg.org/green-green-ova-episode-1"
+      }
+    ]
   }
 ]
