@@ -34220,5 +34220,93 @@
         "url": "https://www.animegg.org/k-on-special-episode-7"
       }
     ]
+  },
+  {
+    "serial_no": 3459,
+    "title": "One Room 2nd Season",
+    "animegg_url": "https://www.animegg.org/series/one-room-2nd-season",
+    "mal_url": "https://myanimelist.net/anime/36431",
+    "mal_id": 36431,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/92998",
+        "dub": null,
+        "url": "https://www.animegg.org/one-room-2nd-season-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/92896",
+        "dub": null,
+        "url": "https://www.animegg.org/one-room-2nd-season-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/92817",
+        "dub": null,
+        "url": "https://www.animegg.org/one-room-2nd-season-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/92746",
+        "dub": null,
+        "url": "https://www.animegg.org/one-room-2nd-season-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/92621",
+        "dub": null,
+        "url": "https://www.animegg.org/one-room-2nd-season-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/92431",
+        "dub": null,
+        "url": "https://www.animegg.org/one-room-2nd-season-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/92279",
+        "dub": null,
+        "url": "https://www.animegg.org/one-room-2nd-season-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/92202",
+        "dub": null,
+        "url": "https://www.animegg.org/one-room-2nd-season-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/92103",
+        "dub": null,
+        "url": "https://www.animegg.org/one-room-2nd-season-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/92005",
+        "dub": null,
+        "url": "https://www.animegg.org/one-room-2nd-season-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/91873",
+        "dub": null,
+        "url": "https://www.animegg.org/one-room-2nd-season-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/91811",
+        "dub": null,
+        "url": "https://www.animegg.org/one-room-2nd-season-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/91725",
+        "dub": null,
+        "url": "https://www.animegg.org/one-room-2nd-season-episode-00"
+      }
+    ]
   }
 ]
