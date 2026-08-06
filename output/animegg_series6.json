@@ -89381,5 +89381,33 @@
         "url": "https://www.animegg.org/detective-conan-amuro-secret-call-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 8956,
+    "title": "The Sovereign’s Ascension",
+    "animegg_url": "https://www.animegg.org/series/the-sovereign-s-ascension",
+    "mal_url": "https://myanimelist.net/anime/55014",
+    "mal_id": 55014,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/the-sovereign-s-ascension-episode-1"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/the-sovereign-s-ascension-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/the-sovereign-s-ascension-episode-6"
+      }
+    ]
   }
 ]
