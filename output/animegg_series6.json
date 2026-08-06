@@ -88979,5 +88979,21 @@
         "url": "https://www.animegg.org/tomie-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 8939,
+    "title": "Gundam: G no Reconguista Movie IV - Gekitou ni Sakebu Ai",
+    "animegg_url": "https://www.animegg.org/series/gundam-g-no-reconguista-movie-iv---gekitou-ni-sakebu-ai",
+    "mal_url": "https://myanimelist.net/anime/43205",
+    "mal_id": 43205,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/107489",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-g-no-reconguista-movie-iv---gekitou-ni-sakebu-ai-episode-1"
+      }
+    ]
   }
 ]
