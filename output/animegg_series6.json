@@ -27529,5 +27529,87 @@
         "url": "https://www.animegg.org/the-all-devouring-whale-episode-82"
       }
     ]
+  },
+  {
+    "serial_no": 7853,
+    "title": "Ikkitousen: Xtreme Xecutor (Dub)",
+    "animegg_url": "https://www.animegg.org/series/ikkitousen-xtreme-xecutor-dub",
+    "mal_url": "https://myanimelist.net/anime/257",
+    "mal_id": 257,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/125095",
+        "dub": null,
+        "url": "https://www.animegg.org/ikkitousen-xtreme-xecutor-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/125091",
+        "dub": null,
+        "url": "https://www.animegg.org/ikkitousen-xtreme-xecutor-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/125090",
+        "dub": null,
+        "url": "https://www.animegg.org/ikkitousen-xtreme-xecutor-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/125089",
+        "dub": null,
+        "url": "https://www.animegg.org/ikkitousen-xtreme-xecutor-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/125088",
+        "dub": null,
+        "url": "https://www.animegg.org/ikkitousen-xtreme-xecutor-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/125087",
+        "dub": null,
+        "url": "https://www.animegg.org/ikkitousen-xtreme-xecutor-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/125086",
+        "dub": null,
+        "url": "https://www.animegg.org/ikkitousen-xtreme-xecutor-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/125085",
+        "dub": null,
+        "url": "https://www.animegg.org/ikkitousen-xtreme-xecutor-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/125084",
+        "dub": null,
+        "url": "https://www.animegg.org/ikkitousen-xtreme-xecutor-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/125094",
+        "dub": null,
+        "url": "https://www.animegg.org/ikkitousen-xtreme-xecutor-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/125093",
+        "dub": null,
+        "url": "https://www.animegg.org/ikkitousen-xtreme-xecutor-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/125092",
+        "dub": null,
+        "url": "https://www.animegg.org/ikkitousen-xtreme-xecutor-dub-episode-12"
+      }
+    ]
   }
 ]
