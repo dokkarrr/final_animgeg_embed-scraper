@@ -13037,5 +13037,87 @@
         "url": "https://www.animegg.org/chou-futsuu-toshi-kashiwa-densetsu-kashiwa-no-gotouji-yuru-anime-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 7665,
+    "title": "Sakura Diaries (Dub)",
+    "animegg_url": "https://www.animegg.org/series/sakura-diaries-dub",
+    "mal_url": "https://myanimelist.net/anime/818",
+    "mal_id": 818,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/118030",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-diaries-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/118026",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-diaries-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/118025",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-diaries-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-diaries-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/118024",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-diaries-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/118023",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-diaries-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/118022",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-diaries-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/118021",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-diaries-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/118020",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-diaries-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/118029",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-diaries-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/118028",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-diaries-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/118027",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-diaries-dub-episode-12"
+      }
+    ]
   }
 ]
