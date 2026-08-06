@@ -52546,5 +52546,87 @@
         "url": "https://www.animegg.org/jiu-ye-shen-chuan-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 8204,
+    "title": "Hakata Tonkotsu Ramens",
+    "animegg_url": "https://www.animegg.org/series/hakata-tonkotsu-ramens-dub",
+    "mal_url": "https://myanimelist.net/anime/35889",
+    "mal_id": 35889,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/126082",
+        "dub": null,
+        "url": "https://www.animegg.org/hakata-tonkotsu-ramens-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/126078",
+        "dub": null,
+        "url": "https://www.animegg.org/hakata-tonkotsu-ramens-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/126077",
+        "dub": null,
+        "url": "https://www.animegg.org/hakata-tonkotsu-ramens-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/126076",
+        "dub": null,
+        "url": "https://www.animegg.org/hakata-tonkotsu-ramens-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/126075",
+        "dub": null,
+        "url": "https://www.animegg.org/hakata-tonkotsu-ramens-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/126074",
+        "dub": null,
+        "url": "https://www.animegg.org/hakata-tonkotsu-ramens-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/126073",
+        "dub": null,
+        "url": "https://www.animegg.org/hakata-tonkotsu-ramens-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/126072",
+        "dub": null,
+        "url": "https://www.animegg.org/hakata-tonkotsu-ramens-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/126071",
+        "dub": null,
+        "url": "https://www.animegg.org/hakata-tonkotsu-ramens-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/126081",
+        "dub": null,
+        "url": "https://www.animegg.org/hakata-tonkotsu-ramens-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/126080",
+        "dub": null,
+        "url": "https://www.animegg.org/hakata-tonkotsu-ramens-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/126079",
+        "dub": null,
+        "url": "https://www.animegg.org/hakata-tonkotsu-ramens-dub-episode-12"
+      }
+    ]
   }
 ]
