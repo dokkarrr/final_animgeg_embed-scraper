@@ -43088,5 +43088,87 @@
     "mal_id": 10465,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 8066,
+    "title": "Candidate for Goddess OVA",
+    "animegg_url": "https://www.animegg.org/series/candidate-for-goddess-ova",
+    "mal_url": "https://myanimelist.net/anime/887",
+    "mal_id": 887,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/candidate-for-goddess-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/candidate-for-goddess-ova-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/candidate-for-goddess-ova-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/candidate-for-goddess-ova-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/candidate-for-goddess-ova-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/candidate-for-goddess-ova-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/candidate-for-goddess-ova-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/candidate-for-goddess-ova-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/candidate-for-goddess-ova-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/candidate-for-goddess-ova-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/candidate-for-goddess-ova-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/candidate-for-goddess-ova-episode-12"
+      }
+    ]
   }
 ]
