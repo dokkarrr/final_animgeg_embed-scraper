@@ -38286,5 +38286,87 @@
         "url": "https://www.animegg.org/ufo-princess-valkyrie-2-juunigatsu-no-yasoukyoku-dub-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 7999,
+    "title": "Gamers! (Dub)",
+    "animegg_url": "https://www.animegg.org/series/gamers-dub",
+    "mal_url": "https://myanimelist.net/anime/34280",
+    "mal_id": 34280,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/126597",
+        "dub": null,
+        "url": "https://www.animegg.org/gamers-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/126594",
+        "dub": null,
+        "url": "https://www.animegg.org/gamers-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/126592",
+        "dub": null,
+        "url": "https://www.animegg.org/gamers-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/126591",
+        "dub": null,
+        "url": "https://www.animegg.org/gamers-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/126590",
+        "dub": null,
+        "url": "https://www.animegg.org/gamers-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/126589",
+        "dub": null,
+        "url": "https://www.animegg.org/gamers-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/126588",
+        "dub": null,
+        "url": "https://www.animegg.org/gamers-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/126587",
+        "dub": null,
+        "url": "https://www.animegg.org/gamers-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/126586",
+        "dub": null,
+        "url": "https://www.animegg.org/gamers-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/126596",
+        "dub": null,
+        "url": "https://www.animegg.org/gamers-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/126595",
+        "dub": null,
+        "url": "https://www.animegg.org/gamers-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/126593",
+        "dub": null,
+        "url": "https://www.animegg.org/gamers-dub-episode-12"
+      }
+    ]
   }
 ]
