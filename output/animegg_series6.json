@@ -87591,5 +87591,21 @@
         "url": "https://www.animegg.org/fatekaleid-liner-prisma-illya-2wei-specials-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8887,
+    "title": "Detective Conan Movie 22: Zero the Enforcer",
+    "animegg_url": "https://www.animegg.org/series/detective-conan-movie-22-zero-the-enforcer-dub",
+    "mal_url": "https://myanimelist.net/anime/35798",
+    "mal_id": 35798,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 22,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/detective-conan-movie-22-zero-the-enforcer-dub-episode-1"
+      }
+    ]
   }
 ]
