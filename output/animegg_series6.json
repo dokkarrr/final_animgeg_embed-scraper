@@ -64210,5 +64210,87 @@
     "mal_id": 50668,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 8388,
+    "title": "Maesetsu!",
+    "animegg_url": "https://www.animegg.org/series/maesetsu-dub",
+    "mal_url": "https://myanimelist.net/anime/40085",
+    "mal_id": 40085,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/122209",
+        "dub": null,
+        "url": "https://www.animegg.org/maesetsu-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/122205",
+        "dub": null,
+        "url": "https://www.animegg.org/maesetsu-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/122204",
+        "dub": null,
+        "url": "https://www.animegg.org/maesetsu-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/122203",
+        "dub": null,
+        "url": "https://www.animegg.org/maesetsu-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/122202",
+        "dub": null,
+        "url": "https://www.animegg.org/maesetsu-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/122201",
+        "dub": null,
+        "url": "https://www.animegg.org/maesetsu-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/122200",
+        "dub": null,
+        "url": "https://www.animegg.org/maesetsu-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/122199",
+        "dub": null,
+        "url": "https://www.animegg.org/maesetsu-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/122198",
+        "dub": null,
+        "url": "https://www.animegg.org/maesetsu-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/122208",
+        "dub": null,
+        "url": "https://www.animegg.org/maesetsu-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/122207",
+        "dub": null,
+        "url": "https://www.animegg.org/maesetsu-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/122206",
+        "dub": null,
+        "url": "https://www.animegg.org/maesetsu-dub-episode-12"
+      }
+    ]
   }
 ]
