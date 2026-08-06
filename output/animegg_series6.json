@@ -4600,5 +4600,21 @@
         "url": "https://www.animegg.org/5-centimeters-per-second-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 7564,
+    "title": "Watashi no Shiawase na Kekkon: Watashi no Shiawase na Katachi",
+    "animegg_url": "https://www.animegg.org/series/watashi-no-shiawase-na-kekkon-watashi-no-shiawase-na-katachi",
+    "mal_url": "https://myanimelist.net/anime/55889",
+    "mal_id": 55889,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/133408",
+        "dub": "https://www.animegg.org/embed/139322",
+        "url": "https://www.animegg.org/watashi-no-shiawase-na-kekkon-watashi-no-shiawase-na-katachi-episode-1"
+      }
+    ]
   }
 ]
