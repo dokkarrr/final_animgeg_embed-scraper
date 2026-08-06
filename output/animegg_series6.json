@@ -83774,5 +83774,45 @@
         "url": "https://www.animegg.org/pacific-rim-the-black-episode-7"
       }
     ]
+  },
+  {
+    "serial_no": 8763,
+    "title": "One Piece: Straw Hat Theater",
+    "animegg_url": "https://www.animegg.org/series/one-piece-straw-hat-theater",
+    "mal_url": "https://myanimelist.net/anime/9999",
+    "mal_id": 9999,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/one-piece-straw-hat-theater-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/one-piece-straw-hat-theater-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/one-piece-straw-hat-theater-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/one-piece-straw-hat-theater-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/one-piece-straw-hat-theater-episode-5"
+      }
+    ]
   }
 ]
