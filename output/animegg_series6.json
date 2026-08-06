@@ -71711,5 +71711,39 @@
         "url": "https://www.animegg.org/the-daily-life-of-a-part-time-torturer-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8508,
+    "title": "Martial Peak",
+    "animegg_url": "https://www.animegg.org/series/martial-peak",
+    "mal_url": "https://myanimelist.net/anime/60416",
+    "mal_id": 60416,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/martial-peak-episode-1"
+      },
+      {
+        "ep": 97,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/martial-peak-episode-97"
+      },
+      {
+        "ep": 99,
+        "sub": "https://www.animegg.org/embed/137703",
+        "dub": null,
+        "url": "https://www.animegg.org/martial-peak-episode-99"
+      },
+      {
+        "ep": 100,
+        "sub": "https://www.animegg.org/embed/138158",
+        "dub": null,
+        "url": "https://www.animegg.org/martial-peak-episode-100"
+      }
+    ]
   }
 ]
