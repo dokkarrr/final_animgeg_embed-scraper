@@ -43916,5 +43916,51 @@
         "url": "https://www.animegg.org/hakkenden-touhou-hakken-ibun-2nd-season-dub-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8078,
+    "title": "Akuu Daisakusen Srungle",
+    "animegg_url": "https://www.animegg.org/series/akuu-daisakusen-srungle",
+    "mal_url": "https://myanimelist.net/anime/6452",
+    "mal_id": 6452,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/133267",
+        "dub": null,
+        "url": "https://www.animegg.org/akuu-daisakusen-srungle-episode-1"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/akuu-daisakusen-srungle-episode-5"
+      },
+      {
+        "ep": 15,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/akuu-daisakusen-srungle-episode-15"
+      },
+      {
+        "ep": 16,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/akuu-daisakusen-srungle-episode-16"
+      },
+      {
+        "ep": 42,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/akuu-daisakusen-srungle-episode-42"
+      },
+      {
+        "ep": 53,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/akuu-daisakusen-srungle-episode-53"
+      }
+    ]
   }
 ]
