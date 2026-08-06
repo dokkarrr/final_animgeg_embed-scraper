@@ -27823,5 +27823,81 @@
         "url": "https://www.animegg.org/the-first-son-in-law-episode-18"
       }
     ]
+  },
+  {
+    "serial_no": 7856,
+    "title": "Perman (1983)",
+    "animegg_url": "https://www.animegg.org/series/perman-1983",
+    "mal_url": "https://myanimelist.net/anime/11595",
+    "mal_id": 11595,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1983,
+        "sub": "https://www.animegg.org/embed/135941",
+        "dub": null,
+        "url": "https://www.animegg.org/perman-1983-episode-526"
+      },
+      {
+        "ep": 1983,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/perman-1983-episode-295"
+      },
+      {
+        "ep": 1983,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/perman-1983-episode-209"
+      },
+      {
+        "ep": 1983,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/perman-1983-episode-150"
+      },
+      {
+        "ep": 1983,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/perman-1983-episode-110"
+      },
+      {
+        "ep": 1983,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/perman-1983-episode-70"
+      },
+      {
+        "ep": 1983,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/perman-1983-episode-20"
+      },
+      {
+        "ep": 1983,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/perman-1983-episode-10"
+      },
+      {
+        "ep": 1983,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/perman-1983-episode-6"
+      },
+      {
+        "ep": 1983,
+        "sub": "https://www.animegg.org/embed/120101",
+        "dub": null,
+        "url": "https://www.animegg.org/perman-1983-episode-3"
+      },
+      {
+        "ep": 1983,
+        "sub": "https://www.animegg.org/embed/120102",
+        "dub": null,
+        "url": "https://www.animegg.org/perman-1983-episode-2"
+      }
+    ]
   }
 ]
