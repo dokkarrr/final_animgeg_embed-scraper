@@ -72199,5 +72199,33 @@
         "url": "https://www.animegg.org/aggressive-retsuko-ona-2nd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8516,
+    "title": "SD Gundam Brave Battle Warriors",
+    "animegg_url": "https://www.animegg.org/series/sd-gundam-brave-battle-warriors",
+    "mal_url": "https://myanimelist.net/anime/28283",
+    "mal_id": 28283,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/99330",
+        "dub": null,
+        "url": "https://www.animegg.org/sd-gundam-brave-battle-warriors-episode-15"
+      },
+      {
+        "ep": 40,
+        "sub": "https://www.animegg.org/embed/99348",
+        "dub": null,
+        "url": "https://www.animegg.org/sd-gundam-brave-battle-warriors-episode-40"
+      },
+      {
+        "ep": 51,
+        "sub": "https://www.animegg.org/embed/99331",
+        "dub": null,
+        "url": "https://www.animegg.org/sd-gundam-brave-battle-warriors-episode-51"
+      }
+    ]
   }
 ]
