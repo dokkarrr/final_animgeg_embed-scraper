@@ -45281,5 +45281,87 @@
         "url": "https://www.animegg.org/hakuouki-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8097,
+    "title": "X-Men (Dub)",
+    "animegg_url": "https://www.animegg.org/series/x-men-dub",
+    "mal_url": "https://myanimelist.net/anime/36797",
+    "mal_id": 36797,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/113582",
+        "dub": null,
+        "url": "https://www.animegg.org/x-men-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/113578",
+        "dub": null,
+        "url": "https://www.animegg.org/x-men-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/113577",
+        "dub": null,
+        "url": "https://www.animegg.org/x-men-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/113576",
+        "dub": null,
+        "url": "https://www.animegg.org/x-men-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/113575",
+        "dub": null,
+        "url": "https://www.animegg.org/x-men-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/113574",
+        "dub": null,
+        "url": "https://www.animegg.org/x-men-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/113573",
+        "dub": null,
+        "url": "https://www.animegg.org/x-men-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/113572",
+        "dub": null,
+        "url": "https://www.animegg.org/x-men-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/113571",
+        "dub": null,
+        "url": "https://www.animegg.org/x-men-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/113581",
+        "dub": null,
+        "url": "https://www.animegg.org/x-men-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/113580",
+        "dub": null,
+        "url": "https://www.animegg.org/x-men-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/113579",
+        "dub": null,
+        "url": "https://www.animegg.org/x-men-dub-episode-12"
+      }
+    ]
   }
 ]
