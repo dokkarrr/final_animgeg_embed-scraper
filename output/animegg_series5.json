@@ -132479,5 +132479,21 @@
         "url": "https://www.animegg.org/zegapain-dub-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 7020,
+    "title": "Binan Koukou Chikyuu Bouei-bu LOVE! LOVE! LOVE!",
+    "animegg_url": "https://www.animegg.org/series/binan-koukou-chikyuu-bouei-bu-love-love-love",
+    "mal_url": "https://myanimelist.net/anime/35182",
+    "mal_id": 35182,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/89053",
+        "dub": null,
+        "url": "https://www.animegg.org/binan-koukou-chikyuu-bouei-bu-love-love-love-episode-1"
+      }
+    ]
   }
 ]
