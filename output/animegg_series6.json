@@ -6452,5 +6452,39 @@
         "url": "https://www.animegg.org/jibaku-shounen-hanako-kun-season-2-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 7586,
+    "title": "Moffun to Issho",
+    "animegg_url": "https://www.animegg.org/series/moffun-to-issho",
+    "mal_url": "https://myanimelist.net/anime/55572",
+    "mal_id": 55572,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/moffun-to-issho-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/moffun-to-issho-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/129813",
+        "dub": null,
+        "url": "https://www.animegg.org/moffun-to-issho-episode-3"
+      },
+      {
+        "ep": 57,
+        "sub": "https://www.animegg.org/embed/131551",
+        "dub": null,
+        "url": "https://www.animegg.org/moffun-to-issho-episode-57"
+      }
+    ]
   }
 ]
