@@ -81845,5 +81845,21 @@
         "url": "https://www.animegg.org/catman-series-ii-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 8717,
+    "title": "Ramayana: The Legend of Prince Rama",
+    "animegg_url": "https://www.animegg.org/series/ramayana-the-legend-of-prince-rama",
+    "mal_url": "https://myanimelist.net/anime/4921",
+    "mal_id": 4921,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/119030",
+        "dub": null,
+        "url": "https://www.animegg.org/ramayana-the-legend-of-prince-rama-episode-1"
+      }
+    ]
   }
 ]
