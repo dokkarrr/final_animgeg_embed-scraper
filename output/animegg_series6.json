@@ -70367,5 +70367,33 @@
         "url": "https://www.animegg.org/my-little-pony-tomodachi-wa-mahou-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 8487,
+    "title": "Cang Yuan Tu",
+    "animegg_url": "https://www.animegg.org/series/cang-yuan-tu",
+    "mal_url": "https://myanimelist.net/anime/55655",
+    "mal_id": 55655,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 27,
+        "sub": "https://www.animegg.org/embed/135598",
+        "dub": null,
+        "url": "https://www.animegg.org/cang-yuan-tu-episode-27"
+      },
+      {
+        "ep": 28,
+        "sub": "https://www.animegg.org/embed/135735",
+        "dub": null,
+        "url": "https://www.animegg.org/cang-yuan-tu-episode-28"
+      },
+      {
+        "ep": 30,
+        "sub": "https://www.animegg.org/embed/136055",
+        "dub": null,
+        "url": "https://www.animegg.org/cang-yuan-tu-episode-30"
+      }
+    ]
   }
 ]
