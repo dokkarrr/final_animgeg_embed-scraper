@@ -69260,5 +69260,87 @@
         "url": "https://www.animegg.org/dagashi-kashi-2-dub-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8468,
+    "title": "Peeping Life TV: Season 1??",
+    "animegg_url": "https://www.animegg.org/series/peeping-life-tv-season-1-",
+    "mal_url": "https://myanimelist.net/anime/31549",
+    "mal_id": 31549,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/120312",
+        "dub": null,
+        "url": "https://www.animegg.org/peeping-life-tv-season-1--episode-12"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/120313",
+        "dub": null,
+        "url": "https://www.animegg.org/peeping-life-tv-season-1--episode-11"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/120314",
+        "dub": null,
+        "url": "https://www.animegg.org/peeping-life-tv-season-1--episode-10"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/120304",
+        "dub": null,
+        "url": "https://www.animegg.org/peeping-life-tv-season-1--episode-9"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/120305",
+        "dub": null,
+        "url": "https://www.animegg.org/peeping-life-tv-season-1--episode-8"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/120306",
+        "dub": null,
+        "url": "https://www.animegg.org/peeping-life-tv-season-1--episode-7"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/120307",
+        "dub": null,
+        "url": "https://www.animegg.org/peeping-life-tv-season-1--episode-6"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/120308",
+        "dub": null,
+        "url": "https://www.animegg.org/peeping-life-tv-season-1--episode-5"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/120309",
+        "dub": null,
+        "url": "https://www.animegg.org/peeping-life-tv-season-1--episode-4"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/120310",
+        "dub": null,
+        "url": "https://www.animegg.org/peeping-life-tv-season-1--episode-3"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/120311",
+        "dub": null,
+        "url": "https://www.animegg.org/peeping-life-tv-season-1--episode-2"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/120315",
+        "dub": null,
+        "url": "https://www.animegg.org/peeping-life-tv-season-1--episode-1"
+      }
+    ]
   }
 ]
