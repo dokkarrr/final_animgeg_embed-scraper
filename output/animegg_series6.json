@@ -84181,5 +84181,21 @@
     "mal_id": 52709,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 8775,
+    "title": "Kono Sekai no Tanoshimikata: Secret Story Film",
+    "animegg_url": "https://www.animegg.org/series/kono-sekai-no-tanoshimikata-secret-story-film",
+    "mal_url": "https://myanimelist.net/anime/42750",
+    "mal_id": 42750,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/105196",
+        "dub": null,
+        "url": "https://www.animegg.org/kono-sekai-no-tanoshimikata-secret-story-film-episode-1"
+      }
+    ]
   }
 ]
