@@ -144530,5 +144530,57 @@
         "url": "https://www.animegg.org/power-battle-watch-car-dub-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 7123,
+    "title": "Kankin Kuiki Level X",
+    "animegg_url": "https://www.animegg.org/series/kankin-kuiki-level-x",
+    "mal_url": "https://myanimelist.net/anime/59505",
+    "mal_id": 59505,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/137115",
+        "dub": null,
+        "url": "https://www.animegg.org/kankin-kuiki-level-x-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/137231",
+        "dub": null,
+        "url": "https://www.animegg.org/kankin-kuiki-level-x-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/137487",
+        "dub": null,
+        "url": "https://www.animegg.org/kankin-kuiki-level-x-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/137889",
+        "dub": null,
+        "url": "https://www.animegg.org/kankin-kuiki-level-x-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/137928",
+        "dub": null,
+        "url": "https://www.animegg.org/kankin-kuiki-level-x-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/140921",
+        "dub": null,
+        "url": "https://www.animegg.org/kankin-kuiki-level-x-episode-7"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/140928",
+        "dub": null,
+        "url": "https://www.animegg.org/kankin-kuiki-level-x-episode-12"
+      }
+    ]
   }
 ]
