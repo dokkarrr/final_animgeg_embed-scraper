@@ -90119,5 +90119,21 @@
         "url": "https://www.animegg.org/cencoroll-connect-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8982,
+    "title": "Persona -Trinity Soul-",
+    "animegg_url": "https://www.animegg.org/series/persona--trinity-soul-",
+    "mal_url": "https://myanimelist.net/anime/3366",
+    "mal_id": 3366,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 26,
+        "sub": "https://www.animegg.org/embed/104760",
+        "dub": null,
+        "url": "https://www.animegg.org/persona--trinity-soul--episode-26"
+      }
+    ]
   }
 ]
