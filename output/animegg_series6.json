@@ -39216,5 +39216,27 @@
         "url": "https://www.animegg.org/oh-edo-rocket-dub-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 8011,
+    "title": "AMAIM Warrior at the Borderline UltraSteel Ogre-Gear",
+    "animegg_url": "https://www.animegg.org/series/amaim-warrior-at-the-borderline-ultrasteel-ogre-gear",
+    "mal_url": "https://myanimelist.net/anime/54495",
+    "mal_id": 54495,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/131041",
+        "dub": null,
+        "url": "https://www.animegg.org/amaim-warrior-at-the-borderline-ultrasteel-ogre-gear-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/131040",
+        "dub": null,
+        "url": "https://www.animegg.org/amaim-warrior-at-the-borderline-ultrasteel-ogre-gear-episode-2"
+      }
+    ]
   }
 ]
