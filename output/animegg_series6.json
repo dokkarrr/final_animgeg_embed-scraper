@@ -75076,5 +75076,27 @@
         "url": "https://www.animegg.org/uchuu-no-hou-reimei-hen-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8570,
+    "title": "The seven deadly sins four knights of the apocalypse season 2",
+    "animegg_url": "https://www.animegg.org/series/the-seven-deadly-sins-four-knights-of-the-apocalypse-season-2",
+    "mal_url": "https://myanimelist.net/anime/58511",
+    "mal_id": 58511,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/140854",
+        "dub": null,
+        "url": "https://www.animegg.org/the-seven-deadly-sins-four-knights-of-the-apocalypse-season-2-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/140855",
+        "dub": null,
+        "url": "https://www.animegg.org/the-seven-deadly-sins-four-knights-of-the-apocalypse-season-2-episode-1"
+      }
+    ]
   }
 ]
