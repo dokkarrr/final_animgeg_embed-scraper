@@ -78124,5 +78124,33 @@
         "url": "https://www.animegg.org/yesterday-wo-utatte-extras-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 8634,
+    "title": "Hetalia World★Stars Specials",
+    "animegg_url": "https://www.animegg.org/series/hetalia-world-stars-specials",
+    "mal_url": "https://myanimelist.net/anime/48627",
+    "mal_id": 48627,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/105016",
+        "dub": null,
+        "url": "https://www.animegg.org/hetalia-world-stars-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/125780",
+        "dub": null,
+        "url": "https://www.animegg.org/hetalia-world-stars-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/105017",
+        "dub": null,
+        "url": "https://www.animegg.org/hetalia-world-stars-specials-episode-3"
+      }
+    ]
   }
 ]
