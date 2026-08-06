@@ -66587,5 +66587,33 @@
         "url": "https://www.animegg.org/ramen-fighter-miki-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8425,
+    "title": "Bananya: Around the World",
+    "animegg_url": "https://www.animegg.org/series/bananya-around-the-world",
+    "mal_url": "https://myanimelist.net/anime/59666",
+    "mal_id": 59666,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/137978",
+        "dub": null,
+        "url": "https://www.animegg.org/bananya-around-the-world-episode-4"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/bananya-around-the-world-episode-6"
+      },
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/bananya-around-the-world-episode-8"
+      }
+    ]
   }
 ]
