@@ -53731,5 +53731,27 @@
         "url": "https://www.animegg.org/hong-huang-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 8220,
+    "title": "Tondemo Senshi Muteking",
+    "animegg_url": "https://www.animegg.org/series/tondemo-senshi-muteking",
+    "mal_url": "https://myanimelist.net/anime/5833",
+    "mal_id": 5833,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/134060",
+        "dub": null,
+        "url": "https://www.animegg.org/tondemo-senshi-muteking-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/135110",
+        "dub": null,
+        "url": "https://www.animegg.org/tondemo-senshi-muteking-episode-3"
+      }
+    ]
   }
 ]
