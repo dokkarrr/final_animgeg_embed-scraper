@@ -79545,5 +79545,51 @@
     "mal_id": 24833,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 8666,
+    "title": "Huangli Shi",
+    "animegg_url": "https://www.animegg.org/series/huangli-shi",
+    "mal_url": "https://myanimelist.net/anime/39736",
+    "mal_id": 39736,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/125564",
+        "dub": null,
+        "url": "https://www.animegg.org/huangli-shi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/huangli-shi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/huangli-shi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/huangli-shi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/huangli-shi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/125563",
+        "dub": null,
+        "url": "https://www.animegg.org/huangli-shi-episode-6"
+      }
+    ]
   }
 ]
