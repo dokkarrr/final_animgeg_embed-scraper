@@ -22427,5 +22427,21 @@
         "url": "https://www.animegg.org/arknights-rise-from-ember-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 7789,
+    "title": "Kabukichou Sherlock OVA",
+    "animegg_url": "https://www.animegg.org/series/kabukichou-sherlock-ova",
+    "mal_url": "https://myanimelist.net/anime/41659",
+    "mal_id": 41659,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/99658",
+        "dub": null,
+        "url": "https://www.animegg.org/kabukichou-sherlock-ova-episode-1"
+      }
+    ]
   }
 ]
