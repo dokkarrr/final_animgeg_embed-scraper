@@ -87340,5 +87340,21 @@
         "url": "https://www.animegg.org/yami-shibai-season-15-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8878,
+    "title": "Panty & Stocking in Sanitarybox",
+    "animegg_url": "https://www.animegg.org/series/panty-stocking-in-sanitarybox",
+    "mal_url": "https://myanimelist.net/anime/10739",
+    "mal_id": 10739,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/120470",
+        "dub": null,
+        "url": "https://www.animegg.org/panty-stocking-in-sanitarybox-episode-1"
+      }
+    ]
   }
 ]
