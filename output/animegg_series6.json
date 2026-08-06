@@ -54431,5 +54431,51 @@
         "url": "https://www.animegg.org/x-men-2011-anime-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8230,
+    "title": "One Punch Man 2nd Season Specials (Dub)",
+    "animegg_url": "https://www.animegg.org/series/one-punch-man-2nd-season-specials-dub",
+    "mal_url": "https://myanimelist.net/anime/31772",
+    "mal_id": 31772,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/120716",
+        "dub": null,
+        "url": "https://www.animegg.org/one-punch-man-2nd-season-specials-dub-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/120717",
+        "dub": null,
+        "url": "https://www.animegg.org/one-punch-man-2nd-season-specials-dub-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/120718",
+        "dub": null,
+        "url": "https://www.animegg.org/one-punch-man-2nd-season-specials-dub-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/120719",
+        "dub": null,
+        "url": "https://www.animegg.org/one-punch-man-2nd-season-specials-dub-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/120720",
+        "dub": null,
+        "url": "https://www.animegg.org/one-punch-man-2nd-season-specials-dub-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/120721",
+        "dub": null,
+        "url": "https://www.animegg.org/one-punch-man-2nd-season-specials-dub-episode-1"
+      }
+    ]
   }
 ]
