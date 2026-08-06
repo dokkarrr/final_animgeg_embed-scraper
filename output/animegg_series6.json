@@ -63859,5 +63859,57 @@
         "url": "https://www.animegg.org/shi-shi-chuanshuo-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 8381,
+    "title": "Patlabor OVA",
+    "animegg_url": "https://www.animegg.org/series/patlabor-ova",
+    "mal_url": "https://myanimelist.net/anime/1095",
+    "mal_id": 1095,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/patlabor-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/patlabor-ova-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/patlabor-ova-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/patlabor-ova-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/patlabor-ova-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/patlabor-ova-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/patlabor-ova-episode-7"
+      }
+    ]
   }
 ]
