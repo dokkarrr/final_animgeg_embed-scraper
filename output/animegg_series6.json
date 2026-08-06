@@ -82934,5 +82934,69 @@
         "url": "https://www.animegg.org/saint-seiya-the-hades-chapter-elysion-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 8745,
+    "title": "The Snack World (TV)",
+    "animegg_url": "https://www.animegg.org/series/the-snack-world-tv",
+    "mal_url": "https://myanimelist.net/anime/32596",
+    "mal_id": 32596,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 19,
+        "sub": "https://www.animegg.org/embed/141341",
+        "dub": null,
+        "url": "https://www.animegg.org/the-snack-world-tv-episode-19"
+      },
+      {
+        "ep": 29,
+        "sub": "https://www.animegg.org/embed/135228",
+        "dub": null,
+        "url": "https://www.animegg.org/the-snack-world-tv-episode-29"
+      },
+      {
+        "ep": 30,
+        "sub": "https://www.animegg.org/embed/135413",
+        "dub": null,
+        "url": "https://www.animegg.org/the-snack-world-tv-episode-30"
+      },
+      {
+        "ep": 31,
+        "sub": "https://www.animegg.org/embed/135708",
+        "dub": null,
+        "url": "https://www.animegg.org/the-snack-world-tv-episode-31"
+      },
+      {
+        "ep": 32,
+        "sub": "https://www.animegg.org/embed/136021",
+        "dub": null,
+        "url": "https://www.animegg.org/the-snack-world-tv-episode-32"
+      },
+      {
+        "ep": 35,
+        "sub": "https://www.animegg.org/embed/136457",
+        "dub": null,
+        "url": "https://www.animegg.org/the-snack-world-tv-episode-35"
+      },
+      {
+        "ep": 36,
+        "sub": "https://www.animegg.org/embed/136685",
+        "dub": null,
+        "url": "https://www.animegg.org/the-snack-world-tv-episode-36"
+      },
+      {
+        "ep": 37,
+        "sub": "https://www.animegg.org/embed/136876",
+        "dub": null,
+        "url": "https://www.animegg.org/the-snack-world-tv-episode-37"
+      },
+      {
+        "ep": 50,
+        "sub": "https://www.animegg.org/embed/141340",
+        "dub": null,
+        "url": "https://www.animegg.org/the-snack-world-tv-episode-50"
+      }
+    ]
   }
 ]
