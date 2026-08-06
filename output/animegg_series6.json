@@ -85522,5 +85522,63 @@
         "url": "https://www.animegg.org/doraemon-movie-26-nobita-no-kyouryuu-2006-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8816,
+    "title": "Carole & Tuesday Mini Series",
+    "animegg_url": "https://www.animegg.org/series/carole-tuesday-mini-series",
+    "mal_url": "https://myanimelist.net/anime/37435",
+    "mal_id": 37435,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/128832",
+        "dub": null,
+        "url": "https://www.animegg.org/carole-tuesday-mini-series-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/128831",
+        "dub": null,
+        "url": "https://www.animegg.org/carole-tuesday-mini-series-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/128833",
+        "dub": null,
+        "url": "https://www.animegg.org/carole-tuesday-mini-series-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/128830",
+        "dub": null,
+        "url": "https://www.animegg.org/carole-tuesday-mini-series-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/128829",
+        "dub": null,
+        "url": "https://www.animegg.org/carole-tuesday-mini-series-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/128828",
+        "dub": null,
+        "url": "https://www.animegg.org/carole-tuesday-mini-series-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/128827",
+        "dub": null,
+        "url": "https://www.animegg.org/carole-tuesday-mini-series-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/128826",
+        "dub": null,
+        "url": "https://www.animegg.org/carole-tuesday-mini-series-episode-8"
+      }
+    ]
   }
 ]
