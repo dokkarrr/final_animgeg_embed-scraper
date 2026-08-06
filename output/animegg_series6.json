@@ -82503,5 +82503,21 @@
         "url": "https://www.animegg.org/ozanari-dungeon-kaze-no-tou-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 8733,
+    "title": "Naruto Shippuden Movie 5 Special",
+    "animegg_url": "https://www.animegg.org/series/naruto-shippuden-movie-5-special",
+    "mal_url": "https://myanimelist.net/anime/10686",
+    "mal_id": 10686,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/naruto-shippuden-movie-5-special-episode-1"
+      }
+    ]
   }
 ]
