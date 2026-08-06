@@ -974,5 +974,93 @@
         "url": "https://www.animegg.org/danganronpa-the-animation-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 7520,
+    "title": "Anhe Zhuan Part 2",
+    "animegg_url": "https://www.animegg.org/series/anhe-zhuan-part-2",
+    "mal_url": "https://myanimelist.net/anime/58681",
+    "mal_id": 58681,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/135656",
+        "dub": null,
+        "url": "https://www.animegg.org/anhe-zhuan-part-2-episode-14"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/135522",
+        "dub": null,
+        "url": "https://www.animegg.org/anhe-zhuan-part-2-episode-13"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/135365",
+        "dub": null,
+        "url": "https://www.animegg.org/anhe-zhuan-part-2-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/anhe-zhuan-part-2-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/135049",
+        "dub": null,
+        "url": "https://www.animegg.org/anhe-zhuan-part-2-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/134886",
+        "dub": null,
+        "url": "https://www.animegg.org/anhe-zhuan-part-2-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/134700",
+        "dub": null,
+        "url": "https://www.animegg.org/anhe-zhuan-part-2-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/134556",
+        "dub": null,
+        "url": "https://www.animegg.org/anhe-zhuan-part-2-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/134410",
+        "dub": null,
+        "url": "https://www.animegg.org/anhe-zhuan-part-2-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/134181",
+        "dub": null,
+        "url": "https://www.animegg.org/anhe-zhuan-part-2-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/133897",
+        "dub": null,
+        "url": "https://www.animegg.org/anhe-zhuan-part-2-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/133768",
+        "dub": null,
+        "url": "https://www.animegg.org/anhe-zhuan-part-2-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/133683",
+        "dub": null,
+        "url": "https://www.animegg.org/anhe-zhuan-part-2-episode-1"
+      }
+    ]
   }
 ]
