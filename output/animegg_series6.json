@@ -11117,5 +11117,93 @@
         "url": "https://www.animegg.org/hitorijime-my-hero-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 7641,
+    "title": "Magi: Sinbad no Bouken (TV) (Dub)",
+    "animegg_url": "https://www.animegg.org/series/magi-sinbad-no-bouken-tv-dub",
+    "mal_url": "https://myanimelist.net/anime/22097",
+    "mal_id": 22097,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/122185",
+        "dub": null,
+        "url": "https://www.animegg.org/magi-sinbad-no-bouken-tv-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/122180",
+        "dub": null,
+        "url": "https://www.animegg.org/magi-sinbad-no-bouken-tv-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/122179",
+        "dub": null,
+        "url": "https://www.animegg.org/magi-sinbad-no-bouken-tv-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/122178",
+        "dub": null,
+        "url": "https://www.animegg.org/magi-sinbad-no-bouken-tv-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/magi-sinbad-no-bouken-tv-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/122177",
+        "dub": null,
+        "url": "https://www.animegg.org/magi-sinbad-no-bouken-tv-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/122176",
+        "dub": null,
+        "url": "https://www.animegg.org/magi-sinbad-no-bouken-tv-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/122175",
+        "dub": null,
+        "url": "https://www.animegg.org/magi-sinbad-no-bouken-tv-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/122174",
+        "dub": null,
+        "url": "https://www.animegg.org/magi-sinbad-no-bouken-tv-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/122184",
+        "dub": null,
+        "url": "https://www.animegg.org/magi-sinbad-no-bouken-tv-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/122183",
+        "dub": null,
+        "url": "https://www.animegg.org/magi-sinbad-no-bouken-tv-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/122182",
+        "dub": null,
+        "url": "https://www.animegg.org/magi-sinbad-no-bouken-tv-dub-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/122181",
+        "dub": null,
+        "url": "https://www.animegg.org/magi-sinbad-no-bouken-tv-dub-episode-13"
+      }
+    ]
   }
 ]
