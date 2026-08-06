@@ -90395,5 +90395,39 @@
         "url": "https://www.animegg.org/spirit-of-wonder-china-san-tanpenshuu-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 8993,
+    "title": "3 x 3 Eyes",
+    "animegg_url": "https://www.animegg.org/series/3-x-3-eyes",
+    "mal_url": "https://myanimelist.net/anime/300",
+    "mal_id": 300,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/3-x-3-eyes-episode-4"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/3-x-3-eyes-episode-3"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/3-x-3-eyes-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/3-x-3-eyes-episode-1"
+      }
+    ]
   }
 ]
