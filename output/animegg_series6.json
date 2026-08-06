@@ -756,5 +756,21 @@
         "url": "https://www.animegg.org/naruto-shippuden-movie-7-the-last-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 7515,
+    "title": "Fate/Grand Carnival New Year's Eve Special 2020",
+    "animegg_url": "https://www.animegg.org/series/fategrand-carnival-new-year-s-eve-special-2020",
+    "mal_url": "https://myanimelist.net/anime/37596",
+    "mal_id": 37596,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2020,
+        "sub": "https://www.animegg.org/embed/100382",
+        "dub": null,
+        "url": "https://www.animegg.org/fategrand-carnival-new-year-s-eve-special-2020-episode-1"
+      }
+    ]
   }
 ]
