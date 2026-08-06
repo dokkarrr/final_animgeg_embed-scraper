@@ -25790,5 +25790,87 @@
         "url": "https://www.animegg.org/kakyuusei-tv-episode-14"
       }
     ]
+  },
+  {
+    "serial_no": 7829,
+    "title": "Yong Sheng",
+    "animegg_url": "https://www.animegg.org/series/yong-sheng",
+    "mal_url": "https://myanimelist.net/anime/50444",
+    "mal_id": 50444,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/111594",
+        "dub": null,
+        "url": "https://www.animegg.org/yong-sheng-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/111590",
+        "dub": null,
+        "url": "https://www.animegg.org/yong-sheng-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/111589",
+        "dub": null,
+        "url": "https://www.animegg.org/yong-sheng-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/111588",
+        "dub": null,
+        "url": "https://www.animegg.org/yong-sheng-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/111587",
+        "dub": null,
+        "url": "https://www.animegg.org/yong-sheng-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/111586",
+        "dub": null,
+        "url": "https://www.animegg.org/yong-sheng-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/111585",
+        "dub": null,
+        "url": "https://www.animegg.org/yong-sheng-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/111584",
+        "dub": null,
+        "url": "https://www.animegg.org/yong-sheng-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/111583",
+        "dub": null,
+        "url": "https://www.animegg.org/yong-sheng-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/111593",
+        "dub": null,
+        "url": "https://www.animegg.org/yong-sheng-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/111592",
+        "dub": null,
+        "url": "https://www.animegg.org/yong-sheng-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/111591",
+        "dub": null,
+        "url": "https://www.animegg.org/yong-sheng-episode-12"
+      }
+    ]
   }
 ]
