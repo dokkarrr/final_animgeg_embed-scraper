@@ -90429,5 +90429,21 @@
         "url": "https://www.animegg.org/3-x-3-eyes-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8994,
+    "title": "Zen: Grogu to Makkuro Kurosuke",
+    "animegg_url": "https://www.animegg.org/series/zen-grogu-to-makkuro-kurosuke",
+    "mal_url": "https://myanimelist.net/anime/53599",
+    "mal_id": 53599,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/106370",
+        "dub": null,
+        "url": "https://www.animegg.org/zen-grogu-to-makkuro-kurosuke-episode-1"
+      }
+    ]
   }
 ]
