@@ -68039,5 +68039,87 @@
         "url": "https://www.animegg.org/the-hakkenden-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 8449,
+    "title": "A3! Season Autumn & Winter",
+    "animegg_url": "https://www.animegg.org/series/a3-season-autumn-winter-dub",
+    "mal_url": "https://myanimelist.net/anime/40272",
+    "mal_id": 40272,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/109317",
+        "dub": null,
+        "url": "https://www.animegg.org/a3-season-autumn-winter-dub-episode-12"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/109316",
+        "dub": null,
+        "url": "https://www.animegg.org/a3-season-autumn-winter-dub-episode-11"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/109315",
+        "dub": null,
+        "url": "https://www.animegg.org/a3-season-autumn-winter-dub-episode-10"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/109325",
+        "dub": null,
+        "url": "https://www.animegg.org/a3-season-autumn-winter-dub-episode-9"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/109324",
+        "dub": null,
+        "url": "https://www.animegg.org/a3-season-autumn-winter-dub-episode-8"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/109323",
+        "dub": null,
+        "url": "https://www.animegg.org/a3-season-autumn-winter-dub-episode-7"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/109322",
+        "dub": null,
+        "url": "https://www.animegg.org/a3-season-autumn-winter-dub-episode-6"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/109321",
+        "dub": null,
+        "url": "https://www.animegg.org/a3-season-autumn-winter-dub-episode-5"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/109320",
+        "dub": null,
+        "url": "https://www.animegg.org/a3-season-autumn-winter-dub-episode-4"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/109319",
+        "dub": null,
+        "url": "https://www.animegg.org/a3-season-autumn-winter-dub-episode-3"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/109318",
+        "dub": null,
+        "url": "https://www.animegg.org/a3-season-autumn-winter-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/109314",
+        "dub": null,
+        "url": "https://www.animegg.org/a3-season-autumn-winter-dub-episode-1"
+      }
+    ]
   }
 ]
