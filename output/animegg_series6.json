@@ -57787,5 +57787,21 @@
         "url": "https://www.animegg.org/i-am-the-strongest-boss-episode-19"
       }
     ]
+  },
+  {
+    "serial_no": 8282,
+    "title": "Gundam: G no Reconguista Movie III - Uchuu kara no Isan",
+    "animegg_url": "https://www.animegg.org/series/gundam-g-no-reconguista-movie-iii---uchuu-kara-no-isan",
+    "mal_url": "https://myanimelist.net/anime/43204",
+    "mal_id": 43204,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/103784",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-g-no-reconguista-movie-iii---uchuu-kara-no-isan-episode-1"
+      }
+    ]
   }
 ]
