@@ -89935,5 +89935,21 @@
         "url": "https://www.animegg.org/sand-land-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8975,
+    "title": "Evangelion: 3.0 (-46h)",
+    "animegg_url": "https://www.animegg.org/series/evangelion-30--46h",
+    "mal_url": "https://myanimelist.net/anime/53246",
+    "mal_id": 53246,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/138126",
+        "dub": null,
+        "url": "https://www.animegg.org/evangelion-30--46h-episode-1"
+      }
+    ]
   }
 ]
