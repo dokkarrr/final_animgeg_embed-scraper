@@ -46488,5 +46488,57 @@
     "mal_id": 4901,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 8114,
+    "title": "Sword Dance Online",
+    "animegg_url": "https://www.animegg.org/series/sword-dance-online",
+    "mal_url": "https://myanimelist.net/anime/21881",
+    "mal_id": 21881,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/sword-dance-online-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/sword-dance-online-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/sword-dance-online-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/sword-dance-online-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/sword-dance-online-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/sword-dance-online-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/sword-dance-online-episode-7"
+      }
+    ]
   }
 ]
