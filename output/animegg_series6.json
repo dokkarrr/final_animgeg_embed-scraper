@@ -59600,5 +59600,21 @@
     "mal_id": 61517,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 8313,
+    "title": "Motto To LOVE-Ru -Trouble-",
+    "animegg_url": "https://www.animegg.org/series/motto-to-love-ru--trouble-",
+    "mal_url": "https://myanimelist.net/anime/9181",
+    "mal_id": 9181,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/99329",
+        "dub": null,
+        "url": "https://www.animegg.org/motto-to-love-ru--trouble--episode-4"
+      }
+    ]
   }
 ]
