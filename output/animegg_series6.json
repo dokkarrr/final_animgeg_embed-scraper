@@ -54133,5 +54133,51 @@
         "url": "https://www.animegg.org/aggressive-retsuko-ona-2nd-season-dub-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8226,
+    "title": "Meitantei Conan: Zero no Tea Time",
+    "animegg_url": "https://www.animegg.org/series/meitantei-conan-zero-no-tea-time-dub",
+    "mal_url": "https://myanimelist.net/anime/50012",
+    "mal_id": 50012,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/121843",
+        "dub": null,
+        "url": "https://www.animegg.org/meitantei-conan-zero-no-tea-time-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/121842",
+        "dub": null,
+        "url": "https://www.animegg.org/meitantei-conan-zero-no-tea-time-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/121841",
+        "dub": null,
+        "url": "https://www.animegg.org/meitantei-conan-zero-no-tea-time-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/121840",
+        "dub": null,
+        "url": "https://www.animegg.org/meitantei-conan-zero-no-tea-time-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/121839",
+        "dub": null,
+        "url": "https://www.animegg.org/meitantei-conan-zero-no-tea-time-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/121838",
+        "dub": null,
+        "url": "https://www.animegg.org/meitantei-conan-zero-no-tea-time-dub-episode-6"
+      }
+    ]
   }
 ]
