@@ -52400,5 +52400,63 @@
         "url": "https://www.animegg.org/cop-craft-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8202,
+    "title": "Hana no Ko Lunlun",
+    "animegg_url": "https://www.animegg.org/series/hana-no-ko-lunlun",
+    "mal_url": "https://myanimelist.net/anime/2230",
+    "mal_id": 2230,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/107219",
+        "dub": "https://www.animegg.org/embed/125899",
+        "url": "https://www.animegg.org/hana-no-ko-lunlun-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/125897",
+        "dub": null,
+        "url": "https://www.animegg.org/hana-no-ko-lunlun-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/125896",
+        "dub": null,
+        "url": "https://www.animegg.org/hana-no-ko-lunlun-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/107221",
+        "dub": "https://www.animegg.org/embed/125895",
+        "url": "https://www.animegg.org/hana-no-ko-lunlun-episode-4"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/125894",
+        "dub": null,
+        "url": "https://www.animegg.org/hana-no-ko-lunlun-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/107229",
+        "dub": "https://www.animegg.org/embed/125893",
+        "url": "https://www.animegg.org/hana-no-ko-lunlun-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/125898",
+        "dub": null,
+        "url": "https://www.animegg.org/hana-no-ko-lunlun-episode-10"
+      },
+      {
+        "ep": 17,
+        "sub": "https://www.animegg.org/embed/107220",
+        "dub": null,
+        "url": "https://www.animegg.org/hana-no-ko-lunlun-episode-17"
+      }
+    ]
   }
 ]
