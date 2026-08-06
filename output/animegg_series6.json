@@ -788,5 +788,87 @@
         "url": "https://www.animegg.org/heya-camp-sauna-to-gohan-to-miwa-bike-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 7517,
+    "title": "Ito Junji: Collection",
+    "animegg_url": "https://www.animegg.org/series/ito-junji-collection-dub",
+    "mal_url": "https://myanimelist.net/anime/36124",
+    "mal_id": 36124,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/124846",
+        "dub": null,
+        "url": "https://www.animegg.org/ito-junji-collection-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/124842",
+        "dub": null,
+        "url": "https://www.animegg.org/ito-junji-collection-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/124841",
+        "dub": null,
+        "url": "https://www.animegg.org/ito-junji-collection-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/124840",
+        "dub": null,
+        "url": "https://www.animegg.org/ito-junji-collection-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/124839",
+        "dub": null,
+        "url": "https://www.animegg.org/ito-junji-collection-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/124838",
+        "dub": null,
+        "url": "https://www.animegg.org/ito-junji-collection-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/124837",
+        "dub": null,
+        "url": "https://www.animegg.org/ito-junji-collection-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/124836",
+        "dub": null,
+        "url": "https://www.animegg.org/ito-junji-collection-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/124835",
+        "dub": null,
+        "url": "https://www.animegg.org/ito-junji-collection-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/124845",
+        "dub": null,
+        "url": "https://www.animegg.org/ito-junji-collection-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/124844",
+        "dub": null,
+        "url": "https://www.animegg.org/ito-junji-collection-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/124843",
+        "dub": null,
+        "url": "https://www.animegg.org/ito-junji-collection-dub-episode-12"
+      }
+    ]
   }
 ]
