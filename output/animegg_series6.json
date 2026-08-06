@@ -83068,5 +83068,63 @@
         "url": "https://www.animegg.org/osomatsu-san-season-4-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8747,
+    "title": "Shendao Dizun",
+    "animegg_url": "https://www.animegg.org/series/shendao-dizun",
+    "mal_url": "https://myanimelist.net/anime/59915",
+    "mal_id": 59915,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/138298",
+        "dub": null,
+        "url": "https://www.animegg.org/shendao-dizun-episode-1"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/138456",
+        "dub": null,
+        "url": "https://www.animegg.org/shendao-dizun-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/138489",
+        "dub": null,
+        "url": "https://www.animegg.org/shendao-dizun-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/138673",
+        "dub": null,
+        "url": "https://www.animegg.org/shendao-dizun-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/shendao-dizun-episode-10"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/138959",
+        "dub": null,
+        "url": "https://www.animegg.org/shendao-dizun-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/139105",
+        "dub": null,
+        "url": "https://www.animegg.org/shendao-dizun-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/139131",
+        "dub": null,
+        "url": "https://www.animegg.org/shendao-dizun-episode-14"
+      }
+    ]
   }
 ]
