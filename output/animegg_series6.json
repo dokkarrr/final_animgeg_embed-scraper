@@ -41714,5 +41714,21 @@
         "url": "https://www.animegg.org/el-hazard-the-alternative-world-dub-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 8046,
+    "title": "Dragon Ball: Yo! The Return of Son-Goku and Friends!!",
+    "animegg_url": "https://www.animegg.org/series/dragon-ball-yo-the-return-of-son-goku-and-friends",
+    "mal_url": "https://myanimelist.net/anime/5152",
+    "mal_id": 5152,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/108084",
+        "dub": null,
+        "url": "https://www.animegg.org/dragon-ball-yo-the-return-of-son-goku-and-friends-episode-1"
+      }
+    ]
   }
 ]
