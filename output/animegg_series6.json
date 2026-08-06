@@ -75205,5 +75205,21 @@
         "url": "https://www.animegg.org/kimi-ni-todoke-kataomoi-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8574,
+    "title": "Fate/stay night: Unlimited Blade Works 2nd Season - Sunny Day (Dub)",
+    "animegg_url": "https://www.animegg.org/series/fatestay-night-unlimited-blade-works-2nd-season---sunny-day-dub",
+    "mal_url": "https://myanimelist.net/anime/22297",
+    "mal_id": 22297,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/126978",
+        "dub": null,
+        "url": "https://www.animegg.org/fatestay-night-unlimited-blade-works-2nd-season---sunny-day-dub-episode-1"
+      }
+    ]
   }
 ]
