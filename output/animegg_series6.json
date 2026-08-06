@@ -85003,5 +85003,21 @@
         "url": "https://www.animegg.org/darker-than-black-gaiden-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 8800,
+    "title": "Saezuru Tori wa Habatakanai: Don't Stay Gold",
+    "animegg_url": "https://www.animegg.org/series/saezuru-tori-wa-habatakanai-don-t-stay-gold",
+    "mal_url": "https://myanimelist.net/anime/41290",
+    "mal_id": 41290,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/130812",
+        "dub": null,
+        "url": "https://www.animegg.org/saezuru-tori-wa-habatakanai-don-t-stay-gold-episode-1"
+      }
+    ]
   }
 ]
