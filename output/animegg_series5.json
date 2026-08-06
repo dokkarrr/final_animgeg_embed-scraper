@@ -135390,5 +135390,87 @@
         "url": "https://www.animegg.org/osomatsu-san-movie-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 7046,
+    "title": "Fuufu Ijou, Koibito Miman. (Dub)",
+    "animegg_url": "https://www.animegg.org/series/fuufu-ijou-koibito-miman-dub",
+    "mal_url": "https://myanimelist.net/anime/50425",
+    "mal_id": 50425,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/126818",
+        "dub": null,
+        "url": "https://www.animegg.org/fuufu-ijou-koibito-miman-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/126816",
+        "dub": null,
+        "url": "https://www.animegg.org/fuufu-ijou-koibito-miman-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/126815",
+        "dub": null,
+        "url": "https://www.animegg.org/fuufu-ijou-koibito-miman-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/126814",
+        "dub": null,
+        "url": "https://www.animegg.org/fuufu-ijou-koibito-miman-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/126813",
+        "dub": null,
+        "url": "https://www.animegg.org/fuufu-ijou-koibito-miman-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/126812",
+        "dub": null,
+        "url": "https://www.animegg.org/fuufu-ijou-koibito-miman-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/fuufu-ijou-koibito-miman-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/fuufu-ijou-koibito-miman-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/fuufu-ijou-koibito-miman-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/126817",
+        "dub": null,
+        "url": "https://www.animegg.org/fuufu-ijou-koibito-miman-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/fuufu-ijou-koibito-miman-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/fuufu-ijou-koibito-miman-dub-episode-12"
+      }
+    ]
   }
 ]
