@@ -89134,5 +89134,51 @@
         "url": "https://www.animegg.org/one-piece-movie-3-chopper-kingdom-of-strange-animal-island-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8945,
+    "title": "Eien no Filena",
+    "animegg_url": "https://www.animegg.org/series/eien-no-filena",
+    "mal_url": "https://myanimelist.net/anime/5689",
+    "mal_id": 5689,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/127464",
+        "dub": null,
+        "url": "https://www.animegg.org/eien-no-filena-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/127463",
+        "dub": null,
+        "url": "https://www.animegg.org/eien-no-filena-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/127462",
+        "dub": null,
+        "url": "https://www.animegg.org/eien-no-filena-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/127461",
+        "dub": null,
+        "url": "https://www.animegg.org/eien-no-filena-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/127460",
+        "dub": null,
+        "url": "https://www.animegg.org/eien-no-filena-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/127459",
+        "dub": null,
+        "url": "https://www.animegg.org/eien-no-filena-episode-6"
+      }
+    ]
   }
 ]
