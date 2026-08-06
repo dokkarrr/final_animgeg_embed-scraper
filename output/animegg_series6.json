@@ -58535,5 +58535,51 @@
     "mal_id": 1994,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 8297,
+    "title": "Hello! Sandybell",
+    "animegg_url": "https://www.animegg.org/series/hello-sandybell",
+    "mal_url": "https://myanimelist.net/anime/2799",
+    "mal_id": 2799,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/104754",
+        "dub": null,
+        "url": "https://www.animegg.org/hello-sandybell-episode-4"
+      },
+      {
+        "ep": 18,
+        "sub": "https://www.animegg.org/embed/104751",
+        "dub": null,
+        "url": "https://www.animegg.org/hello-sandybell-episode-18"
+      },
+      {
+        "ep": 29,
+        "sub": "https://www.animegg.org/embed/104752",
+        "dub": null,
+        "url": "https://www.animegg.org/hello-sandybell-episode-29"
+      },
+      {
+        "ep": 36,
+        "sub": "https://www.animegg.org/embed/104753",
+        "dub": null,
+        "url": "https://www.animegg.org/hello-sandybell-episode-36"
+      },
+      {
+        "ep": 38,
+        "sub": "https://www.animegg.org/embed/104715",
+        "dub": null,
+        "url": "https://www.animegg.org/hello-sandybell-episode-38"
+      },
+      {
+        "ep": 43,
+        "sub": "https://www.animegg.org/embed/104755",
+        "dub": null,
+        "url": "https://www.animegg.org/hello-sandybell-episode-43"
+      }
+    ]
   }
 ]
