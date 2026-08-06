@@ -14727,5 +14727,111 @@
     "mal_id": 4901,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 7689,
+    "title": "Wangu Kuang Di",
+    "animegg_url": "https://www.animegg.org/series/wangu-kuang-di",
+    "mal_url": "https://myanimelist.net/anime/57613",
+    "mal_id": 57613,
+    "total_ep": 16,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/wangu-kuang-di-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/wangu-kuang-di-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/wangu-kuang-di-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/wangu-kuang-di-episode-5"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/wangu-kuang-di-episode-7"
+      },
+      {
+        "ep": 9,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/wangu-kuang-di-episode-9"
+      },
+      {
+        "ep": 11,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/wangu-kuang-di-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/wangu-kuang-di-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/wangu-kuang-di-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/wangu-kuang-di-episode-14"
+      },
+      {
+        "ep": 15,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/wangu-kuang-di-episode-15"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/133573",
+        "dub": null,
+        "url": "https://www.animegg.org/wangu-kuang-di-episode-16"
+      },
+      {
+        "ep": 17,
+        "sub": "https://www.animegg.org/embed/133667",
+        "dub": null,
+        "url": "https://www.animegg.org/wangu-kuang-di-episode-17"
+      },
+      {
+        "ep": 18,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/wangu-kuang-di-episode-18"
+      },
+      {
+        "ep": 19,
+        "sub": "https://www.animegg.org/embed/133838",
+        "dub": null,
+        "url": "https://www.animegg.org/wangu-kuang-di-episode-19"
+      },
+      {
+        "ep": 20,
+        "sub": "https://www.animegg.org/embed/134020",
+        "dub": null,
+        "url": "https://www.animegg.org/wangu-kuang-di-episode-20"
+      }
+    ]
   }
 ]
