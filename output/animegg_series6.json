@@ -88957,5 +88957,27 @@
     "mal_id": 60162,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 8938,
+    "title": "Tomie",
+    "animegg_url": "https://www.animegg.org/series/tomie",
+    "mal_url": "https://myanimelist.net/anime/36992",
+    "mal_id": 36992,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/116668",
+        "dub": null,
+        "url": "https://www.animegg.org/tomie-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/116667",
+        "dub": null,
+        "url": "https://www.animegg.org/tomie-episode-2"
+      }
+    ]
   }
 ]
