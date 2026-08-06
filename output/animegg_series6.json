@@ -45631,5 +45631,33 @@
         "url": "https://www.animegg.org/senran-kagura-shinovi-master-tokyo-youma-hen-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8102,
+    "title": "Scissor Seven Season 5",
+    "animegg_url": "https://www.animegg.org/series/scissor-seven-season-5",
+    "mal_url": "https://myanimelist.net/anime/59150",
+    "mal_id": 59150,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/143477",
+        "dub": null,
+        "url": "https://www.animegg.org/scissor-seven-season-5-episode-10"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/143772",
+        "dub": null,
+        "url": "https://www.animegg.org/scissor-seven-english-subbed-season-5-episode-10"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/143479",
+        "dub": null,
+        "url": "https://www.animegg.org/scissor-seven-season-5-episode-1"
+      }
+    ]
   }
 ]
