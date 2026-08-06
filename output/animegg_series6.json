@@ -40062,5 +40062,39 @@
         "url": "https://www.animegg.org/feel-the-fairies-episode-16"
       }
     ]
+  },
+  {
+    "serial_no": 8023,
+    "title": "Bullet/Bullet",
+    "animegg_url": "https://www.animegg.org/series/bulletbullet",
+    "mal_url": "https://myanimelist.net/anime/53722",
+    "mal_id": 53722,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/141743",
+        "dub": "https://www.animegg.org/embed/141746",
+        "url": "https://www.animegg.org/bulletbullet-episode-1"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/141744",
+        "dub": "https://www.animegg.org/embed/141745",
+        "url": "https://www.animegg.org/bulletbullet-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/142218",
+        "dub": "https://www.animegg.org/embed/142220",
+        "url": "https://www.animegg.org/bulletbullet-episode-9"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/142219",
+        "dub": "https://www.animegg.org/embed/142224",
+        "url": "https://www.animegg.org/bulletbullet-episode-12"
+      }
+    ]
   }
 ]
