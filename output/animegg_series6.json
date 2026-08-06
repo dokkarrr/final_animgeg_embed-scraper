@@ -38000,5 +38000,63 @@
         "url": "https://www.animegg.org/little-busters-kud-wafter-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 7995,
+    "title": "Watari kuns xx is about to collapse",
+    "animegg_url": "https://www.animegg.org/series/watari-kuns-xx-is-about-to-collapse",
+    "mal_url": "https://myanimelist.net/anime/56693",
+    "mal_id": 56693,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/141566",
+        "dub": "https://www.animegg.org/embed/141810",
+        "url": "https://www.animegg.org/watari-kuns-xx-is-about-to-collapse-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/141672",
+        "dub": "https://www.animegg.org/embed/141875",
+        "url": "https://www.animegg.org/watari-kuns-xx-is-about-to-collapse-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/142010",
+        "dub": null,
+        "url": "https://www.animegg.org/watari-kuns-xx-is-about-to-collapse-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/141871",
+        "dub": "https://www.animegg.org/embed/142137",
+        "url": "https://www.animegg.org/watari-kuns-xx-is-about-to-collapse-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/142011",
+        "dub": "https://www.animegg.org/embed/142278",
+        "url": "https://www.animegg.org/watari-kuns-xx-is-about-to-collapse-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/142125",
+        "dub": "https://www.animegg.org/embed/142376",
+        "url": "https://www.animegg.org/watari-kuns-xx-is-about-to-collapse-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/142254",
+        "dub": "https://www.animegg.org/embed/142423",
+        "url": "https://www.animegg.org/watari-kuns-xx-is-about-to-collapse-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/142362",
+        "dub": null,
+        "url": "https://www.animegg.org/watari-kuns-xx-is-about-to-collapse-episode-8"
+      }
+    ]
   }
 ]
