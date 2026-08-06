@@ -6106,5 +6106,21 @@
         "url": "https://www.animegg.org/uchi-no-ko-no-tame-naraba-ore-wa-moshikashitara-maou-mo-taoseru-kamo-shirenai-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 7582,
+    "title": "Enter the Garden",
+    "animegg_url": "https://www.animegg.org/series/enter-the-garden",
+    "mal_url": "https://myanimelist.net/anime/58780",
+    "mal_id": 58780,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/133893",
+        "dub": null,
+        "url": "https://www.animegg.org/enter-the-garden-episode-1"
+      }
+    ]
   }
 ]
