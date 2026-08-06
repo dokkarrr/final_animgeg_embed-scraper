@@ -60451,5 +60451,27 @@
     "mal_id": 59845,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 8328,
+    "title": "The World Is Dancing",
+    "animegg_url": "https://www.animegg.org/series/the-world-is-dancing",
+    "mal_url": "https://myanimelist.net/anime/63347",
+    "mal_id": 63347,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/146425",
+        "dub": null,
+        "url": "https://www.animegg.org/the-world-is-dancing-episode-3"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/146627",
+        "dub": null,
+        "url": "https://www.animegg.org/the-world-is-dancing-episode-6"
+      }
+    ]
   }
 ]
