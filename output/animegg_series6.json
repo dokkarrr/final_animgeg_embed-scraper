@@ -82481,5 +82481,27 @@
         "url": "https://www.animegg.org/karigurashi-no-arrietty-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8732,
+    "title": "Ozanari Dungeon: Kaze no Tou",
+    "animegg_url": "https://www.animegg.org/series/ozanari-dungeon-kaze-no-tou",
+    "mal_url": "https://myanimelist.net/anime/3065",
+    "mal_id": 3065,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/104759",
+        "dub": null,
+        "url": "https://www.animegg.org/ozanari-dungeon-kaze-no-tou-episode-1"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/104718",
+        "dub": null,
+        "url": "https://www.animegg.org/ozanari-dungeon-kaze-no-tou-episode-3"
+      }
+    ]
   }
 ]
