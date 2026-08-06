@@ -56318,5 +56318,87 @@
         "url": "https://www.animegg.org/let-s-play-quest-darake-no-my-life-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8261,
+    "title": "Island",
+    "animegg_url": "https://www.animegg.org/series/island-dub",
+    "mal_url": "https://myanimelist.net/anime/33012",
+    "mal_id": 33012,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/124858",
+        "dub": null,
+        "url": "https://www.animegg.org/island-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/124854",
+        "dub": null,
+        "url": "https://www.animegg.org/island-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/124853",
+        "dub": null,
+        "url": "https://www.animegg.org/island-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/124852",
+        "dub": null,
+        "url": "https://www.animegg.org/island-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/124851",
+        "dub": null,
+        "url": "https://www.animegg.org/island-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/124850",
+        "dub": null,
+        "url": "https://www.animegg.org/island-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/124849",
+        "dub": null,
+        "url": "https://www.animegg.org/island-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/124848",
+        "dub": null,
+        "url": "https://www.animegg.org/island-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/124847",
+        "dub": null,
+        "url": "https://www.animegg.org/island-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/124857",
+        "dub": null,
+        "url": "https://www.animegg.org/island-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/124856",
+        "dub": null,
+        "url": "https://www.animegg.org/island-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/124855",
+        "dub": null,
+        "url": "https://www.animegg.org/island-dub-episode-12"
+      }
+    ]
   }
 ]
