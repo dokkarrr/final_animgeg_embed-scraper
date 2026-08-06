@@ -89527,5 +89527,33 @@
         "url": "https://www.animegg.org/the-apprentices-are-all-bosses-episode-17"
       }
     ]
+  },
+  {
+    "serial_no": 8961,
+    "title": "DNA² OVA",
+    "animegg_url": "https://www.animegg.org/series/dna2-ova-dub",
+    "mal_url": "https://myanimelist.net/anime/1187",
+    "mal_id": 1187,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/127838",
+        "dub": null,
+        "url": "https://www.animegg.org/dna2-ova-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/127837",
+        "dub": null,
+        "url": "https://www.animegg.org/dna2-ova-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/127836",
+        "dub": null,
+        "url": "https://www.animegg.org/dna2-ova-dub-episode-3"
+      }
+    ]
   }
 ]
