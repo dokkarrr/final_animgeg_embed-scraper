@@ -33329,5 +33329,45 @@
         "url": "https://www.animegg.org/oh-super-milk-chan-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 7929,
+    "title": "Arifureta from commonplace to worlds strongest season 3",
+    "animegg_url": "https://www.animegg.org/series/arifureta-from-commonplace-to-worlds-strongest-season-3",
+    "mal_url": "https://myanimelist.net/anime/61029",
+    "mal_id": 61029,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/139998",
+        "dub": null,
+        "url": "https://www.animegg.org/arifureta-from-commonplace-to-worlds-strongest-season-3-episode-16"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/139795",
+        "dub": null,
+        "url": "https://www.animegg.org/arifureta-from-commonplace-to-worlds-strongest-season-3-episode-14"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/139722",
+        "dub": null,
+        "url": "https://www.animegg.org/arifureta-from-commonplace-to-worlds-strongest-season-3-episode-13"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/139624",
+        "dub": null,
+        "url": "https://www.animegg.org/arifureta-from-commonplace-to-worlds-strongest-season-3-episode-12"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/139511",
+        "dub": null,
+        "url": "https://www.animegg.org/arifureta-from-commonplace-to-worlds-strongest-season-3-episode-11"
+      }
+    ]
   }
 ]
