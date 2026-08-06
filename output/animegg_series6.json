@@ -76713,5 +76713,45 @@
         "url": "https://www.animegg.org/ghost-in-the-shell-sac-2045---sustainable-war-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8603,
+    "title": "Chang Sheng Jie",
+    "animegg_url": "https://www.animegg.org/series/chang-sheng-jie",
+    "mal_url": "https://myanimelist.net/anime/60089",
+    "mal_id": 60089,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/138484",
+        "dub": null,
+        "url": "https://www.animegg.org/chang-sheng-jie-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/138498",
+        "dub": null,
+        "url": "https://www.animegg.org/chang-sheng-jie-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/138718",
+        "dub": null,
+        "url": "https://www.animegg.org/chang-sheng-jie-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/138970",
+        "dub": null,
+        "url": "https://www.animegg.org/chang-sheng-jie-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/139143",
+        "dub": null,
+        "url": "https://www.animegg.org/chang-sheng-jie-episode-5"
+      }
+    ]
   }
 ]
