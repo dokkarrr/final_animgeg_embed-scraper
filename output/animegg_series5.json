@@ -133305,5 +133305,75 @@
         "url": "https://www.animegg.org/e-s-otherwise-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 7027,
+    "title": "Kengan Ashura Season 2 Part 2",
+    "animegg_url": "https://www.animegg.org/series/kengan-ashura-season-2-part-2",
+    "mal_url": "https://myanimelist.net/anime/56704",
+    "mal_id": 56704,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/136301",
+        "dub": null,
+        "url": "https://www.animegg.org/kengan-ashura-season-2-part-2-episode-16"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/136300",
+        "dub": null,
+        "url": "https://www.animegg.org/kengan-ashura-season-2-part-2-episode-14"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/136299",
+        "dub": null,
+        "url": "https://www.animegg.org/kengan-ashura-season-2-part-2-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/136296",
+        "dub": null,
+        "url": "https://www.animegg.org/kengan-ashura-season-2-part-2-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/136294",
+        "dub": null,
+        "url": "https://www.animegg.org/kengan-ashura-season-2-part-2-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/136295",
+        "dub": null,
+        "url": "https://www.animegg.org/kengan-ashura-season-2-part-2-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/136293",
+        "dub": null,
+        "url": "https://www.animegg.org/kengan-ashura-season-2-part-2-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/136291",
+        "dub": null,
+        "url": "https://www.animegg.org/kengan-ashura-season-2-part-2-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/136292",
+        "dub": null,
+        "url": "https://www.animegg.org/kengan-ashura-season-2-part-2-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/136288",
+        "dub": null,
+        "url": "https://www.animegg.org/kengan-ashura-season-2-part-2-episode-1"
+      }
+    ]
   }
 ]
