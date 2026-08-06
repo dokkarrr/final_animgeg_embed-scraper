@@ -35208,5 +35208,117 @@
         "url": "https://www.animegg.org/tottemo-luckyman-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 7955,
+    "title": "Jetter Mars",
+    "animegg_url": "https://www.animegg.org/series/jetter-mars",
+    "mal_url": "https://myanimelist.net/anime/6087",
+    "mal_id": 6087,
+    "total_ep": 17,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/jetter-mars-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/jetter-mars-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/jetter-mars-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/jetter-mars-episode-4"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/jetter-mars-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/jetter-mars-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/jetter-mars-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/jetter-mars-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/jetter-mars-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/jetter-mars-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/jetter-mars-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/138787",
+        "dub": null,
+        "url": "https://www.animegg.org/jetter-mars-episode-14"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/138786",
+        "dub": null,
+        "url": "https://www.animegg.org/jetter-mars-episode-15"
+      },
+      {
+        "ep": 20,
+        "sub": "https://www.animegg.org/embed/138788",
+        "dub": null,
+        "url": "https://www.animegg.org/jetter-mars-episode-20"
+      },
+      {
+        "ep": 23,
+        "sub": "https://www.animegg.org/embed/138789",
+        "dub": null,
+        "url": "https://www.animegg.org/jetter-mars-episode-23"
+      },
+      {
+        "ep": 26,
+        "sub": "https://www.animegg.org/embed/138792",
+        "dub": null,
+        "url": "https://www.animegg.org/jetter-mars-episode-26"
+      },
+      {
+        "ep": 27,
+        "sub": "https://www.animegg.org/embed/138791",
+        "dub": null,
+        "url": "https://www.animegg.org/jetter-mars-episode-27"
+      }
+    ]
   }
 ]
