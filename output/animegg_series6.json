@@ -21373,5 +21373,21 @@
         "url": "https://www.animegg.org/sudden-wealth-system-i-have-999-new-identities-episode-16"
       }
     ]
+  },
+  {
+    "serial_no": 7773,
+    "title": "Shirobako Movie",
+    "animegg_url": "https://www.animegg.org/series/shirobako-movie",
+    "mal_url": "https://myanimelist.net/anime/37804",
+    "mal_id": 37804,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/101434",
+        "dub": null,
+        "url": "https://www.animegg.org/shirobako-movie-episode-1"
+      }
+    ]
   }
 ]
