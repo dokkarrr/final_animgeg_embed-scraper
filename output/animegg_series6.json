@@ -77621,5 +77621,39 @@
         "url": "https://www.animegg.org/queen-s-blade-utsukushiki-toushi-tachi-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 8622,
+    "title": "The Prince of Tennis Another Story II",
+    "animegg_url": "https://www.animegg.org/series/the-prince-of-tennis-another-story-ii",
+    "mal_url": "https://myanimelist.net/anime/10573",
+    "mal_id": 10573,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/139268",
+        "dub": null,
+        "url": "https://www.animegg.org/the-prince-of-tennis-another-story-ii-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/139267",
+        "dub": null,
+        "url": "https://www.animegg.org/the-prince-of-tennis-another-story-ii-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/139237",
+        "dub": null,
+        "url": "https://www.animegg.org/the-prince-of-tennis-another-story-ii-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/139236",
+        "dub": null,
+        "url": "https://www.animegg.org/the-prince-of-tennis-another-story-ii-episode-4"
+      }
+    ]
   }
 ]
