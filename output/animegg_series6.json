@@ -89026,5 +89026,51 @@
     "mal_id": 1238,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 8942,
+    "title": "Eternal First God",
+    "animegg_url": "https://www.animegg.org/series/eternal-first-god",
+    "mal_url": "https://myanimelist.net/anime/22265",
+    "mal_id": 22265,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 51,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/eternal-first-god-episode-51"
+      },
+      {
+        "ep": 63,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/eternal-first-god-episode-63"
+      },
+      {
+        "ep": 64,
+        "sub": "https://www.animegg.org/embed/136851",
+        "dub": null,
+        "url": "https://www.animegg.org/eternal-first-god-episode-64"
+      },
+      {
+        "ep": 71,
+        "sub": "https://www.animegg.org/embed/137914",
+        "dub": null,
+        "url": "https://www.animegg.org/eternal-first-god-episode-71"
+      },
+      {
+        "ep": 75,
+        "sub": "https://www.animegg.org/embed/138168",
+        "dub": null,
+        "url": "https://www.animegg.org/eternal-first-god-episode-75"
+      },
+      {
+        "ep": 77,
+        "sub": "https://www.animegg.org/embed/138642",
+        "dub": null,
+        "url": "https://www.animegg.org/eternal-first-god-episode-77"
+      }
+    ]
   }
 ]
