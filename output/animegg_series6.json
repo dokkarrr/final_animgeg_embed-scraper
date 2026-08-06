@@ -88383,5 +88383,39 @@
         "url": "https://www.animegg.org/mahou-no-princess-minky-momo-yume-wo-dakishimete-episode-62"
       }
     ]
+  },
+  {
+    "serial_no": 8918,
+    "title": "C Danchi",
+    "animegg_url": "https://www.animegg.org/series/c-danchi-dub",
+    "mal_url": "https://myanimelist.net/anime/51306",
+    "mal_id": 51306,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/c-danchi-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/c-danchi-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/c-danchi-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/c-danchi-dub-episode-4"
+      }
+    ]
   }
 ]
