@@ -72227,5 +72227,21 @@
         "url": "https://www.animegg.org/sd-gundam-brave-battle-warriors-episode-51"
       }
     ]
+  },
+  {
+    "serial_no": 8517,
+    "title": "Shoujo☆Kageki Revue Starlight Movie",
+    "animegg_url": "https://www.animegg.org/series/shoujo-kageki-revue-starlight-movie",
+    "mal_url": "https://myanimelist.net/anime/40664",
+    "mal_id": 40664,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/103700",
+        "dub": null,
+        "url": "https://www.animegg.org/shoujo-kageki-revue-starlight-movie-episode-1"
+      }
+    ]
   }
 ]
