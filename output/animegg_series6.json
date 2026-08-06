@@ -76357,5 +76357,57 @@
         "url": "https://www.animegg.org/elite-jack-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 8595,
+    "title": "Tiger x Crane Record of the Demon Master",
+    "animegg_url": "https://www.animegg.org/series/tiger-x-crane-record-of-the-demon-master",
+    "mal_url": "https://myanimelist.net/anime/59977",
+    "mal_id": 59977,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/137690",
+        "dub": null,
+        "url": "https://www.animegg.org/tiger-x-crane-record-of-the-demon-master-episode-1"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/137945",
+        "dub": null,
+        "url": "https://www.animegg.org/tiger-x-crane-record-of-the-demon-master-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/138213",
+        "dub": null,
+        "url": "https://www.animegg.org/tiger-x-crane-record-of-the-demon-master-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/138481",
+        "dub": null,
+        "url": "https://www.animegg.org/tiger-x-crane-record-of-the-demon-master-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/138669",
+        "dub": null,
+        "url": "https://www.animegg.org/tiger-x-crane-record-of-the-demon-master-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/138910",
+        "dub": null,
+        "url": "https://www.animegg.org/tiger-x-crane-record-of-the-demon-master-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/139100",
+        "dub": null,
+        "url": "https://www.animegg.org/tiger-x-crane-record-of-the-demon-master-episode-8"
+      }
+    ]
   }
 ]
