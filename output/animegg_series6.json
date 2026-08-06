@@ -22892,5 +22892,39 @@
         "url": "https://www.animegg.org/ai-no-wakakusa-yama-monogatari-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 7796,
+    "title": "Youkaiden Nekome Kozou",
+    "animegg_url": "https://www.animegg.org/series/youkaiden-nekome-kozou",
+    "mal_url": "https://myanimelist.net/anime/23351",
+    "mal_id": 23351,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/youkaiden-nekome-kozou-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/youkaiden-nekome-kozou-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/132037",
+        "dub": null,
+        "url": "https://www.animegg.org/youkaiden-nekome-kozou-episode-3"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/138719",
+        "dub": null,
+        "url": "https://www.animegg.org/youkaiden-nekome-kozou-episode-6"
+      }
+    ]
   }
 ]
