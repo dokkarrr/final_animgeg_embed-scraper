@@ -60473,5 +60473,87 @@
         "url": "https://www.animegg.org/the-world-is-dancing-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 8329,
+    "title": "ID-0 (Dub)",
+    "animegg_url": "https://www.animegg.org/series/id-0-dub",
+    "mal_url": "https://myanimelist.net/anime/33797",
+    "mal_id": 33797,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/125249",
+        "dub": null,
+        "url": "https://www.animegg.org/id-0-dub-episode-12"
+      },
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/125250",
+        "dub": null,
+        "url": "https://www.animegg.org/id-0-dub-episode-11"
+      },
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/125251",
+        "dub": null,
+        "url": "https://www.animegg.org/id-0-dub-episode-10"
+      },
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/125241",
+        "dub": null,
+        "url": "https://www.animegg.org/id-0-dub-episode-9"
+      },
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/125242",
+        "dub": null,
+        "url": "https://www.animegg.org/id-0-dub-episode-8"
+      },
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/125243",
+        "dub": null,
+        "url": "https://www.animegg.org/id-0-dub-episode-7"
+      },
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/125244",
+        "dub": null,
+        "url": "https://www.animegg.org/id-0-dub-episode-6"
+      },
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/125245",
+        "dub": null,
+        "url": "https://www.animegg.org/id-0-dub-episode-5"
+      },
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/125246",
+        "dub": null,
+        "url": "https://www.animegg.org/id-0-dub-episode-4"
+      },
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/125247",
+        "dub": null,
+        "url": "https://www.animegg.org/id-0-dub-episode-3"
+      },
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/125248",
+        "dub": null,
+        "url": "https://www.animegg.org/id-0-dub-episode-2"
+      },
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/125252",
+        "dub": null,
+        "url": "https://www.animegg.org/id-0-dub-episode-1"
+      }
+    ]
   }
 ]
