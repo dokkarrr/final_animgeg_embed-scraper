@@ -40178,5 +40178,39 @@
         "url": "https://www.animegg.org/2-x-2-shinobuden-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8025,
+    "title": "C Danchi",
+    "animegg_url": "https://www.animegg.org/series/c-danchi",
+    "mal_url": "https://myanimelist.net/anime/51306",
+    "mal_id": 51306,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/106028",
+        "dub": null,
+        "url": "https://www.animegg.org/c-danchi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/106076",
+        "dub": null,
+        "url": "https://www.animegg.org/c-danchi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/106150",
+        "dub": null,
+        "url": "https://www.animegg.org/c-danchi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/106195",
+        "dub": null,
+        "url": "https://www.animegg.org/c-danchi-episode-4"
+      }
+    ]
   }
 ]
