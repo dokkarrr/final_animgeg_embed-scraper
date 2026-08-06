@@ -83814,5 +83814,27 @@
         "url": "https://www.animegg.org/one-piece-straw-hat-theater-episode-5"
       }
     ]
+  },
+  {
+    "serial_no": 8764,
+    "title": "Koukou Butouden Crows",
+    "animegg_url": "https://www.animegg.org/series/koukou-butouden-crows",
+    "mal_url": "https://myanimelist.net/anime/6293",
+    "mal_id": 6293,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/131210",
+        "dub": null,
+        "url": "https://www.animegg.org/koukou-butouden-crows-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/131209",
+        "dub": null,
+        "url": "https://www.animegg.org/koukou-butouden-crows-episode-2"
+      }
+    ]
   }
 ]
