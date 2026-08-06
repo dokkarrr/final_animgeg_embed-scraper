@@ -81697,5 +81697,21 @@
         "url": "https://www.animegg.org/aggressive-retsuko-ona-5th-season-dub-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8713,
+    "title": "Dokushin Apartment Dokudami-sou",
+    "animegg_url": "https://www.animegg.org/series/dokushin-apartment-dokudami-sou",
+    "mal_url": "https://myanimelist.net/anime/9499",
+    "mal_id": 9499,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/137607",
+        "dub": null,
+        "url": "https://www.animegg.org/dokushin-apartment-dokudami-sou-episode-3"
+      }
+    ]
   }
 ]
