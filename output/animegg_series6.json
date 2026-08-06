@@ -80297,5 +80297,21 @@
         "url": "https://www.animegg.org/dragons-the-nine-realms-season-5-dub-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8680,
+    "title": "Amrita no Kyouen",
+    "animegg_url": "https://www.animegg.org/series/amrita-no-kyouen",
+    "mal_url": "https://myanimelist.net/anime/41029",
+    "mal_id": 41029,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/133046",
+        "dub": null,
+        "url": "https://www.animegg.org/amrita-no-kyouen-episode-1"
+      }
+    ]
   }
 ]
