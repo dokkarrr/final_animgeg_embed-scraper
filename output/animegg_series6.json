@@ -84592,5 +84592,33 @@
         "url": "https://www.animegg.org/kono-yo-no-hate-de-koi-wo-utau-shoujo-yu-no-mugen-no-heiretsu-sekai-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8790,
+    "title": "Bad Boys",
+    "animegg_url": "https://www.animegg.org/series/bad-boys",
+    "mal_url": "https://myanimelist.net/anime/6096",
+    "mal_id": 6096,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/139271",
+        "dub": null,
+        "url": "https://www.animegg.org/bad-boys-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/139270",
+        "dub": null,
+        "url": "https://www.animegg.org/bad-boys-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/139269",
+        "dub": null,
+        "url": "https://www.animegg.org/bad-boys-episode-3"
+      }
+    ]
   }
 ]
