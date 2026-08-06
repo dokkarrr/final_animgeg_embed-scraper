@@ -78308,5 +78308,39 @@
         "url": "https://www.animegg.org/wu-ying-sanqian-dao-2-episode-37"
       }
     ]
+  },
+  {
+    "serial_no": 8638,
+    "title": "Ai no Kusabi (2012)",
+    "animegg_url": "https://www.animegg.org/series/ai-no-kusabi-2012-dub",
+    "mal_url": "https://myanimelist.net/anime/5784",
+    "mal_id": 5784,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 2012,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ai-no-kusabi-2012-dub-episode-4"
+      },
+      {
+        "ep": 2012,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ai-no-kusabi-2012-dub-episode-3"
+      },
+      {
+        "ep": 2012,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ai-no-kusabi-2012-dub-episode-2"
+      },
+      {
+        "ep": 2012,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ai-no-kusabi-2012-dub-episode-1"
+      }
+    ]
   }
 ]
