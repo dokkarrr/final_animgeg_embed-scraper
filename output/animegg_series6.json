@@ -724,5 +724,21 @@
         "url": "https://www.animegg.org/paradise-kiss-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 7513,
+    "title": "Marudase Kintarou",
+    "animegg_url": "https://www.animegg.org/series/marudase-kintarou",
+    "mal_url": "https://myanimelist.net/anime/40845",
+    "mal_id": 40845,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/101259",
+        "dub": null,
+        "url": "https://www.animegg.org/marudase-kintarou-episode-1"
+      }
+    ]
   }
 ]
