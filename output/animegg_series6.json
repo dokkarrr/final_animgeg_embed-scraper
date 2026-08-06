@@ -17653,5 +17653,87 @@
         "url": "https://www.animegg.org/tonikaku-kawaii-seifuku-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 7726,
+    "title": "Tamayomi (Dub)",
+    "animegg_url": "https://www.animegg.org/series/tamayomi-dub",
+    "mal_url": "https://myanimelist.net/anime/39966",
+    "mal_id": 39966,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/117283",
+        "dub": null,
+        "url": "https://www.animegg.org/tamayomi-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/117278",
+        "dub": null,
+        "url": "https://www.animegg.org/tamayomi-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/117279",
+        "dub": null,
+        "url": "https://www.animegg.org/tamayomi-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/117277",
+        "dub": null,
+        "url": "https://www.animegg.org/tamayomi-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/117276",
+        "dub": null,
+        "url": "https://www.animegg.org/tamayomi-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/117275",
+        "dub": null,
+        "url": "https://www.animegg.org/tamayomi-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/117274",
+        "dub": null,
+        "url": "https://www.animegg.org/tamayomi-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/117273",
+        "dub": null,
+        "url": "https://www.animegg.org/tamayomi-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/117272",
+        "dub": null,
+        "url": "https://www.animegg.org/tamayomi-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/117282",
+        "dub": null,
+        "url": "https://www.animegg.org/tamayomi-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/117281",
+        "dub": null,
+        "url": "https://www.animegg.org/tamayomi-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/117280",
+        "dub": null,
+        "url": "https://www.animegg.org/tamayomi-dub-episode-12"
+      }
+    ]
   }
 ]
