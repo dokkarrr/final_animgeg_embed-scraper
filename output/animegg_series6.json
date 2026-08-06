@@ -19560,5 +19560,87 @@
         "url": "https://www.animegg.org/zhen-hun-jie-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 7750,
+    "title": "Hatsukoi Monster",
+    "animegg_url": "https://www.animegg.org/series/hatsukoi-monster-dub",
+    "mal_url": "https://myanimelist.net/anime/31109",
+    "mal_id": 31109,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/125804",
+        "dub": null,
+        "url": "https://www.animegg.org/hatsukoi-monster-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/125800",
+        "dub": null,
+        "url": "https://www.animegg.org/hatsukoi-monster-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/125799",
+        "dub": null,
+        "url": "https://www.animegg.org/hatsukoi-monster-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/125798",
+        "dub": null,
+        "url": "https://www.animegg.org/hatsukoi-monster-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/125797",
+        "dub": null,
+        "url": "https://www.animegg.org/hatsukoi-monster-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/125796",
+        "dub": null,
+        "url": "https://www.animegg.org/hatsukoi-monster-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/125795",
+        "dub": null,
+        "url": "https://www.animegg.org/hatsukoi-monster-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/125794",
+        "dub": null,
+        "url": "https://www.animegg.org/hatsukoi-monster-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/125793",
+        "dub": null,
+        "url": "https://www.animegg.org/hatsukoi-monster-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/125803",
+        "dub": null,
+        "url": "https://www.animegg.org/hatsukoi-monster-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/125802",
+        "dub": null,
+        "url": "https://www.animegg.org/hatsukoi-monster-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/125801",
+        "dub": null,
+        "url": "https://www.animegg.org/hatsukoi-monster-dub-episode-12"
+      }
+    ]
   }
 ]
