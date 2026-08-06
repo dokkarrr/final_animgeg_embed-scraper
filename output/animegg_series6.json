@@ -72259,5 +72259,63 @@
         "url": "https://www.animegg.org/sailor-moon-eternal-movie-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8519,
+    "title": "Pantheon (Dub)",
+    "animegg_url": "https://www.animegg.org/series/pantheon-dub",
+    "mal_url": "https://myanimelist.net/anime/28725",
+    "mal_id": 28725,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/120476",
+        "dub": null,
+        "url": "https://www.animegg.org/pantheon-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/120475",
+        "dub": null,
+        "url": "https://www.animegg.org/pantheon-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/120474",
+        "dub": null,
+        "url": "https://www.animegg.org/pantheon-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/120473",
+        "dub": null,
+        "url": "https://www.animegg.org/pantheon-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/120472",
+        "dub": null,
+        "url": "https://www.animegg.org/pantheon-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/pantheon-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/pantheon-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/120471",
+        "dub": null,
+        "url": "https://www.animegg.org/pantheon-dub-episode-8"
+      }
+    ]
   }
 ]
