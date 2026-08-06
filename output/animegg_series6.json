@@ -82802,5 +82802,27 @@
         "url": "https://www.animegg.org/kanokon-manatsu-no-dai-shanikusai-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 8742,
+    "title": "Lord of mysteries special",
+    "animegg_url": "https://www.animegg.org/series/lord-of-mysteries-special",
+    "mal_url": "https://myanimelist.net/anime/62276",
+    "mal_id": 62276,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/146240",
+        "dub": null,
+        "url": "https://www.animegg.org/lord-of-mysteries-special-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/146261",
+        "dub": null,
+        "url": "https://www.animegg.org/lord-of-mysteries-special-episode-3"
+      }
+    ]
   }
 ]
