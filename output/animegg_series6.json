@@ -89602,5 +89602,57 @@
         "url": "https://www.animegg.org/samurai-spirits-2-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 8965,
+    "title": "Your Ancestor Is Online",
+    "animegg_url": "https://www.animegg.org/series/your-ancestor-is-online",
+    "mal_url": "https://myanimelist.net/anime/21881",
+    "mal_id": 21881,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 16,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/your-ancestor-is-online-episode-16"
+      },
+      {
+        "ep": 17,
+        "sub": "https://www.animegg.org/embed/136086",
+        "dub": null,
+        "url": "https://www.animegg.org/your-ancestor-is-online-episode-17"
+      },
+      {
+        "ep": 18,
+        "sub": "https://www.animegg.org/embed/136369",
+        "dub": null,
+        "url": "https://www.animegg.org/your-ancestor-is-online-episode-18"
+      },
+      {
+        "ep": 20,
+        "sub": "https://www.animegg.org/embed/136741",
+        "dub": null,
+        "url": "https://www.animegg.org/your-ancestor-is-online-episode-20"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/137251",
+        "dub": null,
+        "url": "https://www.animegg.org/your-ancestor-is-online-episode-24"
+      },
+      {
+        "ep": 25,
+        "sub": "https://www.animegg.org/embed/137685",
+        "dub": null,
+        "url": "https://www.animegg.org/your-ancestor-is-online-episode-25"
+      },
+      {
+        "ep": 28,
+        "sub": "https://www.animegg.org/embed/138208",
+        "dub": null,
+        "url": "https://www.animegg.org/your-ancestor-is-online-episode-28"
+      }
+    ]
   }
 ]
