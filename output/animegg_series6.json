@@ -27495,5 +27495,39 @@
         "url": "https://www.animegg.org/yesterday-wo-utatte-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 7852,
+    "title": "The All-Devouring Whale",
+    "animegg_url": "https://www.animegg.org/series/the-all-devouring-whale",
+    "mal_url": "https://myanimelist.net/anime/60572",
+    "mal_id": 60572,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 68,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/the-all-devouring-whale-episode-68"
+      },
+      {
+        "ep": 70,
+        "sub": "https://www.animegg.org/embed/136990",
+        "dub": null,
+        "url": "https://www.animegg.org/the-all-devouring-whale-episode-70"
+      },
+      {
+        "ep": 78,
+        "sub": "https://www.animegg.org/embed/137323",
+        "dub": null,
+        "url": "https://www.animegg.org/the-all-devouring-whale-episode-78"
+      },
+      {
+        "ep": 82,
+        "sub": "https://www.animegg.org/embed/137847",
+        "dub": null,
+        "url": "https://www.animegg.org/the-all-devouring-whale-episode-82"
+      }
+    ]
   }
 ]
