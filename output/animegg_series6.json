@@ -59481,5 +59481,33 @@
         "url": "https://www.animegg.org/fight-ippatsu-juuden-chan-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8310,
+    "title": "Gundam Build Metaverse",
+    "animegg_url": "https://www.animegg.org/series/gundam-build-metaverse",
+    "mal_url": "https://myanimelist.net/anime/54902",
+    "mal_id": 54902,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/131647",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-build-metaverse-episode-1"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/131856",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-build-metaverse-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/131857",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-build-metaverse-episode-4"
+      }
+    ]
   }
 ]
