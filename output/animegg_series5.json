@@ -141498,5 +141498,21 @@
         "url": "https://www.animegg.org/eureka-seven-ao-dub-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 7097,
+    "title": "Gochuumon wa Usagi Desuka??: Sing for You",
+    "animegg_url": "https://www.animegg.org/series/gochuumon-wa-usagi-desuka-sing-for-you",
+    "mal_url": "https://myanimelist.net/anime/29787",
+    "mal_id": 29787,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/96618",
+        "dub": null,
+        "url": "https://www.animegg.org/gochuumon-wa-usagi-desuka-sing-for-you-episode-1"
+      }
+    ]
   }
 ]
