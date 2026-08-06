@@ -133375,5 +133375,63 @@
         "url": "https://www.animegg.org/kengan-ashura-season-2-part-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 7028,
+    "title": "A couple of cuckoos season 2",
+    "animegg_url": "https://www.animegg.org/series/a-couple-of-cuckoos-season-2",
+    "mal_url": "https://myanimelist.net/anime/59402",
+    "mal_id": 59402,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/142759",
+        "dub": null,
+        "url": "https://www.animegg.org/a-couple-of-cuckoos-season-2-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/142674",
+        "dub": null,
+        "url": "https://www.animegg.org/a-couple-of-cuckoos-season-2-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/142585",
+        "dub": null,
+        "url": "https://www.animegg.org/a-couple-of-cuckoos-season-2-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/142323",
+        "dub": null,
+        "url": "https://www.animegg.org/a-couple-of-cuckoos-season-2-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/142212",
+        "dub": null,
+        "url": "https://www.animegg.org/a-couple-of-cuckoos-season-2-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/142088",
+        "dub": null,
+        "url": "https://www.animegg.org/a-couple-of-cuckoos-season-2-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/141962",
+        "dub": null,
+        "url": "https://www.animegg.org/a-couple-of-cuckoos-season-2-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/141845",
+        "dub": null,
+        "url": "https://www.animegg.org/a-couple-of-cuckoos-season-2-episode-1"
+      }
+    ]
   }
 ]
