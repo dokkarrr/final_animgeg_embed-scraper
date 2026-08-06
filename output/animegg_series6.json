@@ -76823,5 +76823,69 @@
         "url": "https://www.animegg.org/lalala-demacia-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 8605,
+    "title": "Lan Mo De Hua",
+    "animegg_url": "https://www.animegg.org/series/lan-mo-de-hua",
+    "mal_url": "https://myanimelist.net/anime/36185",
+    "mal_id": 36185,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/123340",
+        "dub": null,
+        "url": "https://www.animegg.org/lan-mo-de-hua-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/123339",
+        "dub": null,
+        "url": "https://www.animegg.org/lan-mo-de-hua-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/123338",
+        "dub": null,
+        "url": "https://www.animegg.org/lan-mo-de-hua-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/123337",
+        "dub": null,
+        "url": "https://www.animegg.org/lan-mo-de-hua-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/123336",
+        "dub": null,
+        "url": "https://www.animegg.org/lan-mo-de-hua-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/123335",
+        "dub": null,
+        "url": "https://www.animegg.org/lan-mo-de-hua-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/123334",
+        "dub": null,
+        "url": "https://www.animegg.org/lan-mo-de-hua-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/123333",
+        "dub": null,
+        "url": "https://www.animegg.org/lan-mo-de-hua-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/123332",
+        "dub": null,
+        "url": "https://www.animegg.org/lan-mo-de-hua-episode-9"
+      }
+    ]
   }
 ]
