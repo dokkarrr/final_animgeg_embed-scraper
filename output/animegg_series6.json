@@ -89654,5 +89654,87 @@
         "url": "https://www.animegg.org/your-ancestor-is-online-episode-28"
       }
     ]
+  },
+  {
+    "serial_no": 8966,
+    "title": "Yami shibai Season 16",
+    "animegg_url": "https://www.animegg.org/series/yami-shibai-season-16",
+    "mal_url": "https://myanimelist.net/anime/19383",
+    "mal_id": 19383,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/145390",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-season-16-episode-13"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/145303",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-season-16-episode-12"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/145186",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-season-16-episode-11"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/145109",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-season-16-episode-10"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/145008",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-season-16-episode-9"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/144897",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-season-16-episode-8"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/144764",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-season-16-episode-7"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/144587",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-season-16-episode-5"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/144488",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-season-16-episode-4"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/144383",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-season-16-episode-3"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/144265",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-season-16-episode-2"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/144164",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-season-16-episode-1"
+      }
+    ]
   }
 ]
