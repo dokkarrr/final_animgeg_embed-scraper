@@ -76651,5 +76651,51 @@
         "url": "https://www.animegg.org/video-senshi-lezarion-dub-episode-17"
       }
     ]
+  },
+  {
+    "serial_no": 8601,
+    "title": "Gamera: Rebirth",
+    "animegg_url": "https://www.animegg.org/series/gamera-rebirth",
+    "mal_url": "https://myanimelist.net/anime/53627",
+    "mal_id": 53627,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/gamera-rebirth-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/gamera-rebirth-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/gamera-rebirth-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/gamera-rebirth-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/gamera-rebirth-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/gamera-rebirth-episode-6"
+      }
+    ]
   }
 ]
