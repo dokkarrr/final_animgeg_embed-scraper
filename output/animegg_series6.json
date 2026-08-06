@@ -86248,5 +86248,27 @@
     "mal_id": 38731,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 8838,
+    "title": "Tiger & Bunny 2 Part 2",
+    "animegg_url": "https://www.animegg.org/series/tiger-bunny-2-part-2",
+    "mal_url": "https://myanimelist.net/anime/52291",
+    "mal_id": 52291,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/106046",
+        "dub": null,
+        "url": "https://www.animegg.org/tiger-bunny-2-part-2-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/106045",
+        "dub": null,
+        "url": "https://www.animegg.org/tiger-bunny-2-part-2-episode-1"
+      }
+    ]
   }
 ]
