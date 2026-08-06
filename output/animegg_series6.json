@@ -87220,5 +87220,21 @@
         "url": "https://www.animegg.org/86-special-edition-senya-ni-akaku-hinageshi-no-saku-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8875,
+    "title": "Naruto Shippuden Movie 2: Kizuna",
+    "animegg_url": "https://www.animegg.org/series/naruto-shippuden-movie-2-kizuna",
+    "mal_url": "https://myanimelist.net/anime/4437",
+    "mal_id": 4437,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/121330",
+        "dub": null,
+        "url": "https://www.animegg.org/naruto-shippuden-movie-2-kizuna-episode-1"
+      }
+    ]
   }
 ]
