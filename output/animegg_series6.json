@@ -87405,5 +87405,33 @@
         "url": "https://www.animegg.org/hana-doll-reinterpretation-of-flowering-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 8881,
+    "title": "Garouden: The Way of the Lone Wolf",
+    "animegg_url": "https://www.animegg.org/series/garouden-the-way-of-the-lone-wolf",
+    "mal_url": "https://myanimelist.net/anime/58717",
+    "mal_id": 58717,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/garouden-the-way-of-the-lone-wolf-episode-2"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/garouden-the-way-of-the-lone-wolf-episode-6"
+      },
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/garouden-the-way-of-the-lone-wolf-episode-8"
+      }
+    ]
   }
 ]
