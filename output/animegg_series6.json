@@ -772,5 +772,21 @@
         "url": "https://www.animegg.org/fategrand-carnival-new-year-s-eve-special-2020-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 7516,
+    "title": "Heya Camp△: Sauna to Gohan to Miwa Bike",
+    "animegg_url": "https://www.animegg.org/series/heya-camp-sauna-to-gohan-to-miwa-bike",
+    "mal_url": "https://myanimelist.net/anime/41061",
+    "mal_id": 41061,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/98420",
+        "dub": null,
+        "url": "https://www.animegg.org/heya-camp-sauna-to-gohan-to-miwa-bike-episode-1"
+      }
+    ]
   }
 ]
