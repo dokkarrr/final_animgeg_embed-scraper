@@ -82758,5 +82758,27 @@
         "url": "https://www.animegg.org/maria-sama-ga-miteru-haru-specials-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 8740,
+    "title": "Tomie",
+    "animegg_url": "https://www.animegg.org/series/tomie-dub",
+    "mal_url": "https://myanimelist.net/anime/36992",
+    "mal_id": 36992,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/116670",
+        "dub": null,
+        "url": "https://www.animegg.org/tomie-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/116669",
+        "dub": null,
+        "url": "https://www.animegg.org/tomie-dub-episode-2"
+      }
+    ]
   }
 ]
