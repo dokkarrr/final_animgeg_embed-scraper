@@ -47258,5 +47258,87 @@
         "url": "https://www.animegg.org/obsolete-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8125,
+    "title": "Mitsuboshi Colors",
+    "animegg_url": "https://www.animegg.org/series/mitsuboshi-colors-dub",
+    "mal_url": "https://myanimelist.net/anime/35078",
+    "mal_id": 35078,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/121801",
+        "dub": null,
+        "url": "https://www.animegg.org/mitsuboshi-colors-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/121797",
+        "dub": null,
+        "url": "https://www.animegg.org/mitsuboshi-colors-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/121796",
+        "dub": null,
+        "url": "https://www.animegg.org/mitsuboshi-colors-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/121795",
+        "dub": null,
+        "url": "https://www.animegg.org/mitsuboshi-colors-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/121794",
+        "dub": null,
+        "url": "https://www.animegg.org/mitsuboshi-colors-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/121793",
+        "dub": null,
+        "url": "https://www.animegg.org/mitsuboshi-colors-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/121792",
+        "dub": null,
+        "url": "https://www.animegg.org/mitsuboshi-colors-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/121791",
+        "dub": null,
+        "url": "https://www.animegg.org/mitsuboshi-colors-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/121790",
+        "dub": null,
+        "url": "https://www.animegg.org/mitsuboshi-colors-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/121800",
+        "dub": null,
+        "url": "https://www.animegg.org/mitsuboshi-colors-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/121799",
+        "dub": null,
+        "url": "https://www.animegg.org/mitsuboshi-colors-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/121798",
+        "dub": null,
+        "url": "https://www.animegg.org/mitsuboshi-colors-dub-episode-12"
+      }
+    ]
   }
 ]
