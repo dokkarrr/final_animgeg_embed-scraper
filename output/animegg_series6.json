@@ -21471,5 +21471,21 @@
         "url": "https://www.animegg.org/endro-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 7775,
+    "title": "Majo Minarai wo Sagashite",
+    "animegg_url": "https://www.animegg.org/series/majo-minarai-wo-sagashite",
+    "mal_url": "https://myanimelist.net/anime/39585",
+    "mal_id": 39585,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/102096",
+        "dub": null,
+        "url": "https://www.animegg.org/majo-minarai-wo-sagashite-episode-1"
+      }
+    ]
   }
 ]
