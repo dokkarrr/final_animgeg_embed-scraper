@@ -50891,5 +50891,63 @@
         "url": "https://www.animegg.org/bizarre-game-i-cleared-it-using-billions-of-merit-points-episode-42"
       }
     ]
+  },
+  {
+    "serial_no": 8180,
+    "title": "Hunt Monster Core",
+    "animegg_url": "https://www.animegg.org/series/hunt-monster-core",
+    "mal_url": "https://myanimelist.net/anime/14227",
+    "mal_id": 14227,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/137279",
+        "dub": null,
+        "url": "https://www.animegg.org/hunt-monster-core-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/137387",
+        "dub": null,
+        "url": "https://www.animegg.org/hunt-monster-core-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/137710",
+        "dub": null,
+        "url": "https://www.animegg.org/hunt-monster-core-episode-7"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/137860",
+        "dub": null,
+        "url": "https://www.animegg.org/hunt-monster-core-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/hunt-monster-core-episode-11"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/138236",
+        "dub": null,
+        "url": "https://www.animegg.org/hunt-monster-core-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/138387",
+        "dub": null,
+        "url": "https://www.animegg.org/hunt-monster-core-episode-14"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/138583",
+        "dub": null,
+        "url": "https://www.animegg.org/hunt-monster-core-episode-15"
+      }
+    ]
   }
 ]
