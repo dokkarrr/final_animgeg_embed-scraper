@@ -85277,5 +85277,39 @@
         "url": "https://www.animegg.org/nian-wushuang-episode-14"
       }
     ]
+  },
+  {
+    "serial_no": 8807,
+    "title": "Darker than Black 2: Gemini of the Meteor OVA (Dub)",
+    "animegg_url": "https://www.animegg.org/series/darker-than-black-2-gemini-of-the-meteor-ova-dub",
+    "mal_url": "https://myanimelist.net/anime/2025",
+    "mal_id": 2025,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/128061",
+        "dub": null,
+        "url": "https://www.animegg.org/darker-than-black-2-gemini-of-the-meteor-ova-dub-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/128062",
+        "dub": null,
+        "url": "https://www.animegg.org/darker-than-black-2-gemini-of-the-meteor-ova-dub-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/128063",
+        "dub": null,
+        "url": "https://www.animegg.org/darker-than-black-2-gemini-of-the-meteor-ova-dub-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/128064",
+        "dub": null,
+        "url": "https://www.animegg.org/darker-than-black-2-gemini-of-the-meteor-ova-dub-episode-1"
+      }
+    ]
   }
 ]
