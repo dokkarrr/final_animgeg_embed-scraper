@@ -87812,5 +87812,21 @@
         "url": "https://www.animegg.org/otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-ni-tensei-shiteshimatta-voice-drama-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8896,
+    "title": "Violet Evergarden Movie (Dub)",
+    "animegg_url": "https://www.animegg.org/series/violet-evergarden-movie-dub",
+    "mal_url": "https://myanimelist.net/anime/37987",
+    "mal_id": 37987,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/115691",
+        "dub": null,
+        "url": "https://www.animegg.org/violet-evergarden-movie-dub-episode-1"
+      }
+    ]
   }
 ]
