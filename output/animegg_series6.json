@@ -47176,5 +47176,87 @@
         "url": "https://www.animegg.org/3-choume-no-tama-uchi-no-tama-shirimasen-ka--dub-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8124,
+    "title": "Obsolete",
+    "animegg_url": "https://www.animegg.org/series/obsolete",
+    "mal_url": "https://myanimelist.net/anime/40438",
+    "mal_id": 40438,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/121216",
+        "dub": null,
+        "url": "https://www.animegg.org/obsolete-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/121212",
+        "dub": null,
+        "url": "https://www.animegg.org/obsolete-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/121211",
+        "dub": null,
+        "url": "https://www.animegg.org/obsolete-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/121210",
+        "dub": null,
+        "url": "https://www.animegg.org/obsolete-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/121209",
+        "dub": null,
+        "url": "https://www.animegg.org/obsolete-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/121208",
+        "dub": null,
+        "url": "https://www.animegg.org/obsolete-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/121207",
+        "dub": null,
+        "url": "https://www.animegg.org/obsolete-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/121206",
+        "dub": null,
+        "url": "https://www.animegg.org/obsolete-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/121205",
+        "dub": null,
+        "url": "https://www.animegg.org/obsolete-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/121215",
+        "dub": null,
+        "url": "https://www.animegg.org/obsolete-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/121214",
+        "dub": null,
+        "url": "https://www.animegg.org/obsolete-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/121213",
+        "dub": null,
+        "url": "https://www.animegg.org/obsolete-episode-12"
+      }
+    ]
   }
 ]
