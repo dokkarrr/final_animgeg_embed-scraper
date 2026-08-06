@@ -145742,5 +145742,81 @@
         "url": "https://www.animegg.org/chihayafuru-3-dub-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 7135,
+    "title": "Yeosin Gangnim",
+    "animegg_url": "https://www.animegg.org/series/yeosin-gangnim",
+    "mal_url": "https://myanimelist.net/anime/57192",
+    "mal_id": 57192,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/yeosin-gangnim-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/136281",
+        "dub": null,
+        "url": "https://www.animegg.org/yeosin-gangnim-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/136426",
+        "dub": null,
+        "url": "https://www.animegg.org/yeosin-gangnim-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/136617",
+        "dub": null,
+        "url": "https://www.animegg.org/yeosin-gangnim-episode-4"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/136984",
+        "dub": null,
+        "url": "https://www.animegg.org/yeosin-gangnim-episode-6"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/137345",
+        "dub": null,
+        "url": "https://www.animegg.org/yeosin-gangnim-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/137544",
+        "dub": null,
+        "url": "https://www.animegg.org/yeosin-gangnim-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/137797",
+        "dub": null,
+        "url": "https://www.animegg.org/yeosin-gangnim-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/138072",
+        "dub": null,
+        "url": "https://www.animegg.org/yeosin-gangnim-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/138321",
+        "dub": null,
+        "url": "https://www.animegg.org/yeosin-gangnim-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/138521",
+        "dub": null,
+        "url": "https://www.animegg.org/yeosin-gangnim-episode-13"
+      }
+    ]
   }
 ]
