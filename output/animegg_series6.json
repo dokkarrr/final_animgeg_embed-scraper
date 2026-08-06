@@ -79853,5 +79853,39 @@
         "url": "https://www.animegg.org/shenyuan-youxi-episode-16"
       }
     ]
+  },
+  {
+    "serial_no": 8671,
+    "title": "Xin Shen Bang: Nezha Chonsheng",
+    "animegg_url": "https://www.animegg.org/series/xin-shen-bang-nezha-chonsheng",
+    "mal_url": "https://myanimelist.net/anime/44061",
+    "mal_id": 44061,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/113171",
+        "dub": null,
+        "url": "https://www.animegg.org/xin-shen-bang-nezha-chonsheng-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/113170",
+        "dub": null,
+        "url": "https://www.animegg.org/xin-shen-bang-nezha-chonsheng-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/113169",
+        "dub": null,
+        "url": "https://www.animegg.org/xin-shen-bang-nezha-chonsheng-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/113168",
+        "dub": null,
+        "url": "https://www.animegg.org/xin-shen-bang-nezha-chonsheng-episode-4"
+      }
+    ]
   }
 ]
