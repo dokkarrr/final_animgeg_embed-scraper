@@ -82998,5 +82998,75 @@
         "url": "https://www.animegg.org/the-snack-world-tv-episode-50"
       }
     ]
+  },
+  {
+    "serial_no": 8746,
+    "title": "Osomatsu san season 4",
+    "animegg_url": "https://www.animegg.org/series/osomatsu-san-season-4",
+    "mal_url": "https://myanimelist.net/anime/31174",
+    "mal_id": 31174,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/146079",
+        "dub": null,
+        "url": "https://www.animegg.org/osomatsu-san-season-4-episode-13"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/142677",
+        "dub": null,
+        "url": "https://www.animegg.org/osomatsu-san-season-4-episode-12"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/142586",
+        "dub": null,
+        "url": "https://www.animegg.org/osomatsu-san-season-4-episode-11"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/142409",
+        "dub": null,
+        "url": "https://www.animegg.org/osomatsu-san-season-4-episode-9"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/142207",
+        "dub": null,
+        "url": "https://www.animegg.org/osomatsu-san-season-4-episode-6"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/142086",
+        "dub": null,
+        "url": "https://www.animegg.org/osomatsu-san-season-4-episode-5"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/141961",
+        "dub": null,
+        "url": "https://www.animegg.org/osomatsu-san-season-4-episode-4"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/141844",
+        "dub": null,
+        "url": "https://www.animegg.org/osomatsu-san-season-4-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/141732",
+        "dub": null,
+        "url": "https://www.animegg.org/osomatsu-san-season-4-episode-2"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/141625",
+        "dub": null,
+        "url": "https://www.animegg.org/osomatsu-san-season-4-episode-1"
+      }
+    ]
   }
 ]
