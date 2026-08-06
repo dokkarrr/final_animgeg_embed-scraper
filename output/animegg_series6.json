@@ -62491,5 +62491,75 @@
         "url": "https://www.animegg.org/estab-life-great-escape-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8361,
+    "title": "Zhui Xu",
+    "animegg_url": "https://www.animegg.org/series/zhui-xu",
+    "mal_url": "https://myanimelist.net/anime/54875",
+    "mal_id": 54875,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/zhui-xu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/zhui-xu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/zhui-xu-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/zhui-xu-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/zhui-xu-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/zhui-xu-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/110854",
+        "dub": null,
+        "url": "https://www.animegg.org/zhui-xu-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/zhui-xu-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/zhui-xu-episode-9"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/135900",
+        "dub": null,
+        "url": "https://www.animegg.org/zhui-xu-episode-13"
+      }
+    ]
   }
 ]
