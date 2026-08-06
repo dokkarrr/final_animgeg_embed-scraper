@@ -85099,5 +85099,27 @@
         "url": "https://www.animegg.org/the-unmatched-powerhouse-just-wants-to-farm-season-2-episode-21"
       }
     ]
+  },
+  {
+    "serial_no": 8803,
+    "title": "BanG Dream! Morfonication",
+    "animegg_url": "https://www.animegg.org/series/bang-dream-morfonication",
+    "mal_url": "https://myanimelist.net/anime/51989",
+    "mal_id": 51989,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/105419",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-morfonication-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/105420",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-morfonication-episode-2"
+      }
+    ]
   }
 ]
