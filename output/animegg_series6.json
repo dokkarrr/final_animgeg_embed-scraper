@@ -89795,5 +89795,51 @@
         "url": "https://www.animegg.org/variable-geo-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 8970,
+    "title": "Hakuouki Sekkaroku (Dub)",
+    "animegg_url": "https://www.animegg.org/series/hakuouki-sekkaroku-dub",
+    "mal_url": "https://myanimelist.net/anime/10350",
+    "mal_id": 10350,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/hakuouki-sekkaroku-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/hakuouki-sekkaroku-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/hakuouki-sekkaroku-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/hakuouki-sekkaroku-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/hakuouki-sekkaroku-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/hakuouki-sekkaroku-dub-episode-6"
+      }
+    ]
   }
 ]
