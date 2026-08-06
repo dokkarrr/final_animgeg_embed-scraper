@@ -37335,5 +37335,87 @@
         "url": "https://www.animegg.org/regalia-the-three-sacred-stars-dub-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 7983,
+    "title": "Date A Live III (Dub)",
+    "animegg_url": "https://www.animegg.org/series/date-a-live-iii-dub",
+    "mal_url": "https://myanimelist.net/anime/36633",
+    "mal_id": 36633,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/127979",
+        "dub": null,
+        "url": "https://www.animegg.org/date-a-live-iii-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/127975",
+        "dub": null,
+        "url": "https://www.animegg.org/date-a-live-iii-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/127974",
+        "dub": null,
+        "url": "https://www.animegg.org/date-a-live-iii-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/127973",
+        "dub": null,
+        "url": "https://www.animegg.org/date-a-live-iii-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/127972",
+        "dub": null,
+        "url": "https://www.animegg.org/date-a-live-iii-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/127971",
+        "dub": null,
+        "url": "https://www.animegg.org/date-a-live-iii-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/127970",
+        "dub": null,
+        "url": "https://www.animegg.org/date-a-live-iii-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/127969",
+        "dub": null,
+        "url": "https://www.animegg.org/date-a-live-iii-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/127968",
+        "dub": null,
+        "url": "https://www.animegg.org/date-a-live-iii-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/127978",
+        "dub": null,
+        "url": "https://www.animegg.org/date-a-live-iii-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/127977",
+        "dub": null,
+        "url": "https://www.animegg.org/date-a-live-iii-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/127976",
+        "dub": null,
+        "url": "https://www.animegg.org/date-a-live-iii-dub-episode-12"
+      }
+    ]
   }
 ]
