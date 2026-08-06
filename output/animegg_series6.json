@@ -13697,5 +13697,21 @@
         "url": "https://www.animegg.org/tai-ari-deshita-ojou-sama-wa-kakutou-game-nante-shinai-episode-5"
       }
     ]
+  },
+  {
+    "serial_no": 7674,
+    "title": "Fruits Basket: Prelude",
+    "animegg_url": "https://www.animegg.org/series/fruits-basket-prelude",
+    "mal_url": "https://myanimelist.net/anime/49310",
+    "mal_id": 49310,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/106043",
+        "dub": null,
+        "url": "https://www.animegg.org/fruits-basket-prelude-episode-1"
+      }
+    ]
   }
 ]
