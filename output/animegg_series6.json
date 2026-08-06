@@ -73804,5 +73804,63 @@
     "mal_id": 287,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 8547,
+    "title": "Idolish7 Vibrato",
+    "animegg_url": "https://www.animegg.org/series/idolish7-vibrato",
+    "mal_url": "https://myanimelist.net/anime/36963",
+    "mal_id": 36963,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/idolish7-vibrato-episode-8"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/idolish7-vibrato-episode-7"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/idolish7-vibrato-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/idolish7-vibrato-episode-5"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/idolish7-vibrato-episode-4"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/idolish7-vibrato-episode-3"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/idolish7-vibrato-episode-2"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/idolish7-vibrato-episode-1"
+      }
+    ]
   }
 ]
