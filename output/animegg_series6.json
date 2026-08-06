@@ -10328,5 +10328,27 @@
         "url": "https://www.animegg.org/kaizoku-oujo-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 7628,
+    "title": "Devil May Cry (2025)",
+    "animegg_url": "https://www.animegg.org/series/devil-may-cry-2025",
+    "mal_url": "https://myanimelist.net/anime/35120",
+    "mal_id": 35120,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 2025,
+        "sub": "https://www.animegg.org/embed/140350",
+        "dub": null,
+        "url": "https://www.animegg.org/devil-may-cry-2025-episode-8"
+      },
+      {
+        "ep": 2025,
+        "sub": "https://www.animegg.org/embed/140351",
+        "dub": null,
+        "url": "https://www.animegg.org/devil-may-cry-2025-episode-1"
+      }
+    ]
   }
 ]
