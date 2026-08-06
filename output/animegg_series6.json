@@ -77741,5 +77741,75 @@
         "url": "https://www.animegg.org/mazica-party-episode-5"
       }
     ]
+  },
+  {
+    "serial_no": 8625,
+    "title": "Valkyria Chronicles OVA",
+    "animegg_url": "https://www.animegg.org/series/valkyria-chronicles-ova",
+    "mal_url": "https://myanimelist.net/anime/2363",
+    "mal_id": 2363,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/valkyria-chronicles-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/valkyria-chronicles-ova-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/valkyria-chronicles-ova-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/valkyria-chronicles-ova-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/valkyria-chronicles-ova-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/valkyria-chronicles-ova-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/valkyria-chronicles-ova-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/valkyria-chronicles-ova-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/valkyria-chronicles-ova-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/valkyria-chronicles-ova-episode-10"
+      }
+    ]
   }
 ]
