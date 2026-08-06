@@ -78342,5 +78342,21 @@
         "url": "https://www.animegg.org/ai-no-kusabi-2012-dub-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8639,
+    "title": "Shika no Ou: Yuna to Yakusoku no Tabi",
+    "animegg_url": "https://www.animegg.org/series/shika-no-ou-yuna-to-yakusoku-no-tabi",
+    "mal_url": "https://myanimelist.net/anime/38015",
+    "mal_id": 38015,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/106021",
+        "dub": null,
+        "url": "https://www.animegg.org/shika-no-ou-yuna-to-yakusoku-no-tabi-episode-1"
+      }
+    ]
   }
 ]
