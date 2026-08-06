@@ -55665,5 +55665,21 @@
         "url": "https://www.animegg.org/nu-wushen-de-canzhuo-ii-japanese-dub-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 8249,
+    "title": "5-toubun no Hanayome Movie",
+    "animegg_url": "https://www.animegg.org/series/5-toubun-no-hanayome-movie-dub",
+    "mal_url": "https://myanimelist.net/anime/48548",
+    "mal_id": 48548,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/5-toubun-no-hanayome-movie-dub-episode-1"
+      }
+    ]
   }
 ]
