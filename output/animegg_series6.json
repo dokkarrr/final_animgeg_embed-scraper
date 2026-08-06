@@ -78020,5 +78020,63 @@
         "url": "https://www.animegg.org/ling-yu---spirit-realm-s3-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8632,
+    "title": "Halo Legends (Dub)",
+    "animegg_url": "https://www.animegg.org/series/halo-legends-dub",
+    "mal_url": "https://myanimelist.net/anime/16518",
+    "mal_id": 16518,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/125935",
+        "dub": null,
+        "url": "https://www.animegg.org/halo-legends-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/125934",
+        "dub": null,
+        "url": "https://www.animegg.org/halo-legends-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/125933",
+        "dub": null,
+        "url": "https://www.animegg.org/halo-legends-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/125932",
+        "dub": null,
+        "url": "https://www.animegg.org/halo-legends-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/125931",
+        "dub": null,
+        "url": "https://www.animegg.org/halo-legends-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/125930",
+        "dub": null,
+        "url": "https://www.animegg.org/halo-legends-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/125929",
+        "dub": null,
+        "url": "https://www.animegg.org/halo-legends-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/125928",
+        "dub": null,
+        "url": "https://www.animegg.org/halo-legends-dub-episode-8"
+      }
+    ]
   }
 ]
