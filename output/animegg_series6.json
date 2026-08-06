@@ -83430,5 +83430,69 @@
         "url": "https://www.animegg.org/henkei-shoujo-episode-5"
       }
     ]
+  },
+  {
+    "serial_no": 8755,
+    "title": "I Can Strike Infinitely",
+    "animegg_url": "https://www.animegg.org/series/i-can-strike-infinitely",
+    "mal_url": "https://myanimelist.net/anime/18247",
+    "mal_id": 18247,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 52,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/i-can-strike-infinitely-episode-52"
+      },
+      {
+        "ep": 53,
+        "sub": "https://www.animegg.org/embed/137004",
+        "dub": null,
+        "url": "https://www.animegg.org/i-can-strike-infinitely-episode-53"
+      },
+      {
+        "ep": 55,
+        "sub": "https://www.animegg.org/embed/137385",
+        "dub": null,
+        "url": "https://www.animegg.org/i-can-strike-infinitely-episode-55"
+      },
+      {
+        "ep": 56,
+        "sub": "https://www.animegg.org/embed/137859",
+        "dub": null,
+        "url": "https://www.animegg.org/i-can-strike-infinitely-episode-56"
+      },
+      {
+        "ep": 58,
+        "sub": "https://www.animegg.org/embed/138123",
+        "dub": null,
+        "url": "https://www.animegg.org/i-can-strike-infinitely-episode-58"
+      },
+      {
+        "ep": 59,
+        "sub": "https://www.animegg.org/embed/138386",
+        "dub": null,
+        "url": "https://www.animegg.org/i-can-strike-infinitely-episode-59"
+      },
+      {
+        "ep": 60,
+        "sub": "https://www.animegg.org/embed/138582",
+        "dub": null,
+        "url": "https://www.animegg.org/i-can-strike-infinitely-episode-60"
+      },
+      {
+        "ep": 61,
+        "sub": "https://www.animegg.org/embed/138778",
+        "dub": null,
+        "url": "https://www.animegg.org/i-can-strike-infinitely-episode-61"
+      },
+      {
+        "ep": 63,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/i-can-strike-infinitely-episode-63"
+      }
+    ]
   }
 ]
