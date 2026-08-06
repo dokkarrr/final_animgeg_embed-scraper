@@ -13669,5 +13669,33 @@
         "url": "https://www.animegg.org/3-nen-d-gumi-glass-no-kamen-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 7673,
+    "title": "Tai-Ari deshita.: Ojou-sama wa Kakutou Game nante Shinai",
+    "animegg_url": "https://www.animegg.org/series/tai-ari-deshita-ojou-sama-wa-kakutou-game-nante-shinai",
+    "mal_url": "https://myanimelist.net/anime/46488",
+    "mal_id": 46488,
+    "total_ep": 0,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/146632",
+        "dub": null,
+        "url": "https://www.animegg.org/tai-ari-deshita-ojou-sama-wa-kakutou-game-nante-shinai-episode-1"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/146631",
+        "dub": null,
+        "url": "https://www.animegg.org/tai-ari-deshita-ojou-sama-wa-kakutou-game-nante-shinai-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/146630",
+        "dub": null,
+        "url": "https://www.animegg.org/tai-ari-deshita-ojou-sama-wa-kakutou-game-nante-shinai-episode-5"
+      }
+    ]
   }
 ]
