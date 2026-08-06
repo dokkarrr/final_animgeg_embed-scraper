@@ -82175,5 +82175,63 @@
         "url": "https://www.animegg.org/hakushaku-to-yousei-specials-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 8726,
+    "title": "Ribbon no Kishi",
+    "animegg_url": "https://www.animegg.org/series/ribbon-no-kishi",
+    "mal_url": "https://myanimelist.net/anime/3024",
+    "mal_id": 3024,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 15,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ribbon-no-kishi-episode-15"
+      },
+      {
+        "ep": 20,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ribbon-no-kishi-episode-20"
+      },
+      {
+        "ep": 27,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ribbon-no-kishi-episode-27"
+      },
+      {
+        "ep": 30,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ribbon-no-kishi-episode-30"
+      },
+      {
+        "ep": 32,
+        "sub": "https://www.animegg.org/embed/136907",
+        "dub": null,
+        "url": "https://www.animegg.org/ribbon-no-kishi-episode-32"
+      },
+      {
+        "ep": 34,
+        "sub": "https://www.animegg.org/embed/136974",
+        "dub": null,
+        "url": "https://www.animegg.org/ribbon-no-kishi-episode-34"
+      },
+      {
+        "ep": 39,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ribbon-no-kishi-episode-39"
+      },
+      {
+        "ep": 52,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ribbon-no-kishi-episode-52"
+      }
+    ]
   }
 ]
