@@ -83660,5 +83660,21 @@
         "url": "https://www.animegg.org/ninja-hattori-kun-episode-9"
       }
     ]
+  },
+  {
+    "serial_no": 8760,
+    "title": "Dragon Ball Z: Atsumare! Goku World",
+    "animegg_url": "https://www.animegg.org/series/dragon-ball-z-atsumare-goku-world",
+    "mal_url": "https://myanimelist.net/anime/6714",
+    "mal_id": 6714,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/108541",
+        "dub": null,
+        "url": "https://www.animegg.org/dragon-ball-z-atsumare-goku-world-episode-1"
+      }
+    ]
   }
 ]
