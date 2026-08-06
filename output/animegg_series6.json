@@ -2666,5 +2666,51 @@
         "url": "https://www.animegg.org/villain-prince-will-see-episode-22"
       }
     ]
+  },
+  {
+    "serial_no": 7541,
+    "title": "Everyday Host",
+    "animegg_url": "https://www.animegg.org/series/everyday-host",
+    "mal_url": "https://myanimelist.net/anime/60535",
+    "mal_id": 60535,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/141359",
+        "dub": null,
+        "url": "https://www.animegg.org/everyday-host-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/141445",
+        "dub": null,
+        "url": "https://www.animegg.org/everyday-host-episode-11"
+      },
+      {
+        "ep": 17,
+        "sub": "https://www.animegg.org/embed/141992",
+        "dub": null,
+        "url": "https://www.animegg.org/everyday-host-episode-17"
+      },
+      {
+        "ep": 19,
+        "sub": "https://www.animegg.org/embed/143035",
+        "dub": null,
+        "url": "https://www.animegg.org/everyday-host-episode-19"
+      },
+      {
+        "ep": 22,
+        "sub": "https://www.animegg.org/embed/144962",
+        "dub": null,
+        "url": "https://www.animegg.org/everyday-host-episode-22"
+      },
+      {
+        "ep": 23,
+        "sub": "https://www.animegg.org/embed/145046",
+        "dub": null,
+        "url": "https://www.animegg.org/everyday-host-episode-23"
+      }
+    ]
   }
 ]
