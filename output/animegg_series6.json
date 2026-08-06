@@ -86155,5 +86155,39 @@
         "url": "https://www.animegg.org/crayon-shin-chan-movie-21-bakauma-b-kyuu-gourmet-survival-battle-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8834,
+    "title": "Shin Grimm Meisaku Gekijou",
+    "animegg_url": "https://www.animegg.org/series/shin-grimm-meisaku-gekijou",
+    "mal_url": "https://myanimelist.net/anime/4061",
+    "mal_id": 4061,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/shin-grimm-meisaku-gekijou-episode-1"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/shin-grimm-meisaku-gekijou-episode-3"
+      },
+      {
+        "ep": 19,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/shin-grimm-meisaku-gekijou-episode-19"
+      },
+      {
+        "ep": 23,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/shin-grimm-meisaku-gekijou-episode-23"
+      }
+    ]
   }
 ]
