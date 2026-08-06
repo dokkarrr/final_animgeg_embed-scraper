@@ -27343,5 +27343,75 @@
         "url": "https://www.animegg.org/ldlive-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 7850,
+    "title": "Jian Lai",
+    "animegg_url": "https://www.animegg.org/series/jian-lai",
+    "mal_url": "https://myanimelist.net/anime/59389",
+    "mal_id": 59389,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/136512",
+        "dub": null,
+        "url": "https://www.animegg.org/jian-lai-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/136636",
+        "dub": null,
+        "url": "https://www.animegg.org/jian-lai-episode-5"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/137002",
+        "dub": null,
+        "url": "https://www.animegg.org/jian-lai-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/137195",
+        "dub": null,
+        "url": "https://www.animegg.org/jian-lai-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/137356",
+        "dub": null,
+        "url": "https://www.animegg.org/jian-lai-episode-9"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/138084",
+        "dub": null,
+        "url": "https://www.animegg.org/jian-lai-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/138338",
+        "dub": null,
+        "url": "https://www.animegg.org/jian-lai-episode-13"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/138811",
+        "dub": null,
+        "url": "https://www.animegg.org/jian-lai-episode-15"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/138965",
+        "dub": null,
+        "url": "https://www.animegg.org/jian-lai-episode-16"
+      },
+      {
+        "ep": 17,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/jian-lai-episode-17"
+      }
+    ]
   }
 ]
