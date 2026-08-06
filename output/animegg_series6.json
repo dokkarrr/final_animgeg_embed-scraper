@@ -49133,5 +49133,45 @@
         "url": "https://www.animegg.org/the-hakkenden-shin-shou-episode-7"
       }
     ]
+  },
+  {
+    "serial_no": 8150,
+    "title": "Rising Impact",
+    "animegg_url": "https://www.animegg.org/series/rising-impact",
+    "mal_url": "https://myanimelist.net/anime/57487",
+    "mal_id": 57487,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/135071",
+        "dub": null,
+        "url": "https://www.animegg.org/rising-impact-episode-1"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/135070",
+        "dub": null,
+        "url": "https://www.animegg.org/rising-impact-episode-5"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/135069",
+        "dub": null,
+        "url": "https://www.animegg.org/rising-impact-episode-8"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/135086",
+        "dub": null,
+        "url": "https://www.animegg.org/rising-impact-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/135088",
+        "dub": null,
+        "url": "https://www.animegg.org/rising-impact-episode-12"
+      }
+    ]
   }
 ]
