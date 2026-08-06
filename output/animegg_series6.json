@@ -37864,5 +37864,21 @@
         "url": "https://www.animegg.org/eiga-daisuki-pompo-san-movie-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 7991,
+    "title": "One Piece: Dai Tettei Kaibou! Kouzuki Oden Densetsu!",
+    "animegg_url": "https://www.animegg.org/series/one-piece-dai-tettei-kaibou-kouzuki-oden-densetsu",
+    "mal_url": "https://myanimelist.net/anime/52199",
+    "mal_id": 52199,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/105170",
+        "dub": null,
+        "url": "https://www.animegg.org/one-piece-dai-tettei-kaibou-kouzuki-oden-densetsu-episode-1"
+      }
+    ]
   }
 ]
