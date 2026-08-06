@@ -140684,5 +140684,33 @@
         "url": "https://www.animegg.org/eden-s-bowy-dub-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 7090,
+    "title": "I Want to Love You Till Your Dying Day",
+    "animegg_url": "https://www.animegg.org/series/i-want-to-love-you-till-your-dying-day",
+    "mal_url": "https://myanimelist.net/anime/61126",
+    "mal_id": 61126,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/146336",
+        "dub": null,
+        "url": "https://www.animegg.org/i-want-to-love-you-till-your-dying-day-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/146431",
+        "dub": null,
+        "url": "https://www.animegg.org/i-want-to-love-you-till-your-dying-day-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/146512",
+        "dub": null,
+        "url": "https://www.animegg.org/i-want-to-love-you-till-your-dying-day-episode-3"
+      }
+    ]
   }
 ]
