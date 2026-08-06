@@ -56224,5 +56224,99 @@
         "url": "https://www.animegg.org/kakushigoto-movie-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8260,
+    "title": "Let's Play: Quest-darake no My Life",
+    "animegg_url": "https://www.animegg.org/series/let-s-play-quest-darake-no-my-life",
+    "mal_url": "https://myanimelist.net/anime/61773",
+    "mal_id": 61773,
+    "total_ep": 14,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/142763",
+        "dub": "https://www.animegg.org/embed/142937",
+        "url": "https://www.animegg.org/let-s-play-quest-darake-no-my-life-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/143028",
+        "dub": null,
+        "url": "https://www.animegg.org/let-s-play-quest-darake-no-my-life-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/142930",
+        "dub": "https://www.animegg.org/embed/143125",
+        "url": "https://www.animegg.org/let-s-play-quest-darake-no-my-life-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/143024",
+        "dub": "https://www.animegg.org/embed/143235",
+        "url": "https://www.animegg.org/let-s-play-quest-darake-no-my-life-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/143128",
+        "dub": null,
+        "url": "https://www.animegg.org/let-s-play-quest-darake-no-my-life-episode-5"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/143352",
+        "dub": null,
+        "url": "https://www.animegg.org/lets-play-season-1-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/143234",
+        "dub": null,
+        "url": "https://www.animegg.org/let-s-play-quest-darake-no-my-life-episode-6"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/143462",
+        "dub": null,
+        "url": "https://www.animegg.org/lets-play-season-1-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/143348",
+        "dub": "https://www.animegg.org/embed/143562",
+        "url": "https://www.animegg.org/lets-play-season-1-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/143456",
+        "dub": "https://www.animegg.org/embed/143770",
+        "url": "https://www.animegg.org/lets-play-season-1-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/143764",
+        "dub": null,
+        "url": "https://www.animegg.org/let-s-play-quest-darake-no-my-life-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/143648",
+        "dub": "https://www.animegg.org/embed/143893",
+        "url": "https://www.animegg.org/let-s-play-quest-darake-no-my-life-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/143761",
+        "dub": "https://www.animegg.org/embed/144091",
+        "url": "https://www.animegg.org/let-s-play-quest-darake-no-my-life-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/143869",
+        "dub": "https://www.animegg.org/embed/144193",
+        "url": "https://www.animegg.org/let-s-play-quest-darake-no-my-life-episode-12"
+      }
+    ]
   }
 ]
