@@ -18280,5 +18280,27 @@
         "url": "https://www.animegg.org/chaotic-heavenly-emperor-husband-episode-57"
       }
     ]
+  },
+  {
+    "serial_no": 7736,
+    "title": "Resident Evil: Infinite Darkness",
+    "animegg_url": "https://www.animegg.org/series/resident-evil-infinite-darkness",
+    "mal_url": "https://myanimelist.net/anime/42976",
+    "mal_id": 42976,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/102220",
+        "dub": null,
+        "url": "https://www.animegg.org/resident-evil-infinite-darkness-episode-1"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/102221",
+        "dub": null,
+        "url": "https://www.animegg.org/resident-evil-infinite-darkness-episode-4"
+      }
+    ]
   }
 ]
