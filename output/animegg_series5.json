@@ -141740,5 +141740,45 @@
         "url": "https://www.animegg.org/renlei-bowuguan-episode-36"
       }
     ]
+  },
+  {
+    "serial_no": 7099,
+    "title": "Fuyou Yuuna wa Yuusha de Nai",
+    "animegg_url": "https://www.animegg.org/series/fuyou-yuuna-wa-yuusha-de-nai",
+    "mal_url": "https://myanimelist.net/anime/25519",
+    "mal_id": 25519,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/fuyou-yuuna-wa-yuusha-de-nai-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/fuyou-yuuna-wa-yuusha-de-nai-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/fuyou-yuuna-wa-yuusha-de-nai-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/fuyou-yuuna-wa-yuusha-de-nai-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/108826",
+        "dub": null,
+        "url": "https://www.animegg.org/fuyou-yuuna-wa-yuusha-de-nai-episode-5"
+      }
+    ]
   }
 ]
