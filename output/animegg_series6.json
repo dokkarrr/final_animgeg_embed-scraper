@@ -86332,5 +86332,45 @@
         "url": "https://www.animegg.org/goal-fh-field-hunter-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8841,
+    "title": "Tales of HR",
+    "animegg_url": "https://www.animegg.org/series/tales-of-hr",
+    "mal_url": "https://myanimelist.net/anime/38110",
+    "mal_id": 38110,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/tales-of-hr-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/tales-of-hr-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/tales-of-hr-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/tales-of-hr-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/tales-of-hr-episode-5"
+      }
+    ]
   }
 ]
