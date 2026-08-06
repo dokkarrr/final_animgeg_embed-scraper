@@ -88778,5 +88778,39 @@
         "url": "https://www.animegg.org/scryed-episode-15"
       }
     ]
+  },
+  {
+    "serial_no": 8930,
+    "title": "Chouriki Robo Galatt",
+    "animegg_url": "https://www.animegg.org/series/chouriki-robo-galatt",
+    "mal_url": "https://myanimelist.net/anime/8853",
+    "mal_id": 8853,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/132873",
+        "dub": null,
+        "url": "https://www.animegg.org/chouriki-robo-galatt-episode-16"
+      },
+      {
+        "ep": 17,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/chouriki-robo-galatt-episode-17"
+      },
+      {
+        "ep": 18,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/chouriki-robo-galatt-episode-18"
+      },
+      {
+        "ep": 19,
+        "sub": "https://www.animegg.org/embed/133960",
+        "dub": null,
+        "url": "https://www.animegg.org/chouriki-robo-galatt-episode-19"
+      }
+    ]
   }
 ]
