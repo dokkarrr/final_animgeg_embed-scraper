@@ -13261,5 +13261,87 @@
         "url": "https://www.animegg.org/ganbare-goemon-dub-episode-23"
       }
     ]
+  },
+  {
+    "serial_no": 7667,
+    "title": "Magical Nyan Nyan Taruto",
+    "animegg_url": "https://www.animegg.org/series/magical-nyan-nyan-taruto",
+    "mal_url": "https://myanimelist.net/anime/952",
+    "mal_id": 952,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/122140",
+        "dub": null,
+        "url": "https://www.animegg.org/magical-nyan-nyan-taruto-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/122136",
+        "dub": null,
+        "url": "https://www.animegg.org/magical-nyan-nyan-taruto-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/122135",
+        "dub": null,
+        "url": "https://www.animegg.org/magical-nyan-nyan-taruto-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/122134",
+        "dub": null,
+        "url": "https://www.animegg.org/magical-nyan-nyan-taruto-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/122133",
+        "dub": null,
+        "url": "https://www.animegg.org/magical-nyan-nyan-taruto-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/122132",
+        "dub": null,
+        "url": "https://www.animegg.org/magical-nyan-nyan-taruto-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/122131",
+        "dub": null,
+        "url": "https://www.animegg.org/magical-nyan-nyan-taruto-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/122130",
+        "dub": null,
+        "url": "https://www.animegg.org/magical-nyan-nyan-taruto-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/122129",
+        "dub": null,
+        "url": "https://www.animegg.org/magical-nyan-nyan-taruto-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/122139",
+        "dub": null,
+        "url": "https://www.animegg.org/magical-nyan-nyan-taruto-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/122138",
+        "dub": null,
+        "url": "https://www.animegg.org/magical-nyan-nyan-taruto-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/122137",
+        "dub": null,
+        "url": "https://www.animegg.org/magical-nyan-nyan-taruto-episode-12"
+      }
+    ]
   }
 ]
