@@ -16947,5 +16947,87 @@
         "url": "https://www.animegg.org/kinnikuman-kanpeki-ch-ujin-shiso-hen-season-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 7716,
+    "title": "Acchi Kocchi Youchien",
+    "animegg_url": "https://www.animegg.org/series/acchi-kocchi-youchien",
+    "mal_url": "https://myanimelist.net/anime/310",
+    "mal_id": 310,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/109369",
+        "dub": null,
+        "url": "https://www.animegg.org/acchi-kocchi-youchien-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/109373",
+        "dub": null,
+        "url": "https://www.animegg.org/acchi-kocchi-youchien-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/109374",
+        "dub": null,
+        "url": "https://www.animegg.org/acchi-kocchi-youchien-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/109375",
+        "dub": null,
+        "url": "https://www.animegg.org/acchi-kocchi-youchien-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/109376",
+        "dub": null,
+        "url": "https://www.animegg.org/acchi-kocchi-youchien-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/109377",
+        "dub": null,
+        "url": "https://www.animegg.org/acchi-kocchi-youchien-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/109378",
+        "dub": null,
+        "url": "https://www.animegg.org/acchi-kocchi-youchien-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/109379",
+        "dub": null,
+        "url": "https://www.animegg.org/acchi-kocchi-youchien-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/109380",
+        "dub": null,
+        "url": "https://www.animegg.org/acchi-kocchi-youchien-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/109370",
+        "dub": null,
+        "url": "https://www.animegg.org/acchi-kocchi-youchien-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/109371",
+        "dub": null,
+        "url": "https://www.animegg.org/acchi-kocchi-youchien-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/109372",
+        "dub": null,
+        "url": "https://www.animegg.org/acchi-kocchi-youchien-episode-12"
+      }
+    ]
   }
 ]
