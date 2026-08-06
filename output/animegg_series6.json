@@ -66785,5 +66785,27 @@
         "url": "https://www.animegg.org/bananya-dub-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 8428,
+    "title": "Beastars season 3",
+    "animegg_url": "https://www.animegg.org/series/beastars-season-3",
+    "mal_url": "https://myanimelist.net/anime/40028",
+    "mal_id": 40028,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/144982",
+        "dub": "https://www.animegg.org/embed/144984",
+        "url": "https://www.animegg.org/beastars-season-3-episode-24"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/144983",
+        "dub": null,
+        "url": "https://www.animegg.org/beastars-season-3-episode-13"
+      }
+    ]
   }
 ]
