@@ -69705,5 +69705,87 @@
         "url": "https://www.animegg.org/chao-shen-xueyuan-season3-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8476,
+    "title": "Dolls' Frontline (Dub)",
+    "animegg_url": "https://www.animegg.org/series/dolls--frontline-dub",
+    "mal_url": "https://myanimelist.net/anime/46604",
+    "mal_id": 46604,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/127822",
+        "dub": null,
+        "url": "https://www.animegg.org/dolls--frontline-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/127818",
+        "dub": null,
+        "url": "https://www.animegg.org/dolls--frontline-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/127817",
+        "dub": null,
+        "url": "https://www.animegg.org/dolls--frontline-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/127816",
+        "dub": null,
+        "url": "https://www.animegg.org/dolls--frontline-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/127815",
+        "dub": null,
+        "url": "https://www.animegg.org/dolls--frontline-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/127814",
+        "dub": null,
+        "url": "https://www.animegg.org/dolls--frontline-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/127813",
+        "dub": null,
+        "url": "https://www.animegg.org/dolls--frontline-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/127812",
+        "dub": null,
+        "url": "https://www.animegg.org/dolls--frontline-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/127811",
+        "dub": null,
+        "url": "https://www.animegg.org/dolls--frontline-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/127821",
+        "dub": null,
+        "url": "https://www.animegg.org/dolls--frontline-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/127820",
+        "dub": null,
+        "url": "https://www.animegg.org/dolls--frontline-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/127819",
+        "dub": null,
+        "url": "https://www.animegg.org/dolls--frontline-dub-episode-12"
+      }
+    ]
   }
 ]
