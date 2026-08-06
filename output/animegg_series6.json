@@ -81713,5 +81713,63 @@
         "url": "https://www.animegg.org/dokushin-apartment-dokudami-sou-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 8714,
+    "title": "Divine Hero’s Skyfall System",
+    "animegg_url": "https://www.animegg.org/series/divine-hero-s-skyfall-system",
+    "mal_url": "https://myanimelist.net/anime/37441",
+    "mal_id": 37441,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/divine-hero-s-skyfall-system-episode-5"
+      },
+      {
+        "ep": 18,
+        "sub": "https://www.animegg.org/embed/136774",
+        "dub": null,
+        "url": "https://www.animegg.org/divine-hero-s-skyfall-system-episode-18"
+      },
+      {
+        "ep": 20,
+        "sub": "https://www.animegg.org/embed/136854",
+        "dub": null,
+        "url": "https://www.animegg.org/divine-hero-s-skyfall-system-episode-20"
+      },
+      {
+        "ep": 21,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/divine-hero-s-skyfall-system-episode-21"
+      },
+      {
+        "ep": 25,
+        "sub": "https://www.animegg.org/embed/137338",
+        "dub": null,
+        "url": "https://www.animegg.org/divine-hero-s-skyfall-system-episode-25"
+      },
+      {
+        "ep": 27,
+        "sub": "https://www.animegg.org/embed/137815",
+        "dub": null,
+        "url": "https://www.animegg.org/divine-hero-s-skyfall-system-episode-27"
+      },
+      {
+        "ep": 31,
+        "sub": "https://www.animegg.org/embed/139120",
+        "dub": null,
+        "url": "https://www.animegg.org/divine-hero-s-skyfall-system-episode-31"
+      },
+      {
+        "ep": 42,
+        "sub": "https://www.animegg.org/embed/139186",
+        "dub": null,
+        "url": "https://www.animegg.org/divine-hero-s-skyfall-system-episode-42"
+      }
+    ]
   }
 ]
