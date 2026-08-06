@@ -57103,5 +57103,21 @@
         "url": "https://www.animegg.org/gintama-the-semi-final-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 8273,
+    "title": "Great Teacher Onizuka (GTO)",
+    "animegg_url": "https://www.animegg.org/series/great-teacher-onizuka-gto",
+    "mal_url": "https://myanimelist.net/anime/245",
+    "mal_id": 245,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/107218",
+        "dub": null,
+        "url": "https://www.animegg.org/great-teacher-onizuka-gto-episode-2"
+      }
+    ]
   }
 ]
