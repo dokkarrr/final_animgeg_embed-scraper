@@ -19490,5 +19490,75 @@
         "url": "https://www.animegg.org/hajimete-no-gal-dub-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 7749,
+    "title": "Zhen Hun Jie 2",
+    "animegg_url": "https://www.animegg.org/series/zhen-hun-jie-2",
+    "mal_url": "https://myanimelist.net/anime/33350",
+    "mal_id": 33350,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/zhen-hun-jie-2-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/111011",
+        "dub": null,
+        "url": "https://www.animegg.org/zhen-hun-jie-2-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/111012",
+        "dub": null,
+        "url": "https://www.animegg.org/zhen-hun-jie-2-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/zhen-hun-jie-2-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/111013",
+        "dub": null,
+        "url": "https://www.animegg.org/zhen-hun-jie-2-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/111014",
+        "dub": null,
+        "url": "https://www.animegg.org/zhen-hun-jie-2-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/111015",
+        "dub": null,
+        "url": "https://www.animegg.org/zhen-hun-jie-2-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/111016",
+        "dub": null,
+        "url": "https://www.animegg.org/zhen-hun-jie-2-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/111017",
+        "dub": null,
+        "url": "https://www.animegg.org/zhen-hun-jie-2-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/111018",
+        "dub": null,
+        "url": "https://www.animegg.org/zhen-hun-jie-2-episode-1"
+      }
+    ]
   }
 ]
