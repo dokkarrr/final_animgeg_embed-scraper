@@ -88052,5 +88052,21 @@
         "url": "https://www.animegg.org/bakuretsu-hunters-ova-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 8907,
+    "title": "Servamp Movie: Alice in the Garden",
+    "animegg_url": "https://www.animegg.org/series/servamp-movie-alice-in-the-garden",
+    "mal_url": "https://myanimelist.net/anime/36803",
+    "mal_id": 36803,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/servamp-movie-alice-in-the-garden-episode-1"
+      }
+    ]
   }
 ]
