@@ -142720,5 +142720,21 @@
         "url": "https://www.animegg.org/wild-arms-twilight-venom-episode-22"
       }
     ]
+  },
+  {
+    "serial_no": 7110,
+    "title": "Kidou Senshi Gundam SEED Freedom",
+    "animegg_url": "https://www.animegg.org/series/kidou-senshi-gundam-seed-freedom",
+    "mal_url": "https://myanimelist.net/anime/49073",
+    "mal_id": 49073,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/134811",
+        "dub": "https://www.animegg.org/embed/136783",
+        "url": "https://www.animegg.org/kidou-senshi-gundam-seed-freedom-episode-1"
+      }
+    ]
   }
 ]
