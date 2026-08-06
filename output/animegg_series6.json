@@ -24588,5 +24588,27 @@
         "url": "https://www.animegg.org/nami-yo-kiitekure-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 7815,
+    "title": "Spiral Zone",
+    "animegg_url": "https://www.animegg.org/series/spiral-zone",
+    "mal_url": "https://myanimelist.net/anime/4282",
+    "mal_id": 4282,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/99332",
+        "dub": null,
+        "url": "https://www.animegg.org/spiral-zone-episode-14"
+      },
+      {
+        "ep": 63,
+        "sub": "https://www.animegg.org/embed/99333",
+        "dub": null,
+        "url": "https://www.animegg.org/spiral-zone-episode-63"
+      }
+    ]
   }
 ]
