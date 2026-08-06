@@ -90053,5 +90053,21 @@
         "url": "https://www.animegg.org/zhen-dao-ge-2nd-season-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 8979,
+    "title": "Date A Live II: Kurumi Star Festival (Dub)",
+    "animegg_url": "https://www.animegg.org/series/date-a-live-ii-kurumi-star-festival-dub",
+    "mal_url": "https://myanimelist.net/anime/22961",
+    "mal_id": 22961,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/127980",
+        "dub": null,
+        "url": "https://www.animegg.org/date-a-live-ii-kurumi-star-festival-dub-episode-1"
+      }
+    ]
   }
 ]
