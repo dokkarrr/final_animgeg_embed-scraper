@@ -60555,5 +60555,63 @@
         "url": "https://www.animegg.org/id-0-dub-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8330,
+    "title": "Shen Mu 2nd Season",
+    "animegg_url": "https://www.animegg.org/series/shen-mu-2nd-season",
+    "mal_url": "https://myanimelist.net/anime/59434",
+    "mal_id": 59434,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/139239",
+        "dub": null,
+        "url": "https://www.animegg.org/shen-mu-2nd-season-episode-17"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/shen-mu-2nd-season-episode-16"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/138859",
+        "dub": null,
+        "url": "https://www.animegg.org/shen-mu-2nd-season-episode-15"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/138674",
+        "dub": null,
+        "url": "https://www.animegg.org/shen-mu-2nd-season-episode-14"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/138457",
+        "dub": null,
+        "url": "https://www.animegg.org/shen-mu-2nd-season-episode-13"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/138220",
+        "dub": null,
+        "url": "https://www.animegg.org/shen-mu-2nd-season-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/137960",
+        "dub": null,
+        "url": "https://www.animegg.org/shen-mu-2nd-season-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/136949",
+        "dub": null,
+        "url": "https://www.animegg.org/shen-mu-2nd-season-episode-6"
+      }
+    ]
   }
 ]
