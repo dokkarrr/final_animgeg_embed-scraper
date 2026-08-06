@@ -142224,5 +142224,45 @@
         "url": "https://www.animegg.org/i-am-the-king-episode-60"
       }
     ]
+  },
+  {
+    "serial_no": 7106,
+    "title": "Biao Ren: Blades of the Guardians",
+    "animegg_url": "https://www.animegg.org/series/biao-ren-blades-of-the-guardians",
+    "mal_url": "https://myanimelist.net/anime/44388",
+    "mal_id": 44388,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/biao-ren-blades-of-the-guardians-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/biao-ren-blades-of-the-guardians-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/biao-ren-blades-of-the-guardians-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/biao-ren-blades-of-the-guardians-episode-4"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/138365",
+        "dub": null,
+        "url": "https://www.animegg.org/biao-ren-blades-of-the-guardians-episode-15"
+      }
+    ]
   }
 ]
