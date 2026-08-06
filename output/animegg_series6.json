@@ -30701,5 +30701,87 @@
         "url": "https://www.animegg.org/castlevania-season-3-dub-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 7896,
+    "title": "Poputepipikku",
+    "animegg_url": "https://www.animegg.org/series/poputepipikku-dub",
+    "mal_url": "https://myanimelist.net/anime/35330",
+    "mal_id": 35330,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/119721",
+        "dub": null,
+        "url": "https://www.animegg.org/poputepipikku-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/119717",
+        "dub": null,
+        "url": "https://www.animegg.org/poputepipikku-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/119716",
+        "dub": null,
+        "url": "https://www.animegg.org/poputepipikku-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/119715",
+        "dub": null,
+        "url": "https://www.animegg.org/poputepipikku-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/119714",
+        "dub": null,
+        "url": "https://www.animegg.org/poputepipikku-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/119713",
+        "dub": null,
+        "url": "https://www.animegg.org/poputepipikku-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/119712",
+        "dub": null,
+        "url": "https://www.animegg.org/poputepipikku-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/119711",
+        "dub": null,
+        "url": "https://www.animegg.org/poputepipikku-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/119710",
+        "dub": null,
+        "url": "https://www.animegg.org/poputepipikku-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/119720",
+        "dub": null,
+        "url": "https://www.animegg.org/poputepipikku-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/119719",
+        "dub": null,
+        "url": "https://www.animegg.org/poputepipikku-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/119718",
+        "dub": null,
+        "url": "https://www.animegg.org/poputepipikku-dub-episode-12"
+      }
+    ]
   }
 ]
