@@ -81771,5 +81771,21 @@
         "url": "https://www.animegg.org/divine-hero-s-skyfall-system-episode-42"
       }
     ]
+  },
+  {
+    "serial_no": 8715,
+    "title": "Violet Evergarden: Recollections",
+    "animegg_url": "https://www.animegg.org/series/violet-evergarden-recollections",
+    "mal_url": "https://myanimelist.net/anime/53672",
+    "mal_id": 53672,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/106632",
+        "dub": null,
+        "url": "https://www.animegg.org/violet-evergarden-recollections-episode-1"
+      }
+    ]
   }
 ]
