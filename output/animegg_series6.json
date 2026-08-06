@@ -90197,5 +90197,39 @@
         "url": "https://www.animegg.org/queen-s-blade-rebellion-specials-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 8985,
+    "title": "Elf-ban Kakyuusei: Anata dake wo Mitsumete...",
+    "animegg_url": "https://www.animegg.org/series/elf-ban-kakyuusei-anata-dake-wo-mitsumete",
+    "mal_url": "https://myanimelist.net/anime/661",
+    "mal_id": 661,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/127374",
+        "dub": null,
+        "url": "https://www.animegg.org/elf-ban-kakyuusei-anata-dake-wo-mitsumete-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/127373",
+        "dub": null,
+        "url": "https://www.animegg.org/elf-ban-kakyuusei-anata-dake-wo-mitsumete-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/127372",
+        "dub": null,
+        "url": "https://www.animegg.org/elf-ban-kakyuusei-anata-dake-wo-mitsumete-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/127371",
+        "dub": null,
+        "url": "https://www.animegg.org/elf-ban-kakyuusei-anata-dake-wo-mitsumete-episode-4"
+      }
+    ]
   }
 ]
