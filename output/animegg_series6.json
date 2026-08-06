@@ -46932,5 +46932,63 @@
         "url": "https://www.animegg.org/dgray-man-hallow-dub-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 8120,
+    "title": "Shen Zhiyi Jiao",
+    "animegg_url": "https://www.animegg.org/series/shen-zhiyi-jiao",
+    "mal_url": "https://myanimelist.net/anime/58490",
+    "mal_id": 58490,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/133575",
+        "dub": null,
+        "url": "https://www.animegg.org/shen-zhiyi-jiao-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/133668",
+        "dub": null,
+        "url": "https://www.animegg.org/shen-zhiyi-jiao-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/shen-zhiyi-jiao-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/133845",
+        "dub": null,
+        "url": "https://www.animegg.org/shen-zhiyi-jiao-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/shen-zhiyi-jiao-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/134274",
+        "dub": null,
+        "url": "https://www.animegg.org/shen-zhiyi-jiao-episode-7"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/134686",
+        "dub": null,
+        "url": "https://www.animegg.org/shen-zhiyi-jiao-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/134820",
+        "dub": null,
+        "url": "https://www.animegg.org/shen-zhiyi-jiao-episode-11"
+      }
+    ]
   }
 ]
