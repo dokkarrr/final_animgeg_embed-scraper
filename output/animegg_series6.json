@@ -87433,5 +87433,33 @@
         "url": "https://www.animegg.org/garouden-the-way-of-the-lone-wolf-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 8882,
+    "title": "High School Mystery: Gakuen Nanafushigi",
+    "animegg_url": "https://www.animegg.org/series/high-school-mystery-gakuen-nanafushigi",
+    "mal_url": "https://myanimelist.net/anime/9882",
+    "mal_id": 9882,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/125778",
+        "dub": null,
+        "url": "https://www.animegg.org/high-school-mystery-gakuen-nanafushigi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/125777",
+        "dub": null,
+        "url": "https://www.animegg.org/high-school-mystery-gakuen-nanafushigi-episode-2"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/137965",
+        "dub": null,
+        "url": "https://www.animegg.org/high-school-mystery-gakuen-nanafushigi-episode-16"
+      }
+    ]
   }
 ]
