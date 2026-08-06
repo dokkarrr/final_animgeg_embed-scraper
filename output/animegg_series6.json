@@ -70021,5 +70021,21 @@
         "url": "https://www.animegg.org/saa-ikou-tamagotchi-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8480,
+    "title": "Macross Δ Movie 2: Zettai Live!!!",
+    "animegg_url": "https://www.animegg.org/series/macross-movie-2-zettai-live",
+    "mal_url": "https://myanimelist.net/anime/38373",
+    "mal_id": 38373,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/105983",
+        "dub": null,
+        "url": "https://www.animegg.org/macross-movie-2-zettai-live-episode-1"
+      }
+    ]
   }
 ]
