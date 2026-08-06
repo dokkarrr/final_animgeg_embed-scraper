@@ -4584,5 +4584,21 @@
         "url": "https://www.animegg.org/i-m-unbeatable-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 7563,
+    "title": "5 Centimeters Per Second",
+    "animegg_url": "https://www.animegg.org/series/5-centimeters-per-second",
+    "mal_url": "https://myanimelist.net/anime/1689",
+    "mal_id": 1689,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/109183",
+        "dub": null,
+        "url": "https://www.animegg.org/5-centimeters-per-second-episode-1"
+      }
+    ]
   }
 ]
