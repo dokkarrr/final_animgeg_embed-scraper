@@ -20748,5 +20748,87 @@
         "url": "https://www.animegg.org/nanami-chan-3rd-series-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 7765,
+    "title": "Virus Buster Serge",
+    "animegg_url": "https://www.animegg.org/series/virus-buster-serge",
+    "mal_url": "https://myanimelist.net/anime/2364",
+    "mal_id": 2364,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/115678",
+        "dub": null,
+        "url": "https://www.animegg.org/virus-buster-serge-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/115673",
+        "dub": null,
+        "url": "https://www.animegg.org/virus-buster-serge-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/115674",
+        "dub": null,
+        "url": "https://www.animegg.org/virus-buster-serge-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/115672",
+        "dub": null,
+        "url": "https://www.animegg.org/virus-buster-serge-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/115671",
+        "dub": null,
+        "url": "https://www.animegg.org/virus-buster-serge-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/115670",
+        "dub": null,
+        "url": "https://www.animegg.org/virus-buster-serge-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/115669",
+        "dub": null,
+        "url": "https://www.animegg.org/virus-buster-serge-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/115668",
+        "dub": null,
+        "url": "https://www.animegg.org/virus-buster-serge-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/115667",
+        "dub": null,
+        "url": "https://www.animegg.org/virus-buster-serge-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/115677",
+        "dub": null,
+        "url": "https://www.animegg.org/virus-buster-serge-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/115676",
+        "dub": null,
+        "url": "https://www.animegg.org/virus-buster-serge-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/115675",
+        "dub": null,
+        "url": "https://www.animegg.org/virus-buster-serge-episode-12"
+      }
+    ]
   }
 ]
