@@ -75189,5 +75189,21 @@
         "url": "https://www.animegg.org/ace-wo-nerae-final-stage-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8573,
+    "title": "Kimi ni Todoke: Kataomoi",
+    "animegg_url": "https://www.animegg.org/series/kimi-ni-todoke-kataomoi",
+    "mal_url": "https://myanimelist.net/anime/10152",
+    "mal_id": 10152,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/133063",
+        "dub": null,
+        "url": "https://www.animegg.org/kimi-ni-todoke-kataomoi-episode-1"
+      }
+    ]
   }
 ]
