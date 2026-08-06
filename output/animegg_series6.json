@@ -19332,5 +19332,93 @@
         "url": "https://www.animegg.org/takt-op-destiny-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 7747,
+    "title": "K: Return of Kings (Dub)",
+    "animegg_url": "https://www.animegg.org/series/k-return-of-kings-dub",
+    "mal_url": "https://myanimelist.net/anime/27991",
+    "mal_id": 27991,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/124219",
+        "dub": null,
+        "url": "https://www.animegg.org/k-return-of-kings-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/124214",
+        "dub": null,
+        "url": "https://www.animegg.org/k-return-of-kings-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/124213",
+        "dub": null,
+        "url": "https://www.animegg.org/k-return-of-kings-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/124212",
+        "dub": null,
+        "url": "https://www.animegg.org/k-return-of-kings-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/124211",
+        "dub": null,
+        "url": "https://www.animegg.org/k-return-of-kings-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/124210",
+        "dub": null,
+        "url": "https://www.animegg.org/k-return-of-kings-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/124209",
+        "dub": null,
+        "url": "https://www.animegg.org/k-return-of-kings-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/124208",
+        "dub": null,
+        "url": "https://www.animegg.org/k-return-of-kings-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/124207",
+        "dub": null,
+        "url": "https://www.animegg.org/k-return-of-kings-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/124218",
+        "dub": null,
+        "url": "https://www.animegg.org/k-return-of-kings-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/124217",
+        "dub": null,
+        "url": "https://www.animegg.org/k-return-of-kings-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/124216",
+        "dub": null,
+        "url": "https://www.animegg.org/k-return-of-kings-dub-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/124215",
+        "dub": null,
+        "url": "https://www.animegg.org/k-return-of-kings-dub-episode-13"
+      }
+    ]
   }
 ]
