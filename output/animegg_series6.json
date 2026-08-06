@@ -16131,5 +16131,93 @@
         "url": "https://www.animegg.org/darwin-s-game-dub-episode-11"
       }
     ]
+  },
+  {
+    "serial_no": 7707,
+    "title": "Engage Kiss (Dub)",
+    "animegg_url": "https://www.animegg.org/series/engage-kiss-dub",
+    "mal_url": "https://myanimelist.net/anime/20541",
+    "mal_id": 20541,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/127328",
+        "dub": null,
+        "url": "https://www.animegg.org/engage-kiss-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/127324",
+        "dub": null,
+        "url": "https://www.animegg.org/engage-kiss-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/127323",
+        "dub": null,
+        "url": "https://www.animegg.org/engage-kiss-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/127322",
+        "dub": null,
+        "url": "https://www.animegg.org/engage-kiss-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/127321",
+        "dub": null,
+        "url": "https://www.animegg.org/engage-kiss-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/127320",
+        "dub": null,
+        "url": "https://www.animegg.org/engage-kiss-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/engage-kiss-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/engage-kiss-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/engage-kiss-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/engage-kiss-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/127327",
+        "dub": null,
+        "url": "https://www.animegg.org/engage-kiss-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/127326",
+        "dub": null,
+        "url": "https://www.animegg.org/engage-kiss-dub-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/127325",
+        "dub": null,
+        "url": "https://www.animegg.org/engage-kiss-dub-episode-13"
+      }
+    ]
   }
 ]
