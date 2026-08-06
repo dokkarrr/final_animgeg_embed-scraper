@@ -136918,5 +136918,21 @@
         "url": "https://www.animegg.org/witch-hunter-robin-dub-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 7059,
+    "title": "It's My Life",
+    "animegg_url": "https://www.animegg.org/series/its-my-life",
+    "mal_url": "https://myanimelist.net/anime/37286",
+    "mal_id": 37286,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/97306",
+        "dub": null,
+        "url": "https://www.animegg.org/its-my-life-episode-1"
+      }
+    ]
   }
 ]
