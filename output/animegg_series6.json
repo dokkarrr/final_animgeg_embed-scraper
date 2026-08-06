@@ -11721,5 +11721,39 @@
         "url": "https://www.animegg.org/koukaku-kidoutai-sac-2045-season-2-dub-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 7648,
+    "title": "Semantic Error",
+    "animegg_url": "https://www.animegg.org/series/semantic-error",
+    "mal_url": "https://myanimelist.net/anime/49202",
+    "mal_id": 49202,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/140957",
+        "dub": null,
+        "url": "https://www.animegg.org/semantic-error-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/semantic-error-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/semantic-error-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/140956",
+        "dub": null,
+        "url": "https://www.animegg.org/semantic-error-episode-4"
+      }
+    ]
   }
 ]
