@@ -135866,5 +135866,51 @@
         "url": "https://www.animegg.org/gyakuten-saiban-sono-shinjitsu-igi-ari-season-2-dub-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 7051,
+    "title": "Lupin Zero",
+    "animegg_url": "https://www.animegg.org/series/lupin-zero",
+    "mal_url": "https://myanimelist.net/anime/53414",
+    "mal_id": 53414,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/106647",
+        "dub": null,
+        "url": "https://www.animegg.org/lupin-zero-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/106648",
+        "dub": null,
+        "url": "https://www.animegg.org/lupin-zero-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/106700",
+        "dub": null,
+        "url": "https://www.animegg.org/lupin-zero-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/106751",
+        "dub": null,
+        "url": "https://www.animegg.org/lupin-zero-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/106781",
+        "dub": null,
+        "url": "https://www.animegg.org/lupin-zero-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/106851",
+        "dub": null,
+        "url": "https://www.animegg.org/lupin-zero-episode-6"
+      }
+    ]
   }
 ]
