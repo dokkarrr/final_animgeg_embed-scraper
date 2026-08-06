@@ -61265,5 +61265,51 @@
         "url": "https://www.animegg.org/wo-tian-m-ng-da-fanpai-2-episode-17"
       }
     ]
+  },
+  {
+    "serial_no": 8341,
+    "title": "FLCL Alternative",
+    "animegg_url": "https://www.animegg.org/series/flcl-alternative",
+    "mal_url": "https://myanimelist.net/anime/35842",
+    "mal_id": 35842,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/126856",
+        "dub": null,
+        "url": "https://www.animegg.org/flcl-alternative-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/126855",
+        "dub": null,
+        "url": "https://www.animegg.org/flcl-alternative-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/126854",
+        "dub": null,
+        "url": "https://www.animegg.org/flcl-alternative-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/126853",
+        "dub": null,
+        "url": "https://www.animegg.org/flcl-alternative-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/126852",
+        "dub": null,
+        "url": "https://www.animegg.org/flcl-alternative-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/126851",
+        "dub": null,
+        "url": "https://www.animegg.org/flcl-alternative-episode-6"
+      }
+    ]
   }
 ]
