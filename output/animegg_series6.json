@@ -25526,5 +25526,93 @@
         "url": "https://www.animegg.org/i-got-god-pulse-in-beginning-invincible-episode-44"
       }
     ]
+  },
+  {
+    "serial_no": 7826,
+    "title": "Odd Taxi (Dub)",
+    "animegg_url": "https://www.animegg.org/series/odd-taxi-dub",
+    "mal_url": "https://myanimelist.net/anime/46102",
+    "mal_id": 46102,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/121166",
+        "dub": null,
+        "url": "https://www.animegg.org/odd-taxi-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/121161",
+        "dub": null,
+        "url": "https://www.animegg.org/odd-taxi-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/121160",
+        "dub": null,
+        "url": "https://www.animegg.org/odd-taxi-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/121159",
+        "dub": null,
+        "url": "https://www.animegg.org/odd-taxi-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/121158",
+        "dub": null,
+        "url": "https://www.animegg.org/odd-taxi-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/121157",
+        "dub": null,
+        "url": "https://www.animegg.org/odd-taxi-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/121156",
+        "dub": null,
+        "url": "https://www.animegg.org/odd-taxi-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/121155",
+        "dub": null,
+        "url": "https://www.animegg.org/odd-taxi-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/121154",
+        "dub": null,
+        "url": "https://www.animegg.org/odd-taxi-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/121165",
+        "dub": null,
+        "url": "https://www.animegg.org/odd-taxi-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/121164",
+        "dub": null,
+        "url": "https://www.animegg.org/odd-taxi-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/121163",
+        "dub": null,
+        "url": "https://www.animegg.org/odd-taxi-dub-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/121162",
+        "dub": null,
+        "url": "https://www.animegg.org/odd-taxi-dub-episode-13"
+      }
+    ]
   }
 ]
