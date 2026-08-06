@@ -87365,5 +87365,45 @@
     "mal_id": 486,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 8880,
+    "title": "Hana-Doll: Reinterpretation of Flowering",
+    "animegg_url": "https://www.animegg.org/series/hana-doll-reinterpretation-of-flowering",
+    "mal_url": "https://myanimelist.net/anime/55710",
+    "mal_id": 55710,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/140880",
+        "dub": null,
+        "url": "https://www.animegg.org/hana-doll-reinterpretation-of-flowering-episode-1"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/140992",
+        "dub": null,
+        "url": "https://www.animegg.org/hana-doll-reinterpretation-of-flowering-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/141119",
+        "dub": null,
+        "url": "https://www.animegg.org/hana-doll-reinterpretation-of-flowering-episode-5"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/141365",
+        "dub": null,
+        "url": "https://www.animegg.org/hana-doll-reinterpretation-of-flowering-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/141627",
+        "dub": null,
+        "url": "https://www.animegg.org/hana-doll-reinterpretation-of-flowering-episode-8"
+      }
+    ]
   }
 ]
