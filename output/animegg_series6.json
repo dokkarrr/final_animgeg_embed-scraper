@@ -88710,5 +88710,45 @@
         "url": "https://www.animegg.org/devil-s-advent-episode-73"
       }
     ]
+  },
+  {
+    "serial_no": 8928,
+    "title": "Vampire in the Garden",
+    "animegg_url": "https://www.animegg.org/series/vampire-in-the-garden-dub",
+    "mal_url": "https://myanimelist.net/anime/39518",
+    "mal_id": 39518,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/vampire-in-the-garden-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/115854",
+        "dub": null,
+        "url": "https://www.animegg.org/vampire-in-the-garden-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/115852",
+        "dub": null,
+        "url": "https://www.animegg.org/vampire-in-the-garden-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/115851",
+        "dub": null,
+        "url": "https://www.animegg.org/vampire-in-the-garden-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/115853",
+        "dub": null,
+        "url": "https://www.animegg.org/vampire-in-the-garden-dub-episode-5"
+      }
+    ]
   }
 ]
