@@ -85657,5 +85657,21 @@
         "url": "https://www.animegg.org/xi-xing-ji-kuang-wang-episode-9"
       }
     ]
+  },
+  {
+    "serial_no": 8820,
+    "title": "Garden of Remembrance",
+    "animegg_url": "https://www.animegg.org/series/garden-of-remembrance",
+    "mal_url": "https://myanimelist.net/anime/52085",
+    "mal_id": 52085,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/136797",
+        "dub": null,
+        "url": "https://www.animegg.org/garden-of-remembrance-episode-1"
+      }
+    ]
   }
 ]
