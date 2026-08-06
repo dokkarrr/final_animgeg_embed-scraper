@@ -86595,5 +86595,45 @@
         "url": "https://www.animegg.org/uchida-shungicu-no-noroi-no-one-piece-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 8850,
+    "title": "Jinwu Wei: Feng Qi Jingling",
+    "animegg_url": "https://www.animegg.org/series/jinwu-wei-feng-qi-jingling",
+    "mal_url": "https://myanimelist.net/anime/107",
+    "mal_id": 107,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/134279",
+        "dub": null,
+        "url": "https://www.animegg.org/jinwu-wei-feng-qi-jingling-episode-3"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/134694",
+        "dub": null,
+        "url": "https://www.animegg.org/jinwu-wei-feng-qi-jingling-episode-5"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/135078",
+        "dub": null,
+        "url": "https://www.animegg.org/jinwu-wei-feng-qi-jingling-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/135208",
+        "dub": null,
+        "url": "https://www.animegg.org/jinwu-wei-feng-qi-jingling-episode-8"
+      },
+      {
+        "ep": 16,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/jinwu-wei-feng-qi-jingling-episode-16"
+      }
+    ]
   }
 ]
