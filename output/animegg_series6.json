@@ -52628,5 +52628,75 @@
         "url": "https://www.animegg.org/hakata-tonkotsu-ramens-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8205,
+    "title": "Abunai Sisters: Koko & Mika (Dub)",
+    "animegg_url": "https://www.animegg.org/series/abunai-sisters-koko-mika-dub",
+    "mal_url": "https://myanimelist.net/anime/5877",
+    "mal_id": 5877,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/109359",
+        "dub": null,
+        "url": "https://www.animegg.org/abunai-sisters-koko-mika-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/109361",
+        "dub": null,
+        "url": "https://www.animegg.org/abunai-sisters-koko-mika-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/109362",
+        "dub": null,
+        "url": "https://www.animegg.org/abunai-sisters-koko-mika-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/109363",
+        "dub": null,
+        "url": "https://www.animegg.org/abunai-sisters-koko-mika-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/109364",
+        "dub": null,
+        "url": "https://www.animegg.org/abunai-sisters-koko-mika-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/109365",
+        "dub": null,
+        "url": "https://www.animegg.org/abunai-sisters-koko-mika-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/109366",
+        "dub": null,
+        "url": "https://www.animegg.org/abunai-sisters-koko-mika-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/109367",
+        "dub": null,
+        "url": "https://www.animegg.org/abunai-sisters-koko-mika-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/109368",
+        "dub": null,
+        "url": "https://www.animegg.org/abunai-sisters-koko-mika-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/109360",
+        "dub": null,
+        "url": "https://www.animegg.org/abunai-sisters-koko-mika-dub-episode-10"
+      }
+    ]
   }
 ]
