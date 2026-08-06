@@ -20432,5 +20432,33 @@
         "url": "https://www.animegg.org/castlevania-season-2-dub-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 7761,
+    "title": "The World's Strongest Rearguard",
+    "animegg_url": "https://www.animegg.org/series/the-world-s-strongest-rearguard",
+    "mal_url": "https://myanimelist.net/anime/62435",
+    "mal_id": 62435,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/146424",
+        "dub": null,
+        "url": "https://www.animegg.org/the-world-s-strongest-rearguard-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/146501",
+        "dub": null,
+        "url": "https://www.animegg.org/the-world-s-strongest-rearguard-episode-3"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/146617",
+        "dub": null,
+        "url": "https://www.animegg.org/the-world-s-strongest-rearguard-episode-5"
+      }
+    ]
   }
 ]
