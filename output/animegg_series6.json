@@ -17473,5 +17473,87 @@
         "url": "https://www.animegg.org/milg-am-episode-14"
       }
     ]
+  },
+  {
+    "serial_no": 7723,
+    "title": "Feng Ling Yu Xiu",
+    "animegg_url": "https://www.animegg.org/series/feng-ling-yu-xiu",
+    "mal_url": "https://myanimelist.net/anime/36184",
+    "mal_id": 36184,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/126913",
+        "dub": null,
+        "url": "https://www.animegg.org/feng-ling-yu-xiu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/126912",
+        "dub": null,
+        "url": "https://www.animegg.org/feng-ling-yu-xiu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/126911",
+        "dub": null,
+        "url": "https://www.animegg.org/feng-ling-yu-xiu-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/126910",
+        "dub": null,
+        "url": "https://www.animegg.org/feng-ling-yu-xiu-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/feng-ling-yu-xiu-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/feng-ling-yu-xiu-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/feng-ling-yu-xiu-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/feng-ling-yu-xiu-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/feng-ling-yu-xiu-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/feng-ling-yu-xiu-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/feng-ling-yu-xiu-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/feng-ling-yu-xiu-episode-12"
+      }
+    ]
   }
 ]
