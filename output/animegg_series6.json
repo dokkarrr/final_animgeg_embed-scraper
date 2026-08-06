@@ -64657,5 +64657,75 @@
     "mal_id": 9515,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 8395,
+    "title": "There is a Sword Field at the Beginning",
+    "animegg_url": "https://www.animegg.org/series/there-is-a-sword-field-at-the-beginning",
+    "mal_url": "https://myanimelist.net/anime/33371",
+    "mal_id": 33371,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 58,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/there-is-a-sword-field-at-the-beginning-episode-58"
+      },
+      {
+        "ep": 63,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/there-is-a-sword-field-at-the-beginning-episode-63"
+      },
+      {
+        "ep": 72,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/there-is-a-sword-field-at-the-beginning-episode-72"
+      },
+      {
+        "ep": 73,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/there-is-a-sword-field-at-the-beginning-episode-73"
+      },
+      {
+        "ep": 74,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/there-is-a-sword-field-at-the-beginning-episode-74"
+      },
+      {
+        "ep": 75,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/there-is-a-sword-field-at-the-beginning-episode-75"
+      },
+      {
+        "ep": 76,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/there-is-a-sword-field-at-the-beginning-episode-76"
+      },
+      {
+        "ep": 77,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/there-is-a-sword-field-at-the-beginning-episode-77"
+      },
+      {
+        "ep": 78,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/there-is-a-sword-field-at-the-beginning-episode-78"
+      },
+      {
+        "ep": 79,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/there-is-a-sword-field-at-the-beginning-episode-79"
+      }
+    ]
   }
 ]
