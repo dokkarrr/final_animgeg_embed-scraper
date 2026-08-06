@@ -88068,5 +88068,21 @@
         "url": "https://www.animegg.org/servamp-movie-alice-in-the-garden-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8908,
+    "title": "Naruto Shippuden Movie 4: The Lost Tower",
+    "animegg_url": "https://www.animegg.org/series/naruto-shippuden-movie-4-the-lost-tower",
+    "mal_url": "https://myanimelist.net/anime/8246",
+    "mal_id": 8246,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/121326",
+        "dub": null,
+        "url": "https://www.animegg.org/naruto-shippuden-movie-4-the-lost-tower-episode-1"
+      }
+    ]
   }
 ]
