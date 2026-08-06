@@ -10164,5 +10164,87 @@
         "url": "https://www.animegg.org/sakamoto-desu-ga--dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 7626,
+    "title": "Nakanohito Genome [Jikkyouchuu] (Dub)",
+    "animegg_url": "https://www.animegg.org/series/nakanohito-genome-jikkyouchuu-dub",
+    "mal_url": "https://myanimelist.net/anime/37926",
+    "mal_id": 37926,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/121586",
+        "dub": null,
+        "url": "https://www.animegg.org/nakanohito-genome-jikkyouchuu-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/121582",
+        "dub": null,
+        "url": "https://www.animegg.org/nakanohito-genome-jikkyouchuu-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/121581",
+        "dub": null,
+        "url": "https://www.animegg.org/nakanohito-genome-jikkyouchuu-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/121580",
+        "dub": null,
+        "url": "https://www.animegg.org/nakanohito-genome-jikkyouchuu-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/121579",
+        "dub": null,
+        "url": "https://www.animegg.org/nakanohito-genome-jikkyouchuu-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/121578",
+        "dub": null,
+        "url": "https://www.animegg.org/nakanohito-genome-jikkyouchuu-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/121577",
+        "dub": null,
+        "url": "https://www.animegg.org/nakanohito-genome-jikkyouchuu-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/121576",
+        "dub": null,
+        "url": "https://www.animegg.org/nakanohito-genome-jikkyouchuu-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/121575",
+        "dub": null,
+        "url": "https://www.animegg.org/nakanohito-genome-jikkyouchuu-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/121585",
+        "dub": null,
+        "url": "https://www.animegg.org/nakanohito-genome-jikkyouchuu-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/121584",
+        "dub": null,
+        "url": "https://www.animegg.org/nakanohito-genome-jikkyouchuu-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/121583",
+        "dub": null,
+        "url": "https://www.animegg.org/nakanohito-genome-jikkyouchuu-dub-episode-12"
+      }
+    ]
   }
 ]
