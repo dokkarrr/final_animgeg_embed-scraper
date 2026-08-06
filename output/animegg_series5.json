@@ -138708,5 +138708,51 @@
         "url": "https://www.animegg.org/jojo-no-kimyou-na-bouken-part-6-stone-ocean-dub-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 7073,
+    "title": "Kakegurui Twin",
+    "animegg_url": "https://www.animegg.org/series/kakegurui-twin",
+    "mal_url": "https://myanimelist.net/anime/50339",
+    "mal_id": 50339,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/105472",
+        "dub": null,
+        "url": "https://www.animegg.org/kakegurui-twin-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/123921",
+        "dub": null,
+        "url": "https://www.animegg.org/kakegurui-twin-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/123920",
+        "dub": null,
+        "url": "https://www.animegg.org/kakegurui-twin-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/123919",
+        "dub": null,
+        "url": "https://www.animegg.org/kakegurui-twin-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/123918",
+        "dub": null,
+        "url": "https://www.animegg.org/kakegurui-twin-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/105473",
+        "dub": null,
+        "url": "https://www.animegg.org/kakegurui-twin-episode-6"
+      }
+    ]
   }
 ]
