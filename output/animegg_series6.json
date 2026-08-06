@@ -87270,5 +87270,75 @@
         "url": "https://www.animegg.org/miru-paths-to-my-future-episode-5"
       }
     ]
+  },
+  {
+    "serial_no": 8877,
+    "title": "Yami shibai season 15",
+    "animegg_url": "https://www.animegg.org/series/yami-shibai-season-15",
+    "mal_url": "https://myanimelist.net/anime/19383",
+    "mal_id": 19383,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/142748",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-season-15-episode-12"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/142571",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-season-15-episode-10"
+      },
+      {
+        "ep": 15,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-season-15-episode-9"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/142413",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-season-15-episode-8"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/142301",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-season-15-episode-6"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/142188",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-season-15-episode-5"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/142070",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-season-15-episode-4"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/141941",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-season-15-episode-3"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/141828",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-season-15-episode-2"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/141720",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-season-15-episode-1"
+      }
+    ]
   }
 ]
