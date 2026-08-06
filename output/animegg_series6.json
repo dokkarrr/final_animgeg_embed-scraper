@@ -57081,5 +57081,27 @@
         "url": "https://www.animegg.org/magic-user-s-club-dub-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 8272,
+    "title": "Gintama: The Semi-Final",
+    "animegg_url": "https://www.animegg.org/series/gintama-the-semi-final",
+    "mal_url": "https://myanimelist.net/anime/44087",
+    "mal_id": 44087,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/126336",
+        "dub": null,
+        "url": "https://www.animegg.org/gintama-the-semi-final-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/gintama-the-semi-final-episode-2"
+      }
+    ]
   }
 ]
