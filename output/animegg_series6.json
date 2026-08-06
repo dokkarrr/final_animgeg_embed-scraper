@@ -43258,5 +43258,57 @@
         "url": "https://www.animegg.org/momokuri-tv-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 8068,
+    "title": "Disney twisted wonderland the animation",
+    "animegg_url": "https://www.animegg.org/series/disney-twisted-wonderland-the-animation",
+    "mal_url": "https://myanimelist.net/anime/50139",
+    "mal_id": 50139,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/143126",
+        "dub": "https://www.animegg.org/embed/143127",
+        "url": "https://www.animegg.org/disney-twisted-wonderland-the-animation-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/143229",
+        "dub": "https://www.animegg.org/embed/143230",
+        "url": "https://www.animegg.org/disney-twisted-wonderland-the-animation-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/143345",
+        "dub": "https://www.animegg.org/embed/143346",
+        "url": "https://www.animegg.org/disney-twisted-wonderland-the-animation-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/143448",
+        "dub": "https://www.animegg.org/embed/143449",
+        "url": "https://www.animegg.org/disney-twisted-wonderland-the-animation-episode-4"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/143650",
+        "dub": "https://www.animegg.org/embed/143652",
+        "url": "https://www.animegg.org/disney-twisted-wonderland-the-animation-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/143753",
+        "dub": "https://www.animegg.org/embed/143756",
+        "url": "https://www.animegg.org/disney-twisted-wonderland-the-animation-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/143868",
+        "dub": "https://www.animegg.org/embed/143871",
+        "url": "https://www.animegg.org/disney-twisted-wonderland-the-animation-episode-8"
+      }
+    ]
   }
 ]
