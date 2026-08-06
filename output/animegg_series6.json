@@ -75060,5 +75060,21 @@
         "url": "https://www.animegg.org/super-psycho-love-2nd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8569,
+    "title": "Uchuu no Hou: Reimei-hen",
+    "animegg_url": "https://www.animegg.org/series/uchuu-no-hou-reimei-hen",
+    "mal_url": "https://myanimelist.net/anime/37915",
+    "mal_id": 37915,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/105181",
+        "dub": null,
+        "url": "https://www.animegg.org/uchuu-no-hou-reimei-hen-episode-1"
+      }
+    ]
   }
 ]
