@@ -81861,5 +81861,39 @@
         "url": "https://www.animegg.org/ramayana-the-legend-of-prince-rama-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8718,
+    "title": "Kamen Rider Fourze x Crayon Shin-chan",
+    "animegg_url": "https://www.animegg.org/series/kamen-rider-fourze-x-crayon-shin-chan",
+    "mal_url": "https://myanimelist.net/anime/14095",
+    "mal_id": 14095,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kamen-rider-fourze-x-crayon-shin-chan-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kamen-rider-fourze-x-crayon-shin-chan-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kamen-rider-fourze-x-crayon-shin-chan-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kamen-rider-fourze-x-crayon-shin-chan-episode-4"
+      }
+    ]
   }
 ]
