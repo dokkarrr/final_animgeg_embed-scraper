@@ -26012,5 +26012,27 @@
         "url": "https://www.animegg.org/xian-yu-ge-episode-18"
       }
     ]
+  },
+  {
+    "serial_no": 7832,
+    "title": "The elusive samurai season 2",
+    "animegg_url": "https://www.animegg.org/series/the-elusive-samurai-season-2",
+    "mal_url": "https://myanimelist.net/anime/60059",
+    "mal_id": 60059,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/146541",
+        "dub": null,
+        "url": "https://www.animegg.org/the-elusive-samurai-season-2-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/146542",
+        "dub": null,
+        "url": "https://www.animegg.org/the-elusive-samurai-season-2-episode-1"
+      }
+    ]
   }
 ]
