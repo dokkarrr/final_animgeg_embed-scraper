@@ -14915,5 +14915,21 @@
         "url": "https://www.animegg.org/queen-s-blade-gyokuza-wo-tsugumono-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 7691,
+    "title": "Isekai Quartet Movie: Another World",
+    "animegg_url": "https://www.animegg.org/series/isekai-quartet-movie-another-world",
+    "mal_url": "https://myanimelist.net/anime/41567",
+    "mal_id": 41567,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/106699",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-quartet-movie-another-world-episode-1"
+      }
+    ]
   }
 ]
