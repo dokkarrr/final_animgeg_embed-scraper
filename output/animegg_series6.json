@@ -62704,5 +62704,45 @@
     "mal_id": 11617,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 8365,
+    "title": "Macross Zero",
+    "animegg_url": "https://www.animegg.org/series/macross-zero",
+    "mal_url": "https://myanimelist.net/anime/194",
+    "mal_id": 194,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/macross-zero-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/macross-zero-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/macross-zero-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/macross-zero-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/macross-zero-episode-5"
+      }
+    ]
   }
 ]
