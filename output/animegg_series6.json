@@ -73962,5 +73962,51 @@
     "mal_id": 59517,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 8551,
+    "title": "FLCL Progressive",
+    "animegg_url": "https://www.animegg.org/series/flcl-progressive-dub",
+    "mal_url": "https://myanimelist.net/anime/33010",
+    "mal_id": 33010,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/126850",
+        "dub": null,
+        "url": "https://www.animegg.org/flcl-progressive-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/126849",
+        "dub": null,
+        "url": "https://www.animegg.org/flcl-progressive-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/126848",
+        "dub": null,
+        "url": "https://www.animegg.org/flcl-progressive-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/126847",
+        "dub": null,
+        "url": "https://www.animegg.org/flcl-progressive-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/126846",
+        "dub": null,
+        "url": "https://www.animegg.org/flcl-progressive-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/126845",
+        "dub": null,
+        "url": "https://www.animegg.org/flcl-progressive-dub-episode-6"
+      }
+    ]
   }
 ]
