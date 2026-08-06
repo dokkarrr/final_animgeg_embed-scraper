@@ -58803,5 +58803,57 @@
         "url": "https://www.animegg.org/ying-xiong-bie-nao-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8301,
+    "title": "JoJo no Kimyou na Bouken: Adventure (2000)",
+    "animegg_url": "https://www.animegg.org/series/jojo-no-kimyou-na-bouken-adventure-2000",
+    "mal_url": "https://myanimelist.net/anime/14719",
+    "mal_id": 14719,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 2000,
+        "sub": "https://www.animegg.org/embed/124415",
+        "dub": null,
+        "url": "https://www.animegg.org/jojo-no-kimyou-na-bouken-adventure-2000-episode-7"
+      },
+      {
+        "ep": 2000,
+        "sub": "https://www.animegg.org/embed/124416",
+        "dub": null,
+        "url": "https://www.animegg.org/jojo-no-kimyou-na-bouken-adventure-2000-episode-6"
+      },
+      {
+        "ep": 2000,
+        "sub": "https://www.animegg.org/embed/124417",
+        "dub": null,
+        "url": "https://www.animegg.org/jojo-no-kimyou-na-bouken-adventure-2000-episode-5"
+      },
+      {
+        "ep": 2000,
+        "sub": "https://www.animegg.org/embed/124418",
+        "dub": null,
+        "url": "https://www.animegg.org/jojo-no-kimyou-na-bouken-adventure-2000-episode-4"
+      },
+      {
+        "ep": 2000,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/jojo-no-kimyou-na-bouken-adventure-2000-episode-3"
+      },
+      {
+        "ep": 2000,
+        "sub": "https://www.animegg.org/embed/124419",
+        "dub": null,
+        "url": "https://www.animegg.org/jojo-no-kimyou-na-bouken-adventure-2000-episode-2"
+      },
+      {
+        "ep": 2000,
+        "sub": "https://www.animegg.org/embed/124420",
+        "dub": null,
+        "url": "https://www.animegg.org/jojo-no-kimyou-na-bouken-adventure-2000-episode-1"
+      }
+    ]
   }
 ]
