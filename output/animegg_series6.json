@@ -77262,5 +77262,75 @@
         "url": "https://www.animegg.org/i-have-a-dragon-in-my-body-episode-134"
       }
     ]
+  },
+  {
+    "serial_no": 8613,
+    "title": "Ling Yu - Spirit Realm",
+    "animegg_url": "https://www.animegg.org/series/ling-yu---spirit-realm",
+    "mal_url": "https://myanimelist.net/anime/33605",
+    "mal_id": 33605,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/122725",
+        "dub": null,
+        "url": "https://www.animegg.org/ling-yu---spirit-realm-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/122723",
+        "dub": null,
+        "url": "https://www.animegg.org/ling-yu---spirit-realm-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/122722",
+        "dub": null,
+        "url": "https://www.animegg.org/ling-yu---spirit-realm-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/122721",
+        "dub": null,
+        "url": "https://www.animegg.org/ling-yu---spirit-realm-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/122720",
+        "dub": null,
+        "url": "https://www.animegg.org/ling-yu---spirit-realm-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/122719",
+        "dub": null,
+        "url": "https://www.animegg.org/ling-yu---spirit-realm-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/122718",
+        "dub": null,
+        "url": "https://www.animegg.org/ling-yu---spirit-realm-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/122717",
+        "dub": null,
+        "url": "https://www.animegg.org/ling-yu---spirit-realm-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/122716",
+        "dub": null,
+        "url": "https://www.animegg.org/ling-yu---spirit-realm-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/122724",
+        "dub": null,
+        "url": "https://www.animegg.org/ling-yu---spirit-realm-episode-10"
+      }
+    ]
   }
 ]
