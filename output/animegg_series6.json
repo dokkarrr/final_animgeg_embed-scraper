@@ -36108,5 +36108,87 @@
         "url": "https://www.animegg.org/karakai-jouzu-no-takagi-san-movie-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 7967,
+    "title": "Bad Girl",
+    "animegg_url": "https://www.animegg.org/series/bad-girl",
+    "mal_url": "https://myanimelist.net/anime/59161",
+    "mal_id": 59161,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/143145",
+        "dub": null,
+        "url": "https://www.animegg.org/bad-girl-season-1-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/143240",
+        "dub": null,
+        "url": "https://www.animegg.org/bad-girl-season-1-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/143414",
+        "dub": null,
+        "url": "https://www.animegg.org/bad-girl-season-1-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/143452",
+        "dub": null,
+        "url": "https://www.animegg.org/bad-girl-season-1-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/143611",
+        "dub": null,
+        "url": "https://www.animegg.org/bad-girl-season-1-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/143656",
+        "dub": null,
+        "url": "https://www.animegg.org/bad-girl-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/143767",
+        "dub": null,
+        "url": "https://www.animegg.org/bad-girl-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/143900",
+        "dub": null,
+        "url": "https://www.animegg.org/bad-girl-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/143981",
+        "dub": null,
+        "url": "https://www.animegg.org/bad-girl-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/144038",
+        "dub": null,
+        "url": "https://www.animegg.org/bad-girl-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/144097",
+        "dub": null,
+        "url": "https://www.animegg.org/bad-girl-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/144200",
+        "dub": null,
+        "url": "https://www.animegg.org/bad-girl-episode-12"
+      }
+    ]
   }
 ]
