@@ -86635,5 +86635,33 @@
         "url": "https://www.animegg.org/jinwu-wei-feng-qi-jingling-episode-16"
       }
     ]
+  },
+  {
+    "serial_no": 8851,
+    "title": "Pokemon Concierge",
+    "animegg_url": "https://www.animegg.org/series/pokemon-concierge",
+    "mal_url": "https://myanimelist.net/anime/54633",
+    "mal_id": 54633,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/pokemon-concierge-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/142453",
+        "dub": "https://www.animegg.org/embed/142459",
+        "url": "https://www.animegg.org/pokemon-concierge-episode-5"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/142457",
+        "dub": "https://www.animegg.org/embed/142460",
+        "url": "https://www.animegg.org/pokemon-concierge-episode-8"
+      }
+    ]
   }
 ]
