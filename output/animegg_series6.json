@@ -82519,5 +82519,51 @@
         "url": "https://www.animegg.org/naruto-shippuden-movie-5-special-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8734,
+    "title": "Taiko no Tatsujin",
+    "animegg_url": "https://www.animegg.org/series/taiko-no-tatsujin",
+    "mal_url": "https://myanimelist.net/anime/3724",
+    "mal_id": 3724,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/117475",
+        "dub": null,
+        "url": "https://www.animegg.org/taiko-no-tatsujin-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/117474",
+        "dub": null,
+        "url": "https://www.animegg.org/taiko-no-tatsujin-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/117473",
+        "dub": null,
+        "url": "https://www.animegg.org/taiko-no-tatsujin-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/117472",
+        "dub": null,
+        "url": "https://www.animegg.org/taiko-no-tatsujin-episode-4"
+      },
+      {
+        "ep": 20,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/taiko-no-tatsujin-episode-20"
+      },
+      {
+        "ep": 26,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/taiko-no-tatsujin-episode-26"
+      }
+    ]
   }
 ]
