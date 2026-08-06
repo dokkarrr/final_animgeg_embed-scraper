@@ -80727,5 +80727,39 @@
         "url": "https://www.animegg.org/i-s-pure-bonus-episode-5"
       }
     ]
+  },
+  {
+    "serial_no": 8690,
+    "title": "Mad★Bull 34",
+    "animegg_url": "https://www.animegg.org/series/mad-bull-34-dub",
+    "mal_url": "https://myanimelist.net/anime/3448",
+    "mal_id": 3448,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 34,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/mad-bull-34-dub-episode-4"
+      },
+      {
+        "ep": 34,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/mad-bull-34-dub-episode-3"
+      },
+      {
+        "ep": 34,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/mad-bull-34-dub-episode-2"
+      },
+      {
+        "ep": 34,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/mad-bull-34-dub-episode-1"
+      }
+    ]
   }
 ]
