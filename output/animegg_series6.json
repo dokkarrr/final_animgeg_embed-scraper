@@ -70395,5 +70395,51 @@
         "url": "https://www.animegg.org/cang-yuan-tu-episode-30"
       }
     ]
+  },
+  {
+    "serial_no": 8488,
+    "title": "Sakura Taisen: New York",
+    "animegg_url": "https://www.animegg.org/series/sakura-taisen-new-york",
+    "mal_url": "https://myanimelist.net/anime/2168",
+    "mal_id": 2168,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-taisen-new-york-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-taisen-new-york-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-taisen-new-york-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-taisen-new-york-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-taisen-new-york-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-taisen-new-york-episode-6"
+      }
+    ]
   }
 ]
