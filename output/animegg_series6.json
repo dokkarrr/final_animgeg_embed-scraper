@@ -3628,5 +3628,27 @@
         "url": "https://www.animegg.org/my-master-is-an-emperor-episode-78"
       }
     ]
+  },
+  {
+    "serial_no": 7552,
+    "title": "Yuru Camp△ Season 2 Specials",
+    "animegg_url": "https://www.animegg.org/series/yuru-camp-season-2-specials",
+    "mal_url": "https://myanimelist.net/anime/49026",
+    "mal_id": 49026,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/108309",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-camp-season-2-specials-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/108308",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-camp-season-2-specials-episode-1"
+      }
+    ]
   }
 ]
