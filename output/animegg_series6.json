@@ -78911,5 +78911,27 @@
         "url": "https://www.animegg.org/uta-no-prince-sama-movie-maji-love-st-rish-tours-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8651,
+    "title": "Princess Principal: Crown Handler OVA",
+    "animegg_url": "https://www.animegg.org/series/princess-principal-crown-handler-ova",
+    "mal_url": "https://myanimelist.net/anime/37807",
+    "mal_id": 37807,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/104438",
+        "dub": null,
+        "url": "https://www.animegg.org/princess-principal-crown-handler-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/104439",
+        "dub": null,
+        "url": "https://www.animegg.org/princess-principal-crown-handler-ova-episode-2"
+      }
+    ]
   }
 ]
