@@ -61103,5 +61103,69 @@
         "url": "https://www.animegg.org/tamako-market-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8338,
+    "title": "Ochamegami Monogatari: Korokoro Pollon",
+    "animegg_url": "https://www.animegg.org/series/ochamegami-monogatari-korokoro-pollon",
+    "mal_url": "https://myanimelist.net/anime/3136",
+    "mal_id": 3136,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ochamegami-monogatari-korokoro-pollon-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ochamegami-monogatari-korokoro-pollon-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ochamegami-monogatari-korokoro-pollon-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/121192",
+        "dub": null,
+        "url": "https://www.animegg.org/ochamegami-monogatari-korokoro-pollon-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/121191",
+        "dub": null,
+        "url": "https://www.animegg.org/ochamegami-monogatari-korokoro-pollon-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/121190",
+        "dub": null,
+        "url": "https://www.animegg.org/ochamegami-monogatari-korokoro-pollon-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/121189",
+        "dub": null,
+        "url": "https://www.animegg.org/ochamegami-monogatari-korokoro-pollon-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/121188",
+        "dub": null,
+        "url": "https://www.animegg.org/ochamegami-monogatari-korokoro-pollon-episode-8"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/136710",
+        "dub": null,
+        "url": "https://www.animegg.org/ochamegami-monogatari-korokoro-pollon-episode-10"
+      }
+    ]
   }
 ]
