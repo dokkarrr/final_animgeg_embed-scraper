@@ -85673,5 +85673,39 @@
         "url": "https://www.animegg.org/garden-of-remembrance-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8821,
+    "title": "Casshan: Robot Hunter",
+    "animegg_url": "https://www.animegg.org/series/casshan-robot-hunter",
+    "mal_url": "https://myanimelist.net/anime/1598",
+    "mal_id": 1598,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/128821",
+        "dub": null,
+        "url": "https://www.animegg.org/casshan-robot-hunter-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/128820",
+        "dub": null,
+        "url": "https://www.animegg.org/casshan-robot-hunter-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/128819",
+        "dub": null,
+        "url": "https://www.animegg.org/casshan-robot-hunter-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/128818",
+        "dub": null,
+        "url": "https://www.animegg.org/casshan-robot-hunter-episode-4"
+      }
+    ]
   }
 ]
