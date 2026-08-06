@@ -77820,5 +77820,21 @@
     "mal_id": 56854,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 8627,
+    "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru - OVA",
+    "animegg_url": "https://www.animegg.org/series/yahari-ore-no-seishun-love-comedy-wa-machigatteiru---ova",
+    "mal_url": "https://myanimelist.net/anime/18753",
+    "mal_id": 18753,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/112242",
+        "dub": null,
+        "url": "https://www.animegg.org/yahari-ore-no-seishun-love-comedy-wa-machigatteiru---ova-episode-1"
+      }
+    ]
   }
 ]
