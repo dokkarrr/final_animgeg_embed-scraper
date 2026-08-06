@@ -82129,5 +82129,51 @@
         "url": "https://www.animegg.org/jigoku-sensei-nube-ova-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 8725,
+    "title": "Hakushaku to Yousei Specials",
+    "animegg_url": "https://www.animegg.org/series/hakushaku-to-yousei-specials",
+    "mal_url": "https://myanimelist.net/anime/7083",
+    "mal_id": 7083,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/125965",
+        "dub": null,
+        "url": "https://www.animegg.org/hakushaku-to-yousei-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/125964",
+        "dub": null,
+        "url": "https://www.animegg.org/hakushaku-to-yousei-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/125963",
+        "dub": null,
+        "url": "https://www.animegg.org/hakushaku-to-yousei-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/125962",
+        "dub": null,
+        "url": "https://www.animegg.org/hakushaku-to-yousei-specials-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/125961",
+        "dub": null,
+        "url": "https://www.animegg.org/hakushaku-to-yousei-specials-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/125960",
+        "dub": null,
+        "url": "https://www.animegg.org/hakushaku-to-yousei-specials-episode-6"
+      }
+    ]
   }
 ]
