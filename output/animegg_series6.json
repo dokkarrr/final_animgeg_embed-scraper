@@ -83926,5 +83926,27 @@
         "url": "https://www.animegg.org/mo-you-ji-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8768,
+    "title": "Choujuu Kishin Dancougar: Hakunetsu no Shuushou",
+    "animegg_url": "https://www.animegg.org/series/choujuu-kishin-dancougar-hakunetsu-no-shuushou",
+    "mal_url": "https://myanimelist.net/anime/5629",
+    "mal_id": 5629,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/104744",
+        "dub": null,
+        "url": "https://www.animegg.org/choujuu-kishin-dancougar-hakunetsu-no-shuushou-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/104745",
+        "dub": null,
+        "url": "https://www.animegg.org/choujuu-kishin-dancougar-hakunetsu-no-shuushou-episode-4"
+      }
+    ]
   }
 ]
