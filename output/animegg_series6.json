@@ -80671,5 +80671,21 @@
         "url": "https://www.animegg.org/one-piece-movie-4-dead-end-adventure-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8688,
+    "title": "Delicious Party♡Precure Movie: Yume Miru Oko-sama Lunch!",
+    "animegg_url": "https://www.animegg.org/series/delicious-party-precure-movie-yume-miru-oko-sama-lunch",
+    "mal_url": "https://myanimelist.net/anime/50963",
+    "mal_id": 50963,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/107190",
+        "dub": null,
+        "url": "https://www.animegg.org/delicious-party-precure-movie-yume-miru-oko-sama-lunch-episode-1"
+      }
+    ]
   }
 ]
