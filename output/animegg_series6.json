@@ -87623,5 +87623,39 @@
         "url": "https://www.animegg.org/k-on-live-house-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8889,
+    "title": "Bakuen Campus Guardress",
+    "animegg_url": "https://www.animegg.org/series/bakuen-campus-guardress",
+    "mal_url": "https://myanimelist.net/anime/2023",
+    "mal_id": 2023,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/110205",
+        "dub": null,
+        "url": "https://www.animegg.org/bakuen-campus-guardress-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/110206",
+        "dub": null,
+        "url": "https://www.animegg.org/bakuen-campus-guardress-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/110207",
+        "dub": null,
+        "url": "https://www.animegg.org/bakuen-campus-guardress-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/110208",
+        "dub": null,
+        "url": "https://www.animegg.org/bakuen-campus-guardress-episode-4"
+      }
+    ]
   }
 ]
