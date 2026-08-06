@@ -70843,5 +70843,21 @@
         "url": "https://www.animegg.org/ze-tian-ji-s3-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8495,
+    "title": "Digimon Adventure 02: The Beginning",
+    "animegg_url": "https://www.animegg.org/series/digimon-adventure-02-the-beginning",
+    "mal_url": "https://myanimelist.net/anime/49523",
+    "mal_id": 49523,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/134616",
+        "dub": null,
+        "url": "https://www.animegg.org/digimon-adventure-02-the-beginning-episode-1"
+      }
+    ]
   }
 ]
