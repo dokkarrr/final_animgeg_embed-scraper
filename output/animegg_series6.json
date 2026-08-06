@@ -76425,5 +76425,57 @@
         "url": "https://www.animegg.org/tokyo-7th-sisters-bokura-wa-aozora-ni-naru-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8597,
+    "title": "Catman",
+    "animegg_url": "https://www.animegg.org/series/catman",
+    "mal_url": "https://myanimelist.net/anime/4419",
+    "mal_id": 4419,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/catman-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/catman-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/catman-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/catman-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/catman-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/catman-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/catman-episode-7"
+      }
+    ]
   }
 ]
