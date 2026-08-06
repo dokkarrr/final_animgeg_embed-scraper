@@ -87113,5 +87113,27 @@
         "url": "https://www.animegg.org/gyokou-no-nikuko-chan-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8869,
+    "title": "Douwa Revenger",
+    "animegg_url": "https://www.animegg.org/series/douwa-revenger",
+    "mal_url": "https://myanimelist.net/anime/59091",
+    "mal_id": 59091,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/138591",
+        "dub": null,
+        "url": "https://www.animegg.org/douwa-revenger-episode-1"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/138873",
+        "dub": null,
+        "url": "https://www.animegg.org/douwa-revenger-episode-3"
+      }
+    ]
   }
 ]
