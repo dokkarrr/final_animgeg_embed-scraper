@@ -85410,5 +85410,57 @@
         "url": "https://www.animegg.org/kidou-senshi-gundam-fukushuu-no-requiem-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 8812,
+    "title": "Invasion of the Immortal Emperor Season 2",
+    "animegg_url": "https://www.animegg.org/series/invasion-of-the-immortal-emperor-season-2",
+    "mal_url": "https://myanimelist.net/anime/1410",
+    "mal_id": 1410,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/invasion-of-the-immortal-emperor-season-2-episode-19"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/138384",
+        "dub": null,
+        "url": "https://www.animegg.org/invasion-of-the-immortal-emperor-season-2-episode-18"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/138121",
+        "dub": null,
+        "url": "https://www.animegg.org/invasion-of-the-immortal-emperor-season-2-episode-17"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/137856",
+        "dub": null,
+        "url": "https://www.animegg.org/invasion-of-the-immortal-emperor-season-2-episode-14"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/137274",
+        "dub": null,
+        "url": "https://www.animegg.org/invasion-of-the-immortal-emperor-season-2-episode-13"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/137003",
+        "dub": null,
+        "url": "https://www.animegg.org/invasion-of-the-immortal-emperor-season-2-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/136637",
+        "dub": null,
+        "url": "https://www.animegg.org/invasion-of-the-immortal-emperor-season-2-episode-10"
+      }
+    ]
   }
 ]
