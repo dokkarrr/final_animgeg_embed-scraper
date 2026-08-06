@@ -39502,5 +39502,21 @@
         "url": "https://www.animegg.org/the-urban-miracle-doctor-episode-16"
       }
     ]
+  },
+  {
+    "serial_no": 8015,
+    "title": "Nanatsu no Taizai: Ensa no Edinburgh",
+    "animegg_url": "https://www.animegg.org/series/nanatsu-no-taizai-ensa-no-edinburgh",
+    "mal_url": "https://myanimelist.net/anime/50315",
+    "mal_id": 50315,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/106680",
+        "dub": null,
+        "url": "https://www.animegg.org/nanatsu-no-taizai-ensa-no-edinburgh-episode-1"
+      }
+    ]
   }
 ]
