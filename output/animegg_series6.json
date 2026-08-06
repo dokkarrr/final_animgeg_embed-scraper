@@ -86777,5 +86777,27 @@
         "url": "https://www.animegg.org/maoyuu-maou-yuusha-kono-monogatari-wa-daniku-dake-dewanai-no-ja-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8855,
+    "title": "Pokemon Horizons: The Search for Laqua",
+    "animegg_url": "https://www.animegg.org/series/pokemon-horizons-the-search-for-laqua",
+    "mal_url": "https://myanimelist.net/anime/23321",
+    "mal_id": 23321,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 115,
+        "sub": "https://www.animegg.org/embed/146307",
+        "dub": null,
+        "url": "https://www.animegg.org/pokemon-horizons-the-search-for-laqua-episode-115"
+      },
+      {
+        "ep": 123,
+        "sub": "https://www.animegg.org/embed/146329",
+        "dub": null,
+        "url": "https://www.animegg.org/pokemon-horizons-the-search-for-laqua-episode-123"
+      }
+    ]
   }
 ]
