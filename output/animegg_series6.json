@@ -50671,5 +50671,81 @@
         "url": "https://www.animegg.org/shin-yaranai-ka-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8176,
+    "title": "Magnerobo Ga-Keen",
+    "animegg_url": "https://www.animegg.org/series/magnerobo-ga-keen",
+    "mal_url": "https://myanimelist.net/anime/3932",
+    "mal_id": 3932,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/122127",
+        "dub": null,
+        "url": "https://www.animegg.org/magnerobo-ga-keen-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/122125",
+        "dub": null,
+        "url": "https://www.animegg.org/magnerobo-ga-keen-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/122124",
+        "dub": null,
+        "url": "https://www.animegg.org/magnerobo-ga-keen-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/122123",
+        "dub": null,
+        "url": "https://www.animegg.org/magnerobo-ga-keen-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/122122",
+        "dub": null,
+        "url": "https://www.animegg.org/magnerobo-ga-keen-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/122121",
+        "dub": null,
+        "url": "https://www.animegg.org/magnerobo-ga-keen-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/122120",
+        "dub": null,
+        "url": "https://www.animegg.org/magnerobo-ga-keen-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/122119",
+        "dub": null,
+        "url": "https://www.animegg.org/magnerobo-ga-keen-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/122118",
+        "dub": null,
+        "url": "https://www.animegg.org/magnerobo-ga-keen-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/122126",
+        "dub": null,
+        "url": "https://www.animegg.org/magnerobo-ga-keen-episode-10"
+      },
+      {
+        "ep": 27,
+        "sub": "https://www.animegg.org/embed/133457",
+        "dub": null,
+        "url": "https://www.animegg.org/magnerobo-ga-keen-episode-27"
+      }
+    ]
   }
 ]
