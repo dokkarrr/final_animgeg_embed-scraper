@@ -30631,5 +30631,75 @@
         "url": "https://www.animegg.org/magma-taishi-dub-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 7895,
+    "title": "Castlevania Season 3",
+    "animegg_url": "https://www.animegg.org/series/castlevania-season-3-dub",
+    "mal_url": "https://myanimelist.net/anime/40028",
+    "mal_id": 40028,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/128816",
+        "dub": null,
+        "url": "https://www.animegg.org/castlevania-season-3-dub-episode-10"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/128808",
+        "dub": null,
+        "url": "https://www.animegg.org/castlevania-season-3-dub-episode-9"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/128809",
+        "dub": null,
+        "url": "https://www.animegg.org/castlevania-season-3-dub-episode-8"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/128810",
+        "dub": null,
+        "url": "https://www.animegg.org/castlevania-season-3-dub-episode-7"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/128811",
+        "dub": null,
+        "url": "https://www.animegg.org/castlevania-season-3-dub-episode-6"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/128812",
+        "dub": null,
+        "url": "https://www.animegg.org/castlevania-season-3-dub-episode-5"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/128813",
+        "dub": null,
+        "url": "https://www.animegg.org/castlevania-season-3-dub-episode-4"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/128814",
+        "dub": null,
+        "url": "https://www.animegg.org/castlevania-season-3-dub-episode-3"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/128815",
+        "dub": null,
+        "url": "https://www.animegg.org/castlevania-season-3-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/128817",
+        "dub": null,
+        "url": "https://www.animegg.org/castlevania-season-3-dub-episode-1"
+      }
+    ]
   }
 ]
