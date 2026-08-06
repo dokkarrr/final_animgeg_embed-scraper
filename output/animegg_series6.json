@@ -16055,5 +16055,81 @@
         "url": "https://www.animegg.org/pui-pui-molcar-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 7706,
+    "title": "Darwin's Game (Dub)",
+    "animegg_url": "https://www.animegg.org/series/darwin-s-game-dub",
+    "mal_url": "https://myanimelist.net/anime/38656",
+    "mal_id": 38656,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/128010",
+        "dub": null,
+        "url": "https://www.animegg.org/darwin-s-game-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/128008",
+        "dub": null,
+        "url": "https://www.animegg.org/darwin-s-game-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/128007",
+        "dub": null,
+        "url": "https://www.animegg.org/darwin-s-game-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/128006",
+        "dub": null,
+        "url": "https://www.animegg.org/darwin-s-game-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/128005",
+        "dub": null,
+        "url": "https://www.animegg.org/darwin-s-game-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/128002",
+        "dub": null,
+        "url": "https://www.animegg.org/darwin-s-game-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/128001",
+        "dub": null,
+        "url": "https://www.animegg.org/darwin-s-game-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/128003",
+        "dub": null,
+        "url": "https://www.animegg.org/darwin-s-game-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/128004",
+        "dub": null,
+        "url": "https://www.animegg.org/darwin-s-game-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/darwin-s-game-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/128009",
+        "dub": null,
+        "url": "https://www.animegg.org/darwin-s-game-dub-episode-11"
+      }
+    ]
   }
 ]
