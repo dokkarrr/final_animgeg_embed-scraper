@@ -47982,5 +47982,87 @@
         "url": "https://www.animegg.org/kochouki-wakaki-nobunaga-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8135,
+    "title": "Yami Shibai 14",
+    "animegg_url": "https://www.animegg.org/series/yami-shibai-season-14",
+    "mal_url": "https://myanimelist.net/anime/60410",
+    "mal_id": 60410,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/140402",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-season-14-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/140248",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-season-14-episode-12"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/140166",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-season-14-episode-11"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/140080",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-season-14-episode-10"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/139987",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-season-14-episode-9"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/139886",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-season-14-episode-8"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/139786",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-season-14-episode-7"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/139714",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-season-14-episode-6"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/139605",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-season-14-episode-5"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/139503",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-season-14-episode-4"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/139470",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-season-14-episode-3"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/139374",
+        "dub": null,
+        "url": "https://www.animegg.org/yami-shibai-season-14-episode-2"
+      }
+    ]
   }
 ]
