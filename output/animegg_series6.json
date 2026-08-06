@@ -84911,5 +84911,63 @@
     "mal_id": 49438,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 8798,
+    "title": "Lord of Wonderlands",
+    "animegg_url": "https://www.animegg.org/series/lord-of-wonderlands",
+    "mal_url": "https://myanimelist.net/anime/38985",
+    "mal_id": 38985,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/138464",
+        "dub": null,
+        "url": "https://www.animegg.org/lord-of-wonderlands-episode-1"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/138530",
+        "dub": null,
+        "url": "https://www.animegg.org/lord-of-wonderlands-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/138682",
+        "dub": null,
+        "url": "https://www.animegg.org/lord-of-wonderlands-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/138774",
+        "dub": null,
+        "url": "https://www.animegg.org/lord-of-wonderlands-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/lord-of-wonderlands-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/lord-of-wonderlands-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/139110",
+        "dub": null,
+        "url": "https://www.animegg.org/lord-of-wonderlands-episode-10"
+      },
+      {
+        "ep": 12,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/lord-of-wonderlands-episode-12"
+      }
+    ]
   }
 ]
