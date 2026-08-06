@@ -46844,5 +46844,93 @@
         "url": "https://www.animegg.org/mahoutsukai-precure-mirai-days-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8119,
+    "title": "D.Gray-man Hallow",
+    "animegg_url": "https://www.animegg.org/series/dgray-man-hallow-dub",
+    "mal_url": "https://myanimelist.net/anime/32370",
+    "mal_id": 32370,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/dgray-man-hallow-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/128459",
+        "dub": null,
+        "url": "https://www.animegg.org/dgray-man-hallow-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/128458",
+        "dub": null,
+        "url": "https://www.animegg.org/dgray-man-hallow-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/128457",
+        "dub": null,
+        "url": "https://www.animegg.org/dgray-man-hallow-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/128456",
+        "dub": null,
+        "url": "https://www.animegg.org/dgray-man-hallow-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/128455",
+        "dub": null,
+        "url": "https://www.animegg.org/dgray-man-hallow-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/128454",
+        "dub": null,
+        "url": "https://www.animegg.org/dgray-man-hallow-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/128453",
+        "dub": null,
+        "url": "https://www.animegg.org/dgray-man-hallow-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/127900",
+        "dub": null,
+        "url": "https://www.animegg.org/dgray-man-hallow-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/128463",
+        "dub": null,
+        "url": "https://www.animegg.org/dgray-man-hallow-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/128462",
+        "dub": null,
+        "url": "https://www.animegg.org/dgray-man-hallow-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/128461",
+        "dub": null,
+        "url": "https://www.animegg.org/dgray-man-hallow-dub-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/128460",
+        "dub": null,
+        "url": "https://www.animegg.org/dgray-man-hallow-dub-episode-13"
+      }
+    ]
   }
 ]
