@@ -88433,5 +88433,27 @@
         "url": "https://www.animegg.org/doraemon-movie-42-nobita-to-sora-no-utopia-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8920,
+    "title": "Grimm Kumikyoku",
+    "animegg_url": "https://www.animegg.org/series/grimm-kumikyoku",
+    "mal_url": "https://myanimelist.net/anime/49210",
+    "mal_id": 49210,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/133682",
+        "dub": null,
+        "url": "https://www.animegg.org/grimm-kumikyoku-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/133681",
+        "dub": null,
+        "url": "https://www.animegg.org/grimm-kumikyoku-episode-6"
+      }
+    ]
   }
 ]
