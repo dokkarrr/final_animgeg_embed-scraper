@@ -78238,5 +78238,75 @@
         "url": "https://www.animegg.org/anime-tenchou-movie-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8637,
+    "title": "Wu Ying Sanqian Dao 2",
+    "animegg_url": "https://www.animegg.org/series/wu-ying-sanqian-dao-2",
+    "mal_url": "https://myanimelist.net/anime/51457",
+    "mal_id": 51457,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/wu-ying-sanqian-dao-2-episode-50"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/wu-ying-sanqian-dao-2-episode-49"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/132870",
+        "dub": null,
+        "url": "https://www.animegg.org/wu-ying-sanqian-dao-2-episode-47"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/wu-ying-sanqian-dao-2-episode-46"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/wu-ying-sanqian-dao-2-episode-45"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/wu-ying-sanqian-dao-2-episode-43"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/wu-ying-sanqian-dao-2-episode-41"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/wu-ying-sanqian-dao-2-episode-40"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/wu-ying-sanqian-dao-2-episode-38"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/wu-ying-sanqian-dao-2-episode-37"
+      }
+    ]
   }
 ]
