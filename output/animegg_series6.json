@@ -73095,5 +73095,21 @@
         "url": "https://www.animegg.org/jikuu-tenshou-nazca-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8533,
+    "title": "Naruto Shippuden Movie 5: Blood Prison",
+    "animegg_url": "https://www.animegg.org/series/naruto-shippuden-movie-5-blood-prison",
+    "mal_url": "https://myanimelist.net/anime/10589",
+    "mal_id": 10589,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/121324",
+        "dub": null,
+        "url": "https://www.animegg.org/naruto-shippuden-movie-5-blood-prison-episode-1"
+      }
+    ]
   }
 ]
