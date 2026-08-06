@@ -81627,5 +81627,75 @@
     "mal_id": 61159,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 8712,
+    "title": "Aggressive Retsuko (ONA) 5th Season (Dub)",
+    "animegg_url": "https://www.animegg.org/series/aggressive-retsuko-ona-5th-season-dub",
+    "mal_url": "https://myanimelist.net/anime/37985",
+    "mal_id": 37985,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/aggressive-retsuko-ona-5th-season-dub-episode-10"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/aggressive-retsuko-ona-5th-season-dub-episode-9"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/aggressive-retsuko-ona-5th-season-dub-episode-8"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/aggressive-retsuko-ona-5th-season-dub-episode-7"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/aggressive-retsuko-ona-5th-season-dub-episode-6"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/aggressive-retsuko-ona-5th-season-dub-episode-5"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/aggressive-retsuko-ona-5th-season-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/aggressive-retsuko-ona-5th-season-dub-episode-3"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/aggressive-retsuko-ona-5th-season-dub-episode-2"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/aggressive-retsuko-ona-5th-season-dub-episode-1"
+      }
+    ]
   }
 ]
