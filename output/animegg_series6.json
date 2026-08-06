@@ -87938,5 +87938,45 @@
         "url": "https://www.animegg.org/azur-lane-queen-s-orders-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 8904,
+    "title": "Bastions",
+    "animegg_url": "https://www.animegg.org/series/bastions",
+    "mal_url": "https://myanimelist.net/anime/55305",
+    "mal_id": 55305,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/110660",
+        "dub": null,
+        "url": "https://www.animegg.org/bastions-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/110661",
+        "dub": null,
+        "url": "https://www.animegg.org/bastions-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/110662",
+        "dub": null,
+        "url": "https://www.animegg.org/bastions-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/110663",
+        "dub": null,
+        "url": "https://www.animegg.org/bastions-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/129782",
+        "dub": null,
+        "url": "https://www.animegg.org/bastions-episode-5"
+      }
+    ]
   }
 ]
