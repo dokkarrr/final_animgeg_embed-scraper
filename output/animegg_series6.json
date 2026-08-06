@@ -76697,5 +76697,21 @@
         "url": "https://www.animegg.org/gamera-rebirth-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 8602,
+    "title": "Koukaku Kidoutai: SAC_2045 - Jizoku Kanou Sensou",
+    "animegg_url": "https://www.animegg.org/series/ghost-in-the-shell-sac-2045---sustainable-war",
+    "mal_url": "https://myanimelist.net/anime/49402",
+    "mal_id": 49402,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2045,
+        "sub": "https://www.animegg.org/embed/104862",
+        "dub": null,
+        "url": "https://www.animegg.org/ghost-in-the-shell-sac-2045---sustainable-war-episode-1"
+      }
+    ]
   }
 ]
