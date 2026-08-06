@@ -56208,5 +56208,21 @@
         "url": "https://www.animegg.org/bu-xing-si-yuan-qi-episode-18"
       }
     ]
+  },
+  {
+    "serial_no": 8259,
+    "title": "Kakushigoto Movie",
+    "animegg_url": "https://www.animegg.org/series/kakushigoto-movie",
+    "mal_url": "https://myanimelist.net/anime/44586",
+    "mal_id": 44586,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/102476",
+        "dub": null,
+        "url": "https://www.animegg.org/kakushigoto-movie-episode-1"
+      }
+    ]
   }
 ]
