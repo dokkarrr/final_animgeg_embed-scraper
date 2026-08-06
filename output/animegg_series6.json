@@ -81378,5 +81378,21 @@
         "url": "https://www.animegg.org/hana-no-zundamaru-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 8705,
+    "title": "Bishoujo Senshi Sailor Moon Cosmos Movie",
+    "animegg_url": "https://www.animegg.org/series/bishoujo-senshi-sailor-moon-cosmos-movie",
+    "mal_url": "https://myanimelist.net/anime/51716",
+    "mal_id": 51716,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/bishoujo-senshi-sailor-moon-cosmos-movie-episode-1"
+      }
+    ]
   }
 ]
