@@ -43170,5 +43170,93 @@
         "url": "https://www.animegg.org/candidate-for-goddess-ova-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8067,
+    "title": "Momokuri (TV)",
+    "animegg_url": "https://www.animegg.org/series/momokuri-tv",
+    "mal_url": "https://myanimelist.net/anime/30014",
+    "mal_id": 30014,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/121761",
+        "dub": null,
+        "url": "https://www.animegg.org/momokuri-tv-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/121756",
+        "dub": null,
+        "url": "https://www.animegg.org/momokuri-tv-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/121754",
+        "dub": null,
+        "url": "https://www.animegg.org/momokuri-tv-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/121755",
+        "dub": null,
+        "url": "https://www.animegg.org/momokuri-tv-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/121753",
+        "dub": null,
+        "url": "https://www.animegg.org/momokuri-tv-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/121752",
+        "dub": null,
+        "url": "https://www.animegg.org/momokuri-tv-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/121751",
+        "dub": null,
+        "url": "https://www.animegg.org/momokuri-tv-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/121750",
+        "dub": null,
+        "url": "https://www.animegg.org/momokuri-tv-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/121749",
+        "dub": null,
+        "url": "https://www.animegg.org/momokuri-tv-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/121760",
+        "dub": null,
+        "url": "https://www.animegg.org/momokuri-tv-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/121759",
+        "dub": null,
+        "url": "https://www.animegg.org/momokuri-tv-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/121758",
+        "dub": null,
+        "url": "https://www.animegg.org/momokuri-tv-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/121757",
+        "dub": null,
+        "url": "https://www.animegg.org/momokuri-tv-episode-13"
+      }
+    ]
   }
 ]
