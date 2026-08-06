@@ -83964,5 +83964,51 @@
         "url": "https://www.animegg.org/thunder-3-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8770,
+    "title": "Sou Xuan Lu Zhi Chen Ling Ji",
+    "animegg_url": "https://www.animegg.org/series/sou-xuan-lu-zhi-chen-ling-ji",
+    "mal_url": "https://myanimelist.net/anime/44075",
+    "mal_id": 44075,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/117644",
+        "dub": null,
+        "url": "https://www.animegg.org/sou-xuan-lu-zhi-chen-ling-ji-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/117643",
+        "dub": null,
+        "url": "https://www.animegg.org/sou-xuan-lu-zhi-chen-ling-ji-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/117642",
+        "dub": null,
+        "url": "https://www.animegg.org/sou-xuan-lu-zhi-chen-ling-ji-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/117641",
+        "dub": null,
+        "url": "https://www.animegg.org/sou-xuan-lu-zhi-chen-ling-ji-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/117640",
+        "dub": null,
+        "url": "https://www.animegg.org/sou-xuan-lu-zhi-chen-ling-ji-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/117639",
+        "dub": null,
+        "url": "https://www.animegg.org/sou-xuan-lu-zhi-chen-ling-ji-episode-6"
+      }
+    ]
   }
 ]
