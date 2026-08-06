@@ -42159,5 +42159,87 @@
         "url": "https://www.animegg.org/future-card-buddyfight-battsu-all-star-fight-dub-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 8054,
+    "title": "Devidol!",
+    "animegg_url": "https://www.animegg.org/series/devidol",
+    "mal_url": "https://myanimelist.net/anime/38284",
+    "mal_id": 38284,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/127922",
+        "dub": null,
+        "url": "https://www.animegg.org/devidol-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/127918",
+        "dub": null,
+        "url": "https://www.animegg.org/devidol-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/127917",
+        "dub": null,
+        "url": "https://www.animegg.org/devidol-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/127916",
+        "dub": null,
+        "url": "https://www.animegg.org/devidol-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/127915",
+        "dub": null,
+        "url": "https://www.animegg.org/devidol-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/127914",
+        "dub": null,
+        "url": "https://www.animegg.org/devidol-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/127913",
+        "dub": null,
+        "url": "https://www.animegg.org/devidol-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/127912",
+        "dub": null,
+        "url": "https://www.animegg.org/devidol-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/127911",
+        "dub": null,
+        "url": "https://www.animegg.org/devidol-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/127921",
+        "dub": null,
+        "url": "https://www.animegg.org/devidol-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/127920",
+        "dub": null,
+        "url": "https://www.animegg.org/devidol-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/127919",
+        "dub": null,
+        "url": "https://www.animegg.org/devidol-episode-12"
+      }
+    ]
   }
 ]
