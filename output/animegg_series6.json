@@ -69342,5 +69342,51 @@
         "url": "https://www.animegg.org/peeping-life-tv-season-1--episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8469,
+    "title": "One Punch Man Specials (Dub)",
+    "animegg_url": "https://www.animegg.org/series/one-punch-man-specials-dub",
+    "mal_url": "https://myanimelist.net/anime/31772",
+    "mal_id": 31772,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/120715",
+        "dub": null,
+        "url": "https://www.animegg.org/one-punch-man-specials-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/120714",
+        "dub": null,
+        "url": "https://www.animegg.org/one-punch-man-specials-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/120713",
+        "dub": null,
+        "url": "https://www.animegg.org/one-punch-man-specials-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/120712",
+        "dub": null,
+        "url": "https://www.animegg.org/one-punch-man-specials-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/120711",
+        "dub": null,
+        "url": "https://www.animegg.org/one-punch-man-specials-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/120710",
+        "dub": null,
+        "url": "https://www.animegg.org/one-punch-man-specials-dub-episode-6"
+      }
+    ]
   }
 ]
