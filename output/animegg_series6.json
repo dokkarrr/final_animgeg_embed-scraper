@@ -83948,5 +83948,21 @@
         "url": "https://www.animegg.org/choujuu-kishin-dancougar-hakunetsu-no-shuushou-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 8769,
+    "title": "Thunder 3",
+    "animegg_url": "https://www.animegg.org/series/thunder-3",
+    "mal_url": "https://myanimelist.net/anime/63418",
+    "mal_id": 63418,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/146370",
+        "dub": null,
+        "url": "https://www.animegg.org/thunder-3-episode-1"
+      }
+    ]
   }
 ]
