@@ -34507,5 +34507,21 @@
         "url": "https://www.animegg.org/yuan-zun-s4-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 7943,
+    "title": "Haikyuu!! Movie 1: Owari to Hajimari",
+    "animegg_url": "https://www.animegg.org/series/haikyuu-movie-1-owari-to-hajimari",
+    "mal_url": "https://myanimelist.net/anime/29755",
+    "mal_id": 29755,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/126155",
+        "dub": null,
+        "url": "https://www.animegg.org/haikyuu-movie-1-owari-to-hajimari-episode-1"
+      }
+    ]
   }
 ]
