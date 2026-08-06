@@ -85885,5 +85885,21 @@
         "url": "https://www.animegg.org/chain-chronicle-haecceitas-no-hikari-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8826,
+    "title": "Chou Kidou Densetsu DinaGiga",
+    "animegg_url": "https://www.animegg.org/series/chou-kidou-densetsu-dinagiga",
+    "mal_url": "https://myanimelist.net/anime/2310",
+    "mal_id": 2310,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/99338",
+        "dub": null,
+        "url": "https://www.animegg.org/chou-kidou-densetsu-dinagiga-episode-2"
+      }
+    ]
   }
 ]
