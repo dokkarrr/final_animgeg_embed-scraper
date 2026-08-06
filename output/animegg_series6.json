@@ -88926,5 +88926,27 @@
         "url": "https://www.animegg.org/towa-no-quon-1-utakata-no-kaben-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8936,
+    "title": "Ai no Kusabi Ova",
+    "animegg_url": "https://www.animegg.org/series/ai-no-kusabi-ova",
+    "mal_url": "https://myanimelist.net/anime/719",
+    "mal_id": 719,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ai-no-kusabi-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ai-no-kusabi-ova-episode-2"
+      }
+    ]
   }
 ]
