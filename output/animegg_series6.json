@@ -84969,5 +84969,39 @@
         "url": "https://www.animegg.org/lord-of-wonderlands-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8799,
+    "title": "Darker Than Black Gaiden",
+    "animegg_url": "https://www.animegg.org/series/darker-than-black-gaiden",
+    "mal_url": "https://myanimelist.net/anime/7338",
+    "mal_id": 7338,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/128060",
+        "dub": null,
+        "url": "https://www.animegg.org/darker-than-black-gaiden-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/128059",
+        "dub": null,
+        "url": "https://www.animegg.org/darker-than-black-gaiden-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/128058",
+        "dub": null,
+        "url": "https://www.animegg.org/darker-than-black-gaiden-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/128057",
+        "dub": null,
+        "url": "https://www.animegg.org/darker-than-black-gaiden-episode-4"
+      }
+    ]
   }
 ]
