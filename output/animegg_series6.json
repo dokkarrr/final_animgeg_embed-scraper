@@ -88995,5 +88995,27 @@
         "url": "https://www.animegg.org/gundam-g-no-reconguista-movie-iv---gekitou-ni-sakebu-ai-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8940,
+    "title": "Rocket Girls",
+    "animegg_url": "https://www.animegg.org/series/rocket-girls",
+    "mal_url": "https://myanimelist.net/anime/1942",
+    "mal_id": 1942,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/104723",
+        "dub": null,
+        "url": "https://www.animegg.org/rocket-girls-episode-6"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/104722",
+        "dub": null,
+        "url": "https://www.animegg.org/rocket-girls-episode-12"
+      }
+    ]
   }
 ]
