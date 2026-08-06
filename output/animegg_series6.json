@@ -87837,5 +87837,27 @@
     "mal_id": 14093,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 8898,
+    "title": "Magilumiere Magical Girls Inc.",
+    "animegg_url": "https://www.animegg.org/series/magilumiere-magical-girls-inc",
+    "mal_url": "https://myanimelist.net/anime/60552",
+    "mal_id": 60552,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/139938",
+        "dub": null,
+        "url": "https://www.animegg.org/magilumiere-magical-girls-inc-episode-1"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/139941",
+        "dub": null,
+        "url": "https://www.animegg.org/magilumiere-magical-girls-inc-episode-12"
+      }
+    ]
   }
 ]
