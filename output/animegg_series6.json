@@ -84690,5 +84690,51 @@
         "url": "https://www.animegg.org/ling-yu---spirit-realm-s2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8792,
+    "title": "TV Yarou Nanaana: Kaibutsu Kraken wo Oe!",
+    "animegg_url": "https://www.animegg.org/series/tv-yarou-nanaana-kaibutsu-kraken-wo-oe",
+    "mal_url": "https://myanimelist.net/anime/41401",
+    "mal_id": 41401,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/116578",
+        "dub": null,
+        "url": "https://www.animegg.org/tv-yarou-nanaana-kaibutsu-kraken-wo-oe-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/116579",
+        "dub": null,
+        "url": "https://www.animegg.org/tv-yarou-nanaana-kaibutsu-kraken-wo-oe-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/116577",
+        "dub": null,
+        "url": "https://www.animegg.org/tv-yarou-nanaana-kaibutsu-kraken-wo-oe-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/116576",
+        "dub": null,
+        "url": "https://www.animegg.org/tv-yarou-nanaana-kaibutsu-kraken-wo-oe-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/116575",
+        "dub": null,
+        "url": "https://www.animegg.org/tv-yarou-nanaana-kaibutsu-kraken-wo-oe-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/116574",
+        "dub": null,
+        "url": "https://www.animegg.org/tv-yarou-nanaana-kaibutsu-kraken-wo-oe-episode-6"
+      }
+    ]
   }
 ]
