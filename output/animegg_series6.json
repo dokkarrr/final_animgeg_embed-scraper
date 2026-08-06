@@ -76569,5 +76569,87 @@
         "url": "https://www.animegg.org/5-centimeters-per-second-dub-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8600,
+    "title": "Video Senshi Lezarion (Dub)",
+    "animegg_url": "https://www.animegg.org/series/video-senshi-lezarion-dub",
+    "mal_url": "https://myanimelist.net/anime/6672",
+    "mal_id": 6672,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/video-senshi-lezarion-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/video-senshi-lezarion-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/video-senshi-lezarion-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/video-senshi-lezarion-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/video-senshi-lezarion-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/115755",
+        "dub": null,
+        "url": "https://www.animegg.org/video-senshi-lezarion-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/video-senshi-lezarion-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/video-senshi-lezarion-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/video-senshi-lezarion-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/video-senshi-lezarion-dub-episode-10"
+      },
+      {
+        "ep": 16,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/video-senshi-lezarion-dub-episode-16"
+      },
+      {
+        "ep": 17,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/video-senshi-lezarion-dub-episode-17"
+      }
+    ]
   }
 ]
