@@ -60304,5 +60304,27 @@
         "url": "https://www.animegg.org/shi-fang-wu-sheng-episode-16"
       }
     ]
+  },
+  {
+    "serial_no": 8324,
+    "title": "Recommendations from Iwamoto-Senpai",
+    "animegg_url": "https://www.animegg.org/series/recommendations-from-iwamoto-senpai",
+    "mal_url": "https://myanimelist.net/anime/63324",
+    "mal_id": 63324,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/146313",
+        "dub": null,
+        "url": "https://www.animegg.org/recommendations-from-iwamoto-senpai-episode-1"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/146609",
+        "dub": null,
+        "url": "https://www.animegg.org/recommendations-from-iwamoto-senpai-episode-5"
+      }
+    ]
   }
 ]
