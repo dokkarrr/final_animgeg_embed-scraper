@@ -25180,5 +25180,21 @@
         "url": "https://www.animegg.org/jing-shuang-cheng-2nd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 7822,
+    "title": "Wonder Egg Priority Special",
+    "animegg_url": "https://www.animegg.org/series/wonder-egg-priority-special",
+    "mal_url": "https://myanimelist.net/anime/48614",
+    "mal_id": 48614,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/102171",
+        "dub": null,
+        "url": "https://www.animegg.org/wonder-egg-priority-special-episode-1"
+      }
+    ]
   }
 ]
