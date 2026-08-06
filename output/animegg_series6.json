@@ -31035,5 +31035,51 @@
         "url": "https://www.animegg.org/ulysses-jehanne-darc-to-renkin-no-kishi-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 7900,
+    "title": "Terminator 0",
+    "animegg_url": "https://www.animegg.org/series/terminator-0",
+    "mal_url": "https://myanimelist.net/anime/59390",
+    "mal_id": 59390,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/136645",
+        "dub": null,
+        "url": "https://www.animegg.org/terminator-0-episode-8"
+      },
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/136643",
+        "dub": null,
+        "url": "https://www.animegg.org/terminator-0-episode-7"
+      },
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/136644",
+        "dub": null,
+        "url": "https://www.animegg.org/terminator-0-episode-5"
+      },
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/136629",
+        "dub": null,
+        "url": "https://www.animegg.org/terminator-0-episode-4"
+      },
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/136630",
+        "dub": null,
+        "url": "https://www.animegg.org/terminator-0-episode-2"
+      },
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/136631",
+        "dub": null,
+        "url": "https://www.animegg.org/terminator-0-episode-1"
+      }
+    ]
   }
 ]
