@@ -89244,5 +89244,21 @@
         "url": "https://www.animegg.org/meitantei-conan-keisatsu-gakkou-hen-wild-police-story---case-furuya-rei-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8950,
+    "title": "Doraemon Movie 43: Nobita no Chikyuu Symphony",
+    "animegg_url": "https://www.animegg.org/series/doraemon-movie-43-nobita-no-chikyuu-symphony",
+    "mal_url": "https://myanimelist.net/anime/55874",
+    "mal_id": 55874,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 43,
+        "sub": "https://www.animegg.org/embed/138826",
+        "dub": null,
+        "url": "https://www.animegg.org/doraemon-movie-43-nobita-no-chikyuu-symphony-episode-1"
+      }
+    ]
   }
 ]
