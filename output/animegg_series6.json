@@ -86799,5 +86799,39 @@
         "url": "https://www.animegg.org/pokemon-horizons-the-search-for-laqua-episode-123"
       }
     ]
+  },
+  {
+    "serial_no": 8856,
+    "title": "Petshop of Horrors",
+    "animegg_url": "https://www.animegg.org/series/petshop-of-horrors",
+    "mal_url": "https://myanimelist.net/anime/326",
+    "mal_id": 326,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/119951",
+        "dub": null,
+        "url": "https://www.animegg.org/petshop-of-horrors-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/119950",
+        "dub": null,
+        "url": "https://www.animegg.org/petshop-of-horrors-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/119949",
+        "dub": null,
+        "url": "https://www.animegg.org/petshop-of-horrors-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/119948",
+        "dub": null,
+        "url": "https://www.animegg.org/petshop-of-horrors-episode-4"
+      }
+    ]
   }
 ]
