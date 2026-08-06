@@ -47592,5 +47592,27 @@
         "url": "https://www.animegg.org/hora-mimi-ga-mieteru-yo-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8129,
+    "title": "Youkai Watch♪ (2021)",
+    "animegg_url": "https://www.animegg.org/series/youkai-watch-2021",
+    "mal_url": "https://myanimelist.net/anime/19157",
+    "mal_id": 19157,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 2021,
+        "sub": "https://www.animegg.org/embed/130232",
+        "dub": null,
+        "url": "https://www.animegg.org/youkai-watch-2021-episode-2"
+      },
+      {
+        "ep": 2021,
+        "sub": "https://www.animegg.org/embed/130231",
+        "dub": null,
+        "url": "https://www.animegg.org/youkai-watch-2021-episode-1"
+      }
+    ]
   }
 ]
