@@ -135374,5 +135374,21 @@
         "url": "https://www.animegg.org/altered-carbon-resleeved-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 7045,
+    "title": "Osomatsu-san Movie",
+    "animegg_url": "https://www.animegg.org/series/osomatsu-san-movie",
+    "mal_url": "https://myanimelist.net/anime/38201",
+    "mal_id": 38201,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/96950",
+        "dub": null,
+        "url": "https://www.animegg.org/osomatsu-san-movie-episode-1"
+      }
+    ]
   }
 ]
