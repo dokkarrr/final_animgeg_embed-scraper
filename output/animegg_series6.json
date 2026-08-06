@@ -68294,5 +68294,51 @@
         "url": "https://www.animegg.org/machine-doll-wa-kizutsukanai-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8453,
+    "title": "B: The Beginning Succession",
+    "animegg_url": "https://www.animegg.org/series/b-the-beginning-succession-dub",
+    "mal_url": "https://myanimelist.net/anime/37994",
+    "mal_id": 37994,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/109957",
+        "dub": null,
+        "url": "https://www.animegg.org/b-the-beginning-succession-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/109958",
+        "dub": null,
+        "url": "https://www.animegg.org/b-the-beginning-succession-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/109959",
+        "dub": null,
+        "url": "https://www.animegg.org/b-the-beginning-succession-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/109960",
+        "dub": null,
+        "url": "https://www.animegg.org/b-the-beginning-succession-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/109961",
+        "dub": null,
+        "url": "https://www.animegg.org/b-the-beginning-succession-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/109962",
+        "dub": null,
+        "url": "https://www.animegg.org/b-the-beginning-succession-dub-episode-6"
+      }
+    ]
   }
 ]
