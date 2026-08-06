@@ -37848,5 +37848,21 @@
     "mal_id": 2971,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 7990,
+    "title": "Eiga Daisuki Pompo-san (Movie)",
+    "animegg_url": "https://www.animegg.org/series/eiga-daisuki-pompo-san-movie",
+    "mal_url": "https://myanimelist.net/anime/35298",
+    "mal_id": 35298,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/103701",
+        "dub": null,
+        "url": "https://www.animegg.org/eiga-daisuki-pompo-san-movie-episode-1"
+      }
+    ]
   }
 ]
