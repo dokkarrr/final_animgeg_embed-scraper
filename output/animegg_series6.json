@@ -60957,5 +60957,69 @@
         "url": "https://www.animegg.org/xingji-yi-you-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8336,
+    "title": "Blue miburo season 2",
+    "animegg_url": "https://www.animegg.org/series/blue-miburo-season-2",
+    "mal_url": "https://myanimelist.net/anime/61333",
+    "mal_id": 61333,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/145268",
+        "dub": null,
+        "url": "https://www.animegg.org/blue-miburo-season-2-episode-14"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/145180",
+        "dub": null,
+        "url": "https://www.animegg.org/blue-miburo-season-2-episode-13"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/145068",
+        "dub": null,
+        "url": "https://www.animegg.org/blue-miburo-season-2-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/144963",
+        "dub": null,
+        "url": "https://www.animegg.org/blue-miburo-season-2-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/144854",
+        "dub": null,
+        "url": "https://www.animegg.org/blue-miburo-season-2-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/144744",
+        "dub": null,
+        "url": "https://www.animegg.org/blue-miburo-season-2-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/144640",
+        "dub": null,
+        "url": "https://www.animegg.org/blue-miburo-season-2-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/144544",
+        "dub": null,
+        "url": "https://www.animegg.org/blue-miburo-season-2-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/144444",
+        "dub": null,
+        "url": "https://www.animegg.org/blue-miburo-season-2-episode-6"
+      }
+    ]
   }
 ]
