@@ -80013,5 +80013,51 @@
         "url": "https://www.animegg.org/bungaku-shoujo-kyou-no-oyatsu-hatsukoi-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8675,
+    "title": "Queen’s Blade: Rurou no Senshi OVA",
+    "animegg_url": "https://www.animegg.org/series/queen-s-blade-rurou-no-senshi-ova",
+    "mal_url": "https://myanimelist.net/anime/4719",
+    "mal_id": 4719,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/119226",
+        "dub": null,
+        "url": "https://www.animegg.org/queen-s-blade-rurou-no-senshi-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/119225",
+        "dub": null,
+        "url": "https://www.animegg.org/queen-s-blade-rurou-no-senshi-ova-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/119224",
+        "dub": null,
+        "url": "https://www.animegg.org/queen-s-blade-rurou-no-senshi-ova-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/119223",
+        "dub": null,
+        "url": "https://www.animegg.org/queen-s-blade-rurou-no-senshi-ova-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/119222",
+        "dub": null,
+        "url": "https://www.animegg.org/queen-s-blade-rurou-no-senshi-ova-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/119221",
+        "dub": null,
+        "url": "https://www.animegg.org/queen-s-blade-rurou-no-senshi-ova-episode-6"
+      }
+    ]
   }
 ]
