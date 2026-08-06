@@ -88551,5 +88551,57 @@
         "url": "https://www.animegg.org/happy-kappi-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 8924,
+    "title": "Kaeru no Pickles: Kimochi no Iro",
+    "animegg_url": "https://www.animegg.org/series/kaeru-no-pickles-kimochi-no-iro",
+    "mal_url": "https://myanimelist.net/anime/42717",
+    "mal_id": 42717,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/124179",
+        "dub": null,
+        "url": "https://www.animegg.org/kaeru-no-pickles-kimochi-no-iro-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/124180",
+        "dub": null,
+        "url": "https://www.animegg.org/kaeru-no-pickles-kimochi-no-iro-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/124178",
+        "dub": null,
+        "url": "https://www.animegg.org/kaeru-no-pickles-kimochi-no-iro-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/124176",
+        "dub": null,
+        "url": "https://www.animegg.org/kaeru-no-pickles-kimochi-no-iro-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/124177",
+        "dub": null,
+        "url": "https://www.animegg.org/kaeru-no-pickles-kimochi-no-iro-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/124174",
+        "dub": null,
+        "url": "https://www.animegg.org/kaeru-no-pickles-kimochi-no-iro-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/124175",
+        "dub": null,
+        "url": "https://www.animegg.org/kaeru-no-pickles-kimochi-no-iro-episode-7"
+      }
+    ]
   }
 ]
