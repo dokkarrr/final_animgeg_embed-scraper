@@ -76553,5 +76553,21 @@
         "url": "https://www.animegg.org/da-zhu-zai-s5-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8599,
+    "title": "5 Centimeters per Second",
+    "animegg_url": "https://www.animegg.org/series/5-centimeters-per-second-dub",
+    "mal_url": "https://myanimelist.net/anime/1689",
+    "mal_id": 1689,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/109182",
+        "dub": null,
+        "url": "https://www.animegg.org/5-centimeters-per-second-dub-episode-1"
+      }
+    ]
   }
 ]
