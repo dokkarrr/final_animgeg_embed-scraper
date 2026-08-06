@@ -87019,5 +87019,21 @@
         "url": "https://www.animegg.org/ichiban-ushiro-no-daimaou-ova-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 8865,
+    "title": "Gokujo.: Souda Onsen ni Ikou!",
+    "animegg_url": "https://www.animegg.org/series/gokujo-souda-onsen-ni-ikou",
+    "mal_url": "https://myanimelist.net/anime/19431",
+    "mal_id": 19431,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/126321",
+        "dub": null,
+        "url": "https://www.animegg.org/gokujo-souda-onsen-ni-ikou-episode-1"
+      }
+    ]
   }
 ]
