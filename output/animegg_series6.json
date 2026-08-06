@@ -80597,5 +80597,63 @@
         "url": "https://www.animegg.org/chang-jian-fengyun-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8686,
+    "title": "Xuwu Bianjing",
+    "animegg_url": "https://www.animegg.org/series/xuwu-bianjing",
+    "mal_url": "https://myanimelist.net/anime/58487",
+    "mal_id": 58487,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/133632",
+        "dub": null,
+        "url": "https://www.animegg.org/xuwu-bianjing-episode-1"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/133927",
+        "dub": null,
+        "url": "https://www.animegg.org/xuwu-bianjing-episode-4"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/134185",
+        "dub": null,
+        "url": "https://www.animegg.org/xuwu-bianjing-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/134266",
+        "dub": null,
+        "url": "https://www.animegg.org/xuwu-bianjing-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/134527",
+        "dub": null,
+        "url": "https://www.animegg.org/xuwu-bianjing-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/134813",
+        "dub": null,
+        "url": "https://www.animegg.org/xuwu-bianjing-episode-9"
+      },
+      {
+        "ep": 12,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/xuwu-bianjing-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/135473",
+        "dub": null,
+        "url": "https://www.animegg.org/xuwu-bianjing-episode-13"
+      }
+    ]
   }
 ]
