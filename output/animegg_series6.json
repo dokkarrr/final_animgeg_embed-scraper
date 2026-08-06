@@ -53357,5 +53357,87 @@
         "url": "https://www.animegg.org/qian-cong-shou-episode-14"
       }
     ]
+  },
+  {
+    "serial_no": 8215,
+    "title": "Ladyspo",
+    "animegg_url": "https://www.animegg.org/series/ladyspo",
+    "mal_url": "https://myanimelist.net/anime/37448",
+    "mal_id": 37448,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/123357",
+        "dub": null,
+        "url": "https://www.animegg.org/ladyspo-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/123354",
+        "dub": null,
+        "url": "https://www.animegg.org/ladyspo-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/123352",
+        "dub": null,
+        "url": "https://www.animegg.org/ladyspo-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/123351",
+        "dub": null,
+        "url": "https://www.animegg.org/ladyspo-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/123350",
+        "dub": null,
+        "url": "https://www.animegg.org/ladyspo-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/123349",
+        "dub": null,
+        "url": "https://www.animegg.org/ladyspo-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/123348",
+        "dub": null,
+        "url": "https://www.animegg.org/ladyspo-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/123347",
+        "dub": null,
+        "url": "https://www.animegg.org/ladyspo-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/123346",
+        "dub": null,
+        "url": "https://www.animegg.org/ladyspo-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/123356",
+        "dub": null,
+        "url": "https://www.animegg.org/ladyspo-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/123355",
+        "dub": null,
+        "url": "https://www.animegg.org/ladyspo-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/123353",
+        "dub": null,
+        "url": "https://www.animegg.org/ladyspo-episode-12"
+      }
+    ]
   }
 ]
