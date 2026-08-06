@@ -87884,5 +87884,21 @@
     "mal_id": 7193,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 8901,
+    "title": "Doraemon Movie 37: Nobita no Nankyoku Kachikochi Daibouken",
+    "animegg_url": "https://www.animegg.org/series/doraemon-movie-37-nobita-no-nankyoku-kachikochi-daibouken",
+    "mal_url": "https://myanimelist.net/anime/33672",
+    "mal_id": 33672,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 37,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/doraemon-movie-37-nobita-no-nankyoku-kachikochi-daibouken-episode-1"
+      }
+    ]
   }
 ]
