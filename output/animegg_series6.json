@@ -85580,5 +85580,27 @@
         "url": "https://www.animegg.org/carole-tuesday-mini-series-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 8817,
+    "title": "Sukuwareru Ramiris",
+    "animegg_url": "https://www.animegg.org/series/sukuwareru-ramiris",
+    "mal_url": "https://myanimelist.net/anime/51309",
+    "mal_id": 51309,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/sukuwareru-ramiris-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/sukuwareru-ramiris-episode-2"
+      }
+    ]
   }
 ]
