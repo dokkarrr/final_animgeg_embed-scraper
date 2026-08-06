@@ -43812,5 +43812,21 @@
         "url": "https://www.animegg.org/cannon-busters-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8076,
+    "title": "One Piece Movie 1: The Great Gold Pirate",
+    "animegg_url": "https://www.animegg.org/series/one-piece-movie-1-the-great-gold-pirate",
+    "mal_url": "https://myanimelist.net/anime/31490",
+    "mal_id": 31490,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/120744",
+        "dub": null,
+        "url": "https://www.animegg.org/one-piece-movie-1-the-great-gold-pirate-episode-1"
+      }
+    ]
   }
 ]
