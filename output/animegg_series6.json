@@ -49773,5 +49773,21 @@
         "url": "https://www.animegg.org/galaxy-angel-rune-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 8160,
+    "title": "Kamiarizuki no Kodomo",
+    "animegg_url": "https://www.animegg.org/series/kamiarizuki-no-kodomo",
+    "mal_url": "https://myanimelist.net/anime/41877",
+    "mal_id": 41877,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/103970",
+        "dub": null,
+        "url": "https://www.animegg.org/kamiarizuki-no-kodomo-episode-1"
+      }
+    ]
   }
 ]
