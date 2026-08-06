@@ -9718,5 +9718,39 @@
         "url": "https://www.animegg.org/fategrand-order-fujimaru-ritsuka-wa-wakaranai-episode-33"
       }
     ]
+  },
+  {
+    "serial_no": 7621,
+    "title": "Crowned in a Hundred Days",
+    "animegg_url": "https://www.animegg.org/series/crowned-in-a-hundred-days",
+    "mal_url": "https://myanimelist.net/anime/62957",
+    "mal_id": 62957,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/146348",
+        "dub": null,
+        "url": "https://www.animegg.org/crowned-in-a-hundred-days-episode-4"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/146467",
+        "dub": null,
+        "url": "https://www.animegg.org/crowned-in-a-hundred-days-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/146518",
+        "dub": null,
+        "url": "https://www.animegg.org/crowned-in-a-hundred-days-episode-9"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/146584",
+        "dub": null,
+        "url": "https://www.animegg.org/crowned-in-a-hundred-days-episode-11"
+      }
+    ]
   }
 ]
