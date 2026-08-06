@@ -12735,5 +12735,39 @@
         "url": "https://www.animegg.org/unbelievable-space-love-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 7660,
+    "title": "Journey to Bloom",
+    "animegg_url": "https://www.animegg.org/series/journey-to-bloom",
+    "mal_url": "https://myanimelist.net/anime/56830",
+    "mal_id": 56830,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/131677",
+        "dub": null,
+        "url": "https://www.animegg.org/journey-to-bloom-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/131676",
+        "dub": null,
+        "url": "https://www.animegg.org/journey-to-bloom-episode-2"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/131900",
+        "dub": null,
+        "url": "https://www.animegg.org/journey-to-bloom-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/131989",
+        "dub": null,
+        "url": "https://www.animegg.org/journey-to-bloom-episode-5"
+      }
+    ]
   }
 ]
