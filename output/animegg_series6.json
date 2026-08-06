@@ -86888,5 +86888,21 @@
     "mal_id": 7058,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 8859,
+    "title": "Gintama: The Final",
+    "animegg_url": "https://www.animegg.org/series/gintama-the-final-dub",
+    "mal_url": "https://myanimelist.net/anime/39486",
+    "mal_id": 39486,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/126337",
+        "dub": null,
+        "url": "https://www.animegg.org/gintama-the-final-dub-episode-1"
+      }
+    ]
   }
 ]
