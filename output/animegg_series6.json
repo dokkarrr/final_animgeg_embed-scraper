@@ -49871,5 +49871,21 @@
         "url": "https://www.animegg.org/the-rise-of-the-weak-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8162,
+    "title": "Suzume no Tojimari (Dub)",
+    "animegg_url": "https://www.animegg.org/series/suzume-no-tojimari-dub",
+    "mal_url": "https://myanimelist.net/anime/50594",
+    "mal_id": 50594,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/suzume-no-tojimari-dub-episode-1"
+      }
+    ]
   }
 ]
