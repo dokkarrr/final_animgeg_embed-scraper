@@ -89316,5 +89316,39 @@
         "url": "https://www.animegg.org/the-siamese-first-mission-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8953,
+    "title": "Kamen no Ninja Akakage",
+    "animegg_url": "https://www.animegg.org/series/kamen-no-ninja-akakage",
+    "mal_url": "https://myanimelist.net/anime/13769",
+    "mal_id": 13769,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/123714",
+        "dub": null,
+        "url": "https://www.animegg.org/kamen-no-ninja-akakage-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/123713",
+        "dub": null,
+        "url": "https://www.animegg.org/kamen-no-ninja-akakage-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/123712",
+        "dub": null,
+        "url": "https://www.animegg.org/kamen-no-ninja-akakage-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/123711",
+        "dub": null,
+        "url": "https://www.animegg.org/kamen-no-ninja-akakage-episode-4"
+      }
+    ]
   }
 ]
