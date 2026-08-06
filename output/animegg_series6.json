@@ -86920,5 +86920,51 @@
         "url": "https://www.animegg.org/majokko-tickle-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 8861,
+    "title": "Ultraman Season 2 (Dub)",
+    "animegg_url": "https://www.animegg.org/series/ultraman-season-2-dub",
+    "mal_url": "https://myanimelist.net/anime/37806",
+    "mal_id": 37806,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/116012",
+        "dub": null,
+        "url": "https://www.animegg.org/ultraman-season-2-dub-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/116013",
+        "dub": null,
+        "url": "https://www.animegg.org/ultraman-season-2-dub-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/116014",
+        "dub": null,
+        "url": "https://www.animegg.org/ultraman-season-2-dub-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/116015",
+        "dub": null,
+        "url": "https://www.animegg.org/ultraman-season-2-dub-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/116016",
+        "dub": null,
+        "url": "https://www.animegg.org/ultraman-season-2-dub-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/116017",
+        "dub": null,
+        "url": "https://www.animegg.org/ultraman-season-2-dub-episode-1"
+      }
+    ]
   }
 ]
