@@ -90283,5 +90283,33 @@
     "mal_id": 92,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 8989,
+    "title": "Trapped in a dating sim the world of otome games is tough for mobs season 2",
+    "animegg_url": "https://www.animegg.org/series/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs-season-2",
+    "mal_url": "https://myanimelist.net/anime/50461",
+    "mal_id": 50461,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs-season-2-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/146598",
+        "dub": null,
+        "url": "https://www.animegg.org/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs-season-2-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/146528",
+        "dub": "https://www.animegg.org/embed/146530",
+        "url": "https://www.animegg.org/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs-season-2-episode-1"
+      }
+    ]
   }
 ]
