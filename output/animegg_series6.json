@@ -28619,5 +28619,21 @@
         "url": "https://www.animegg.org/feng-wei-ying-xiong-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 7866,
+    "title": "Alice in Deadly School",
+    "animegg_url": "https://www.animegg.org/series/alice-in-deadly-school",
+    "mal_url": "https://myanimelist.net/anime/33839",
+    "mal_id": 33839,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/101333",
+        "dub": null,
+        "url": "https://www.animegg.org/alice-in-deadly-school-episode-1"
+      }
+    ]
   }
 ]
