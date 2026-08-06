@@ -88084,5 +88084,21 @@
         "url": "https://www.animegg.org/naruto-shippuden-movie-4-the-lost-tower-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8909,
+    "title": "Whisper of the Heart (Dub)",
+    "animegg_url": "https://www.animegg.org/series/whisper-of-the-heart-dub",
+    "mal_url": "https://myanimelist.net/anime/585",
+    "mal_id": 585,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/114154",
+        "dub": null,
+        "url": "https://www.animegg.org/whisper-of-the-heart-dub-episode-1"
+      }
+    ]
   }
 ]
