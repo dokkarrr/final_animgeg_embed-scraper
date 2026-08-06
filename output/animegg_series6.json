@@ -79226,5 +79226,75 @@
     "mal_id": 10920,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 8658,
+    "title": "Chang Jian Feng Yun",
+    "animegg_url": "https://www.animegg.org/series/chang-jian-feng-yun",
+    "mal_url": "https://myanimelist.net/anime/45557",
+    "mal_id": 45557,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/128671",
+        "dub": null,
+        "url": "https://www.animegg.org/chang-jian-feng-yun-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/128670",
+        "dub": null,
+        "url": "https://www.animegg.org/chang-jian-feng-yun-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/128669",
+        "dub": null,
+        "url": "https://www.animegg.org/chang-jian-feng-yun-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/128668",
+        "dub": null,
+        "url": "https://www.animegg.org/chang-jian-feng-yun-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/chang-jian-feng-yun-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/chang-jian-feng-yun-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/chang-jian-feng-yun-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/chang-jian-feng-yun-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/chang-jian-feng-yun-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/chang-jian-feng-yun-episode-10"
+      }
+    ]
   }
 ]
