@@ -78833,5 +78833,51 @@
         "url": "https://www.animegg.org/kakegurui-twin-dub-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 8648,
+    "title": "Ladies Versus Butlers Special",
+    "animegg_url": "https://www.animegg.org/series/ladies-versus-butlers-special",
+    "mal_url": "https://myanimelist.net/anime/8302",
+    "mal_id": 8302,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/123370",
+        "dub": null,
+        "url": "https://www.animegg.org/ladies-versus-butlers-special-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/123369",
+        "dub": null,
+        "url": "https://www.animegg.org/ladies-versus-butlers-special-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/123368",
+        "dub": null,
+        "url": "https://www.animegg.org/ladies-versus-butlers-special-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/123367",
+        "dub": null,
+        "url": "https://www.animegg.org/ladies-versus-butlers-special-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/123366",
+        "dub": null,
+        "url": "https://www.animegg.org/ladies-versus-butlers-special-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/123365",
+        "dub": null,
+        "url": "https://www.animegg.org/ladies-versus-butlers-special-episode-6"
+      }
+    ]
   }
 ]
