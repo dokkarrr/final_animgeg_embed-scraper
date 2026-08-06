@@ -24490,5 +24490,21 @@
         "url": "https://www.animegg.org/san-ti-episode-15"
       }
     ]
+  },
+  {
+    "serial_no": 7813,
+    "title": "Youjo Shachou",
+    "animegg_url": "https://www.animegg.org/series/youjo-shachou",
+    "mal_url": "https://myanimelist.net/anime/43001",
+    "mal_id": 43001,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/100381",
+        "dub": null,
+        "url": "https://www.animegg.org/youjo-shachou-episode-1"
+      }
+    ]
   }
 ]
