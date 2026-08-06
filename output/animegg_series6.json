@@ -46345,5 +46345,69 @@
         "url": "https://www.animegg.org/psycho-pass-extended-edition-episode-11"
       }
     ]
+  },
+  {
+    "serial_no": 8111,
+    "title": "T.P BON Season 2",
+    "animegg_url": "https://www.animegg.org/series/tp-bon-season-2",
+    "mal_url": "https://myanimelist.net/anime/59274",
+    "mal_id": 59274,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/135663",
+        "dub": null,
+        "url": "https://www.animegg.org/tp-bon-season-2-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/135664",
+        "dub": null,
+        "url": "https://www.animegg.org/tp-bon-season-2-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/135661",
+        "dub": null,
+        "url": "https://www.animegg.org/tp-bon-season-2-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/135662",
+        "dub": null,
+        "url": "https://www.animegg.org/tp-bon-season-2-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/135660",
+        "dub": null,
+        "url": "https://www.animegg.org/tp-bon-season-2-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/135658",
+        "dub": null,
+        "url": "https://www.animegg.org/tp-bon-season-2-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/135659",
+        "dub": null,
+        "url": "https://www.animegg.org/tp-bon-season-2-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/135657",
+        "dub": null,
+        "url": "https://www.animegg.org/tp-bon-season-2-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/135649",
+        "dub": null,
+        "url": "https://www.animegg.org/tp-bon-season-2-episode-1"
+      }
+    ]
   }
 ]
