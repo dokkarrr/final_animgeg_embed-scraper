@@ -77575,5 +77575,51 @@
         "url": "https://www.animegg.org/maps-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 8621,
+    "title": "Queen's Blade: Utsukushiki Toushi-tachi",
+    "animegg_url": "https://www.animegg.org/series/queen-s-blade-utsukushiki-toushi-tachi",
+    "mal_url": "https://myanimelist.net/anime/8456",
+    "mal_id": 8456,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/119202",
+        "dub": null,
+        "url": "https://www.animegg.org/queen-s-blade-utsukushiki-toushi-tachi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/119201",
+        "dub": null,
+        "url": "https://www.animegg.org/queen-s-blade-utsukushiki-toushi-tachi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/119200",
+        "dub": null,
+        "url": "https://www.animegg.org/queen-s-blade-utsukushiki-toushi-tachi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/119199",
+        "dub": null,
+        "url": "https://www.animegg.org/queen-s-blade-utsukushiki-toushi-tachi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/119198",
+        "dub": null,
+        "url": "https://www.animegg.org/queen-s-blade-utsukushiki-toushi-tachi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/119197",
+        "dub": null,
+        "url": "https://www.animegg.org/queen-s-blade-utsukushiki-toushi-tachi-episode-6"
+      }
+    ]
   }
 ]
