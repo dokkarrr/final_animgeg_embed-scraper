@@ -21925,5 +21925,51 @@
         "url": "https://www.animegg.org/stand-my-heroes-piece-of-truth-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 7782,
+    "title": "JoJo no Kimyou na Bouken (1993)",
+    "animegg_url": "https://www.animegg.org/series/jojo-no-kimyou-na-bouken-1993",
+    "mal_url": "https://myanimelist.net/anime/37991",
+    "mal_id": 37991,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1993,
+        "sub": "https://www.animegg.org/embed/124421",
+        "dub": null,
+        "url": "https://www.animegg.org/jojo-no-kimyou-na-bouken-1993-episode-6"
+      },
+      {
+        "ep": 1993,
+        "sub": "https://www.animegg.org/embed/124422",
+        "dub": null,
+        "url": "https://www.animegg.org/jojo-no-kimyou-na-bouken-1993-episode-5"
+      },
+      {
+        "ep": 1993,
+        "sub": "https://www.animegg.org/embed/124423",
+        "dub": null,
+        "url": "https://www.animegg.org/jojo-no-kimyou-na-bouken-1993-episode-4"
+      },
+      {
+        "ep": 1993,
+        "sub": "https://www.animegg.org/embed/124424",
+        "dub": null,
+        "url": "https://www.animegg.org/jojo-no-kimyou-na-bouken-1993-episode-3"
+      },
+      {
+        "ep": 1993,
+        "sub": "https://www.animegg.org/embed/124425",
+        "dub": null,
+        "url": "https://www.animegg.org/jojo-no-kimyou-na-bouken-1993-episode-2"
+      },
+      {
+        "ep": 1993,
+        "sub": "https://www.animegg.org/embed/124426",
+        "dub": null,
+        "url": "https://www.animegg.org/jojo-no-kimyou-na-bouken-1993-episode-1"
+      }
+    ]
   }
 ]
