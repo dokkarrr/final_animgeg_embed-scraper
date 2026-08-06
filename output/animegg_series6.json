@@ -84526,5 +84526,39 @@
     "mal_id": 42203,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 8787,
+    "title": "Queen’s Blade Vanquished Queens OVA",
+    "animegg_url": "https://www.animegg.org/series/queen-s-blade-vanquished-queens-ova",
+    "mal_url": "https://myanimelist.net/anime/4719",
+    "mal_id": 4719,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/119281",
+        "dub": null,
+        "url": "https://www.animegg.org/queen-s-blade-vanquished-queens-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/119280",
+        "dub": null,
+        "url": "https://www.animegg.org/queen-s-blade-vanquished-queens-ova-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/119279",
+        "dub": null,
+        "url": "https://www.animegg.org/queen-s-blade-vanquished-queens-ova-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/119278",
+        "dub": null,
+        "url": "https://www.animegg.org/queen-s-blade-vanquished-queens-ova-episode-4"
+      }
+    ]
   }
 ]
