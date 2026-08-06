@@ -65138,5 +65138,21 @@
         "url": "https://www.animegg.org/magatsu-wahrheit-zuerst-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8403,
+    "title": "Sailor Moon Eternal Movie 1",
+    "animegg_url": "https://www.animegg.org/series/sailor-moon-eternal-movie-1",
+    "mal_url": "https://myanimelist.net/anime/40024",
+    "mal_id": 40024,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/101910",
+        "dub": null,
+        "url": "https://www.animegg.org/sailor-moon-eternal-movie-1-episode-1"
+      }
+    ]
   }
 ]
