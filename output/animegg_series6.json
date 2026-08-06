@@ -59802,5 +59802,21 @@
         "url": "https://www.animegg.org/vandread-season-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8317,
+    "title": "Monster Strike the Movie: Lucifer - Zetsubou no Yoake",
+    "animegg_url": "https://www.animegg.org/series/monster-strike-the-movie-lucifer---zetsubou-no-yoake",
+    "mal_url": "https://myanimelist.net/anime/41519",
+    "mal_id": 41519,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/102483",
+        "dub": null,
+        "url": "https://www.animegg.org/monster-strike-the-movie-lucifer---zetsubou-no-yoake-episode-1"
+      }
+    ]
   }
 ]
