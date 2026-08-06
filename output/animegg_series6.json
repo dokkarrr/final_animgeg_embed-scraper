@@ -73737,5 +73737,63 @@
         "url": "https://www.animegg.org/kitarou-tanjou-gegege-no-nazo-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8545,
+    "title": "The Last Human",
+    "animegg_url": "https://www.animegg.org/series/the-last-human",
+    "mal_url": "https://myanimelist.net/anime/54860",
+    "mal_id": 54860,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/the-last-human-episode-1"
+      },
+      {
+        "ep": 21,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/the-last-human-episode-21"
+      },
+      {
+        "ep": 25,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/the-last-human-episode-25"
+      },
+      {
+        "ep": 26,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/the-last-human-episode-26"
+      },
+      {
+        "ep": 27,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/the-last-human-episode-27"
+      },
+      {
+        "ep": 28,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/the-last-human-episode-28"
+      },
+      {
+        "ep": 29,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/the-last-human-episode-29"
+      },
+      {
+        "ep": 30,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/the-last-human-episode-30"
+      }
+    ]
   }
 ]
