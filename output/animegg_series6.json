@@ -72501,5 +72501,69 @@
         "url": "https://www.animegg.org/punirunes-season-2-episode-15"
       }
     ]
+  },
+  {
+    "serial_no": 8524,
+    "title": "The King is Back",
+    "animegg_url": "https://www.animegg.org/series/the-king-is-back",
+    "mal_url": "https://myanimelist.net/anime/6372",
+    "mal_id": 6372,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 88,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/the-king-is-back-episode-88"
+      },
+      {
+        "ep": 90,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/the-king-is-back-episode-90"
+      },
+      {
+        "ep": 92,
+        "sub": "https://www.animegg.org/embed/137069",
+        "dub": null,
+        "url": "https://www.animegg.org/the-king-is-back-episode-92"
+      },
+      {
+        "ep": 100,
+        "sub": "https://www.animegg.org/embed/137414",
+        "dub": null,
+        "url": "https://www.animegg.org/the-king-is-back-episode-100"
+      },
+      {
+        "ep": 104,
+        "sub": "https://www.animegg.org/embed/137460",
+        "dub": null,
+        "url": "https://www.animegg.org/the-king-is-back-episode-104"
+      },
+      {
+        "ep": 106,
+        "sub": "https://www.animegg.org/embed/137901",
+        "dub": null,
+        "url": "https://www.animegg.org/the-king-is-back-episode-106"
+      },
+      {
+        "ep": 112,
+        "sub": "https://www.animegg.org/embed/138154",
+        "dub": null,
+        "url": "https://www.animegg.org/the-king-is-back-episode-112"
+      },
+      {
+        "ep": 122,
+        "sub": "https://www.animegg.org/embed/138628",
+        "dub": null,
+        "url": "https://www.animegg.org/the-king-is-back-episode-122"
+      },
+      {
+        "ep": 124,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/the-king-is-back-episode-124"
+      }
+    ]
   }
 ]
