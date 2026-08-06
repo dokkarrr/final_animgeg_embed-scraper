@@ -65443,5 +65443,87 @@
     "mal_id": 123,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 8409,
+    "title": "Najica Blitz Tactics (Dub)",
+    "animegg_url": "https://www.animegg.org/series/najica-blitz-tactics-dub",
+    "mal_url": "https://myanimelist.net/anime/321",
+    "mal_id": 321,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/121598",
+        "dub": null,
+        "url": "https://www.animegg.org/najica-blitz-tactics-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/121594",
+        "dub": null,
+        "url": "https://www.animegg.org/najica-blitz-tactics-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/121593",
+        "dub": null,
+        "url": "https://www.animegg.org/najica-blitz-tactics-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/121592",
+        "dub": null,
+        "url": "https://www.animegg.org/najica-blitz-tactics-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/121591",
+        "dub": null,
+        "url": "https://www.animegg.org/najica-blitz-tactics-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/121590",
+        "dub": null,
+        "url": "https://www.animegg.org/najica-blitz-tactics-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/121589",
+        "dub": null,
+        "url": "https://www.animegg.org/najica-blitz-tactics-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/121588",
+        "dub": null,
+        "url": "https://www.animegg.org/najica-blitz-tactics-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/121587",
+        "dub": null,
+        "url": "https://www.animegg.org/najica-blitz-tactics-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/121597",
+        "dub": null,
+        "url": "https://www.animegg.org/najica-blitz-tactics-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/121596",
+        "dub": null,
+        "url": "https://www.animegg.org/najica-blitz-tactics-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/121595",
+        "dub": null,
+        "url": "https://www.animegg.org/najica-blitz-tactics-dub-episode-12"
+      }
+    ]
   }
 ]
