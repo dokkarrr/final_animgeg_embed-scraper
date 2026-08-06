@@ -48947,5 +48947,57 @@
     "mal_id": 1604,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 8147,
+    "title": "6HP (Six Hearts Princess)",
+    "animegg_url": "https://www.animegg.org/series/6hp-six-hearts-princess",
+    "mal_url": "https://myanimelist.net/anime/29643",
+    "mal_id": 29643,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/109202",
+        "dub": null,
+        "url": "https://www.animegg.org/6hp-six-hearts-princess-episode-7"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/109201",
+        "dub": null,
+        "url": "https://www.animegg.org/6hp-six-hearts-princess-episode-6"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/6hp-six-hearts-princess-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/6hp-six-hearts-princess-episode-4"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/6hp-six-hearts-princess-episode-3"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/6hp-six-hearts-princess-episode-2"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/6hp-six-hearts-princess-episode-1"
+      }
+    ]
   }
 ]
