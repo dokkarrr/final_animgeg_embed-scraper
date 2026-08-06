@@ -35840,5 +35840,75 @@
         "url": "https://www.animegg.org/hakumei-to-mikochi-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 7963,
+    "title": "UniteUp! Uni:Birth",
+    "animegg_url": "https://www.animegg.org/series/uniteup-unibirth",
+    "mal_url": "https://myanimelist.net/anime/56135",
+    "mal_id": 56135,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/139365",
+        "dub": null,
+        "url": "https://www.animegg.org/uniteup-unibirth-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/139436",
+        "dub": null,
+        "url": "https://www.animegg.org/uniteup-unibirth-episode-2"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/139573",
+        "dub": null,
+        "url": "https://www.animegg.org/uniteup-unibirth-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/139684",
+        "dub": null,
+        "url": "https://www.animegg.org/uniteup-unibirth-episode-5"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/139857",
+        "dub": null,
+        "url": "https://www.animegg.org/uniteup-unibirth-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/140060",
+        "dub": null,
+        "url": "https://www.animegg.org/uniteup-unibirth-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/140145",
+        "dub": null,
+        "url": "https://www.animegg.org/uniteup-unibirth-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/140317",
+        "dub": null,
+        "url": "https://www.animegg.org/uniteup-unibirth-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/140376",
+        "dub": null,
+        "url": "https://www.animegg.org/uniteup-unibirth-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/140373",
+        "dub": null,
+        "url": "https://www.animegg.org/uniteup-unibirth-episode-12"
+      }
+    ]
   }
 ]
