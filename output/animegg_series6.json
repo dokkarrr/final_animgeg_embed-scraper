@@ -72243,5 +72243,21 @@
         "url": "https://www.animegg.org/shoujo-kageki-revue-starlight-movie-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8518,
+    "title": "Sailor Moon Eternal Movie 2",
+    "animegg_url": "https://www.animegg.org/series/sailor-moon-eternal-movie-2",
+    "mal_url": "https://myanimelist.net/anime/40429",
+    "mal_id": 40429,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/101911",
+        "dub": null,
+        "url": "https://www.animegg.org/sailor-moon-eternal-movie-2-episode-1"
+      }
+    ]
   }
 ]
