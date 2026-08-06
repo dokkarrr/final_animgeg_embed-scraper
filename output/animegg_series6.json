@@ -88910,5 +88910,21 @@
         "url": "https://www.animegg.org/queen-emeraldas-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 8935,
+    "title": "Towa no Quon 1: Utakata no Kaben",
+    "animegg_url": "https://www.animegg.org/series/towa-no-quon-1-utakata-no-kaben",
+    "mal_url": "https://myanimelist.net/anime/10294",
+    "mal_id": 10294,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/132487",
+        "dub": null,
+        "url": "https://www.animegg.org/towa-no-quon-1-utakata-no-kaben-episode-1"
+      }
+    ]
   }
 ]
