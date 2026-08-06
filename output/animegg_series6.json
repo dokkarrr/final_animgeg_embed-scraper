@@ -81027,5 +81027,69 @@
         "url": "https://www.animegg.org/ryuuseiki-gakusaver-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 8698,
+    "title": "With Mental Illness I Am Immortal",
+    "animegg_url": "https://www.animegg.org/series/with-mental-illness-i-am-immortal",
+    "mal_url": "https://myanimelist.net/anime/39806",
+    "mal_id": 39806,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 33,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/with-mental-illness-i-am-immortal-episode-33"
+      },
+      {
+        "ep": 35,
+        "sub": "https://www.animegg.org/embed/136745",
+        "dub": null,
+        "url": "https://www.animegg.org/with-mental-illness-i-am-immortal-episode-35"
+      },
+      {
+        "ep": 36,
+        "sub": "https://www.animegg.org/embed/136795",
+        "dub": null,
+        "url": "https://www.animegg.org/with-mental-illness-i-am-immortal-episode-36"
+      },
+      {
+        "ep": 37,
+        "sub": "https://www.animegg.org/embed/137033",
+        "dub": null,
+        "url": "https://www.animegg.org/with-mental-illness-i-am-immortal-episode-37"
+      },
+      {
+        "ep": 41,
+        "sub": "https://www.animegg.org/embed/137255",
+        "dub": null,
+        "url": "https://www.animegg.org/with-mental-illness-i-am-immortal-episode-41"
+      },
+      {
+        "ep": 42,
+        "sub": "https://www.animegg.org/embed/137316",
+        "dub": null,
+        "url": "https://www.animegg.org/with-mental-illness-i-am-immortal-episode-42"
+      },
+      {
+        "ep": 43,
+        "sub": "https://www.animegg.org/embed/137524",
+        "dub": null,
+        "url": "https://www.animegg.org/with-mental-illness-i-am-immortal-episode-43"
+      },
+      {
+        "ep": 45,
+        "sub": "https://www.animegg.org/embed/137843",
+        "dub": null,
+        "url": "https://www.animegg.org/with-mental-illness-i-am-immortal-episode-45"
+      },
+      {
+        "ep": 47,
+        "sub": "https://www.animegg.org/embed/138448",
+        "dub": null,
+        "url": "https://www.animegg.org/with-mental-illness-i-am-immortal-episode-47"
+      }
+    ]
   }
 ]
