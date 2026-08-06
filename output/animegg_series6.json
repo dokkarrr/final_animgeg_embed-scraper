@@ -72437,5 +72437,69 @@
         "url": "https://www.animegg.org/gate-keepers-21-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8523,
+    "title": "Punirunes season 2",
+    "animegg_url": "https://www.animegg.org/series/punirunes-season-2",
+    "mal_url": "https://myanimelist.net/anime/40028",
+    "mal_id": 40028,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/140330",
+        "dub": null,
+        "url": "https://www.animegg.org/punirunes-season-2-episode-25"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/140331",
+        "dub": null,
+        "url": "https://www.animegg.org/punirunes-season-2-episode-22"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/139991",
+        "dub": null,
+        "url": "https://www.animegg.org/punirunes-season-2-episode-21"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/139892",
+        "dub": null,
+        "url": "https://www.animegg.org/punirunes-season-2-episode-20"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/139772",
+        "dub": null,
+        "url": "https://www.animegg.org/punirunes-season-2-episode-19"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/139709",
+        "dub": null,
+        "url": "https://www.animegg.org/punirunes-season-2-episode-18"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/139603",
+        "dub": null,
+        "url": "https://www.animegg.org/punirunes-season-2-episode-17"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/139507",
+        "dub": null,
+        "url": "https://www.animegg.org/punirunes-season-2-episode-16"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/139468",
+        "dub": null,
+        "url": "https://www.animegg.org/punirunes-season-2-episode-15"
+      }
+    ]
   }
 ]
