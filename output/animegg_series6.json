@@ -84834,5 +84834,21 @@
         "url": "https://www.animegg.org/wangu-xian-qiong-iii-eren-gu-pian-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8795,
+    "title": "Odd Taxi Movie: In the Woods",
+    "animegg_url": "https://www.animegg.org/series/odd-taxi-movie-in-the-woods",
+    "mal_url": "https://myanimelist.net/anime/50653",
+    "mal_id": 50653,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/105801",
+        "dub": null,
+        "url": "https://www.animegg.org/odd-taxi-movie-in-the-woods-episode-1"
+      }
+    ]
   }
 ]
