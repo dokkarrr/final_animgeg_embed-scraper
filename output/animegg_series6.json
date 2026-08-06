@@ -50393,5 +50393,27 @@
         "url": "https://www.animegg.org/inu-ni-nattara-suki-na-hito-ni-hirowareta-specials-uncensored-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 8171,
+    "title": "Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
+    "animegg_url": "https://www.animegg.org/series/magical-girl-lyrical-nanoha-exceeds-gun-blaze-vengeance",
+    "mal_url": "https://myanimelist.net/anime/60637",
+    "mal_id": 60637,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/146386",
+        "dub": null,
+        "url": "https://www.animegg.org/magical-girl-lyrical-nanoha-exceeds-gun-blaze-vengeance-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/146385",
+        "dub": null,
+        "url": "https://www.animegg.org/magical-girl-lyrical-nanoha-exceeds-gun-blaze-vengeance-episode-2"
+      }
+    ]
   }
 ]
