@@ -90615,5 +90615,33 @@
         "url": "https://www.animegg.org/mobile-suit-sd-gundam-festival-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 9000,
+    "title": "Xiao Lu He Xiao Lan 5th Season",
+    "animegg_url": "https://www.animegg.org/series/xiao-lu-he-xiao-lan-5th-season",
+    "mal_url": "https://myanimelist.net/anime/58325",
+    "mal_id": 58325,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/133869",
+        "dub": null,
+        "url": "https://www.animegg.org/xiao-lu-he-xiao-lan-5th-season-episode-6"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/xiao-lu-he-xiao-lan-5th-season-episode-5"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/xiao-lu-he-xiao-lan-5th-season-episode-3"
+      }
+    ]
   }
 ]
