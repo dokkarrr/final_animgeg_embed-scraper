@@ -8418,5 +8418,87 @@
         "url": "https://www.animegg.org/da-li-si-rizhi-2nd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 7608,
+    "title": "Kuma Kuma Kuma Bear",
+    "animegg_url": "https://www.animegg.org/series/kuma-kuma-kuma-bear-dub",
+    "mal_url": "https://myanimelist.net/anime/40974",
+    "mal_id": 40974,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/123458",
+        "dub": null,
+        "url": "https://www.animegg.org/kuma-kuma-kuma-bear-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/123454",
+        "dub": null,
+        "url": "https://www.animegg.org/kuma-kuma-kuma-bear-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/123453",
+        "dub": null,
+        "url": "https://www.animegg.org/kuma-kuma-kuma-bear-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/123452",
+        "dub": null,
+        "url": "https://www.animegg.org/kuma-kuma-kuma-bear-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/123451",
+        "dub": null,
+        "url": "https://www.animegg.org/kuma-kuma-kuma-bear-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/123450",
+        "dub": null,
+        "url": "https://www.animegg.org/kuma-kuma-kuma-bear-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/123449",
+        "dub": null,
+        "url": "https://www.animegg.org/kuma-kuma-kuma-bear-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/123448",
+        "dub": null,
+        "url": "https://www.animegg.org/kuma-kuma-kuma-bear-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/123447",
+        "dub": null,
+        "url": "https://www.animegg.org/kuma-kuma-kuma-bear-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/123457",
+        "dub": null,
+        "url": "https://www.animegg.org/kuma-kuma-kuma-bear-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/123456",
+        "dub": null,
+        "url": "https://www.animegg.org/kuma-kuma-kuma-bear-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/123455",
+        "dub": null,
+        "url": "https://www.animegg.org/kuma-kuma-kuma-bear-dub-episode-12"
+      }
+    ]
   }
 ]
