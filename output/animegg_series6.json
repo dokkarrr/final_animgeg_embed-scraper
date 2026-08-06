@@ -83676,5 +83676,51 @@
         "url": "https://www.animegg.org/dragon-ball-z-atsumare-goku-world-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8761,
+    "title": "Quan Zhi Ming",
+    "animegg_url": "https://www.animegg.org/series/quan-zhi-ming",
+    "mal_url": "https://myanimelist.net/anime/56772",
+    "mal_id": 56772,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/quan-zhi-ming-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/quan-zhi-ming-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/quan-zhi-ming-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/quan-zhi-ming-episode-4"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/quan-zhi-ming-episode-6"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/134540",
+        "dub": null,
+        "url": "https://www.animegg.org/quan-zhi-ming-episode-11"
+      }
+    ]
   }
 ]
