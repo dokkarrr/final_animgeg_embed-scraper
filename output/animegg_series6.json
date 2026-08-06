@@ -29727,5 +29727,63 @@
         "url": "https://www.animegg.org/zuihou-de-zhaohuan-shi-japanese-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 7882,
+    "title": "Ameku Takao no Suiri Karte",
+    "animegg_url": "https://www.animegg.org/series/ameku-takao-no-suiri-karte",
+    "mal_url": "https://myanimelist.net/anime/58600",
+    "mal_id": 58600,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/139537",
+        "dub": null,
+        "url": "https://www.animegg.org/ameku-takao-no-suiri-karte-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/139643",
+        "dub": null,
+        "url": "https://www.animegg.org/ameku-takao-no-suiri-karte-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/139813",
+        "dub": null,
+        "url": "https://www.animegg.org/ameku-takao-no-suiri-karte-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/139921",
+        "dub": null,
+        "url": "https://www.animegg.org/ameku-takao-no-suiri-karte-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/140008",
+        "dub": null,
+        "url": "https://www.animegg.org/ameku-takao-no-suiri-karte-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/140183",
+        "dub": null,
+        "url": "https://www.animegg.org/ameku-takao-no-suiri-karte-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/140274",
+        "dub": null,
+        "url": "https://www.animegg.org/ameku-takao-no-suiri-karte-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/140337",
+        "dub": null,
+        "url": "https://www.animegg.org/ameku-takao-no-suiri-karte-episode-12"
+      }
+    ]
   }
 ]
