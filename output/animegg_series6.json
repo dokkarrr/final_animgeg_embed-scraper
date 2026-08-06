@@ -6502,5 +6502,87 @@
         "url": "https://www.animegg.org/kimitachi-wa-dou-ikiru-ka-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 7588,
+    "title": "Hachi-nan tte, Sore wa Nai deshou! (Dub)",
+    "animegg_url": "https://www.animegg.org/series/hachi-nan-tte-sore-wa-nai-deshou-dub",
+    "mal_url": "https://myanimelist.net/anime/38830",
+    "mal_id": 38830,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/126208",
+        "dub": null,
+        "url": "https://www.animegg.org/hachi-nan-tte-sore-wa-nai-deshou-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/126204",
+        "dub": null,
+        "url": "https://www.animegg.org/hachi-nan-tte-sore-wa-nai-deshou-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/126203",
+        "dub": null,
+        "url": "https://www.animegg.org/hachi-nan-tte-sore-wa-nai-deshou-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/126202",
+        "dub": null,
+        "url": "https://www.animegg.org/hachi-nan-tte-sore-wa-nai-deshou-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/126201",
+        "dub": null,
+        "url": "https://www.animegg.org/hachi-nan-tte-sore-wa-nai-deshou-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/hachi-nan-tte-sore-wa-nai-deshou-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/hachi-nan-tte-sore-wa-nai-deshou-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/126200",
+        "dub": null,
+        "url": "https://www.animegg.org/hachi-nan-tte-sore-wa-nai-deshou-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/126199",
+        "dub": null,
+        "url": "https://www.animegg.org/hachi-nan-tte-sore-wa-nai-deshou-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/126207",
+        "dub": null,
+        "url": "https://www.animegg.org/hachi-nan-tte-sore-wa-nai-deshou-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/126206",
+        "dub": null,
+        "url": "https://www.animegg.org/hachi-nan-tte-sore-wa-nai-deshou-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/126205",
+        "dub": null,
+        "url": "https://www.animegg.org/hachi-nan-tte-sore-wa-nai-deshou-dub-episode-12"
+      }
+    ]
   }
 ]
