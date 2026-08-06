@@ -17111,5 +17111,21 @@
         "url": "https://www.animegg.org/qui-shui-yi-yun-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 7718,
+    "title": "Princess Principal: Crown Handler 1",
+    "animegg_url": "https://www.animegg.org/series/princess-principal-crown-handler-1",
+    "mal_url": "https://myanimelist.net/anime/37807",
+    "mal_id": 37807,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/101831",
+        "dub": null,
+        "url": "https://www.animegg.org/princess-principal-crown-handler-1-episode-1"
+      }
+    ]
   }
 ]
