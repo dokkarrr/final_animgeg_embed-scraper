@@ -69787,5 +69787,75 @@
         "url": "https://www.animegg.org/dolls--frontline-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8477,
+    "title": "Wu Ying Sanqian Dao",
+    "animegg_url": "https://www.animegg.org/series/wu-ying-sanqian-dao",
+    "mal_url": "https://myanimelist.net/anime/51457",
+    "mal_id": 51457,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/113623",
+        "dub": null,
+        "url": "https://www.animegg.org/wu-ying-sanqian-dao-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/113622",
+        "dub": null,
+        "url": "https://www.animegg.org/wu-ying-sanqian-dao-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/113621",
+        "dub": null,
+        "url": "https://www.animegg.org/wu-ying-sanqian-dao-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/113620",
+        "dub": null,
+        "url": "https://www.animegg.org/wu-ying-sanqian-dao-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/wu-ying-sanqian-dao-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/113619",
+        "dub": null,
+        "url": "https://www.animegg.org/wu-ying-sanqian-dao-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/113618",
+        "dub": null,
+        "url": "https://www.animegg.org/wu-ying-sanqian-dao-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/wu-ying-sanqian-dao-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/113617",
+        "dub": null,
+        "url": "https://www.animegg.org/wu-ying-sanqian-dao-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/wu-ying-sanqian-dao-episode-10"
+      }
+    ]
   }
 ]
