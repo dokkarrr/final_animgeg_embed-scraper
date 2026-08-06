@@ -44919,5 +44919,63 @@
         "url": "https://www.animegg.org/ef-a-tale-of-melodies-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8092,
+    "title": "Dota: Dragon's Blood",
+    "animegg_url": "https://www.animegg.org/series/dota-dragon-s-blood",
+    "mal_url": "https://myanimelist.net/anime/30778",
+    "mal_id": 30778,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/127792",
+        "dub": null,
+        "url": "https://www.animegg.org/dota-dragon-s-blood-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/127791",
+        "dub": null,
+        "url": "https://www.animegg.org/dota-dragon-s-blood-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/127790",
+        "dub": null,
+        "url": "https://www.animegg.org/dota-dragon-s-blood-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/127789",
+        "dub": null,
+        "url": "https://www.animegg.org/dota-dragon-s-blood-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/127788",
+        "dub": null,
+        "url": "https://www.animegg.org/dota-dragon-s-blood-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/127787",
+        "dub": null,
+        "url": "https://www.animegg.org/dota-dragon-s-blood-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/127786",
+        "dub": null,
+        "url": "https://www.animegg.org/dota-dragon-s-blood-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/127785",
+        "dub": null,
+        "url": "https://www.animegg.org/dota-dragon-s-blood-episode-8"
+      }
+    ]
   }
 ]
