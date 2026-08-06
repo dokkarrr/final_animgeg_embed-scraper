@@ -55772,5 +55772,33 @@
     "mal_id": 61026,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 8252,
+    "title": "Captivated, By You",
+    "animegg_url": "https://www.animegg.org/series/captivated-by-you",
+    "mal_url": "https://myanimelist.net/anime/60130",
+    "mal_id": 60130,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/142461",
+        "dub": null,
+        "url": "https://www.animegg.org/captivated-by-you-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/captivated-by-you-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/142616",
+        "dub": null,
+        "url": "https://www.animegg.org/captivated-by-you-episode-5"
+      }
+    ]
   }
 ]
