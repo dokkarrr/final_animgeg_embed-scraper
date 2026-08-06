@@ -81320,5 +81320,63 @@
         "url": "https://www.animegg.org/wo-shi-da-xian-zun-episode-262"
       }
     ]
+  },
+  {
+    "serial_no": 8704,
+    "title": "Hana no Zundamaru",
+    "animegg_url": "https://www.animegg.org/series/hana-no-zundamaru",
+    "mal_url": "https://myanimelist.net/anime/20873",
+    "mal_id": 20873,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/125888",
+        "dub": null,
+        "url": "https://www.animegg.org/hana-no-zundamaru-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/125887",
+        "dub": null,
+        "url": "https://www.animegg.org/hana-no-zundamaru-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/125886",
+        "dub": null,
+        "url": "https://www.animegg.org/hana-no-zundamaru-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/125885",
+        "dub": null,
+        "url": "https://www.animegg.org/hana-no-zundamaru-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/125884",
+        "dub": null,
+        "url": "https://www.animegg.org/hana-no-zundamaru-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/125883",
+        "dub": null,
+        "url": "https://www.animegg.org/hana-no-zundamaru-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/125882",
+        "dub": null,
+        "url": "https://www.animegg.org/hana-no-zundamaru-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/125881",
+        "dub": null,
+        "url": "https://www.animegg.org/hana-no-zundamaru-episode-8"
+      }
+    ]
   }
 ]
