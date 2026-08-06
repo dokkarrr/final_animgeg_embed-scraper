@@ -82780,5 +82780,27 @@
         "url": "https://www.animegg.org/tomie-dub-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 8741,
+    "title": "Kanokon: Manatsu no Dai Shanikusai",
+    "animegg_url": "https://www.animegg.org/series/kanokon-manatsu-no-dai-shanikusai",
+    "mal_url": "https://myanimelist.net/anime/6791",
+    "mal_id": 6791,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kanokon-manatsu-no-dai-shanikusai-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kanokon-manatsu-no-dai-shanikusai-episode-2"
+      }
+    ]
   }
 ]
