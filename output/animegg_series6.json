@@ -13343,5 +13343,63 @@
         "url": "https://www.animegg.org/magical-nyan-nyan-taruto-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 7668,
+    "title": "All Hail the Sect Leader",
+    "animegg_url": "https://www.animegg.org/series/all-hail-the-sect-leader",
+    "mal_url": "https://myanimelist.net/anime/60249",
+    "mal_id": 60249,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/139266",
+        "dub": null,
+        "url": "https://www.animegg.org/all-hail-the-sect-leader-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/139265",
+        "dub": null,
+        "url": "https://www.animegg.org/all-hail-the-sect-leader-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/139260",
+        "dub": null,
+        "url": "https://www.animegg.org/all-hail-the-sect-leader-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/139259",
+        "dub": null,
+        "url": "https://www.animegg.org/all-hail-the-sect-leader-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/139258",
+        "dub": null,
+        "url": "https://www.animegg.org/all-hail-the-sect-leader-episode-5"
+      },
+      {
+        "ep": 10,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/all-hail-the-sect-leader-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/139261",
+        "dub": null,
+        "url": "https://www.animegg.org/all-hail-the-sect-leader-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/all-hail-the-sect-leader-episode-12"
+      }
+    ]
   }
 ]
