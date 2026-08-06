@@ -86388,5 +86388,51 @@
         "url": "https://www.animegg.org/saihate-no-paladin-2nd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8843,
+    "title": "I Contracted Myself",
+    "animegg_url": "https://www.animegg.org/series/i-contracted-myself",
+    "mal_url": "https://myanimelist.net/anime/37277",
+    "mal_id": 37277,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/135787",
+        "dub": null,
+        "url": "https://www.animegg.org/i-contracted-myself-episode-1"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/135920",
+        "dub": null,
+        "url": "https://www.animegg.org/i-contracted-myself-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/136048",
+        "dub": null,
+        "url": "https://www.animegg.org/i-contracted-myself-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/136149",
+        "dub": null,
+        "url": "https://www.animegg.org/i-contracted-myself-episode-6"
+      },
+      {
+        "ep": 16,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/i-contracted-myself-episode-16"
+      },
+      {
+        "ep": 22,
+        "sub": "https://www.animegg.org/embed/137858",
+        "dub": null,
+        "url": "https://www.animegg.org/i-contracted-myself-episode-22"
+      }
+    ]
   }
 ]
