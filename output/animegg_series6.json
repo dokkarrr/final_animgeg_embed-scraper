@@ -89967,5 +89967,51 @@
         "url": "https://www.animegg.org/zero-no-tsukaima-princesses-no-rondo---yuuwaku-no-sunahama-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8977,
+    "title": "Tian Ying",
+    "animegg_url": "https://www.animegg.org/series/tian-ying",
+    "mal_url": "https://myanimelist.net/anime/59762",
+    "mal_id": 59762,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/137458",
+        "dub": null,
+        "url": "https://www.animegg.org/tian-ying-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/138152",
+        "dub": null,
+        "url": "https://www.animegg.org/tian-ying-episode-6"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/138625",
+        "dub": null,
+        "url": "https://www.animegg.org/tian-ying-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/138855",
+        "dub": null,
+        "url": "https://www.animegg.org/tian-ying-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/139051",
+        "dub": null,
+        "url": "https://www.animegg.org/tian-ying-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/139234",
+        "dub": null,
+        "url": "https://www.animegg.org/tian-ying-episode-13"
+      }
+    ]
   }
 ]
