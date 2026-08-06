@@ -74880,5 +74880,27 @@
         "url": "https://www.animegg.org/onigiri-ni-naritai-cogimyun-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 8566,
+    "title": "Devil may cry 2025 season 2",
+    "animegg_url": "https://www.animegg.org/series/devil-may-cry-2025-season-2",
+    "mal_url": "https://myanimelist.net/anime/35120",
+    "mal_id": 35120,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 2025,
+        "sub": "https://www.animegg.org/embed/145780",
+        "dub": null,
+        "url": "https://www.animegg.org/devil-may-cry-2025-season-2-episode-8"
+      },
+      {
+        "ep": 2025,
+        "sub": "https://www.animegg.org/embed/145785",
+        "dub": null,
+        "url": "https://www.animegg.org/devil-may-cry-2025-season-2-episode-1"
+      }
+    ]
   }
 ]
