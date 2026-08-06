@@ -77378,5 +77378,63 @@
         "url": "https://www.animegg.org/dreamworks-dragons-season-8-dub-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8615,
+    "title": "The Return of the Immortal King of the City",
+    "animegg_url": "https://www.animegg.org/series/the-return-of-the-immortal-king-of-the-city",
+    "mal_url": "https://myanimelist.net/anime/39806",
+    "mal_id": 39806,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 39,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/the-return-of-the-immortal-king-of-the-city-episode-39"
+      },
+      {
+        "ep": 51,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/the-return-of-the-immortal-king-of-the-city-episode-51"
+      },
+      {
+        "ep": 52,
+        "sub": "https://www.animegg.org/embed/136588",
+        "dub": null,
+        "url": "https://www.animegg.org/the-return-of-the-immortal-king-of-the-city-episode-52"
+      },
+      {
+        "ep": 53,
+        "sub": "https://www.animegg.org/embed/137514",
+        "dub": null,
+        "url": "https://www.animegg.org/the-return-of-the-immortal-king-of-the-city-episode-53"
+      },
+      {
+        "ep": 58,
+        "sub": "https://www.animegg.org/embed/137777",
+        "dub": null,
+        "url": "https://www.animegg.org/the-return-of-the-immortal-king-of-the-city-episode-58"
+      },
+      {
+        "ep": 59,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/the-return-of-the-immortal-king-of-the-city-episode-59"
+      },
+      {
+        "ep": 60,
+        "sub": "https://www.animegg.org/embed/138758",
+        "dub": null,
+        "url": "https://www.animegg.org/the-return-of-the-immortal-king-of-the-city-episode-60"
+      },
+      {
+        "ep": 63,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/the-return-of-the-immortal-king-of-the-city-episode-63"
+      }
+    ]
   }
 ]
