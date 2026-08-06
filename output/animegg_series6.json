@@ -89212,5 +89212,21 @@
         "url": "https://www.animegg.org/one-piece-film-strong-world-dub-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8948,
+    "title": "Hoshi no Ko Chobin",
+    "animegg_url": "https://www.animegg.org/series/hoshi-no-ko-chobin",
+    "mal_url": "https://myanimelist.net/anime/3834",
+    "mal_id": 3834,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/133375",
+        "dub": null,
+        "url": "https://www.animegg.org/hoshi-no-ko-chobin-episode-1"
+      }
+    ]
   }
 ]
