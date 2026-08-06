@@ -85019,5 +85019,33 @@
         "url": "https://www.animegg.org/saezuru-tori-wa-habatakanai-don-t-stay-gold-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8801,
+    "title": "DNA² OVA",
+    "animegg_url": "https://www.animegg.org/series/dna2-ova",
+    "mal_url": "https://myanimelist.net/anime/1187",
+    "mal_id": 1187,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/127835",
+        "dub": null,
+        "url": "https://www.animegg.org/dna2-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/127834",
+        "dub": null,
+        "url": "https://www.animegg.org/dna2-ova-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/108929",
+        "dub": null,
+        "url": "https://www.animegg.org/dna2-ova-episode-3"
+      }
+    ]
   }
 ]
