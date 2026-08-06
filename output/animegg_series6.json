@@ -83722,5 +83722,57 @@
         "url": "https://www.animegg.org/quan-zhi-ming-episode-11"
       }
     ]
+  },
+  {
+    "serial_no": 8762,
+    "title": "Pacific Rim: The Black",
+    "animegg_url": "https://www.animegg.org/series/pacific-rim-the-black",
+    "mal_url": "https://myanimelist.net/anime/68",
+    "mal_id": 68,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/120552",
+        "dub": null,
+        "url": "https://www.animegg.org/pacific-rim-the-black-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/120551",
+        "dub": null,
+        "url": "https://www.animegg.org/pacific-rim-the-black-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/120550",
+        "dub": null,
+        "url": "https://www.animegg.org/pacific-rim-the-black-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/120549",
+        "dub": null,
+        "url": "https://www.animegg.org/pacific-rim-the-black-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/120548",
+        "dub": null,
+        "url": "https://www.animegg.org/pacific-rim-the-black-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/120547",
+        "dub": null,
+        "url": "https://www.animegg.org/pacific-rim-the-black-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/120546",
+        "dub": null,
+        "url": "https://www.animegg.org/pacific-rim-the-black-episode-7"
+      }
+    ]
   }
 ]
