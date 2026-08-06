@@ -47054,5 +47054,39 @@
         "url": "https://www.animegg.org/baka-to-test-to-shoukanjuu-ni-specials-episode-9"
       }
     ]
+  },
+  {
+    "serial_no": 8122,
+    "title": "Bosanimal",
+    "animegg_url": "https://www.animegg.org/series/bosanimal",
+    "mal_url": "https://myanimelist.net/anime/54630",
+    "mal_id": 54630,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/131015",
+        "dub": null,
+        "url": "https://www.animegg.org/bosanimal-episode-1"
+      },
+      {
+        "ep": 51,
+        "sub": "https://www.animegg.org/embed/135111",
+        "dub": null,
+        "url": "https://www.animegg.org/bosanimal-episode-51"
+      },
+      {
+        "ep": 81,
+        "sub": "https://www.animegg.org/embed/135113",
+        "dub": null,
+        "url": "https://www.animegg.org/bosanimal-episode-81"
+      },
+      {
+        "ep": 91,
+        "sub": "https://www.animegg.org/embed/135112",
+        "dub": null,
+        "url": "https://www.animegg.org/bosanimal-episode-91"
+      }
+    ]
   }
 ]
