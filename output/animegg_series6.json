@@ -89745,5 +89745,27 @@
     "mal_id": 265,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 8968,
+    "title": "Gabriel DropOut Specials",
+    "animegg_url": "https://www.animegg.org/series/gabriel-dropout-specials",
+    "mal_url": "https://myanimelist.net/anime/34855",
+    "mal_id": 34855,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/126799",
+        "dub": null,
+        "url": "https://www.animegg.org/gabriel-dropout-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/126798",
+        "dub": null,
+        "url": "https://www.animegg.org/gabriel-dropout-specials-episode-2"
+      }
+    ]
   }
 ]
