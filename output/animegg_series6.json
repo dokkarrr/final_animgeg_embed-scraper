@@ -4202,5 +4202,75 @@
         "url": "https://www.animegg.org/inu-ni-nattara-suki-na-hito-ni-hirowareta-specials-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 7559,
+    "title": "Wu Liuqi: Anying Suming (Japanese Dub)",
+    "animegg_url": "https://www.animegg.org/series/wu-liuqi-anying-suming-japanese-dub",
+    "mal_url": "https://myanimelist.net/anime/34420",
+    "mal_id": 34420,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/131426",
+        "dub": null,
+        "url": "https://www.animegg.org/wu-liuqi-anying-suming-japanese-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/131424",
+        "dub": null,
+        "url": "https://www.animegg.org/wu-liuqi-anying-suming-japanese-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/131423",
+        "dub": null,
+        "url": "https://www.animegg.org/wu-liuqi-anying-suming-japanese-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/131422",
+        "dub": null,
+        "url": "https://www.animegg.org/wu-liuqi-anying-suming-japanese-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/131421",
+        "dub": null,
+        "url": "https://www.animegg.org/wu-liuqi-anying-suming-japanese-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/131420",
+        "dub": null,
+        "url": "https://www.animegg.org/wu-liuqi-anying-suming-japanese-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/131419",
+        "dub": null,
+        "url": "https://www.animegg.org/wu-liuqi-anying-suming-japanese-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/131418",
+        "dub": null,
+        "url": "https://www.animegg.org/wu-liuqi-anying-suming-japanese-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/131417",
+        "dub": null,
+        "url": "https://www.animegg.org/wu-liuqi-anying-suming-japanese-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/131425",
+        "dub": null,
+        "url": "https://www.animegg.org/wu-liuqi-anying-suming-japanese-dub-episode-10"
+      }
+    ]
   }
 ]
