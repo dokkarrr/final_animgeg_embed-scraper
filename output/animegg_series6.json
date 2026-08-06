@@ -71461,5 +71461,21 @@
         "url": "https://www.animegg.org/zhanguo-qiannian-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8504,
+    "title": "Sorry About My Little Brothers",
+    "animegg_url": "https://www.animegg.org/series/sorry-about-my-little-brothers",
+    "mal_url": "https://myanimelist.net/anime/63061",
+    "mal_id": 63061,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/146282",
+        "dub": null,
+        "url": "https://www.animegg.org/sorry-about-my-little-brothers-episode-1"
+      }
+    ]
   }
 ]
