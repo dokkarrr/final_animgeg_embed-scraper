@@ -69467,5 +69467,75 @@
     "mal_id": 987,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 8472,
+    "title": "Jian Wang Chao - Sword Dynasty",
+    "animegg_url": "https://www.animegg.org/series/jian-wang-chao---sword-dynasty",
+    "mal_url": "https://myanimelist.net/anime/36996",
+    "mal_id": 36996,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/124704",
+        "dub": null,
+        "url": "https://www.animegg.org/jian-wang-chao---sword-dynasty-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/124702",
+        "dub": null,
+        "url": "https://www.animegg.org/jian-wang-chao---sword-dynasty-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/124701",
+        "dub": null,
+        "url": "https://www.animegg.org/jian-wang-chao---sword-dynasty-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/124700",
+        "dub": null,
+        "url": "https://www.animegg.org/jian-wang-chao---sword-dynasty-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/124699",
+        "dub": null,
+        "url": "https://www.animegg.org/jian-wang-chao---sword-dynasty-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/124698",
+        "dub": null,
+        "url": "https://www.animegg.org/jian-wang-chao---sword-dynasty-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/124697",
+        "dub": null,
+        "url": "https://www.animegg.org/jian-wang-chao---sword-dynasty-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/124696",
+        "dub": null,
+        "url": "https://www.animegg.org/jian-wang-chao---sword-dynasty-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/124695",
+        "dub": null,
+        "url": "https://www.animegg.org/jian-wang-chao---sword-dynasty-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/124703",
+        "dub": null,
+        "url": "https://www.animegg.org/jian-wang-chao---sword-dynasty-episode-10"
+      }
+    ]
   }
 ]
