@@ -34657,5 +34657,63 @@
         "url": "https://www.animegg.org/jaku-chara-tomozaki-kun-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 7946,
+    "title": "Onimusha",
+    "animegg_url": "https://www.animegg.org/series/onimusha",
+    "mal_url": "https://myanimelist.net/anime/53150",
+    "mal_id": 53150,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/onimusha-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/onimusha-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/onimusha-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/onimusha-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/onimusha-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/onimusha-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/onimusha-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/onimusha-episode-8"
+      }
+    ]
   }
 ]
