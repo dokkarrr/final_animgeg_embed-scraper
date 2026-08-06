@@ -41248,5 +41248,21 @@
         "url": "https://www.animegg.org/ikebukuro-west-gate-park-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8039,
+    "title": "Otome wa Boku ni Koishiteru: Trinkle Stars The Animation",
+    "animegg_url": "https://www.animegg.org/series/otome-wa-boku-ni-koishiteru-trinkle-stars-the-animation",
+    "mal_url": "https://myanimelist.net/anime/49518",
+    "mal_id": 49518,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/105968",
+        "dub": null,
+        "url": "https://www.animegg.org/otome-wa-boku-ni-koishiteru-trinkle-stars-the-animation-episode-1"
+      }
+    ]
   }
 ]
