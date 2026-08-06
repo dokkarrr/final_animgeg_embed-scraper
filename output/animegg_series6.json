@@ -59241,5 +59241,75 @@
         "url": "https://www.animegg.org/xenosaga-the-animation-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8307,
+    "title": "Kenda Master Ken (TV)",
+    "animegg_url": "https://www.animegg.org/series/kenda-master-ken-tv",
+    "mal_url": "https://myanimelist.net/anime/51636",
+    "mal_id": 51636,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kenda-master-ken-tv-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kenda-master-ken-tv-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kenda-master-ken-tv-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kenda-master-ken-tv-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kenda-master-ken-tv-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kenda-master-ken-tv-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kenda-master-ken-tv-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kenda-master-ken-tv-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/123601",
+        "dub": null,
+        "url": "https://www.animegg.org/kenda-master-ken-tv-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kenda-master-ken-tv-episode-10"
+      }
+    ]
   }
 ]
