@@ -61481,5 +61481,21 @@
         "url": "https://www.animegg.org/ueno-san-wa-bukiyou-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8344,
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna (Dub)",
+    "animegg_url": "https://www.animegg.org/series/rezero-kara-hajimeru-isekai-seikatsu---hyouketsu-no-kizuna-dub",
+    "mal_url": "https://myanimelist.net/anime/38414",
+    "mal_id": 38414,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/118582",
+        "dub": null,
+        "url": "https://www.animegg.org/rezero-kara-hajimeru-isekai-seikatsu---hyouketsu-no-kizuna-dub-episode-1"
+      }
+    ]
   }
 ]
