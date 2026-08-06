@@ -89767,5 +89767,33 @@
         "url": "https://www.animegg.org/gabriel-dropout-specials-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 8969,
+    "title": "Variable Geo",
+    "animegg_url": "https://www.animegg.org/series/variable-geo",
+    "mal_url": "https://myanimelist.net/anime/1183",
+    "mal_id": 1183,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/115783",
+        "dub": null,
+        "url": "https://www.animegg.org/variable-geo-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/115782",
+        "dub": null,
+        "url": "https://www.animegg.org/variable-geo-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/115781",
+        "dub": null,
+        "url": "https://www.animegg.org/variable-geo-episode-3"
+      }
+    ]
   }
 ]
