@@ -36768,5 +36768,93 @@
         "url": "https://www.animegg.org/zetman-dub-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 7976,
+    "title": "18if",
+    "animegg_url": "https://www.animegg.org/series/18if-dub",
+    "mal_url": "https://myanimelist.net/anime/35248",
+    "mal_id": 35248,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 18,
+        "sub": "https://www.animegg.org/embed/109068",
+        "dub": null,
+        "url": "https://www.animegg.org/18if-dub-episode-13"
+      },
+      {
+        "ep": 18,
+        "sub": "https://www.animegg.org/embed/109067",
+        "dub": null,
+        "url": "https://www.animegg.org/18if-dub-episode-12"
+      },
+      {
+        "ep": 18,
+        "sub": "https://www.animegg.org/embed/109066",
+        "dub": null,
+        "url": "https://www.animegg.org/18if-dub-episode-11"
+      },
+      {
+        "ep": 18,
+        "sub": "https://www.animegg.org/embed/109065",
+        "dub": null,
+        "url": "https://www.animegg.org/18if-dub-episode-10"
+      },
+      {
+        "ep": 18,
+        "sub": "https://www.animegg.org/embed/109076",
+        "dub": null,
+        "url": "https://www.animegg.org/18if-dub-episode-9"
+      },
+      {
+        "ep": 18,
+        "sub": "https://www.animegg.org/embed/109075",
+        "dub": null,
+        "url": "https://www.animegg.org/18if-dub-episode-8"
+      },
+      {
+        "ep": 18,
+        "sub": "https://www.animegg.org/embed/109074",
+        "dub": null,
+        "url": "https://www.animegg.org/18if-dub-episode-7"
+      },
+      {
+        "ep": 18,
+        "sub": "https://www.animegg.org/embed/109073",
+        "dub": null,
+        "url": "https://www.animegg.org/18if-dub-episode-6"
+      },
+      {
+        "ep": 18,
+        "sub": "https://www.animegg.org/embed/109072",
+        "dub": null,
+        "url": "https://www.animegg.org/18if-dub-episode-5"
+      },
+      {
+        "ep": 18,
+        "sub": "https://www.animegg.org/embed/109071",
+        "dub": null,
+        "url": "https://www.animegg.org/18if-dub-episode-4"
+      },
+      {
+        "ep": 18,
+        "sub": "https://www.animegg.org/embed/109070",
+        "dub": null,
+        "url": "https://www.animegg.org/18if-dub-episode-3"
+      },
+      {
+        "ep": 18,
+        "sub": "https://www.animegg.org/embed/109069",
+        "dub": null,
+        "url": "https://www.animegg.org/18if-dub-episode-2"
+      },
+      {
+        "ep": 18,
+        "sub": "https://www.animegg.org/embed/109064",
+        "dub": null,
+        "url": "https://www.animegg.org/18if-dub-episode-1"
+      }
+    ]
   }
 ]
