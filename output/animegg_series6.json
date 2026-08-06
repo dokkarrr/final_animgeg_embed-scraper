@@ -9752,5 +9752,87 @@
         "url": "https://www.animegg.org/crowned-in-a-hundred-days-episode-11"
       }
     ]
+  },
+  {
+    "serial_no": 7622,
+    "title": "Compass2.0: Animation Project",
+    "animegg_url": "https://www.animegg.org/series/compass20-animation-project",
+    "mal_url": "https://myanimelist.net/anime/53762",
+    "mal_id": 53762,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/141435",
+        "dub": null,
+        "url": "https://www.animegg.org/compass20-animation-project-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/141362",
+        "dub": null,
+        "url": "https://www.animegg.org/compass20-animation-project-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/141251",
+        "dub": null,
+        "url": "https://www.animegg.org/compass20-animation-project-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/141169",
+        "dub": null,
+        "url": "https://www.animegg.org/compass20-animation-project-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/141030",
+        "dub": null,
+        "url": "https://www.animegg.org/compass20-animation-project-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/140961",
+        "dub": null,
+        "url": "https://www.animegg.org/compass20-animation-project-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/140853",
+        "dub": null,
+        "url": "https://www.animegg.org/compass20-animation-project-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/140748",
+        "dub": null,
+        "url": "https://www.animegg.org/compass20-animation-project-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/140669",
+        "dub": null,
+        "url": "https://www.animegg.org/compass20-animation-project-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/140582",
+        "dub": null,
+        "url": "https://www.animegg.org/compass20-animation-project-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/140496",
+        "dub": null,
+        "url": "https://www.animegg.org/compass20-animation-project-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/140406",
+        "dub": null,
+        "url": "https://www.animegg.org/compass20-animation-project-episode-1"
+      }
+    ]
   }
 ]
