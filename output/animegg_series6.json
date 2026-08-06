@@ -52871,5 +52871,93 @@
     "mal_id": 85,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 8209,
+    "title": "Uchuu Kaizoku Mito no Daibouken: Futari no Joou-sama",
+    "animegg_url": "https://www.animegg.org/series/uchuu-kaizoku-mito-no-daibouken-futari-no-joou-sama",
+    "mal_url": "https://myanimelist.net/anime/2700",
+    "mal_id": 2700,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/116537",
+        "dub": null,
+        "url": "https://www.animegg.org/uchuu-kaizoku-mito-no-daibouken-futari-no-joou-sama-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/116532",
+        "dub": null,
+        "url": "https://www.animegg.org/uchuu-kaizoku-mito-no-daibouken-futari-no-joou-sama-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/116531",
+        "dub": null,
+        "url": "https://www.animegg.org/uchuu-kaizoku-mito-no-daibouken-futari-no-joou-sama-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/116530",
+        "dub": null,
+        "url": "https://www.animegg.org/uchuu-kaizoku-mito-no-daibouken-futari-no-joou-sama-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/116529",
+        "dub": null,
+        "url": "https://www.animegg.org/uchuu-kaizoku-mito-no-daibouken-futari-no-joou-sama-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/116528",
+        "dub": null,
+        "url": "https://www.animegg.org/uchuu-kaizoku-mito-no-daibouken-futari-no-joou-sama-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/116527",
+        "dub": null,
+        "url": "https://www.animegg.org/uchuu-kaizoku-mito-no-daibouken-futari-no-joou-sama-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/116526",
+        "dub": null,
+        "url": "https://www.animegg.org/uchuu-kaizoku-mito-no-daibouken-futari-no-joou-sama-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/116525",
+        "dub": null,
+        "url": "https://www.animegg.org/uchuu-kaizoku-mito-no-daibouken-futari-no-joou-sama-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/116536",
+        "dub": null,
+        "url": "https://www.animegg.org/uchuu-kaizoku-mito-no-daibouken-futari-no-joou-sama-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/116535",
+        "dub": null,
+        "url": "https://www.animegg.org/uchuu-kaizoku-mito-no-daibouken-futari-no-joou-sama-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/116534",
+        "dub": null,
+        "url": "https://www.animegg.org/uchuu-kaizoku-mito-no-daibouken-futari-no-joou-sama-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/116533",
+        "dub": null,
+        "url": "https://www.animegg.org/uchuu-kaizoku-mito-no-daibouken-futari-no-joou-sama-episode-13"
+      }
+    ]
   }
 ]
