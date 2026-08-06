@@ -38058,5 +38058,69 @@
         "url": "https://www.animegg.org/watari-kuns-xx-is-about-to-collapse-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 7996,
+    "title": "Zoids Wild Zero",
+    "animegg_url": "https://www.animegg.org/series/zoids-wild-zero",
+    "mal_url": "https://myanimelist.net/anime/40166",
+    "mal_id": 40166,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/110746",
+        "dub": null,
+        "url": "https://www.animegg.org/zoids-wild-zero-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/110744",
+        "dub": null,
+        "url": "https://www.animegg.org/zoids-wild-zero-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/110743",
+        "dub": null,
+        "url": "https://www.animegg.org/zoids-wild-zero-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/110742",
+        "dub": null,
+        "url": "https://www.animegg.org/zoids-wild-zero-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/110741",
+        "dub": null,
+        "url": "https://www.animegg.org/zoids-wild-zero-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/110740",
+        "dub": null,
+        "url": "https://www.animegg.org/zoids-wild-zero-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/110739",
+        "dub": null,
+        "url": "https://www.animegg.org/zoids-wild-zero-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/110738",
+        "dub": null,
+        "url": "https://www.animegg.org/zoids-wild-zero-episode-8"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/110745",
+        "dub": null,
+        "url": "https://www.animegg.org/zoids-wild-zero-episode-14"
+      }
+    ]
   }
 ]
