@@ -1062,5 +1062,87 @@
         "url": "https://www.animegg.org/anhe-zhuan-part-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 7521,
+    "title": "Watashi ga Motete Dousunda (Dub)",
+    "animegg_url": "https://www.animegg.org/series/watashi-ga-motete-dousunda-dub",
+    "mal_url": "https://myanimelist.net/anime/32899",
+    "mal_id": 32899,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/114324",
+        "dub": null,
+        "url": "https://www.animegg.org/watashi-ga-motete-dousunda-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/114320",
+        "dub": null,
+        "url": "https://www.animegg.org/watashi-ga-motete-dousunda-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/114319",
+        "dub": null,
+        "url": "https://www.animegg.org/watashi-ga-motete-dousunda-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/114318",
+        "dub": null,
+        "url": "https://www.animegg.org/watashi-ga-motete-dousunda-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/114317",
+        "dub": null,
+        "url": "https://www.animegg.org/watashi-ga-motete-dousunda-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/114316",
+        "dub": null,
+        "url": "https://www.animegg.org/watashi-ga-motete-dousunda-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/114315",
+        "dub": null,
+        "url": "https://www.animegg.org/watashi-ga-motete-dousunda-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/114314",
+        "dub": null,
+        "url": "https://www.animegg.org/watashi-ga-motete-dousunda-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/114313",
+        "dub": null,
+        "url": "https://www.animegg.org/watashi-ga-motete-dousunda-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/114323",
+        "dub": null,
+        "url": "https://www.animegg.org/watashi-ga-motete-dousunda-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/114321",
+        "dub": null,
+        "url": "https://www.animegg.org/watashi-ga-motete-dousunda-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/114322",
+        "dub": null,
+        "url": "https://www.animegg.org/watashi-ga-motete-dousunda-dub-episode-12"
+      }
+    ]
   }
 ]
