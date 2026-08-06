@@ -85320,5 +85320,21 @@
     "mal_id": 27601,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 8809,
+    "title": "One Piece Movie 10: Strong World",
+    "animegg_url": "https://www.animegg.org/series/one-piece-movie-10-strong-world",
+    "mal_url": "https://myanimelist.net/anime/4155",
+    "mal_id": 4155,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/120743",
+        "dub": null,
+        "url": "https://www.animegg.org/one-piece-movie-10-strong-world-episode-1"
+      }
+    ]
   }
 ]
