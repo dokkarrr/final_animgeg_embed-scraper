@@ -89586,5 +89586,21 @@
         "url": "https://www.animegg.org/persona-5-the-animation-tv-specials-dub-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8964,
+    "title": "Samurai Spirits 2",
+    "animegg_url": "https://www.animegg.org/series/samurai-spirits-2",
+    "mal_url": "https://myanimelist.net/anime/839",
+    "mal_id": 839,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/99313",
+        "dub": null,
+        "url": "https://www.animegg.org/samurai-spirits-2-episode-2"
+      }
+    ]
   }
 ]
