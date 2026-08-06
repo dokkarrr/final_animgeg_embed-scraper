@@ -81484,5 +81484,51 @@
         "url": "https://www.animegg.org/rising-impact-season-2-episode-5"
       }
     ]
+  },
+  {
+    "serial_no": 8709,
+    "title": "Wo Jia Da Shixiong Naozi You Keng",
+    "animegg_url": "https://www.animegg.org/series/wo-jia-da-shixiong-naozi-you-keng",
+    "mal_url": "https://myanimelist.net/anime/37293",
+    "mal_id": 37293,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/114015",
+        "dub": null,
+        "url": "https://www.animegg.org/wo-jia-da-shixiong-naozi-you-keng-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/wo-jia-da-shixiong-naozi-you-keng-episode-2"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/wo-jia-da-shixiong-naozi-you-keng-episode-7"
+      },
+      {
+        "ep": 12,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/wo-jia-da-shixiong-naozi-you-keng-episode-12"
+      },
+      {
+        "ep": 17,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/wo-jia-da-shixiong-naozi-you-keng-episode-17"
+      },
+      {
+        "ep": 22,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/wo-jia-da-shixiong-naozi-you-keng-episode-22"
+      }
+    ]
   }
 ]
