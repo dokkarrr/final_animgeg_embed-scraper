@@ -85388,5 +85388,27 @@
         "url": "https://www.animegg.org/i-maxed-out-infinite-deadly-game-episode-41"
       }
     ]
+  },
+  {
+    "serial_no": 8811,
+    "title": "Kidou Senshi Gundam: Fukushuu no Requiem",
+    "animegg_url": "https://www.animegg.org/series/kidou-senshi-gundam-fukushuu-no-requiem",
+    "mal_url": "https://myanimelist.net/anime/55845",
+    "mal_id": 55845,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/138082",
+        "dub": null,
+        "url": "https://www.animegg.org/kidou-senshi-gundam-fukushuu-no-requiem-episode-4"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/138081",
+        "dub": null,
+        "url": "https://www.animegg.org/kidou-senshi-gundam-fukushuu-no-requiem-episode-6"
+      }
+    ]
   }
 ]
