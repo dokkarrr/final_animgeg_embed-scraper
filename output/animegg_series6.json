@@ -62744,5 +62744,87 @@
         "url": "https://www.animegg.org/macross-zero-episode-5"
       }
     ]
+  },
+  {
+    "serial_no": 8366,
+    "title": "I Rise Alone",
+    "animegg_url": "https://www.animegg.org/series/i-rise-alone",
+    "mal_url": "https://myanimelist.net/anime/19195",
+    "mal_id": 19195,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/i-rise-alone-episode-1"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/i-rise-alone-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/i-rise-alone-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/i-rise-alone-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/i-rise-alone-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/i-rise-alone-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/i-rise-alone-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/i-rise-alone-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/i-rise-alone-episode-14"
+      },
+      {
+        "ep": 15,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/i-rise-alone-episode-15"
+      },
+      {
+        "ep": 17,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/i-rise-alone-episode-17"
+      },
+      {
+        "ep": 18,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/i-rise-alone-episode-18"
+      }
+    ]
   }
 ]
