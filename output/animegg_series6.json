@@ -12309,5 +12309,27 @@
         "url": "https://www.animegg.org/hamatora-the-animation-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 7654,
+    "title": "Ghost in the Shell: SAC_2045 Season 2",
+    "animegg_url": "https://www.animegg.org/series/ghost-in-the-shell-sac-2045-season-2",
+    "mal_url": "https://myanimelist.net/anime/41750",
+    "mal_id": 41750,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 2045,
+        "sub": "https://www.animegg.org/embed/104864",
+        "dub": null,
+        "url": "https://www.animegg.org/ghost-in-the-shell-sac-2045-season-2-episode-12"
+      },
+      {
+        "ep": 2045,
+        "sub": "https://www.animegg.org/embed/104863",
+        "dub": null,
+        "url": "https://www.animegg.org/ghost-in-the-shell-sac-2045-season-2-episode-1"
+      }
+    ]
   }
 ]
