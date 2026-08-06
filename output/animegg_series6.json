@@ -17987,5 +17987,33 @@
         "url": "https://www.animegg.org/xuantian-supreme-episode-60"
       }
     ]
+  },
+  {
+    "serial_no": 7730,
+    "title": "FLCL: Shoegaze",
+    "animegg_url": "https://www.animegg.org/series/flcl-shoegaze",
+    "mal_url": "https://myanimelist.net/anime/51305",
+    "mal_id": 51305,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/131572",
+        "dub": "https://www.animegg.org/embed/131573",
+        "url": "https://www.animegg.org/flcl-shoegaze-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/131685",
+        "dub": "https://www.animegg.org/embed/131691",
+        "url": "https://www.animegg.org/flcl-shoegaze-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/flcl-shoegaze-episode-3"
+      }
+    ]
   }
 ]
