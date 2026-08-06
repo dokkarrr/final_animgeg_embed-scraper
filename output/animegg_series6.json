@@ -5614,5 +5614,51 @@
         "url": "https://www.animegg.org/toilet-bound-hanako-kun-season-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 7576,
+    "title": "Lycoris recoil friends are thieves of time",
+    "animegg_url": "https://www.animegg.org/series/lycoris-recoil-friends-are-thieves-of-time",
+    "mal_url": "https://myanimelist.net/anime/59369",
+    "mal_id": 59369,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/140509",
+        "dub": null,
+        "url": "https://www.animegg.org/lycoris-recoil-friends-are-thieves-of-time-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/140596",
+        "dub": null,
+        "url": "https://www.animegg.org/lycoris-recoil-friends-are-thieves-of-time-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/140680",
+        "dub": null,
+        "url": "https://www.animegg.org/lycoris-recoil-friends-are-thieves-of-time-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/140766",
+        "dub": null,
+        "url": "https://www.animegg.org/lycoris-recoil-friends-are-thieves-of-time-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/140865",
+        "dub": null,
+        "url": "https://www.animegg.org/lycoris-recoil-friends-are-thieves-of-time-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/140982",
+        "dub": null,
+        "url": "https://www.animegg.org/lycoris-recoil-friends-are-thieves-of-time-episode-6"
+      }
+    ]
   }
 ]
