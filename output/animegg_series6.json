@@ -36092,5 +36092,21 @@
         "url": "https://www.animegg.org/xue-mo-ren-episode-14"
       }
     ]
+  },
+  {
+    "serial_no": 7966,
+    "title": "Karakai Jouzu no Takagi-san Movie",
+    "animegg_url": "https://www.animegg.org/series/karakai-jouzu-no-takagi-san-movie",
+    "mal_url": "https://myanimelist.net/anime/49722",
+    "mal_id": 49722,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/106754",
+        "dub": null,
+        "url": "https://www.animegg.org/karakai-jouzu-no-takagi-san-movie-episode-1"
+      }
+    ]
   }
 ]
