@@ -87657,5 +87657,21 @@
         "url": "https://www.animegg.org/bakuen-campus-guardress-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 8890,
+    "title": "Naruto Shippuden Movie 6: Road to Ninja",
+    "animegg_url": "https://www.animegg.org/series/naruto-shippuden-movie-6-road-to-ninja",
+    "mal_url": "https://myanimelist.net/anime/1735",
+    "mal_id": 1735,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/121322",
+        "dub": null,
+        "url": "https://www.animegg.org/naruto-shippuden-movie-6-road-to-ninja-episode-1"
+      }
+    ]
   }
 ]
