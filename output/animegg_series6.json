@@ -90103,5 +90103,21 @@
         "url": "https://www.animegg.org/nekota-no-koto-ga-kininatte-shikatanai-ona-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 8981,
+    "title": "Cencoroll Connect",
+    "animegg_url": "https://www.animegg.org/series/cencoroll-connect",
+    "mal_url": "https://myanimelist.net/anime/9488",
+    "mal_id": 9488,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/128736",
+        "dub": null,
+        "url": "https://www.animegg.org/cencoroll-connect-episode-1"
+      }
+    ]
   }
 ]
