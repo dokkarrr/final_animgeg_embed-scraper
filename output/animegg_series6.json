@@ -47818,5 +47818,87 @@
         "url": "https://www.animegg.org/nanaka-617-dub-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8133,
+    "title": "Tokyo 24-ku",
+    "animegg_url": "https://www.animegg.org/series/tokyo-24-ku-dub",
+    "mal_url": "https://myanimelist.net/anime/50204",
+    "mal_id": 50204,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/116723",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-24-ku-dub-episode-12"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/116722",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-24-ku-dub-episode-11"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/116724",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-24-ku-dub-episode-10"
+      },
+      {
+        "ep": 24,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-24-ku-dub-episode-9"
+      },
+      {
+        "ep": 24,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-24-ku-dub-episode-8"
+      },
+      {
+        "ep": 24,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-24-ku-dub-episode-7"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/116717",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-24-ku-dub-episode-6"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/116718",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-24-ku-dub-episode-5"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/116719",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-24-ku-dub-episode-4"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/116720",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-24-ku-dub-episode-3"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/116721",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-24-ku-dub-episode-2"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/116725",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-24-ku-dub-episode-1"
+      }
+    ]
   }
 ]
