@@ -70627,5 +70627,87 @@
         "url": "https://www.animegg.org/joshikousei-no-mudazukai-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8492,
+    "title": "Show By Rock!! Short!!",
+    "animegg_url": "https://www.animegg.org/series/show-by-rock-short-dub",
+    "mal_url": "https://myanimelist.net/anime/32039",
+    "mal_id": 32039,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/117688",
+        "dub": null,
+        "url": "https://www.animegg.org/show-by-rock-short-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/117684",
+        "dub": null,
+        "url": "https://www.animegg.org/show-by-rock-short-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/117683",
+        "dub": null,
+        "url": "https://www.animegg.org/show-by-rock-short-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/117682",
+        "dub": null,
+        "url": "https://www.animegg.org/show-by-rock-short-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/117681",
+        "dub": null,
+        "url": "https://www.animegg.org/show-by-rock-short-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/117680",
+        "dub": null,
+        "url": "https://www.animegg.org/show-by-rock-short-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/117679",
+        "dub": null,
+        "url": "https://www.animegg.org/show-by-rock-short-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/117678",
+        "dub": null,
+        "url": "https://www.animegg.org/show-by-rock-short-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/117677",
+        "dub": null,
+        "url": "https://www.animegg.org/show-by-rock-short-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/117687",
+        "dub": null,
+        "url": "https://www.animegg.org/show-by-rock-short-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/117686",
+        "dub": null,
+        "url": "https://www.animegg.org/show-by-rock-short-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/117685",
+        "dub": null,
+        "url": "https://www.animegg.org/show-by-rock-short-dub-episode-12"
+      }
+    ]
   }
 ]
