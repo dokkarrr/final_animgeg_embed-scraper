@@ -47428,5 +47428,87 @@
         "url": "https://www.animegg.org/babel-nisei-2001-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8127,
+    "title": "A Useless Onmyoji Family",
+    "animegg_url": "https://www.animegg.org/series/a-useless-onmyoji-family",
+    "mal_url": "https://myanimelist.net/anime/37033",
+    "mal_id": 37033,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/109301",
+        "dub": null,
+        "url": "https://www.animegg.org/a-useless-onmyoji-family-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/109305",
+        "dub": null,
+        "url": "https://www.animegg.org/a-useless-onmyoji-family-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/109306",
+        "dub": null,
+        "url": "https://www.animegg.org/a-useless-onmyoji-family-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/109307",
+        "dub": null,
+        "url": "https://www.animegg.org/a-useless-onmyoji-family-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/109308",
+        "dub": null,
+        "url": "https://www.animegg.org/a-useless-onmyoji-family-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/109309",
+        "dub": null,
+        "url": "https://www.animegg.org/a-useless-onmyoji-family-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/109310",
+        "dub": null,
+        "url": "https://www.animegg.org/a-useless-onmyoji-family-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/109311",
+        "dub": null,
+        "url": "https://www.animegg.org/a-useless-onmyoji-family-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/109312",
+        "dub": null,
+        "url": "https://www.animegg.org/a-useless-onmyoji-family-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/109302",
+        "dub": null,
+        "url": "https://www.animegg.org/a-useless-onmyoji-family-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/109303",
+        "dub": null,
+        "url": "https://www.animegg.org/a-useless-onmyoji-family-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/109304",
+        "dub": null,
+        "url": "https://www.animegg.org/a-useless-onmyoji-family-episode-12"
+      }
+    ]
   }
 ]
