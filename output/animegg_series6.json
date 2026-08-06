@@ -34523,5 +34523,57 @@
         "url": "https://www.animegg.org/haikyuu-movie-1-owari-to-hajimari-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 7944,
+    "title": "Pole Princess!!",
+    "animegg_url": "https://www.animegg.org/series/pole-princess",
+    "mal_url": "https://myanimelist.net/anime/53680",
+    "mal_id": 53680,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/pole-princess-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/119731",
+        "dub": null,
+        "url": "https://www.animegg.org/pole-princess-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/119730",
+        "dub": null,
+        "url": "https://www.animegg.org/pole-princess-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/119729",
+        "dub": null,
+        "url": "https://www.animegg.org/pole-princess-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/119728",
+        "dub": null,
+        "url": "https://www.animegg.org/pole-princess-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/119727",
+        "dub": null,
+        "url": "https://www.animegg.org/pole-princess-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/119726",
+        "dub": null,
+        "url": "https://www.animegg.org/pole-princess-episode-7"
+      }
+    ]
   }
 ]
