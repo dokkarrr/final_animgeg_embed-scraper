@@ -75399,5 +75399,33 @@
         "url": "https://www.animegg.org/maria-sama-ga-miteru-specials-episode-7"
       }
     ]
+  },
+  {
+    "serial_no": 8579,
+    "title": "Mizuiro Jidai",
+    "animegg_url": "https://www.animegg.org/series/mizuiro-jidai",
+    "mal_url": "https://myanimelist.net/anime/1040",
+    "mal_id": 1040,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 17,
+        "sub": "https://www.animegg.org/embed/104712",
+        "dub": null,
+        "url": "https://www.animegg.org/mizuiro-jidai-episode-17"
+      },
+      {
+        "ep": 19,
+        "sub": "https://www.animegg.org/embed/104738",
+        "dub": null,
+        "url": "https://www.animegg.org/mizuiro-jidai-episode-19"
+      },
+      {
+        "ep": 45,
+        "sub": "https://www.animegg.org/embed/104739",
+        "dub": null,
+        "url": "https://www.animegg.org/mizuiro-jidai-episode-45"
+      }
+    ]
   }
 ]
