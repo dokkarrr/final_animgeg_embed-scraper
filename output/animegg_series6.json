@@ -87547,5 +87547,21 @@
         "url": "https://www.animegg.org/my-daemon-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 8885,
+    "title": "Zhen Dao Ge: Chenshi Xing",
+    "animegg_url": "https://www.animegg.org/series/zhen-dao-ge-chenshi-xing",
+    "mal_url": "https://myanimelist.net/anime/48914",
+    "mal_id": 48914,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/111021",
+        "dub": null,
+        "url": "https://www.animegg.org/zhen-dao-ge-chenshi-xing-episode-1"
+      }
+    ]
   }
 ]
