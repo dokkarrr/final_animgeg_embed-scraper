@@ -44130,5 +44130,93 @@
         "url": "https://www.animegg.org/hanma-baki-vs-kengan-ashura-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8082,
+    "title": "L/R: Licensed by Royal",
+    "animegg_url": "https://www.animegg.org/series/lr-licensed-by-royal",
+    "mal_url": "https://myanimelist.net/anime/1456",
+    "mal_id": 1456,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/122588",
+        "dub": null,
+        "url": "https://www.animegg.org/lr-licensed-by-royal-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/122583",
+        "dub": null,
+        "url": "https://www.animegg.org/lr-licensed-by-royal-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/122582",
+        "dub": null,
+        "url": "https://www.animegg.org/lr-licensed-by-royal-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/122581",
+        "dub": null,
+        "url": "https://www.animegg.org/lr-licensed-by-royal-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/122580",
+        "dub": null,
+        "url": "https://www.animegg.org/lr-licensed-by-royal-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/122579",
+        "dub": null,
+        "url": "https://www.animegg.org/lr-licensed-by-royal-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/122578",
+        "dub": null,
+        "url": "https://www.animegg.org/lr-licensed-by-royal-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/122577",
+        "dub": null,
+        "url": "https://www.animegg.org/lr-licensed-by-royal-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/122576",
+        "dub": null,
+        "url": "https://www.animegg.org/lr-licensed-by-royal-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/122587",
+        "dub": null,
+        "url": "https://www.animegg.org/lr-licensed-by-royal-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/122586",
+        "dub": null,
+        "url": "https://www.animegg.org/lr-licensed-by-royal-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/122585",
+        "dub": null,
+        "url": "https://www.animegg.org/lr-licensed-by-royal-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/122584",
+        "dub": null,
+        "url": "https://www.animegg.org/lr-licensed-by-royal-episode-13"
+      }
+    ]
   }
 ]
