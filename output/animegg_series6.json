@@ -80828,5 +80828,51 @@
     "mal_id": 63140,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 8693,
+    "title": "Nanako Kaitai Shinsho (Dub)",
+    "animegg_url": "https://www.animegg.org/series/nanako-kaitai-shinsho-dub",
+    "mal_url": "https://myanimelist.net/anime/816",
+    "mal_id": 816,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/nanako-kaitai-shinsho-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/nanako-kaitai-shinsho-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/nanako-kaitai-shinsho-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/nanako-kaitai-shinsho-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/nanako-kaitai-shinsho-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/nanako-kaitai-shinsho-dub-episode-6"
+      }
+    ]
   }
 ]
