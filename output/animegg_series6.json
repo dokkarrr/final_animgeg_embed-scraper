@@ -1538,5 +1538,45 @@
         "url": "https://www.animegg.org/akuyaku-reijou-nanode-last-boss-wo-kattemimashita-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 7529,
+    "title": "BanG Dream! Yume∞Mita",
+    "animegg_url": "https://www.animegg.org/series/bang-dream-yume-mita",
+    "mal_url": "https://myanimelist.net/anime/62430",
+    "mal_id": 62430,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/146299",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-yume-mita-episode-1"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/146298",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-yume-mita-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/146353",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-yume-mita-episode-4"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/146536",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-yume-mita-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/146599",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-yume-mita-episode-7"
+      }
+    ]
   }
 ]
