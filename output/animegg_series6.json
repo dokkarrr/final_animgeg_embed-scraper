@@ -35186,5 +35186,27 @@
         "url": "https://www.animegg.org/monsters-ippyaku-sanjou-hiryuu-jigoku-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 7954,
+    "title": "Tottemo! Luckyman",
+    "animegg_url": "https://www.animegg.org/series/tottemo-luckyman",
+    "mal_url": "https://myanimelist.net/anime/3672",
+    "mal_id": 3672,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/116633",
+        "dub": null,
+        "url": "https://www.animegg.org/tottemo-luckyman-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/133007",
+        "dub": null,
+        "url": "https://www.animegg.org/tottemo-luckyman-episode-2"
+      }
+    ]
   }
 ]
