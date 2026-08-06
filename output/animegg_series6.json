@@ -6486,5 +6486,21 @@
         "url": "https://www.animegg.org/moffun-to-issho-episode-57"
       }
     ]
+  },
+  {
+    "serial_no": 7587,
+    "title": "Kimitachi wa Dou Ikiru ka",
+    "animegg_url": "https://www.animegg.org/series/kimitachi-wa-dou-ikiru-ka",
+    "mal_url": "https://myanimelist.net/anime/36699",
+    "mal_id": 36699,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/135134",
+        "dub": null,
+        "url": "https://www.animegg.org/kimitachi-wa-dou-ikiru-ka-episode-1"
+      }
+    ]
   }
 ]
