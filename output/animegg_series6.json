@@ -58049,5 +58049,21 @@
         "url": "https://www.animegg.org/jormungand-perfect-order-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8286,
+    "title": "Precure Miracle Leap Movie: Minna to no Fushigi na Ichinichi",
+    "animegg_url": "https://www.animegg.org/series/precure-miracle-leap-movie-minna-to-no-fushigi-na-ichinichi",
+    "mal_url": "https://myanimelist.net/anime/40587",
+    "mal_id": 40587,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/101373",
+        "dub": null,
+        "url": "https://www.animegg.org/precure-miracle-leap-movie-minna-to-no-fushigi-na-ichinichi-episode-1"
+      }
+    ]
   }
 ]
