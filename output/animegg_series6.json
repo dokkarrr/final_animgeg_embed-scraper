@@ -15655,5 +15655,87 @@
         "url": "https://www.animegg.org/bananya-fushigi-na-nakama-tachi-dub-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 7702,
+    "title": "Servamp",
+    "animegg_url": "https://www.animegg.org/series/servamp-dub",
+    "mal_url": "https://myanimelist.net/anime/31229",
+    "mal_id": 31229,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/117890",
+        "dub": null,
+        "url": "https://www.animegg.org/servamp-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/117886",
+        "dub": null,
+        "url": "https://www.animegg.org/servamp-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/117885",
+        "dub": null,
+        "url": "https://www.animegg.org/servamp-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/117884",
+        "dub": null,
+        "url": "https://www.animegg.org/servamp-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/117883",
+        "dub": null,
+        "url": "https://www.animegg.org/servamp-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/117882",
+        "dub": null,
+        "url": "https://www.animegg.org/servamp-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/117881",
+        "dub": null,
+        "url": "https://www.animegg.org/servamp-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/117880",
+        "dub": null,
+        "url": "https://www.animegg.org/servamp-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/117879",
+        "dub": null,
+        "url": "https://www.animegg.org/servamp-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/117889",
+        "dub": null,
+        "url": "https://www.animegg.org/servamp-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/117888",
+        "dub": null,
+        "url": "https://www.animegg.org/servamp-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/117887",
+        "dub": null,
+        "url": "https://www.animegg.org/servamp-dub-episode-12"
+      }
+    ]
   }
 ]
