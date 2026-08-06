@@ -1248,5 +1248,27 @@
         "url": "https://www.animegg.org/ai-no-utagoe-wo-kikasete-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 7524,
+    "title": "Tales of Luminaria: The Fateful Crossroad",
+    "animegg_url": "https://www.animegg.org/series/tales-of-luminaria-the-fateful-crossroad",
+    "mal_url": "https://myanimelist.net/anime/49942",
+    "mal_id": 49942,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/103874",
+        "dub": null,
+        "url": "https://www.animegg.org/tales-of-luminaria-the-fateful-crossroad-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/103875",
+        "dub": null,
+        "url": "https://www.animegg.org/tales-of-luminaria-the-fateful-crossroad-episode-2"
+      }
+    ]
   }
 ]
