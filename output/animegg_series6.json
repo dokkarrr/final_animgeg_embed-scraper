@@ -70351,5 +70351,21 @@
         "url": "https://www.animegg.org/immortal-lord-episode-40"
       }
     ]
+  },
+  {
+    "serial_no": 8486,
+    "title": "My Little Pony: Tomodachi wa Mahou",
+    "animegg_url": "https://www.animegg.org/series/my-little-pony-tomodachi-wa-mahou",
+    "mal_url": "https://myanimelist.net/anime/50273",
+    "mal_id": 50273,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 26,
+        "sub": "https://www.animegg.org/embed/99340",
+        "dub": null,
+        "url": "https://www.animegg.org/my-little-pony-tomodachi-wa-mahou-episode-26"
+      }
+    ]
   }
 ]
