@@ -13483,5 +13483,33 @@
         "url": "https://www.animegg.org/gangsta-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 7670,
+    "title": "Yuru Camp△ Season 3 Specials",
+    "animegg_url": "https://www.animegg.org/series/yuru-camp-season-3-specials",
+    "mal_url": "https://myanimelist.net/anime/58855",
+    "mal_id": 58855,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/138320",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-camp-season-3-specials-episode-3"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/136610",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-camp-season-3-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/136611",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-camp-season-3-specials-episode-1"
+      }
+    ]
   }
 ]
