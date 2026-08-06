@@ -20094,5 +20094,39 @@
         "url": "https://www.animegg.org/yeon-ae-halujeon-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 7756,
+    "title": "Strike the Blood Final",
+    "animegg_url": "https://www.animegg.org/series/strike-the-blood-final",
+    "mal_url": "https://myanimelist.net/anime/49316",
+    "mal_id": 49316,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/117594",
+        "dub": null,
+        "url": "https://www.animegg.org/strike-the-blood-final-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/117593",
+        "dub": null,
+        "url": "https://www.animegg.org/strike-the-blood-final-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/117592",
+        "dub": null,
+        "url": "https://www.animegg.org/strike-the-blood-final-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/117591",
+        "dub": null,
+        "url": "https://www.animegg.org/strike-the-blood-final-episode-4"
+      }
+    ]
   }
 ]
