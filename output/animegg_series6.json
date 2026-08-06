@@ -86372,5 +86372,21 @@
         "url": "https://www.animegg.org/tales-of-hr-episode-5"
       }
     ]
+  },
+  {
+    "serial_no": 8842,
+    "title": "Saihate no Paladin 2nd Season",
+    "animegg_url": "https://www.animegg.org/series/saihate-no-paladin-2nd-season",
+    "mal_url": "https://myanimelist.net/anime/50664",
+    "mal_id": 50664,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/131654",
+        "dub": null,
+        "url": "https://www.animegg.org/saihate-no-paladin-2nd-season-episode-1"
+      }
+    ]
   }
 ]
