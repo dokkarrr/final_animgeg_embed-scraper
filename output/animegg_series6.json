@@ -81394,5 +81394,21 @@
         "url": "https://www.animegg.org/bishoujo-senshi-sailor-moon-cosmos-movie-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8706,
+    "title": "Princess Principal: Crown Handler Movie 2",
+    "animegg_url": "https://www.animegg.org/series/princess-principal-crown-handler-movie-2",
+    "mal_url": "https://myanimelist.net/anime/37807",
+    "mal_id": 37807,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/104341",
+        "dub": null,
+        "url": "https://www.animegg.org/princess-principal-crown-handler-movie-2-episode-1"
+      }
+    ]
   }
 ]
