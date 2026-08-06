@@ -43708,5 +43708,27 @@
         "url": "https://www.animegg.org/go-go-loser-ranger-season-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8074,
+    "title": "Overlord: Ple Ple Pleiades 4",
+    "animegg_url": "https://www.animegg.org/series/overlord-ple-ple-pleiades-4",
+    "mal_url": "https://myanimelist.net/anime/48897",
+    "mal_id": 48897,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/106014",
+        "dub": null,
+        "url": "https://www.animegg.org/overlord-ple-ple-pleiades-4-episode-13"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/106013",
+        "dub": null,
+        "url": "https://www.animegg.org/overlord-ple-ple-pleiades-4-episode-1"
+      }
+    ]
   }
 ]
