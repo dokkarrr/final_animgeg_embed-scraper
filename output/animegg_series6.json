@@ -87978,5 +87978,51 @@
         "url": "https://www.animegg.org/bastions-episode-5"
       }
     ]
+  },
+  {
+    "serial_no": 8905,
+    "title": "Guai Xiang Shou",
+    "animegg_url": "https://www.animegg.org/series/guai-xiang-shou",
+    "mal_url": "https://myanimelist.net/anime/59179",
+    "mal_id": 59179,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/136152",
+        "dub": null,
+        "url": "https://www.animegg.org/guai-xiang-shou-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/136262",
+        "dub": null,
+        "url": "https://www.animegg.org/guai-xiang-shou-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/136450",
+        "dub": null,
+        "url": "https://www.animegg.org/guai-xiang-shou-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/136604",
+        "dub": null,
+        "url": "https://www.animegg.org/guai-xiang-shou-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/136793",
+        "dub": null,
+        "url": "https://www.animegg.org/guai-xiang-shou-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/137047",
+        "dub": null,
+        "url": "https://www.animegg.org/guai-xiang-shou-episode-7"
+      }
+    ]
   }
 ]
