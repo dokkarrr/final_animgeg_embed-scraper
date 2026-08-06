@@ -78787,5 +78787,51 @@
         "url": "https://www.animegg.org/fatekaleid-liner-prisma-illya-dub-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 8647,
+    "title": "Kakegurui Twin",
+    "animegg_url": "https://www.animegg.org/series/kakegurui-twin-dub",
+    "mal_url": "https://myanimelist.net/anime/50339",
+    "mal_id": 50339,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kakegurui-twin-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kakegurui-twin-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kakegurui-twin-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kakegurui-twin-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kakegurui-twin-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kakegurui-twin-dub-episode-6"
+      }
+    ]
   }
 ]
