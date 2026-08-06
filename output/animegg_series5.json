@@ -137176,5 +137176,21 @@
         "url": "https://www.animegg.org/xiaolin-chronicles-dub-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 7062,
+    "title": "Hibike! Euphonium Movie 2: Todoketai Melody",
+    "animegg_url": "https://www.animegg.org/series/hibike-euphonium-movie-2-todoketai-melody",
+    "mal_url": "https://myanimelist.net/anime/35082",
+    "mal_id": 35082,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/97964",
+        "dub": null,
+        "url": "https://www.animegg.org/hibike-euphonium-movie-2-todoketai-melody-episode-1"
+      }
+    ]
   }
 ]
