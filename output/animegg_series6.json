@@ -84197,5 +84197,21 @@
         "url": "https://www.animegg.org/kono-sekai-no-tanoshimikata-secret-story-film-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8776,
+    "title": "Pokemon (2019): Harukanaru Aoi Sora",
+    "animegg_url": "https://www.animegg.org/series/pokemon-2019-harukanaru-aoi-sora",
+    "mal_url": "https://myanimelist.net/anime/53873",
+    "mal_id": 53873,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2019,
+        "sub": "https://www.animegg.org/embed/106705",
+        "dub": null,
+        "url": "https://www.animegg.org/pokemon-2019-harukanaru-aoi-sora-episode-1"
+      }
+    ]
   }
 ]
