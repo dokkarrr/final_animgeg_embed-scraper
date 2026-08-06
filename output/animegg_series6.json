@@ -64137,5 +64137,69 @@
         "url": "https://www.animegg.org/idaten-jump-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8386,
+    "title": "AOTU Shijie 4",
+    "animegg_url": "https://www.animegg.org/series/aotu-shijie-4",
+    "mal_url": "https://myanimelist.net/anime/52368",
+    "mal_id": 52368,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/aotu-shijie-4-episode-9"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/aotu-shijie-4-episode-8"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/109833",
+        "dub": null,
+        "url": "https://www.animegg.org/aotu-shijie-4-episode-7"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/109832",
+        "dub": null,
+        "url": "https://www.animegg.org/aotu-shijie-4-episode-6"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/aotu-shijie-4-episode-5"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/aotu-shijie-4-episode-4"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/aotu-shijie-4-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/109831",
+        "dub": null,
+        "url": "https://www.animegg.org/aotu-shijie-4-episode-2"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/109830",
+        "dub": null,
+        "url": "https://www.animegg.org/aotu-shijie-4-episode-1"
+      }
+    ]
   }
 ]
