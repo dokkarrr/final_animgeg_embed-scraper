@@ -1232,5 +1232,21 @@
         "url": "https://www.animegg.org/yi-nian-yong-heng-3rd-season-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 7523,
+    "title": "Ai no Utagoe wo Kikasete",
+    "animegg_url": "https://www.animegg.org/series/ai-no-utagoe-wo-kikasete",
+    "mal_url": "https://myanimelist.net/anime/42847",
+    "mal_id": 42847,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/104468",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-no-utagoe-wo-kikasete-episode-1"
+      }
+    ]
   }
 ]
