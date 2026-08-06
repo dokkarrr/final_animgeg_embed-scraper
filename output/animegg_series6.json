@@ -58510,5 +58510,21 @@
         "url": "https://www.animegg.org/darker-than-black-ryuusei-no-gemini-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8295,
+    "title": "Inu-Ou",
+    "animegg_url": "https://www.animegg.org/series/inu-ou",
+    "mal_url": "https://myanimelist.net/anime/39938",
+    "mal_id": 39938,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/106704",
+        "dub": null,
+        "url": "https://www.animegg.org/inu-ou-episode-1"
+      }
+    ]
   }
 ]
