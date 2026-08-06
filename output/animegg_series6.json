@@ -46786,5 +46786,63 @@
         "url": "https://www.animegg.org/dance-in-the-vampire-bund-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8118,
+    "title": "Mahoutsukai precure mirai days",
+    "animegg_url": "https://www.animegg.org/series/mahoutsukai-precure-mirai-days",
+    "mal_url": "https://myanimelist.net/anime/54717",
+    "mal_id": 54717,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/139590",
+        "dub": null,
+        "url": "https://www.animegg.org/mahoutsukai-precure-mirai-days-episode-4"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/139778",
+        "dub": null,
+        "url": "https://www.animegg.org/mahoutsukai-precure-mirai-days-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/139869",
+        "dub": null,
+        "url": "https://www.animegg.org/mahoutsukai-precure-mirai-days-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/139970",
+        "dub": null,
+        "url": "https://www.animegg.org/mahoutsukai-precure-mirai-days-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/140063",
+        "dub": null,
+        "url": "https://www.animegg.org/mahoutsukai-precure-mirai-days-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/140149",
+        "dub": null,
+        "url": "https://www.animegg.org/mahoutsukai-precure-mirai-days-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/140309",
+        "dub": null,
+        "url": "https://www.animegg.org/mahoutsukai-precure-mirai-days-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/140315",
+        "dub": null,
+        "url": "https://www.animegg.org/mahoutsukai-precure-mirai-days-episode-12"
+      }
+    ]
   }
 ]
