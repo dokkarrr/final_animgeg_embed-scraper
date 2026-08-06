@@ -141090,5 +141090,93 @@
         "url": "https://www.animegg.org/irodorimidori-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 7094,
+    "title": "Kaguya-sama wa Kokurasetai: Ultra Romantic (Dub)",
+    "animegg_url": "https://www.animegg.org/series/kaguya-sama-wa-kokurasetai-ultra-romantic-dub",
+    "mal_url": "https://myanimelist.net/anime/43608",
+    "mal_id": 43608,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/123994",
+        "dub": null,
+        "url": "https://www.animegg.org/kaguya-sama-wa-kokurasetai-ultra-romantic-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/123991",
+        "dub": null,
+        "url": "https://www.animegg.org/kaguya-sama-wa-kokurasetai-ultra-romantic-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/123990",
+        "dub": null,
+        "url": "https://www.animegg.org/kaguya-sama-wa-kokurasetai-ultra-romantic-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/123989",
+        "dub": null,
+        "url": "https://www.animegg.org/kaguya-sama-wa-kokurasetai-ultra-romantic-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/123988",
+        "dub": null,
+        "url": "https://www.animegg.org/kaguya-sama-wa-kokurasetai-ultra-romantic-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kaguya-sama-wa-kokurasetai-ultra-romantic-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/123987",
+        "dub": null,
+        "url": "https://www.animegg.org/kaguya-sama-wa-kokurasetai-ultra-romantic-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/123986",
+        "dub": null,
+        "url": "https://www.animegg.org/kaguya-sama-wa-kokurasetai-ultra-romantic-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/123985",
+        "dub": null,
+        "url": "https://www.animegg.org/kaguya-sama-wa-kokurasetai-ultra-romantic-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/123993",
+        "dub": null,
+        "url": "https://www.animegg.org/kaguya-sama-wa-kokurasetai-ultra-romantic-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/123992",
+        "dub": null,
+        "url": "https://www.animegg.org/kaguya-sama-wa-kokurasetai-ultra-romantic-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kaguya-sama-wa-kokurasetai-ultra-romantic-dub-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/kaguya-sama-wa-kokurasetai-ultra-romantic-dub-episode-13"
+      }
+    ]
   }
 ]
