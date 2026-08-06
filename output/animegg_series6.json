@@ -19420,5 +19420,75 @@
         "url": "https://www.animegg.org/k-return-of-kings-dub-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 7748,
+    "title": "Hajimete no Gal (Dub)",
+    "animegg_url": "https://www.animegg.org/series/hajimete-no-gal-dub",
+    "mal_url": "https://myanimelist.net/anime/34403",
+    "mal_id": 34403,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/126093",
+        "dub": null,
+        "url": "https://www.animegg.org/hajimete-no-gal-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/126091",
+        "dub": null,
+        "url": "https://www.animegg.org/hajimete-no-gal-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/126090",
+        "dub": null,
+        "url": "https://www.animegg.org/hajimete-no-gal-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/126089",
+        "dub": null,
+        "url": "https://www.animegg.org/hajimete-no-gal-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/126088",
+        "dub": null,
+        "url": "https://www.animegg.org/hajimete-no-gal-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/126087",
+        "dub": null,
+        "url": "https://www.animegg.org/hajimete-no-gal-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/126086",
+        "dub": null,
+        "url": "https://www.animegg.org/hajimete-no-gal-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/126085",
+        "dub": null,
+        "url": "https://www.animegg.org/hajimete-no-gal-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/126084",
+        "dub": null,
+        "url": "https://www.animegg.org/hajimete-no-gal-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/126092",
+        "dub": null,
+        "url": "https://www.animegg.org/hajimete-no-gal-dub-episode-10"
+      }
+    ]
   }
 ]
