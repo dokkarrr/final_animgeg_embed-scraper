@@ -41510,5 +41510,33 @@
         "url": "https://www.animegg.org/conception-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8043,
+    "title": "Victoria of Many Faces",
+    "animegg_url": "https://www.animegg.org/series/victoria-of-many-faces",
+    "mal_url": "https://myanimelist.net/anime/62476",
+    "mal_id": 62476,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/146438",
+        "dub": null,
+        "url": "https://www.animegg.org/victoria-of-many-faces-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/146515",
+        "dub": null,
+        "url": "https://www.animegg.org/victoria-of-many-faces-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/146586",
+        "dub": null,
+        "url": "https://www.animegg.org/victoria-of-many-faces-episode-4"
+      }
+    ]
   }
 ]
