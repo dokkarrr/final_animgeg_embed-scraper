@@ -88830,5 +88830,51 @@
     "mal_id": 56773,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 8933,
+    "title": "Fate Zero: Onegai! Special",
+    "animegg_url": "https://www.animegg.org/series/fate-zero-onegai-special",
+    "mal_url": "https://myanimelist.net/anime/13263",
+    "mal_id": 13263,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/127038",
+        "dub": null,
+        "url": "https://www.animegg.org/fate-zero-onegai-special-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/127037",
+        "dub": null,
+        "url": "https://www.animegg.org/fate-zero-onegai-special-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/127036",
+        "dub": null,
+        "url": "https://www.animegg.org/fate-zero-onegai-special-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/127035",
+        "dub": null,
+        "url": "https://www.animegg.org/fate-zero-onegai-special-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/127034",
+        "dub": null,
+        "url": "https://www.animegg.org/fate-zero-onegai-special-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/127033",
+        "dub": null,
+        "url": "https://www.animegg.org/fate-zero-onegai-special-episode-6"
+      }
+    ]
   }
 ]
