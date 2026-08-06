@@ -86486,5 +86486,21 @@
         "url": "https://www.animegg.org/zhongguo-qi-tan-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 8845,
+    "title": "One Piece Movie 6: Baron Omatsuri and the Secret Island",
+    "animegg_url": "https://www.animegg.org/series/one-piece-movie-6-baron-omatsuri-and-the-secret-island",
+    "mal_url": "https://myanimelist.net/anime/464",
+    "mal_id": 464,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/120738",
+        "dub": null,
+        "url": "https://www.animegg.org/one-piece-movie-6-baron-omatsuri-and-the-secret-island-episode-1"
+      }
+    ]
   }
 ]
