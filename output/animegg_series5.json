@@ -141938,5 +141938,87 @@
         "url": "https://www.animegg.org/ludi-jian-xian-episode-67"
       }
     ]
+  },
+  {
+    "serial_no": 7102,
+    "title": "Yingxiong Zai Lin",
+    "animegg_url": "https://www.animegg.org/series/yingxiong-zai-lin",
+    "mal_url": "https://myanimelist.net/anime/40979",
+    "mal_id": 40979,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/111632",
+        "dub": null,
+        "url": "https://www.animegg.org/yingxiong-zai-lin-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/111628",
+        "dub": null,
+        "url": "https://www.animegg.org/yingxiong-zai-lin-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/111627",
+        "dub": null,
+        "url": "https://www.animegg.org/yingxiong-zai-lin-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/111626",
+        "dub": null,
+        "url": "https://www.animegg.org/yingxiong-zai-lin-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/111625",
+        "dub": null,
+        "url": "https://www.animegg.org/yingxiong-zai-lin-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/111624",
+        "dub": null,
+        "url": "https://www.animegg.org/yingxiong-zai-lin-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/111623",
+        "dub": null,
+        "url": "https://www.animegg.org/yingxiong-zai-lin-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/111622",
+        "dub": null,
+        "url": "https://www.animegg.org/yingxiong-zai-lin-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/111621",
+        "dub": null,
+        "url": "https://www.animegg.org/yingxiong-zai-lin-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/111631",
+        "dub": null,
+        "url": "https://www.animegg.org/yingxiong-zai-lin-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/111630",
+        "dub": null,
+        "url": "https://www.animegg.org/yingxiong-zai-lin-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/111629",
+        "dub": null,
+        "url": "https://www.animegg.org/yingxiong-zai-lin-episode-12"
+      }
+    ]
   }
 ]
