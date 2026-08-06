@@ -90519,5 +90519,21 @@
         "url": "https://www.animegg.org/machine-doll-wa-kizutsukanai-specials-dub-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 8997,
+    "title": "Oomuro-ke: Dear Sisters",
+    "animegg_url": "https://www.animegg.org/series/oomuro-ke-dear-sisters",
+    "mal_url": "https://myanimelist.net/anime/56175",
+    "mal_id": 56175,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/133589",
+        "dub": null,
+        "url": "https://www.animegg.org/oomuro-ke-dear-sisters-episode-1"
+      }
+    ]
   }
 ]
