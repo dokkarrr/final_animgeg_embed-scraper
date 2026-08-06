@@ -88100,5 +88100,39 @@
         "url": "https://www.animegg.org/whisper-of-the-heart-dub-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8910,
+    "title": "Uchuu Taitei God Sigma",
+    "animegg_url": "https://www.animegg.org/series/uchuu-taitei-god-sigma",
+    "mal_url": "https://myanimelist.net/anime/4183",
+    "mal_id": 4183,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/116264",
+        "dub": null,
+        "url": "https://www.animegg.org/uchuu-taitei-god-sigma-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/116263",
+        "dub": null,
+        "url": "https://www.animegg.org/uchuu-taitei-god-sigma-episode-2"
+      },
+      {
+        "ep": 49,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/uchuu-taitei-god-sigma-episode-49"
+      },
+      {
+        "ep": 50,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/uchuu-taitei-god-sigma-episode-50"
+      }
+    ]
   }
 ]
