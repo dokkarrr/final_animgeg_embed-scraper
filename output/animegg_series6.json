@@ -50261,5 +50261,33 @@
         "url": "https://www.animegg.org/lalalademacia-5nd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8168,
+    "title": "Himawari!! (Second Season)",
+    "animegg_url": "https://www.animegg.org/series/himawari-second-season",
+    "mal_url": "https://myanimelist.net/anime/910",
+    "mal_id": 910,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/99317",
+        "dub": null,
+        "url": "https://www.animegg.org/himawari-second-season-episode-4"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/99318",
+        "dub": null,
+        "url": "https://www.animegg.org/himawari-second-season-episode-9"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/99316",
+        "dub": null,
+        "url": "https://www.animegg.org/himawari-second-season-episode-13"
+      }
+    ]
   }
 ]
