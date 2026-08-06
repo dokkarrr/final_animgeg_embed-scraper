@@ -3006,5 +3006,39 @@
         "url": "https://www.animegg.org/magic-knight-rayearth-dub-episode-20"
       }
     ]
+  },
+  {
+    "serial_no": 7545,
+    "title": "Let's Go Karaoke!",
+    "animegg_url": "https://www.animegg.org/series/let-s-go-karaoke",
+    "mal_url": "https://myanimelist.net/anime/60131",
+    "mal_id": 60131,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/141989",
+        "dub": null,
+        "url": "https://www.animegg.org/let-s-go-karaoke-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/142111",
+        "dub": null,
+        "url": "https://www.animegg.org/let-s-go-karaoke-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/142237",
+        "dub": null,
+        "url": "https://www.animegg.org/let-s-go-karaoke-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/142697",
+        "dub": null,
+        "url": "https://www.animegg.org/let-s-go-karaoke-episode-5"
+      }
+    ]
   }
 ]
