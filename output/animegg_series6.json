@@ -87188,5 +87188,21 @@
     "mal_id": 50159,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 8873,
+    "title": "Perfect Blue (Dub)",
+    "animegg_url": "https://www.animegg.org/series/perfect-blue-dub",
+    "mal_url": "https://myanimelist.net/anime/28621",
+    "mal_id": 28621,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/perfect-blue-dub-episode-1"
+      }
+    ]
   }
 ]
