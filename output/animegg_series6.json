@@ -87563,5 +87563,33 @@
         "url": "https://www.animegg.org/zhen-dao-ge-chenshi-xing-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8886,
+    "title": "Fate/kaleid liner Prisma☆Illya 2wei! Specials",
+    "animegg_url": "https://www.animegg.org/series/fatekaleid-liner-prisma-illya-2wei-specials",
+    "mal_url": "https://myanimelist.net/anime/25011",
+    "mal_id": 25011,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/126994",
+        "dub": null,
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-illya-2wei-specials-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/126995",
+        "dub": null,
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-illya-2wei-specials-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/126996",
+        "dub": null,
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-illya-2wei-specials-episode-1"
+      }
+    ]
   }
 ]
