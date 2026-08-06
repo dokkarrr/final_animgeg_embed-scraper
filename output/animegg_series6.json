@@ -88529,5 +88529,27 @@
         "url": "https://www.animegg.org/tatakae-iczer-1-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8923,
+    "title": "Happy Kappi",
+    "animegg_url": "https://www.animegg.org/series/happy-kappi",
+    "mal_url": "https://myanimelist.net/anime/10347",
+    "mal_id": 10347,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/99315",
+        "dub": null,
+        "url": "https://www.animegg.org/happy-kappi-episode-4"
+      },
+      {
+        "ep": 25,
+        "sub": "https://www.animegg.org/embed/99314",
+        "dub": null,
+        "url": "https://www.animegg.org/happy-kappi-episode-25"
+      }
+    ]
   }
 ]
