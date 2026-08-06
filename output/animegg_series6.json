@@ -71157,5 +71157,69 @@
         "url": "https://www.animegg.org/bu-shi-bu-mie-episode-15"
       }
     ]
+  },
+  {
+    "serial_no": 8500,
+    "title": "My Seven Sisters Are Unparalleled",
+    "animegg_url": "https://www.animegg.org/series/my-seven-sisters-are-unparalleled",
+    "mal_url": "https://myanimelist.net/anime/34497",
+    "mal_id": 34497,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/135837",
+        "dub": null,
+        "url": "https://www.animegg.org/my-seven-sisters-are-unparalleled-episode-6"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/135915",
+        "dub": null,
+        "url": "https://www.animegg.org/my-seven-sisters-are-unparalleled-episode-9"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/136096",
+        "dub": null,
+        "url": "https://www.animegg.org/my-seven-sisters-are-unparalleled-episode-11"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/136227",
+        "dub": null,
+        "url": "https://www.animegg.org/my-seven-sisters-are-unparalleled-episode-13"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/136757",
+        "dub": null,
+        "url": "https://www.animegg.org/my-seven-sisters-are-unparalleled-episode-15"
+      },
+      {
+        "ep": 21,
+        "sub": "https://www.animegg.org/embed/136836",
+        "dub": null,
+        "url": "https://www.animegg.org/my-seven-sisters-are-unparalleled-episode-21"
+      },
+      {
+        "ep": 22,
+        "sub": "https://www.animegg.org/embed/136926",
+        "dub": null,
+        "url": "https://www.animegg.org/my-seven-sisters-are-unparalleled-episode-22"
+      },
+      {
+        "ep": 26,
+        "sub": "https://www.animegg.org/embed/137417",
+        "dub": null,
+        "url": "https://www.animegg.org/my-seven-sisters-are-unparalleled-episode-26"
+      },
+      {
+        "ep": 27,
+        "sub": "https://www.animegg.org/embed/137907",
+        "dub": null,
+        "url": "https://www.animegg.org/my-seven-sisters-are-unparalleled-episode-27"
+      }
+    ]
   }
 ]
