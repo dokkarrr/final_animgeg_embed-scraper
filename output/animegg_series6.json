@@ -89564,5 +89564,27 @@
     "mal_id": 56685,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 8963,
+    "title": "Persona 5 the Animation TV Specials (Dub)",
+    "animegg_url": "https://www.animegg.org/series/persona-5-the-animation-tv-specials-dub",
+    "mal_url": "https://myanimelist.net/anime/36023",
+    "mal_id": 36023,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/persona-5-the-animation-tv-specials-dub-episode-2"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/persona-5-the-animation-tv-specials-dub-episode-1"
+      }
+    ]
   }
 ]
