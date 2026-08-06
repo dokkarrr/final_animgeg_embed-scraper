@@ -85944,5 +85944,51 @@
     "mal_id": 50407,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 8829,
+    "title": "Reborn As A Monster! What The Hell Season 2",
+    "animegg_url": "https://www.animegg.org/series/reborn-as-a-monster-what-the-hell-season-2",
+    "mal_url": "https://myanimelist.net/anime/14227",
+    "mal_id": 14227,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/137804",
+        "dub": null,
+        "url": "https://www.animegg.org/reborn-as-a-monster-what-the-hell-season-2-episode-22"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/137329",
+        "dub": null,
+        "url": "https://www.animegg.org/reborn-as-a-monster-what-the-hell-season-2-episode-20"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/reborn-as-a-monster-what-the-hell-season-2-episode-18"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/136995",
+        "dub": null,
+        "url": "https://www.animegg.org/reborn-as-a-monster-what-the-hell-season-2-episode-16"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/136790",
+        "dub": null,
+        "url": "https://www.animegg.org/reborn-as-a-monster-what-the-hell-season-2-episode-14"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/reborn-as-a-monster-what-the-hell-season-2-episode-12"
+      }
+    ]
   }
 ]
