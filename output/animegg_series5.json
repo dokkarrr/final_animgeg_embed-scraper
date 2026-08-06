@@ -145092,5 +145092,21 @@
         "url": "https://www.animegg.org/zombieland-saga-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 7130,
+    "title": "Ryuu to Sobakasu no Hime",
+    "animegg_url": "https://www.animegg.org/series/ryuu-to-sobakasu-no-hime",
+    "mal_url": "https://myanimelist.net/anime/44807",
+    "mal_id": 44807,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/104308",
+        "dub": null,
+        "url": "https://www.animegg.org/ryuu-to-sobakasu-no-hime-episode-1"
+      }
+    ]
   }
 ]
