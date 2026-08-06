@@ -87507,5 +87507,45 @@
         "url": "https://www.animegg.org/gaina-tamager-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 8884,
+    "title": "My Daemon",
+    "animegg_url": "https://www.animegg.org/series/my-daemon",
+    "mal_url": "https://myanimelist.net/anime/2471",
+    "mal_id": 2471,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/my-daemon-episode-5"
+      },
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/my-daemon-episode-8"
+      },
+      {
+        "ep": 10,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/my-daemon-episode-10"
+      },
+      {
+        "ep": 12,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/my-daemon-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/my-daemon-episode-13"
+      }
+    ]
   }
 ]
