@@ -68854,5 +68854,27 @@
         "url": "https://www.animegg.org/legion-of-super-heroes-season-01-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8461,
+    "title": "Hen",
+    "animegg_url": "https://www.animegg.org/series/hen",
+    "mal_url": "https://myanimelist.net/anime/2317",
+    "mal_id": 2317,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/139300",
+        "dub": null,
+        "url": "https://www.animegg.org/hen-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/139299",
+        "dub": null,
+        "url": "https://www.animegg.org/hen-episode-2"
+      }
+    ]
   }
 ]
