@@ -86663,5 +86663,63 @@
         "url": "https://www.animegg.org/pokemon-concierge-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 8852,
+    "title": "Cardfight vanguard divinez season 3",
+    "animegg_url": "https://www.animegg.org/series/cardfight-vanguard-divinez-season-3",
+    "mal_url": "https://myanimelist.net/anime/36022",
+    "mal_id": 36022,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/141506",
+        "dub": null,
+        "url": "https://www.animegg.org/cardfight-vanguard-divinez-season-3-episode-13"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/141226",
+        "dub": null,
+        "url": "https://www.animegg.org/cardfight-vanguard-divinez-season-3-episode-7"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/139897",
+        "dub": "https://www.animegg.org/embed/141134",
+        "url": "https://www.animegg.org/cardfight-vanguard-divinez-season-3-episode-6"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/139732",
+        "dub": "https://www.animegg.org/embed/141032",
+        "url": "https://www.animegg.org/cardfight-vanguard-divinez-season-3-episode-5"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/139570",
+        "dub": "https://www.animegg.org/embed/140923",
+        "url": "https://www.animegg.org/cardfight-vanguard-divinez-season-3-episode-4"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/139517",
+        "dub": "https://www.animegg.org/embed/140873",
+        "url": "https://www.animegg.org/cardfight-vanguard-divinez-season-3-episode-3"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/139518",
+        "dub": null,
+        "url": "https://www.animegg.org/cardfight-vanguard-divinez-season-3-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/139516",
+        "dub": null,
+        "url": "https://www.animegg.org/cardfight-vanguard-divinez-season-3-episode-1"
+      }
+    ]
   }
 ]
