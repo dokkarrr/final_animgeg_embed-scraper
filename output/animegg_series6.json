@@ -30163,5 +30163,93 @@
         "url": "https://www.animegg.org/ef-a-tale-of-memories-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 7889,
+    "title": "Saikano (Dub)",
+    "animegg_url": "https://www.animegg.org/series/saikano-dub",
+    "mal_url": "https://myanimelist.net/anime/609",
+    "mal_id": 609,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/118456",
+        "dub": null,
+        "url": "https://www.animegg.org/saikano-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/118451",
+        "dub": null,
+        "url": "https://www.animegg.org/saikano-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/118450",
+        "dub": null,
+        "url": "https://www.animegg.org/saikano-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/118449",
+        "dub": null,
+        "url": "https://www.animegg.org/saikano-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/118448",
+        "dub": null,
+        "url": "https://www.animegg.org/saikano-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/118447",
+        "dub": null,
+        "url": "https://www.animegg.org/saikano-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/118446",
+        "dub": null,
+        "url": "https://www.animegg.org/saikano-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/118445",
+        "dub": null,
+        "url": "https://www.animegg.org/saikano-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/118444",
+        "dub": null,
+        "url": "https://www.animegg.org/saikano-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/118455",
+        "dub": null,
+        "url": "https://www.animegg.org/saikano-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/118454",
+        "dub": null,
+        "url": "https://www.animegg.org/saikano-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/118453",
+        "dub": null,
+        "url": "https://www.animegg.org/saikano-dub-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/118452",
+        "dub": null,
+        "url": "https://www.animegg.org/saikano-dub-episode-13"
+      }
+    ]
   }
 ]
