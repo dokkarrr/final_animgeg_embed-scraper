@@ -73467,5 +73467,75 @@
         "url": "https://www.animegg.org/sarazanmai-dub-episode-11"
       }
     ]
+  },
+  {
+    "serial_no": 8539,
+    "title": "Xiaobing Chuanqi",
+    "animegg_url": "https://www.animegg.org/series/xiaobing-chuanqi",
+    "mal_url": "https://myanimelist.net/anime/58754",
+    "mal_id": 58754,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/133972",
+        "dub": null,
+        "url": "https://www.animegg.org/xiaobing-chuanqi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/xiaobing-chuanqi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/xiaobing-chuanqi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/xiaobing-chuanqi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/134476",
+        "dub": null,
+        "url": "https://www.animegg.org/xiaobing-chuanqi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/134637",
+        "dub": null,
+        "url": "https://www.animegg.org/xiaobing-chuanqi-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/xiaobing-chuanqi-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/xiaobing-chuanqi-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/xiaobing-chuanqi-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/135243",
+        "dub": null,
+        "url": "https://www.animegg.org/xiaobing-chuanqi-episode-10"
+      }
+    ]
   }
 ]
