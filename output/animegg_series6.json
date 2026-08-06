@@ -84108,5 +84108,69 @@
         "url": "https://www.animegg.org/choujuu-kishin-dancougar-ushinawareta-monotachi-e-no-requiem-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8773,
+    "title": "I Can Devour Everything",
+    "animegg_url": "https://www.animegg.org/series/i-can-devour-everything",
+    "mal_url": "https://myanimelist.net/anime/32491",
+    "mal_id": 32491,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 85,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/i-can-devour-everything-episode-85"
+      },
+      {
+        "ep": 86,
+        "sub": "https://www.animegg.org/embed/137386",
+        "dub": null,
+        "url": "https://www.animegg.org/i-can-devour-everything-episode-86"
+      },
+      {
+        "ep": 87,
+        "sub": "https://www.animegg.org/embed/137477",
+        "dub": null,
+        "url": "https://www.animegg.org/i-can-devour-everything-episode-87"
+      },
+      {
+        "ep": 88,
+        "sub": "https://www.animegg.org/embed/137709",
+        "dub": null,
+        "url": "https://www.animegg.org/i-can-devour-everything-episode-88"
+      },
+      {
+        "ep": 90,
+        "sub": "https://www.animegg.org/embed/137913",
+        "dub": null,
+        "url": "https://www.animegg.org/i-can-devour-everything-episode-90"
+      },
+      {
+        "ep": 91,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/i-can-devour-everything-episode-91"
+      },
+      {
+        "ep": 92,
+        "sub": "https://www.animegg.org/embed/138235",
+        "dub": null,
+        "url": "https://www.animegg.org/i-can-devour-everything-episode-92"
+      },
+      {
+        "ep": 94,
+        "sub": "https://www.animegg.org/embed/138927",
+        "dub": null,
+        "url": "https://www.animegg.org/i-can-devour-everything-episode-94"
+      },
+      {
+        "ep": 97,
+        "sub": "https://www.animegg.org/embed/139114",
+        "dub": null,
+        "url": "https://www.animegg.org/i-can-devour-everything-episode-97"
+      }
+    ]
   }
 ]
