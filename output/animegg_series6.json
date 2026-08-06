@@ -88024,5 +88024,33 @@
         "url": "https://www.animegg.org/guai-xiang-shou-episode-7"
       }
     ]
+  },
+  {
+    "serial_no": 8906,
+    "title": "Bakuretsu Hunters OVA",
+    "animegg_url": "https://www.animegg.org/series/bakuretsu-hunters-ova",
+    "mal_url": "https://myanimelist.net/anime/808",
+    "mal_id": 808,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/110503",
+        "dub": null,
+        "url": "https://www.animegg.org/bakuretsu-hunters-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/110504",
+        "dub": null,
+        "url": "https://www.animegg.org/bakuretsu-hunters-ova-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/110505",
+        "dub": null,
+        "url": "https://www.animegg.org/bakuretsu-hunters-ova-episode-3"
+      }
+    ]
   }
 ]
