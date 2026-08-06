@@ -89359,5 +89359,27 @@
     "mal_id": 5252,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 8955,
+    "title": "Detective Conan: Amuro Secret Call",
+    "animegg_url": "https://www.animegg.org/series/detective-conan-amuro-secret-call",
+    "mal_url": "https://myanimelist.net/anime/38788",
+    "mal_id": 38788,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/detective-conan-amuro-secret-call-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/detective-conan-amuro-secret-call-episode-2"
+      }
+    ]
   }
 ]
