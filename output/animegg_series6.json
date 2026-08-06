@@ -25930,5 +25930,87 @@
         "url": "https://www.animegg.org/psychic-princess-season-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 7831,
+    "title": "Xian Yu Ge",
+    "animegg_url": "https://www.animegg.org/series/xian-yu-ge",
+    "mal_url": "https://myanimelist.net/anime/48000",
+    "mal_id": 48000,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/xian-yu-ge-episode-1"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/xian-yu-ge-episode-3"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/xian-yu-ge-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/xian-yu-ge-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/xian-yu-ge-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/xian-yu-ge-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/xian-yu-ge-episode-9"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/113380",
+        "dub": null,
+        "url": "https://www.animegg.org/xian-yu-ge-episode-13"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/113379",
+        "dub": null,
+        "url": "https://www.animegg.org/xian-yu-ge-episode-15"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/113377",
+        "dub": null,
+        "url": "https://www.animegg.org/xian-yu-ge-episode-16"
+      },
+      {
+        "ep": 17,
+        "sub": "https://www.animegg.org/embed/113378",
+        "dub": null,
+        "url": "https://www.animegg.org/xian-yu-ge-episode-17"
+      },
+      {
+        "ep": 18,
+        "sub": "https://www.animegg.org/embed/113376",
+        "dub": null,
+        "url": "https://www.animegg.org/xian-yu-ge-episode-18"
+      }
+    ]
   }
 ]
