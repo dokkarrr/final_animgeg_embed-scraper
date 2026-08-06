@@ -76189,5 +76189,57 @@
         "url": "https://www.animegg.org/neko-ni-tensei-shita-ojisan-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 8592,
+    "title": "Hui Ming: Fenghuo San Yue",
+    "animegg_url": "https://www.animegg.org/series/hui-ming-fenghuo-san-yue",
+    "mal_url": "https://myanimelist.net/anime/58551",
+    "mal_id": 58551,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/134103",
+        "dub": null,
+        "url": "https://www.animegg.org/hui-ming-fenghuo-san-yue-episode-3"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/134597",
+        "dub": null,
+        "url": "https://www.animegg.org/hui-ming-fenghuo-san-yue-episode-6"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/135212",
+        "dub": null,
+        "url": "https://www.animegg.org/hui-ming-fenghuo-san-yue-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/135548",
+        "dub": null,
+        "url": "https://www.animegg.org/hui-ming-fenghuo-san-yue-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/135644",
+        "dub": null,
+        "url": "https://www.animegg.org/hui-ming-fenghuo-san-yue-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/135788",
+        "dub": null,
+        "url": "https://www.animegg.org/hui-ming-fenghuo-san-yue-episode-13"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/136050",
+        "dub": null,
+        "url": "https://www.animegg.org/hui-ming-fenghuo-san-yue-episode-15"
+      }
+    ]
   }
 ]
