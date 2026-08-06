@@ -85759,5 +85759,33 @@
         "url": "https://www.animegg.org/gegege-no-kitarou-jigoku-hen-episode-7"
       }
     ]
+  },
+  {
+    "serial_no": 8823,
+    "title": "Tamako Market: Dera’s BAR",
+    "animegg_url": "https://www.animegg.org/series/tamako-market-dera-s-bar",
+    "mal_url": "https://myanimelist.net/anime/17879",
+    "mal_id": 17879,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/tamako-market-dera-s-bar-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/tamako-market-dera-s-bar-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/tamako-market-dera-s-bar-episode-3"
+      }
+    ]
   }
 ]
