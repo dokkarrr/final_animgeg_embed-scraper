@@ -139966,5 +139966,21 @@
         "url": "https://www.animegg.org/nine-heavens-emperor-god-season-3-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 7083,
+    "title": "Boku no Hero Academia: Training of the Dead",
+    "animegg_url": "https://www.animegg.org/series/boku-no-hero-academia-training-of-the-dead",
+    "mal_url": "https://myanimelist.net/anime/35459",
+    "mal_id": 35459,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/104711",
+        "dub": null,
+        "url": "https://www.animegg.org/boku-no-hero-academia-training-of-the-dead-episode-1"
+      }
+    ]
   }
 ]
