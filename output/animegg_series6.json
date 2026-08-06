@@ -40212,5 +40212,69 @@
         "url": "https://www.animegg.org/c-danchi-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 8026,
+    "title": "Yoroi shinden samurai troopers",
+    "animegg_url": "https://www.animegg.org/series/yoroi-shinden-samurai-troopers",
+    "mal_url": "https://myanimelist.net/anime/61830",
+    "mal_id": 61830,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/144800",
+        "dub": null,
+        "url": "https://www.animegg.org/yoroi-shinden-samurai-troopers-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/144914",
+        "dub": null,
+        "url": "https://www.animegg.org/yoroi-shinden-samurai-troopers-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/145023",
+        "dub": null,
+        "url": "https://www.animegg.org/yoroi-shinden-samurai-troopers-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/145126",
+        "dub": null,
+        "url": "https://www.animegg.org/yoroi-shinden-samurai-troopers-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/145219",
+        "dub": null,
+        "url": "https://www.animegg.org/yoroi-shinden-samurai-troopers-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/146343",
+        "dub": null,
+        "url": "https://www.animegg.org/yoroi-shinden-samurai-troopers-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/146436",
+        "dub": null,
+        "url": "https://www.animegg.org/yoroi-shinden-samurai-troopers-episode-14"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/146582",
+        "dub": null,
+        "url": "https://www.animegg.org/yoroi-shinden-samurai-troopers-episode-16"
+      },
+      {
+        "ep": 17,
+        "sub": "https://www.animegg.org/embed/146629",
+        "dub": null,
+        "url": "https://www.animegg.org/yoroi-shinden-samurai-troopers-episode-17"
+      }
+    ]
   }
 ]
