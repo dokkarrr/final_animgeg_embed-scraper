@@ -71891,5 +71891,87 @@
         "url": "https://www.animegg.org/no1-player-episode-45"
       }
     ]
+  },
+  {
+    "serial_no": 8511,
+    "title": "Ochikobore Fruit Tart (Dub)",
+    "animegg_url": "https://www.animegg.org/series/ochikobore-fruit-tart-dub",
+    "mal_url": "https://myanimelist.net/anime/39609",
+    "mal_id": 39609,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/121187",
+        "dub": null,
+        "url": "https://www.animegg.org/ochikobore-fruit-tart-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/121185",
+        "dub": null,
+        "url": "https://www.animegg.org/ochikobore-fruit-tart-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/121184",
+        "dub": null,
+        "url": "https://www.animegg.org/ochikobore-fruit-tart-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/121183",
+        "dub": null,
+        "url": "https://www.animegg.org/ochikobore-fruit-tart-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/121182",
+        "dub": null,
+        "url": "https://www.animegg.org/ochikobore-fruit-tart-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/121181",
+        "dub": null,
+        "url": "https://www.animegg.org/ochikobore-fruit-tart-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/121180",
+        "dub": null,
+        "url": "https://www.animegg.org/ochikobore-fruit-tart-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/121179",
+        "dub": null,
+        "url": "https://www.animegg.org/ochikobore-fruit-tart-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ochikobore-fruit-tart-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ochikobore-fruit-tart-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ochikobore-fruit-tart-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/121186",
+        "dub": null,
+        "url": "https://www.animegg.org/ochikobore-fruit-tart-dub-episode-12"
+      }
+    ]
   }
 ]
