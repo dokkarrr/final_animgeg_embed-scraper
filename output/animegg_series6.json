@@ -60360,5 +60360,87 @@
         "url": "https://www.animegg.org/hackliminality-dub-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 8326,
+    "title": "Levius (Dub)",
+    "animegg_url": "https://www.animegg.org/series/levius-dub",
+    "mal_url": "https://myanimelist.net/anime/39574",
+    "mal_id": 39574,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/123164",
+        "dub": null,
+        "url": "https://www.animegg.org/levius-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/123160",
+        "dub": null,
+        "url": "https://www.animegg.org/levius-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/123159",
+        "dub": null,
+        "url": "https://www.animegg.org/levius-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/123158",
+        "dub": null,
+        "url": "https://www.animegg.org/levius-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/123157",
+        "dub": null,
+        "url": "https://www.animegg.org/levius-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/123156",
+        "dub": null,
+        "url": "https://www.animegg.org/levius-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/123155",
+        "dub": null,
+        "url": "https://www.animegg.org/levius-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/123154",
+        "dub": null,
+        "url": "https://www.animegg.org/levius-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/123153",
+        "dub": null,
+        "url": "https://www.animegg.org/levius-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/123163",
+        "dub": null,
+        "url": "https://www.animegg.org/levius-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/123162",
+        "dub": null,
+        "url": "https://www.animegg.org/levius-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/123161",
+        "dub": null,
+        "url": "https://www.animegg.org/levius-dub-episode-12"
+      }
+    ]
   }
 ]
