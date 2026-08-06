@@ -34267,5 +34267,75 @@
         "url": "https://www.animegg.org/yaoguai-mingdan-season-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 7940,
+    "title": "Puchi Seka",
+    "animegg_url": "https://www.animegg.org/series/puchi-seka",
+    "mal_url": "https://myanimelist.net/anime/49939",
+    "mal_id": 49939,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/119698",
+        "dub": null,
+        "url": "https://www.animegg.org/puchi-seka-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/puchi-seka-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/puchi-seka-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/puchi-seka-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/puchi-seka-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/119696",
+        "dub": null,
+        "url": "https://www.animegg.org/puchi-seka-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/119695",
+        "dub": null,
+        "url": "https://www.animegg.org/puchi-seka-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/119693",
+        "dub": null,
+        "url": "https://www.animegg.org/puchi-seka-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/119694",
+        "dub": null,
+        "url": "https://www.animegg.org/puchi-seka-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/119697",
+        "dub": null,
+        "url": "https://www.animegg.org/puchi-seka-episode-10"
+      }
+    ]
   }
 ]
