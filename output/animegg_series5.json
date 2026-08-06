@@ -136934,5 +136934,81 @@
         "url": "https://www.animegg.org/its-my-life-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 7060,
+    "title": "Given",
+    "animegg_url": "https://www.animegg.org/series/given-dub",
+    "mal_url": "https://myanimelist.net/anime/39533",
+    "mal_id": 39533,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/given-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/given-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/given-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/given-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/given-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/given-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/given-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/given-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/given-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/given-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/given-dub-episode-11"
+      }
+    ]
   }
 ]
