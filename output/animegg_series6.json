@@ -85121,5 +85121,51 @@
         "url": "https://www.animegg.org/bang-dream-morfonication-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 8804,
+    "title": "Transformers: War For Cybertron Trilogy",
+    "animegg_url": "https://www.animegg.org/series/transformers-war-for-cybertron-trilogy",
+    "mal_url": "https://myanimelist.net/anime/928",
+    "mal_id": 928,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/116629",
+        "dub": null,
+        "url": "https://www.animegg.org/transformers-war-for-cybertron-trilogy-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/transformers-war-for-cybertron-trilogy-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/116628",
+        "dub": null,
+        "url": "https://www.animegg.org/transformers-war-for-cybertron-trilogy-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/116627",
+        "dub": null,
+        "url": "https://www.animegg.org/transformers-war-for-cybertron-trilogy-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/116626",
+        "dub": null,
+        "url": "https://www.animegg.org/transformers-war-for-cybertron-trilogy-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/116625",
+        "dub": null,
+        "url": "https://www.animegg.org/transformers-war-for-cybertron-trilogy-episode-6"
+      }
+    ]
   }
 ]
