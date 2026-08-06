@@ -626,5 +626,21 @@
         "url": "https://www.animegg.org/itou-junji-maniac-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 7511,
+    "title": "The First Slam Dunk",
+    "animegg_url": "https://www.animegg.org/series/the-first-slam-dunk",
+    "mal_url": "https://myanimelist.net/anime/45649",
+    "mal_id": 45649,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/the-first-slam-dunk-episode-1"
+      }
+    ]
   }
 ]
