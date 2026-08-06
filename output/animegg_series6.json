@@ -3040,5 +3040,93 @@
         "url": "https://www.animegg.org/let-s-go-karaoke-episode-5"
       }
     ]
+  },
+  {
+    "serial_no": 7546,
+    "title": "Super Crooks (Dub)",
+    "animegg_url": "https://www.animegg.org/series/super-crooks-dub",
+    "mal_url": "https://myanimelist.net/anime/48453",
+    "mal_id": 48453,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/117574",
+        "dub": null,
+        "url": "https://www.animegg.org/super-crooks-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/117569",
+        "dub": null,
+        "url": "https://www.animegg.org/super-crooks-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/117568",
+        "dub": null,
+        "url": "https://www.animegg.org/super-crooks-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/117567",
+        "dub": null,
+        "url": "https://www.animegg.org/super-crooks-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/117566",
+        "dub": null,
+        "url": "https://www.animegg.org/super-crooks-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/117565",
+        "dub": null,
+        "url": "https://www.animegg.org/super-crooks-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/117564",
+        "dub": null,
+        "url": "https://www.animegg.org/super-crooks-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/117563",
+        "dub": null,
+        "url": "https://www.animegg.org/super-crooks-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/117562",
+        "dub": null,
+        "url": "https://www.animegg.org/super-crooks-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/117573",
+        "dub": null,
+        "url": "https://www.animegg.org/super-crooks-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/117572",
+        "dub": null,
+        "url": "https://www.animegg.org/super-crooks-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/117571",
+        "dub": null,
+        "url": "https://www.animegg.org/super-crooks-dub-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/117570",
+        "dub": null,
+        "url": "https://www.animegg.org/super-crooks-dub-episode-13"
+      }
+    ]
   }
 ]
