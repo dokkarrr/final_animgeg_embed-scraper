@@ -11287,5 +11287,21 @@
         "url": "https://www.animegg.org/sunohara-sou-no-kanrinin-san-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 7643,
+    "title": "Null Peta Special",
+    "animegg_url": "https://www.animegg.org/series/null-peta-special",
+    "mal_url": "https://myanimelist.net/anime/40932",
+    "mal_id": 40932,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/97721",
+        "dub": null,
+        "url": "https://www.animegg.org/null-peta-special-episode-1"
+      }
+    ]
   }
 ]
