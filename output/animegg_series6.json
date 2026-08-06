@@ -53841,5 +53841,87 @@
         "url": "https://www.animegg.org/ima-soko-ni-iru-boku-dub-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 8222,
+    "title": "Da Wang Bu Gaoxing 2",
+    "animegg_url": "https://www.animegg.org/series/da-wang-bu-gaoxing-2",
+    "mal_url": "https://myanimelist.net/anime/42302",
+    "mal_id": 42302,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/128367",
+        "dub": null,
+        "url": "https://www.animegg.org/da-wang-bu-gaoxing-2-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/128368",
+        "dub": null,
+        "url": "https://www.animegg.org/da-wang-bu-gaoxing-2-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/128369",
+        "dub": null,
+        "url": "https://www.animegg.org/da-wang-bu-gaoxing-2-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/128359",
+        "dub": null,
+        "url": "https://www.animegg.org/da-wang-bu-gaoxing-2-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/128360",
+        "dub": null,
+        "url": "https://www.animegg.org/da-wang-bu-gaoxing-2-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/128361",
+        "dub": null,
+        "url": "https://www.animegg.org/da-wang-bu-gaoxing-2-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/128362",
+        "dub": null,
+        "url": "https://www.animegg.org/da-wang-bu-gaoxing-2-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/128363",
+        "dub": null,
+        "url": "https://www.animegg.org/da-wang-bu-gaoxing-2-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/128364",
+        "dub": null,
+        "url": "https://www.animegg.org/da-wang-bu-gaoxing-2-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/128365",
+        "dub": null,
+        "url": "https://www.animegg.org/da-wang-bu-gaoxing-2-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/128366",
+        "dub": null,
+        "url": "https://www.animegg.org/da-wang-bu-gaoxing-2-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/128370",
+        "dub": null,
+        "url": "https://www.animegg.org/da-wang-bu-gaoxing-2-episode-1"
+      }
+    ]
   }
 ]
