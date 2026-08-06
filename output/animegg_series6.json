@@ -88750,5 +88750,33 @@
         "url": "https://www.animegg.org/vampire-in-the-garden-dub-episode-5"
       }
     ]
+  },
+  {
+    "serial_no": 8929,
+    "title": "Scryed",
+    "animegg_url": "https://www.animegg.org/series/scryed",
+    "mal_url": "https://myanimelist.net/anime/168",
+    "mal_id": 168,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/107211",
+        "dub": null,
+        "url": "https://www.animegg.org/scryed-episode-3"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/107224",
+        "dub": null,
+        "url": "https://www.animegg.org/scryed-episode-14"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/107206",
+        "dub": null,
+        "url": "https://www.animegg.org/scryed-episode-15"
+      }
+    ]
   }
 ]
