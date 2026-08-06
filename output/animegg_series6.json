@@ -22926,5 +22926,87 @@
         "url": "https://www.animegg.org/youkaiden-nekome-kozou-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 7797,
+    "title": "Saiyuuki Reload Blast (Dub)",
+    "animegg_url": "https://www.animegg.org/series/saiyuuki-reload-blast-dub",
+    "mal_url": "https://myanimelist.net/anime/33726",
+    "mal_id": 33726,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/118093",
+        "dub": null,
+        "url": "https://www.animegg.org/saiyuuki-reload-blast-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/118089",
+        "dub": null,
+        "url": "https://www.animegg.org/saiyuuki-reload-blast-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/118088",
+        "dub": null,
+        "url": "https://www.animegg.org/saiyuuki-reload-blast-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/118087",
+        "dub": null,
+        "url": "https://www.animegg.org/saiyuuki-reload-blast-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/118086",
+        "dub": null,
+        "url": "https://www.animegg.org/saiyuuki-reload-blast-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/118085",
+        "dub": null,
+        "url": "https://www.animegg.org/saiyuuki-reload-blast-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/118084",
+        "dub": null,
+        "url": "https://www.animegg.org/saiyuuki-reload-blast-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/118083",
+        "dub": null,
+        "url": "https://www.animegg.org/saiyuuki-reload-blast-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/118082",
+        "dub": null,
+        "url": "https://www.animegg.org/saiyuuki-reload-blast-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/118092",
+        "dub": null,
+        "url": "https://www.animegg.org/saiyuuki-reload-blast-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/118091",
+        "dub": null,
+        "url": "https://www.animegg.org/saiyuuki-reload-blast-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/118090",
+        "dub": null,
+        "url": "https://www.animegg.org/saiyuuki-reload-blast-dub-episode-12"
+      }
+    ]
   }
 ]
