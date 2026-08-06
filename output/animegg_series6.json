@@ -64922,5 +64922,57 @@
         "url": "https://www.animegg.org/sayonara-watashi-no-cramer-movie-first-touch-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8400,
+    "title": "Pacific Rim: The Black (Dub)",
+    "animegg_url": "https://www.animegg.org/series/pacific-rim-the-black-dub",
+    "mal_url": "https://myanimelist.net/anime/68",
+    "mal_id": 68,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/120559",
+        "dub": null,
+        "url": "https://www.animegg.org/pacific-rim-the-black-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/120558",
+        "dub": null,
+        "url": "https://www.animegg.org/pacific-rim-the-black-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/120557",
+        "dub": null,
+        "url": "https://www.animegg.org/pacific-rim-the-black-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/120556",
+        "dub": null,
+        "url": "https://www.animegg.org/pacific-rim-the-black-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/120555",
+        "dub": null,
+        "url": "https://www.animegg.org/pacific-rim-the-black-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/120554",
+        "dub": null,
+        "url": "https://www.animegg.org/pacific-rim-the-black-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/120553",
+        "dub": null,
+        "url": "https://www.animegg.org/pacific-rim-the-black-dub-episode-7"
+      }
+    ]
   }
 ]
