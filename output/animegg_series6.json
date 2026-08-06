@@ -85611,5 +85611,51 @@
     "mal_id": 9656,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 8819,
+    "title": "Xi Xing Ji: Kuang Wang",
+    "animegg_url": "https://www.animegg.org/series/xi-xing-ji-kuang-wang",
+    "mal_url": "https://myanimelist.net/anime/58001",
+    "mal_id": 58001,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/xi-xing-ji-kuang-wang-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/133265",
+        "dub": null,
+        "url": "https://www.animegg.org/xi-xing-ji-kuang-wang-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/xi-xing-ji-kuang-wang-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/xi-xing-ji-kuang-wang-episode-5"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/xi-xing-ji-kuang-wang-episode-7"
+      },
+      {
+        "ep": 9,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/xi-xing-ji-kuang-wang-episode-9"
+      }
+    ]
   }
 ]
