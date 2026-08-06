@@ -82465,5 +82465,21 @@
         "url": "https://www.animegg.org/nushen-you-dian-ling-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 8731,
+    "title": "Karigurashi no Arrietty",
+    "animegg_url": "https://www.animegg.org/series/karigurashi-no-arrietty",
+    "mal_url": "https://myanimelist.net/anime/7711",
+    "mal_id": 7711,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/123628",
+        "dub": null,
+        "url": "https://www.animegg.org/karigurashi-no-arrietty-episode-1"
+      }
+    ]
   }
 ]
