@@ -85787,5 +85787,21 @@
         "url": "https://www.animegg.org/tamako-market-dera-s-bar-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 8824,
+    "title": "Detective Conan Movie 23: The Fist of Blue Sapphire",
+    "animegg_url": "https://www.animegg.org/series/detective-conan-movie-23-the-fist-of-blue-sapphire-dub",
+    "mal_url": "https://myanimelist.net/anime/38770",
+    "mal_id": 38770,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 23,
+        "sub": "https://www.animegg.org/embed/127923",
+        "dub": null,
+        "url": "https://www.animegg.org/detective-conan-movie-23-the-fist-of-blue-sapphire-dub-episode-1"
+      }
+    ]
   }
 ]
