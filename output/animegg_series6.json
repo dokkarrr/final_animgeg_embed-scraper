@@ -38848,5 +38848,21 @@
         "url": "https://www.animegg.org/saa-ikou-tamagotchi-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8006,
+    "title": "Boku no Kokoro no Yabai Yatsu: Twi-Yaba",
+    "animegg_url": "https://www.animegg.org/series/boku-no-kokoro-no-yabai-yatsu-twi-yaba",
+    "mal_url": "https://myanimelist.net/anime/56948",
+    "mal_id": 56948,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/132592",
+        "dub": null,
+        "url": "https://www.animegg.org/boku-no-kokoro-no-yabai-yatsu-twi-yaba-episode-1"
+      }
+    ]
   }
 ]
