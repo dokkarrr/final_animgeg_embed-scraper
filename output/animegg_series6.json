@@ -55509,5 +55509,21 @@
         "url": "https://www.animegg.org/ta-bu-dang-nuzhu-hen-duo-nian-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 8246,
+    "title": "Demon Lord, Retry! R",
+    "animegg_url": "https://www.animegg.org/series/demon-lord-retry-r",
+    "mal_url": "https://myanimelist.net/anime/56400",
+    "mal_id": 56400,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/139356",
+        "dub": null,
+        "url": "https://www.animegg.org/demon-lord-retry-r-episode-12"
+      }
+    ]
   }
 ]
