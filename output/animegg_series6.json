@@ -25696,5 +25696,99 @@
         "url": "https://www.animegg.org/harukana-receive-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 7828,
+    "title": "Kakyuusei (TV)",
+    "animegg_url": "https://www.animegg.org/series/kakyuusei-tv",
+    "mal_url": "https://myanimelist.net/anime/2609",
+    "mal_id": 2609,
+    "total_ep": 14,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/123784",
+        "dub": null,
+        "url": "https://www.animegg.org/kakyuusei-tv-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/123778",
+        "dub": null,
+        "url": "https://www.animegg.org/kakyuusei-tv-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/123777",
+        "dub": null,
+        "url": "https://www.animegg.org/kakyuusei-tv-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/123776",
+        "dub": null,
+        "url": "https://www.animegg.org/kakyuusei-tv-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/123775",
+        "dub": null,
+        "url": "https://www.animegg.org/kakyuusei-tv-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/123774",
+        "dub": null,
+        "url": "https://www.animegg.org/kakyuusei-tv-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/123773",
+        "dub": null,
+        "url": "https://www.animegg.org/kakyuusei-tv-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/123772",
+        "dub": null,
+        "url": "https://www.animegg.org/kakyuusei-tv-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/123771",
+        "dub": null,
+        "url": "https://www.animegg.org/kakyuusei-tv-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/123783",
+        "dub": null,
+        "url": "https://www.animegg.org/kakyuusei-tv-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/123782",
+        "dub": null,
+        "url": "https://www.animegg.org/kakyuusei-tv-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/123781",
+        "dub": null,
+        "url": "https://www.animegg.org/kakyuusei-tv-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/123780",
+        "dub": null,
+        "url": "https://www.animegg.org/kakyuusei-tv-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/123779",
+        "dub": null,
+        "url": "https://www.animegg.org/kakyuusei-tv-episode-14"
+      }
+    ]
   }
 ]
