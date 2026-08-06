@@ -33241,5 +33241,93 @@
         "url": "https://www.animegg.org/xin-jue-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 7928,
+    "title": "Oh! Super Milk-chan",
+    "animegg_url": "https://www.animegg.org/series/oh-super-milk-chan",
+    "mal_url": "https://myanimelist.net/anime/1769",
+    "mal_id": 1769,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/121111",
+        "dub": null,
+        "url": "https://www.animegg.org/oh-super-milk-chan-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/121107",
+        "dub": null,
+        "url": "https://www.animegg.org/oh-super-milk-chan-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/121106",
+        "dub": null,
+        "url": "https://www.animegg.org/oh-super-milk-chan-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/121105",
+        "dub": null,
+        "url": "https://www.animegg.org/oh-super-milk-chan-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/121104",
+        "dub": null,
+        "url": "https://www.animegg.org/oh-super-milk-chan-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/121103",
+        "dub": null,
+        "url": "https://www.animegg.org/oh-super-milk-chan-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/121102",
+        "dub": null,
+        "url": "https://www.animegg.org/oh-super-milk-chan-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/121101",
+        "dub": null,
+        "url": "https://www.animegg.org/oh-super-milk-chan-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/121100",
+        "dub": null,
+        "url": "https://www.animegg.org/oh-super-milk-chan-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/oh-super-milk-chan-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/121110",
+        "dub": null,
+        "url": "https://www.animegg.org/oh-super-milk-chan-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/121109",
+        "dub": null,
+        "url": "https://www.animegg.org/oh-super-milk-chan-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/121108",
+        "dub": null,
+        "url": "https://www.animegg.org/oh-super-milk-chan-episode-13"
+      }
+    ]
   }
 ]
