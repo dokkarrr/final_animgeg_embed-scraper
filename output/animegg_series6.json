@@ -82565,5 +82565,21 @@
         "url": "https://www.animegg.org/taiko-no-tatsujin-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 8735,
+    "title": "Burn the Witch #0.8",
+    "animegg_url": "https://www.animegg.org/series/burn-the-witch-08",
+    "mal_url": "https://myanimelist.net/anime/56671",
+    "mal_id": 56671,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 0,
+        "sub": "https://www.animegg.org/embed/132581",
+        "dub": null,
+        "url": "https://www.animegg.org/burn-the-witch-08-episode-1"
+      }
+    ]
   }
 ]
