@@ -43574,5 +43574,63 @@
         "url": "https://www.animegg.org/fatekaleid-liner-prisma-illya-2wei-herz-dub-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8072,
+    "title": "Dota: Dragon's Blood",
+    "animegg_url": "https://www.animegg.org/series/dota-dragon-s-blood-dub",
+    "mal_url": "https://myanimelist.net/anime/30778",
+    "mal_id": 30778,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/127800",
+        "dub": null,
+        "url": "https://www.animegg.org/dota-dragon-s-blood-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/127799",
+        "dub": null,
+        "url": "https://www.animegg.org/dota-dragon-s-blood-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/127798",
+        "dub": null,
+        "url": "https://www.animegg.org/dota-dragon-s-blood-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/127797",
+        "dub": null,
+        "url": "https://www.animegg.org/dota-dragon-s-blood-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/127796",
+        "dub": null,
+        "url": "https://www.animegg.org/dota-dragon-s-blood-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/127795",
+        "dub": null,
+        "url": "https://www.animegg.org/dota-dragon-s-blood-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/127794",
+        "dub": null,
+        "url": "https://www.animegg.org/dota-dragon-s-blood-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/127793",
+        "dub": null,
+        "url": "https://www.animegg.org/dota-dragon-s-blood-dub-episode-8"
+      }
+    ]
   }
 ]
