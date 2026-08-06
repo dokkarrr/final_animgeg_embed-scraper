@@ -60082,5 +60082,93 @@
         "url": "https://www.animegg.org/ad-police-tv-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8321,
+    "title": "ID:Invaded (Dub)",
+    "animegg_url": "https://www.animegg.org/series/idinvaded-dub",
+    "mal_url": "https://myanimelist.net/anime/22865",
+    "mal_id": 22865,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/125239",
+        "dub": null,
+        "url": "https://www.animegg.org/idinvaded-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/125234",
+        "dub": null,
+        "url": "https://www.animegg.org/idinvaded-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/125233",
+        "dub": null,
+        "url": "https://www.animegg.org/idinvaded-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/125232",
+        "dub": null,
+        "url": "https://www.animegg.org/idinvaded-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/125231",
+        "dub": null,
+        "url": "https://www.animegg.org/idinvaded-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/125230",
+        "dub": null,
+        "url": "https://www.animegg.org/idinvaded-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/125229",
+        "dub": null,
+        "url": "https://www.animegg.org/idinvaded-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/125228",
+        "dub": null,
+        "url": "https://www.animegg.org/idinvaded-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/125227",
+        "dub": null,
+        "url": "https://www.animegg.org/idinvaded-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/125238",
+        "dub": null,
+        "url": "https://www.animegg.org/idinvaded-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/125237",
+        "dub": null,
+        "url": "https://www.animegg.org/idinvaded-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/125236",
+        "dub": null,
+        "url": "https://www.animegg.org/idinvaded-dub-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/125235",
+        "dub": null,
+        "url": "https://www.animegg.org/idinvaded-dub-episode-13"
+      }
+    ]
   }
 ]
