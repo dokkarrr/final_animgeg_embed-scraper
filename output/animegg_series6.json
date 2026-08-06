@@ -1352,5 +1352,27 @@
         "url": "https://www.animegg.org/kyuuketsuki-sugu-shinu-2nd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 7526,
+    "title": "Girls und Panzer: Fushou - Akiyama Yukari no Sensha Kouza",
+    "animegg_url": "https://www.animegg.org/series/girls-und-panzer-fushou---akiyama-yukari-no-sensha-kouza",
+    "mal_url": "https://myanimelist.net/anime/32740",
+    "mal_id": 32740,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/100459",
+        "dub": null,
+        "url": "https://www.animegg.org/girls-und-panzer-fushou---akiyama-yukari-no-sensha-kouza-episode-5"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/100460",
+        "dub": null,
+        "url": "https://www.animegg.org/girls-und-panzer-fushou---akiyama-yukari-no-sensha-kouza-episode-9"
+      }
+    ]
   }
 ]
