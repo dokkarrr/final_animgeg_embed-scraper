@@ -14687,5 +14687,27 @@
         "url": "https://www.animegg.org/the-email-protected-cinderella-girls-2nd-season-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 7686,
+    "title": "Yuukoku no Moriarty OVA",
+    "animegg_url": "https://www.animegg.org/series/yuukoku-no-moriarty-ova",
+    "mal_url": "https://myanimelist.net/anime/49733",
+    "mal_id": 49733,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/105447",
+        "dub": null,
+        "url": "https://www.animegg.org/yuukoku-no-moriarty-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/105448",
+        "dub": null,
+        "url": "https://www.animegg.org/yuukoku-no-moriarty-ova-episode-2"
+      }
+    ]
   }
 ]
