@@ -87859,5 +87859,21 @@
         "url": "https://www.animegg.org/magilumiere-magical-girls-inc-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8899,
+    "title": "Temple Specials",
+    "animegg_url": "https://www.animegg.org/series/temple-specials",
+    "mal_url": "https://myanimelist.net/anime/56741",
+    "mal_id": 56741,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/137206",
+        "dub": null,
+        "url": "https://www.animegg.org/temple-specials-episode-2"
+      }
+    ]
   }
 ]
