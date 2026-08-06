@@ -15241,5 +15241,21 @@
         "url": "https://www.animegg.org/marriage-addiction-episode-20"
       }
     ]
+  },
+  {
+    "serial_no": 7696,
+    "title": "Natsume Yuujinchou: Ishi Okoshi to Ayashiki Raihousha",
+    "animegg_url": "https://www.animegg.org/series/natsume-yuujinchou-ishi-okoshi-to-ayashiki-raihousha",
+    "mal_url": "https://myanimelist.net/anime/42894",
+    "mal_id": 42894,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/102311",
+        "dub": null,
+        "url": "https://www.animegg.org/natsume-yuujinchou-ishi-okoshi-to-ayashiki-raihousha-episode-1"
+      }
+    ]
   }
 ]
