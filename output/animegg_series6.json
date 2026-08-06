@@ -38946,5 +38946,21 @@
         "url": "https://www.animegg.org/renai-boukun-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8008,
+    "title": "Yuru Camp△ Movie",
+    "animegg_url": "https://www.animegg.org/series/yuru-camp-movie",
+    "mal_url": "https://myanimelist.net/anime/38475",
+    "mal_id": 38475,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/106473",
+        "dub": null,
+        "url": "https://www.animegg.org/yuru-camp-movie-episode-1"
+      }
+    ]
   }
 ]
