@@ -60240,5 +60240,69 @@
         "url": "https://www.animegg.org/after-signing-in-for-30-days-i-can-annihilate-stars-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8323,
+    "title": "Shi Fang Wu Sheng",
+    "animegg_url": "https://www.animegg.org/series/shi-fang-wu-sheng",
+    "mal_url": "https://myanimelist.net/anime/55829",
+    "mal_id": 55829,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/shi-fang-wu-sheng-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/132591",
+        "dub": null,
+        "url": "https://www.animegg.org/shi-fang-wu-sheng-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/132619",
+        "dub": null,
+        "url": "https://www.animegg.org/shi-fang-wu-sheng-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/132686",
+        "dub": null,
+        "url": "https://www.animegg.org/shi-fang-wu-sheng-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/132779",
+        "dub": null,
+        "url": "https://www.animegg.org/shi-fang-wu-sheng-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/132850",
+        "dub": null,
+        "url": "https://www.animegg.org/shi-fang-wu-sheng-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/shi-fang-wu-sheng-episode-14"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/132933",
+        "dub": null,
+        "url": "https://www.animegg.org/shi-fang-wu-sheng-episode-15"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/133011",
+        "dub": null,
+        "url": "https://www.animegg.org/shi-fang-wu-sheng-episode-16"
+      }
+    ]
   }
 ]
