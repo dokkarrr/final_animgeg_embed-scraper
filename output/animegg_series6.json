@@ -87236,5 +87236,39 @@
         "url": "https://www.animegg.org/naruto-shippuden-movie-2-kizuna-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8876,
+    "title": "Miru: Paths to My Future",
+    "animegg_url": "https://www.animegg.org/series/miru-paths-to-my-future",
+    "mal_url": "https://myanimelist.net/anime/55727",
+    "mal_id": 55727,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/140879",
+        "dub": null,
+        "url": "https://www.animegg.org/miru-paths-to-my-future-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/141049",
+        "dub": null,
+        "url": "https://www.animegg.org/miru-paths-to-my-future-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/141268",
+        "dub": null,
+        "url": "https://www.animegg.org/miru-paths-to-my-future-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/142725",
+        "dub": null,
+        "url": "https://www.animegg.org/miru-paths-to-my-future-episode-5"
+      }
+    ]
   }
 ]
