@@ -28735,5 +28735,93 @@
         "url": "https://www.animegg.org/gate-of-the-mysterious-realm-episode-15"
       }
     ]
+  },
+  {
+    "serial_no": 7868,
+    "title": "Hanebado!",
+    "animegg_url": "https://www.animegg.org/series/hanebado-dub",
+    "mal_url": "https://myanimelist.net/anime/37259",
+    "mal_id": 37259,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/125865",
+        "dub": null,
+        "url": "https://www.animegg.org/hanebado-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/125860",
+        "dub": null,
+        "url": "https://www.animegg.org/hanebado-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/125859",
+        "dub": null,
+        "url": "https://www.animegg.org/hanebado-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/125858",
+        "dub": null,
+        "url": "https://www.animegg.org/hanebado-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/125857",
+        "dub": null,
+        "url": "https://www.animegg.org/hanebado-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/125856",
+        "dub": null,
+        "url": "https://www.animegg.org/hanebado-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/125855",
+        "dub": null,
+        "url": "https://www.animegg.org/hanebado-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/125854",
+        "dub": null,
+        "url": "https://www.animegg.org/hanebado-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/125853",
+        "dub": null,
+        "url": "https://www.animegg.org/hanebado-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/125864",
+        "dub": null,
+        "url": "https://www.animegg.org/hanebado-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/125863",
+        "dub": null,
+        "url": "https://www.animegg.org/hanebado-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/125862",
+        "dub": null,
+        "url": "https://www.animegg.org/hanebado-dub-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/125861",
+        "dub": null,
+        "url": "https://www.animegg.org/hanebado-dub-episode-13"
+      }
+    ]
   }
 ]
