@@ -87151,5 +87151,33 @@
         "url": "https://www.animegg.org/bikkuriman-2000-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8871,
+    "title": "Renkin San-kyuu Magical? Pokaan Specials",
+    "animegg_url": "https://www.animegg.org/series/renkin-san-kyuu-magical--pokaan-specials",
+    "mal_url": "https://myanimelist.net/anime/1489",
+    "mal_id": 1489,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/renkin-san-kyuu-magical--pokaan-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/renkin-san-kyuu-magical--pokaan-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/renkin-san-kyuu-magical--pokaan-specials-episode-3"
+      }
+    ]
   }
 ]
