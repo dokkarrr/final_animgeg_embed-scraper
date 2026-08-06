@@ -87607,5 +87607,21 @@
         "url": "https://www.animegg.org/detective-conan-movie-22-zero-the-enforcer-dub-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8888,
+    "title": "K-On!: Live House!",
+    "animegg_url": "https://www.animegg.org/series/k-on-live-house",
+    "mal_url": "https://myanimelist.net/anime/6862",
+    "mal_id": 6862,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/124222",
+        "dub": null,
+        "url": "https://www.animegg.org/k-on-live-house-episode-1"
+      }
+    ]
   }
 ]
