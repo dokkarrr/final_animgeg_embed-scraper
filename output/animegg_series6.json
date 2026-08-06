@@ -40446,5 +40446,87 @@
         "url": "https://www.animegg.org/jackie-chan-adventures-season-01-dub-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8029,
+    "title": "Xue Yu Xin",
+    "animegg_url": "https://www.animegg.org/series/xue-yu-xin",
+    "mal_url": "https://myanimelist.net/anime/51549",
+    "mal_id": 51549,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/112272",
+        "dub": null,
+        "url": "https://www.animegg.org/xue-yu-xin-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/112268",
+        "dub": null,
+        "url": "https://www.animegg.org/xue-yu-xin-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/112267",
+        "dub": null,
+        "url": "https://www.animegg.org/xue-yu-xin-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/112266",
+        "dub": null,
+        "url": "https://www.animegg.org/xue-yu-xin-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/112265",
+        "dub": null,
+        "url": "https://www.animegg.org/xue-yu-xin-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/112264",
+        "dub": null,
+        "url": "https://www.animegg.org/xue-yu-xin-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/112263",
+        "dub": null,
+        "url": "https://www.animegg.org/xue-yu-xin-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/112262",
+        "dub": null,
+        "url": "https://www.animegg.org/xue-yu-xin-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/112261",
+        "dub": null,
+        "url": "https://www.animegg.org/xue-yu-xin-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/112271",
+        "dub": null,
+        "url": "https://www.animegg.org/xue-yu-xin-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/112270",
+        "dub": null,
+        "url": "https://www.animegg.org/xue-yu-xin-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/112269",
+        "dub": null,
+        "url": "https://www.animegg.org/xue-yu-xin-episode-12"
+      }
+    ]
   }
 ]
