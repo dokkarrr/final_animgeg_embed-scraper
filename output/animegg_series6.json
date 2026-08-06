@@ -90013,5 +90013,45 @@
         "url": "https://www.animegg.org/tian-ying-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 8978,
+    "title": "Zhen Dao Ge 2nd Season",
+    "animegg_url": "https://www.animegg.org/series/zhen-dao-ge-2nd-season",
+    "mal_url": "https://myanimelist.net/anime/57468",
+    "mal_id": 57468,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/134095",
+        "dub": null,
+        "url": "https://www.animegg.org/zhen-dao-ge-2nd-season-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/133436",
+        "dub": null,
+        "url": "https://www.animegg.org/zhen-dao-ge-2nd-season-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/133214",
+        "dub": null,
+        "url": "https://www.animegg.org/zhen-dao-ge-2nd-season-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/133038",
+        "dub": null,
+        "url": "https://www.animegg.org/zhen-dao-ge-2nd-season-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/zhen-dao-ge-2nd-season-episode-3"
+      }
+    ]
   }
 ]
