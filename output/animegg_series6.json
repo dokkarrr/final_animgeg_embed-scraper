@@ -65853,5 +65853,21 @@
         "url": "https://www.animegg.org/chou-kadou-girl-16-amazing-stranger-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8414,
+    "title": "One Piece: Taose! Kaizoku Ganzack",
+    "animegg_url": "https://www.animegg.org/series/one-piece-taose-kaizoku-ganzack",
+    "mal_url": "https://myanimelist.net/anime/466",
+    "mal_id": 466,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/120734",
+        "dub": null,
+        "url": "https://www.animegg.org/one-piece-taose-kaizoku-ganzack-episode-1"
+      }
+    ]
   }
 ]
