@@ -85462,5 +85462,33 @@
         "url": "https://www.animegg.org/invasion-of-the-immortal-emperor-season-2-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 8813,
+    "title": "Macross 7 Encore",
+    "animegg_url": "https://www.animegg.org/series/macross-7-encore",
+    "mal_url": "https://myanimelist.net/anime/1399",
+    "mal_id": 1399,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/macross-7-encore-episode-3"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/macross-7-encore-episode-2"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/macross-7-encore-episode-1"
+      }
+    ]
   }
 ]
