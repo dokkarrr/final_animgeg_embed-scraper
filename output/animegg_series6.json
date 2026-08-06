@@ -68958,5 +68958,51 @@
         "url": "https://www.animegg.org/ef---a-tale-of-melodies-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8463,
+    "title": "Zoids Wild Senki",
+    "animegg_url": "https://www.animegg.org/series/zoids-wild-senki",
+    "mal_url": "https://myanimelist.net/anime/42885",
+    "mal_id": 42885,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/110752",
+        "dub": null,
+        "url": "https://www.animegg.org/zoids-wild-senki-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/110751",
+        "dub": null,
+        "url": "https://www.animegg.org/zoids-wild-senki-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/110750",
+        "dub": null,
+        "url": "https://www.animegg.org/zoids-wild-senki-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/110748",
+        "dub": null,
+        "url": "https://www.animegg.org/zoids-wild-senki-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/110749",
+        "dub": null,
+        "url": "https://www.animegg.org/zoids-wild-senki-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/110747",
+        "dub": null,
+        "url": "https://www.animegg.org/zoids-wild-senki-episode-6"
+      }
+    ]
   }
 ]
