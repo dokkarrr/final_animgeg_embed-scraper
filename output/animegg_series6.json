@@ -81177,5 +81177,57 @@
         "url": "https://www.animegg.org/ashita-no-joe-movie-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8701,
+    "title": "The Amazing Doctor in the City",
+    "animegg_url": "https://www.animegg.org/series/the-amazing-doctor-in-the-city",
+    "mal_url": "https://myanimelist.net/anime/816",
+    "mal_id": 816,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/the-amazing-doctor-in-the-city-episode-1"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/the-amazing-doctor-in-the-city-episode-3"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/the-amazing-doctor-in-the-city-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/the-amazing-doctor-in-the-city-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/the-amazing-doctor-in-the-city-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/the-amazing-doctor-in-the-city-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/the-amazing-doctor-in-the-city-episode-9"
+      }
+    ]
   }
 ]
