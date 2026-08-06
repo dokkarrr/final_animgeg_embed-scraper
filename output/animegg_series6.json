@@ -80655,5 +80655,21 @@
         "url": "https://www.animegg.org/xuwu-bianjing-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 8687,
+    "title": "One Piece Movie 4: Dead End Adventure",
+    "animegg_url": "https://www.animegg.org/series/one-piece-movie-4-dead-end-adventure",
+    "mal_url": "https://myanimelist.net/anime/462",
+    "mal_id": 462,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/120740",
+        "dub": null,
+        "url": "https://www.animegg.org/one-piece-movie-4-dead-end-adventure-episode-1"
+      }
+    ]
   }
 ]
