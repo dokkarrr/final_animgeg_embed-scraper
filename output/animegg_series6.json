@@ -61771,5 +61771,63 @@
         "url": "https://www.animegg.org/sengoku-basara-two-ryuko-itadaki-no-chikai-atsuki-mirai-e-kakeru-tamashii-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8349,
+    "title": "Nanako SOS",
+    "animegg_url": "https://www.animegg.org/series/nanako-sos",
+    "mal_url": "https://myanimelist.net/anime/3619",
+    "mal_id": 3619,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/121556",
+        "dub": null,
+        "url": "https://www.animegg.org/nanako-sos-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/121555",
+        "dub": null,
+        "url": "https://www.animegg.org/nanako-sos-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/121554",
+        "dub": null,
+        "url": "https://www.animegg.org/nanako-sos-episode-3"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/nanako-sos-episode-5"
+      },
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/nanako-sos-episode-8"
+      },
+      {
+        "ep": 10,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/nanako-sos-episode-10"
+      },
+      {
+        "ep": 15,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/nanako-sos-episode-15"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/138648",
+        "dub": null,
+        "url": "https://www.animegg.org/nanako-sos-episode-16"
+      }
+    ]
   }
 ]
