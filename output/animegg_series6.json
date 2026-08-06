@@ -90473,5 +90473,51 @@
         "url": "https://www.animegg.org/hi-no-tori-eden-no-sora-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 8996,
+    "title": "Machine-Doll wa Kizutsukanai Specials (Dub)",
+    "animegg_url": "https://www.animegg.org/series/machine-doll-wa-kizutsukanai-specials-dub",
+    "mal_url": "https://myanimelist.net/anime/17247",
+    "mal_id": 17247,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/122367",
+        "dub": null,
+        "url": "https://www.animegg.org/machine-doll-wa-kizutsukanai-specials-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/122366",
+        "dub": null,
+        "url": "https://www.animegg.org/machine-doll-wa-kizutsukanai-specials-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/122365",
+        "dub": null,
+        "url": "https://www.animegg.org/machine-doll-wa-kizutsukanai-specials-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/122364",
+        "dub": null,
+        "url": "https://www.animegg.org/machine-doll-wa-kizutsukanai-specials-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/122363",
+        "dub": null,
+        "url": "https://www.animegg.org/machine-doll-wa-kizutsukanai-specials-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/122362",
+        "dub": null,
+        "url": "https://www.animegg.org/machine-doll-wa-kizutsukanai-specials-dub-episode-6"
+      }
+    ]
   }
 ]
