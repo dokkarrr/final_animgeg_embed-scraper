@@ -81456,5 +81456,33 @@
         "url": "https://www.animegg.org/yakitori-dub-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 8708,
+    "title": "Rising Impact Season 2",
+    "animegg_url": "https://www.animegg.org/series/rising-impact-season-2",
+    "mal_url": "https://myanimelist.net/anime/59497",
+    "mal_id": 59497,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/rising-impact-season-2-episode-14"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/rising-impact-season-2-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/rising-impact-season-2-episode-5"
+      }
+    ]
   }
 ]
