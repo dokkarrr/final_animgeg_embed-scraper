@@ -78933,5 +78933,51 @@
         "url": "https://www.animegg.org/princess-principal-crown-handler-ova-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 8652,
+    "title": "You Shou Yan 3rd Season",
+    "animegg_url": "https://www.animegg.org/series/you-shou-yan-3rd-season",
+    "mal_url": "https://myanimelist.net/anime/58555",
+    "mal_id": 58555,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/you-shou-yan-3rd-season-episode-11"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/135189",
+        "dub": null,
+        "url": "https://www.animegg.org/you-shou-yan-3rd-season-episode-8"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/135166",
+        "dub": null,
+        "url": "https://www.animegg.org/you-shou-yan-3rd-season-episode-7"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/134924",
+        "dub": null,
+        "url": "https://www.animegg.org/you-shou-yan-3rd-season-episode-6"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/134419",
+        "dub": null,
+        "url": "https://www.animegg.org/you-shou-yan-3rd-season-episode-3"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/134213",
+        "dub": null,
+        "url": "https://www.animegg.org/you-shou-yan-3rd-season-episode-2"
+      }
+    ]
   }
 ]
