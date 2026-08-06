@@ -90587,5 +90587,33 @@
         "url": "https://www.animegg.org/what-do-you-do-when-you-suddenly-become-an-immortal--episode-78"
       }
     ]
+  },
+  {
+    "serial_no": 8999,
+    "title": "Mobile Suit SD Gundam Festival",
+    "animegg_url": "https://www.animegg.org/series/mobile-suit-sd-gundam-festival",
+    "mal_url": "https://myanimelist.net/anime/9098",
+    "mal_id": 9098,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/131513",
+        "dub": null,
+        "url": "https://www.animegg.org/mobile-suit-sd-gundam-festival-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/131938",
+        "dub": null,
+        "url": "https://www.animegg.org/mobile-suit-sd-gundam-festival-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/138492",
+        "dub": null,
+        "url": "https://www.animegg.org/mobile-suit-sd-gundam-festival-episode-3"
+      }
+    ]
   }
 ]
