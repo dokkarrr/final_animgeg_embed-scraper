@@ -52236,5 +52236,87 @@
         "url": "https://www.animegg.org/kaguya-sama-wa-kokurasetai-ultra-romantic-teaser-pv---ishigami-yuu-wa-kataritai-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8200,
+    "title": "Xun Jian",
+    "animegg_url": "https://www.animegg.org/series/xun-jian",
+    "mal_url": "https://myanimelist.net/anime/51681",
+    "mal_id": 51681,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/112260",
+        "dub": null,
+        "url": "https://www.animegg.org/xun-jian-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/112258",
+        "dub": null,
+        "url": "https://www.animegg.org/xun-jian-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/xun-jian-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/xun-jian-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/xun-jian-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/xun-jian-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/xun-jian-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/xun-jian-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/xun-jian-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/112259",
+        "dub": null,
+        "url": "https://www.animegg.org/xun-jian-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/xun-jian-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/xun-jian-episode-12"
+      }
+    ]
   }
 ]
