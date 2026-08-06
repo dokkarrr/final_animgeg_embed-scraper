@@ -64736,5 +64736,93 @@
     "mal_id": 86,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 8397,
+    "title": "BanG Dream! 2nd Season (Dub)",
+    "animegg_url": "https://www.animegg.org/series/bang-dream-2nd-season-dub",
+    "mal_url": "https://myanimelist.net/anime/37869",
+    "mal_id": 37869,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/110628",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-2nd-season-dub-episode-13"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/110627",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-2nd-season-dub-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/110626",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-2nd-season-dub-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/110625",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-2nd-season-dub-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-2nd-season-dub-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/110635",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-2nd-season-dub-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/110634",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-2nd-season-dub-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/110633",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-2nd-season-dub-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/110632",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-2nd-season-dub-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/110631",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-2nd-season-dub-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/110630",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-2nd-season-dub-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/110629",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-2nd-season-dub-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/110624",
+        "dub": null,
+        "url": "https://www.animegg.org/bang-dream-2nd-season-dub-episode-1"
+      }
+    ]
   }
 ]
