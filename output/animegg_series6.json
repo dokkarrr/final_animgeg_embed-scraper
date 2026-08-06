@@ -26637,5 +26637,21 @@
         "url": "https://www.animegg.org/date-a-live-iv-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 7840,
+    "title": "Pokemon Movie 23: Koko",
+    "animegg_url": "https://www.animegg.org/series/pokemon-movie-23-koko",
+    "mal_url": "https://myanimelist.net/anime/40881",
+    "mal_id": 40881,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 23,
+        "sub": "https://www.animegg.org/embed/102479",
+        "dub": null,
+        "url": "https://www.animegg.org/pokemon-movie-23-koko-episode-1"
+      }
+    ]
   }
 ]
