@@ -67809,5 +67809,27 @@
         "url": "https://www.animegg.org/fateextra-last-encore-dub-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 8444,
+    "title": "Cheng He Titong",
+    "animegg_url": "https://www.animegg.org/series/cheng-he-titong",
+    "mal_url": "https://myanimelist.net/anime/59001",
+    "mal_id": 59001,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/134894",
+        "dub": null,
+        "url": "https://www.animegg.org/cheng-he-titong-episode-3"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/135217",
+        "dub": null,
+        "url": "https://www.animegg.org/cheng-he-titong-episode-5"
+      }
+    ]
   }
 ]
