@@ -55207,5 +55207,51 @@
         "url": "https://www.animegg.org/zhongguo-guaitan-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8241,
+    "title": "Fate/kaleid liner Prisma☆Illya 3rei!! Specials",
+    "animegg_url": "https://www.animegg.org/series/fatekaleid-liner-prisma-illya-3rei-specials",
+    "mal_url": "https://myanimelist.net/anime/33456",
+    "mal_id": 33456,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/126988",
+        "dub": null,
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-illya-3rei-specials-episode-6"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/126989",
+        "dub": null,
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-illya-3rei-specials-episode-5"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/126990",
+        "dub": null,
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-illya-3rei-specials-episode-4"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/126991",
+        "dub": null,
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-illya-3rei-specials-episode-3"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/126992",
+        "dub": null,
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-illya-3rei-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/126993",
+        "dub": null,
+        "url": "https://www.animegg.org/fatekaleid-liner-prisma-illya-3rei-specials-episode-1"
+      }
+    ]
   }
 ]
