@@ -90367,5 +90367,33 @@
         "url": "https://www.animegg.org/mobile-suit-gundam-seed-after-phase-between-the-stars-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8992,
+    "title": "Spirit of Wonder: China-san Tanpenshuu",
+    "animegg_url": "https://www.animegg.org/series/spirit-of-wonder-china-san-tanpenshuu",
+    "mal_url": "https://myanimelist.net/anime/6245",
+    "mal_id": 6245,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/131929",
+        "dub": "https://www.animegg.org/embed/131931",
+        "url": "https://www.animegg.org/spirit-of-wonder-china-san-tanpenshuu-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/131928",
+        "dub": "https://www.animegg.org/embed/131930",
+        "url": "https://www.animegg.org/spirit-of-wonder-china-san-tanpenshuu-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/131927",
+        "dub": null,
+        "url": "https://www.animegg.org/spirit-of-wonder-china-san-tanpenshuu-episode-3"
+      }
+    ]
   }
 ]
