@@ -74514,5 +74514,75 @@
         "url": "https://www.animegg.org/okashi-na-sabaku-no-suna-to-manu-episode-11"
       }
     ]
+  },
+  {
+    "serial_no": 8560,
+    "title": "Xiong Bing Lian III",
+    "animegg_url": "https://www.animegg.org/series/xiong-bing-lian-iii",
+    "mal_url": "https://myanimelist.net/anime/37643",
+    "mal_id": 37643,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/112809",
+        "dub": null,
+        "url": "https://www.animegg.org/xiong-bing-lian-iii-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/112807",
+        "dub": null,
+        "url": "https://www.animegg.org/xiong-bing-lian-iii-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/112806",
+        "dub": null,
+        "url": "https://www.animegg.org/xiong-bing-lian-iii-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/112805",
+        "dub": null,
+        "url": "https://www.animegg.org/xiong-bing-lian-iii-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/112804",
+        "dub": null,
+        "url": "https://www.animegg.org/xiong-bing-lian-iii-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/112803",
+        "dub": null,
+        "url": "https://www.animegg.org/xiong-bing-lian-iii-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/112802",
+        "dub": null,
+        "url": "https://www.animegg.org/xiong-bing-lian-iii-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/112801",
+        "dub": null,
+        "url": "https://www.animegg.org/xiong-bing-lian-iii-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/112800",
+        "dub": null,
+        "url": "https://www.animegg.org/xiong-bing-lian-iii-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/112808",
+        "dub": null,
+        "url": "https://www.animegg.org/xiong-bing-lian-iii-episode-10"
+      }
+    ]
   }
 ]
