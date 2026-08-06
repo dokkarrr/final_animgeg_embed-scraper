@@ -73721,5 +73721,21 @@
         "url": "https://www.animegg.org/nanatsu-no-taizai-seisen-no-shirushi-dub-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 8544,
+    "title": "Kitarou Tanjou: Gegege no Nazo",
+    "animegg_url": "https://www.animegg.org/series/kitarou-tanjou-gegege-no-nazo",
+    "mal_url": "https://myanimelist.net/anime/48426",
+    "mal_id": 48426,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/137438",
+        "dub": null,
+        "url": "https://www.animegg.org/kitarou-tanjou-gegege-no-nazo-episode-1"
+      }
+    ]
   }
 ]
