@@ -87461,5 +87461,51 @@
         "url": "https://www.animegg.org/high-school-mystery-gakuen-nanafushigi-episode-16"
       }
     ]
+  },
+  {
+    "serial_no": 8883,
+    "title": "Gaina Tamager",
+    "animegg_url": "https://www.animegg.org/series/gaina-tamager",
+    "mal_url": "https://myanimelist.net/anime/40768",
+    "mal_id": 40768,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/126789",
+        "dub": null,
+        "url": "https://www.animegg.org/gaina-tamager-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/126788",
+        "dub": null,
+        "url": "https://www.animegg.org/gaina-tamager-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/126787",
+        "dub": null,
+        "url": "https://www.animegg.org/gaina-tamager-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/126786",
+        "dub": null,
+        "url": "https://www.animegg.org/gaina-tamager-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/126785",
+        "dub": null,
+        "url": "https://www.animegg.org/gaina-tamager-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/126784",
+        "dub": null,
+        "url": "https://www.animegg.org/gaina-tamager-episode-6"
+      }
+    ]
   }
 ]
