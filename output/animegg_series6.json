@@ -86991,5 +86991,33 @@
         "url": "https://www.animegg.org/lovedol-lovely-idol-episode-11"
       }
     ]
+  },
+  {
+    "serial_no": 8864,
+    "title": "Ichiban Ushiro no Daimaou OVA",
+    "animegg_url": "https://www.animegg.org/series/ichiban-ushiro-no-daimaou-ova",
+    "mal_url": "https://myanimelist.net/anime/7088",
+    "mal_id": 7088,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/125269",
+        "dub": null,
+        "url": "https://www.animegg.org/ichiban-ushiro-no-daimaou-ova-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/125268",
+        "dub": null,
+        "url": "https://www.animegg.org/ichiban-ushiro-no-daimaou-ova-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/125270",
+        "dub": null,
+        "url": "https://www.animegg.org/ichiban-ushiro-no-daimaou-ova-episode-3"
+      }
+    ]
   }
 ]
