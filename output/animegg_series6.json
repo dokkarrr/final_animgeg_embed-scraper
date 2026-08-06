@@ -86975,5 +86975,21 @@
     "mal_id": 8422,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 8863,
+    "title": "Lovedol: Lovely Idol",
+    "animegg_url": "https://www.animegg.org/series/lovedol-lovely-idol",
+    "mal_url": "https://myanimelist.net/anime/1561",
+    "mal_id": 1561,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/99322",
+        "dub": null,
+        "url": "https://www.animegg.org/lovedol-lovely-idol-episode-11"
+      }
+    ]
   }
 ]
