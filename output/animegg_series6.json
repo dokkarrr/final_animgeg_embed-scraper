@@ -77210,5 +77210,57 @@
         "url": "https://www.animegg.org/cardfight-vanguard-willdress-dub-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 8612,
+    "title": "I Have a Dragon in My Body",
+    "animegg_url": "https://www.animegg.org/series/i-have-a-dragon-in-my-body",
+    "mal_url": "https://myanimelist.net/anime/6033",
+    "mal_id": 6033,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/i-have-a-dragon-in-my-body-episode-1"
+      },
+      {
+        "ep": 99,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/i-have-a-dragon-in-my-body-episode-99"
+      },
+      {
+        "ep": 103,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/i-have-a-dragon-in-my-body-episode-103"
+      },
+      {
+        "ep": 107,
+        "sub": "https://www.animegg.org/embed/137046",
+        "dub": null,
+        "url": "https://www.animegg.org/i-have-a-dragon-in-my-body-episode-107"
+      },
+      {
+        "ep": 116,
+        "sub": "https://www.animegg.org/embed/137383",
+        "dub": null,
+        "url": "https://www.animegg.org/i-have-a-dragon-in-my-body-episode-116"
+      },
+      {
+        "ep": 122,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/i-have-a-dragon-in-my-body-episode-122"
+      },
+      {
+        "ep": 134,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/i-have-a-dragon-in-my-body-episode-134"
+      }
+    ]
   }
 ]
