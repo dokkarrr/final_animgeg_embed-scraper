@@ -66697,5 +66697,93 @@
         "url": "https://www.animegg.org/cutie-honey-universe-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8427,
+    "title": "Bananya (Dub)",
+    "animegg_url": "https://www.animegg.org/series/bananya-dub",
+    "mal_url": "https://myanimelist.net/anime/40228",
+    "mal_id": 40228,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/110603",
+        "dub": null,
+        "url": "https://www.animegg.org/bananya-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/110608",
+        "dub": null,
+        "url": "https://www.animegg.org/bananya-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/110609",
+        "dub": null,
+        "url": "https://www.animegg.org/bananya-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/110610",
+        "dub": null,
+        "url": "https://www.animegg.org/bananya-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/110611",
+        "dub": null,
+        "url": "https://www.animegg.org/bananya-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/110612",
+        "dub": null,
+        "url": "https://www.animegg.org/bananya-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/110613",
+        "dub": null,
+        "url": "https://www.animegg.org/bananya-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/110614",
+        "dub": null,
+        "url": "https://www.animegg.org/bananya-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/110615",
+        "dub": null,
+        "url": "https://www.animegg.org/bananya-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/110604",
+        "dub": null,
+        "url": "https://www.animegg.org/bananya-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/110605",
+        "dub": null,
+        "url": "https://www.animegg.org/bananya-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/110606",
+        "dub": null,
+        "url": "https://www.animegg.org/bananya-dub-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/110607",
+        "dub": null,
+        "url": "https://www.animegg.org/bananya-dub-episode-13"
+      }
+    ]
   }
 ]
