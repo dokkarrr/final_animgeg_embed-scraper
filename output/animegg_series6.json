@@ -59616,5 +59616,21 @@
         "url": "https://www.animegg.org/motto-to-love-ru--trouble--episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 8314,
+    "title": "Lady Death",
+    "animegg_url": "https://www.animegg.org/series/lady-death",
+    "mal_url": "https://myanimelist.net/anime/35994",
+    "mal_id": 35994,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/123363",
+        "dub": null,
+        "url": "https://www.animegg.org/lady-death-episode-1"
+      }
+    ]
   }
 ]
