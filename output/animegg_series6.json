@@ -320,5 +320,63 @@
         "url": "https://www.animegg.org/the-most-heretical-last-boss-queen-from-villainess-to-savior-season-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 7508,
+    "title": "Terror Hunter",
+    "animegg_url": "https://www.animegg.org/series/terror-hunter",
+    "mal_url": "https://myanimelist.net/anime/11061",
+    "mal_id": 11061,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/136223",
+        "dub": null,
+        "url": "https://www.animegg.org/terror-hunter-episode-1"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/137296",
+        "dub": null,
+        "url": "https://www.animegg.org/terror-hunter-episode-15"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/137415",
+        "dub": null,
+        "url": "https://www.animegg.org/terror-hunter-episode-16"
+      },
+      {
+        "ep": 17,
+        "sub": "https://www.animegg.org/embed/137515",
+        "dub": null,
+        "url": "https://www.animegg.org/terror-hunter-episode-17"
+      },
+      {
+        "ep": 18,
+        "sub": "https://www.animegg.org/embed/137778",
+        "dub": null,
+        "url": "https://www.animegg.org/terror-hunter-episode-18"
+      },
+      {
+        "ep": 20,
+        "sub": "https://www.animegg.org/embed/137903",
+        "dub": null,
+        "url": "https://www.animegg.org/terror-hunter-episode-20"
+      },
+      {
+        "ep": 21,
+        "sub": "https://www.animegg.org/embed/138630",
+        "dub": null,
+        "url": "https://www.animegg.org/terror-hunter-episode-21"
+      },
+      {
+        "ep": 27,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/terror-hunter-episode-27"
+      }
+    ]
   }
 ]
