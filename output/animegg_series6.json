@@ -30497,5 +30497,51 @@
         "url": "https://www.animegg.org/han-hua-ri-ji-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 7893,
+    "title": "Yoroi Shin Den Samurai Troopers",
+    "animegg_url": "https://www.animegg.org/series/yoroi-shin-den-samurai-troopers",
+    "mal_url": "https://myanimelist.net/anime/61830",
+    "mal_id": 61830,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/144078",
+        "dub": null,
+        "url": "https://www.animegg.org/yoroi-shin-den-samurai-troopers-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/144182",
+        "dub": null,
+        "url": "https://www.animegg.org/yoroi-shin-den-samurai-troopers-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/144279",
+        "dub": null,
+        "url": "https://www.animegg.org/yoroi-shin-den-samurai-troopers-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/144397",
+        "dub": null,
+        "url": "https://www.animegg.org/yoroi-shin-den-samurai-troopers-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/144499",
+        "dub": null,
+        "url": "https://www.animegg.org/yoroi-shin-den-samurai-troopers-episode-5"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/144694",
+        "dub": null,
+        "url": "https://www.animegg.org/yoroi-shin-den-samurai-troopers-episode-7"
+      }
+    ]
   }
 ]
