@@ -22369,5 +22369,63 @@
         "url": "https://www.animegg.org/grow-up-show-sunflower-circus-episode-5"
       }
     ]
+  },
+  {
+    "serial_no": 7788,
+    "title": "Arknights rise from ember",
+    "animegg_url": "https://www.animegg.org/series/arknights-rise-from-ember",
+    "mal_url": "https://myanimelist.net/anime/58749",
+    "mal_id": 58749,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/141562",
+        "dub": null,
+        "url": "https://www.animegg.org/arknights-rise-from-ember-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/141666",
+        "dub": null,
+        "url": "https://www.animegg.org/arknights-rise-from-ember-episode-2"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/141872",
+        "dub": null,
+        "url": "https://www.animegg.org/arknights-rise-from-ember-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/142004",
+        "dub": null,
+        "url": "https://www.animegg.org/arknights-rise-from-ember-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/142126",
+        "dub": null,
+        "url": "https://www.animegg.org/arknights-rise-from-ember-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/142249",
+        "dub": null,
+        "url": "https://www.animegg.org/arknights-rise-from-ember-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/142361",
+        "dub": null,
+        "url": "https://www.animegg.org/arknights-rise-from-ember-episode-8"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/142474",
+        "dub": null,
+        "url": "https://www.animegg.org/arknights-rise-from-ember-episode-10"
+      }
+    ]
   }
 ]
