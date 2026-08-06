@@ -24390,5 +24390,105 @@
         "url": "https://www.animegg.org/tantei-opera-milky-holmes-dai-2-maku-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 7812,
+    "title": "San Ti",
+    "animegg_url": "https://www.animegg.org/series/san-ti",
+    "mal_url": "https://myanimelist.net/anime/50445",
+    "mal_id": 50445,
+    "total_ep": 15,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/san-ti-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/san-ti-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/san-ti-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/san-ti-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/san-ti-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/san-ti-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/san-ti-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/117966",
+        "dub": null,
+        "url": "https://www.animegg.org/san-ti-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/san-ti-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/san-ti-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/117969",
+        "dub": null,
+        "url": "https://www.animegg.org/san-ti-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/san-ti-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/117968",
+        "dub": null,
+        "url": "https://www.animegg.org/san-ti-episode-13"
+      },
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/117967",
+        "dub": null,
+        "url": "https://www.animegg.org/san-ti-episode-14"
+      },
+      {
+        "ep": 15,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/san-ti-episode-15"
+      }
+    ]
   }
 ]
