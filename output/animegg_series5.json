@@ -134442,5 +134442,21 @@
         "url": "https://www.animegg.org/escaflowne-dub-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 7037,
+    "title": "Sword Art Online: Progressive Movie - Kuraki Yuuyami no Scherzo",
+    "animegg_url": "https://www.animegg.org/series/sword-art-online-progressive-movie---kuraki-yuuyami-no-scherzo",
+    "mal_url": "https://myanimelist.net/anime/50275",
+    "mal_id": 50275,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/108310",
+        "dub": null,
+        "url": "https://www.animegg.org/sword-art-online-progressive-movie---kuraki-yuuyami-no-scherzo-episode-1"
+      }
+    ]
   }
 ]
