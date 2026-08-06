@@ -86189,5 +86189,39 @@
         "url": "https://www.animegg.org/shin-grimm-meisaku-gekijou-episode-23"
       }
     ]
+  },
+  {
+    "serial_no": 8835,
+    "title": "Macross Plus (Dub)",
+    "animegg_url": "https://www.animegg.org/series/macross-plus-dub",
+    "mal_url": "https://myanimelist.net/anime/1088",
+    "mal_id": 1088,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/122296",
+        "dub": null,
+        "url": "https://www.animegg.org/macross-plus-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/122295",
+        "dub": null,
+        "url": "https://www.animegg.org/macross-plus-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/122294",
+        "dub": null,
+        "url": "https://www.animegg.org/macross-plus-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/122293",
+        "dub": null,
+        "url": "https://www.animegg.org/macross-plus-dub-episode-4"
+      }
+    ]
   }
 ]
