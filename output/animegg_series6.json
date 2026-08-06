@@ -87097,5 +87097,21 @@
         "url": "https://www.animegg.org/catman-series-iii-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 8868,
+    "title": "Gyokou no Nikuko-chan",
+    "animegg_url": "https://www.animegg.org/series/gyokou-no-nikuko-chan",
+    "mal_url": "https://myanimelist.net/anime/45620",
+    "mal_id": 45620,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/105015",
+        "dub": null,
+        "url": "https://www.animegg.org/gyokou-no-nikuko-chan-episode-1"
+      }
+    ]
   }
 ]
