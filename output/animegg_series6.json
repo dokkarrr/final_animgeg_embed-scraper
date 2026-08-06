@@ -33609,5 +33609,69 @@
         "url": "https://www.animegg.org/haja-kyosei-g-dangaiou-dub-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 7933,
+    "title": "Douse, Koishite Shimaunda",
+    "animegg_url": "https://www.animegg.org/series/douse-koishite-shimaunda",
+    "mal_url": "https://myanimelist.net/anime/58259",
+    "mal_id": 58259,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/139398",
+        "dub": null,
+        "url": "https://www.animegg.org/douse-koishite-shimaunda-episode-2"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/139548",
+        "dub": null,
+        "url": "https://www.animegg.org/douse-koishite-shimaunda-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/139658",
+        "dub": null,
+        "url": "https://www.animegg.org/douse-koishite-shimaunda-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/139748",
+        "dub": null,
+        "url": "https://www.animegg.org/douse-koishite-shimaunda-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/139837",
+        "dub": null,
+        "url": "https://www.animegg.org/douse-koishite-shimaunda-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/139935",
+        "dub": null,
+        "url": "https://www.animegg.org/douse-koishite-shimaunda-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/140034",
+        "dub": null,
+        "url": "https://www.animegg.org/douse-koishite-shimaunda-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/140115",
+        "dub": null,
+        "url": "https://www.animegg.org/douse-koishite-shimaunda-episode-10"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/140286",
+        "dub": null,
+        "url": "https://www.animegg.org/douse-koishite-shimaunda-episode-12"
+      }
+    ]
   }
 ]
