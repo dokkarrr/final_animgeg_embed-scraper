@@ -17817,5 +17817,45 @@
         "url": "https://www.animegg.org/happy-bogeys-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 7728,
+    "title": "Kaiketsu Zorro",
+    "animegg_url": "https://www.animegg.org/series/kaiketsu-zorro",
+    "mal_url": "https://myanimelist.net/anime/3010",
+    "mal_id": 3010,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/99346",
+        "dub": null,
+        "url": "https://www.animegg.org/kaiketsu-zorro-episode-7"
+      },
+      {
+        "ep": 19,
+        "sub": "https://www.animegg.org/embed/99345",
+        "dub": null,
+        "url": "https://www.animegg.org/kaiketsu-zorro-episode-19"
+      },
+      {
+        "ep": 24,
+        "sub": "https://www.animegg.org/embed/99319",
+        "dub": null,
+        "url": "https://www.animegg.org/kaiketsu-zorro-episode-24"
+      },
+      {
+        "ep": 37,
+        "sub": "https://www.animegg.org/embed/99320",
+        "dub": null,
+        "url": "https://www.animegg.org/kaiketsu-zorro-episode-37"
+      },
+      {
+        "ep": 38,
+        "sub": "https://www.animegg.org/embed/99321",
+        "dub": null,
+        "url": "https://www.animegg.org/kaiketsu-zorro-episode-38"
+      }
+    ]
   }
 ]
