@@ -89180,5 +89180,21 @@
         "url": "https://www.animegg.org/eien-no-filena-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 8946,
+    "title": "Wicked City",
+    "animegg_url": "https://www.animegg.org/series/wicked-city",
+    "mal_url": "https://myanimelist.net/anime/1107",
+    "mal_id": 1107,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/114113",
+        "dub": null,
+        "url": "https://www.animegg.org/wicked-city-episode-1"
+      }
+    ]
   }
 ]
