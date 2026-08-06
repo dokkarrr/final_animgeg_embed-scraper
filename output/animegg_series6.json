@@ -72641,5 +72641,21 @@
         "url": "https://www.animegg.org/un-go-dub-episode-11"
       }
     ]
+  },
+  {
+    "serial_no": 8526,
+    "title": "Bungo stray dogs wan season 2",
+    "animegg_url": "https://www.animegg.org/series/bungo-stray-dogs-wan-season-2",
+    "mal_url": "https://myanimelist.net/anime/32867",
+    "mal_id": 32867,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/146301",
+        "dub": "https://www.animegg.org/embed/146475",
+        "url": "https://www.animegg.org/bungo-stray-dogs-wan-season-2-episode-1"
+      }
+    ]
   }
 ]
