@@ -73111,5 +73111,69 @@
         "url": "https://www.animegg.org/naruto-shippuden-movie-5-blood-prison-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8534,
+    "title": "Logging 10,000 Years Into the Future",
+    "animegg_url": "https://www.animegg.org/series/logging-10-000-years-into-the-future",
+    "mal_url": "https://myanimelist.net/anime/10620",
+    "mal_id": 10620,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 10,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/logging-10-000-years-into-the-future-episode-23"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/138159",
+        "dub": null,
+        "url": "https://www.animegg.org/logging-10-000-years-into-the-future-episode-19"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/137419",
+        "dub": null,
+        "url": "https://www.animegg.org/logging-10-000-years-into-the-future-episode-14"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/136443",
+        "dub": null,
+        "url": "https://www.animegg.org/logging-10-000-years-into-the-future-episode-12"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/136145",
+        "dub": null,
+        "url": "https://www.animegg.org/logging-10-000-years-into-the-future-episode-10"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/136097",
+        "dub": null,
+        "url": "https://www.animegg.org/logging-10-000-years-into-the-future-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/135977",
+        "dub": null,
+        "url": "https://www.animegg.org/logging-10-000-years-into-the-future-episode-8"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/135917",
+        "dub": null,
+        "url": "https://www.animegg.org/logging-10-000-years-into-the-future-episode-7"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/135839",
+        "dub": null,
+        "url": "https://www.animegg.org/logging-10-000-years-into-the-future-episode-5"
+      }
+    ]
   }
 ]
