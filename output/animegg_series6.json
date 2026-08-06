@@ -64121,5 +64121,21 @@
         "url": "https://www.animegg.org/maoling-xiangce-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 8385,
+    "title": "Idaten Jump",
+    "animegg_url": "https://www.animegg.org/series/idaten-jump",
+    "mal_url": "https://myanimelist.net/anime/1316",
+    "mal_id": 1316,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/125240",
+        "dub": null,
+        "url": "https://www.animegg.org/idaten-jump-episode-1"
+      }
+    ]
   }
 ]
