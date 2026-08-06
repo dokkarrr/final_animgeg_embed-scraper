@@ -37962,5 +37962,27 @@
         "url": "https://www.animegg.org/favour-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 7993,
+    "title": "Ankoku Shinwa",
+    "animegg_url": "https://www.animegg.org/series/ankoku-shinwa",
+    "mal_url": "https://myanimelist.net/anime/1966",
+    "mal_id": 1966,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/108915",
+        "dub": null,
+        "url": "https://www.animegg.org/ankoku-shinwa-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/108916",
+        "dub": null,
+        "url": "https://www.animegg.org/ankoku-shinwa-episode-2"
+      }
+    ]
   }
 ]
