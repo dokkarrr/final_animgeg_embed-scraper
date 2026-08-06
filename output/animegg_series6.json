@@ -51475,5 +51475,27 @@
         "url": "https://www.animegg.org/eat-man-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8188,
+    "title": "Rail Romanesque 2",
+    "animegg_url": "https://www.animegg.org/series/rail-romanesque-2nd-season",
+    "mal_url": "https://myanimelist.net/anime/44583",
+    "mal_id": 44583,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/135181",
+        "dub": null,
+        "url": "https://www.animegg.org/rail-romanesque-2nd-season-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/132579",
+        "dub": null,
+        "url": "https://www.animegg.org/rail-romanesque-2nd-season-episode-3"
+      }
+    ]
   }
 ]
