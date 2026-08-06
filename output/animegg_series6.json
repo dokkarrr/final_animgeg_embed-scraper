@@ -52318,5 +52318,87 @@
         "url": "https://www.animegg.org/xun-jian-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8201,
+    "title": "Cop Craft",
+    "animegg_url": "https://www.animegg.org/series/cop-craft-dub",
+    "mal_url": "https://myanimelist.net/anime/38940",
+    "mal_id": 38940,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/cop-craft-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/128564",
+        "dub": null,
+        "url": "https://www.animegg.org/cop-craft-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/128563",
+        "dub": null,
+        "url": "https://www.animegg.org/cop-craft-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/128562",
+        "dub": null,
+        "url": "https://www.animegg.org/cop-craft-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/128561",
+        "dub": null,
+        "url": "https://www.animegg.org/cop-craft-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/cop-craft-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/cop-craft-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/128560",
+        "dub": null,
+        "url": "https://www.animegg.org/cop-craft-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/128559",
+        "dub": null,
+        "url": "https://www.animegg.org/cop-craft-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/128567",
+        "dub": null,
+        "url": "https://www.animegg.org/cop-craft-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/128566",
+        "dub": null,
+        "url": "https://www.animegg.org/cop-craft-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/128565",
+        "dub": null,
+        "url": "https://www.animegg.org/cop-craft-dub-episode-12"
+      }
+    ]
   }
 ]
