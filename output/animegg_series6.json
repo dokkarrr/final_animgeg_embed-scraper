@@ -57735,5 +57735,57 @@
         "url": "https://www.animegg.org/wuhang-zhanshen-episode-67"
       }
     ]
+  },
+  {
+    "serial_no": 8281,
+    "title": "I Am the Strongest Boss",
+    "animegg_url": "https://www.animegg.org/series/i-am-the-strongest-boss",
+    "mal_url": "https://myanimelist.net/anime/11763",
+    "mal_id": 11763,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/136049",
+        "dub": null,
+        "url": "https://www.animegg.org/i-am-the-strongest-boss-episode-1"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/136234",
+        "dub": null,
+        "url": "https://www.animegg.org/i-am-the-strongest-boss-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/136289",
+        "dub": null,
+        "url": "https://www.animegg.org/i-am-the-strongest-boss-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/136449",
+        "dub": null,
+        "url": "https://www.animegg.org/i-am-the-strongest-boss-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/137078",
+        "dub": null,
+        "url": "https://www.animegg.org/i-am-the-strongest-boss-episode-6"
+      },
+      {
+        "ep": 15,
+        "sub": "https://www.animegg.org/embed/137491",
+        "dub": null,
+        "url": "https://www.animegg.org/i-am-the-strongest-boss-episode-15"
+      },
+      {
+        "ep": 19,
+        "sub": "https://www.animegg.org/embed/138165",
+        "dub": null,
+        "url": "https://www.animegg.org/i-am-the-strongest-boss-episode-19"
+      }
+    ]
   }
 ]
