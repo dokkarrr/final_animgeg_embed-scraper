@@ -50655,5 +50655,21 @@
         "url": "https://www.animegg.org/xianwu-dizun-episode-11"
       }
     ]
+  },
+  {
+    "serial_no": 8175,
+    "title": "Shin Yaranai ka",
+    "animegg_url": "https://www.animegg.org/series/shin-yaranai-ka",
+    "mal_url": "https://myanimelist.net/anime/54907",
+    "mal_id": 54907,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/139104",
+        "dub": null,
+        "url": "https://www.animegg.org/shin-yaranai-ka-episode-1"
+      }
+    ]
   }
 ]
