@@ -72031,5 +72031,75 @@
         "url": "https://www.animegg.org/a-playboy-of-exorcist-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 8513,
+    "title": "Hangyakusei Million Arthur",
+    "animegg_url": "https://www.animegg.org/series/hangyakusei-million-arthur-dub",
+    "mal_url": "https://myanimelist.net/anime/37555",
+    "mal_id": 37555,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/125852",
+        "dub": null,
+        "url": "https://www.animegg.org/hangyakusei-million-arthur-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/125850",
+        "dub": null,
+        "url": "https://www.animegg.org/hangyakusei-million-arthur-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/125849",
+        "dub": null,
+        "url": "https://www.animegg.org/hangyakusei-million-arthur-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/125848",
+        "dub": null,
+        "url": "https://www.animegg.org/hangyakusei-million-arthur-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/125847",
+        "dub": null,
+        "url": "https://www.animegg.org/hangyakusei-million-arthur-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/125846",
+        "dub": null,
+        "url": "https://www.animegg.org/hangyakusei-million-arthur-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/125845",
+        "dub": null,
+        "url": "https://www.animegg.org/hangyakusei-million-arthur-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/125844",
+        "dub": null,
+        "url": "https://www.animegg.org/hangyakusei-million-arthur-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/125843",
+        "dub": null,
+        "url": "https://www.animegg.org/hangyakusei-million-arthur-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/125851",
+        "dub": null,
+        "url": "https://www.animegg.org/hangyakusei-million-arthur-dub-episode-10"
+      }
+    ]
   }
 ]
