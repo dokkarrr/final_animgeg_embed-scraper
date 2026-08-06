@@ -31933,5 +31933,87 @@
         "url": "https://www.animegg.org/x-men-anime-2011-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 7913,
+    "title": "Warau Arsnotoria Sun! (Dub)",
+    "animegg_url": "https://www.animegg.org/series/warau-arsnotoria-sun-dub",
+    "mal_url": "https://myanimelist.net/anime/51923",
+    "mal_id": 51923,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/114432",
+        "dub": null,
+        "url": "https://www.animegg.org/warau-arsnotoria-sun-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/114430",
+        "dub": null,
+        "url": "https://www.animegg.org/warau-arsnotoria-sun-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/114429",
+        "dub": null,
+        "url": "https://www.animegg.org/warau-arsnotoria-sun-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/114428",
+        "dub": null,
+        "url": "https://www.animegg.org/warau-arsnotoria-sun-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/114427",
+        "dub": null,
+        "url": "https://www.animegg.org/warau-arsnotoria-sun-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/114426",
+        "dub": null,
+        "url": "https://www.animegg.org/warau-arsnotoria-sun-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/114425",
+        "dub": null,
+        "url": "https://www.animegg.org/warau-arsnotoria-sun-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/114424",
+        "dub": null,
+        "url": "https://www.animegg.org/warau-arsnotoria-sun-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/114423",
+        "dub": null,
+        "url": "https://www.animegg.org/warau-arsnotoria-sun-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/114431",
+        "dub": null,
+        "url": "https://www.animegg.org/warau-arsnotoria-sun-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/warau-arsnotoria-sun-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/warau-arsnotoria-sun-dub-episode-12"
+      }
+    ]
   }
 ]
