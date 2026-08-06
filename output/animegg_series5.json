@@ -136250,5 +136250,51 @@
         "url": "https://www.animegg.org/record-of-lodoss-war-chronicles-of-the-heroic-knight-dub-episode-27"
       }
     ]
+  },
+  {
+    "serial_no": 7054,
+    "title": "Chikyuugai Shounen Shoujo",
+    "animegg_url": "https://www.animegg.org/series/chikyuugai-shounen-shoujo",
+    "mal_url": "https://myanimelist.net/anime/37914",
+    "mal_id": 37914,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/103927",
+        "dub": null,
+        "url": "https://www.animegg.org/chikyuugai-shounen-shoujo-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/128622",
+        "dub": null,
+        "url": "https://www.animegg.org/chikyuugai-shounen-shoujo-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/128621",
+        "dub": null,
+        "url": "https://www.animegg.org/chikyuugai-shounen-shoujo-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/128620",
+        "dub": null,
+        "url": "https://www.animegg.org/chikyuugai-shounen-shoujo-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/128619",
+        "dub": null,
+        "url": "https://www.animegg.org/chikyuugai-shounen-shoujo-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/103928",
+        "dub": null,
+        "url": "https://www.animegg.org/chikyuugai-shounen-shoujo-episode-6"
+      }
+    ]
   }
 ]
