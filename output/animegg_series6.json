@@ -25872,5 +25872,63 @@
         "url": "https://www.animegg.org/yong-sheng-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 7830,
+    "title": "Psychic princess season 2",
+    "animegg_url": "https://www.animegg.org/series/psychic-princess-season-2",
+    "mal_url": "https://myanimelist.net/anime/38917",
+    "mal_id": 38917,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/142479",
+        "dub": null,
+        "url": "https://www.animegg.org/psychic-princess-season-2-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/142371",
+        "dub": null,
+        "url": "https://www.animegg.org/psychic-princess-season-2-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/142261",
+        "dub": null,
+        "url": "https://www.animegg.org/psychic-princess-season-2-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/142151",
+        "dub": null,
+        "url": "https://www.animegg.org/psychic-princess-season-2-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/142113",
+        "dub": null,
+        "url": "https://www.animegg.org/psychic-princess-season-2-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/141895",
+        "dub": null,
+        "url": "https://www.animegg.org/psychic-princess-season-2-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/141896",
+        "dub": null,
+        "url": "https://www.animegg.org/psychic-princess-season-2-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/141806",
+        "dub": null,
+        "url": "https://www.animegg.org/psychic-princess-season-2-episode-1"
+      }
+    ]
   }
 ]
