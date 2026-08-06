@@ -6122,5 +6122,63 @@
         "url": "https://www.animegg.org/enter-the-garden-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 7583,
+    "title": "Fermat's Cuisine",
+    "animegg_url": "https://www.animegg.org/series/fermat-s-cuisine",
+    "mal_url": "https://myanimelist.net/anime/60697",
+    "mal_id": 60697,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/141576",
+        "dub": null,
+        "url": "https://www.animegg.org/fermat-s-cuisine-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/141689",
+        "dub": null,
+        "url": "https://www.animegg.org/fermat-s-cuisine-episode-2"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/141909",
+        "dub": null,
+        "url": "https://www.animegg.org/fermat-s-cuisine-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/142156",
+        "dub": null,
+        "url": "https://www.animegg.org/fermat-s-cuisine-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/142275",
+        "dub": null,
+        "url": "https://www.animegg.org/fermat-s-cuisine-episode-6"
+      },
+      {
+        "ep": 9,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/fermat-s-cuisine-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/142544",
+        "dub": null,
+        "url": "https://www.animegg.org/fermat-s-cuisine-episode-10"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/142721",
+        "dub": null,
+        "url": "https://www.animegg.org/fermat-s-cuisine-episode-12"
+      }
+    ]
   }
 ]
