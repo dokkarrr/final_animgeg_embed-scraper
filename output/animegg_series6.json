@@ -89441,5 +89441,39 @@
         "url": "https://www.animegg.org/kagami-no-kojou-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8959,
+    "title": "Macross Dynamite 7",
+    "animegg_url": "https://www.animegg.org/series/macross-dynamite-7",
+    "mal_url": "https://myanimelist.net/anime/1398",
+    "mal_id": 1398,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/macross-dynamite-7-episode-4"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/macross-dynamite-7-episode-3"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/macross-dynamite-7-episode-2"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/macross-dynamite-7-episode-1"
+      }
+    ]
   }
 ]
