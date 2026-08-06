@@ -81238,5 +81238,87 @@
     "mal_id": 1735,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 8703,
+    "title": "Wo Shi Da Xian Zun",
+    "animegg_url": "https://www.animegg.org/series/wo-shi-da-xian-zun",
+    "mal_url": "https://myanimelist.net/anime/38450",
+    "mal_id": 38450,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 215,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/wo-shi-da-xian-zun-episode-215"
+      },
+      {
+        "ep": 216,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/wo-shi-da-xian-zun-episode-216"
+      },
+      {
+        "ep": 221,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/wo-shi-da-xian-zun-episode-221"
+      },
+      {
+        "ep": 222,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/wo-shi-da-xian-zun-episode-222"
+      },
+      {
+        "ep": 223,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/wo-shi-da-xian-zun-episode-223"
+      },
+      {
+        "ep": 254,
+        "sub": "https://www.animegg.org/embed/137367",
+        "dub": null,
+        "url": "https://www.animegg.org/wo-shi-da-xian-zun-episode-254"
+      },
+      {
+        "ep": 255,
+        "sub": "https://www.animegg.org/embed/137842",
+        "dub": null,
+        "url": "https://www.animegg.org/wo-shi-da-xian-zun-episode-255"
+      },
+      {
+        "ep": 257,
+        "sub": "https://www.animegg.org/embed/138109",
+        "dub": null,
+        "url": "https://www.animegg.org/wo-shi-da-xian-zun-episode-257"
+      },
+      {
+        "ep": 259,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/wo-shi-da-xian-zun-episode-259"
+      },
+      {
+        "ep": 260,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/wo-shi-da-xian-zun-episode-260"
+      },
+      {
+        "ep": 261,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/wo-shi-da-xian-zun-episode-261"
+      },
+      {
+        "ep": 262,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/wo-shi-da-xian-zun-episode-262"
+      }
+    ]
   }
 ]
