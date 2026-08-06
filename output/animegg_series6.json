@@ -87135,5 +87135,21 @@
         "url": "https://www.animegg.org/douwa-revenger-episode-3"
       }
     ]
+  },
+  {
+    "serial_no": 8870,
+    "title": "Bikkuriman 2000",
+    "animegg_url": "https://www.animegg.org/series/bikkuriman-2000",
+    "mal_url": "https://myanimelist.net/anime/5478",
+    "mal_id": 5478,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2000,
+        "sub": "https://www.animegg.org/embed/133266",
+        "dub": null,
+        "url": "https://www.animegg.org/bikkuriman-2000-episode-1"
+      }
+    ]
   }
 ]
