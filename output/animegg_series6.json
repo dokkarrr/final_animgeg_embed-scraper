@@ -86833,5 +86833,51 @@
         "url": "https://www.animegg.org/petshop-of-horrors-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 8857,
+    "title": "Silent House",
+    "animegg_url": "https://www.animegg.org/series/silent-house",
+    "mal_url": "https://myanimelist.net/anime/49573",
+    "mal_id": 49573,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/137696",
+        "dub": null,
+        "url": "https://www.animegg.org/silent-house-episode-1"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/137848",
+        "dub": null,
+        "url": "https://www.animegg.org/silent-house-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/138113",
+        "dub": null,
+        "url": "https://www.animegg.org/silent-house-episode-5"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/138558",
+        "dub": null,
+        "url": "https://www.animegg.org/silent-house-episode-7"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/139010",
+        "dub": null,
+        "url": "https://www.animegg.org/silent-house-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/139196",
+        "dub": null,
+        "url": "https://www.animegg.org/silent-house-episode-10"
+      }
+    ]
   }
 ]
