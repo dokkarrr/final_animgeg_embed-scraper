@@ -90351,5 +90351,21 @@
         "url": "https://www.animegg.org/toushi-gordian-episode-51"
       }
     ]
+  },
+  {
+    "serial_no": 8991,
+    "title": "Mobile Suit Gundam Seed: After-Phase Between the Stars",
+    "animegg_url": "https://www.animegg.org/series/mobile-suit-gundam-seed-after-phase-between-the-stars",
+    "mal_url": "https://myanimelist.net/anime/2298",
+    "mal_id": 2298,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/104717",
+        "dub": null,
+        "url": "https://www.animegg.org/mobile-suit-gundam-seed-after-phase-between-the-stars-episode-1"
+      }
+    ]
   }
 ]
