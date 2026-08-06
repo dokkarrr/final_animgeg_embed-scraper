@@ -75603,5 +75603,27 @@
         "url": "https://www.animegg.org/tong-ling-fei-season-2-episode-11"
       }
     ]
+  },
+  {
+    "serial_no": 8582,
+    "title": "Ginga Tokkyuu Milky☆Subway",
+    "animegg_url": "https://www.animegg.org/series/ginga-tokkyuu-milky-subway",
+    "mal_url": "https://myanimelist.net/anime/61274",
+    "mal_id": 61274,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/141546",
+        "dub": "https://www.animegg.org/embed/141552",
+        "url": "https://www.animegg.org/ginga-tokkyuu-milky-subway-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/141654",
+        "dub": "https://www.animegg.org/embed/141657",
+        "url": "https://www.animegg.org/ginga-tokkyuu-milky-subway-episode-2"
+      }
+    ]
   }
 ]
