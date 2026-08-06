@@ -87916,5 +87916,27 @@
         "url": "https://www.animegg.org/naruto-movie-2-dai-gekitotsu-maboroshi-no-chitei-iseki-datte-ba-yo-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8903,
+    "title": "Azur Lane: Queen's Orders",
+    "animegg_url": "https://www.animegg.org/series/azur-lane-queen-s-orders",
+    "mal_url": "https://myanimelist.net/anime/49793",
+    "mal_id": 49793,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/131583",
+        "dub": null,
+        "url": "https://www.animegg.org/azur-lane-queen-s-orders-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/131582",
+        "dub": null,
+        "url": "https://www.animegg.org/azur-lane-queen-s-orders-episode-2"
+      }
+    ]
   }
 ]
