@@ -26735,5 +26735,27 @@
         "url": "https://www.animegg.org/binan-koukou-chikyuu-bouei-bu-happy-kiss-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 7842,
+    "title": "Uchuu Senkan Yamato 2205",
+    "animegg_url": "https://www.animegg.org/series/uchuu-senkan-yamato-2205",
+    "mal_url": "https://myanimelist.net/anime/40389",
+    "mal_id": 40389,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 2205,
+        "sub": "https://www.animegg.org/embed/103968",
+        "dub": null,
+        "url": "https://www.animegg.org/uchuu-senkan-yamato-2205-episode-4"
+      },
+      {
+        "ep": 2205,
+        "sub": "https://www.animegg.org/embed/103969",
+        "dub": null,
+        "url": "https://www.animegg.org/uchuu-senkan-yamato-2205-episode-1"
+      }
+    ]
   }
 ]
