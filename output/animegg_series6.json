@@ -45363,5 +45363,21 @@
         "url": "https://www.animegg.org/x-men-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8098,
+    "title": "The ramparts of ice season 3",
+    "animegg_url": "https://www.animegg.org/series/the-ramparts-of-ice-season-3",
+    "mal_url": "https://myanimelist.net/anime/40028",
+    "mal_id": 40028,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/145447",
+        "dub": null,
+        "url": "https://www.animegg.org/the-ramparts-of-ice-season-3-episode-3"
+      }
+    ]
   }
 ]
