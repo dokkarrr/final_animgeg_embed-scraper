@@ -37101,5 +37101,63 @@
         "url": "https://www.animegg.org/ba-ma-laizi-er-ciyuan-episode-24"
       }
     ]
+  },
+  {
+    "serial_no": 7980,
+    "title": "Make My Day",
+    "animegg_url": "https://www.animegg.org/series/make-my-day",
+    "mal_url": "https://myanimelist.net/anime/49164",
+    "mal_id": 49164,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/107056",
+        "dub": null,
+        "url": "https://www.animegg.org/make-my-day-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/make-my-day-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/make-my-day-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/make-my-day-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/make-my-day-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/make-my-day-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/make-my-day-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/107057",
+        "dub": null,
+        "url": "https://www.animegg.org/make-my-day-episode-8"
+      }
+    ]
   }
 ]
