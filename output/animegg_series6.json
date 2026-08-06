@@ -84403,5 +84403,21 @@
         "url": "https://www.animegg.org/laputa-castle-in-the-sky-dub-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8783,
+    "title": "Tengen Toppa Gurren Lagann: Parallel Works",
+    "animegg_url": "https://www.animegg.org/series/tengen-toppa-gurren-lagann-parallel-works",
+    "mal_url": "https://myanimelist.net/anime/4705",
+    "mal_id": 4705,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/tengen-toppa-gurren-lagann-parallel-works-episode-8"
+      }
+    ]
   }
 ]
