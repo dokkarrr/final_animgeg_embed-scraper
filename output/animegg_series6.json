@@ -86721,5 +86721,45 @@
         "url": "https://www.animegg.org/cardfight-vanguard-divinez-season-3-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8853,
+    "title": "Wuxian Shaonu 48",
+    "animegg_url": "https://www.animegg.org/series/wuxian-shaonu-48",
+    "mal_url": "https://myanimelist.net/anime/41913",
+    "mal_id": 41913,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 48,
+        "sub": "https://www.animegg.org/embed/113612",
+        "dub": null,
+        "url": "https://www.animegg.org/wuxian-shaonu-48-episode-5"
+      },
+      {
+        "ep": 48,
+        "sub": "https://www.animegg.org/embed/113613",
+        "dub": null,
+        "url": "https://www.animegg.org/wuxian-shaonu-48-episode-4"
+      },
+      {
+        "ep": 48,
+        "sub": "https://www.animegg.org/embed/113614",
+        "dub": null,
+        "url": "https://www.animegg.org/wuxian-shaonu-48-episode-3"
+      },
+      {
+        "ep": 48,
+        "sub": "https://www.animegg.org/embed/113615",
+        "dub": null,
+        "url": "https://www.animegg.org/wuxian-shaonu-48-episode-2"
+      },
+      {
+        "ep": 48,
+        "sub": "https://www.animegg.org/embed/113616",
+        "dub": null,
+        "url": "https://www.animegg.org/wuxian-shaonu-48-episode-1"
+      }
+    ]
   }
 ]
