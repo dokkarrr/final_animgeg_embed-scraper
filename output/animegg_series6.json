@@ -90231,5 +90231,39 @@
         "url": "https://www.animegg.org/elf-ban-kakyuusei-anata-dake-wo-mitsumete-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 8986,
+    "title": "Ai Shite Night",
+    "animegg_url": "https://www.animegg.org/series/ai-shite-night",
+    "mal_url": "https://myanimelist.net/anime/2221",
+    "mal_id": 2221,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/109736",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-shite-night-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/109737",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-shite-night-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/109738",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-shite-night-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/109739",
+        "dub": null,
+        "url": "https://www.animegg.org/ai-shite-night-episode-4"
+      }
+    ]
   }
 ]
