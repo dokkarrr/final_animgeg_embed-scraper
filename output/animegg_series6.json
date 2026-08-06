@@ -34724,5 +34724,81 @@
     "mal_id": 40028,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 7948,
+    "title": "Xiling Jiyuan",
+    "animegg_url": "https://www.animegg.org/series/xiling-jiyuan",
+    "mal_url": "https://myanimelist.net/anime/50431",
+    "mal_id": 50431,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/xiling-jiyuan-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/xiling-jiyuan-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/xiling-jiyuan-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/xiling-jiyuan-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/xiling-jiyuan-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/xiling-jiyuan-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/xiling-jiyuan-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/xiling-jiyuan-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/xiling-jiyuan-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/xiling-jiyuan-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/xiling-jiyuan-episode-11"
+      }
+    ]
   }
 ]
