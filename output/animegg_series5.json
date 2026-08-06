@@ -141780,5 +141780,21 @@
         "url": "https://www.animegg.org/fuyou-yuuna-wa-yuusha-de-nai-episode-5"
       }
     ]
+  },
+  {
+    "serial_no": 7100,
+    "title": "High School Fleet Movie",
+    "animegg_url": "https://www.animegg.org/series/high-school-fleet-movie",
+    "mal_url": "https://myanimelist.net/anime/37704",
+    "mal_id": 37704,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/99891",
+        "dub": null,
+        "url": "https://www.animegg.org/high-school-fleet-movie-episode-1"
+      }
+    ]
   }
 ]
