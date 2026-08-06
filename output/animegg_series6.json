@@ -14517,5 +14517,93 @@
         "url": "https://www.animegg.org/jintian-de-wancan-jiushi-ni-episode-20"
       }
     ]
+  },
+  {
+    "serial_no": 7684,
+    "title": "Mars Red",
+    "animegg_url": "https://www.animegg.org/series/mars-red-dub",
+    "mal_url": "https://myanimelist.net/anime/41265",
+    "mal_id": 41265,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/121908",
+        "dub": null,
+        "url": "https://www.animegg.org/mars-red-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/121903",
+        "dub": null,
+        "url": "https://www.animegg.org/mars-red-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/121902",
+        "dub": null,
+        "url": "https://www.animegg.org/mars-red-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/121901",
+        "dub": null,
+        "url": "https://www.animegg.org/mars-red-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/121900",
+        "dub": null,
+        "url": "https://www.animegg.org/mars-red-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/121899",
+        "dub": null,
+        "url": "https://www.animegg.org/mars-red-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/121898",
+        "dub": null,
+        "url": "https://www.animegg.org/mars-red-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/121897",
+        "dub": null,
+        "url": "https://www.animegg.org/mars-red-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/121896",
+        "dub": null,
+        "url": "https://www.animegg.org/mars-red-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/121907",
+        "dub": null,
+        "url": "https://www.animegg.org/mars-red-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/121906",
+        "dub": null,
+        "url": "https://www.animegg.org/mars-red-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/121905",
+        "dub": null,
+        "url": "https://www.animegg.org/mars-red-dub-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/121904",
+        "dub": null,
+        "url": "https://www.animegg.org/mars-red-dub-episode-13"
+      }
+    ]
   }
 ]
