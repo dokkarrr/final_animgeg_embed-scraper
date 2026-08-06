@@ -53923,5 +53923,57 @@
         "url": "https://www.animegg.org/da-wang-bu-gaoxing-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8223,
+    "title": "Danshi Koukousei no Nichijou Special",
+    "animegg_url": "https://www.animegg.org/series/danshi-koukousei-no-nichijou-special",
+    "mal_url": "https://myanimelist.net/anime/12893",
+    "mal_id": 12893,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/128083",
+        "dub": null,
+        "url": "https://www.animegg.org/danshi-koukousei-no-nichijou-special-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/128082",
+        "dub": null,
+        "url": "https://www.animegg.org/danshi-koukousei-no-nichijou-special-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/128081",
+        "dub": null,
+        "url": "https://www.animegg.org/danshi-koukousei-no-nichijou-special-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/128080",
+        "dub": null,
+        "url": "https://www.animegg.org/danshi-koukousei-no-nichijou-special-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/128079",
+        "dub": null,
+        "url": "https://www.animegg.org/danshi-koukousei-no-nichijou-special-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/128078",
+        "dub": null,
+        "url": "https://www.animegg.org/danshi-koukousei-no-nichijou-special-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/128077",
+        "dub": null,
+        "url": "https://www.animegg.org/danshi-koukousei-no-nichijou-special-episode-7"
+      }
+    ]
   }
 ]
