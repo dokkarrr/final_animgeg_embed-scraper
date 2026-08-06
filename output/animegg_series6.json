@@ -62109,5 +62109,57 @@
         "url": "https://www.animegg.org/black-rock-shooter-dawn-fall-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8354,
+    "title": "Pacific Rim: The Black Season 2",
+    "animegg_url": "https://www.animegg.org/series/pacific-rim-the-black-season-2",
+    "mal_url": "https://myanimelist.net/anime/40028",
+    "mal_id": 40028,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/120532",
+        "dub": null,
+        "url": "https://www.animegg.org/pacific-rim-the-black-season-2-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/120533",
+        "dub": null,
+        "url": "https://www.animegg.org/pacific-rim-the-black-season-2-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/120534",
+        "dub": null,
+        "url": "https://www.animegg.org/pacific-rim-the-black-season-2-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/120535",
+        "dub": null,
+        "url": "https://www.animegg.org/pacific-rim-the-black-season-2-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/120536",
+        "dub": null,
+        "url": "https://www.animegg.org/pacific-rim-the-black-season-2-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/120537",
+        "dub": null,
+        "url": "https://www.animegg.org/pacific-rim-the-black-season-2-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/120538",
+        "dub": null,
+        "url": "https://www.animegg.org/pacific-rim-the-black-season-2-episode-1"
+      }
+    ]
   }
 ]
