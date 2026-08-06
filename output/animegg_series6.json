@@ -64906,5 +64906,21 @@
         "url": "https://www.animegg.org/africa-no-salaryman-tv-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8399,
+    "title": "Sayonara Watashi no Cramer Movie: First Touch",
+    "animegg_url": "https://www.animegg.org/series/sayonara-watashi-no-cramer-movie-first-touch",
+    "mal_url": "https://myanimelist.net/anime/42798",
+    "mal_id": 42798,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/101991",
+        "dub": null,
+        "url": "https://www.animegg.org/sayonara-watashi-no-cramer-movie-first-touch-episode-1"
+      }
+    ]
   }
 ]
