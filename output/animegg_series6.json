@@ -74182,5 +74182,57 @@
         "url": "https://www.animegg.org/sadamitsu-the-destroyer-dub-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 8555,
+    "title": "With you our love will make it through season 1",
+    "animegg_url": "https://www.animegg.org/series/with-you-our-love-will-make-it-through-season-1",
+    "mal_url": "https://myanimelist.net/anime/60765",
+    "mal_id": 60765,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/143541",
+        "dub": null,
+        "url": "https://www.animegg.org/with-you-our-love-will-make-it-through-season-1-episode-7"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/143440",
+        "dub": null,
+        "url": "https://www.animegg.org/with-you-our-love-will-make-it-through-season-1-episode-6"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/143335",
+        "dub": "https://www.animegg.org/embed/143568",
+        "url": "https://www.animegg.org/with-you-our-love-will-make-it-through-season-1-episode-5"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/143219",
+        "dub": "https://www.animegg.org/embed/143444",
+        "url": "https://www.animegg.org/with-you-our-love-will-make-it-through-season-1-episode-4"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/143111",
+        "dub": "https://www.animegg.org/embed/143342",
+        "url": "https://www.animegg.org/with-you-our-love-will-make-it-through-season-1-episode-3"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/143015",
+        "dub": "https://www.animegg.org/embed/143226",
+        "url": "https://www.animegg.org/with-you-our-love-will-make-it-through-season-1-episode-2"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/142917",
+        "dub": "https://www.animegg.org/embed/143109",
+        "url": "https://www.animegg.org/with-you-our-love-will-make-it-through-season-1-episode-1"
+      }
+    ]
   }
 ]
