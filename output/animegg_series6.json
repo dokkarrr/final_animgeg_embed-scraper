@@ -21803,5 +21803,45 @@
         "url": "https://www.animegg.org/shaonian-bai-ma-zui-chun-feng-2nd-season-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 7780,
+    "title": "Ichijouma Mankitsugurashi!",
+    "animegg_url": "https://www.animegg.org/series/ichijouma-mankitsugurashi",
+    "mal_url": "https://myanimelist.net/anime/62018",
+    "mal_id": 62018,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/145490",
+        "dub": null,
+        "url": "https://www.animegg.org/ichijouma-mankitsugurashi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/145625",
+        "dub": null,
+        "url": "https://www.animegg.org/ichijouma-mankitsugurashi-episode-4"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/145813",
+        "dub": null,
+        "url": "https://www.animegg.org/ichijouma-mankitsugurashi-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/145922",
+        "dub": null,
+        "url": "https://www.animegg.org/ichijouma-mankitsugurashi-episode-7"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/146164",
+        "dub": null,
+        "url": "https://www.animegg.org/ichijouma-mankitsugurashi-episode-11"
+      }
+    ]
   }
 ]
