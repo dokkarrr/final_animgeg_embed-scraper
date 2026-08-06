@@ -35758,5 +35758,87 @@
         "url": "https://www.animegg.org/ling-yu---spirit-realm-s5-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 7962,
+    "title": "Hakumei to Mikochi (Dub)",
+    "animegg_url": "https://www.animegg.org/series/hakumei-to-mikochi-dub",
+    "mal_url": "https://myanimelist.net/anime/36094",
+    "mal_id": 36094,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/126018",
+        "dub": null,
+        "url": "https://www.animegg.org/hakumei-to-mikochi-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/126014",
+        "dub": null,
+        "url": "https://www.animegg.org/hakumei-to-mikochi-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/126013",
+        "dub": null,
+        "url": "https://www.animegg.org/hakumei-to-mikochi-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/126012",
+        "dub": null,
+        "url": "https://www.animegg.org/hakumei-to-mikochi-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/126011",
+        "dub": null,
+        "url": "https://www.animegg.org/hakumei-to-mikochi-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/126010",
+        "dub": null,
+        "url": "https://www.animegg.org/hakumei-to-mikochi-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/126009",
+        "dub": null,
+        "url": "https://www.animegg.org/hakumei-to-mikochi-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/126008",
+        "dub": null,
+        "url": "https://www.animegg.org/hakumei-to-mikochi-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/126007",
+        "dub": null,
+        "url": "https://www.animegg.org/hakumei-to-mikochi-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/126017",
+        "dub": null,
+        "url": "https://www.animegg.org/hakumei-to-mikochi-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/126016",
+        "dub": null,
+        "url": "https://www.animegg.org/hakumei-to-mikochi-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/126015",
+        "dub": null,
+        "url": "https://www.animegg.org/hakumei-to-mikochi-dub-episode-12"
+      }
+    ]
   }
 ]
