@@ -2390,5 +2390,51 @@
         "url": "https://www.animegg.org/the-legend-of-photon-heroes-episode-41"
       }
     ]
+  },
+  {
+    "serial_no": 7538,
+    "title": "Yojouhan Time Machine Blues",
+    "animegg_url": "https://www.animegg.org/series/yojouhan-time-machine-blues",
+    "mal_url": "https://myanimelist.net/anime/49590",
+    "mal_id": 49590,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/106029",
+        "dub": null,
+        "url": "https://www.animegg.org/yojouhan-time-machine-blues-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/111598",
+        "dub": null,
+        "url": "https://www.animegg.org/yojouhan-time-machine-blues-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/111597",
+        "dub": null,
+        "url": "https://www.animegg.org/yojouhan-time-machine-blues-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/106030",
+        "dub": null,
+        "url": "https://www.animegg.org/yojouhan-time-machine-blues-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/106196",
+        "dub": null,
+        "url": "https://www.animegg.org/yojouhan-time-machine-blues-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/106197",
+        "dub": null,
+        "url": "https://www.animegg.org/yojouhan-time-machine-blues-episode-6"
+      }
+    ]
   }
 ]
