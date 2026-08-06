@@ -86511,5 +86511,21 @@
     "mal_id": 16592,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 8847,
+    "title": "Yaneura no Rudger",
+    "animegg_url": "https://www.animegg.org/series/yaneura-no-rudger",
+    "mal_url": "https://myanimelist.net/anime/50553",
+    "mal_id": 50553,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/134829",
+        "dub": null,
+        "url": "https://www.animegg.org/yaneura-no-rudger-episode-1"
+      }
+    ]
   }
 ]
