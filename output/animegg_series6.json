@@ -89857,5 +89857,21 @@
         "url": "https://www.animegg.org/zetsubou-no-kaibutsu-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8972,
+    "title": "Macross Frontier: Toki no Meikyuu",
+    "animegg_url": "https://www.animegg.org/series/macross-frontier-toki-no-meikyuu",
+    "mal_url": "https://myanimelist.net/anime/47409",
+    "mal_id": 47409,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/105984",
+        "dub": null,
+        "url": "https://www.animegg.org/macross-frontier-toki-no-meikyuu-episode-1"
+      }
+    ]
   }
 ]
