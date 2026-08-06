@@ -53649,5 +53649,87 @@
         "url": "https://www.animegg.org/dahua-zhi-shaonian-you-episode-16"
       }
     ]
+  },
+  {
+    "serial_no": 8219,
+    "title": "Hong Huang",
+    "animegg_url": "https://www.animegg.org/series/hong-huang",
+    "mal_url": "https://myanimelist.net/anime/49205",
+    "mal_id": 49205,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/125676",
+        "dub": null,
+        "url": "https://www.animegg.org/hong-huang-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/125672",
+        "dub": null,
+        "url": "https://www.animegg.org/hong-huang-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/125671",
+        "dub": null,
+        "url": "https://www.animegg.org/hong-huang-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/125670",
+        "dub": null,
+        "url": "https://www.animegg.org/hong-huang-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/125669",
+        "dub": null,
+        "url": "https://www.animegg.org/hong-huang-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/125668",
+        "dub": null,
+        "url": "https://www.animegg.org/hong-huang-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/125667",
+        "dub": null,
+        "url": "https://www.animegg.org/hong-huang-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/125666",
+        "dub": null,
+        "url": "https://www.animegg.org/hong-huang-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/125665",
+        "dub": null,
+        "url": "https://www.animegg.org/hong-huang-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/125675",
+        "dub": null,
+        "url": "https://www.animegg.org/hong-huang-episode-10"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/125674",
+        "dub": null,
+        "url": "https://www.animegg.org/hong-huang-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/125673",
+        "dub": null,
+        "url": "https://www.animegg.org/hong-huang-episode-13"
+      }
+    ]
   }
 ]
