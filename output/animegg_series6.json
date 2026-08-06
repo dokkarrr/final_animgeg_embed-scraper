@@ -740,5 +740,21 @@
         "url": "https://www.animegg.org/marudase-kintarou-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 7514,
+    "title": "Naruto Shippuden Movie 7: The Last",
+    "animegg_url": "https://www.animegg.org/series/naruto-shippuden-movie-7-the-last",
+    "mal_url": "https://myanimelist.net/anime/16870",
+    "mal_id": 16870,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/121321",
+        "dub": null,
+        "url": "https://www.animegg.org/naruto-shippuden-movie-7-the-last-episode-1"
+      }
+    ]
   }
 ]
