@@ -27413,5 +27413,87 @@
         "url": "https://www.animegg.org/jian-lai-episode-17"
       }
     ]
+  },
+  {
+    "serial_no": 7851,
+    "title": "Yesterday wo Utatte (Dub)",
+    "animegg_url": "https://www.animegg.org/series/yesterday-wo-utatte-dub",
+    "mal_url": "https://myanimelist.net/anime/39710",
+    "mal_id": 39710,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/yesterday-wo-utatte-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/111759",
+        "dub": null,
+        "url": "https://www.animegg.org/yesterday-wo-utatte-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/111758",
+        "dub": null,
+        "url": "https://www.animegg.org/yesterday-wo-utatte-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/111757",
+        "dub": null,
+        "url": "https://www.animegg.org/yesterday-wo-utatte-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/111756",
+        "dub": null,
+        "url": "https://www.animegg.org/yesterday-wo-utatte-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/111755",
+        "dub": null,
+        "url": "https://www.animegg.org/yesterday-wo-utatte-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/111754",
+        "dub": null,
+        "url": "https://www.animegg.org/yesterday-wo-utatte-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/111753",
+        "dub": null,
+        "url": "https://www.animegg.org/yesterday-wo-utatte-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/yesterday-wo-utatte-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/yesterday-wo-utatte-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/yesterday-wo-utatte-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/111760",
+        "dub": null,
+        "url": "https://www.animegg.org/yesterday-wo-utatte-dub-episode-12"
+      }
+    ]
   }
 ]
