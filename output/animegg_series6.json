@@ -46409,5 +46409,75 @@
         "url": "https://www.animegg.org/tp-bon-season-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8112,
+    "title": "Castlevania Season 4",
+    "animegg_url": "https://www.animegg.org/series/castlevania-season-4-dub",
+    "mal_url": "https://myanimelist.net/anime/513",
+    "mal_id": 513,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/128788",
+        "dub": null,
+        "url": "https://www.animegg.org/castlevania-season-4-dub-episode-10"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/128780",
+        "dub": null,
+        "url": "https://www.animegg.org/castlevania-season-4-dub-episode-9"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/128781",
+        "dub": null,
+        "url": "https://www.animegg.org/castlevania-season-4-dub-episode-8"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/128782",
+        "dub": null,
+        "url": "https://www.animegg.org/castlevania-season-4-dub-episode-7"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/128783",
+        "dub": null,
+        "url": "https://www.animegg.org/castlevania-season-4-dub-episode-6"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/128784",
+        "dub": null,
+        "url": "https://www.animegg.org/castlevania-season-4-dub-episode-5"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/128785",
+        "dub": null,
+        "url": "https://www.animegg.org/castlevania-season-4-dub-episode-4"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/128786",
+        "dub": null,
+        "url": "https://www.animegg.org/castlevania-season-4-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/128787",
+        "dub": null,
+        "url": "https://www.animegg.org/castlevania-season-4-dub-episode-2"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/128789",
+        "dub": null,
+        "url": "https://www.animegg.org/castlevania-season-4-dub-episode-1"
+      }
+    ]
   }
 ]
