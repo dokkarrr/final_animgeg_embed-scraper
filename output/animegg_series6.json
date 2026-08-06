@@ -86434,5 +86434,57 @@
         "url": "https://www.animegg.org/i-contracted-myself-episode-22"
       }
     ]
+  },
+  {
+    "serial_no": 8844,
+    "title": "Zhongguo Qi Tan",
+    "animegg_url": "https://www.animegg.org/series/zhongguo-qi-tan",
+    "mal_url": "https://myanimelist.net/anime/53919",
+    "mal_id": 53919,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/zhongguo-qi-tan-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/zhongguo-qi-tan-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/zhongguo-qi-tan-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/zhongguo-qi-tan-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/zhongguo-qi-tan-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/110872",
+        "dub": null,
+        "url": "https://www.animegg.org/zhongguo-qi-tan-episode-6"
+      },
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/zhongguo-qi-tan-episode-8"
+      }
+    ]
   }
 ]
