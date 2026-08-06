@@ -77537,5 +77537,21 @@
     "mal_id": 53540,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 8619,
+    "title": "Blue Giant",
+    "animegg_url": "https://www.animegg.org/series/blue-giant",
+    "mal_url": "https://myanimelist.net/anime/50183",
+    "mal_id": 50183,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/blue-giant-episode-1"
+      }
+    ]
   }
 ]
