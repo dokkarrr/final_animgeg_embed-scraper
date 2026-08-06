@@ -38368,5 +38368,21 @@
         "url": "https://www.animegg.org/gamers-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8000,
+    "title": "One Piece Film: Z (Dub)",
+    "animegg_url": "https://www.animegg.org/series/one-piece-film-z-dub",
+    "mal_url": "https://myanimelist.net/anime/12859",
+    "mal_id": 12859,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/120745",
+        "dub": null,
+        "url": "https://www.animegg.org/one-piece-film-z-dub-episode-1"
+      }
+    ]
   }
 ]
