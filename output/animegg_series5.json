@@ -146690,5 +146690,21 @@
         "url": "https://www.animegg.org/shin-shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 7144,
+    "title": "Hangyakusei Million Arthur Special",
+    "animegg_url": "https://www.animegg.org/series/hangyakusei-million-arthur-special",
+    "mal_url": "https://myanimelist.net/anime/38601",
+    "mal_id": 38601,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/96753",
+        "dub": null,
+        "url": "https://www.animegg.org/hangyakusei-million-arthur-special-episode-1"
+      }
+    ]
   }
 ]
