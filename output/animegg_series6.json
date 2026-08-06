@@ -12769,5 +12769,87 @@
         "url": "https://www.animegg.org/journey-to-bloom-episode-5"
       }
     ]
+  },
+  {
+    "serial_no": 7661,
+    "title": "Xing Chen Bian 2nd Season",
+    "animegg_url": "https://www.animegg.org/series/xing-chen-bian-2nd-season",
+    "mal_url": "https://myanimelist.net/anime/41528",
+    "mal_id": 41528,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/113164",
+        "dub": null,
+        "url": "https://www.animegg.org/xing-chen-bian-2nd-season-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/113165",
+        "dub": null,
+        "url": "https://www.animegg.org/xing-chen-bian-2nd-season-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/113166",
+        "dub": null,
+        "url": "https://www.animegg.org/xing-chen-bian-2nd-season-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/113157",
+        "dub": null,
+        "url": "https://www.animegg.org/xing-chen-bian-2nd-season-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/xing-chen-bian-2nd-season-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/113158",
+        "dub": null,
+        "url": "https://www.animegg.org/xing-chen-bian-2nd-season-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/113159",
+        "dub": null,
+        "url": "https://www.animegg.org/xing-chen-bian-2nd-season-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/113160",
+        "dub": null,
+        "url": "https://www.animegg.org/xing-chen-bian-2nd-season-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/113161",
+        "dub": null,
+        "url": "https://www.animegg.org/xing-chen-bian-2nd-season-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/113162",
+        "dub": null,
+        "url": "https://www.animegg.org/xing-chen-bian-2nd-season-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/113163",
+        "dub": null,
+        "url": "https://www.animegg.org/xing-chen-bian-2nd-season-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/113167",
+        "dub": null,
+        "url": "https://www.animegg.org/xing-chen-bian-2nd-season-episode-1"
+      }
+    ]
   }
 ]
