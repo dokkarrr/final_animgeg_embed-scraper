@@ -56400,5 +56400,33 @@
         "url": "https://www.animegg.org/island-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8262,
+    "title": "Quanzhi Gaoshou Specials",
+    "animegg_url": "https://www.animegg.org/series/quanzhi-gaoshou-specials",
+    "mal_url": "https://myanimelist.net/anime/37078",
+    "mal_id": 37078,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/119296",
+        "dub": null,
+        "url": "https://www.animegg.org/quanzhi-gaoshou-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/119295",
+        "dub": null,
+        "url": "https://www.animegg.org/quanzhi-gaoshou-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/119294",
+        "dub": null,
+        "url": "https://www.animegg.org/quanzhi-gaoshou-specials-episode-3"
+      }
+    ]
   }
 ]
