@@ -89118,5 +89118,21 @@
         "url": "https://www.animegg.org/gate-keepers-21-dub-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8944,
+    "title": "One Piece Movie 3: Chopper Kingdom of Strange Animal Island",
+    "animegg_url": "https://www.animegg.org/series/one-piece-movie-3-chopper-kingdom-of-strange-animal-island",
+    "mal_url": "https://myanimelist.net/anime/461",
+    "mal_id": 461,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/120741",
+        "dub": null,
+        "url": "https://www.animegg.org/one-piece-movie-3-chopper-kingdom-of-strange-animal-island-episode-1"
+      }
+    ]
   }
 ]
