@@ -53439,5 +53439,21 @@
         "url": "https://www.animegg.org/ladyspo-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8216,
+    "title": "Girls und Panzer- Daikon War!",
+    "animegg_url": "https://www.animegg.org/series/girls-und-panzer--daikon-war",
+    "mal_url": "https://myanimelist.net/anime/49690",
+    "mal_id": 49690,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/103709",
+        "dub": null,
+        "url": "https://www.animegg.org/girls-und-panzer--daikon-war-episode-1"
+      }
+    ]
   }
 ]
