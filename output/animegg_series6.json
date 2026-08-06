@@ -77553,5 +77553,27 @@
         "url": "https://www.animegg.org/blue-giant-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8620,
+    "title": "MAPS",
+    "animegg_url": "https://www.animegg.org/series/maps",
+    "mal_url": "https://myanimelist.net/anime/1620",
+    "mal_id": 1620,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/99311",
+        "dub": null,
+        "url": "https://www.animegg.org/maps-episode-2"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/99312",
+        "dub": null,
+        "url": "https://www.animegg.org/maps-episode-4"
+      }
+    ]
   }
 ]
