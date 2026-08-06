@@ -88501,5 +88501,33 @@
         "url": "https://www.animegg.org/rebirth-of-the-emperor-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 8922,
+    "title": "Tatakae!! Iczer-1",
+    "animegg_url": "https://www.animegg.org/series/tatakae-iczer-1",
+    "mal_url": "https://myanimelist.net/anime/2291",
+    "mal_id": 2291,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/117036",
+        "dub": null,
+        "url": "https://www.animegg.org/tatakae-iczer-1-episode-3"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/117037",
+        "dub": null,
+        "url": "https://www.animegg.org/tatakae-iczer-1-episode-2"
+      },
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/117038",
+        "dub": null,
+        "url": "https://www.animegg.org/tatakae-iczer-1-episode-1"
+      }
+    ]
   }
 ]
