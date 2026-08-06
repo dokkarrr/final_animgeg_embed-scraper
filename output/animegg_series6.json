@@ -89841,5 +89841,21 @@
         "url": "https://www.animegg.org/hakuouki-sekkaroku-dub-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 8971,
+    "title": "Zetsubou no Kaibutsu",
+    "animegg_url": "https://www.animegg.org/series/zetsubou-no-kaibutsu",
+    "mal_url": "https://myanimelist.net/anime/42906",
+    "mal_id": 42906,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/107652",
+        "dub": null,
+        "url": "https://www.animegg.org/zetsubou-no-kaibutsu-episode-1"
+      }
+    ]
   }
 ]
