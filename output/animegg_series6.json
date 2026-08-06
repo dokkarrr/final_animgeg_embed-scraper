@@ -89300,5 +89300,21 @@
         "url": "https://www.animegg.org/it-all-starts-with-being-reborn-1-thousand-times-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8952,
+    "title": "The Siamese: First Mission",
+    "animegg_url": "https://www.animegg.org/series/the-siamese-first-mission",
+    "mal_url": "https://myanimelist.net/anime/15399",
+    "mal_id": 15399,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/108607",
+        "dub": null,
+        "url": "https://www.animegg.org/the-siamese-first-mission-episode-1"
+      }
+    ]
   }
 ]
