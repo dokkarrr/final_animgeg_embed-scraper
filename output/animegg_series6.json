@@ -72101,5 +72101,33 @@
         "url": "https://www.animegg.org/hangyakusei-million-arthur-dub-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 8514,
+    "title": "Maze☆Bakunetsu Jikuu (TV)",
+    "animegg_url": "https://www.animegg.org/series/maze-bakunetsu-jikuu-tv",
+    "mal_url": "https://myanimelist.net/anime/1161",
+    "mal_id": 1161,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/104733",
+        "dub": null,
+        "url": "https://www.animegg.org/maze-bakunetsu-jikuu-tv-episode-14"
+      },
+      {
+        "ep": 23,
+        "sub": "https://www.animegg.org/embed/104734",
+        "dub": null,
+        "url": "https://www.animegg.org/maze-bakunetsu-jikuu-tv-episode-23"
+      },
+      {
+        "ep": 25,
+        "sub": "https://www.animegg.org/embed/104735",
+        "dub": null,
+        "url": "https://www.animegg.org/maze-bakunetsu-jikuu-tv-episode-25"
+      }
+    ]
   }
 ]
