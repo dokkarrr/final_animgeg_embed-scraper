@@ -18252,5 +18252,33 @@
         "url": "https://www.animegg.org/relife-dub-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 7735,
+    "title": "Chaotic Heavenly Emperor Husband",
+    "animegg_url": "https://www.animegg.org/series/chaotic-heavenly-emperor-husband",
+    "mal_url": "https://myanimelist.net/anime/26349",
+    "mal_id": 26349,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 43,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/chaotic-heavenly-emperor-husband-episode-43"
+      },
+      {
+        "ep": 54,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/chaotic-heavenly-emperor-husband-episode-54"
+      },
+      {
+        "ep": 57,
+        "sub": "https://www.animegg.org/embed/138171",
+        "dub": null,
+        "url": "https://www.animegg.org/chaotic-heavenly-emperor-husband-episode-57"
+      }
+    ]
   }
 ]
