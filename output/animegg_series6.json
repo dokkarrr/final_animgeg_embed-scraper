@@ -90445,5 +90445,33 @@
         "url": "https://www.animegg.org/zen-grogu-to-makkuro-kurosuke-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8995,
+    "title": "Hi no Tori: Eden no Sora",
+    "animegg_url": "https://www.animegg.org/series/hi-no-tori-eden-no-sora",
+    "mal_url": "https://myanimelist.net/anime/53720",
+    "mal_id": 53720,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/131305",
+        "dub": null,
+        "url": "https://www.animegg.org/hi-no-tori-eden-no-sora-episode-1"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/131307",
+        "dub": null,
+        "url": "https://www.animegg.org/hi-no-tori-eden-no-sora-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/131306",
+        "dub": null,
+        "url": "https://www.animegg.org/hi-no-tori-eden-no-sora-episode-4"
+      }
+    ]
   }
 ]
