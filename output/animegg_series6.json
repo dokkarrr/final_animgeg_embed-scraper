@@ -24250,5 +24250,63 @@
         "url": "https://www.animegg.org/shuumatsu-no-izetta-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 7810,
+    "title": "Isekai Onsen Paradise",
+    "animegg_url": "https://www.animegg.org/series/isekai-onsen-paradise",
+    "mal_url": "https://myanimelist.net/anime/57315",
+    "mal_id": 57315,
+    "total_ep": 8,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/141505",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-onsen-paradise-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/141504",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-onsen-paradise-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/141617",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-onsen-paradise-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/142045",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-onsen-paradise-episode-4"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/142046",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-onsen-paradise-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/142160",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-onsen-paradise-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/142263",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-onsen-paradise-episode-9"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/142416",
+        "dub": null,
+        "url": "https://www.animegg.org/isekai-onsen-paradise-episode-11"
+      }
+    ]
   }
 ]
