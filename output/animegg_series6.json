@@ -77701,5 +77701,45 @@
         "url": "https://www.animegg.org/yasuke-dub-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 8624,
+    "title": "Mazica Party",
+    "animegg_url": "https://www.animegg.org/series/mazica-party",
+    "mal_url": "https://myanimelist.net/anime/48391",
+    "mal_id": 48391,
+    "total_ep": 5,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/121865",
+        "dub": null,
+        "url": "https://www.animegg.org/mazica-party-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/121864",
+        "dub": null,
+        "url": "https://www.animegg.org/mazica-party-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/121863",
+        "dub": null,
+        "url": "https://www.animegg.org/mazica-party-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/121862",
+        "dub": null,
+        "url": "https://www.animegg.org/mazica-party-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/mazica-party-episode-5"
+      }
+    ]
   }
 ]
