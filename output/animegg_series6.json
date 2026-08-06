@@ -82712,5 +82712,51 @@
     "mal_id": 874,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 8739,
+    "title": "Maria-sama ga Miteru: Haru Specials",
+    "animegg_url": "https://www.animegg.org/series/maria-sama-ga-miteru-haru-specials",
+    "mal_url": "https://myanimelist.net/anime/3469",
+    "mal_id": 3469,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/maria-sama-ga-miteru-haru-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/maria-sama-ga-miteru-haru-specials-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/maria-sama-ga-miteru-haru-specials-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/maria-sama-ga-miteru-haru-specials-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/maria-sama-ga-miteru-haru-specials-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/maria-sama-ga-miteru-haru-specials-episode-6"
+      }
+    ]
   }
 ]
