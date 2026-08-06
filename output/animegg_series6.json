@@ -4180,5 +4180,27 @@
         "url": "https://www.animegg.org/anti-routine-system-episode-100"
       }
     ]
+  },
+  {
+    "serial_no": 7558,
+    "title": "Inu ni Nattara Suki na Hito ni Hirowareta. Specials",
+    "animegg_url": "https://www.animegg.org/series/inu-ni-nattara-suki-na-hito-ni-hirowareta-specials",
+    "mal_url": "https://myanimelist.net/anime/54225",
+    "mal_id": 54225,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/107614",
+        "dub": null,
+        "url": "https://www.animegg.org/inu-ni-nattara-suki-na-hito-ni-hirowareta-specials-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/124918",
+        "dub": null,
+        "url": "https://www.animegg.org/inu-ni-nattara-suki-na-hito-ni-hirowareta-specials-episode-2"
+      }
+    ]
   }
 ]
