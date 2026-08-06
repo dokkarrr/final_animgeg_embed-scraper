@@ -70125,5 +70125,33 @@
         "url": "https://www.animegg.org/figure-17-tsubasa-hikaru-dub-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8482,
+    "title": "Aikatsu! 10th Story: Mirai e no Starway (2023)",
+    "animegg_url": "https://www.animegg.org/series/aikatsu-10th-story-mirai-e-no-starway-2023",
+    "mal_url": "https://myanimelist.net/anime/53499",
+    "mal_id": 53499,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 10,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/aikatsu-10th-story-mirai-e-no-starway-2023-episode-3"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/131289",
+        "dub": null,
+        "url": "https://www.animegg.org/aikatsu-10th-story-mirai-e-no-starway-2023-episode-2"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/131288",
+        "dub": null,
+        "url": "https://www.animegg.org/aikatsu-10th-story-mirai-e-no-starway-2023-episode-1"
+      }
+    ]
   }
 ]
