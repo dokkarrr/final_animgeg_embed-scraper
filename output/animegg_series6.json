@@ -88658,5 +88658,57 @@
         "url": "https://www.animegg.org/sakura-taisen-gouka-kenran-episode-6"
       }
     ]
+  },
+  {
+    "serial_no": 8927,
+    "title": "Devil’s Advent",
+    "animegg_url": "https://www.animegg.org/series/devil-s-advent",
+    "mal_url": "https://myanimelist.net/anime/666",
+    "mal_id": 666,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 62,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/devil-s-advent-episode-62"
+      },
+      {
+        "ep": 65,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/devil-s-advent-episode-65"
+      },
+      {
+        "ep": 67,
+        "sub": "https://www.animegg.org/embed/137286",
+        "dub": null,
+        "url": "https://www.animegg.org/devil-s-advent-episode-67"
+      },
+      {
+        "ep": 68,
+        "sub": "https://www.animegg.org/embed/137339",
+        "dub": null,
+        "url": "https://www.animegg.org/devil-s-advent-episode-68"
+      },
+      {
+        "ep": 69,
+        "sub": "https://www.animegg.org/embed/137481",
+        "dub": null,
+        "url": "https://www.animegg.org/devil-s-advent-episode-69"
+      },
+      {
+        "ep": 70,
+        "sub": "https://www.animegg.org/embed/137816",
+        "dub": null,
+        "url": "https://www.animegg.org/devil-s-advent-episode-70"
+      },
+      {
+        "ep": 73,
+        "sub": "https://www.animegg.org/embed/138312",
+        "dub": null,
+        "url": "https://www.animegg.org/devil-s-advent-episode-73"
+      }
+    ]
   }
 ]
