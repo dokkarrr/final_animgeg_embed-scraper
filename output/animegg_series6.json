@@ -58855,5 +58855,87 @@
         "url": "https://www.animegg.org/jojo-no-kimyou-na-bouken-adventure-2000-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8302,
+    "title": "Wan Sheng Jie 2",
+    "animegg_url": "https://www.animegg.org/series/wan-sheng-jie-2",
+    "mal_url": "https://myanimelist.net/anime/42640",
+    "mal_id": 42640,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/114679",
+        "dub": null,
+        "url": "https://www.animegg.org/wan-sheng-jie-2-episode-12"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/114680",
+        "dub": null,
+        "url": "https://www.animegg.org/wan-sheng-jie-2-episode-11"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/114681",
+        "dub": null,
+        "url": "https://www.animegg.org/wan-sheng-jie-2-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/114671",
+        "dub": null,
+        "url": "https://www.animegg.org/wan-sheng-jie-2-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/114672",
+        "dub": null,
+        "url": "https://www.animegg.org/wan-sheng-jie-2-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/114673",
+        "dub": null,
+        "url": "https://www.animegg.org/wan-sheng-jie-2-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/114674",
+        "dub": null,
+        "url": "https://www.animegg.org/wan-sheng-jie-2-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/114675",
+        "dub": null,
+        "url": "https://www.animegg.org/wan-sheng-jie-2-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/114676",
+        "dub": null,
+        "url": "https://www.animegg.org/wan-sheng-jie-2-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/114677",
+        "dub": null,
+        "url": "https://www.animegg.org/wan-sheng-jie-2-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/114678",
+        "dub": null,
+        "url": "https://www.animegg.org/wan-sheng-jie-2-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/114682",
+        "dub": null,
+        "url": "https://www.animegg.org/wan-sheng-jie-2-episode-1"
+      }
+    ]
   }
 ]
