@@ -90135,5 +90135,21 @@
         "url": "https://www.animegg.org/persona--trinity-soul--episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 8983,
+    "title": "Haikyuu!! Movie 2: Shousha to Haisha",
+    "animegg_url": "https://www.animegg.org/series/haikyuu-movie-2-shousha-to-haisha",
+    "mal_url": "https://myanimelist.net/anime/30364",
+    "mal_id": 30364,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/126154",
+        "dub": null,
+        "url": "https://www.animegg.org/haikyuu-movie-2-shousha-to-haisha-episode-1"
+      }
+    ]
   }
 ]
