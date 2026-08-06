@@ -44749,5 +44749,93 @@
     "mal_id": 54757,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 8090,
+    "title": "Wangpai Yushi",
+    "animegg_url": "https://www.animegg.org/series/wangpai-yushi",
+    "mal_url": "https://myanimelist.net/anime/29087",
+    "mal_id": 29087,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/114540",
+        "dub": null,
+        "url": "https://www.animegg.org/wangpai-yushi-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/114535",
+        "dub": null,
+        "url": "https://www.animegg.org/wangpai-yushi-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/114534",
+        "dub": null,
+        "url": "https://www.animegg.org/wangpai-yushi-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/114532",
+        "dub": null,
+        "url": "https://www.animegg.org/wangpai-yushi-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/114533",
+        "dub": null,
+        "url": "https://www.animegg.org/wangpai-yushi-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/114531",
+        "dub": null,
+        "url": "https://www.animegg.org/wangpai-yushi-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/114530",
+        "dub": null,
+        "url": "https://www.animegg.org/wangpai-yushi-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/114529",
+        "dub": null,
+        "url": "https://www.animegg.org/wangpai-yushi-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/114528",
+        "dub": null,
+        "url": "https://www.animegg.org/wangpai-yushi-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/114539",
+        "dub": null,
+        "url": "https://www.animegg.org/wangpai-yushi-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/114538",
+        "dub": null,
+        "url": "https://www.animegg.org/wangpai-yushi-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/114537",
+        "dub": null,
+        "url": "https://www.animegg.org/wangpai-yushi-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/114536",
+        "dub": null,
+        "url": "https://www.animegg.org/wangpai-yushi-episode-13"
+      }
+    ]
   }
 ]
