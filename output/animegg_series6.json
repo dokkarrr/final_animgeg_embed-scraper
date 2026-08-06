@@ -75255,5 +75255,51 @@
         "url": "https://www.animegg.org/castlevania-dub-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 8576,
+    "title": "Ridley Jones",
+    "animegg_url": "https://www.animegg.org/series/ridley-jones",
+    "mal_url": "https://myanimelist.net/anime/35191",
+    "mal_id": 35191,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ridley-jones-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ridley-jones-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ridley-jones-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ridley-jones-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ridley-jones-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/ridley-jones-episode-6"
+      }
+    ]
   }
 ]
