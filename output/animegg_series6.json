@@ -61829,5 +61829,51 @@
         "url": "https://www.animegg.org/nanako-sos-episode-16"
       }
     ]
+  },
+  {
+    "serial_no": 8350,
+    "title": "Red Fox",
+    "animegg_url": "https://www.animegg.org/series/red-fox",
+    "mal_url": "https://myanimelist.net/anime/37106",
+    "mal_id": 37106,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/140958",
+        "dub": null,
+        "url": "https://www.animegg.org/red-fox-episode-1"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/140959",
+        "dub": null,
+        "url": "https://www.animegg.org/red-fox-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/141024",
+        "dub": null,
+        "url": "https://www.animegg.org/red-fox-episode-5"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/141041",
+        "dub": null,
+        "url": "https://www.animegg.org/red-fox-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/141160",
+        "dub": null,
+        "url": "https://www.animegg.org/red-fox-episode-8"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/141158",
+        "dub": null,
+        "url": "https://www.animegg.org/red-fox-episode-10"
+      }
+    ]
   }
 ]
