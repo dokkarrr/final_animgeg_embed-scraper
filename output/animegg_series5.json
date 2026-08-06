@@ -145818,5 +145818,21 @@
         "url": "https://www.animegg.org/yeosin-gangnim-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 7136,
+    "title": "Spy x Family Movie: Code: White",
+    "animegg_url": "https://www.animegg.org/series/spy-x-family-movie-code-white",
+    "mal_url": "https://myanimelist.net/anime/53888",
+    "mal_id": 53888,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/135970",
+        "dub": null,
+        "url": "https://www.animegg.org/spy-x-family-movie-code-white-episode-1"
+      }
+    ]
   }
 ]
