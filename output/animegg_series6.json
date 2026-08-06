@@ -58412,5 +58412,21 @@
         "url": "https://www.animegg.org/the-demon-queen-said-i-am-too-strong-episode-30"
       }
     ]
+  },
+  {
+    "serial_no": 8293,
+    "title": "Mobile Suit Gundam: The Light of Life Chronicle U.C.",
+    "animegg_url": "https://www.animegg.org/series/mobile-suit-gundam-the-light-of-life-chronicle-uc",
+    "mal_url": "https://myanimelist.net/anime/40464",
+    "mal_id": 40464,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/108738",
+        "dub": null,
+        "url": "https://www.animegg.org/mobile-suit-gundam-the-light-of-life-chronicle-uc-episode-1"
+      }
+    ]
   }
 ]
