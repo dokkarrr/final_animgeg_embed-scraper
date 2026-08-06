@@ -88612,5 +88612,51 @@
     "mal_id": 1221,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 8926,
+    "title": "Sakura Taisen: Gouka Kenran",
+    "animegg_url": "https://www.animegg.org/series/sakura-taisen-gouka-kenran",
+    "mal_url": "https://myanimelist.net/anime/1166",
+    "mal_id": 1166,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/117988",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-taisen-gouka-kenran-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/117987",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-taisen-gouka-kenran-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/117986",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-taisen-gouka-kenran-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/117985",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-taisen-gouka-kenran-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/117984",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-taisen-gouka-kenran-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/117983",
+        "dub": null,
+        "url": "https://www.animegg.org/sakura-taisen-gouka-kenran-episode-6"
+      }
+    ]
   }
 ]
