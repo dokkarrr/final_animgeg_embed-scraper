@@ -77436,5 +77436,27 @@
         "url": "https://www.animegg.org/the-return-of-the-immortal-king-of-the-city-episode-63"
       }
     ]
+  },
+  {
+    "serial_no": 8616,
+    "title": "Tokyo revengers season 3",
+    "animegg_url": "https://www.animegg.org/series/tokyo-revengers-season-3",
+    "mal_url": "https://myanimelist.net/anime/40174",
+    "mal_id": 40174,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/141288",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-revengers-season-3-episode-13"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/141289",
+        "dub": null,
+        "url": "https://www.animegg.org/tokyo-revengers-season-3-episode-1"
+      }
+    ]
   }
 ]
