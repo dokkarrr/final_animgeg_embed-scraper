@@ -72317,5 +72317,21 @@
         "url": "https://www.animegg.org/pantheon-dub-episode-8"
       }
     ]
+  },
+  {
+    "serial_no": 8520,
+    "title": "Lostorage Conflated WIXOSS: Missing Link",
+    "animegg_url": "https://www.animegg.org/series/lostorage-conflated-wixoss-missing-link",
+    "mal_url": "https://myanimelist.net/anime/36083",
+    "mal_id": 36083,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/108572",
+        "dub": null,
+        "url": "https://www.animegg.org/lostorage-conflated-wixoss-missing-link-episode-1"
+      }
+    ]
   }
 ]
