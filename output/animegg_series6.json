@@ -13713,5 +13713,81 @@
         "url": "https://www.animegg.org/fruits-basket-prelude-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 7675,
+    "title": "Saikin Yatotta Maid ga Ayashii",
+    "animegg_url": "https://www.animegg.org/series/saikin-yatotta-maid-ga-ayashii-dub",
+    "mal_url": "https://myanimelist.net/anime/51837",
+    "mal_id": 51837,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/118314",
+        "dub": null,
+        "url": "https://www.animegg.org/saikin-yatotta-maid-ga-ayashii-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/118312",
+        "dub": null,
+        "url": "https://www.animegg.org/saikin-yatotta-maid-ga-ayashii-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/118311",
+        "dub": null,
+        "url": "https://www.animegg.org/saikin-yatotta-maid-ga-ayashii-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/118310",
+        "dub": null,
+        "url": "https://www.animegg.org/saikin-yatotta-maid-ga-ayashii-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/118309",
+        "dub": null,
+        "url": "https://www.animegg.org/saikin-yatotta-maid-ga-ayashii-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/118308",
+        "dub": null,
+        "url": "https://www.animegg.org/saikin-yatotta-maid-ga-ayashii-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/118307",
+        "dub": null,
+        "url": "https://www.animegg.org/saikin-yatotta-maid-ga-ayashii-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/saikin-yatotta-maid-ga-ayashii-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/saikin-yatotta-maid-ga-ayashii-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/118313",
+        "dub": null,
+        "url": "https://www.animegg.org/saikin-yatotta-maid-ga-ayashii-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/saikin-yatotta-maid-ga-ayashii-dub-episode-11"
+      }
+    ]
   }
 ]
