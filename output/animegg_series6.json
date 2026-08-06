@@ -86223,5 +86223,21 @@
         "url": "https://www.animegg.org/macross-plus-dub-episode-4"
       }
     ]
+  },
+  {
+    "serial_no": 8836,
+    "title": "Hakuouki Recap",
+    "animegg_url": "https://www.animegg.org/series/hakuouki-recap",
+    "mal_url": "https://myanimelist.net/anime/6895",
+    "mal_id": 6895,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/hakuouki-recap-episode-1"
+      }
+    ]
   }
 ]
