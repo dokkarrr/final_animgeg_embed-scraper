@@ -31747,5 +31747,93 @@
         "url": "https://www.animegg.org/jinkiextend-dub-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 7910,
+    "title": "Paris No Isabelle",
+    "animegg_url": "https://www.animegg.org/series/paris-no-isabelle",
+    "mal_url": "https://myanimelist.net/anime/3879",
+    "mal_id": 3879,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/120406",
+        "dub": null,
+        "url": "https://www.animegg.org/paris-no-isabelle-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/120401",
+        "dub": null,
+        "url": "https://www.animegg.org/paris-no-isabelle-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/120400",
+        "dub": null,
+        "url": "https://www.animegg.org/paris-no-isabelle-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/120399",
+        "dub": null,
+        "url": "https://www.animegg.org/paris-no-isabelle-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/120398",
+        "dub": null,
+        "url": "https://www.animegg.org/paris-no-isabelle-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/120397",
+        "dub": null,
+        "url": "https://www.animegg.org/paris-no-isabelle-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/120396",
+        "dub": null,
+        "url": "https://www.animegg.org/paris-no-isabelle-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/120395",
+        "dub": null,
+        "url": "https://www.animegg.org/paris-no-isabelle-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/120394",
+        "dub": null,
+        "url": "https://www.animegg.org/paris-no-isabelle-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/120405",
+        "dub": null,
+        "url": "https://www.animegg.org/paris-no-isabelle-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/120404",
+        "dub": null,
+        "url": "https://www.animegg.org/paris-no-isabelle-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/120403",
+        "dub": null,
+        "url": "https://www.animegg.org/paris-no-isabelle-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/120402",
+        "dub": null,
+        "url": "https://www.animegg.org/paris-no-isabelle-episode-13"
+      }
+    ]
   }
 ]
