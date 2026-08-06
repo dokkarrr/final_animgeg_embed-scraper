@@ -870,5 +870,21 @@
         "url": "https://www.animegg.org/ito-junji-collection-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 7518,
+    "title": "Strike Witches: 501 Butai Hasshin Shimasu! Movie",
+    "animegg_url": "https://www.animegg.org/series/strike-witches-501-butai-hasshin-shimasu-movie",
+    "mal_url": "https://myanimelist.net/anime/39987",
+    "mal_id": 39987,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 501,
+        "sub": "https://www.animegg.org/embed/99350",
+        "dub": null,
+        "url": "https://www.animegg.org/strike-witches-501-butai-hasshin-shimasu-movie-episode-1"
+      }
+    ]
   }
 ]
