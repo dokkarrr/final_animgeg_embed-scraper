@@ -38962,5 +38962,93 @@
         "url": "https://www.animegg.org/yuru-camp-movie-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8009,
+    "title": "Jinzou Ningen Kikaider The Animation",
+    "animegg_url": "https://www.animegg.org/series/jinzou-ningen-kikaider-the-animation",
+    "mal_url": "https://myanimelist.net/anime/598",
+    "mal_id": 598,
+    "total_ep": 13,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/124505",
+        "dub": null,
+        "url": "https://www.animegg.org/jinzou-ningen-kikaider-the-animation-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/124500",
+        "dub": null,
+        "url": "https://www.animegg.org/jinzou-ningen-kikaider-the-animation-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/124499",
+        "dub": null,
+        "url": "https://www.animegg.org/jinzou-ningen-kikaider-the-animation-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/124498",
+        "dub": null,
+        "url": "https://www.animegg.org/jinzou-ningen-kikaider-the-animation-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/124497",
+        "dub": null,
+        "url": "https://www.animegg.org/jinzou-ningen-kikaider-the-animation-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/124496",
+        "dub": null,
+        "url": "https://www.animegg.org/jinzou-ningen-kikaider-the-animation-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/124494",
+        "dub": null,
+        "url": "https://www.animegg.org/jinzou-ningen-kikaider-the-animation-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/124495",
+        "dub": null,
+        "url": "https://www.animegg.org/jinzou-ningen-kikaider-the-animation-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/124493",
+        "dub": null,
+        "url": "https://www.animegg.org/jinzou-ningen-kikaider-the-animation-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/124504",
+        "dub": null,
+        "url": "https://www.animegg.org/jinzou-ningen-kikaider-the-animation-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/124503",
+        "dub": null,
+        "url": "https://www.animegg.org/jinzou-ningen-kikaider-the-animation-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/124502",
+        "dub": null,
+        "url": "https://www.animegg.org/jinzou-ningen-kikaider-the-animation-episode-12"
+      },
+      {
+        "ep": 13,
+        "sub": "https://www.animegg.org/embed/124501",
+        "dub": null,
+        "url": "https://www.animegg.org/jinzou-ningen-kikaider-the-animation-episode-13"
+      }
+    ]
   }
 ]
