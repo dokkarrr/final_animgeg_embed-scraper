@@ -7754,5 +7754,87 @@
         "url": "https://www.animegg.org/bagel-girl-episode-15"
       }
     ]
+  },
+  {
+    "serial_no": 7601,
+    "title": "Monster Musume no Oishasan",
+    "animegg_url": "https://www.animegg.org/series/monster-musume-no-oishasan-dub",
+    "mal_url": "https://myanimelist.net/anime/40708",
+    "mal_id": 40708,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/121748",
+        "dub": null,
+        "url": "https://www.animegg.org/monster-musume-no-oishasan-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/121744",
+        "dub": null,
+        "url": "https://www.animegg.org/monster-musume-no-oishasan-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/121743",
+        "dub": null,
+        "url": "https://www.animegg.org/monster-musume-no-oishasan-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/121742",
+        "dub": null,
+        "url": "https://www.animegg.org/monster-musume-no-oishasan-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/121741",
+        "dub": null,
+        "url": "https://www.animegg.org/monster-musume-no-oishasan-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/121740",
+        "dub": null,
+        "url": "https://www.animegg.org/monster-musume-no-oishasan-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/121739",
+        "dub": null,
+        "url": "https://www.animegg.org/monster-musume-no-oishasan-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/121738",
+        "dub": null,
+        "url": "https://www.animegg.org/monster-musume-no-oishasan-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/121737",
+        "dub": null,
+        "url": "https://www.animegg.org/monster-musume-no-oishasan-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/121747",
+        "dub": null,
+        "url": "https://www.animegg.org/monster-musume-no-oishasan-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/121746",
+        "dub": null,
+        "url": "https://www.animegg.org/monster-musume-no-oishasan-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/121745",
+        "dub": null,
+        "url": "https://www.animegg.org/monster-musume-no-oishasan-dub-episode-12"
+      }
+    ]
   }
 ]
