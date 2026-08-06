@@ -83836,5 +83836,21 @@
         "url": "https://www.animegg.org/koukou-butouden-crows-episode-2"
       }
     ]
+  },
+  {
+    "serial_no": 8765,
+    "title": "One Piece Movie 14: Stampede (Dub)",
+    "animegg_url": "https://www.animegg.org/series/one-piece-movie-14-stampede-dub",
+    "mal_url": "https://myanimelist.net/anime/38234",
+    "mal_id": 38234,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 14,
+        "sub": "https://www.animegg.org/embed/120742",
+        "dub": null,
+        "url": "https://www.animegg.org/one-piece-movie-14-stampede-dub-episode-1"
+      }
+    ]
   }
 ]
