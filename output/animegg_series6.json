@@ -73601,5 +73601,21 @@
         "url": "https://www.animegg.org/kai-feng-qitan-zhege-baogong-bu-taixing-episode-9"
       }
     ]
+  },
+  {
+    "serial_no": 8541,
+    "title": "009 Re:Cyborg",
+    "animegg_url": "https://www.animegg.org/series/009-recyborg-dub",
+    "mal_url": "https://myanimelist.net/anime/11755",
+    "mal_id": 11755,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/109031",
+        "dub": null,
+        "url": "https://www.animegg.org/009-recyborg-dub-episode-1"
+      }
+    ]
   }
 ]
