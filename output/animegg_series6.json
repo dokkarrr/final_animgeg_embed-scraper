@@ -73687,5 +73687,39 @@
         "url": "https://www.animegg.org/city-immortal-emperor-dragon-king-temple-episode-25"
       }
     ]
+  },
+  {
+    "serial_no": 8543,
+    "title": "Nanatsu no Taizai: Seisen no Shirushi (Dub)",
+    "animegg_url": "https://www.animegg.org/series/nanatsu-no-taizai-seisen-no-shirushi-dub",
+    "mal_url": "https://myanimelist.net/anime/33834",
+    "mal_id": 33834,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/121456",
+        "dub": null,
+        "url": "https://www.animegg.org/nanatsu-no-taizai-seisen-no-shirushi-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/121455",
+        "dub": null,
+        "url": "https://www.animegg.org/nanatsu-no-taizai-seisen-no-shirushi-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/121454",
+        "dub": null,
+        "url": "https://www.animegg.org/nanatsu-no-taizai-seisen-no-shirushi-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/121453",
+        "dub": null,
+        "url": "https://www.animegg.org/nanatsu-no-taizai-seisen-no-shirushi-dub-episode-4"
+      }
+    ]
   }
 ]
