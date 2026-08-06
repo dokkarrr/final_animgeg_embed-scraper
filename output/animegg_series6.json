@@ -59159,5 +59159,87 @@
         "url": "https://www.animegg.org/ikkitousen-great-guardians-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8306,
+    "title": "Xenosaga The Animation (Dub)",
+    "animegg_url": "https://www.animegg.org/series/xenosaga-the-animation-dub",
+    "mal_url": "https://myanimelist.net/anime/36027",
+    "mal_id": 36027,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/113517",
+        "dub": null,
+        "url": "https://www.animegg.org/xenosaga-the-animation-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/113513",
+        "dub": null,
+        "url": "https://www.animegg.org/xenosaga-the-animation-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/113512",
+        "dub": null,
+        "url": "https://www.animegg.org/xenosaga-the-animation-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/113511",
+        "dub": null,
+        "url": "https://www.animegg.org/xenosaga-the-animation-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/113510",
+        "dub": null,
+        "url": "https://www.animegg.org/xenosaga-the-animation-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/113509",
+        "dub": null,
+        "url": "https://www.animegg.org/xenosaga-the-animation-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/113508",
+        "dub": null,
+        "url": "https://www.animegg.org/xenosaga-the-animation-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/113507",
+        "dub": null,
+        "url": "https://www.animegg.org/xenosaga-the-animation-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/113506",
+        "dub": null,
+        "url": "https://www.animegg.org/xenosaga-the-animation-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/113516",
+        "dub": null,
+        "url": "https://www.animegg.org/xenosaga-the-animation-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/113515",
+        "dub": null,
+        "url": "https://www.animegg.org/xenosaga-the-animation-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/113514",
+        "dub": null,
+        "url": "https://www.animegg.org/xenosaga-the-animation-dub-episode-12"
+      }
+    ]
   }
 ]
