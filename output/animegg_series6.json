@@ -64292,5 +64292,69 @@
         "url": "https://www.animegg.org/maesetsu-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8389,
+    "title": "Sousei no Aquarion: Myth of Emotions",
+    "animegg_url": "https://www.animegg.org/series/sousei-no-aquarion-myth-of-emotions",
+    "mal_url": "https://myanimelist.net/anime/54769",
+    "mal_id": 54769,
+    "total_ep": 9,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/139409",
+        "dub": null,
+        "url": "https://www.animegg.org/sousei-no-aquarion-myth-of-emotions-episode-2"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/139544",
+        "dub": null,
+        "url": "https://www.animegg.org/sousei-no-aquarion-myth-of-emotions-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/139655",
+        "dub": null,
+        "url": "https://www.animegg.org/sousei-no-aquarion-myth-of-emotions-episode-5"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/139828",
+        "dub": null,
+        "url": "https://www.animegg.org/sousei-no-aquarion-myth-of-emotions-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/139930",
+        "dub": null,
+        "url": "https://www.animegg.org/sousei-no-aquarion-myth-of-emotions-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/140032",
+        "dub": null,
+        "url": "https://www.animegg.org/sousei-no-aquarion-myth-of-emotions-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/140119",
+        "dub": null,
+        "url": "https://www.animegg.org/sousei-no-aquarion-myth-of-emotions-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/140197",
+        "dub": null,
+        "url": "https://www.animegg.org/sousei-no-aquarion-myth-of-emotions-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/140284",
+        "dub": null,
+        "url": "https://www.animegg.org/sousei-no-aquarion-myth-of-emotions-episode-12"
+      }
+    ]
   }
 ]
