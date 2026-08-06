@@ -67993,5 +67993,51 @@
         "url": "https://www.animegg.org/qin-xia-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8448,
+    "title": "The Hakkenden",
+    "animegg_url": "https://www.animegg.org/series/the-hakkenden",
+    "mal_url": "https://myanimelist.net/anime/1822",
+    "mal_id": 1822,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/the-hakkenden-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/the-hakkenden-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/the-hakkenden-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/the-hakkenden-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/the-hakkenden-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/the-hakkenden-episode-6"
+      }
+    ]
   }
 ]
