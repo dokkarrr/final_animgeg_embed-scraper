@@ -10861,5 +10861,21 @@
         "url": "https://www.animegg.org/bakugan-legends-dub-episode-13"
       }
     ]
+  },
+  {
+    "serial_no": 7637,
+    "title": "Gundam: G no Reconguista Movie II - Bellri Gekishin",
+    "animegg_url": "https://www.animegg.org/series/gundam-g-no-reconguista-movie-ii---bellri-gekishin",
+    "mal_url": "https://myanimelist.net/anime/40890",
+    "mal_id": 40890,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/99515",
+        "dub": null,
+        "url": "https://www.animegg.org/gundam-g-no-reconguista-movie-ii---bellri-gekishin-episode-1"
+      }
+    ]
   }
 ]
