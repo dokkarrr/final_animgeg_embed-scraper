@@ -22329,5 +22329,45 @@
         "url": "https://www.animegg.org/renkin-san-kyuu-magical--pokaan-magipoka-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 7787,
+    "title": "Grow Up Show: Sunflower Circus",
+    "animegg_url": "https://www.animegg.org/series/grow-up-show-sunflower-circus",
+    "mal_url": "https://myanimelist.net/anime/62051",
+    "mal_id": 62051,
+    "total_ep": 4,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/146306",
+        "dub": null,
+        "url": "https://www.animegg.org/grow-up-show-sunflower-circus-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/146393",
+        "dub": null,
+        "url": "https://www.animegg.org/grow-up-show-sunflower-circus-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/146474",
+        "dub": "https://www.animegg.org/embed/146490",
+        "url": "https://www.animegg.org/grow-up-show-sunflower-circus-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/146552",
+        "dub": "https://www.animegg.org/embed/146555",
+        "url": "https://www.animegg.org/grow-up-show-sunflower-circus-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/146633",
+        "dub": null,
+        "url": "https://www.animegg.org/grow-up-show-sunflower-circus-episode-5"
+      }
+    ]
   }
 ]
