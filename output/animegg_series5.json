@@ -141062,5 +141062,33 @@
         "url": "https://www.animegg.org/odoru-mowai-kun-dub-episode-26"
       }
     ]
+  },
+  {
+    "serial_no": 7093,
+    "title": "Irodorimidori",
+    "animegg_url": "https://www.animegg.org/series/irodorimidori",
+    "mal_url": "https://myanimelist.net/anime/50267",
+    "mal_id": 50267,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/104049",
+        "dub": null,
+        "url": "https://www.animegg.org/irodorimidori-episode-1"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/104050",
+        "dub": null,
+        "url": "https://www.animegg.org/irodorimidori-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/104399",
+        "dub": null,
+        "url": "https://www.animegg.org/irodorimidori-episode-8"
+      }
+    ]
   }
 ]
