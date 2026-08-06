@@ -81410,5 +81410,51 @@
         "url": "https://www.animegg.org/princess-principal-crown-handler-movie-2-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8707,
+    "title": "Yakitori",
+    "animegg_url": "https://www.animegg.org/series/yakitori-dub",
+    "mal_url": "https://myanimelist.net/anime/54851",
+    "mal_id": 54851,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/yakitori-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/yakitori-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/yakitori-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/yakitori-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/yakitori-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/yakitori-dub-episode-6"
+      }
+    ]
   }
 ]
