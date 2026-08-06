@@ -79707,5 +79707,75 @@
         "url": "https://www.animegg.org/jojo-s-bizarre-adventure-2000-dub-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8669,
+    "title": "Galaxy Angel 2 (Dub)",
+    "animegg_url": "https://www.animegg.org/series/galaxy-angel-2-dub",
+    "mal_url": "https://myanimelist.net/anime/652",
+    "mal_id": 652,
+    "total_ep": 10,
+    "episodes": [
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/126677",
+        "dub": null,
+        "url": "https://www.animegg.org/galaxy-angel-2-dub-episode-10"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/126669",
+        "dub": null,
+        "url": "https://www.animegg.org/galaxy-angel-2-dub-episode-9"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/126670",
+        "dub": null,
+        "url": "https://www.animegg.org/galaxy-angel-2-dub-episode-8"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/126671",
+        "dub": null,
+        "url": "https://www.animegg.org/galaxy-angel-2-dub-episode-7"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/126672",
+        "dub": null,
+        "url": "https://www.animegg.org/galaxy-angel-2-dub-episode-6"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/126673",
+        "dub": null,
+        "url": "https://www.animegg.org/galaxy-angel-2-dub-episode-5"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/126674",
+        "dub": null,
+        "url": "https://www.animegg.org/galaxy-angel-2-dub-episode-4"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/126675",
+        "dub": null,
+        "url": "https://www.animegg.org/galaxy-angel-2-dub-episode-3"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/126676",
+        "dub": null,
+        "url": "https://www.animegg.org/galaxy-angel-2-dub-episode-2"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/126678",
+        "dub": null,
+        "url": "https://www.animegg.org/galaxy-angel-2-dub-episode-1"
+      }
+    ]
   }
 ]
