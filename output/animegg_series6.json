@@ -56437,5 +56437,81 @@
     "mal_id": 2981,
     "total_ep": 0,
     "episodes": []
+  },
+  {
+    "serial_no": 8264,
+    "title": "Yin Shizong Men Zhang Jiao",
+    "animegg_url": "https://www.animegg.org/series/yin-shizong-men-zhang-jiao",
+    "mal_url": "https://myanimelist.net/anime/58494",
+    "mal_id": 58494,
+    "total_ep": 11,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/133486",
+        "dub": null,
+        "url": "https://www.animegg.org/yin-shizong-men-zhang-jiao-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/133527",
+        "dub": null,
+        "url": "https://www.animegg.org/yin-shizong-men-zhang-jiao-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/133536",
+        "dub": null,
+        "url": "https://www.animegg.org/yin-shizong-men-zhang-jiao-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/yin-shizong-men-zhang-jiao-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/133570",
+        "dub": null,
+        "url": "https://www.animegg.org/yin-shizong-men-zhang-jiao-episode-5"
+      },
+      {
+        "ep": 7,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/yin-shizong-men-zhang-jiao-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/yin-shizong-men-zhang-jiao-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/133905",
+        "dub": null,
+        "url": "https://www.animegg.org/yin-shizong-men-zhang-jiao-episode-9"
+      },
+      {
+        "ep": 49,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/yin-shizong-men-zhang-jiao-episode-49"
+      },
+      {
+        "ep": 50,
+        "sub": "https://www.animegg.org/embed/136699",
+        "dub": null,
+        "url": "https://www.animegg.org/yin-shizong-men-zhang-jiao-episode-50"
+      },
+      {
+        "ep": 52,
+        "sub": "https://www.animegg.org/embed/136881",
+        "dub": null,
+        "url": "https://www.animegg.org/yin-shizong-men-zhang-jiao-episode-52"
+      }
+    ]
   }
 ]
