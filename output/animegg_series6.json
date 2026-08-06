@@ -79336,5 +79336,27 @@
         "url": "https://www.animegg.org/gokushufudou-season-2-dub-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 8660,
+    "title": "Mebius Dust",
+    "animegg_url": "https://www.animegg.org/series/mebius-dust",
+    "mal_url": "https://myanimelist.net/anime/63802",
+    "mal_id": 63802,
+    "total_ep": 2,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/146469",
+        "dub": null,
+        "url": "https://www.animegg.org/mebius-dust-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/146468",
+        "dub": null,
+        "url": "https://www.animegg.org/mebius-dust-episode-2"
+      }
+    ]
   }
 ]
