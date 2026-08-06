@@ -78222,5 +78222,21 @@
         "url": "https://www.animegg.org/dianqi-shaonu-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 8636,
+    "title": "Anime Tenchou Movie",
+    "animegg_url": "https://www.animegg.org/series/anime-tenchou-movie",
+    "mal_url": "https://myanimelist.net/anime/9861",
+    "mal_id": 9861,
+    "total_ep": 1,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/134159",
+        "dub": null,
+        "url": "https://www.animegg.org/anime-tenchou-movie-episode-1"
+      }
+    ]
   }
 ]
