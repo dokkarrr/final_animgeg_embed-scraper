@@ -15083,5 +15083,33 @@
         "url": "https://www.animegg.org/oooku-episode-10"
       }
     ]
+  },
+  {
+    "serial_no": 7694,
+    "title": "Captain Harlock TV",
+    "animegg_url": "https://www.animegg.org/series/captain-harlock-tv",
+    "mal_url": "https://myanimelist.net/anime/1000",
+    "mal_id": 1000,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 27,
+        "sub": "https://www.animegg.org/embed/99337",
+        "dub": null,
+        "url": "https://www.animegg.org/captain-harlock-tv-episode-27"
+      },
+      {
+        "ep": 35,
+        "sub": "https://www.animegg.org/embed/104730",
+        "dub": null,
+        "url": "https://www.animegg.org/captain-harlock-tv-episode-35"
+      },
+      {
+        "ep": 42,
+        "sub": "https://www.animegg.org/embed/99309",
+        "dub": null,
+        "url": "https://www.animegg.org/captain-harlock-tv-episode-42"
+      }
+    ]
   }
 ]
