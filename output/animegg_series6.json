@@ -62643,5 +62643,57 @@
         "url": "https://www.animegg.org/yishi-zhi-zun-china-episode-15"
       }
     ]
+  },
+  {
+    "serial_no": 8363,
+    "title": "Necromancer: King of the Scourge",
+    "animegg_url": "https://www.animegg.org/series/necromancer-king-of-the-scourge",
+    "mal_url": "https://myanimelist.net/anime/345",
+    "mal_id": 345,
+    "total_ep": 7,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/137947",
+        "dub": null,
+        "url": "https://www.animegg.org/necromancer-king-of-the-scourge-episode-1"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/138026",
+        "dub": null,
+        "url": "https://www.animegg.org/necromancer-king-of-the-scourge-episode-8"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/138567",
+        "dub": null,
+        "url": "https://www.animegg.org/necromancer-king-of-the-scourge-episode-10"
+      },
+      {
+        "ep": 16,
+        "sub": "https://www.animegg.org/embed/138771",
+        "dub": null,
+        "url": "https://www.animegg.org/necromancer-king-of-the-scourge-episode-16"
+      },
+      {
+        "ep": 19,
+        "sub": "https://www.animegg.org/embed/138918",
+        "dub": null,
+        "url": "https://www.animegg.org/necromancer-king-of-the-scourge-episode-19"
+      },
+      {
+        "ep": 22,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/necromancer-king-of-the-scourge-episode-22"
+      },
+      {
+        "ep": 23,
+        "sub": null,
+        "dub": null,
+        "url": "https://www.animegg.org/necromancer-king-of-the-scourge-episode-23"
+      }
+    ]
   }
 ]
