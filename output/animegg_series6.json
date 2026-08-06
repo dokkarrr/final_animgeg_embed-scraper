@@ -29955,5 +29955,33 @@
         "url": "https://www.animegg.org/re-hamatora-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 7885,
+    "title": "Dara-san of Reiwa",
+    "animegg_url": "https://www.animegg.org/series/dara-san-of-reiwa",
+    "mal_url": "https://myanimelist.net/anime/63082",
+    "mal_id": 63082,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/146296",
+        "dub": null,
+        "url": "https://www.animegg.org/dara-san-of-reiwa-episode-1"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/146534",
+        "dub": null,
+        "url": "https://www.animegg.org/dara-san-of-reiwa-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/146596",
+        "dub": null,
+        "url": "https://www.animegg.org/dara-san-of-reiwa-episode-5"
+      }
+    ]
   }
 ]
