@@ -80477,5 +80477,51 @@
         "url": "https://www.animegg.org/gatchaman-crowds-dub-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 8683,
+    "title": "Saiki Kusuo no Ψ-nan: Shidou-hen (Dub)",
+    "animegg_url": "https://www.animegg.org/series/saiki-kusuo-no--nan-shidou-hen-dub",
+    "mal_url": "https://myanimelist.net/anime/40542",
+    "mal_id": 40542,
+    "total_ep": 6,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/118441",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-shidou-hen-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/118440",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-shidou-hen-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/118439",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-shidou-hen-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/118438",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-shidou-hen-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/118437",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-shidou-hen-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/118436",
+        "dub": null,
+        "url": "https://www.animegg.org/saiki-kusuo-no--nan-shidou-hen-dub-episode-6"
+      }
+    ]
   }
 ]
