@@ -144582,5 +144582,33 @@
         "url": "https://www.animegg.org/kankin-kuiki-level-x-episode-12"
       }
     ]
+  },
+  {
+    "serial_no": 7124,
+    "title": "Shin Ikkitousen",
+    "animegg_url": "https://www.animegg.org/series/shin-ikkitousen",
+    "mal_url": "https://myanimelist.net/anime/49342",
+    "mal_id": 49342,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/104774",
+        "dub": null,
+        "url": "https://www.animegg.org/shin-ikkitousen-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/104865",
+        "dub": null,
+        "url": "https://www.animegg.org/shin-ikkitousen-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/104923",
+        "dub": null,
+        "url": "https://www.animegg.org/shin-ikkitousen-episode-3"
+      }
+    ]
   }
 ]
