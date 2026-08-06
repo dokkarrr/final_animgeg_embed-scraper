@@ -24506,5 +24506,87 @@
         "url": "https://www.animegg.org/youjo-shachou-episode-1"
       }
     ]
+  },
+  {
+    "serial_no": 7814,
+    "title": "Nami yo Kiitekure (Dub)",
+    "animegg_url": "https://www.animegg.org/series/nami-yo-kiitekure-dub",
+    "mal_url": "https://myanimelist.net/anime/40513",
+    "mal_id": 40513,
+    "total_ep": 12,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/121572",
+        "dub": null,
+        "url": "https://www.animegg.org/nami-yo-kiitekure-dub-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/121568",
+        "dub": null,
+        "url": "https://www.animegg.org/nami-yo-kiitekure-dub-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/121567",
+        "dub": null,
+        "url": "https://www.animegg.org/nami-yo-kiitekure-dub-episode-3"
+      },
+      {
+        "ep": 4,
+        "sub": "https://www.animegg.org/embed/121566",
+        "dub": null,
+        "url": "https://www.animegg.org/nami-yo-kiitekure-dub-episode-4"
+      },
+      {
+        "ep": 5,
+        "sub": "https://www.animegg.org/embed/121565",
+        "dub": null,
+        "url": "https://www.animegg.org/nami-yo-kiitekure-dub-episode-5"
+      },
+      {
+        "ep": 6,
+        "sub": "https://www.animegg.org/embed/121564",
+        "dub": null,
+        "url": "https://www.animegg.org/nami-yo-kiitekure-dub-episode-6"
+      },
+      {
+        "ep": 7,
+        "sub": "https://www.animegg.org/embed/121563",
+        "dub": null,
+        "url": "https://www.animegg.org/nami-yo-kiitekure-dub-episode-7"
+      },
+      {
+        "ep": 8,
+        "sub": "https://www.animegg.org/embed/121562",
+        "dub": null,
+        "url": "https://www.animegg.org/nami-yo-kiitekure-dub-episode-8"
+      },
+      {
+        "ep": 9,
+        "sub": "https://www.animegg.org/embed/121561",
+        "dub": null,
+        "url": "https://www.animegg.org/nami-yo-kiitekure-dub-episode-9"
+      },
+      {
+        "ep": 10,
+        "sub": "https://www.animegg.org/embed/121571",
+        "dub": null,
+        "url": "https://www.animegg.org/nami-yo-kiitekure-dub-episode-10"
+      },
+      {
+        "ep": 11,
+        "sub": "https://www.animegg.org/embed/121570",
+        "dub": null,
+        "url": "https://www.animegg.org/nami-yo-kiitekure-dub-episode-11"
+      },
+      {
+        "ep": 12,
+        "sub": "https://www.animegg.org/embed/121569",
+        "dub": null,
+        "url": "https://www.animegg.org/nami-yo-kiitekure-dub-episode-12"
+      }
+    ]
   }
 ]
