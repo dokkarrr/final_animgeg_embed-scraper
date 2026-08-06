@@ -86567,5 +86567,33 @@
         "url": "https://www.animegg.org/aa-megami-sama-dub-episode-5"
       }
     ]
+  },
+  {
+    "serial_no": 8849,
+    "title": "Uchida Shungicu no Noroi no One-Piece",
+    "animegg_url": "https://www.animegg.org/series/uchida-shungicu-no-noroi-no-one-piece",
+    "mal_url": "https://myanimelist.net/anime/41340",
+    "mal_id": 41340,
+    "total_ep": 3,
+    "episodes": [
+      {
+        "ep": 1,
+        "sub": "https://www.animegg.org/embed/116558",
+        "dub": null,
+        "url": "https://www.animegg.org/uchida-shungicu-no-noroi-no-one-piece-episode-1"
+      },
+      {
+        "ep": 2,
+        "sub": "https://www.animegg.org/embed/116557",
+        "dub": null,
+        "url": "https://www.animegg.org/uchida-shungicu-no-noroi-no-one-piece-episode-2"
+      },
+      {
+        "ep": 3,
+        "sub": "https://www.animegg.org/embed/116556",
+        "dub": null,
+        "url": "https://www.animegg.org/uchida-shungicu-no-noroi-no-one-piece-episode-3"
+      }
+    ]
   }
 ]
